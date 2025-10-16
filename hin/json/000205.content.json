@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179528,
+    "reference_id": 25439,
+    "title": "क्षयर्ष",
+    "media_type": "Text",
+    "index_reference": "क्षयर्ष",
+    "language": "hin",
+    "content": "<h1>क्षयर्ष</h1><h2>तथ्य:</h2><p>क्षयर्ष एक राजा था जिसने फारस के प्राचीन साम्राज्य पर 20 वर्ष राज किया था वाला।</p><ul><li><p>यह वह समय था जब बन्धुआ यहूदी बेबीलोन में थे और बेबीलोन फारसी राजा के अधीन हो गया था।</p></li><li><p>हो सकता है कि इस राजा का दूसरा नाम क्षयर्ष रहा हो।</p></li><li><p>क्रोध में आकर अपनी रानी को पदच्युत करके क्षयर्ष ने एक यहूदी स्त्री, एस्तेर को अपनी पत्नी और रानी बनाया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बेबीलोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">एस्तेर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">इथोपिया</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">बन्धुआई</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan9:1\">दानिय्येल 09:01</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">एस्तेर 10:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra4:7-Ezra4:8\">एज्रा 04:7–8</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H325</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "27009001",
+          "start_ref_usfm": "DAN 9:1",
+          "end_ref": "27009001",
+          "end_ref_usfm": "DAN 9:1"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        },
+        {
+          "start_ref": "15004007",
+          "start_ref_usfm": "EZR 4:7",
+          "end_ref": "15004008",
+          "end_ref_usfm": "EZR 4:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 179784,
+          "label": "एस्तेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 179786,
+          "label": "कूश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 179794,
+          "label": "बँधुआई",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

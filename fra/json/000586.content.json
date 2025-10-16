@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467174,
+    "reference_id": 26037,
+    "title": "Myrrhe",
+    "media_type": "Text",
+    "index_reference": "myrrhe",
+    "language": "fra",
+    "content": "<h1>myrrhe</h1><h2>Définition :</h2><p>La myrrhe est une épice ou une huile qui est fabriquée à partir de la résine d&apos;un arbre du genre commiphoras qui pousse en Afrique et en Asie. Elle est apparentée à l&apos;encens.</p><ul><li><p>La myrrhe a été utilisée pour faire de l&apos;encens, des simples parfums, des médicaments et comme parfum dans la préparation des cadavres pour l&apos;enterrement.</p></li><li><p>La myrrhe a été l&apos;un des cadeaux que les mages ont donné à Jésus quand il est né.</p></li><li><p>On a offert à Jésus du vin mêlé de myrrhe, afin de soulager la douleur quand il a été crucifié.</p></li></ul><p>(Voir aussi : (../other/frankincense.md), (../other/learnedmen.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "01043011",
+          "start_ref_usfm": "GEN 43:11",
+          "end_ref": "01043011",
+          "end_ref_usfm": "GEN 43:11"
+        },
+        {
+          "start_ref": "02030023",
+          "start_ref_usfm": "EXO 30:23",
+          "end_ref": "02030023",
+          "end_ref_usfm": "EXO 30:23"
+        },
+        {
+          "start_ref": "20007017",
+          "start_ref_usfm": "PRO 7:17",
+          "end_ref": "20007017",
+          "end_ref_usfm": "PRO 7:17"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "41015023",
+          "start_ref_usfm": "MRK 15:23",
+          "end_ref": "41015023",
+          "end_ref_usfm": "MRK 15:23"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019039",
+          "end_ref_usfm": "JHN 19:39"
+        },
+        {
+          "start_ref": "02030022",
+          "start_ref_usfm": "EXO 30:22",
+          "end_ref": "02030025",
+          "end_ref_usfm": "EXO 30:25"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25757,
+          "content_id": 466908,
+          "label": "Encens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25962,
+          "content_id": 467102,
+          "label": "Les savants",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26346,
+    "reference_id": 25488,
+    "title": "Assyria",
+    "media_type": "Text",
+    "index_reference": "assyria",
+    "language": "eng",
+    "content": "<h1>Assyria, Assyrian, Assyrian Empire</h1><h2>Facts:</h2><p>Assyria was a powerful nation during the time the Israelites were living in the land of Canaan. The Assyrian Empire was a group of nations ruled by an Assyrian king.</p><ul><li><p>The nation of Assyria was located in a region that is now the northern part of Iraq.</p></li><li><p>The Assyrians fought against Israel at different times in their history.</p></li><li><p>In the year 722 BC, the Assyrians completely conquered the kingdom of Israel and forced many of the Israelites to move to Assyria.</p></li><li><p>The remaining Israelites intermarried with foreigners that the Assyrians had brought into Israel from Samaria. The descendants of those people who intermarried were later called the Samaritans.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:11\">Genesis 10:11</a></p></li><li><p><a href=\"https://ref.ly/Gen25:17-Gen25:18\">Genesis 25:17–18</a></p></li><li><p><a href=\"https://ref.ly/Isa7:16-Isa7:17\">Isaiah 7:16–17</a></p></li><li><p><a href=\"https://ref.ly/Jer50:17\">Jeremiah 50:17</a></p></li><li><p><a href=\"https://ref.ly/Mic7:11-Mic7:13\">Micah 7:11–13</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>20:2</strong> So God punished both kingdoms by allowing their enemies to destroy them. The kingdom of Israel was destroyed by the <strong>Assyrian Empire</strong>, a powerful, cruel nation. The <strong>Assyrians</strong> killed many people in the kingdom of Israel, took away everything of value, and burned much of the country.</p></li><li><p><strong>20:3</strong> The <strong>Assyrians</strong> gathered all the leaders, the rich people, and the people with skills and took them to <strong>Assyria</strong>.</p></li><li><p><strong>20:4</strong> Then the <strong>Assyrians</strong> brought foreigners to live in the land where the kingdom of Israel had been.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0804, H1121</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002014",
+          "start_ref_usfm": "GEN 2:14",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
+        },
+        {
+          "start_ref": "01010011",
+          "start_ref_usfm": "GEN 10:11",
+          "end_ref": "01010011",
+          "end_ref_usfm": "GEN 10:11"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
+        },
+        {
+          "start_ref": "01025018",
+          "start_ref_usfm": "GEN 25:18",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15006022",
+          "start_ref_usfm": "EZR 6:22",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "16009032",
+          "start_ref_usfm": "NEH 9:32",
+          "end_ref": "16009032",
+          "end_ref_usfm": "NEH 9:32"
+        },
+        {
+          "start_ref": "24050017",
+          "start_ref_usfm": "JER 50:17",
+          "end_ref": "24050017",
+          "end_ref_usfm": "JER 50:17"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "33007011",
+          "start_ref_usfm": "MIC 7:11",
+          "end_ref": "33007013",
+          "end_ref_usfm": "MIC 7:13"
+        },
+        {
+          "start_ref": "01025017",
+          "start_ref_usfm": "GEN 25:17",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "23007016",
+          "start_ref_usfm": "ISA 7:16",
+          "end_ref": "23007017",
+          "end_ref_usfm": "ISA 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26192,
+          "content_id": 27050,
+          "label": "Samaria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

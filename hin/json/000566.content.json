@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 179615,
+    "reference_id": 25532,
+    "title": "बतूएल",
+    "media_type": "Text",
+    "index_reference": "बतूएल",
+    "language": "hin",
+    "content": "<h1>बतूएल</h1><h2>तथ्य:</h2><p>बतूएल अब्राहम के भाई नाहोर का पुत्र था।</p><ul><li><p>बतूएल रिबका और लाबान का पिता था।</p></li><li><p>एक नगर का नाम भी बतूएल था जो संभवतः दक्षिणी यहूदा में था जो बेर्शेबा से अधिक दूर नहीं था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">बेर्शेबा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25948\" data-resourceType=\"UWTranslationWords\">लाबान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26040\" data-resourceType=\"UWTranslationWords\">नाहोर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26156\" data-resourceType=\"UWTranslationWords\">रिबका</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 04:29–31</a></p></li><li><p><a href=\"https://ref.ly/Gen28:1-Gen28:2\">उत्पत्ति 28:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1328</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
+        },
+        {
+          "start_ref": "01022023",
+          "start_ref_usfm": "GEN 22:23",
+          "end_ref": "01022023",
+          "end_ref_usfm": "GEN 22:23"
+        },
+        {
+          "start_ref": "01024015",
+          "start_ref_usfm": "GEN 24:15",
+          "end_ref": "01024015",
+          "end_ref_usfm": "GEN 24:15"
+        },
+        {
+          "start_ref": "01024024",
+          "start_ref_usfm": "GEN 24:24",
+          "end_ref": "01024024",
+          "end_ref_usfm": "GEN 24:24"
+        },
+        {
+          "start_ref": "01024047",
+          "start_ref_usfm": "GEN 24:47",
+          "end_ref": "01024047",
+          "end_ref_usfm": "GEN 24:47"
+        },
+        {
+          "start_ref": "01024050",
+          "start_ref_usfm": "GEN 24:50",
+          "end_ref": "01024050",
+          "end_ref_usfm": "GEN 24:50"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028002",
+          "start_ref_usfm": "GEN 28:2",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "13004030",
+          "start_ref_usfm": "1CH 4:30",
+          "end_ref": "13004030",
+          "end_ref_usfm": "1CH 4:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25519,
+          "content_id": 179604,
+          "label": "बेर्शेबा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 180014,
+          "label": "लाबान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 180104,
+          "label": "नाहोर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 180214,
+          "label": "रिबका",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

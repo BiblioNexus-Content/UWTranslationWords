@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467131,
+    "reference_id": 25993,
+    "title": "Manassé",
+    "media_type": "Text",
+    "index_reference": "manassé",
+    "language": "fra",
+    "content": "<h1>Manassé</h1><h2>Définition :</h2><p>&quot;Il y avait cinq hommes designés par le nom de Manassé dans l&apos;Ancien Testament:</p><ul><li><p>Manassé était le nom du fils aîné de Joseph.</p></li><li><p>Manassé et son jeune frère Ephraïm ont été adoptés par le père de Joseph, Jacob qui a donné à leurs descendants le privilège d&apos;être parmi les douze tribus d&apos;Israël.</p></li><li><p>Les descendants de Manassé formés l&apos;une des tribus d&apos;Israël.</p></li><li><p>La tribu de Manassé a été souvent appelé la «demi-tribu de Manassé&quot; parce qu&apos;une partie de la tribu a été installé dans le pays de Canaan, sur le côté ouest du fleuve Jourdain* L&apos;autre partie de la tribu installé sur le côté est du Jourdain.</p></li><li><p>L&apos;un des rois de Juda a également été nommé Manassé.</p></li><li><p>Le roi Manassé était un mauvais roi qui a sacrifié ses propres enfants comme holocaustes à de faux dieux.</p></li><li><p>Dieu a puni le roi Manassé en permettant à une armée ennemie de le capturé * Manassé se tourna vers Dieu et détruisit les autels où les idoles étaient adorées.</p></li><li><p>Deux hommes nommés Manassé ont vécu pendant le temps d&apos;Esdras qui avaient chacun épousé une femme étrangère* Ces hommes devaient divorcer de leurs femmes en raison de la mauvaise influence de leurs dieux étrangers.</p></li><li><p>Un autre Manassé était le grand-père de certains Danites qui étaient prêtres pour des fausses idoles.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/altar.md), (../names/dan.md), (../names/ephraim.md), (../names/ezra.md), (../kt/falsegod.md), (../names/jacob.md), (../names/judah.md), (../other/pagan.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041051",
+          "start_ref_usfm": "GEN 41:51",
+          "end_ref": "01041051",
+          "end_ref_usfm": "GEN 41:51"
+        },
+        {
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048001",
+          "end_ref_usfm": "GEN 48:1"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01048013",
+          "start_ref_usfm": "GEN 48:13",
+          "end_ref": "01048013",
+          "end_ref_usfm": "GEN 48:13"
+        },
+        {
+          "start_ref": "01048014",
+          "start_ref_usfm": "GEN 48:14",
+          "end_ref": "01048014",
+          "end_ref_usfm": "GEN 48:14"
+        },
+        {
+          "start_ref": "01048017",
+          "start_ref_usfm": "GEN 48:17",
+          "end_ref": "01048017",
+          "end_ref_usfm": "GEN 48:17"
+        },
+        {
+          "start_ref": "01048020",
+          "start_ref_usfm": "GEN 48:20",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "01050023",
+          "start_ref_usfm": "GEN 50:23",
+          "end_ref": "01050023",
+          "end_ref_usfm": "GEN 50:23"
+        },
+        {
+          "start_ref": "14015009",
+          "start_ref_usfm": "2CH 15:9",
+          "end_ref": "14015009",
+          "end_ref_usfm": "2CH 15:9"
+        },
+        {
+          "start_ref": "40001010",
+          "start_ref_usfm": "MAT 1:10",
+          "end_ref": "40001010",
+          "end_ref_usfm": "MAT 1:10"
+        },
+        {
+          "start_ref": "66007006",
+          "start_ref_usfm": "REV 7:6",
+          "end_ref": "66007006",
+          "end_ref_usfm": "REV 7:6"
+        },
+        {
+          "start_ref": "05003012",
+          "start_ref_usfm": "DEU 3:12",
+          "end_ref": "05003013",
+          "end_ref_usfm": "DEU 3:13"
+        },
+        {
+          "start_ref": "07001027",
+          "start_ref_usfm": "JDG 1:27",
+          "end_ref": "07001028",
+          "end_ref_usfm": "JDG 1:28"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048002",
+          "end_ref_usfm": "GEN 48:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 466868,
+          "label": "Ephraim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

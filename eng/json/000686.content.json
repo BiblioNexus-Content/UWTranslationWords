@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26960,
+    "reference_id": 26102,
+    "title": "Phonecia",
+    "media_type": "Text",
+    "index_reference": "phonecia",
+    "language": "eng",
+    "content": "<h1>Phoenicia, Syrophoenician</h1><h2>Facts:</h2><p>In ancient times, Phoenicia was a wealthy nation located in Canaan along the coast of the Mediterranean Sea, north of Israel.</p><ul><li><p>Phoenicia occupied an area of land that was in the western region of what is the present-day country of Lebanon.</p></li><li><p>In New Testament times, the capital of Phoenicia was Tyre. Another important Phoenician city was Sidon. Phoenicia was near Syria, so people from that area were called “Syrophoenician.”</p></li><li><p>Phoenicians were well-known for their woodworking skills using their country’s plentiful cedar trees, for their production of a costly purple dye, and for their ability to travel and trade by sea. They were also highly skilled boat builders.</p></li><li><p>One of the earliest alphabets was created by the Phoenician people. Their alphabet was widely used because of their contact with many people groups through trading.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">cedar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26143\" data-resourceType=\"UWTranslationWords\">purple</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26232\" data-resourceType=\"UWTranslationWords\">Sidon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26326\" data-resourceType=\"UWTranslationWords\">Tyre</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts11:19-Acts11:21\">Acts 11:19–21</a></p></li><li><p><a href=\"https://ref.ly/Acts15:3-Acts15:4\">Acts 15:3–4</a></p></li><li><p><a href=\"https://ref.ly/Acts21:2\">Acts 21:2</a></p></li><li><p><a href=\"https://ref.ly/Isa23:10-Isa23:12\">Isaiah 23:10–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3667, G49490, G54030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44015003",
+          "start_ref_usfm": "ACT 15:3",
+          "end_ref": "44015003",
+          "end_ref_usfm": "ACT 15:3"
+        },
+        {
+          "start_ref": "44021002",
+          "start_ref_usfm": "ACT 21:2",
+          "end_ref": "44021002",
+          "end_ref_usfm": "ACT 21:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        },
+        {
+          "start_ref": "44015003",
+          "start_ref_usfm": "ACT 15:3",
+          "end_ref": "44015004",
+          "end_ref_usfm": "ACT 15:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 26436,
+          "label": "Cedar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26143,
+          "content_id": 27001,
+          "label": "Purple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26232,
+          "content_id": 27090,
+          "label": "Sidon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26326,
+          "content_id": 27184,
+          "label": "Tyre",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

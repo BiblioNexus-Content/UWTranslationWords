@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237825,
+    "reference_id": 25692,
+    "title": "Elão",
+    "media_type": "Text",
+    "index_reference": "elão",
+    "language": "por",
+    "content": "<h1>Elão, Elamitas</h1><h2>Fatos:</h2><p>Elão era filho de Sem e neto de Noé.</p><ul><li><p>Os descendentes de Elão eram chamados de “Elamitas” e viviam em uma região que também era chamada de “Elão”.</p></li><li><p>A região de Elão estava localizada a sudeste do rio Tigre, no que hoje é o oeste do Irã.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Sem</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:17-1Chr1:19\">1 Crônicas 1.17–19</a></p></li><li><p><a href=\"https://ref.ly/Acts2:9\">Atos 2.9</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:4-Ezra8:7\">Esdras 8.4–7</a></p></li><li><p><a href=\"https://ref.ly/Isa22:6\">Isaías 22.6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5867, H5962, G16390</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014001",
+          "end_ref_usfm": "GEN 14:1"
+        },
+        {
+          "start_ref": "01014009",
+          "start_ref_usfm": "GEN 14:9",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
+        },
+        {
+          "start_ref": "23022006",
+          "start_ref_usfm": "ISA 22:6",
+          "end_ref": "23022006",
+          "end_ref_usfm": "ISA 22:6"
+        },
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001019",
+          "end_ref_usfm": "1CH 1:19"
+        },
+        {
+          "start_ref": "15008004",
+          "start_ref_usfm": "EZR 8:4",
+          "end_ref": "15008007",
+          "end_ref_usfm": "EZR 8:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 238354,
+          "label": "Sem",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

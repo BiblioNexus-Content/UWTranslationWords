@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466930,
+    "reference_id": 25781,
+    "title": "Galaad",
+    "media_type": "Text",
+    "index_reference": "galaad",
+    "language": "fra",
+    "content": "<h1>Galaad</h1><h2>Définition :</h2><p>&quot;Galaad est le nom d&apos;une région montagneuse à l&apos;est du Jourdain, où les tribus israélites de Gad, Ruben et Manassé vivaient.</p><ul><li><p>Le «pays des collines de Galaad&quot; ou &quot;Mont Galaad&quot; était ainsi nommé à cause de la nature accidentée de son terrain.</p></li><li><p>&quot;Galaad&quot; était aussi le nom de plusieurs hommes dans l&apos;Ancien Testament* L&apos;un de ces hommes était le petit-fils de Manassé.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/gad.md), (../names/jephthah.md), (../names/manasseh.md), (../names/reuben.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031021",
+          "start_ref_usfm": "GEN 31:21",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        },
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "01031025",
+          "start_ref_usfm": "GEN 31:25",
+          "end_ref": "01031025",
+          "end_ref_usfm": "GEN 31:25"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "09011001",
+          "start_ref_usfm": "1SA 11:1",
+          "end_ref": "09011001",
+          "end_ref_usfm": "1SA 11:1"
+        },
+        {
+          "start_ref": "13002022",
+          "start_ref_usfm": "1CH 2:22",
+          "end_ref": "13002022",
+          "end_ref_usfm": "1CH 2:22"
+        },
+        {
+          "start_ref": "16007063",
+          "start_ref_usfm": "NEH 7:63",
+          "end_ref": "16007063",
+          "end_ref_usfm": "NEH 7:63"
+        },
+        {
+          "start_ref": "22006005",
+          "start_ref_usfm": "SNG 6:5",
+          "end_ref": "22006005",
+          "end_ref_usfm": "SNG 6:5"
+        },
+        {
+          "start_ref": "30001003",
+          "start_ref_usfm": "AMO 1:3",
+          "end_ref": "30001003",
+          "end_ref_usfm": "AMO 1:3"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "05002036",
+          "start_ref_usfm": "DEU 2:36",
+          "end_ref": "05002037",
+          "end_ref_usfm": "DEU 2:37"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 466915,
+          "label": "Gad",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25894,
+          "content_id": 467039,
+          "label": "Jephté",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 467131,
+          "label": "Manassé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26174,
+          "content_id": 467294,
+          "label": "Ruben",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

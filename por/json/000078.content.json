@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 237688,
+    "reference_id": 25553,
+    "title": "Arma de arco",
+    "media_type": "Text",
+    "index_reference": "arma de arco",
+    "language": "por",
+    "content": "<h1>arco e flecha, um arco</h1><h2>Definição:</h2><p>Este é um tipo de arma que consiste em disparar flechas de um arco de corda. Nos tempos bíblicos, era usado para lutar contra inimigos e para matar animais para alimentação.</p><ul><li><p>O arco é feito de madeira, osso, metal ou outro material duro, como o chifre de um cervo. Tem uma forma curva e é firmemente amarrado com uma corda, fio ou cipó. Quando não estava em uso, a corda do arco não era presa a ambas as extremidades do arco para que o arco não ficasse sob a pressão de estar dobrado o tempo todo. Ao se preparar para lutar, um guerreiro dobrava o arco e prendia a corda em ambas as extremidades.</p></li><li><p>Uma flecha é um eixo fino com uma ponta afiada em uma extremidade. Nos tempos antigos, as flechas podiam ser feitas de uma variedade de materiais, como madeira, osso, pedra ou metal.</p></li><li><p>Arcos e flechas são comumente usados por caçadores e guerreiros.</p></li><li><p>O termo “flecha” também é às vezes usado figurativamente na Bíblia para se referir a ataques inimigos ou julgamento divino.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen21:16\">Gênesis 21.16</a></p></li><li><p><a href=\"https://ref.ly/Hab3:9-Hab3:10\">Habacuque 3.9–10</a></p></li><li><p><a href=\"https://ref.ly/Job29:20-Job29:22\">Jó 29.20–22</a></p></li><li><p><a href=\"https://ref.ly/Lam2:4\">Lamentações 2.4</a></p></li><li><p><a href=\"https://ref.ly/Ps58:6-Ps58:8\">Salmos 58.6–8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2671, H7198, G51150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009013",
+          "start_ref_usfm": "GEN 9:13",
+          "end_ref": "01009013",
+          "end_ref_usfm": "GEN 9:13"
+        },
+        {
+          "start_ref": "01009014",
+          "start_ref_usfm": "GEN 9:14",
+          "end_ref": "01009014",
+          "end_ref_usfm": "GEN 9:14"
+        },
+        {
+          "start_ref": "01009016",
+          "start_ref_usfm": "GEN 9:16",
+          "end_ref": "01009016",
+          "end_ref_usfm": "GEN 9:16"
+        },
+        {
+          "start_ref": "01021016",
+          "start_ref_usfm": "GEN 21:16",
+          "end_ref": "01021016",
+          "end_ref_usfm": "GEN 21:16"
+        },
+        {
+          "start_ref": "01027003",
+          "start_ref_usfm": "GEN 27:3",
+          "end_ref": "01027003",
+          "end_ref_usfm": "GEN 27:3"
+        },
+        {
+          "start_ref": "01048022",
+          "start_ref_usfm": "GEN 48:22",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "01049023",
+          "start_ref_usfm": "GEN 49:23",
+          "end_ref": "01049023",
+          "end_ref_usfm": "GEN 49:23"
+        },
+        {
+          "start_ref": "01049024",
+          "start_ref_usfm": "GEN 49:24",
+          "end_ref": "01049024",
+          "end_ref_usfm": "GEN 49:24"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029020",
+          "end_ref_usfm": "JOB 29:20"
+        },
+        {
+          "start_ref": "20007023",
+          "start_ref_usfm": "PRO 7:23",
+          "end_ref": "20007023",
+          "end_ref_usfm": "PRO 7:23"
+        },
+        {
+          "start_ref": "20025018",
+          "start_ref_usfm": "PRO 25:18",
+          "end_ref": "20025018",
+          "end_ref_usfm": "PRO 25:18"
+        },
+        {
+          "start_ref": "20026018",
+          "start_ref_usfm": "PRO 26:18",
+          "end_ref": "20026018",
+          "end_ref_usfm": "PRO 26:18"
+        },
+        {
+          "start_ref": "25002004",
+          "start_ref_usfm": "LAM 2:4",
+          "end_ref": "25002004",
+          "end_ref_usfm": "LAM 2:4"
+        },
+        {
+          "start_ref": "66006002",
+          "start_ref_usfm": "REV 6:2",
+          "end_ref": "66006002",
+          "end_ref_usfm": "REV 6:2"
+        },
+        {
+          "start_ref": "35003009",
+          "start_ref_usfm": "HAB 3:9",
+          "end_ref": "35003010",
+          "end_ref_usfm": "HAB 3:10"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029022",
+          "end_ref_usfm": "JOB 29:22"
+        },
+        {
+          "start_ref": "19058006",
+          "start_ref_usfm": "PSA 58:6",
+          "end_ref": "19058008",
+          "end_ref_usfm": "PSA 58:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180223,
+    "reference_id": 26165,
+    "title": "रहूबियाम",
+    "media_type": "Text",
+    "index_reference": "रहूबियाम",
+    "language": "hin",
+    "content": "<h1>रहूबियाम</h1><h2>तथ्य:</h2><p>रहूबियाम राजा सुलैमान के पुत्रों में से एक था, और सुलैमान के मरने के बाद वह इस्राएल देश का राजा बना।</p><ul><li><p>अपने शासन की शुरुआत में, रहूबियाम अपने लोगों के साथ कठोर था, इसलिए इस्राएल के दस गोत्रों ने उसके खिलाफ विद्रोह किया और उत्तर में &quot;इस्राएल का राज्य&quot; बनाया।</p></li><li><p>रहूबियाम यहूदा के दक्षिणी राज्य के राजा के रूप में बना रहा, जिसमें शेष दो गोत्र, यहूदा और बिन्यामीन शामिल थे।</p></li><li><p>रहूबियाम एक दुष्ट राजा था जो यहोवा की बात नहीं मानता था, परन्तु झूठे देवताओं की उपासना करता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">इस्राएल राज्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 3:10</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 11:41–43</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 14:21</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7\">मत्ती 01:7</a></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">18:05</a> सुलैमान की मृत्यु के बाद उसका पुत्र <strong>रहूबियाम</strong> उसके स्थान पर राजा हुआ | <strong>रहूबियाम</strong> एक मुर्ख मनुष्य था |</p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">18:06</a> <strong>रहूबियाम</strong> ने मूर्खता से उत्तर दिया, और उन से कहा, “तुम ने सोचा, कि मेरे पिता सुलैमान ने तुम से कठिन परिश्रम कराया है, परन्तु मैं तुम से उस से अधिक परिश्रम करवाऊंगा, और उस से भी अधिक कठोर दण्ड दूंगा।”</p></li><li><p><strong>18:07</strong> इस्राएल राष्ट्र के दस गोत्रों ने <strong>रहूबियाम</strong> के विरुद्ध विद्रोह किया। केवल दो जनजातियाँ उसके प्रति वफादार रहीं।</p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H7346, G44970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003010",
+          "end_ref_usfm": "1CH 3:10"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "11011041",
+          "start_ref_usfm": "1KI 11:41",
+          "end_ref": "11011043",
+          "end_ref_usfm": "1KI 11:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 180008,
+          "label": "इस्राएल के राज्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 180009,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

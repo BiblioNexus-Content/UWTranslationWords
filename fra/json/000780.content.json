@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 467016,
+    "reference_id": 25870,
+    "title": "Se renseigner",
+    "media_type": "Text",
+    "index_reference": "se renseigner",
+    "language": "fra",
+    "content": "<h1>Se renseigner</h1><h2>Définition :</h2><p>&quot;Le terme &quot; se renseigner&quot; signifie demander une information à quelqu&apos;un.</p><ul><li><p>L&apos; Ancien Testament a mentionné plusieurs cas où le peuple se renseignait sur Dieu.</p></li><li><p>Le mot peut aussi être utilisé par un roi ou un officier du gouvernement faisant une recherche dans un document officiel enregisté.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02018015",
+          "start_ref_usfm": "EXO 18:15",
+          "end_ref": "02018015",
+          "end_ref_usfm": "EXO 18:15"
+        },
+        {
+          "start_ref": "05019018",
+          "start_ref_usfm": "DEU 19:18",
+          "end_ref": "05019018",
+          "end_ref_usfm": "DEU 19:18"
+        },
+        {
+          "start_ref": "15007014",
+          "start_ref_usfm": "EZR 7:14",
+          "end_ref": "15007014",
+          "end_ref_usfm": "EZR 7:14"
+        },
+        {
+          "start_ref": "18010007",
+          "start_ref_usfm": "JOB 10:7",
+          "end_ref": "18010007",
+          "end_ref_usfm": "JOB 10:7"
+        },
+        {
+          "start_ref": "26020001",
+          "start_ref_usfm": "EZK 20:1",
+          "end_ref": "26020001",
+          "end_ref_usfm": "EZK 20:1"
+        },
+        {
+          "start_ref": "26020030",
+          "start_ref_usfm": "EZK 20:30",
+          "end_ref": "26020032",
+          "end_ref_usfm": "EZK 20:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

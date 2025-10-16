@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466984,
+    "reference_id": 25837,
+    "title": "Hilkija",
+    "media_type": "Text",
+    "index_reference": "hilkija",
+    "language": "fra",
+    "content": "<h1>Hilkija</h1><h2>Définition :</h2><p>&quot;Hilkijah était le nom d&apos;un grand prètre pendant le règne du roi Josias.</p><ul><li><p>Quand le temple fut réparé, Hilikija le grand prête a trouvé le Livre de la Loi et a ordonné de l&apos;amener au Roi Josias.</p></li><li><p>Après que le livre de la Loi fut lu pour le Roi, Josias fut attristé et recommanda au peuple de Judée d&apos;adorer Yahweh et d&apos;obeir à ses Lois.</p></li><li><p>Un autre homme appelé Hilkija était le fils d&apos;Eliakim et travaillait dans le palais durant le règne du Roi Ezéchias</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/eliakim.md), (../names/hezekiah.md), (../kt/highpriest.md), (../names/josiah.md), (../names/kingdomofjudah.md), (../other/law.md), (../kt/worship.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018018",
+          "start_ref_usfm": "2KI 18:18",
+          "end_ref": "12018018",
+          "end_ref_usfm": "2KI 18:18"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007001",
+          "end_ref_usfm": "EZR 7:1"
+        },
+        {
+          "start_ref": "16008004",
+          "start_ref_usfm": "NEH 8:4",
+          "end_ref": "16008004",
+          "end_ref_usfm": "NEH 8:4"
+        },
+        {
+          "start_ref": "16011011",
+          "start_ref_usfm": "NEH 11:11",
+          "end_ref": "16011011",
+          "end_ref_usfm": "NEH 11:11"
+        },
+        {
+          "start_ref": "16012007",
+          "start_ref_usfm": "NEH 12:7",
+          "end_ref": "16012007",
+          "end_ref_usfm": "NEH 12:7"
+        },
+        {
+          "start_ref": "16012021",
+          "start_ref_usfm": "NEH 12:21",
+          "end_ref": "16012021",
+          "end_ref_usfm": "NEH 12:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25696,
+          "content_id": 466856,
+          "label": "Eliakim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 466981,
+          "label": "Ezéchias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 467066,
+          "label": "Josias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 467465,
+          "label": "Adorer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

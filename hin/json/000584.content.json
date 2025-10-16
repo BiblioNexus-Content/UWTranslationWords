@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179587,
+    "reference_id": 25499,
+    "title": "बाबेल",
+    "media_type": "Text",
+    "index_reference": "बाबेल",
+    "language": "hin",
+    "content": "<h1>बाबेल</h1><h2>तथ्य:</h2><p>बाबेल मेसोपोटामिया क्षेत्र के दक्षिण में शिनार प्रदेश का एक मुख्य नगर था। शिनार आगे चलकर बेबीलोन कहलाया था।</p><ul><li><p>बाबेल नगर हाम के परपोते, निम्रोद-शिनार का शासक-द्वारा स्थापित किया गया था।</p></li><li><p>शिनारवासी घमण्ड से भरकर स्वर्ग तक ऊंचे मन्दिर का निर्माण करना चाहते थे। इस मीनार का नाम आगे चलकर “बेबीलोन का गुम्मट” पड़ा था।</p></li><li><p>इस मीनार का निर्माण करने वालों ने पृथ्वी पर फैल जाने की परमेश्वर की आज्ञा का पालन नहीं किया था, इसलिए परमेश्वर ने उनकी भाषाओं को अलग-अलग कर दिया जिससे कि वे एक दूसरे की बात समझ नहीं पाए। इस कारण वे विवश होकर एक दूसरे से अलग हो गए और पृथ्वी के विभिन्न स्थानों में जाकर बस गए।</p></li><li><p>“बाबेल” शब्द का अर्थ है “उलझन” परमेश्वर ने उनकी भाषा में उलझन उत्पन्न कर दी थी इसलिए उस स्थान का यह नाम पड़ गया था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">हाम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26014\" data-resourceType=\"UWTranslationWords\">मिसोपोतामिया</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:8-Gen10:10\">उत्पत्ति 10:8–10</a></p></li><li><p><a href=\"https://ref.ly/Gen11:8-Gen11:9\">उत्पत्ति 11:8–9</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H894</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01010008",
+          "start_ref_usfm": "GEN 10:8",
+          "end_ref": "01010010",
+          "end_ref_usfm": "GEN 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 179884,
+          "label": "हाम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26014,
+          "content_id": 180078,
+          "label": "मेसोपोटामिया",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

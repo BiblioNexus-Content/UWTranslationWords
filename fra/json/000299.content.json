@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467267,
+    "reference_id": 26146,
+    "title": "Éteindre",
+    "media_type": "Text",
+    "index_reference": "éteindre",
+    "language": "fra",
+    "content": "<h1>éteindre</h1><h2>Définition :</h2><p>Le terme «éteindre» signifie stopper ou arrêter quelque chose qui doit continuer.</p><ul><li><p>Ce terme est généralement utilisé dans le contexte d&apos;étancher la soif.</p></li><li><p>Il peut également être utilisé pour se référer à éteindre un incendie.</p></li><li><p>Dans Les deux cas la soif et le feu sont éteints par l&apos;eau.</p></li></ul><p>(Voir aussi : (../other/fruit.md), (../kt/gift.md), (../kt/holyspirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001031",
+          "start_ref_usfm": "ISA 1:31",
+          "end_ref": "23001031",
+          "end_ref_usfm": "ISA 1:31"
+        },
+        {
+          "start_ref": "24021012",
+          "start_ref_usfm": "JER 21:12",
+          "end_ref": "24021012",
+          "end_ref_usfm": "JER 21:12"
+        },
+        {
+          "start_ref": "26020047",
+          "start_ref_usfm": "EZK 20:47",
+          "end_ref": "26020047",
+          "end_ref_usfm": "EZK 20:47"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "41009048",
+          "start_ref_usfm": "MRK 9:48",
+          "end_ref": "41009048",
+          "end_ref_usfm": "MRK 9:48"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "52005019",
+          "start_ref_usfm": "1TH 5:19",
+          "end_ref": "52005019",
+          "end_ref_usfm": "1TH 5:19"
+        },
+        {
+          "start_ref": "58011034",
+          "start_ref_usfm": "HEB 11:34",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25760,
+          "content_id": 466911,
+          "label": "Fruits",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 466991,
+          "label": "Saint-Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

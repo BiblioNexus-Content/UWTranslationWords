@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238095,
+    "reference_id": 25964,
+    "title": "Leopardo",
+    "media_type": "Text",
+    "index_reference": "leopardo",
+    "language": "por",
+    "content": "<h1>leopardo</h1><h2>Fatos:</h2><p>Um leopardo é um grande animal selvagem, semelhante a um gato, que é marrom com manchas pretas.</p><ul><li><p>Um leopardo é um tipo de animal que captura outros animais e os come.</p></li><li><p>Na Bíblia, a rapidez do desastre é comparada a um leopardo, que ataca de repente sua presa.</p></li><li><p>O profeta Daniel e o apóstolo João falam sobre visões nas quais viram uma besta que parecia um leopardo.</p></li></ul><p>(Veja também: Como Traduzir Desconhecidos)</p><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25517\" data-resourceType=\"UWTranslationWords\">besta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">presa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26338\" data-resourceType=\"UWTranslationWords\">visão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan7:6\">Daniel 7.6</a></p></li><li><p><a href=\"https://ref.ly/Hos13:7\">Oséias 13.7</a></p></li><li><p><a href=\"https://ref.ly/Rev13:1-Rev13:2\">Apocalipse 13.1–2</a></p></li><li><p><a href=\"https://ref.ly/Song4:8\">Cânticos 4.8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5245, H5246</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "27007006",
+          "start_ref_usfm": "DAN 7:6",
+          "end_ref": "27007006",
+          "end_ref_usfm": "DAN 7:6"
+        },
+        {
+          "start_ref": "28013007",
+          "start_ref_usfm": "HOS 13:7",
+          "end_ref": "28013007",
+          "end_ref_usfm": "HOS 13:7"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25517,
+          "content_id": 237653,
+          "label": "Besta",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 238250,
+          "label": "Presa",
+          "language": "por"
+        },
+        {
+          "reference_id": 26338,
+          "content_id": 238464,
+          "label": "Visão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

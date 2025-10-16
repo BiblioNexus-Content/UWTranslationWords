@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179660,
+    "reference_id": 25581,
+    "title": "भूसी",
+    "media_type": "Text",
+    "index_reference": "भूसी",
+    "language": "hin",
+    "content": "<h1>भूसी</h1><h2>परिभाषा:</h2><p>भूसी गेहूं की रक्षात्मक आवरण होती है जिसे सूखे गेहूं से अलग किया जाता है। भूसी खाने योग्य नहीं होती है इसलिए उसे गेहूं से अलग करके फेंक दिया जाता था।</p><ul><li><p>अन्न को हवा में उछालने से भूसी उड़कर गेहूं से अलग हो जाती है। भूसी हवा में उड़ जाती थी और अन्न के दाने नीचे भूमि पर गिर जाते थे। इस प्रक्रिया को &quot;सूप&quot; कहते हैं।</p></li><li><p>बाइबल में इस शब्द को दुष्ट जनों तथा दुष्टता की निकम्मी बातों के लिए प्रतीकात्मक रूप में काम में लिया गया है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">अन्न</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26345\" data-resourceType=\"UWTranslationWords\">गेहूं</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26349\" data-resourceType=\"UWTranslationWords\">हवा में उड़ाना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan2:35\">दानिय्येल 2:35</a></p></li><li><p><a href=\"https://ref.ly/Job21:18\">अय्यूब 21:18</a></p></li><li><p><a href=\"https://ref.ly/Luke3:17\">लूका 3:17</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">मत्ती 3:12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2842, H4671, H5784, H8401, G08920</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18021018",
+          "start_ref_usfm": "JOB 21:18",
+          "end_ref": "18021018",
+          "end_ref_usfm": "JOB 21:18"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25801,
+          "content_id": 179872,
+          "label": "अन्न",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26345,
+          "content_id": 180397,
+          "label": "गेहूँ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 180401,
+          "label": "ओसाई",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

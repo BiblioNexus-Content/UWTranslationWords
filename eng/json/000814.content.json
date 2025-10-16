@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 27087,
+    "reference_id": 26229,
+    "title": "Shimei",
+    "media_type": "Text",
+    "index_reference": "shimei",
+    "language": "eng",
+    "content": "<h1>Shimei</h1><h2>Definition:</h2><p>Shimei was the name of several men in the Old Testament.</p><ul><li><p>Shimei son of Gera was a Benjamite who cursed King David and threw stones at him as he was fleeing Jerusalem to escape being killed by his son Absalom.</p></li><li><p>There were also several Levite priests in the Old Testament who were named Shimei.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">Absalom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:17\">1 Chronicles 6:17</a></p></li><li><p><a href=\"https://ref.ly/1Kgs1:8\">1 Kings 1:8</a></p></li><li><p><a href=\"https://ref.ly/2Sam16:13\">2 Samuel 16:13</a></p></li><li><p><a href=\"https://ref.ly/Zech12:12-Zech12:14\">Zechariah 12:12–14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H8096, H8097</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10016013",
+          "start_ref_usfm": "2SA 16:13",
+          "end_ref": "10016013",
+          "end_ref_usfm": "2SA 16:13"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "13006017",
+          "start_ref_usfm": "1CH 6:17",
+          "end_ref": "13006017",
+          "end_ref_usfm": "1CH 6:17"
+        },
+        {
+          "start_ref": "38012012",
+          "start_ref_usfm": "ZEC 12:12",
+          "end_ref": "38012014",
+          "end_ref_usfm": "ZEC 12:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 26283,
+          "label": "Absalom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 26384,
+          "label": "Benjamin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

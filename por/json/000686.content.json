@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237754,
+    "reference_id": 25620,
+    "title": "Pátio",
+    "media_type": "Text",
+    "index_reference": "pátio",
+    "language": "por",
+    "content": "<h1>pátio, pátio interno</h1><h2>Definição:</h2><p>Os termos “pátio” e “pátio interno” referem-se a uma área fechada que é aberta para o céu e cercada por paredes.</p><ul><li><p>O tabernáculo era cercado por um pátio que era fechado por paredes feitas de cortinas grossas de tecido.</p></li><li><p>O complexo do templo tinha três pátios internos: um para os sacerdotes, um para os homens judeus e um para as mulheres judias.</p></li><li><p>Esses pátios internos eram cercados por um muro baixo de pedra que os separava de um pátio externo onde os gentios podiam adorar.</p></li><li><p>O pátio de uma casa era uma área aberta no meio da casa.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Os termos &quot;pátio&quot; e “pátio interno” poderiam ser traduzidos como “espaço fechado” ou “terreno murado” ou &quot;espaço murado&quot; ou &quot;terreno do tabernáculo&quot; ou “terreno do templo” ou “recinto do templo” dependendo do contexto.</p></li><li><p>Se for natural em seu idioma, o termo usado para o pátio de um rei também poderia ser usado para se referir ao pátio de Yahweh.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">Gentio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26278\" data-resourceType=\"UWTranslationWords\">tabernáculo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs20:4-2Kgs20:5\">2 Reis 20.4–5</a></p></li><li><p><a href=\"https://ref.ly/Exod27:9\">Êxodo 27.9</a></p></li><li><p><a href=\"https://ref.ly/Jer19:14-Jer19:15\">Jeremias 19.14–15</a></p></li><li><p><a href=\"https://ref.ly/Luke22:55\">Lucas 22.55</a></p></li><li><p><a href=\"https://ref.ly/Matt26:69-Matt26:70\">Mateus 26.69–70</a></p></li><li><p><a href=\"https://ref.ly/Num3:26\">Números 3.26</a></p></li><li><p><a href=\"https://ref.ly/Ps65:4\">Salmos 65.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1004, H1508, H2691, H5835, H7339, H8651, G08330, G42590</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02027009",
+          "start_ref_usfm": "EXO 27:9",
+          "end_ref": "02027009",
+          "end_ref_usfm": "EXO 27:9"
+        },
+        {
+          "start_ref": "04003026",
+          "start_ref_usfm": "NUM 3:26",
+          "end_ref": "04003026",
+          "end_ref_usfm": "NUM 3:26"
+        },
+        {
+          "start_ref": "19065004",
+          "start_ref_usfm": "PSA 65:4",
+          "end_ref": "19065004",
+          "end_ref_usfm": "PSA 65:4"
+        },
+        {
+          "start_ref": "42022055",
+          "start_ref_usfm": "LUK 22:55",
+          "end_ref": "42022055",
+          "end_ref_usfm": "LUK 22:55"
+        },
+        {
+          "start_ref": "24019014",
+          "start_ref_usfm": "JER 19:14",
+          "end_ref": "24019015",
+          "end_ref_usfm": "JER 19:15"
+        },
+        {
+          "start_ref": "12020004",
+          "start_ref_usfm": "2KI 20:4",
+          "end_ref": "12020005",
+          "end_ref_usfm": "2KI 20:5"
+        },
+        {
+          "start_ref": "40026069",
+          "start_ref_usfm": "MAT 26:69",
+          "end_ref": "40026070",
+          "end_ref_usfm": "MAT 26:70"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25773,
+          "content_id": 237906,
+          "label": "Gentio",
+          "language": "por"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 238407,
+          "label": "Tabernáculo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 238413,
+          "label": "Templo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

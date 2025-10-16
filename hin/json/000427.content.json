@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179575,
+    "reference_id": 25487,
+    "title": "नियुक्त करना",
+    "media_type": "Text",
+    "index_reference": "नियुक्त करना",
+    "language": "hin",
+    "content": "<h1>नियुक्त करना, बांटा, काम सौंपना, फिर देना</h1><h2>तथ्य:</h2><p>“नियुक्त करना” या “नियुक्त किया” किसी को कोई विशेष काम करने के लिए नियुक्त करना या एक या अधिक लोगों को किसी कार्य को निर्दिष्ट करना</p><ul><li><p>भविष्यद्वक्ता शमूएल ने भविष्यद्वाणी की थी कि राजा शाऊल इस्राएल के सर्वोत्तम युवकों को सेना में नियुक्त करेगा।</p></li><li><p>मूसा ने इस्राएल के प्रत्येक गोत्र को उनके निवास हेतु कनान देश की भूमि बांट दी थी।</p></li><li><p>पुराने नियम की व्यवस्था के अनुसार कुछ गोत्रों को याजक की सेवा, हस्तकारों की सेवा, गीतकारों की सेवा और निर्माण करताओं की सेवा बांट दी गई थी।</p></li><li><p>प्रकरण के अनुसार “नियुक्त करना” का अनुवाद “बांटना” या “काम देना” &quot;कार्य के लिए चुनें&quot; किया जा सकता है।</p></li><li><p>“बांटना” का अनुवाद “नियुक्त करना” या “काम सौंपना” हो सकता है।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25467\" data-resourceType=\"UWTranslationWords\">नियुक्त करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26194\" data-resourceType=\"UWTranslationWords\">शमूएल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">शाऊल (पुराना नियम)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 6:48</a></p></li><li><p><a href=\"https://ref.ly/Dan12:13\">दानिय्येल 12:13</a></p></li><li><p><a href=\"https://ref.ly/Jer43:11\">यिर्मयाह 43:11</a></p></li><li><p><a href=\"https://ref.ly/Josh18:2\">यहोशू 18:2</a></p></li><li><p><a href=\"https://ref.ly/Num4:27-Num4:28\">गिनती 4:27–28</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 78:55</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2506, H3335, H4487, H4941, H5157, H5307, H5414, H5596, H5975, H6485, H7760, G33070</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06018002",
+          "start_ref_usfm": "JOS 18:2",
+          "end_ref": "06018002",
+          "end_ref_usfm": "JOS 18:2"
+        },
+        {
+          "start_ref": "13006048",
+          "start_ref_usfm": "1CH 6:48",
+          "end_ref": "13006048",
+          "end_ref_usfm": "1CH 6:48"
+        },
+        {
+          "start_ref": "19078055",
+          "start_ref_usfm": "PSA 78:55",
+          "end_ref": "19078055",
+          "end_ref_usfm": "PSA 78:55"
+        },
+        {
+          "start_ref": "24043011",
+          "start_ref_usfm": "JER 43:11",
+          "end_ref": "24043011",
+          "end_ref_usfm": "JER 43:11"
+        },
+        {
+          "start_ref": "27012013",
+          "start_ref_usfm": "DAN 12:13",
+          "end_ref": "27012013",
+          "end_ref_usfm": "DAN 12:13"
+        },
+        {
+          "start_ref": "46007017",
+          "start_ref_usfm": "1CO 7:17",
+          "end_ref": "46007017",
+          "end_ref_usfm": "1CO 7:17"
+        },
+        {
+          "start_ref": "47010013",
+          "start_ref_usfm": "2CO 10:13",
+          "end_ref": "47010013",
+          "end_ref_usfm": "2CO 10:13"
+        },
+        {
+          "start_ref": "04004027",
+          "start_ref_usfm": "NUM 4:27",
+          "end_ref": "04004028",
+          "end_ref_usfm": "NUM 4:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 179555,
+          "label": "नियुक्त करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 180252,
+          "label": "शमूएल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 180258,
+          "label": "शाऊल (पुराना नियम)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466941,
+    "reference_id": 25792,
+    "title": "Golgotha",
+    "media_type": "Text",
+    "index_reference": "golgotha",
+    "language": "fra",
+    "content": "<h1>Golgotha</h1><h2>Définition :</h2><p>&quot;Le terme &quot;Golgotha&quot; est le nom de l&apos;endroit où Jésus a été crucifié* Il vient d&apos;un mot araméen qui signifie «Skull» ou «lieu du crâne*&quot;</p><ul><li><p>Golgotha était situé quelque part à l&apos;extérieur des murs de la ville de Jérusalem, peut-être sur une partie du mont des Oliviers.</p></li><li><p>Dans certaines anciennes versions françaises de la Bible, le terme Golgotha est traduit par «Calvaire», qui vient du mot latin pour un crâne.</p></li><li><p>De nombreuses versions de la Bible utilisent un mot similaire à «Golgotha», puisque son sens est expliqué dans le texte de la Bible* Voir aussi le lien ci-dessous sur la façon de traduire les noms dans la Bible.</p></li><li><p>[[rc://fr/ta/man/translate/translate-names]]</p></li></ul><p>(Translation Suggestion: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : (../names/aram.md), (../names/mountofolives.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027033",
+          "start_ref_usfm": "MAT 27:33",
+          "end_ref": "40027033",
+          "end_ref_usfm": "MAT 27:33"
+        },
+        {
+          "start_ref": "41015022",
+          "start_ref_usfm": "MRK 15:22",
+          "end_ref": "41015022",
+          "end_ref_usfm": "MRK 15:22"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019017",
+          "end_ref_usfm": "JHN 19:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 467171,
+          "label": "Mont des Oliviers",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180077,
+    "reference_id": 26013,
+    "title": "मेशेक",
+    "media_type": "Text",
+    "index_reference": "मेशेक",
+    "language": "hin",
+    "content": "<h1>मेशेक</h1><h2>तथ्य:</h2><p>मेशेक पुराने नियम में दो पुरुषों के नाम थे।</p><ul><li><p>एक मेशेक तो येपेत का पुत्र था।</p></li><li><p>दूसरा मेशेक शेम का पोता था।</p></li><li><p>मेशेक एक स्थान का नाम भी था जो संभवतः इन दो में से एक के नाम से पड़ा था।</p></li><li><p>संभवतः यह क्षेत्र एक भाग में आज के तुर्किस्तान में था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25885\" data-resourceType=\"UWTranslationWords\">येपेत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">नूह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">शेम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 01:5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:12-Ezek27:13\">यहेजकेल 27:12–13</a></p></li><li><p><a href=\"https://ref.ly/Gen10:2-Gen10:5\">उत्पत्ति 10:2–5</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 120:5–7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4851, H4902</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "19120005",
+          "start_ref_usfm": "PSA 120:5",
+          "end_ref": "19120005",
+          "end_ref_usfm": "PSA 120:5"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "13001005",
+          "start_ref_usfm": "1CH 1:5",
+          "end_ref": "13001007",
+          "end_ref_usfm": "1CH 1:7"
+        },
+        {
+          "start_ref": "26027012",
+          "start_ref_usfm": "EZK 27:12",
+          "end_ref": "26027013",
+          "end_ref_usfm": "EZK 27:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25885,
+          "content_id": 179952,
+          "label": "येपेत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 180118,
+          "label": "नूह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 180280,
+          "label": "शेम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

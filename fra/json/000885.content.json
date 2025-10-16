@@ -1,0 +1,275 @@
+[
+  {
+    "content_id": 467445,
+    "reference_id": 26336,
+    "title": "Vigne (cep)",
+    "media_type": "Text",
+    "index_reference": "vigne (cep)",
+    "language": "fra",
+    "content": "<h1>Vigne (cep), vignobles</h1><h2>Définition :</h2><p>Une vigne est un grand jardin où les vignes croissent et les raisins sont cultivés.</p><ul><li><p>Une vigne a souvent un mur autour d&apos;elle pour protéger les fruits des voleurs et des animaux.</p></li><li><p>Dieu a comparé le peuple d&apos;Israël à une vigne qui ne portait pas de bons fruits.</p></li><li><p>(Voir: métaphore )</p></li><li><p>La Vigne pourrait également être traduite par &quot;jardin de vigne&quot; ou &quot;plantation de raisin&quot;.</p></li><li><p>(Voir aussi: raisin, raisins, vigne , Israël , vigne, vignes )</p></li></ul><p>(Voir aussi : (../other/grape.md), (../kt/israel.md), (../other/vine.md))</p><h2>Références bibliques:</h2><ul><li><p>Genèse 09: 20–21</p></li><li><p>Luc 13: 6–7</p></li><li><p>Luc 20: 15–16</p></li><li><p>Matthieu 20: 1–2</p></li><li><p>Matthieu 21: 40–41</p></li><li><p>Données Word:</p></li><li><p>Forte: H64, H1612, H3657, H3661, H3754, H3755, H8284, G289, G290</p></li><li><p>1245</p></li><li><p>Autre</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009020",
+          "start_ref_usfm": "GEN 9:20",
+          "end_ref": "01009020",
+          "end_ref_usfm": "GEN 9:20"
+        },
+        {
+          "start_ref": "02022005",
+          "start_ref_usfm": "EXO 22:5",
+          "end_ref": "02022005",
+          "end_ref_usfm": "EXO 22:5"
+        },
+        {
+          "start_ref": "02023011",
+          "start_ref_usfm": "EXO 23:11",
+          "end_ref": "02023011",
+          "end_ref_usfm": "EXO 23:11"
+        },
+        {
+          "start_ref": "16005003",
+          "start_ref_usfm": "NEH 5:3",
+          "end_ref": "16005003",
+          "end_ref_usfm": "NEH 5:3"
+        },
+        {
+          "start_ref": "16005004",
+          "start_ref_usfm": "NEH 5:4",
+          "end_ref": "16005004",
+          "end_ref_usfm": "NEH 5:4"
+        },
+        {
+          "start_ref": "16005005",
+          "start_ref_usfm": "NEH 5:5",
+          "end_ref": "16005005",
+          "end_ref_usfm": "NEH 5:5"
+        },
+        {
+          "start_ref": "16005011",
+          "start_ref_usfm": "NEH 5:11",
+          "end_ref": "16005011",
+          "end_ref_usfm": "NEH 5:11"
+        },
+        {
+          "start_ref": "16009025",
+          "start_ref_usfm": "NEH 9:25",
+          "end_ref": "16009025",
+          "end_ref_usfm": "NEH 9:25"
+        },
+        {
+          "start_ref": "18024006",
+          "start_ref_usfm": "JOB 24:6",
+          "end_ref": "18024006",
+          "end_ref_usfm": "JOB 24:6"
+        },
+        {
+          "start_ref": "18024018",
+          "start_ref_usfm": "JOB 24:18",
+          "end_ref": "18024018",
+          "end_ref_usfm": "JOB 24:18"
+        },
+        {
+          "start_ref": "20024030",
+          "start_ref_usfm": "PRO 24:30",
+          "end_ref": "20024030",
+          "end_ref_usfm": "PRO 24:30"
+        },
+        {
+          "start_ref": "20031016",
+          "start_ref_usfm": "PRO 31:16",
+          "end_ref": "20031016",
+          "end_ref_usfm": "PRO 31:16"
+        },
+        {
+          "start_ref": "22001006",
+          "start_ref_usfm": "SNG 1:6",
+          "end_ref": "22001006",
+          "end_ref_usfm": "SNG 1:6"
+        },
+        {
+          "start_ref": "22002015",
+          "start_ref_usfm": "SNG 2:15",
+          "end_ref": "22002015",
+          "end_ref_usfm": "SNG 2:15"
+        },
+        {
+          "start_ref": "22008011",
+          "start_ref_usfm": "SNG 8:11",
+          "end_ref": "22008011",
+          "end_ref_usfm": "SNG 8:11"
+        },
+        {
+          "start_ref": "22008012",
+          "start_ref_usfm": "SNG 8:12",
+          "end_ref": "22008012",
+          "end_ref_usfm": "SNG 8:12"
+        },
+        {
+          "start_ref": "36001013",
+          "start_ref_usfm": "ZEP 1:13",
+          "end_ref": "36001013",
+          "end_ref_usfm": "ZEP 1:13"
+        },
+        {
+          "start_ref": "40020001",
+          "start_ref_usfm": "MAT 20:1",
+          "end_ref": "40020001",
+          "end_ref_usfm": "MAT 20:1"
+        },
+        {
+          "start_ref": "40020002",
+          "start_ref_usfm": "MAT 20:2",
+          "end_ref": "40020002",
+          "end_ref_usfm": "MAT 20:2"
+        },
+        {
+          "start_ref": "40020004",
+          "start_ref_usfm": "MAT 20:4",
+          "end_ref": "40020004",
+          "end_ref_usfm": "MAT 20:4"
+        },
+        {
+          "start_ref": "40020007",
+          "start_ref_usfm": "MAT 20:7",
+          "end_ref": "40020007",
+          "end_ref_usfm": "MAT 20:7"
+        },
+        {
+          "start_ref": "40020008",
+          "start_ref_usfm": "MAT 20:8",
+          "end_ref": "40020008",
+          "end_ref_usfm": "MAT 20:8"
+        },
+        {
+          "start_ref": "40021028",
+          "start_ref_usfm": "MAT 21:28",
+          "end_ref": "40021028",
+          "end_ref_usfm": "MAT 21:28"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "40021039",
+          "start_ref_usfm": "MAT 21:39",
+          "end_ref": "40021039",
+          "end_ref_usfm": "MAT 21:39"
+        },
+        {
+          "start_ref": "40021040",
+          "start_ref_usfm": "MAT 21:40",
+          "end_ref": "40021040",
+          "end_ref_usfm": "MAT 21:40"
+        },
+        {
+          "start_ref": "40021041",
+          "start_ref_usfm": "MAT 21:41",
+          "end_ref": "40021041",
+          "end_ref_usfm": "MAT 21:41"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "41012002",
+          "start_ref_usfm": "MRK 12:2",
+          "end_ref": "41012002",
+          "end_ref_usfm": "MRK 12:2"
+        },
+        {
+          "start_ref": "41012008",
+          "start_ref_usfm": "MRK 12:8",
+          "end_ref": "41012008",
+          "end_ref_usfm": "MRK 12:8"
+        },
+        {
+          "start_ref": "41012009",
+          "start_ref_usfm": "MRK 12:9",
+          "end_ref": "41012009",
+          "end_ref_usfm": "MRK 12:9"
+        },
+        {
+          "start_ref": "42013006",
+          "start_ref_usfm": "LUK 13:6",
+          "end_ref": "42013006",
+          "end_ref_usfm": "LUK 13:6"
+        },
+        {
+          "start_ref": "42020009",
+          "start_ref_usfm": "LUK 20:9",
+          "end_ref": "42020009",
+          "end_ref_usfm": "LUK 20:9"
+        },
+        {
+          "start_ref": "42020010",
+          "start_ref_usfm": "LUK 20:10",
+          "end_ref": "42020010",
+          "end_ref_usfm": "LUK 20:10"
+        },
+        {
+          "start_ref": "42020013",
+          "start_ref_usfm": "LUK 20:13",
+          "end_ref": "42020013",
+          "end_ref_usfm": "LUK 20:13"
+        },
+        {
+          "start_ref": "42020015",
+          "start_ref_usfm": "LUK 20:15",
+          "end_ref": "42020015",
+          "end_ref_usfm": "LUK 20:15"
+        },
+        {
+          "start_ref": "42020016",
+          "start_ref_usfm": "LUK 20:16",
+          "end_ref": "42020016",
+          "end_ref_usfm": "LUK 20:16"
+        },
+        {
+          "start_ref": "46009007",
+          "start_ref_usfm": "1CO 9:7",
+          "end_ref": "46009007",
+          "end_ref_usfm": "1CO 9:7"
+        },
+        {
+          "start_ref": "01009020",
+          "start_ref_usfm": "GEN 9:20",
+          "end_ref": "01009021",
+          "end_ref_usfm": "GEN 9:21"
+        },
+        {
+          "start_ref": "40021040",
+          "start_ref_usfm": "MAT 21:40",
+          "end_ref": "40021041",
+          "end_ref_usfm": "MAT 21:41"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 466952,
+          "label": "Grappe de raisin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26335,
+          "content_id": 467444,
+          "label": "Vigne",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

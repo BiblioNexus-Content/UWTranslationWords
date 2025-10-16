@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466834,
+    "reference_id": 25674,
+    "title": "Devination",
+    "media_type": "Text",
+    "index_reference": "devination",
+    "language": "fra",
+    "content": "<h1>devination , sorcier ,prédiction ,voyant</h1><h2>Définition :</h2><p>Les termes &quot;divination&quot;et &quot;sourcier&quot;se refèrent à la pratique d&apos;essayer de recevoir une information des esprits dans le monde spirituel*Une personne qui fait cela est quelque fois appelée un&quot;sorcier&quot;ou&quot;voyant&quot;.</p><ul><li><p>Types de divination inclus les pratiques telles: interpréter les os d&apos;animaux ou dans le reste de la boisson laissé derrière dans un gobelet.</p></li><li><p>Dans ses lois pour le peuple d&apos;Israel,Dieu leur dit de ne pas pratiquer la divination ou la prédiction.</p></li><li><p>Dieu a permis à son peuple de lui rechercher de l&apos;information en utilisant l&apos;Urim et Thummim,qui étaient des cailloux qu&apos;il a désigné à être utilisés par les grands prêtres pour un but *Mais il n&apos;a pas permis à son peuple de chercher une information à travers l&apos;aide du mauvais esprit.</p></li><li><p>Les termes &quot;sorcellerie&quot;, &quot;magie&quot;et&quot;sortilège&quot;signifient, le fait de faire la magie,chasser les charmes et les choses miraculeuses par le pouvoir des mauvais esprits*Ces pratiques sont aussi condamnées par Dieu.</p></li></ul><p>(Voir aussi : (../kt/apostle.md), (../kt/falsegod.md), (../other/magic.md), (../other/sorcery.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030027",
+          "start_ref_usfm": "GEN 30:27",
+          "end_ref": "01030027",
+          "end_ref_usfm": "GEN 30:27"
+        },
+        {
+          "start_ref": "01044005",
+          "start_ref_usfm": "GEN 44:5",
+          "end_ref": "01044005",
+          "end_ref_usfm": "GEN 44:5"
+        },
+        {
+          "start_ref": "01044015",
+          "start_ref_usfm": "GEN 44:15",
+          "end_ref": "01044015",
+          "end_ref_usfm": "GEN 44:15"
+        },
+        {
+          "start_ref": "20016010",
+          "start_ref_usfm": "PRO 16:10",
+          "end_ref": "20016010",
+          "end_ref_usfm": "PRO 16:10"
+        },
+        {
+          "start_ref": "44016016",
+          "start_ref_usfm": "ACT 16:16",
+          "end_ref": "44016016",
+          "end_ref_usfm": "ACT 16:16"
+        },
+        {
+          "start_ref": "09006001",
+          "start_ref_usfm": "1SA 6:1",
+          "end_ref": "09006002",
+          "end_ref_usfm": "1SA 6:2"
+        },
+        {
+          "start_ref": "26012024",
+          "start_ref_usfm": "EZK 12:24",
+          "end_ref": "26012025",
+          "end_ref_usfm": "EZK 12:25"
+        },
+        {
+          "start_ref": "24027009",
+          "start_ref_usfm": "JER 27:9",
+          "end_ref": "24027011",
+          "end_ref_usfm": "JER 27:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25987,
+          "content_id": 467126,
+          "label": "Magie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26253,
+          "content_id": 467368,
+          "label": "Sorcellerie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

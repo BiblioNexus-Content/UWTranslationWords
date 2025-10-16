@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180199,
+    "reference_id": 26140,
+    "title": "भजन",
+    "media_type": "Text",
+    "index_reference": "भजन",
+    "language": "hin",
+    "content": "<h1>भजन</h1><h2>परिभाषा:</h2><p>“भजन” शब्द एक पवित्र गीत का संदर्भ देता है जो कविता रूप में लिखा गया है कि गाया जाए।</p><ul><li><p>पुराने नियम में भजन संहिता इन भजनों का संग्रह है, राजा दाऊद तथा अन्य इस्राएलियों जैसे मूसा, सुलैमान, आसाप तथा अन्यों ने इन भजनों को लिखा था।</p></li><li><p>भजन इस्राएलियों द्वारा परमेश्वर की आराधना में गाए जाते थे।</p></li><li><p>भजन आनन्द, विश्वास, श्रद्धा तथा दुःख और व्यथा का वर्णन करते हैं।</p></li><li><p>नये नियम में विश्वासियों से आग्रह किया गया है कि परमेश्वर की आराधना में भजन गाएं।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">विश्वास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25923\" data-resourceType=\"UWTranslationWords\">आनन्द</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">मूसा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_sacred\" data-resourceType=\"UWTranslationWords\">पवित्र</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts13:32-Acts13:34\">प्रे.का. 13:32–34</a></p></li><li><p><a href=\"https://ref.ly/Acts13:35-Acts13:37\">प्रे.का. 13:35–37</a></p></li><li><p><a href=\"https://ref.ly/Col3:15-Col3:17\">कुलुस्सियों 03:15–17</a></p></li><li><p><a href=\"https://ref.ly/Luke20:41-Luke20:44\">लूका 20:41–44</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2158, H2167, H2172, H4210, G5567, G5568</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42020042",
+          "start_ref_usfm": "LUK 20:42",
+          "end_ref": "42020042",
+          "end_ref_usfm": "LUK 20:42"
+        },
+        {
+          "start_ref": "44013033",
+          "start_ref_usfm": "ACT 13:33",
+          "end_ref": "44013033",
+          "end_ref_usfm": "ACT 13:33"
+        },
+        {
+          "start_ref": "44013035",
+          "start_ref_usfm": "ACT 13:35",
+          "end_ref": "44013035",
+          "end_ref_usfm": "ACT 13:35"
+        },
+        {
+          "start_ref": "46014026",
+          "start_ref_usfm": "1CO 14:26",
+          "end_ref": "46014026",
+          "end_ref_usfm": "1CO 14:26"
+        },
+        {
+          "start_ref": "49005019",
+          "start_ref_usfm": "EPH 5:19",
+          "end_ref": "49005019",
+          "end_ref_usfm": "EPH 5:19"
+        },
+        {
+          "start_ref": "51003016",
+          "start_ref_usfm": "COL 3:16",
+          "end_ref": "51003016",
+          "end_ref_usfm": "COL 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25725,
+          "content_id": 179798,
+          "label": "विश्वास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 179909,
+          "label": "पवित्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25923,
+          "content_id": 179990,
+          "label": "आनन्द",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 180095,
+          "label": "मूसा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

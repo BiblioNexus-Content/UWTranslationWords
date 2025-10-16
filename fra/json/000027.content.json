@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 466613,
+    "reference_id": 25431,
+    "title": "Adonija",
+    "media_type": "Text",
+    "index_reference": "adonija",
+    "language": "fra",
+    "content": "<h1>Adonija</h1><h2>Définition :</h2><p>Adonija était le quatrième fils du roi David.</p><ul><li><p>Adonija essaya de devenir roi d&apos;Israël après la mort de ses frères Absalom et Amnon.</p></li><li><p>Mais Dieu avait promis le trône à Salomon, fils de David, donc le coup d&apos;Adonija échoua et le trône fut remis à Salomon.</p></li><li><p>Lorsque Adonija essaya une seconde fois de se faire roi, Salomon le fit mourir.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010016",
+          "start_ref_usfm": "NEH 10:16",
+          "end_ref": "16010016",
+          "end_ref_usfm": "NEH 10:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

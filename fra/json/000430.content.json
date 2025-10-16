@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467034,
+    "reference_id": 25889,
+    "title": "Jehojada",
+    "media_type": "Text",
+    "index_reference": "jehojada",
+    "language": "fra",
+    "content": "<h1>Jehojada</h1><h2>Définition :</h2><p>&quot;Jehojada était un prêtre qui a aidé à cacher et protéger le fils du roi Achazia, Joas, jusqu&apos;à ce qu&apos;il ait l&apos;âge pour être déclaré roi.</p><ul><li><p>Jehojada a organisé des centaines de gardes du corps pour protéger le jeune Joas au moment où il fut proclamé roi par le peuple dans le temple.</p></li><li><p>Jehojada a conduit le peuple à se débarrasser de tous les autels du faux dieu Baal.</p></li><li><p>Le reste de sa vie, le prêtre Jehojada a conseillé le roi Joas pour l&apos;aider à obéir à Dieu et instruire le peuple.</p></li><li><p>il y eut un autre homme du nom de Jehojada qui était le père de Benaja.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ahaziah.md), (../names/baal.md), (../names/benaiah.md), (../names/joash.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011004",
+          "start_ref_usfm": "2KI 11:4",
+          "end_ref": "12011004",
+          "end_ref_usfm": "2KI 11:4"
+        },
+        {
+          "start_ref": "12012001",
+          "start_ref_usfm": "2KI 12:1",
+          "end_ref": "12012003",
+          "end_ref_usfm": "2KI 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 466622,
+          "label": "Achazia",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25525,
+          "content_id": 466698,
+          "label": "Benaja",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 467052,
+          "label": "Joas",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

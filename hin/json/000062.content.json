@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179571,
+    "reference_id": 25483,
+    "title": "अशेरा",
+    "media_type": "Text",
+    "index_reference": "अशेरा",
+    "language": "hin",
+    "content": "<h1>अशेरा, अशेरा के लिए मूरत, अशेरा नामक मूर्तियों, अश्तोरेत</h1><h2>परिभाषा:</h2><p>अशेरा कनानियों की देवी का नाम था, पुराने नियम में। &quot;अश्तोरेत&quot; अशेरा का ही दूसरा नाम हो सकता है या यह अन्य देवी थी जो वैसी ही थी।</p><ul><li><p>“अशेरा की मूर्तियां” अर्थात लकड़ी की मूर्तियां या पेड़ों को काटकर वैसा रूप देना कि उसका प्रतिनिधित्व करें।</p></li><li><p>अशेरा की मूर्तियां प्रायः झूठे देवता बाल के वेदी के निकट होती थी क्योंकि उसे अशेरा का पति माना जाता था। कुछ समुदाय बाल की सूर्य देवता और अशेरा या अश्तोरेत को चांद देवी मानकर पूजा करते थे।</p></li><li><p>परमेश्वर ने इस्राएल को आज्ञा दी थी कि अशेरा की सब मूर्तियां ध्वंस कर दें।</p></li><li><p>इस्राएल के कुछ अगुओं ने जैसे गिदोन, राजा आसा, राजा योशिय्याह ने परमेश्वर की आज्ञा मानकर इन मूर्तियों को नष्ट किया था।</p></li><li><p>परन्तु कुछ इस्राएली राजा जैसे सुलैमान, मनश्शे आहाब ने उनको नष्ट नहीं किया वरन इस्राएल को उनकी पूजा के लिए प्रेरणा दी।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_idol\" data-resourceType=\"UWTranslationWords\">मूरत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">बाल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25780\" data-resourceType=\"UWTranslationWords\">गिदोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">स्वरूप</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 18:4–5</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 21:1–3</a></p></li><li><p><a href=\"https://ref.ly/Isa27:9\">यशायाह 27:9</a></p></li><li><p><a href=\"https://ref.ly/Judg3:7-Judg3:8\">न्यायियों 03:7–8</a></p></li><li><p><a href=\"https://ref.ly/Mic5:12-Mic5:15\">मीका 05:12–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H842, H6252, H6253</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02034013",
+          "start_ref_usfm": "EXO 34:13",
+          "end_ref": "02034013",
+          "end_ref_usfm": "EXO 34:13"
+        },
+        {
+          "start_ref": "12018004",
+          "start_ref_usfm": "2KI 18:4",
+          "end_ref": "12018004",
+          "end_ref_usfm": "2KI 18:4"
+        },
+        {
+          "start_ref": "12021003",
+          "start_ref_usfm": "2KI 21:3",
+          "end_ref": "12021003",
+          "end_ref_usfm": "2KI 21:3"
+        },
+        {
+          "start_ref": "23027009",
+          "start_ref_usfm": "ISA 27:9",
+          "end_ref": "23027009",
+          "end_ref_usfm": "ISA 27:9"
+        },
+        {
+          "start_ref": "33005014",
+          "start_ref_usfm": "MIC 5:14",
+          "end_ref": "33005014",
+          "end_ref_usfm": "MIC 5:14"
+        },
+        {
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003008",
+          "end_ref_usfm": "JDG 3:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 179585,
+          "label": "बाल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25863,
+          "content_id": 179931,
+          "label": "मूरत/मूरतों",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 179851,
+          "label": "गिदोन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

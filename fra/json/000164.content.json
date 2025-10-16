@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466756,
+    "reference_id": 25588,
+    "title": "Chrétiens",
+    "media_type": "Text",
+    "index_reference": "chrétiens",
+    "language": "fra",
+    "content": "<h1>Chrétiens</h1><h2>Définition :</h2><p>Quelque temps après le retour de Jésus au ciel et les gens ont inventé le nom &quot;chrétien&quot; qui signifie &quot;disciple du Christ&quot;.</p><ul><li><p>C&apos;était dans la ville d&apos;Antioche que les disciples de Jésus ont été appelés &quot;chrétiens&quot; pour la première fois.</p></li><li><p>Un chrétien est une personne qui croit que Jésus est le Fils de Dieu et qui fait confiance à Jésus pour le sauver de ses péchés.</p></li><li><p>Dans nos temps modernes, le terme &quot;chrétien&quot; est utilisé pour quelqu&apos;un qui s&apos;identifie à la religion chrétienne, mais qui n&apos;est pas nécessairement un disciple de Jésus. Ce n&apos;est pas le sens du mot &quot;chrétien&quot; de la Bible.</p></li><li><p>Parce que le terme &quot;chrétien&quot; dans la Bible se réfère toujours à quelqu&apos;un qui croit en Jésus, un chrétien est aussi appelé un &quot;croyant&quot;.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Ce terme pourrait être traduit par &quot;celui qui suit Jésus&quot; ou &quot;un disciple de Christ&quot; ou, peut-être, &quot;une personne qui croit et obéit à Christ&quot;.</p></li><li><p>Assurez-vous que la traduction de ce terme est différente des termes utilisés pour disciple ou apôtre.</p></li><li><p>Veillez à traduire ce terme avec un mot qui peut faire référence à tous ceux qui croient en Jésus, non pas seulement certains groupes.</p></li><li><p>Voir également la façon dont ce terme est traduit dans une traduction de la Bible en une langue locale ou nationale.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25464\" data-resourceType=\"UWTranslationWords\">Antioche</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">Église</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25669\" data-resourceType=\"UWTranslationWords\">disciple</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">croire</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">Jésus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Fils de Dieu</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44026028",
+          "start_ref_usfm": "ACT 26:28",
+          "end_ref": "44026028",
+          "end_ref_usfm": "ACT 26:28"
+        },
+        {
+          "start_ref": "60004016",
+          "start_ref_usfm": "1PE 4:16",
+          "end_ref": "60004016",
+          "end_ref_usfm": "1PE 4:16"
+        },
+        {
+          "start_ref": "46006007",
+          "start_ref_usfm": "1CO 6:7",
+          "end_ref": "46006008",
+          "end_ref_usfm": "1CO 6:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25464,
+          "content_id": 466644,
+          "label": "Antioche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 466758,
+          "label": "Église",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 466831,
+          "label": "Disciple",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 467045,
+          "label": "Jésus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 467365,
+          "label": "Fils de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

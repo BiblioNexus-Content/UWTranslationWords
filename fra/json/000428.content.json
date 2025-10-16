@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467055,
+    "reference_id": 25910,
+    "title": "Jean Marc",
+    "media_type": "Text",
+    "index_reference": "jean marc",
+    "language": "fra",
+    "content": "<h1>Jean Marc</h1><h2>Définition :</h2><p>&quot;Jean Marc, également connu comme Marc, était l&apos;un des hommes qui ont voyagé avec Paul lors de ses voyages missionnaires* Il est très probablement l&apos;auteur de l&apos;Evangile de Marc.</p><ul><li><p>Jean Marc a accompagné son cousin Barnabas et Paul pendant leur premier voyage missionnaire.</p></li><li><p>Quand Pierre a été mis en prison à Jérusalem, les croyants avaient prié pour lui à la maison de la mère de Jean Marc.</p></li><li><p>Mark n&apos;a pas été un apôtre d&apos;origine, mais a été enseigné par Paul et Pierre et a travaillé avec eux dans le ministère.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/barnabas.md), (../names/paul.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "44015037",
+          "start_ref_usfm": "ACT 15:37",
+          "end_ref": "44015037",
+          "end_ref_usfm": "ACT 15:37"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004011",
+          "end_ref_usfm": "COL 4:11"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44012024",
+          "start_ref_usfm": "ACT 12:24",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015038",
+          "end_ref_usfm": "ACT 15:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 466684,
+          "label": "Barnabas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

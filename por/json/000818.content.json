@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238322,
+    "reference_id": 26193,
+    "title": "Sansão",
+    "media_type": "Text",
+    "index_reference": "sansão",
+    "language": "por",
+    "content": "<h1>Sansão</h1><h2>Fatos:</h2><p>Sansão foi um dos juízes, ou libertadores, de Israel. Ele era da tribo de Dã.</p><ul><li><p>Deus deu a Sansão força sobre-humana, que ele usou para lutar contra os inimigos de Israel, os filisteus.</p></li><li><p>Sansão fez um voto de nunca cortar o cabelo e de nunca beber vinho ou qualquer outra bebida fermentada. Enquanto ele mantivesse esse voto, Deus continuaria a lhe dar força.</p></li><li><p>Ele finalmente quebrou seu voto e permitiu que seu cabelo fosse cortado, permitindo que os filisteus o capturassem.</p></li><li><p>Enquanto Sansão estava em cativeiro, Deus permitiu que ele recuperasse sua força e lhe deu a oportunidade de destruir o templo do falso deus Dagom, junto com muitos filisteus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_deliver\" data-resourceType=\"UWTranslationWords\">libertar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">filisteus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">Hebreus 11.32–34</a></p></li><li><p><a href=\"https://ref.ly/Judg13:25\">Juízes 13.25</a></p></li><li><p><a href=\"https://ref.ly/Judg16:2\">Juízes 16.2</a></p></li><li><p><a href=\"https://ref.ly/Judg16:31\">Juízes 16.31</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8123, G45460</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07013025",
+          "start_ref_usfm": "JDG 13:25",
+          "end_ref": "07013025",
+          "end_ref_usfm": "JDG 13:25"
+        },
+        {
+          "start_ref": "07016002",
+          "start_ref_usfm": "JDG 16:2",
+          "end_ref": "07016002",
+          "end_ref_usfm": "JDG 16:2"
+        },
+        {
+          "start_ref": "07016031",
+          "start_ref_usfm": "JDG 16:31",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

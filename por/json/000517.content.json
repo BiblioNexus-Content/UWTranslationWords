@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238060,
+    "reference_id": 25927,
+    "title": "Judas Filho de Tiago",
+    "media_type": "Text",
+    "index_reference": "judas filho de tiago",
+    "language": "por",
+    "content": "<h1>Judas filho de Tiago</h1><h2>Fatos:</h2><p>Judas, filho de Tiago, foi um dos doze apóstolos de Jesus. Note que ele não era o mesmo homem que Judas Iscariotes.</p><ul><li><p>Frequentemente na Bíblia, homens com o mesmo nome eram distinguidos mencionando de quem eram filhos. Aqui, Judas foi identificado como o “filho de Tiago”.</p></li><li><p>Outro homem chamado Judas era irmão de Jesus. Ele também era conhecido como “Judas”.</p></li><li><p>O livro do Novo Testamento chamado “Judas” foi provavelmente escrito pelo irmão de Jesus, Judas, já que o autor se identificou como o “irmão de Tiago”. Tiago era outro irmão de Jesus.</p></li><li><p>Também é possível que o livro de Judas tenha sido escrito pelo discípulo de Jesus, Judas, o filho de Tiago.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25884\" data-resourceType=\"UWTranslationWords\">Tiago (filho de Zebedeu)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25926\" data-resourceType=\"UWTranslationWords\">Judas Iscariotes</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_son\" data-resourceType=\"UWTranslationWords\">filho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">os doze</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts1:12-Acts1:14\">Atos 1.12–14</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">Lucas 6.14–16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G24550</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42006016",
+          "start_ref_usfm": "LUK 6:16",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "43014022",
+          "start_ref_usfm": "JHN 14:22",
+          "end_ref": "43014022",
+          "end_ref_usfm": "JHN 14:22"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25884,
+          "content_id": 238017,
+          "label": "Tiago, filho de Zebedeu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25926,
+          "content_id": 238059,
+          "label": "Judas Iscariotes",
+          "language": "por"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 238425,
+          "label": "Os Doze",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

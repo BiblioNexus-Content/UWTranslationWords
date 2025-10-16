@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 466961,
+    "reference_id": 25812,
+    "title": "La grèle",
+    "media_type": "Text",
+    "index_reference": "la grèle",
+    "language": "fra",
+    "content": "<h1>La grèle</h1><h2>Définition :</h2><p>&quot;Ce terme se réfère généralement à un type de précipitations gelées qui tombent du ciel.</p><ul><li><p>La grèle descend sous la forme de billes ou de morceaux de glace appelés &quot;grêlons*&quot; Habituellement, les grêlons sont petits (quelques centimètres de large), mais il y a aussi de très gros grêlons qui ont jusqu&apos;à 20 centimètres de large et pèsent plus d&apos;un kilogramme.</p></li><li><p>Le livre de l&apos;Apocalypse dans le Nouveau Testament décrit le jugement de Dieu sur les personnes, comme d&apos;énormes grêlons qui pèsent 50 kilogrammes.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02009018",
+          "start_ref_usfm": "EXO 9:18",
+          "end_ref": "02009018",
+          "end_ref_usfm": "EXO 9:18"
+        },
+        {
+          "start_ref": "02009019",
+          "start_ref_usfm": "EXO 9:19",
+          "end_ref": "02009019",
+          "end_ref_usfm": "EXO 9:19"
+        },
+        {
+          "start_ref": "02009022",
+          "start_ref_usfm": "EXO 9:22",
+          "end_ref": "02009022",
+          "end_ref_usfm": "EXO 9:22"
+        },
+        {
+          "start_ref": "02009023",
+          "start_ref_usfm": "EXO 9:23",
+          "end_ref": "02009023",
+          "end_ref_usfm": "EXO 9:23"
+        },
+        {
+          "start_ref": "02009024",
+          "start_ref_usfm": "EXO 9:24",
+          "end_ref": "02009024",
+          "end_ref_usfm": "EXO 9:24"
+        },
+        {
+          "start_ref": "02009025",
+          "start_ref_usfm": "EXO 9:25",
+          "end_ref": "02009025",
+          "end_ref_usfm": "EXO 9:25"
+        },
+        {
+          "start_ref": "02009026",
+          "start_ref_usfm": "EXO 9:26",
+          "end_ref": "02009026",
+          "end_ref_usfm": "EXO 9:26"
+        },
+        {
+          "start_ref": "02009028",
+          "start_ref_usfm": "EXO 9:28",
+          "end_ref": "02009028",
+          "end_ref_usfm": "EXO 9:28"
+        },
+        {
+          "start_ref": "02009029",
+          "start_ref_usfm": "EXO 9:29",
+          "end_ref": "02009029",
+          "end_ref_usfm": "EXO 9:29"
+        },
+        {
+          "start_ref": "02009033",
+          "start_ref_usfm": "EXO 9:33",
+          "end_ref": "02009033",
+          "end_ref_usfm": "EXO 9:33"
+        },
+        {
+          "start_ref": "02009034",
+          "start_ref_usfm": "EXO 9:34",
+          "end_ref": "02009034",
+          "end_ref_usfm": "EXO 9:34"
+        },
+        {
+          "start_ref": "02010005",
+          "start_ref_usfm": "EXO 10:5",
+          "end_ref": "02010005",
+          "end_ref_usfm": "EXO 10:5"
+        },
+        {
+          "start_ref": "02010012",
+          "start_ref_usfm": "EXO 10:12",
+          "end_ref": "02010012",
+          "end_ref_usfm": "EXO 10:12"
+        },
+        {
+          "start_ref": "02010015",
+          "start_ref_usfm": "EXO 10:15",
+          "end_ref": "02010015",
+          "end_ref_usfm": "EXO 10:15"
+        },
+        {
+          "start_ref": "19078048",
+          "start_ref_usfm": "PSA 78:48",
+          "end_ref": "19078048",
+          "end_ref_usfm": "PSA 78:48"
+        },
+        {
+          "start_ref": "19148008",
+          "start_ref_usfm": "PSA 148:8",
+          "end_ref": "19148008",
+          "end_ref_usfm": "PSA 148:8"
+        },
+        {
+          "start_ref": "40027029",
+          "start_ref_usfm": "MAT 27:29",
+          "end_ref": "40027029",
+          "end_ref_usfm": "MAT 27:29"
+        },
+        {
+          "start_ref": "66008007",
+          "start_ref_usfm": "REV 8:7",
+          "end_ref": "66008007",
+          "end_ref_usfm": "REV 8:7"
+        },
+        {
+          "start_ref": "66016021",
+          "start_ref_usfm": "REV 16:21",
+          "end_ref": "66016021",
+          "end_ref_usfm": "REV 16:21"
+        },
+        {
+          "start_ref": "40028008",
+          "start_ref_usfm": "MAT 28:8",
+          "end_ref": "40028010",
+          "end_ref_usfm": "MAT 28:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

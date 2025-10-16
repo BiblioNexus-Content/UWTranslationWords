@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467409,
+    "reference_id": 26295,
+    "title": "Thessalonique",
+    "media_type": "Text",
+    "index_reference": "thessalonique",
+    "language": "fra",
+    "content": "<h1>Thessalonique, Thessaloniciens</h1><h2>Définition :</h2><p>&quot;Dans le Nouveau Testament, Thessalonique était la capitale de la Macédoine dans l&apos;ancien empire romain* Les personnes vivant dans cette ville étaient appelées les &quot;Thessaloniciens*&quot;</p><ul><li><p>La ville de Thessalonique était un important port maritime et était également située sur une route principale qui reliait Rome au reste de l&apos;empire romain à l&apos;est.</p></li><li><p>Paul, avec Silas et Timothée, ont visité Thessalonique lors de son deuxième voyage missionnaire et, par conséquent, une église florissante avait été établie là* Plus tard, Paul a également visité la ville lors de son troisième voyage missionnaire.</p></li><li><p>Paul a écrit deux lettres aux chrétiens de Thessalonique* Ces lettres, Première lettre aux Thessaloniciens et deuxième lettre aux Thessaloniciens, sont inclues dans le Nouveau Testament.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/macedonia.md), (../names/paul.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017001",
+          "start_ref_usfm": "ACT 17:1",
+          "end_ref": "44017001",
+          "end_ref_usfm": "ACT 17:1"
+        },
+        {
+          "start_ref": "44017011",
+          "start_ref_usfm": "ACT 17:11",
+          "end_ref": "44017011",
+          "end_ref_usfm": "ACT 17:11"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017013",
+          "end_ref_usfm": "ACT 17:13"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "44027002",
+          "start_ref_usfm": "ACT 27:2",
+          "end_ref": "44027002",
+          "end_ref_usfm": "ACT 27:2"
+        },
+        {
+          "start_ref": "50004016",
+          "start_ref_usfm": "PHP 4:16",
+          "end_ref": "50004016",
+          "end_ref_usfm": "PHP 4:16"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "55004010",
+          "start_ref_usfm": "2TI 4:10",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "55004009",
+          "start_ref_usfm": "2TI 4:9",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "50004014",
+          "start_ref_usfm": "PHP 4:14",
+          "end_ref": "50004017",
+          "end_ref_usfm": "PHP 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25986,
+          "content_id": 467125,
+          "label": "Macédoine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

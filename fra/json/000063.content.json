@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466648,
+    "reference_id": 25469,
+    "title": "Araba",
+    "media_type": "Text",
+    "index_reference": "araba",
+    "language": "fra",
+    "content": "<h1>Araba</h1><h2>Définition :</h2><p>Le terme &quot;Araba&quot; de l&apos;Ancien Testament&quot; se réfère souvent à un très grand désert et la région de la plaine qui couvre la vallée située autour du Jourdain et s&apos;étend du sud vers la pointe nord de la Mer Rouge.</p><ul><li><p>Les Israélites traversèrent cette région désertique lors de leur voyage de l&apos;Egypte vers le pays de Canaan.</p></li><li><p>L&apos;expression &quot;Mer d&apos;Araba&quot; peut être traduite par, la &quot;mer située dans le désert d&apos;Araba&quot;* On fait souvent référence à cette mer comme la &quot;Mer Salée&quot; ou la &quot;Mer Morte&quot;.</p></li><li><p>Le terme &quot;araba&quot; peut aussi être une référence générale à n&apos;importe quelle région désertique.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../other/desert.md), (../names/redsea.md), (../names/jordanriver.md), (../names/canaan.md), (../names/saltsea.md), (../names/egypt.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10002029",
+          "start_ref_usfm": "2SA 2:29",
+          "end_ref": "10002029",
+          "end_ref_usfm": "2SA 2:29"
+        },
+        {
+          "start_ref": "38014010",
+          "start_ref_usfm": "ZEC 14:10",
+          "end_ref": "38014010",
+          "end_ref_usfm": "ZEC 14:10"
+        },
+        {
+          "start_ref": "09023024",
+          "start_ref_usfm": "1SA 23:24",
+          "end_ref": "09023025",
+          "end_ref_usfm": "1SA 23:25"
+        },
+        {
+          "start_ref": "12025004",
+          "start_ref_usfm": "2KI 25:4",
+          "end_ref": "12025005",
+          "end_ref_usfm": "2KI 25:5"
+        },
+        {
+          "start_ref": "24002004",
+          "start_ref_usfm": "JER 2:4",
+          "end_ref": "24002006",
+          "end_ref_usfm": "JER 2:6"
+        },
+        {
+          "start_ref": "18024005",
+          "start_ref_usfm": "JOB 24:5",
+          "end_ref": "18024007",
+          "end_ref_usfm": "JOB 24:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26162,
+          "content_id": 467282,
+          "label": "La mer Rouge",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

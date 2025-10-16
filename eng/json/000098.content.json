@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26374,
+    "reference_id": 25516,
+    "title": "Bear Animal",
+    "media_type": "Text",
+    "index_reference": "bear animal",
+    "language": "eng",
+    "content": "<h1>bear</h1><h2>Definition:</h2><p>A bear is a large, four-legged furry animal with dark brown or black hair, with sharp teeth and claws. Bears were common in Israel during Bible times.</p><ul><li><p>These animals live in forests and mountain areas; they eat fish, insects, and plants.</p></li><li><p>In the Old Testament, the bear is used as a symbol of strength.</p></li><li><p>While tending sheep, the shepherd David fought a bear and defeated it.</p></li><li><p>Two bears came out of the forest and attacked a group of youths who had mocked the prophet Elisha.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">Elisha</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H1677, G07150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017012",
+          "start_ref_usfm": "PRO 17:12",
+          "end_ref": "20017012",
+          "end_ref_usfm": "PRO 17:12"
+        },
+        {
+          "start_ref": "20028015",
+          "start_ref_usfm": "PRO 28:15",
+          "end_ref": "20028015",
+          "end_ref_usfm": "PRO 28:15"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 26556,
+          "label": "Elisha",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

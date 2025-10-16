@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26306,
+    "reference_id": 25448,
+    "title": "Altar of Incense",
+    "media_type": "Text",
+    "index_reference": "altar of incense",
+    "language": "eng",
+    "content": "<h1>altar of incense, incense altar</h1><h2>Facts:</h2><p>The altar of incense was a piece of furniture on which a priest would burn incense as an offering to God. It was also called the golden altar.</p><ul><li><p>The altar of incense was made of wood, and its top and sides were covered with gold. It was about a half meter long, a half meter wide, and one meter tall.</p></li><li><p>At first it was kept in the tabernacle. Then it was kept in the temple.</p></li><li><p>Every morning and evening a priest would burn incense on it.</p></li><li><p>This can also be translated as “altar for burning incense” or “golden altar” or “incense burner” or “incense table.”</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25865\" data-resourceType=\"UWTranslationWords\">incense</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:11-Luke1:13\">Luke 1:11–13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4196, H7004, G23680, G23790</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02035015",
+          "start_ref_usfm": "EXO 35:15",
+          "end_ref": "02035015",
+          "end_ref_usfm": "EXO 35:15"
+        },
+        {
+          "start_ref": "02039038",
+          "start_ref_usfm": "EXO 39:38",
+          "end_ref": "02039038",
+          "end_ref_usfm": "EXO 39:38"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001011",
+          "end_ref_usfm": "LUK 1:11"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25865,
+          "content_id": 26723,
+          "label": "Incense",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467332,
+    "reference_id": 26214,
+    "title": "Sanchérib",
+    "media_type": "Text",
+    "index_reference": "sanchérib",
+    "language": "fra",
+    "content": "<h1>Sanchérib</h1><h2>Définition :</h2><p>Sanchérib était un puissant roi d&apos;Assyrie qui a permis à Ninive de devenir une ville riche et importante.</p><ul><li><p>le Roi Sancherib était connu pour ses guerres contre Babylone et le royaume de Juda.</p></li><li><p>Il était un roi très arrogant et il se moquait de l&apos;Eternel.</p></li><li><p>Sanchérib a attaqué Jérusalem pendant le temps du roi Ezéchias et le prophète Esaïe.</p></li><li><p>Yahweh a été la cause de la destruction de l&apos;armée de Sanchérib.</p></li><li><p>Les livres de l&apos;Ancien TestamenT( Rois et Chroniques) relatent certains événements de son règne.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/assyria.md), (../names/babylon.md), (../names/hezekiah.md), (../names/kingdomofjudah.md), (../other/mock.md), (../names/nineveh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12018013",
+          "end_ref_usfm": "2KI 18:13"
+        },
+        {
+          "start_ref": "14032001",
+          "start_ref_usfm": "2CH 32:1",
+          "end_ref": "14032001",
+          "end_ref_usfm": "2CH 32:1"
+        },
+        {
+          "start_ref": "14032016",
+          "start_ref_usfm": "2CH 32:16",
+          "end_ref": "14032017",
+          "end_ref_usfm": "2CH 32:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 466981,
+          "label": "Ezéchias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26027,
+          "content_id": 467164,
+          "label": "Se moquer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 467190,
+          "label": "Ninive",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

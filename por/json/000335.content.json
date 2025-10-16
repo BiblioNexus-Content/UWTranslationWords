@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237847,
+    "reference_id": 25714,
+    "title": "Eunuco",
+    "media_type": "Text",
+    "index_reference": "eunuco",
+    "language": "por",
+    "content": "<h1>eunuco</h1><h2>Definição:</h2><p>Geralmente o termo “eunuco” refere-se a um homem que foi castrado. O termo mais tarde tornou-se um termo geral para se referir a qualquer oficial do governo, mesmo aqueles sem a deformidade.</p><ul><li><p>Jesus disse que alguns eunucos nasceram assim, talvez por causa de órgãos sexuais danificados ou por não serem capazes de funcionar sexualmente. Outros escolheram viver como eunucos em um estilo de vida celibatário.</p></li><li><p>Nos tempos antigos, os eunucos eram frequentemente servos dos reis que eram designados como guardas dos aposentos das mulheres.</p></li><li><p>Alguns eunucos eram importantes oficiais do governo, como o eunuco etíope que encontrou o apóstolo Filipe no deserto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Filipe</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts8:27\">Atos 8.27</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36\">Atos 8.36</a></p></li><li><p><a href=\"https://ref.ly/Acts8:39\">Atos 8.39</a></p></li><li><p><a href=\"https://ref.ly/Isa39:7-Isa39:8\">Isaías 39.7–8</a></p></li><li><p><a href=\"https://ref.ly/Jer34:17-Jer34:19\">Jeremias 34.17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt19:12\">Mateus 19.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5631, G21340, G21350</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40019012",
+          "start_ref_usfm": "MAT 19:12",
+          "end_ref": "40019012",
+          "end_ref_usfm": "MAT 19:12"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "44008034",
+          "start_ref_usfm": "ACT 8:34",
+          "end_ref": "44008034",
+          "end_ref_usfm": "ACT 8:34"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008036",
+          "end_ref_usfm": "ACT 8:36"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "23039007",
+          "start_ref_usfm": "ISA 39:7",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "24034017",
+          "start_ref_usfm": "JER 34:17",
+          "end_ref": "24034019",
+          "end_ref_usfm": "JER 34:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26096,
+          "content_id": 238226,
+          "label": "Filipe",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

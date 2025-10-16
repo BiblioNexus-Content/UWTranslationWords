@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 466833,
+    "reference_id": 25673,
+    "title": "Disperser",
+    "media_type": "Text",
+    "index_reference": "disperser",
+    "language": "fra",
+    "content": "<h1>disperser ,dispersion</h1><h2>Définition :</h2><p>Les termes &quot;disperser&quot;et&quot;dispersion&quot;signifient éparpillement des hommes ou des choses dans de différentes directions.</p><ul><li><p>Dans l&apos;Ancien Testament,Dieu parle de &quot;disperser&quot;les gens, les séparer et les faire vivre dans des lieux différents<em>Il a fait ceci pour les punir à cause de leur péché</em>Peut-être les disperser pourrait les aider à se repentir et à commencer à adorer encore Dieu.</p></li><li><p>Le terme &quot;dispersion&quot;est utilisé dans le Nouveau Testament pour faire reférence aux chrétiens qui ont quitté leurs maisons et sont allés dans des localités différentes afin d&apos;échapper à la persécution.</p></li><li><p>Le mot&quot;la dispersion&quot;pourrait être traduit comme&quot;croyants dans plusieurs endroits&quot;ou&quot;le peuple qui a quitté pour vivre dans différentes nations&quot;</p></li><li><p>Le terme &quot;disperser&quot;pourrait être traduit par &quot;,renvoyer dans des endroits différents*&quot;ou&quot;éparpiller à l&apos;étranger&quot;ou&quot;forcer à quitter pour vivre dans différents pays*&quot;</p></li></ul><p>(Voir aussi : (../kt/believe.md), (../other/persecute.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009019",
+          "start_ref_usfm": "GEN 9:19",
+          "end_ref": "01009019",
+          "end_ref_usfm": "GEN 9:19"
+        },
+        {
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "01010032",
+          "start_ref_usfm": "GEN 10:32",
+          "end_ref": "01010032",
+          "end_ref_usfm": "GEN 10:32"
+        },
+        {
+          "start_ref": "01011004",
+          "start_ref_usfm": "GEN 11:4",
+          "end_ref": "01011004",
+          "end_ref_usfm": "GEN 11:4"
+        },
+        {
+          "start_ref": "01011008",
+          "start_ref_usfm": "GEN 11:8",
+          "end_ref": "01011008",
+          "end_ref_usfm": "GEN 11:8"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01049007",
+          "start_ref_usfm": "GEN 49:7",
+          "end_ref": "01049007",
+          "end_ref_usfm": "GEN 49:7"
+        },
+        {
+          "start_ref": "02005012",
+          "start_ref_usfm": "EXO 5:12",
+          "end_ref": "02005012",
+          "end_ref_usfm": "EXO 5:12"
+        },
+        {
+          "start_ref": "16001008",
+          "start_ref_usfm": "NEH 1:8",
+          "end_ref": "16001008",
+          "end_ref_usfm": "NEH 1:8"
+        },
+        {
+          "start_ref": "19018014",
+          "start_ref_usfm": "PSA 18:14",
+          "end_ref": "19018014",
+          "end_ref_usfm": "PSA 18:14"
+        },
+        {
+          "start_ref": "20011024",
+          "start_ref_usfm": "PRO 11:24",
+          "end_ref": "20011024",
+          "end_ref_usfm": "PRO 11:24"
+        },
+        {
+          "start_ref": "20015007",
+          "start_ref_usfm": "PRO 15:7",
+          "end_ref": "20015007",
+          "end_ref_usfm": "PRO 15:7"
+        },
+        {
+          "start_ref": "20020008",
+          "start_ref_usfm": "PRO 20:8",
+          "end_ref": "20020008",
+          "end_ref_usfm": "PRO 20:8"
+        },
+        {
+          "start_ref": "20020026",
+          "start_ref_usfm": "PRO 20:26",
+          "end_ref": "20020026",
+          "end_ref_usfm": "PRO 20:26"
+        },
+        {
+          "start_ref": "26012015",
+          "start_ref_usfm": "EZK 12:15",
+          "end_ref": "26012015",
+          "end_ref_usfm": "EZK 12:15"
+        },
+        {
+          "start_ref": "26030023",
+          "start_ref_usfm": "EZK 30:23",
+          "end_ref": "26030023",
+          "end_ref_usfm": "EZK 30:23"
+        },
+        {
+          "start_ref": "43007035",
+          "start_ref_usfm": "JHN 7:35",
+          "end_ref": "43007035",
+          "end_ref_usfm": "JHN 7:35"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 466742,
+          "label": "Captif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 467214,
+          "label": "Persécuter",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 559324,
+          "label": "Exil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

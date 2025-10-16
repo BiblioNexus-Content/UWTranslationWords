@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26695,
+    "reference_id": 25837,
+    "title": "Hilkiah",
+    "media_type": "Text",
+    "index_reference": "hilkiah",
+    "language": "eng",
+    "content": "<h1>Hilkiah</h1><h2>Facts:</h2><p>Hilkiah was the high priest during the reign of King Josiah.</p><ul><li><p>When the temple was being repaired, Hilkiah the high priest found the Book of the Law and ordered that it be brought to King Josiah.</p></li><li><p>After the Book of the Law was read to him, Josiah was grieved and caused the people of Judah to worship Yahweh again and obey his laws.</p></li><li><p>Another man named Hilkiah was the son of Eliakim and worked in the palace during the time of King Hezekiah.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25696\" data-resourceType=\"UWTranslationWords\">Eliakim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Hezekiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">high priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">Josiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25957\" data-resourceType=\"UWTranslationWords\">law</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">worship</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs18:18\">2 Kings 18:18</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2518</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018018",
+          "start_ref_usfm": "2KI 18:18",
+          "end_ref": "12018018",
+          "end_ref_usfm": "2KI 18:18"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007001",
+          "end_ref_usfm": "EZR 7:1"
+        },
+        {
+          "start_ref": "16008004",
+          "start_ref_usfm": "NEH 8:4",
+          "end_ref": "16008004",
+          "end_ref_usfm": "NEH 8:4"
+        },
+        {
+          "start_ref": "16011011",
+          "start_ref_usfm": "NEH 11:11",
+          "end_ref": "16011011",
+          "end_ref_usfm": "NEH 11:11"
+        },
+        {
+          "start_ref": "16012007",
+          "start_ref_usfm": "NEH 12:7",
+          "end_ref": "16012007",
+          "end_ref_usfm": "NEH 12:7"
+        },
+        {
+          "start_ref": "16012021",
+          "start_ref_usfm": "NEH 12:21",
+          "end_ref": "16012021",
+          "end_ref_usfm": "NEH 12:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25696,
+          "content_id": 26554,
+          "label": "Eliakim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 26692,
+          "label": "Hezekiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 26694,
+          "label": "High Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 26779,
+          "label": "Josiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 26815,
+          "label": "Law",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 27215,
+          "label": "Worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 27218,
+          "label": "Yahweh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466745,
+    "reference_id": 25577,
+    "title": "Enlevé",
+    "media_type": "Text",
+    "index_reference": "enlevé",
+    "language": "fra",
+    "content": "<h1>enlevé</h1><h2>Définition :</h2><p>Le terme &quot;enlevé&quot; fait souvent allusion à Dieu qui prend une personne au ciel d&apos;une manière miraculeuse soudaine.</p><ul><li><p>L&apos;expression «enlevé» fait référence à aller vers quelqu&apos;un après avoir été pressé de le rejoindre* Une signification similaire est: &quot;dépasser*&quot;</p></li><li><p>L&apos;apôtre Paul a parlé d&apos;être &quot;enlevé&quot; au troisième ciel* Cela pourrait aussi être traduit par «pris».</p></li><li><p>Paul dit que lorsque le Christ reviendra, les chrétiens seront &quot;enlevés&quot; ensemble pour le rencontrer dans les airs.</p></li><li><p>L&apos;expression figurative, «mes péchés me sont enlevés&quot; pourrait être traduit par &quot;Je suis pardonnné de mes péchés&quot;</p></li></ul><p>(see: (../kt/miracle.md), (../other/overtake.md), (../other/suffer.md), (../other/trouble.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "47012002",
+          "start_ref_usfm": "2CO 12:2",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        },
+        {
+          "start_ref": "47012004",
+          "start_ref_usfm": "2CO 12:4",
+          "end_ref": "47012004",
+          "end_ref_usfm": "2CO 12:4"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "47012001",
+          "start_ref_usfm": "2CO 12:1",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26022,
+          "content_id": 467159,
+          "label": "Miracle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 467386,
+          "label": "Souffrir",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26320,
+          "content_id": 467433,
+          "label": "Troubler",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

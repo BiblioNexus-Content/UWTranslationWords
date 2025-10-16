@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467303,
+    "reference_id": 26183,
+    "title": "Ruine",
+    "media_type": "Text",
+    "index_reference": "ruine",
+    "language": "fra",
+    "content": "<h1>ruine, ruiner</h1><h2>Définition :</h2><p>&quot; ruiner&quot; quelque chose signifie gâcher, détruire ou rendre inutile* Le terme «ruine» ou «ruines» désigne les décombres ou restes gâtés de quelque chose qui a été détruit.</p><ul><li><p>Le prophète Sophonie a parlé du jour de la colère de Dieu comme un «jour de ruine&quot; quand le monde sera jugé et puni.</p></li><li><p>Le livre des Proverbes dit que la ruine et la destruction attendent ceux qui sont impies.</p></li><li><p>Selon le contexte, «à la ruine&quot; pourrait être traduit par «détruire» ou «gâcher» ou «rendre inutile» ou « briser*&quot;</p></li><li><p>Le terme «ruine» ou «ruines» pourrait être traduit par «décombres» ou «bâtiments détruits» ou «ville détruite» ou «dévastation» ou «brisure» ou «destruction», selon le contexte.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02008024",
+          "start_ref_usfm": "EXO 8:24",
+          "end_ref": "02008024",
+          "end_ref_usfm": "EXO 8:24"
+        },
+        {
+          "start_ref": "20010014",
+          "start_ref_usfm": "PRO 10:14",
+          "end_ref": "20010014",
+          "end_ref_usfm": "PRO 10:14"
+        },
+        {
+          "start_ref": "20010015",
+          "start_ref_usfm": "PRO 10:15",
+          "end_ref": "20010015",
+          "end_ref_usfm": "PRO 10:15"
+        },
+        {
+          "start_ref": "20010029",
+          "start_ref_usfm": "PRO 10:29",
+          "end_ref": "20010029",
+          "end_ref_usfm": "PRO 10:29"
+        },
+        {
+          "start_ref": "20013003",
+          "start_ref_usfm": "PRO 13:3",
+          "end_ref": "20013003",
+          "end_ref_usfm": "PRO 13:3"
+        },
+        {
+          "start_ref": "20014028",
+          "start_ref_usfm": "PRO 14:28",
+          "end_ref": "20014028",
+          "end_ref_usfm": "PRO 14:28"
+        },
+        {
+          "start_ref": "20018007",
+          "start_ref_usfm": "PRO 18:7",
+          "end_ref": "20018007",
+          "end_ref_usfm": "PRO 18:7"
+        },
+        {
+          "start_ref": "20023008",
+          "start_ref_usfm": "PRO 23:8",
+          "end_ref": "20023008",
+          "end_ref_usfm": "PRO 23:8"
+        },
+        {
+          "start_ref": "20026028",
+          "start_ref_usfm": "PRO 26:28",
+          "end_ref": "20026028",
+          "end_ref_usfm": "PRO 26:28"
+        },
+        {
+          "start_ref": "42006049",
+          "start_ref_usfm": "LUK 6:49",
+          "end_ref": "42006049",
+          "end_ref_usfm": "LUK 6:49"
+        },
+        {
+          "start_ref": "44015016",
+          "start_ref_usfm": "ACT 15:16",
+          "end_ref": "44015016",
+          "end_ref_usfm": "ACT 15:16"
+        },
+        {
+          "start_ref": "54006009",
+          "start_ref_usfm": "1TI 6:9",
+          "end_ref": "54006009",
+          "end_ref_usfm": "1TI 6:9"
+        },
+        {
+          "start_ref": "55002014",
+          "start_ref_usfm": "2TI 2:14",
+          "end_ref": "55002014",
+          "end_ref_usfm": "2TI 2:14"
+        },
+        {
+          "start_ref": "12019025",
+          "start_ref_usfm": "2KI 19:25",
+          "end_ref": "12019026",
+          "end_ref_usfm": "2KI 19:26"
+        },
+        {
+          "start_ref": "14012007",
+          "start_ref_usfm": "2CH 12:7",
+          "end_ref": "14012008",
+          "end_ref_usfm": "2CH 12:8"
+        },
+        {
+          "start_ref": "23023013",
+          "start_ref_usfm": "ISA 23:13",
+          "end_ref": "23023014",
+          "end_ref_usfm": "ISA 23:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25666,
+          "content_id": 466828,
+          "label": "Devaster ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

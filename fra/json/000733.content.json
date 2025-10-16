@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467285,
+    "reference_id": 26165,
+    "title": "Roboam",
+    "media_type": "Text",
+    "index_reference": "roboam",
+    "language": "fra",
+    "content": "<h1>Roboam</h1><h2>Données :</h2><p>Roboam était l&apos;un des fils du roi Salomon qui est devenu roi d&apos;Israël, après la mort de Salomon.</p><ul><li><p>Au début de son règne, Roboam a été très sévère avec son peuple, donc dix des tribus d&apos;Israël se sont rebellées contre lui et ont formé le « royaume d&apos;Israël » dans le nord.</p></li><li><p>Roboam a continué d&apos;être le roi du royaume de Juda, qui se composait de deux tribus qui lui sont restées fidèles.</p></li><li><p>Roboam était un roi méchant qui n&apos;a obéit pas à Yahvé, mais qui a servi de faux dieux.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/kingdomofisrael.md), (../names/kingdomofjudah.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003010",
+          "end_ref_usfm": "1CH 3:10"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "11011041",
+          "start_ref_usfm": "1KI 11:41",
+          "end_ref": "11011043",
+          "end_ref_usfm": "1KI 11:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

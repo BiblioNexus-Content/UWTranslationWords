@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237582,
+    "reference_id": 25444,
+    "title": "Alarme",
+    "media_type": "Text",
+    "index_reference": "alarme",
+    "language": "por",
+    "content": "<h1>alarme, alarmado</h1><h2>Fatos:</h2><p>Um alarme é algo que avisa as pessoas sobre qualquer coisa que pode prejudicá-las. Estar “alarmado” é estar muito preocupado e assustado com algo perigoso ou ameaçador.</p><ul><li><p>O rei Jeosafá ficou alarmado quando soube que os moabitas estavam planejando atacar o reino de Judá.</p></li><li><p>Jesus disse aos seus discípulos para não ficarem alarmados quando ouvirem sobre desastres acontecendo nos últimos dias.</p></li><li><p>A expressão “soar um alarme” significa dar um aviso. Nos tempos antigos, uma pessoa podia soar um alarme fazendo um barulho.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>“Alarmar alguém” significa “causar preocupação a alguém” ou “preocupar alguém”.</p></li><li><p>“Estar alarmado” poderia ser traduzido como “estar preocupado” ou “estar assustado” ou “estar muito preocupado”.</p></li><li><p>A expressão “soar um alarme” poderia ser traduzida como “avisar publicamente” ou “anunciar que o perigo está chegando” ou “tocar uma trombeta para avisar sobre o perigo”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Josafá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moabe</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan11:44-Dan11:45\">Daniel 11.44–45</a></p></li><li><p><a href=\"https://ref.ly/Jer4:19-Jer4:20\">Jeremias 4.19–20</a></p></li><li><p><a href=\"https://ref.ly/Num10:9\">Números 10.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7321, H8643</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04010009",
+          "start_ref_usfm": "NUM 10:9",
+          "end_ref": "04010009",
+          "end_ref_usfm": "NUM 10:9"
+        },
+        {
+          "start_ref": "18038007",
+          "start_ref_usfm": "JOB 38:7",
+          "end_ref": "18038007",
+          "end_ref_usfm": "JOB 38:7"
+        },
+        {
+          "start_ref": "27011044",
+          "start_ref_usfm": "DAN 11:44",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "24004019",
+          "start_ref_usfm": "JER 4:19",
+          "end_ref": "24004020",
+          "end_ref_usfm": "JER 4:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25892,
+          "content_id": 238025,
+          "label": "Josafá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 238156,
+          "label": "Moabe",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

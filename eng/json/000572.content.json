@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26845,
+    "reference_id": 25987,
+    "title": "Magic",
+    "media_type": "Text",
+    "index_reference": "magic",
+    "language": "eng",
+    "content": "<h1>magic, magical, magician, who talk with spirits</h1><h2>Definition:</h2><p>The term “magic” refers to the practice of using supernatural power that does not come from God. A “magician” is someone who practices magic.</p><ul><li><p>In Egypt, when God did miraculous things through Moses, the Egyptian pharaoh’s magicians were able to do some of the same things, but their power did not come from God.</p></li><li><p>Magic often involves casting spells or repeating certain words in order to make something supernatural happen.</p></li><li><p>God commands his people to not do any of these practices of magic or divination.</p></li><li><p>A sorcerer is a type of magician, usually one who uses magic to do harm to others.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25674\" data-resourceType=\"UWTranslationWords\">divination</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">Pharaoh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">power</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26253\" data-resourceType=\"UWTranslationWords\">sorcery</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen41:8\">Genesis 41:8</a></p></li><li><p><a href=\"https://ref.ly/Gen41:22-Gen41:24\">Genesis 41:22–24</a></p></li><li><p><a href=\"https://ref.ly/Gen44:3-Gen44:5\">Genesis 44:3–5</a></p></li><li><p><a href=\"https://ref.ly/Gen44:15\">Genesis 44:15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2748, H2749, H3049, G30970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041008",
+          "start_ref_usfm": "GEN 41:8",
+          "end_ref": "01041008",
+          "end_ref_usfm": "GEN 41:8"
+        },
+        {
+          "start_ref": "01041024",
+          "start_ref_usfm": "GEN 41:24",
+          "end_ref": "01041024",
+          "end_ref_usfm": "GEN 41:24"
+        },
+        {
+          "start_ref": "01044015",
+          "start_ref_usfm": "GEN 44:15",
+          "end_ref": "01044015",
+          "end_ref_usfm": "GEN 44:15"
+        },
+        {
+          "start_ref": "02007011",
+          "start_ref_usfm": "EXO 7:11",
+          "end_ref": "02007011",
+          "end_ref_usfm": "EXO 7:11"
+        },
+        {
+          "start_ref": "02007022",
+          "start_ref_usfm": "EXO 7:22",
+          "end_ref": "02007022",
+          "end_ref_usfm": "EXO 7:22"
+        },
+        {
+          "start_ref": "02008007",
+          "start_ref_usfm": "EXO 8:7",
+          "end_ref": "02008007",
+          "end_ref_usfm": "EXO 8:7"
+        },
+        {
+          "start_ref": "02008018",
+          "start_ref_usfm": "EXO 8:18",
+          "end_ref": "02008018",
+          "end_ref_usfm": "EXO 8:18"
+        },
+        {
+          "start_ref": "02008019",
+          "start_ref_usfm": "EXO 8:19",
+          "end_ref": "02008019",
+          "end_ref_usfm": "EXO 8:19"
+        },
+        {
+          "start_ref": "02009011",
+          "start_ref_usfm": "EXO 9:11",
+          "end_ref": "02009011",
+          "end_ref_usfm": "EXO 9:11"
+        },
+        {
+          "start_ref": "44013006",
+          "start_ref_usfm": "ACT 13:6",
+          "end_ref": "44013006",
+          "end_ref_usfm": "ACT 13:6"
+        },
+        {
+          "start_ref": "44013008",
+          "start_ref_usfm": "ACT 13:8",
+          "end_ref": "44013008",
+          "end_ref_usfm": "ACT 13:8"
+        },
+        {
+          "start_ref": "01041022",
+          "start_ref_usfm": "GEN 41:22",
+          "end_ref": "01041024",
+          "end_ref_usfm": "GEN 41:24"
+        },
+        {
+          "start_ref": "01044003",
+          "start_ref_usfm": "GEN 44:3",
+          "end_ref": "01044005",
+          "end_ref_usfm": "GEN 44:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25674,
+          "content_id": 26532,
+          "label": "Divination",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 26952,
+          "label": "Pharaoh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26253,
+          "content_id": 27111,
+          "label": "Sorcery",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

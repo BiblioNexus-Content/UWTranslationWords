@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26326,
+    "reference_id": 25468,
+    "title": "Aquila",
+    "media_type": "Text",
+    "index_reference": "aquila",
+    "language": "eng",
+    "content": "<h1>Aquila</h1><h2>Facts:</h2><p>Aquila was a Jewish Christian from the province of Pontus, a region along the southern coast of the Black Sea.</p><ul><li><p>Aquila and Priscilla lived in Rome, Italy, for a time, but then the Roman emperor, Claudius, forced all Jews to leave Rome.</p></li><li><p>After that Aquila and Priscilla traveled to Corinth, where they met the apostle Paul.</p></li><li><p>They worked as tentmakers with Paul and also helped him with his missionary work.</p></li><li><p>Both Aquila and Priscilla taught believers the truth about Jesus; one of those believers was a gifted teacher named Apollos.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25465\" data-resourceType=\"UWTranslationWords\">Apollos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">Corinth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor16:19-1Cor16:20\">1 Corinthians 16:19–20</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:19-2Tim4:22\">2 Timothy 4:19–22</a></p></li><li><p><a href=\"https://ref.ly/Acts18:2\">Acts 18:2</a></p></li><li><p><a href=\"https://ref.ly/Acts18:24\">Acts 18:24</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G02070</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018026",
+          "start_ref_usfm": "ACT 18:26",
+          "end_ref": "44018026",
+          "end_ref_usfm": "ACT 18:26"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016003",
+          "end_ref_usfm": "ROM 16:3"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25465,
+          "content_id": 26323,
+          "label": "Apollos",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25612,
+          "content_id": 26470,
+          "label": "Corinth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

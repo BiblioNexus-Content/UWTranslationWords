@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179875,
+    "reference_id": 25804,
+    "title": "यूनान",
+    "media_type": "Text",
+    "index_reference": "यूनान",
+    "language": "hin",
+    "content": "<h1>यूनान, यूनानी</h1><h2>तथ्य:</h2><p>नए नियम के युग में यूनान रोमी साम्राज्य का एक प्रान्त था।</p><ul><li><p>आज के यूनान के स्थान ही में वह यूनान भूमध्य-सागर, एजियन सागर और आयोनियन सागर के तटों पर एक प्रायद्वीप था।</p></li><li><p>प्रेरित पौलुस यूनान के अनेक नगरों में गया था और वहां कलीसियाओं की स्थापना की, कुरिन्थ, थिस्सलुनीके, फिलिप्पी तथा अन्य।</p></li><li><p>यूनान के नागरिक यूनानी कहलाते हैं और उनकी भाषा भी यूनानी ही कहलाती है। रोम के अन्य प्रान्तों के लोग भी यूनानी भाषा बोलते थे जिनमे यहूदी भी थे।</p></li><li><p>कभी-कभी यूनानी शब्द अन्य जाति के लिए भी काम में लिया जाता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">कुरिन्थ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">अन्य-जाति</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25805\" data-resourceType=\"UWTranslationWords\">यूनानी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25826\" data-resourceType=\"UWTranslationWords\">इब्रानी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26097\" data-resourceType=\"UWTranslationWords\">फिलिप्पियों</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26295\" data-resourceType=\"UWTranslationWords\">थिस्सलोनिके</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan8:20-Dan8:21\">दानिय्येल 08:20–21</a></p></li><li><p><a href=\"https://ref.ly/Dan10:20-Dan10:21\">दानिय्येल 10:20–21</a></p></li><li><p><a href=\"https://ref.ly/Dan11:1-Dan11:2\">दानिय्येल 11:1–2</a></p></li><li><p><a href=\"https://ref.ly/Zech9:11-Zech9:13\">जकर्याह 09:11–13</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3120, G1671</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "27008021",
+          "start_ref_usfm": "DAN 8:21",
+          "end_ref": "27008021",
+          "end_ref_usfm": "DAN 8:21"
+        },
+        {
+          "start_ref": "38009013",
+          "start_ref_usfm": "ZEC 9:13",
+          "end_ref": "38009013",
+          "end_ref_usfm": "ZEC 9:13"
+        },
+        {
+          "start_ref": "44020002",
+          "start_ref_usfm": "ACT 20:2",
+          "end_ref": "44020002",
+          "end_ref_usfm": "ACT 20:2"
+        },
+        {
+          "start_ref": "27010020",
+          "start_ref_usfm": "DAN 10:20",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "27011001",
+          "start_ref_usfm": "DAN 11:1",
+          "end_ref": "27011002",
+          "end_ref_usfm": "DAN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25612,
+          "content_id": 179691,
+          "label": "कुरिन्थुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 179844,
+          "label": "अन्यजाति",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 179876,
+          "label": "यूनानी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25826,
+          "content_id": 179896,
+          "label": "इब्रानी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26097,
+          "content_id": 180159,
+          "label": "फिलिप्पी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 180348,
+          "label": "थिस्सलुनिके",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

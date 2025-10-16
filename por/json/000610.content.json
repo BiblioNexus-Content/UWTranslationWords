@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 238167,
+    "reference_id": 26037,
+    "title": "Mirra",
+    "media_type": "Text",
+    "index_reference": "mirra",
+    "language": "por",
+    "content": "<h1>mirra</h1><h2>Definição:</h2><p>Mirra é um óleo ou especiaria feita da resina de uma árvore de mirra que cresce na África e na Ásia. Está relacionada ao incenso.</p><ul><li><p>A mirra também era usada para fazer incenso, perfume e remédio, e para preparar corpos mortos para o enterro.</p></li><li><p>A mirra foi um dos presentes que os homens sábios deram a Jesus quando ele nasceu.</p></li><li><p>Jesus foi oferecido vinho misturado com mirra para aliviar a dor quando ele foi crucificado.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25757\" data-resourceType=\"UWTranslationWords\">incenso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25962\" data-resourceType=\"UWTranslationWords\">homens instruídos</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod30:22-Exod30:25\">Êxodo 30.22–25</a></p></li><li><p><a href=\"https://ref.ly/Gen37:25-Gen37:26\">Gênesis 37.25–26</a></p></li><li><p><a href=\"https://ref.ly/John11:1-John11:2\">João 11.1–2</a></p></li><li><p><a href=\"https://ref.ly/Mark15:23\">Marcos 15.23</a></p></li><li><p><a href=\"https://ref.ly/Matt2:11-Matt2:12\">Mateus 2.11–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3910, H4753, G34640, G46660, G46690</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "01043011",
+          "start_ref_usfm": "GEN 43:11",
+          "end_ref": "01043011",
+          "end_ref_usfm": "GEN 43:11"
+        },
+        {
+          "start_ref": "02030023",
+          "start_ref_usfm": "EXO 30:23",
+          "end_ref": "02030023",
+          "end_ref_usfm": "EXO 30:23"
+        },
+        {
+          "start_ref": "20007017",
+          "start_ref_usfm": "PRO 7:17",
+          "end_ref": "20007017",
+          "end_ref_usfm": "PRO 7:17"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "41015023",
+          "start_ref_usfm": "MRK 15:23",
+          "end_ref": "41015023",
+          "end_ref_usfm": "MRK 15:23"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019039",
+          "end_ref_usfm": "JHN 19:39"
+        },
+        {
+          "start_ref": "02030022",
+          "start_ref_usfm": "EXO 30:22",
+          "end_ref": "02030025",
+          "end_ref_usfm": "EXO 30:25"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25757,
+          "content_id": 237890,
+          "label": "Incenso",
+          "language": "por"
+        },
+        {
+          "reference_id": 25962,
+          "content_id": 238093,
+          "label": "Homens Instruídos",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

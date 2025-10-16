@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467275,
+    "reference_id": 26154,
+    "title": "Rançon",
+    "media_type": "Text",
+    "index_reference": "rançon",
+    "language": "fra",
+    "content": "<h1>rançon, rançonner</h1><h2>Définition :</h2><p>Le terme « rançon » fait référence à une somme d&apos;argent ou autre paiement qui est exigé ou payé pour la libération d&apos;une personne détenue en captivité.</p><ul><li><p>En tant que verbe, « rançonner » signifie effectuer un paiement ou faire un sacrifice pour sauver quelqu&apos;un qui a été capturé, réduit en esclavage ou emprisonné. Dans ce sens cette expression signifie « racheter ».</p></li><li><p>Jésus se laissa tuer en rançon pour libérer les pécheurs de leur asservissement au péché. Cet acte de Dieu rachetant son peuple en payant la punition de leur péché est aussi appelé « rédemption » dans la Bible.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Le terme « rançonner » pourrait également être traduit par « payer pour libérer » ou « payer un prix pour libérer » ou « racheter ».</p></li><li><p>L&apos;expression « payer une rançon » pourrait être traduite par « payer le prix (de la liberté) » ou « payer la punition (pour libérer les gens)» ou « effectuer le paiement requis ».</p></li><li><p>Le nom « rançon » pourrait être traduit par « un rachat » ou « le prix payé » (pour libérer ou racheter des personnes ou des terres).</p></li><li><p>Les termes « rançon » et « rachat » ont la même signification mais sont parfois utilisés légèrement différemment. D&apos;autres langues peuvent n&apos;avoir qu&apos;un seul terme pour ce concept.</p></li><li><p>Assurez-vous que cela est traduit différemment d&apos;« expiation ». (Voir aussi : (../kt/atonement.md), (../kt/redeem.md))</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02013013",
+          "start_ref_usfm": "EXO 13:13",
+          "end_ref": "02013013",
+          "end_ref_usfm": "EXO 13:13"
+        },
+        {
+          "start_ref": "02013015",
+          "start_ref_usfm": "EXO 13:15",
+          "end_ref": "02013015",
+          "end_ref_usfm": "EXO 13:15"
+        },
+        {
+          "start_ref": "02021030",
+          "start_ref_usfm": "EXO 21:30",
+          "end_ref": "02021030",
+          "end_ref_usfm": "EXO 21:30"
+        },
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02030015",
+          "start_ref_usfm": "EXO 30:15",
+          "end_ref": "02030015",
+          "end_ref_usfm": "EXO 30:15"
+        },
+        {
+          "start_ref": "02030016",
+          "start_ref_usfm": "EXO 30:16",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "02034020",
+          "start_ref_usfm": "EXO 34:20",
+          "end_ref": "02034020",
+          "end_ref_usfm": "EXO 34:20"
+        },
+        {
+          "start_ref": "03019020",
+          "start_ref_usfm": "LEV 19:20",
+          "end_ref": "03019020",
+          "end_ref_usfm": "LEV 19:20"
+        },
+        {
+          "start_ref": "18006023",
+          "start_ref_usfm": "JOB 6:23",
+          "end_ref": "18006023",
+          "end_ref_usfm": "JOB 6:23"
+        },
+        {
+          "start_ref": "19049007",
+          "start_ref_usfm": "PSA 49:7",
+          "end_ref": "19049007",
+          "end_ref_usfm": "PSA 49:7"
+        },
+        {
+          "start_ref": "20006035",
+          "start_ref_usfm": "PRO 6:35",
+          "end_ref": "20006035",
+          "end_ref_usfm": "PRO 6:35"
+        },
+        {
+          "start_ref": "20013008",
+          "start_ref_usfm": "PRO 13:8",
+          "end_ref": "20013008",
+          "end_ref_usfm": "PRO 13:8"
+        },
+        {
+          "start_ref": "20021018",
+          "start_ref_usfm": "PRO 21:18",
+          "end_ref": "20021018",
+          "end_ref_usfm": "PRO 21:18"
+        },
+        {
+          "start_ref": "23043003",
+          "start_ref_usfm": "ISA 43:3",
+          "end_ref": "23043003",
+          "end_ref_usfm": "ISA 43:3"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "41010045",
+          "start_ref_usfm": "MRK 10:45",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "54002006",
+          "start_ref_usfm": "1TI 2:6",
+          "end_ref": "54002006",
+          "end_ref_usfm": "1TI 2:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25490,
+          "content_id": 466669,
+          "label": "Expier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 467281,
+          "label": "Racheter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

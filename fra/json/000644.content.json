@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 467231,
+    "reference_id": 26107,
+    "title": "Peste",
+    "media_type": "Text",
+    "index_reference": "peste",
+    "language": "fra",
+    "content": "<h1>peste</h1><h2>Définition :</h2><p>La peste est une maladie ou un événement qui cause des souffrances ou la mort d&apos;un grand nombre de personnes.</p><ul><li><p>De nombreux fléaux ont des causes naturelles, mais certains ont été envoyés par Dieu pour punir les gens pour leurs péchés.</p></li><li><p>Au temps de Moïse, Dieu a envoyé dix plaies contre l&apos;Egypte pour forcer Pharaon à laisser Israël de quitter l&apos;Egypte.</p></li></ul><p>(Voir aussi : (../other/hail.md), (../kt/israel.md), (../names/moses.md), (../names/pharaoh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02005003",
+          "start_ref_usfm": "EXO 5:3",
+          "end_ref": "02005003",
+          "end_ref_usfm": "EXO 5:3"
+        },
+        {
+          "start_ref": "02009003",
+          "start_ref_usfm": "EXO 9:3",
+          "end_ref": "02009003",
+          "end_ref_usfm": "EXO 9:3"
+        },
+        {
+          "start_ref": "02009014",
+          "start_ref_usfm": "EXO 9:14",
+          "end_ref": "02009014",
+          "end_ref_usfm": "EXO 9:14"
+        },
+        {
+          "start_ref": "02009015",
+          "start_ref_usfm": "EXO 9:15",
+          "end_ref": "02009015",
+          "end_ref_usfm": "EXO 9:15"
+        },
+        {
+          "start_ref": "02011001",
+          "start_ref_usfm": "EXO 11:1",
+          "end_ref": "02011001",
+          "end_ref_usfm": "EXO 11:1"
+        },
+        {
+          "start_ref": "02012013",
+          "start_ref_usfm": "EXO 12:13",
+          "end_ref": "02012013",
+          "end_ref_usfm": "EXO 12:13"
+        },
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02032035",
+          "start_ref_usfm": "EXO 32:35",
+          "end_ref": "02032035",
+          "end_ref_usfm": "EXO 32:35"
+        },
+        {
+          "start_ref": "42021011",
+          "start_ref_usfm": "LUK 21:11",
+          "end_ref": "42021011",
+          "end_ref_usfm": "LUK 21:11"
+        },
+        {
+          "start_ref": "66009018",
+          "start_ref_usfm": "REV 9:18",
+          "end_ref": "66009018",
+          "end_ref_usfm": "REV 9:18"
+        },
+        {
+          "start_ref": "66009020",
+          "start_ref_usfm": "REV 9:20",
+          "end_ref": "66009020",
+          "end_ref_usfm": "REV 9:20"
+        },
+        {
+          "start_ref": "66011006",
+          "start_ref_usfm": "REV 11:6",
+          "end_ref": "66011006",
+          "end_ref_usfm": "REV 11:6"
+        },
+        {
+          "start_ref": "66015001",
+          "start_ref_usfm": "REV 15:1",
+          "end_ref": "66015001",
+          "end_ref_usfm": "REV 15:1"
+        },
+        {
+          "start_ref": "66015006",
+          "start_ref_usfm": "REV 15:6",
+          "end_ref": "66015006",
+          "end_ref_usfm": "REV 15:6"
+        },
+        {
+          "start_ref": "66015008",
+          "start_ref_usfm": "REV 15:8",
+          "end_ref": "66015008",
+          "end_ref_usfm": "REV 15:8"
+        },
+        {
+          "start_ref": "66016009",
+          "start_ref_usfm": "REV 16:9",
+          "end_ref": "66016009",
+          "end_ref_usfm": "REV 16:9"
+        },
+        {
+          "start_ref": "66016021",
+          "start_ref_usfm": "REV 16:21",
+          "end_ref": "66016021",
+          "end_ref_usfm": "REV 16:21"
+        },
+        {
+          "start_ref": "66018004",
+          "start_ref_usfm": "REV 18:4",
+          "end_ref": "66018004",
+          "end_ref_usfm": "REV 18:4"
+        },
+        {
+          "start_ref": "66018008",
+          "start_ref_usfm": "REV 18:8",
+          "end_ref": "66018008",
+          "end_ref_usfm": "REV 18:8"
+        },
+        {
+          "start_ref": "66021009",
+          "start_ref_usfm": "REV 21:9",
+          "end_ref": "66021009",
+          "end_ref_usfm": "REV 21:9"
+        },
+        {
+          "start_ref": "66022018",
+          "start_ref_usfm": "REV 22:18",
+          "end_ref": "66022018",
+          "end_ref_usfm": "REV 22:18"
+        },
+        {
+          "start_ref": "01012017",
+          "start_ref_usfm": "GEN 12:17",
+          "end_ref": "01012020",
+          "end_ref_usfm": "GEN 12:20"
+        },
+        {
+          "start_ref": "10024013",
+          "start_ref_usfm": "2SA 24:13",
+          "end_ref": "10024014",
+          "end_ref_usfm": "2SA 24:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25812,
+          "content_id": 466961,
+          "label": "La grèle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 467218,
+          "label": "Pharaon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

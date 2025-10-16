@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 180050,
+    "reference_id": 25985,
+    "title": "माका",
+    "media_type": "Text",
+    "index_reference": "माका",
+    "language": "hin",
+    "content": "<h1>माका</h1><h2>तथ्य:</h2><p>माका अब्राहम के भाई नाहोर के पुत्रों में से एक था। पुराने नियम में इस नाम के और भी पुरुष हुए हैं।</p><ul><li><p>माका या बेतमाका नगर इस्राएल के दूर उत्तर में नप्ताली गोत्र के क्षेत्र में था।</p></li><li><p>यह एक महत्वपूर्ण नगर था और शत्रु बार-बार उस पर आक्रमण करते थे।</p></li><li><p>माका अनेक स्त्रियाँ का नाम था, जिनमें दाऊद के पुत्र अबशालोम की माँ भी थी।</p></li><li><p>राजा आसा ने अपनी माता माका को रानी होने से हटा दिया था क्योंकि उसने अशेरा की मूर्ति-पूजा आरंभ कर दी थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">आसा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25483\" data-resourceType=\"UWTranslationWords\">अशेरा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26040\" data-resourceType=\"UWTranslationWords\">नहोर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">नप्ताली</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4601</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25479,
+          "content_id": 179567,
+          "label": "आसा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25483,
+          "content_id": 179571,
+          "label": "अशेरा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 180104,
+          "label": "नाहोर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 180106,
+          "label": "नप्ताली",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

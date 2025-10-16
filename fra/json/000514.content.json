@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467102,
+    "reference_id": 25962,
+    "title": "Les savants",
+    "media_type": "Text",
+    "index_reference": "les savants",
+    "language": "fra",
+    "content": "<h1>les savants, les astrologues</h1><h2>Définition :</h2><p>&quot;Dans le récit de Matthieu de la naissance du Christ, ces «savants» ou «éduqués» hommes étaient les «sages» qui ont apporté des cadeaux à Jésus à Bethléem quelque temps après sa naissance * Ils se peut qu&apos;ils aient été des «astrologues», qui sont des gens qui étudient les étoiles.</p><ul><li><p>Ces hommes ont voyagé un long chemin depuis un pays loin à l&apos;est d&apos;Israël*On ne connaît pas exactement là où ils viennent et qui ils étaient * Mais ils étaient évidemment des savants qui ont étudiaient les étoiles.</p></li><li><p>Ils peuvent avoir été des descendants des hommes sages qui ont servi les rois babyloniens à l&apos;époque de Daniel et qui ont été formés dans beaucoup de choses, y compris l&apos;étude des étoiles et l&apos;interprétation des rêves</p></li><li><p>Traditionnellement, il a été dit qu&apos;il y avait trois de ces hommes à cause des trois cadeaux qu&apos;ils ont apportés à Jésus* Cependant, il est également tout à fait possible qu&apos;il y avait plus que cela.</p></li></ul><p>(Voir aussi : (../names/babylon.md), (../names/bethlehem.md), (../names/daniel.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002027",
+          "start_ref_usfm": "DAN 2:27",
+          "end_ref": "27002027",
+          "end_ref_usfm": "DAN 2:27"
+        },
+        {
+          "start_ref": "27005007",
+          "start_ref_usfm": "DAN 5:7",
+          "end_ref": "27005007",
+          "end_ref_usfm": "DAN 5:7"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

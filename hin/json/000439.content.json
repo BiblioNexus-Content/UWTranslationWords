@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179998,
+    "reference_id": 25931,
+    "title": "न्याय का दिन",
+    "media_type": "Text",
+    "index_reference": "न्याय का दिन",
+    "language": "hin",
+    "content": "<h1>न्याय का दिन</h1><h2>परिभाषा:</h2><p>“न्याय का दिन” उस भावी समय के संदर्भ में है जब परमेश्वर हर एक मनुष्य का न्याय करेगा।</p><ul><li><p>परमेश्वर ने अपने पुत्र मसीह यीशु को सब मनुष्यों का न्यायी ठहराया है।</p></li><li><p>न्याय के दिन मसीह अपने धर्मनिष्ठ चरित्र के आधार पर मनुष्यों का न्याय करेगा।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>इसका अनुवाद “न्याय करने का समय” हो सकता है क्योंकि यह एक दिन से अधिक समय का होगा।</p></li><li><p>इस उक्ति के अन्य अनुवाद रूप हो सकते हैं “अन्त समय जब परमेश्वर सब मनुष्यों का न्याय करेगा।”</p></li><li><p>कुछ अनुवादों में इस उक्ति को बड़े अक्षरों में लिखा जाता है कि इसे विशेष दिन या समय दर्शाया जाए: “न्याय का दिन” या “न्याय का समय”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">न्यायी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">यीशु</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25825\" data-resourceType=\"UWTranslationWords\">स्वर्ग</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25829\" data-resourceType=\"UWTranslationWords\">नरक</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke10:12\">लूका 10:12</a></p></li><li><p><a href=\"https://ref.ly/Luke11:31\">लूका 11:31</a></p></li><li><p><a href=\"https://ref.ly/Luke11:32\">लूका 11:32</a></p></li><li><p><a href=\"https://ref.ly/Matt10:14-Matt10:15\">मत्ती 10:14–15</a></p></li><li><p><a href=\"https://ref.ly/Matt12:36-Matt12:37\">मत्ती 12:36–37</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2962, H3117, H4941, G22500, G29200, G29620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010015",
+          "start_ref_usfm": "MAT 10:15",
+          "end_ref": "40010015",
+          "end_ref_usfm": "MAT 10:15"
+        },
+        {
+          "start_ref": "40012036",
+          "start_ref_usfm": "MAT 12:36",
+          "end_ref": "40012036",
+          "end_ref_usfm": "MAT 12:36"
+        },
+        {
+          "start_ref": "42010012",
+          "start_ref_usfm": "LUK 10:12",
+          "end_ref": "42010012",
+          "end_ref_usfm": "LUK 10:12"
+        },
+        {
+          "start_ref": "42011031",
+          "start_ref_usfm": "LUK 11:31",
+          "end_ref": "42011031",
+          "end_ref_usfm": "LUK 11:31"
+        },
+        {
+          "start_ref": "42011032",
+          "start_ref_usfm": "LUK 11:32",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25825,
+          "content_id": 179895,
+          "label": "स्वर्ग",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 179899,
+          "label": "नरक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 179967,
+          "label": "यीशु",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 179996,
+          "label": "न्यायी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

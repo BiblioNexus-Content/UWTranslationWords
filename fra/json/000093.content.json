@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466675,
+    "reference_id": 25497,
+    "title": "Baal",
+    "media_type": "Text",
+    "index_reference": "baal",
+    "language": "fra",
+    "content": "<h1>Baal</h1><h2>Données :</h2><p>« Baal » signifie « seigneur » ou « maître » et était le nom du faux dieu principal qui était adoré par les Cananéens.</p><ul><li><p>Il y avait des faux dieux locaux qui avaient « Baal » comme une partie de leurs noms, tels que « Baal Peor ». Souvent, on appelait tous ces dieux ensemble « les Baals ».</p></li><li><p>Certaines personnes avaient des noms qui comprenaient le mot « Baal ». Par example, on trouve la phrase suivante dans 1Ch 1:48 « Saül est mort; et Baal Hanan, fils d&apos;Acbor, a régné à sa place ».</p></li><li><p>Le culte de Baal comprenait des pratiques perverses telles que le sacrifie des enfants et l&apos;utilisation des prostituées.</p></li><li><p>Pendant des périodes différentes, tout au long de leur histoire, les Israélites se sont profondément impliqués dans le culte de Baal, suivant l&apos;exemple des nations païennes qui les entouraient.</p></li><li><p>Pendant le règne du roi Achab, le prophète de Dieu, Élie, a accompli un test pour prouver aux gens que Baal n&apos;existe pas et que l&apos;Eternel est le seul vrai Dieu. En conséquence, les prophètes de Baal ont été détruits et les gens sont retournés à adorer l&apos;Éternel.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ahab.md), (../names/asherim.md), (../names/elijah.md), (../kt/falsegod.md), (../other/prostitute.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022041",
+          "start_ref_usfm": "NUM 22:41",
+          "end_ref": "04022041",
+          "end_ref_usfm": "NUM 22:41"
+        },
+        {
+          "start_ref": "07002011",
+          "start_ref_usfm": "JDG 2:11",
+          "end_ref": "07002011",
+          "end_ref_usfm": "JDG 2:11"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016031",
+          "end_ref_usfm": "1KI 16:31"
+        },
+        {
+          "start_ref": "45011004",
+          "start_ref_usfm": "ROM 11:4",
+          "end_ref": "45011004",
+          "end_ref_usfm": "ROM 11:4"
+        },
+        {
+          "start_ref": "09007003",
+          "start_ref_usfm": "1SA 7:3",
+          "end_ref": "09007004",
+          "end_ref_usfm": "1SA 7:4"
+        },
+        {
+          "start_ref": "24002007",
+          "start_ref_usfm": "JER 2:7",
+          "end_ref": "24002008",
+          "end_ref_usfm": "JER 2:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25483,
+          "content_id": 466662,
+          "label": "Astarté",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 467254,
+          "label": "Prostitué",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466687,
+    "reference_id": 25509,
+    "title": "BARUCH",
+    "media_type": "Text",
+    "index_reference": "baruch",
+    "language": "fra",
+    "content": "<h1>BARUCH</h1><h2>Définition :</h2><p>Baruch est le nom de plusieurs hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un Baruch (fils de Zabbai) a travaillé avec Néhémie pour réparer les murs de Jérusalem.</p></li><li><p>Aussi pendant le temps de Néhémie, un autre Baruch (fils de Kol-Hozé) était l&apos;un des dirigeants qui se sont installés à Jérusalem après que ses murs aient été restaurés.</p></li><li><p>Un autre Baruch (fils de Nérija) était un assistant du prophète Jérémie, qui l&apos;a aidé à diverses tâches pratiques telles que écrire les messages que Dieu donna à Jérémie, puis de les lire au peuple.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/disciple.md), (../names/jeremiah.md), (../names/jerusalem.md), (../names/nehemiah.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16003020",
+          "start_ref_usfm": "NEH 3:20",
+          "end_ref": "16003020",
+          "end_ref_usfm": "NEH 3:20"
+        },
+        {
+          "start_ref": "16010006",
+          "start_ref_usfm": "NEH 10:6",
+          "end_ref": "16010006",
+          "end_ref_usfm": "NEH 10:6"
+        },
+        {
+          "start_ref": "16011005",
+          "start_ref_usfm": "NEH 11:5",
+          "end_ref": "16011005",
+          "end_ref_usfm": "NEH 11:5"
+        },
+        {
+          "start_ref": "24032012",
+          "start_ref_usfm": "JER 32:12",
+          "end_ref": "24032012",
+          "end_ref_usfm": "JER 32:12"
+        },
+        {
+          "start_ref": "24036004",
+          "start_ref_usfm": "JER 36:4",
+          "end_ref": "24036004",
+          "end_ref_usfm": "JER 36:4"
+        },
+        {
+          "start_ref": "24043001",
+          "start_ref_usfm": "JER 43:1",
+          "end_ref": "24043003",
+          "end_ref_usfm": "JER 43:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25669,
+          "content_id": 466831,
+          "label": "Disciple",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 467040,
+          "label": "Jérémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 467186,
+          "label": "Néhémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466674,
+    "reference_id": 25496,
+    "title": "Azaria",
+    "media_type": "Text",
+    "index_reference": "azaria",
+    "language": "fra",
+    "content": "<h1>Azaria</h1><h2>Définition :</h2><p>Azaria était le nom de plusieurs personnes dans l&apos;Ancien Testament.</p><ul><li><p>Un des Azaria le mieux connu par son nom Babylonien est Abed-Négo* Il est l&apos;un des Israëlites de Juda que l&apos;armée de Nébucadnetsar a déporté à Babylone* Azaria et ses compagnons Israëlites Hanania et Mischaël refusèrent d&apos;adorer le roi Babylonien, ainsi ils les jetèrent dans la fournaise ardente comme punition* Mais Dieu les protégea.</p></li><li><p>Uzzi roi de Juda était aussi connu comme &apos;&apos;Azaria*&apos;&apos;</p></li><li><p>Un autre Azaria était un grand prêtre dans l&apos;Ancien Testament.</p></li><li><p>A l&apos;époque du prophète Jérémie, un homme appelé Azaria incita à tort les Israëlites à désobéir à Dieu en quittant leur pays.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/babylon.md), (../names/daniel.md), (../names/hananiah.md), (../names/mishael.md), (../names/jeremiah.md), (../names/uzziah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004002",
+          "start_ref_usfm": "1KI 4:2",
+          "end_ref": "11004002",
+          "end_ref_usfm": "1KI 4:2"
+        },
+        {
+          "start_ref": "13002038",
+          "start_ref_usfm": "1CH 2:38",
+          "end_ref": "13002038",
+          "end_ref_usfm": "1CH 2:38"
+        },
+        {
+          "start_ref": "14015001",
+          "start_ref_usfm": "2CH 15:1",
+          "end_ref": "14015001",
+          "end_ref_usfm": "2CH 15:1"
+        },
+        {
+          "start_ref": "24043002",
+          "start_ref_usfm": "JER 43:2",
+          "end_ref": "24043002",
+          "end_ref_usfm": "JER 43:2"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 466965,
+          "label": "Hanania",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 467040,
+          "label": "Jérémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26024,
+          "content_id": 467161,
+          "label": "Mischaël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 467441,
+          "label": "Ozias",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

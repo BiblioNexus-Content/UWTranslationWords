@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466835,
+    "reference_id": 25675,
+    "title": "Divin",
+    "media_type": "Text",
+    "index_reference": "divin",
+    "language": "fra",
+    "content": "<h1>divin, divinité</h1><h2>Définition</h2><p>Dans la Bible, le terme &quot;divin&quot; s&apos;applique à toute chose qui se rapporte à Dieu. La &quot;divinité&quot; de Jésus exprime sa nature et son essence divine.</p><ul><li><p>Certaines façons d&apos;utiliser ce terme comprennent &quot;l&apos;autorité divine&quot;, &quot;le jugement divin&quot;, &quot;la nature divine&quot;, &quot;le pouvoir divin&quot; et la &quot;gloire divine&quot;.</p></li><li><p>Dans un certain passage de la Bible, le terme &quot;divin&quot; est utilisé dans un sens laïque pour décrire quelque chose au sujet d&apos;un faux dieu.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Les moyens de traduire le terme &quot;divin&quot; pourraient comprendre &quot;ce qui se rapporte à Dieu&quot; ou &quot;ce qui vient de Dieu&quot; ou &quot;se rapportant à Dieu&quot; ou &quot;caractérisé par Dieu&quot;.</p></li><li><p>Par exemple, &quot;l&apos;autorité divine&quot; pourrait être traduite par &quot;autorité de Dieu&quot; ou &quot;autorité qui vient de Dieu&quot;.</p></li><li><p>L&apos;expression la &quot;gloire divine&quot; pourrait être traduite par &quot;la gloire de Dieu&quot; ou &quot;la gloire que Dieu possède&quot; ou &quot;la gloire qui vient de Dieu&quot;.</p></li><li><p>Certaines traductions pourraient préférer utiliser un mot différent pour décrire quelque chose qui se rapporte à un faux dieu.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">autorité</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">faux dieu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25786\" data-resourceType=\"UWTranslationWords\">gloire</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">dieu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">juge</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">pouvoir</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017029",
+          "start_ref_usfm": "ACT 17:29",
+          "end_ref": "44017029",
+          "end_ref_usfm": "ACT 17:29"
+        },
+        {
+          "start_ref": "45001020",
+          "start_ref_usfm": "ROM 1:20",
+          "end_ref": "45001020",
+          "end_ref_usfm": "ROM 1:20"
+        },
+        {
+          "start_ref": "45011004",
+          "start_ref_usfm": "ROM 11:4",
+          "end_ref": "45011004",
+          "end_ref_usfm": "ROM 11:4"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "61001003",
+          "start_ref_usfm": "2PE 1:3",
+          "end_ref": "61001003",
+          "end_ref_usfm": "2PE 1:3"
+        },
+        {
+          "start_ref": "61001004",
+          "start_ref_usfm": "2PE 1:4",
+          "end_ref": "61001004",
+          "end_ref_usfm": "2PE 1:4"
+        },
+        {
+          "start_ref": "47010003",
+          "start_ref_usfm": "2CO 10:3",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 32921,
+          "label": "autorité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25786,
+          "content_id": 466935,
+          "label": "Gloire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

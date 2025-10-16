@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179921,
+    "reference_id": 25852,
+    "title": "होशे",
+    "media_type": "Text",
+    "index_reference": "होशे",
+    "language": "hin",
+    "content": "<h1>होशे</h1><h2>तथ्य:</h2><p>होशे यीशु से 750 वर्ष पूर्व इस्राएल राज्य में परमेश्वर का एक भविष्यद्वक्ता था।</p><ul><li><p>उसका सेवाकाल अनेक राजाओं के युग में रहा था, यारोबाम, जकर्याह, यातोम, आहाज, होशे, उज्जिय्याह, और हिजकिय्याह।</p></li><li><p>होशे को परमेश्वर ने आदेश दिया कि वह एक वैश्या से विवाह कर ले, उसका नाम गोमर था, यद्यपि वह विश्वासघाती थी तौभी परमेश्वर ने उससे प्रेम करने की उसे आज्ञा दी।</p></li><li><p>यह परमेश्वर की विश्वासघाती प्रजा के प्रति उसके प्रेम का चित्रण है।</p></li><li><p>होशे ने इस्राएलियों के पाप के विरूद्ध भविष्यद्वाणी की थी और उन्हें मूर्ति-पूजा से विमुख होने की चेतावनी दी थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25440\" data-resourceType=\"UWTranslationWords\">अहाज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">हिजकिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25853\" data-resourceType=\"UWTranslationWords\">होशे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25897\" data-resourceType=\"UWTranslationWords\">यारोबाम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25922\" data-resourceType=\"UWTranslationWords\">योताम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">उज्जिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26370\" data-resourceType=\"UWTranslationWords\">जकर्याह (पुराना नियम)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Hos1:1-Hos1:2\">होशे 01:1–2</a></p></li><li><p><a href=\"https://ref.ly/Hos1:3-Hos1:5\">होशे 01:3–5</a></p></li><li><p><a href=\"https://ref.ly/Hos1:6-Hos1:7\">होशे 01:6–7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1954, G5617</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45009025",
+          "start_ref_usfm": "ROM 9:25",
+          "end_ref": "45009025",
+          "end_ref_usfm": "ROM 9:25"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001002",
+          "end_ref_usfm": "HOS 1:2"
+        },
+        {
+          "start_ref": "28001003",
+          "start_ref_usfm": "HOS 1:3",
+          "end_ref": "28001005",
+          "end_ref_usfm": "HOS 1:5"
+        },
+        {
+          "start_ref": "28001006",
+          "start_ref_usfm": "HOS 1:6",
+          "end_ref": "28001007",
+          "end_ref_usfm": "HOS 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 179529,
+          "label": "अहाज",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 179903,
+          "label": "हिजकिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25853,
+          "content_id": 179922,
+          "label": "होशे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 179964,
+          "label": "यारोबाम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25922,
+          "content_id": 179989,
+          "label": "योताम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 180384,
+          "label": "उज्जियाह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 180422,
+          "label": "ज़कर्याह (पुराना नियम)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

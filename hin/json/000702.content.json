@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 179992,
+    "reference_id": 25925,
+    "title": "यहूदी धर्म",
+    "media_type": "Text",
+    "index_reference": "यहूदी धर्म",
+    "language": "hin",
+    "content": "<h1>यहूदी धर्म, यहूदी मत</h1><h2>परिभाषा:</h2><p>“यहूदी धर्म” का अंश है यहूदियों का अभ्यासमत धर्म इसे “यहूदी धर्म” भी कहा गया है।</p><ul><li><p>पुराने नियम में “यहूदी धर्म” की चर्चा है जबकि नये नियम में “यहूदी धर्म” को काम में लिया गया है।</p></li><li><p>यहूदी धर्म में पुराना नियम की व्यवस्था तथा इस्राएलियों के पालन हेतु परमेश्वर के आदेश थे। उसमें समय के साथ कार्य में जुड़ने वाली प्रथाएं एवं परम्पराएं भी थी।</p></li><li><p>यहूदी धर्म के अनुवाद में दोनों पुराने और नये नियमों में भी “यहूदी धर्म” काम में लिया जा सकता है।</p></li><li><p>“यहूदी धर्म” का उपयोग केवल नये नियम में किया जाए क्योंकि यह शब्द इससे पहले नहीं था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25902\" data-resourceType=\"UWTranslationWords\">यहूदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25959\" data-resourceType=\"UWTranslationWords\">व्यवस्था</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gal1:13-Gal1:14\">गलातियों 01:13–14</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2454</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001013",
+          "start_ref_usfm": "GAL 1:13",
+          "end_ref": "48001014",
+          "end_ref_usfm": "GAL 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25902,
+          "content_id": 179969,
+          "label": "यहूदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 180022,
+          "label": "व्यवस्था",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25959,
+          "content_id": 180024,
+          "label": "व्यवस्था",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 26337,
+    "reference_id": 25479,
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "eng",
+    "content": "<h1>Asa</h1><h2>Facts:</h2><p>Asa was a king who ruled over the kingdom of Judah for forty years, from 913 B.C. to 873 B.c.</p><ul><li><p>King Asa was a good king who removed many idols of false gods and caused the Israelites to start worshiping Yahweh again.</p></li><li><p>Yahweh gave King Asa success in his warfare against other nations.</p></li><li><p>Later in his reign, however, King Asa stopped trusting Yahweh and became sick with a disease that eventually killed him.</p></li></ul><p>(Translation suggestions: Translate Names)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr9:14-1Chr9:16\">1 Chronicles 9:14–16</a></p></li><li><p><a href=\"https://ref.ly/1Kgs15:7-1Kgs15:8\">1 Kings 15:7–8</a></p></li><li><p><a href=\"https://ref.ly/2Chr14:3\">2 Chronicles 14:3</a></p></li><li><p><a href=\"https://ref.ly/Jer41:9\">Jeremiah 41:9</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7\">Matthew 1:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0609</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14014003",
+          "start_ref_usfm": "2CH 14:3",
+          "end_ref": "14014003",
+          "end_ref_usfm": "2CH 14:3"
+        },
+        {
+          "start_ref": "24041009",
+          "start_ref_usfm": "JER 41:9",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "13009014",
+          "start_ref_usfm": "1CH 9:14",
+          "end_ref": "13009016",
+          "end_ref_usfm": "1CH 9:16"
+        },
+        {
+          "start_ref": "11015007",
+          "start_ref_usfm": "1KI 15:7",
+          "end_ref": "11015008",
+          "end_ref_usfm": "1KI 15:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 26884,
+    "reference_id": 26026,
+    "title": "Moab",
+    "media_type": "Text",
+    "index_reference": "moab",
+    "language": "eng",
+    "content": "<h1>Moab, Moabite</h1><h2>Facts:</h2><p>The term “Moab” refers to a people group that lived to the east of the Salt Sea. The book of Genesis describes this people group as the descendents of a man named “Moab,” who was the son of Lot’s elder daughter.</p><ul><li><p>In the book of Ruth, Elimelek and his family went to live in Moab because of the famine around Bethlehem.</p></li><li><p>Ruth is called a “Moabite woman” because she was born in the country of Moab and was from that people group.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Bethlehem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25976\" data-resourceType=\"UWTranslationWords\">Lot</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26185\" data-resourceType=\"UWTranslationWords\">Ruth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Salt Sea</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen19:37\">Genesis 19:37</a></p></li><li><p><a href=\"https://ref.ly/Gen36:34-Gen36:36\">Genesis 36:34–36</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:1-Ruth1:2\">Ruth 1:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:22\">Ruth 1:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4124, H4125</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019037",
+          "start_ref_usfm": "GEN 19:37",
+          "end_ref": "01019037",
+          "end_ref_usfm": "GEN 19:37"
+        },
+        {
+          "start_ref": "01036035",
+          "start_ref_usfm": "GEN 36:35",
+          "end_ref": "01036035",
+          "end_ref_usfm": "GEN 36:35"
+        },
+        {
+          "start_ref": "02015015",
+          "start_ref_usfm": "EXO 15:15",
+          "end_ref": "02015015",
+          "end_ref_usfm": "EXO 15:15"
+        },
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08001004",
+          "end_ref_usfm": "RUT 1:4"
+        },
+        {
+          "start_ref": "08001006",
+          "start_ref_usfm": "RUT 1:6",
+          "end_ref": "08001006",
+          "end_ref_usfm": "RUT 1:6"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08002006",
+          "start_ref_usfm": "RUT 2:6",
+          "end_ref": "08002006",
+          "end_ref_usfm": "RUT 2:6"
+        },
+        {
+          "start_ref": "08002021",
+          "start_ref_usfm": "RUT 2:21",
+          "end_ref": "08002021",
+          "end_ref_usfm": "RUT 2:21"
+        },
+        {
+          "start_ref": "08004003",
+          "start_ref_usfm": "RUT 4:3",
+          "end_ref": "08004003",
+          "end_ref_usfm": "RUT 4:3"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004010",
+          "start_ref_usfm": "RUT 4:10",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013001",
+          "end_ref_usfm": "NEH 13:1"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013023",
+          "end_ref_usfm": "NEH 13:23"
+        },
+        {
+          "start_ref": "36002008",
+          "start_ref_usfm": "ZEP 2:8",
+          "end_ref": "36002008",
+          "end_ref_usfm": "ZEP 2:8"
+        },
+        {
+          "start_ref": "36002009",
+          "start_ref_usfm": "ZEP 2:9",
+          "end_ref": "36002009",
+          "end_ref_usfm": "ZEP 2:9"
+        },
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "01036034",
+          "start_ref_usfm": "GEN 36:34",
+          "end_ref": "01036036",
+          "end_ref_usfm": "GEN 36:36"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 26388,
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 26786,
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 26834,
+          "label": "Lot",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26185,
+          "content_id": 27043,
+          "label": "Ruth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 27049,
+          "label": "Saltsea",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

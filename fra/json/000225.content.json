@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466716,
+    "reference_id": 25544,
+    "title": "Défaut",
+    "media_type": "Text",
+    "index_reference": "défaut",
+    "language": "fra",
+    "content": "<h1>défaut</h1><h2>Définition :</h2><p>Le terme «défaut» fait référence à un défaut physique ou imperfection sur un animal ou sur une personne* Il peut également se référer à des imperfections et des fautes spirituelles parmi un peuple.</p><ul><li><p>Pour certains sacrifices, Dieu ordonna aux Israélites d&apos;offrir un animal sans tâches ou défauts.</p></li><li><p>Ceci est une image de la façon dont Jésus-Christ était le sacrifice parfait, sans aucun péché.</p></li><li><p>Les croyants en Christ ont été purifiés de leurs péchés par son sang et sont considérés comme étant sans défaut.</p></li><li><p>Les moyens de traduire ce terme pourraient inclure, «défaut» ou «imperfection» ou «péché», selon le contexte.</p></li></ul><p>(Voir aussi : (../kt/believe.md), (../kt/clean.md), (../other/sacrifice.md), (../kt/sin.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029001",
+          "start_ref_usfm": "EXO 29:1",
+          "end_ref": "02029001",
+          "end_ref_usfm": "EXO 29:1"
+        },
+        {
+          "start_ref": "22004007",
+          "start_ref_usfm": "SNG 4:7",
+          "end_ref": "22004007",
+          "end_ref_usfm": "SNG 4:7"
+        },
+        {
+          "start_ref": "60001019",
+          "start_ref_usfm": "1PE 1:19",
+          "end_ref": "60001019",
+          "end_ref_usfm": "1PE 1:19"
+        },
+        {
+          "start_ref": "61002013",
+          "start_ref_usfm": "2PE 2:13",
+          "end_ref": "61002013",
+          "end_ref_usfm": "2PE 2:13"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "05015019",
+          "start_ref_usfm": "DEU 15:19",
+          "end_ref": "05015021",
+          "end_ref_usfm": "DEU 15:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25596,
+          "content_id": 466764,
+          "label": "Pur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 467355,
+          "label": "Péché",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

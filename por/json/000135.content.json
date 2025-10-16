@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 237668,
+    "reference_id": 25532,
+    "title": "Betuel",
+    "media_type": "Text",
+    "index_reference": "betuel",
+    "language": "por",
+    "content": "<h1>Betuel</h1><h2>Fatos:</h2><p>Betuel era filho do irmão de Abraão, Naor.</p><ul><li><p>Betuel era pai de Rebeca e Labão.</p></li><li><p>Havia também uma cidade chamada Betuel, que pode ter sido localizada no sul de Judá, não muito longe da cidade de Berseba.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">Berseba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25948\" data-resourceType=\"UWTranslationWords\">Labão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26040\" data-resourceType=\"UWTranslationWords\">Naor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26156\" data-resourceType=\"UWTranslationWords\">Rebeca</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr4:30\">1 Crônicas 4.30</a></p></li><li><p><a href=\"https://ref.ly/Gen28:2\">Gênesis 28.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1328</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
+        },
+        {
+          "start_ref": "01022023",
+          "start_ref_usfm": "GEN 22:23",
+          "end_ref": "01022023",
+          "end_ref_usfm": "GEN 22:23"
+        },
+        {
+          "start_ref": "01024015",
+          "start_ref_usfm": "GEN 24:15",
+          "end_ref": "01024015",
+          "end_ref_usfm": "GEN 24:15"
+        },
+        {
+          "start_ref": "01024024",
+          "start_ref_usfm": "GEN 24:24",
+          "end_ref": "01024024",
+          "end_ref_usfm": "GEN 24:24"
+        },
+        {
+          "start_ref": "01024047",
+          "start_ref_usfm": "GEN 24:47",
+          "end_ref": "01024047",
+          "end_ref_usfm": "GEN 24:47"
+        },
+        {
+          "start_ref": "01024050",
+          "start_ref_usfm": "GEN 24:50",
+          "end_ref": "01024050",
+          "end_ref_usfm": "GEN 24:50"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028002",
+          "start_ref_usfm": "GEN 28:2",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "13004030",
+          "start_ref_usfm": "1CH 4:30",
+          "end_ref": "13004030",
+          "end_ref_usfm": "1CH 4:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25519,
+          "content_id": 237655,
+          "label": "Berseba",
+          "language": "por"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 238080,
+          "label": "Labão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 238170,
+          "label": "Naor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 238286,
+          "label": "Rebeca",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

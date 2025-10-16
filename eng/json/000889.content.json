@@ -1,0 +1,197 @@
+[
+  {
+    "content_id": 27162,
+    "reference_id": 26304,
+    "title": "Timothy",
+    "media_type": "Text",
+    "index_reference": "timothy",
+    "language": "eng",
+    "content": "<h1>Timothy</h1><h2>Facts:</h2><p>Timothy was a young man from Lystra. He later joined Paul on several missionary trips and helped shepherd new communities of believers.</p><ul><li><p>Timothy’s father was a Greek, but both his grandmother Lois and his mother Eunice were Jews and believers in Christ.</p></li><li><p>The elders and Paul formally appointed Timothy for the ministry by placing their hands on him and praying for him.</p></li><li><p>Two books in the New Testament (I Timothy and 2 Timothy) are letters written by Paul that provide guidance to Timothy as a young leader of local churches.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25467\" data-resourceType=\"UWTranslationWords\">appoint</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">believe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">church</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25805\" data-resourceType=\"UWTranslationWords\">Greek</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">minister</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Thess3:2\">1 Thessalonians 3:2</a></p></li><li><p><a href=\"https://ref.ly/1Tim1:2\">1 Timothy 1:2</a></p></li><li><p><a href=\"https://ref.ly/Acts16:3\">Acts 16:3</a></p></li><li><p><a href=\"https://ref.ly/Col1:1\">Colossians 1:1</a></p></li><li><p><a href=\"https://ref.ly/Phlm1:1\">Philemon 1:1</a></p></li><li><p><a href=\"https://ref.ly/Phil1:1\">Philippians 1:1</a></p></li><li><p><a href=\"https://ref.ly/Phil2:19\">Philippians 2:19</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G50950</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
+        },
+        {
+          "start_ref": "44016003",
+          "start_ref_usfm": "ACT 16:3",
+          "end_ref": "44016003",
+          "end_ref_usfm": "ACT 16:3"
+        },
+        {
+          "start_ref": "44017014",
+          "start_ref_usfm": "ACT 17:14",
+          "end_ref": "44017014",
+          "end_ref_usfm": "ACT 17:14"
+        },
+        {
+          "start_ref": "44017015",
+          "start_ref_usfm": "ACT 17:15",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        },
+        {
+          "start_ref": "44018005",
+          "start_ref_usfm": "ACT 18:5",
+          "end_ref": "44018005",
+          "end_ref_usfm": "ACT 18:5"
+        },
+        {
+          "start_ref": "44019022",
+          "start_ref_usfm": "ACT 19:22",
+          "end_ref": "44019022",
+          "end_ref_usfm": "ACT 19:22"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "45016021",
+          "start_ref_usfm": "ROM 16:21",
+          "end_ref": "45016021",
+          "end_ref_usfm": "ROM 16:21"
+        },
+        {
+          "start_ref": "46004017",
+          "start_ref_usfm": "1CO 4:17",
+          "end_ref": "46004017",
+          "end_ref_usfm": "1CO 4:17"
+        },
+        {
+          "start_ref": "46016010",
+          "start_ref_usfm": "1CO 16:10",
+          "end_ref": "46016010",
+          "end_ref_usfm": "1CO 16:10"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47001019",
+          "start_ref_usfm": "2CO 1:19",
+          "end_ref": "47001019",
+          "end_ref_usfm": "2CO 1:19"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "50002019",
+          "start_ref_usfm": "PHP 2:19",
+          "end_ref": "50002019",
+          "end_ref_usfm": "PHP 2:19"
+        },
+        {
+          "start_ref": "51001001",
+          "start_ref_usfm": "COL 1:1",
+          "end_ref": "51001001",
+          "end_ref_usfm": "COL 1:1"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "52003002",
+          "start_ref_usfm": "1TH 3:2",
+          "end_ref": "52003002",
+          "end_ref_usfm": "1TH 3:2"
+        },
+        {
+          "start_ref": "52003006",
+          "start_ref_usfm": "1TH 3:6",
+          "end_ref": "52003006",
+          "end_ref_usfm": "1TH 3:6"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "54001002",
+          "start_ref_usfm": "1TI 1:2",
+          "end_ref": "54001002",
+          "end_ref_usfm": "1TI 1:2"
+        },
+        {
+          "start_ref": "54001018",
+          "start_ref_usfm": "1TI 1:18",
+          "end_ref": "54001018",
+          "end_ref_usfm": "1TI 1:18"
+        },
+        {
+          "start_ref": "54006020",
+          "start_ref_usfm": "1TI 6:20",
+          "end_ref": "54006020",
+          "end_ref_usfm": "1TI 6:20"
+        },
+        {
+          "start_ref": "55001002",
+          "start_ref_usfm": "2TI 1:2",
+          "end_ref": "55001002",
+          "end_ref_usfm": "2TI 1:2"
+        },
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        },
+        {
+          "start_ref": "58013023",
+          "start_ref_usfm": "HEB 13:23",
+          "end_ref": "58013023",
+          "end_ref_usfm": "HEB 13:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 26325,
+          "label": "Appoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 26381,
+          "label": "Believe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 26448,
+          "label": "Church",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 26663,
+          "label": "Greek",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 26879,
+          "label": "Minister",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

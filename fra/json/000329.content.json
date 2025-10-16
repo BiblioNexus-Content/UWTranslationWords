@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467381,
+    "reference_id": 26266,
+    "title": "Forteresse",
+    "media_type": "Text",
+    "index_reference": "forteresse",
+    "language": "fra",
+    "content": "<h1>forteresse, forteresse, fortifié</h1><h2>Définition :</h2><p>Le terme «fief» ou «forteresse» fait référence à un endroit qui est bien protégé contre une attaque par des soldats ennemis et peut être facilement défendu* Quelque chose qui est &quot;fortifiée&quot; a été fait fort par des murs épais ou d&apos;autres structures qui rendent une ville ou une forteresse plus sûre.</p><ul><li><p>Une forteresse ou des forteresses peuvent être des bâtiments solides, des murs défensifs, ou des barrières naturelles comme les falaises rocheuses ou hautes montagnes.</p></li><li><p>Ce terme est également utilisé au sens figuré pour désigner Dieu comme un refuge ou une forteresse pour ceux qui se confient en lui.</p></li><li><p>Une &quot;forteresse&quot; peut également se référer au sens figuré à quelque chose dans laquelle une personne fait confiance à tort dans la sécurité, comme le faux dieu.</p></li><li><p>Le terme &quot;fortifier&quot; pourrait être traduit par «sécuriser».</p></li><li><p>&quot;&quot; ou &quot;forteresse&quot; pourrait être traduit par &quot; place solidement forte» ou «lieu fortement protégé*&quot;</p></li></ul><p>(Voir aussi : (../kt/falsegod.md), (../kt/falsegod.md), (../other/refuge.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15006002",
+          "start_ref_usfm": "EZR 6:2",
+          "end_ref": "15006002",
+          "end_ref_usfm": "EZR 6:2"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16007002",
+          "start_ref_usfm": "NEH 7:2",
+          "end_ref": "16007002",
+          "end_ref_usfm": "NEH 7:2"
+        },
+        {
+          "start_ref": "20010029",
+          "start_ref_usfm": "PRO 10:29",
+          "end_ref": "20010029",
+          "end_ref_usfm": "PRO 10:29"
+        },
+        {
+          "start_ref": "20018019",
+          "start_ref_usfm": "PRO 18:19",
+          "end_ref": "20018019",
+          "end_ref_usfm": "PRO 18:19"
+        },
+        {
+          "start_ref": "44021034",
+          "start_ref_usfm": "ACT 21:34",
+          "end_ref": "44021034",
+          "end_ref_usfm": "ACT 21:34"
+        },
+        {
+          "start_ref": "44021035",
+          "start_ref_usfm": "ACT 21:35",
+          "end_ref": "44021035",
+          "end_ref_usfm": "ACT 21:35"
+        },
+        {
+          "start_ref": "44021037",
+          "start_ref_usfm": "ACT 21:37",
+          "end_ref": "44021037",
+          "end_ref_usfm": "ACT 21:37"
+        },
+        {
+          "start_ref": "44022024",
+          "start_ref_usfm": "ACT 22:24",
+          "end_ref": "44022024",
+          "end_ref_usfm": "ACT 22:24"
+        },
+        {
+          "start_ref": "44023010",
+          "start_ref_usfm": "ACT 23:10",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44023016",
+          "start_ref_usfm": "ACT 23:16",
+          "end_ref": "44023016",
+          "end_ref_usfm": "ACT 23:16"
+        },
+        {
+          "start_ref": "44023032",
+          "start_ref_usfm": "ACT 23:32",
+          "end_ref": "44023032",
+          "end_ref_usfm": "ACT 23:32"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "12008010",
+          "start_ref_usfm": "2KI 8:10",
+          "end_ref": "12008012",
+          "end_ref_usfm": "2KI 8:12"
+        },
+        {
+          "start_ref": "10005008",
+          "start_ref_usfm": "2SA 5:8",
+          "end_ref": "10005010",
+          "end_ref_usfm": "2SA 5:10"
+        },
+        {
+          "start_ref": "35001010",
+          "start_ref_usfm": "HAB 1:10",
+          "end_ref": "35001011",
+          "end_ref_usfm": "HAB 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26164,
+          "content_id": 467284,
+          "label": "Refuge",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

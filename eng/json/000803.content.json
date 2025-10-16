@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 27076,
+    "reference_id": 26218,
+    "title": "Seth",
+    "media_type": "Text",
+    "index_reference": "seth",
+    "language": "eng",
+    "content": "<h1>Seth</h1><h2>Facts:</h2><p>In the book of Genesis, Seth was the third son of Adam and Eve.</p><ul><li><p>Eve said that Seth was given to her in place of her son Abel, who was murdered by his brother Cain.</p></li><li><p>Noah was one of Seth’s descendants, so everyone who has lived since the time of the Flood is also a descendant of Seth.</p></li><li><p>Seth and his family were the first people to “call on the name of the Lord.”</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25418\" data-resourceType=\"UWTranslationWords\">Abel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">Cain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_call\" data-resourceType=\"UWTranslationWords\">call</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ancestor\" data-resourceType=\"UWTranslationWords\">ancestor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25746\" data-resourceType=\"UWTranslationWords\">flood</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:1\">1 Chronicles 1:1</a></p></li><li><p><a href=\"https://ref.ly/Luke3:36-Luke3:38\">Luke 3:36–38</a></p></li><li><p><a href=\"https://ref.ly/Num24:17\">Numbers 24:17</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H8352, G45890</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "01004026",
+          "start_ref_usfm": "GEN 4:26",
+          "end_ref": "01004026",
+          "end_ref_usfm": "GEN 4:26"
+        },
+        {
+          "start_ref": "01005003",
+          "start_ref_usfm": "GEN 5:3",
+          "end_ref": "01005003",
+          "end_ref_usfm": "GEN 5:3"
+        },
+        {
+          "start_ref": "01005004",
+          "start_ref_usfm": "GEN 5:4",
+          "end_ref": "01005004",
+          "end_ref_usfm": "GEN 5:4"
+        },
+        {
+          "start_ref": "01005006",
+          "start_ref_usfm": "GEN 5:6",
+          "end_ref": "01005006",
+          "end_ref_usfm": "GEN 5:6"
+        },
+        {
+          "start_ref": "01005007",
+          "start_ref_usfm": "GEN 5:7",
+          "end_ref": "01005007",
+          "end_ref_usfm": "GEN 5:7"
+        },
+        {
+          "start_ref": "01005008",
+          "start_ref_usfm": "GEN 5:8",
+          "end_ref": "01005008",
+          "end_ref_usfm": "GEN 5:8"
+        },
+        {
+          "start_ref": "04024017",
+          "start_ref_usfm": "NUM 24:17",
+          "end_ref": "04024017",
+          "end_ref_usfm": "NUM 24:17"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        },
+        {
+          "start_ref": "42003038",
+          "start_ref_usfm": "LUK 3:38",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25418,
+          "content_id": 26276,
+          "label": "Abel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25565,
+          "content_id": 26423,
+          "label": "Cain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 26604,
+          "label": "Flood",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

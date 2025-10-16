@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 179796,
+    "reference_id": 25723,
+    "title": "यहेजकेल",
+    "media_type": "Text",
+    "index_reference": "यहेजकेल",
+    "language": "hin",
+    "content": "<h1>यहेजकेल</h1><h2>तथ्य:</h2><p>यहेजकेल परमेश्वर का भविष्यद्वक्ता था जिसे बन्दी बनाकर बेबीलोन ले जाया गया था।</p><ul><li><p>यहेजकेल यहूदा में एक याजक था जिसे अन्य यहूदियों के साथ बेबीलोन की सेना ने बन्दी बनाया था।</p></li><li><p>20 वर्ष से अधिक वह अपनी पत्नी के साथ बाबेल में एक नदी के किनारे रहा, यहूदी उसके पास परमेश्वर का सन्देश सुनने आते थे।</p></li><li><p>अन्य बातों के साथ यहेजकेल ने यरूशलेम और मन्दिर के विनाश एवं पुनः स्थापना की भविष्यद्वाणी की थी।</p></li><li><p>उसने मसीह के भावी राज्य की भी भविष्यद्वाणी की थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">मसीह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">बन्धुआई</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezek1:1-Ezek1:3\">यहेजकेल 01:1–3</a></p></li><li><p><a href=\"https://ref.ly/Ezek24:22-Ezek24:24\">यहेजकेल 24:22–24</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3168</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001003",
+          "start_ref_usfm": "EZK 1:3",
+          "end_ref": "26001003",
+          "end_ref_usfm": "EZK 1:3"
+        },
+        {
+          "start_ref": "26024024",
+          "start_ref_usfm": "EZK 24:24",
+          "end_ref": "26024024",
+          "end_ref_usfm": "EZK 24:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 179666,
+          "label": "ख्रीस्त",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 179794,
+          "label": "बँधुआई",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

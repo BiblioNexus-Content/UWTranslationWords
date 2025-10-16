@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238125,
+    "reference_id": 25995,
+    "title": "Homem de Deus",
+    "media_type": "Text",
+    "index_reference": "homem de deus",
+    "language": "por",
+    "content": "<h1>homem de Deus</h1><h2>Fatos:</h2><p>A expressão “homem de Deus” é uma forma respeitosa de se referir a um profeta de Javé. Também é usada para se referir a um anjo de Javé.</p><ul><li><p>Ao se referir a um profeta, isso também pode ser traduzido como “homem que pertence a Deus” ou “homem que Deus escolheu” ou “homem que serve a Deus”.</p></li><li><p>Ao se referir a um anjo, isso também pode ser traduzido como “mensageiro de Deus” ou “seu anjo” ou “ser celestial de Deus que se parece com um homem”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">anjo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr23:12-1Chr23:14\">1 Crônicas 23.12–14</a></p></li><li><p><a href=\"https://ref.ly/1Kgs12:22\">1 Reis 12.22</a></p></li><li><p><a href=\"https://ref.ly/1Sam9:9-1Sam9:11\">1 Samuel 9.9–11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0376, H0430, G04440, G23160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012022",
+          "start_ref_usfm": "1KI 12:22",
+          "end_ref": "11012022",
+          "end_ref_usfm": "1KI 12:22"
+        },
+        {
+          "start_ref": "54006011",
+          "start_ref_usfm": "1TI 6:11",
+          "end_ref": "54006011",
+          "end_ref_usfm": "1TI 6:11"
+        },
+        {
+          "start_ref": "55003017",
+          "start_ref_usfm": "2TI 3:17",
+          "end_ref": "55003017",
+          "end_ref_usfm": "2TI 3:17"
+        },
+        {
+          "start_ref": "13023012",
+          "start_ref_usfm": "1CH 23:12",
+          "end_ref": "13023014",
+          "end_ref_usfm": "1CH 23:14"
+        },
+        {
+          "start_ref": "09009009",
+          "start_ref_usfm": "1SA 9:9",
+          "end_ref": "09009011",
+          "end_ref_usfm": "1SA 9:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 237597,
+          "label": "Anjo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25846,
+          "content_id": 237979,
+          "label": "Honra",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467179,
+    "reference_id": 26042,
+    "title": "Nephtali",
+    "media_type": "Text",
+    "index_reference": "nephtali",
+    "language": "fra",
+    "content": "<h1>Nephtali</h1><h2>Définition :</h2><p>Nephtali était le sixième fils de Jacob* Ses descendants forment la tribu de Nephtali, qui était l&apos;une des douze tribus d&apos;Israël.</p><ul><li><p>Nephtali était la tribu qui vivait dans la partie la plus septentrionale de la terre d&apos;Israël.</p></li><li><p>Cette tribu est mentionnée dans l&apos;Ancien et le Nouveau Testament de la Bible.</p></li><li><p>Le nom Nephtali a également été utilisé pour désigner le territoire où cette tribu a vécu* Cela pourrait se traduire par «la terre appartenant à la tribu de Nephtali» ou «la terre où les descendants de Nephtali vivaient*&quot;</p></li><li><p>Le nom Nephtali signifie «la lutte*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/asher.md), (../names/dan.md), (../names/jacob.md), (../names/seaofgalilee.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030008",
+          "start_ref_usfm": "GEN 30:8",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046024",
+          "start_ref_usfm": "GEN 46:24",
+          "end_ref": "01046024",
+          "end_ref_usfm": "GEN 46:24"
+        },
+        {
+          "start_ref": "01049021",
+          "start_ref_usfm": "GEN 49:21",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "11004015",
+          "start_ref_usfm": "1KI 4:15",
+          "end_ref": "11004015",
+          "end_ref_usfm": "1KI 4:15"
+        },
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
+        },
+        {
+          "start_ref": "66007006",
+          "start_ref_usfm": "REV 7:6",
+          "end_ref": "66007006",
+          "end_ref_usfm": "REV 7:6"
+        },
+        {
+          "start_ref": "26048001",
+          "start_ref_usfm": "EZK 48:1",
+          "end_ref": "26048003",
+          "end_ref_usfm": "EZK 48:3"
+        },
+        {
+          "start_ref": "05027013",
+          "start_ref_usfm": "DEU 27:13",
+          "end_ref": "05027014",
+          "end_ref_usfm": "DEU 27:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

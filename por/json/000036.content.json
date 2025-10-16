@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238114,
+    "reference_id": 25983,
+    "title": "Alaúde",
+    "media_type": "Text",
+    "index_reference": "alaúde",
+    "language": "por",
+    "content": "<h1>alaúde, lira</h1><h2>Definição:</h2><p>Um alaúde e uma lira são pequenos instrumentos musicais de cordas que eram usados pelos israelitas para adorar a Deus.</p><ul><li><p>Uma lira se parece com uma pequena harpa, com cordas esticadas sobre uma estrutura aberta.</p></li><li><p>Um alaúde é muito semelhante a um violão acústico moderno, possuindo uma caixa de som de madeira e um braço alongado onde as cordas são esticadas.</p></li><li><p>Ao tocar um alaúde ou uma lira, certas cordas são pressionadas com os dedos de uma mão enquanto essas e outras cordas são dedilhadas ou tocadas com a outra mão.</p></li><li><p>O alaúde, a lira e a harpa são todos tocados dedilhando ou tocando as cordas.</p></li><li><p>O número de cordas variava, mas o Antigo Testamento menciona especificamente instrumentos que tinham dez cordas.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25822\" data-resourceType=\"UWTranslationWords\">harpa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:11-1Kgs10:12\">1 Reis 10.11–12</a></p></li><li><p><a href=\"https://ref.ly/1Sam10:5-1Sam10:6\">1 Samuel 10.5–6</a></p></li><li><p><a href=\"https://ref.ly/2Chr5:11-2Chr5:12\">2 Crônicas 5.11–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3658, H5035, H5443</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "01031027",
+          "start_ref_usfm": "GEN 31:27",
+          "end_ref": "01031027",
+          "end_ref_usfm": "GEN 31:27"
+        },
+        {
+          "start_ref": "11010011",
+          "start_ref_usfm": "1KI 10:11",
+          "end_ref": "11010012",
+          "end_ref_usfm": "1KI 10:12"
+        },
+        {
+          "start_ref": "09010005",
+          "start_ref_usfm": "1SA 10:5",
+          "end_ref": "09010006",
+          "end_ref_usfm": "1SA 10:6"
+        },
+        {
+          "start_ref": "14005011",
+          "start_ref_usfm": "2CH 5:11",
+          "end_ref": "14005012",
+          "end_ref_usfm": "2CH 5:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25822,
+          "content_id": 237955,
+          "label": "Harpa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26882,
+    "reference_id": 26024,
+    "title": "Mishael",
+    "media_type": "Text",
+    "index_reference": "mishael",
+    "language": "eng",
+    "content": "<h1>Mishael</h1><h2>Facts:</h2><p>Mishael is the name of three men in the Old Testament.</p><ul><li><p>One man named Mishael was a cousin of Aaron. When two of Aaron’s sons were killed by God after they offered incense in a away that did not follow what God had told them to do, Mishael and his brother were given the task of carrying the dead bodies outside the Israelite camp.</p></li><li><p>Another man named Mishael stood beside Ezra when he publicly read the rediscovered law.</p></li><li><p>During the time when the people of Israel were in exile in Babylon, a young man named Mishael was also captured and forced to live in Babylon. The Babylonians gave him the name, “Meshach.” He, along with his companions, Azariah (Shadrach) and Hananiah (Abednego), refused to worship the king’s statue and were thrown into a fiery furnace.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25417\" data-resourceType=\"UWTranslationWords\">Aaron</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25496\" data-resourceType=\"UWTranslationWords\">Azariah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">Hananiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">Daniel 1:6–7</a></p></li><li><p><a href=\"https://ref.ly/Dan2:17-Dan2:18\">Daniel 2:17–18</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4332, H4333</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "27002017",
+          "start_ref_usfm": "DAN 2:17",
+          "end_ref": "27002018",
+          "end_ref_usfm": "DAN 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 26275,
+          "label": "Aaron",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25496,
+          "content_id": 26354,
+          "label": "Azariah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 26674,
+          "label": "Hananiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

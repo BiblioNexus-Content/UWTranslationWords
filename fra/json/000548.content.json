@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467137,
+    "reference_id": 26000,
+    "title": "Marie soeur da Marthe",
+    "media_type": "Text",
+    "index_reference": "marie soeur da marthe",
+    "language": "fra",
+    "content": "<h1>Marie soeur da Marthe</h1><h2>Définition :</h2><p>&quot;Marie était une femme de Béthanie qui suivait Jésus* Elle avait une soeur nommée Marthe et un frère nommé Lazare qui suivaient également Jésus* Une fois Marie s&apos;était assise à côté de Jésus pour écouter ses enseignements pendant que Marthe préparait le repas* A la mort de Lazare Marie dit à Jésus que s&apos;il avait été là Lazare ne serait pas mort.</p><ul><li><p>Marie a versé un parfum de grand prix sur Jésus a Béthanie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/bethany.md), (../other/frankincense.md), (../names/lazarus.md), (../names/martha.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42010039",
+          "start_ref_usfm": "LUK 10:39",
+          "end_ref": "42010039",
+          "end_ref_usfm": "LUK 10:39"
+        },
+        {
+          "start_ref": "42010042",
+          "start_ref_usfm": "LUK 10:42",
+          "end_ref": "42010042",
+          "end_ref_usfm": "LUK 10:42"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011001",
+          "end_ref_usfm": "JHN 11:1"
+        },
+        {
+          "start_ref": "43011002",
+          "start_ref_usfm": "JHN 11:2",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        },
+        {
+          "start_ref": "43011019",
+          "start_ref_usfm": "JHN 11:19",
+          "end_ref": "43011019",
+          "end_ref_usfm": "JHN 11:19"
+        },
+        {
+          "start_ref": "43011020",
+          "start_ref_usfm": "JHN 11:20",
+          "end_ref": "43011020",
+          "end_ref_usfm": "JHN 11:20"
+        },
+        {
+          "start_ref": "43011028",
+          "start_ref_usfm": "JHN 11:28",
+          "end_ref": "43011028",
+          "end_ref_usfm": "JHN 11:28"
+        },
+        {
+          "start_ref": "43011031",
+          "start_ref_usfm": "JHN 11:31",
+          "end_ref": "43011031",
+          "end_ref_usfm": "JHN 11:31"
+        },
+        {
+          "start_ref": "43011032",
+          "start_ref_usfm": "JHN 11:32",
+          "end_ref": "43011032",
+          "end_ref_usfm": "JHN 11:32"
+        },
+        {
+          "start_ref": "43011045",
+          "start_ref_usfm": "JHN 11:45",
+          "end_ref": "43011045",
+          "end_ref_usfm": "JHN 11:45"
+        },
+        {
+          "start_ref": "43012003",
+          "start_ref_usfm": "JHN 12:3",
+          "end_ref": "43012003",
+          "end_ref_usfm": "JHN 12:3"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012003",
+          "end_ref_usfm": "JHN 12:3"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        },
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010039",
+          "end_ref_usfm": "LUK 10:39"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25528,
+          "content_id": 466701,
+          "label": "Bethanie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25757,
+          "content_id": 466908,
+          "label": "Encens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25960,
+          "content_id": 467100,
+          "label": "Lazare",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25997,
+          "content_id": 467134,
+          "label": "Marthe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

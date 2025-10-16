@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 467148,
+    "reference_id": 26011,
+    "title": "Memphis",
+    "media_type": "Text",
+    "index_reference": "memphis",
+    "language": "fra",
+    "content": "<h1>Memphis</h1><h2>Définition :</h2><p>&quot;Memphis était une ville ancienne capitale en Egypte, le long du Nil.</p><ul><li><p>Memphis était situé en Basse-Egypte, juste au sud du delta du Nil, où le sol était très fertile et les récoltes étaient abondantes.</p></li><li><p>Ce lieu important et fertile entre la haute et la basse Egypte fait que Memphis est devenu une ville importante de trafic et du commerce.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translating Names</a>)</p><p>(Voir aussi : (../names/egypt.md), (../names/nileriver.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28009006",
+          "start_ref_usfm": "HOS 9:6",
+          "end_ref": "28009006",
+          "end_ref_usfm": "HOS 9:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 467189,
+          "label": "Nil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

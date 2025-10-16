@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467268,
+    "reference_id": 26147,
+    "title": "Rabbah",
+    "media_type": "Text",
+    "index_reference": "rabbah",
+    "language": "fra",
+    "content": "<h1>Rabbah</h1><h2>Définition :</h2><p>Rabbah a été la ville la plus importante de la population des Ammonites.</p><ul><li><p>Rabbah a souvent été attaquée durant des combats contre les Ammonites.</p></li><li><p>Le roi David a capturé Rabbah comme l&apos;une de ses dernières conquêtes.</p></li><li><p>La ville moderne d&apos;Amman en Jordanie est maintenant siutée où était Rabbah avant.</p></li></ul><p>(Voir aussi : (../names/ammon.md), (../names/david.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003011",
+          "start_ref_usfm": "DEU 3:11",
+          "end_ref": "05003011",
+          "end_ref_usfm": "DEU 3:11"
+        },
+        {
+          "start_ref": "10012026",
+          "start_ref_usfm": "2SA 12:26",
+          "end_ref": "10012026",
+          "end_ref_usfm": "2SA 12:26"
+        },
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020001",
+          "end_ref_usfm": "1CH 20:1"
+        },
+        {
+          "start_ref": "26025003",
+          "start_ref_usfm": "EZK 25:3",
+          "end_ref": "26025005",
+          "end_ref_usfm": "EZK 25:5"
+        },
+        {
+          "start_ref": "24049001",
+          "start_ref_usfm": "JER 49:1",
+          "end_ref": "24049002",
+          "end_ref_usfm": "JER 49:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 466633,
+          "label": "Ammon ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

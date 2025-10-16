@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26390,
+    "reference_id": 25532,
+    "title": "Bethuel",
+    "media_type": "Text",
+    "index_reference": "bethuel",
+    "language": "eng",
+    "content": "<h1>Bethuel</h1><h2>Facts:</h2><p>Bethuel was the son of Abraham’s brother Nahor.</p><ul><li><p>Bethuel was the father of Rebekah and Laban.</p></li><li><p>There was also a town called Bethuel, which may have been located in southern Judah, not far from the town of Beersheba.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">Beersheba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25948\" data-resourceType=\"UWTranslationWords\">Laban</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26040\" data-resourceType=\"UWTranslationWords\">Nahor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26156\" data-resourceType=\"UWTranslationWords\">Rebekah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr4:30\">1 Chronicles 4:30</a></p></li><li><p><a href=\"https://ref.ly/Gen28:2\">Genesis 28:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1328</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
+        },
+        {
+          "start_ref": "01022023",
+          "start_ref_usfm": "GEN 22:23",
+          "end_ref": "01022023",
+          "end_ref_usfm": "GEN 22:23"
+        },
+        {
+          "start_ref": "01024015",
+          "start_ref_usfm": "GEN 24:15",
+          "end_ref": "01024015",
+          "end_ref_usfm": "GEN 24:15"
+        },
+        {
+          "start_ref": "01024024",
+          "start_ref_usfm": "GEN 24:24",
+          "end_ref": "01024024",
+          "end_ref_usfm": "GEN 24:24"
+        },
+        {
+          "start_ref": "01024047",
+          "start_ref_usfm": "GEN 24:47",
+          "end_ref": "01024047",
+          "end_ref_usfm": "GEN 24:47"
+        },
+        {
+          "start_ref": "01024050",
+          "start_ref_usfm": "GEN 24:50",
+          "end_ref": "01024050",
+          "end_ref_usfm": "GEN 24:50"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028002",
+          "start_ref_usfm": "GEN 28:2",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "13004030",
+          "start_ref_usfm": "1CH 4:30",
+          "end_ref": "13004030",
+          "end_ref_usfm": "1CH 4:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25519,
+          "content_id": 26377,
+          "label": "Beersheba",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 26806,
+          "label": "Laban",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 26898,
+          "label": "Nahor",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 27014,
+          "label": "Rebekah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26768,
+    "reference_id": 25910,
+    "title": "John Mark",
+    "media_type": "Text",
+    "index_reference": "john mark",
+    "language": "eng",
+    "content": "<h1>John Mark</h1><h2>Facts:</h2><p>John Mark, also known as “Mark,” was one of the men who traveled with Paul on his missionary journeys. He is most likely the author of the Gospel of Mark.</p><ul><li><p>John Mark accompanied his cousin Barnabas and Paul on their first missionary journey.</p></li><li><p>When Peter was put in prison in Jerusalem, the believers there were praying for him at John Mark’s mother’s house.</p></li><li><p>Mark was not an apostle, but was taught by both Paul and Peter and worked together with them in ministry.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">Barnabas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timothy 4:11–13</a></p></li><li><p><a href=\"https://ref.ly/Acts12:24-Acts12:25\">Acts 12:24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts13:5\">Acts 13:5</a></p></li><li><p><a href=\"https://ref.ly/Acts13:13\">Acts 13:13</a></p></li><li><p><a href=\"https://ref.ly/Acts15:36-Acts15:38\">Acts 15:36–38</a></p></li><li><p><a href=\"https://ref.ly/Acts15:39-Acts15:41\">Acts 15:39–41</a></p></li><li><p><a href=\"https://ref.ly/Col4:10-Col4:11\">Colossians 4:10–11</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G24910, G31380</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "44015037",
+          "start_ref_usfm": "ACT 15:37",
+          "end_ref": "44015037",
+          "end_ref_usfm": "ACT 15:37"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004011",
+          "end_ref_usfm": "COL 4:11"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44012024",
+          "start_ref_usfm": "ACT 12:24",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015038",
+          "end_ref_usfm": "ACT 15:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 26364,
+          "label": "Barnabas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238022,
+    "reference_id": 25889,
+    "title": "Joiada",
+    "media_type": "Text",
+    "index_reference": "joiada",
+    "language": "por",
+    "content": "<h1>Joiada</h1><h2>Fatos:</h2><p>Joiada foi um sacerdote que ajudou a esconder e proteger Joás, filho do rei Acazias, até que ele tivesse idade suficiente para ser declarado rei.</p><ul><li><p>Joiada organizou centenas de guarda-costas para proteger o jovem Joás enquanto ele era proclamado rei pelo povo no templo.</p></li><li><p>Joiada liderou o povo na eliminação de todos os altares do falso deus Baal.</p></li><li><p>Pelo resto de sua vida, Joiada, o sacerdote, aconselhou o rei Joás para ajudá-lo a obedecer a Deus e governar o povo com sabedoria.</p></li><li><p>Outro homem chamado Joiada foi o pai de Benaia.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Acazias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25525\" data-resourceType=\"UWTranslationWords\">Benaia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joás</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs11:4\">2 Reis 11.4</a></p></li><li><p><a href=\"https://ref.ly/2Kgs12:1-2Kgs12:3\">2 Reis 12.1–3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3077</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011004",
+          "start_ref_usfm": "2KI 11:4",
+          "end_ref": "12011004",
+          "end_ref_usfm": "2KI 11:4"
+        },
+        {
+          "start_ref": "12012001",
+          "start_ref_usfm": "2KI 12:1",
+          "end_ref": "12012003",
+          "end_ref_usfm": "2KI 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 237579,
+          "label": "Acazias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25525,
+          "content_id": 237661,
+          "label": "Benaia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 238040,
+          "label": "Joás",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

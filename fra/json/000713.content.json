@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466747,
+    "reference_id": 25579,
+    "title": "Recensement",
+    "media_type": "Text",
+    "index_reference": "recensement",
+    "language": "fra",
+    "content": "<h1>recensement</h1><h2>Définition :</h2><p>Le terme «recensement» fait référence à un comptage formel du nombre de personnes dans une nation ou empire.</p><ul><li><p>L&apos;Ancien Testament enregistre différents moments où Dieu a ordonné que les hommes d&apos;Israël soient comptés, comme lorsque les Israélites quittèrent l&apos;Egypte d&apos;abord, puis à nouveau juste avant d&apos;entrer en Canaan.</p></li><li><p>Souvent, le but d&apos;un recensement est de savoir combien de personnes devraient payer des impôts.</p></li><li><p>Par exemple, une fois dans Exode, les hommes israélites ont été comptés pour que chacun paie un demi-sicle pour prendre soin du temple.</p></li><li><p>Quand Jésus était bébé, le gouvernement romain a fait un recensement pour compter toutes les personnes qui ont vécu tout au long de leur empire, pour les obliger à payer des impôts.</p></li></ul><h2>Traduction suggestions</h2><ul><li><p>Les moyens possibles pour traduire ce terme pourraient inclure, &quot; comptage&quot; ou &quot;liste de noms&quot; ou &quot;inscription*&quot;</p></li><li><p>L&apos;expression &quot;un recensement&quot; pourrait être traduit comme &quot;enregistrer les noms des personnes&quot; ou &quot;inscrire les gens» ou «écrire les noms des personnes*&quot;</p></li></ul><p>(Voir aussi : (../other/nation.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02038026",
+          "start_ref_usfm": "EXO 38:26",
+          "end_ref": "02038026",
+          "end_ref_usfm": "EXO 38:26"
+        },
+        {
+          "start_ref": "42002003",
+          "start_ref_usfm": "LUK 2:3",
+          "end_ref": "42002003",
+          "end_ref_usfm": "LUK 2:3"
+        },
+        {
+          "start_ref": "44005037",
+          "start_ref_usfm": "ACT 5:37",
+          "end_ref": "44005037",
+          "end_ref_usfm": "ACT 5:37"
+        },
+        {
+          "start_ref": "04004001",
+          "start_ref_usfm": "NUM 4:1",
+          "end_ref": "04004004",
+          "end_ref_usfm": "NUM 4:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26044,
+          "content_id": 467181,
+          "label": "Nation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

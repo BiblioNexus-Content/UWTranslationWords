@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237925,
+    "reference_id": 25792,
+    "title": "Gólgota",
+    "media_type": "Text",
+    "index_reference": "gólgota",
+    "language": "por",
+    "content": "<h1>Gólgota</h1><h2>Fatos:</h2><p>“Gólgota” era o nome do lugar onde Jesus foi crucificado. Seu nome vem de uma palavra aramaica que significa “Caveira” ou “Lugar da caveira.”</p><ul><li><p>Gólgota estava localizado fora das muralhas da cidade de Jerusalém, em algum lugar próximo. Talvez estivesse localizado em uma encosta do Monte das Oliveiras.</p></li><li><p>Em algumas versões mais antigas da Bíblia em português, Gólgota é traduzido como “Calvário”, que vem da palavra latina para “caveira”.</p></li><li><p>Muitas versões da Bíblia usam uma palavra que se parece ou soa semelhante a “Gólgota”, já que seu significado já é explicado no texto bíblico.</p></li></ul><p>(Sugestão de Tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Aram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26034\" data-resourceType=\"UWTranslationWords\">Monte das Oliveiras</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/John19:17\">João 19.17</a></p></li><li><p><a href=\"https://ref.ly/Mark15:22\">Marcos 15.22</a></p></li><li><p><a href=\"https://ref.ly/Matt27:33\">Mateus 27.33</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G11150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027033",
+          "start_ref_usfm": "MAT 27:33",
+          "end_ref": "40027033",
+          "end_ref_usfm": "MAT 27:33"
+        },
+        {
+          "start_ref": "41015022",
+          "start_ref_usfm": "MRK 15:22",
+          "end_ref": "41015022",
+          "end_ref_usfm": "MRK 15:22"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019017",
+          "end_ref_usfm": "JHN 19:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 237608,
+          "label": "Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 238164,
+          "label": "Monte das Oliveiras",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

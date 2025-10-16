@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467400,
+    "reference_id": 26286,
+    "title": "Dix Commandements",
+    "media_type": "Text",
+    "index_reference": "dix commandements",
+    "language": "fra",
+    "content": "<h1>Dix Commandements</h1><h2>Données :</h2><p>Les « Dix Commandements » sont des commandements que Dieu a donnés à Moïse sur le mont Sinaï pendant que les Israélites vivaient dans le désert en route vers le pays de Canaan. Dieu a écrit ces commandements sur deux dalles de pierre.</p><ul><li><p>Dieu a donné aux Israélites de nombreux commandements qu&apos;ils devaient obéir. Mais, les Dix Commandements étaient des commandements spéciaux pour aider les Israélites à aimer et adorer Dieu et à aimer les autres.</p></li><li><p>Les dalles de pierre avec les commandements écrits sur eux ont été placés dans l&apos;Arche de l&apos;Alliance qui se trouvait dans le lieu très saint du tabernacle et plus tard, dans le temple.</p></li><li><p>Ces commandements faisaient partie de l&apos;alliance de Dieu avec son peuple. En obéissant à ce que Dieu leur avait ordonné de faire, le peuple d&apos;Israël allait montrer qu&apos;il aimait Dieu et lui appartenait.</p></li></ul><p>(Voir aussi : (../kt/arkofthecovenant.md), (../kt/command.md), (../kt/covenant.md), (../other/desert.md), (../kt/lawofmoses.md), (../other/obey.md), (../names/sinai.md), (../kt/worship.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05010003",
+          "start_ref_usfm": "DEU 10:3",
+          "end_ref": "05010004",
+          "end_ref_usfm": "DEU 10:4"
+        },
+        {
+          "start_ref": "02034027",
+          "start_ref_usfm": "EXO 34:27",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "05004013",
+          "start_ref_usfm": "DEU 4:13",
+          "end_ref": "05004014",
+          "end_ref_usfm": "DEU 4:14"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018021",
+          "end_ref_usfm": "LUK 18:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 466654,
+          "label": "L'arche de l'alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25621,
+          "content_id": 466786,
+          "label": "Alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 467356,
+          "label": "Sinaï",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 467465,
+          "label": "Adorer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

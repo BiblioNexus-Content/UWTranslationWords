@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 237742,
+    "reference_id": 25607,
+    "title": "Confirmar",
+    "media_type": "Text",
+    "index_reference": "confirmar",
+    "language": "por",
+    "content": "<h1>confirmar, confirmação, legítimo</h1><h2>Definição:</h2><p>O termo “confirmar” refere-se a verificar que algo é verdadeiro ou certificar legalmente que uma transação ocorreu.</p><ul><li><p>Quando um rei é “confirmado” significa que a decisão de torná-lo rei foi acordada e apoiada pelo povo.</p></li><li><p>Confirmar o que alguém escreveu significa verificar que o que foi escrito é verdadeiro.</p></li><li><p>A “confirmação” do evangelho significa ensinar às pessoas sobre as boas novas de Jesus de tal forma que mostre que é verdade.</p></li><li><p>Dar um juramento “como confirmação” significa declarar solenemente ou jurar que algo é verdadeiro ou confiável.</p></li><li><p>Maneiras de traduzir “confirmar” podem incluir“, afirmar como verdadeiro” ou “provar ser confiável” ou “concordar com” ou “assegurar” ou “prometer”, dependendo do contexto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25621\" data-resourceType=\"UWTranslationWords\">aliança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26058\" data-resourceType=\"UWTranslationWords\">juramento</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26322\" data-resourceType=\"UWTranslationWords\">confiança</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr16:15-1Chr16:18\">1 Crônicas 16.15–18</a></p></li><li><p><a href=\"https://ref.ly/2Cor1:21\">2 Coríntios 1.21</a></p></li><li><p><a href=\"https://ref.ly/2Kgs23:3\">2 Reis 23.3</a></p></li><li><p><a href=\"https://ref.ly/Heb6:16-Heb6:18\">Hebreus 6.16–18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0559, H1396, H3045, H3559, H4390, H4672, H5414, H5975, H6213, H6965, G09500, G09510, G33150, G49720</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08004007",
+          "start_ref_usfm": "RUT 4:7",
+          "end_ref": "08004007",
+          "end_ref_usfm": "RUT 4:7"
+        },
+        {
+          "start_ref": "12023003",
+          "start_ref_usfm": "2KI 23:3",
+          "end_ref": "12023003",
+          "end_ref_usfm": "2KI 23:3"
+        },
+        {
+          "start_ref": "45015008",
+          "start_ref_usfm": "ROM 15:8",
+          "end_ref": "45015008",
+          "end_ref_usfm": "ROM 15:8"
+        },
+        {
+          "start_ref": "46001006",
+          "start_ref_usfm": "1CO 1:6",
+          "end_ref": "46001006",
+          "end_ref_usfm": "1CO 1:6"
+        },
+        {
+          "start_ref": "46001008",
+          "start_ref_usfm": "1CO 1:8",
+          "end_ref": "46001008",
+          "end_ref_usfm": "1CO 1:8"
+        },
+        {
+          "start_ref": "47001021",
+          "start_ref_usfm": "2CO 1:21",
+          "end_ref": "47001021",
+          "end_ref_usfm": "2CO 1:21"
+        },
+        {
+          "start_ref": "47002008",
+          "start_ref_usfm": "2CO 2:8",
+          "end_ref": "47002008",
+          "end_ref_usfm": "2CO 2:8"
+        },
+        {
+          "start_ref": "51002007",
+          "start_ref_usfm": "COL 2:7",
+          "end_ref": "51002007",
+          "end_ref_usfm": "COL 2:7"
+        },
+        {
+          "start_ref": "58002003",
+          "start_ref_usfm": "HEB 2:3",
+          "end_ref": "58002003",
+          "end_ref_usfm": "HEB 2:3"
+        },
+        {
+          "start_ref": "58013009",
+          "start_ref_usfm": "HEB 13:9",
+          "end_ref": "58013009",
+          "end_ref_usfm": "HEB 13:9"
+        },
+        {
+          "start_ref": "60005010",
+          "start_ref_usfm": "1PE 5:10",
+          "end_ref": "60005010",
+          "end_ref_usfm": "1PE 5:10"
+        },
+        {
+          "start_ref": "13016015",
+          "start_ref_usfm": "1CH 16:15",
+          "end_ref": "13016018",
+          "end_ref_usfm": "1CH 16:18"
+        },
+        {
+          "start_ref": "58006016",
+          "start_ref_usfm": "HEB 6:16",
+          "end_ref": "58006018",
+          "end_ref_usfm": "HEB 6:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25621,
+          "content_id": 237755,
+          "label": "Aliança",
+          "language": "por"
+        },
+        {
+          "reference_id": 26058,
+          "content_id": 238188,
+          "label": "Juramento",
+          "language": "por"
+        },
+        {
+          "reference_id": 26322,
+          "content_id": 191644,
+          "label": "Confiança",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

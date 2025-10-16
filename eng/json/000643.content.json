@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26917,
+    "reference_id": 26059,
+    "title": "Obadiah",
+    "media_type": "Text",
+    "index_reference": "obadiah",
+    "language": "eng",
+    "content": "<h1>Obadiah</h1><h2>Facts:</h2><p>Obadiah was an Old Testament prophet who prophesied against the people of Edom, who were the descendants of Esau. There were also many other men named Obadiah in the Old Testament.</p><ul><li><p>The book of Obadiah is the shortest book in the Old Testament and tells a prophecy that Obadiah received through a vision from God.</p></li><li><p>It is not clear when Obadiah lived and prophesied. It may have been during the paeriods that Jehoram, Ahaziah, Joash, and Athaliah, reigned in Judah. The prophets Daniel, Ezekiel, and Jeremiah would also have been prophesying during part of this time.</p></li><li><p>Obadiah may also have lived at a later time period, during the reign of King Zedekiah and the Babylonian captivity.</p></li><li><p>Other men named Obadiah included a descendant of Saul, a Gadite who became one of David’s men, a palace administrator for King Ahab, an official of King Jehoshaphat, a man who helped with repairs to the temple during the time of King Josiah, and a Levite who was also a gatekeeper during the time of Nehemiah.</p></li><li><p>It could be that the writer of the book of Obadiah was one of these men.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Ahab</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25689\" data-resourceType=\"UWTranslationWords\">Edom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esau</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25723\" data-resourceType=\"UWTranslationWords\">Ezekiel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">Gad</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Jehoshaphat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">Josiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (OT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">Zedekiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:21\">1 Chronicles 3:21</a></p></li><li><p><a href=\"https://ref.ly/1Chr8:38-1Chr8:40\">1 Chronicles 8:38–40</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:8-Ezra8:11\">Ezra 8:8–11</a></p></li><li><p><a href=\"https://ref.ly/Obad1:2\">Obadiah 1:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5662</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13003021",
+          "start_ref_usfm": "1CH 3:21",
+          "end_ref": "13003021",
+          "end_ref_usfm": "1CH 3:21"
+        },
+        {
+          "start_ref": "15008009",
+          "start_ref_usfm": "EZR 8:9",
+          "end_ref": "15008009",
+          "end_ref_usfm": "EZR 8:9"
+        },
+        {
+          "start_ref": "16010005",
+          "start_ref_usfm": "NEH 10:5",
+          "end_ref": "16010005",
+          "end_ref_usfm": "NEH 10:5"
+        },
+        {
+          "start_ref": "16012025",
+          "start_ref_usfm": "NEH 12:25",
+          "end_ref": "16012025",
+          "end_ref_usfm": "NEH 12:25"
+        },
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        },
+        {
+          "start_ref": "31001002",
+          "start_ref_usfm": "OBA 1:2",
+          "end_ref": "31001002",
+          "end_ref_usfm": "OBA 1:2"
+        },
+        {
+          "start_ref": "13008038",
+          "start_ref_usfm": "1CH 8:38",
+          "end_ref": "13008040",
+          "end_ref_usfm": "1CH 8:40"
+        },
+        {
+          "start_ref": "15008008",
+          "start_ref_usfm": "EZR 8:8",
+          "end_ref": "15008011",
+          "end_ref_usfm": "EZR 8:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 26296,
+          "label": "Ahab",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25689,
+          "content_id": 26547,
+          "label": "Edom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 26568,
+          "label": "Esau",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25723,
+          "content_id": 26581,
+          "label": "Ezekiel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 26622,
+          "label": "Gad",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 26750,
+          "label": "Jehoshaphat",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 26779,
+          "label": "Josiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 27058,
+          "label": "Saul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 27229,
+          "label": "Zedekiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

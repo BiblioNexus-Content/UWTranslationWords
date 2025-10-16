@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 179882,
+    "reference_id": 25811,
+    "title": "हाग्गै",
+    "media_type": "Text",
+    "index_reference": "हाग्गै",
+    "language": "hin",
+    "content": "<h1>हाग्गै</h1><h2>तथ्य:</h2><p>बेबीलोन की बन्धुआई से स्वदेश लौट आने के बाद हाग्गै यहूदा में एक भविष्यद्वक्ता था।</p><ul><li><p>हाग्गै की भविष्यद्वाणी के सेवाकाल में उजिय्याह यहूदा का राजा था।</p></li><li><p>भविष्यद्वक्ता जकर्याह भी इसी समय भविष्यद्वाणी करता था।</p></li><li><p>हाग्गै और जकर्याह ने यहूदियों को उत्साहित किया कि वे मन्दिर का पुनः निर्माण करें क्योंकि बेबीलोन के राजा नबूकदनेस्सर ने मन्दिर को नष्ट कर दिया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">नबूकदनेस्सर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">उज्जिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26370\" data-resourceType=\"UWTranslationWords\">जकर्याह (पुराना नियम)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezra5:1-Ezra5:2\">एज्रा 5:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra6:13-Ezra6:15\">एज्रा 6:13–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2292</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005001",
+          "end_ref_usfm": "EZR 5:1"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "37001003",
+          "start_ref_usfm": "HAG 1:3",
+          "end_ref": "37001003",
+          "end_ref_usfm": "HAG 1:3"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001013",
+          "start_ref_usfm": "HAG 1:13",
+          "end_ref": "37001013",
+          "end_ref_usfm": "HAG 1:13"
+        },
+        {
+          "start_ref": "37002001",
+          "start_ref_usfm": "HAG 2:1",
+          "end_ref": "37002001",
+          "end_ref_usfm": "HAG 2:1"
+        },
+        {
+          "start_ref": "37002010",
+          "start_ref_usfm": "HAG 2:10",
+          "end_ref": "37002010",
+          "end_ref_usfm": "HAG 2:10"
+        },
+        {
+          "start_ref": "37002013",
+          "start_ref_usfm": "HAG 2:13",
+          "end_ref": "37002013",
+          "end_ref_usfm": "HAG 2:13"
+        },
+        {
+          "start_ref": "37002014",
+          "start_ref_usfm": "HAG 2:14",
+          "end_ref": "37002014",
+          "end_ref_usfm": "HAG 2:14"
+        },
+        {
+          "start_ref": "37002020",
+          "start_ref_usfm": "HAG 2:20",
+          "end_ref": "37002020",
+          "end_ref_usfm": "HAG 2:20"
+        },
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "15006013",
+          "start_ref_usfm": "EZR 6:13",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 180111,
+          "label": "नबूकदनेस्सर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 180384,
+          "label": "उज्जियाह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 180422,
+          "label": "ज़कर्याह (पुराना नियम)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

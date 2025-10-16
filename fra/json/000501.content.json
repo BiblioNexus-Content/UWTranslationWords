@@ -1,0 +1,197 @@
+[
+  {
+    "content_id": 467062,
+    "reference_id": 25917,
+    "title": "Le Jourdain",
+    "media_type": "Text",
+    "index_reference": "le jourdain",
+    "language": "fra",
+    "content": "<h1>Le Jourdain, les eaux du Jourdain</h1><h2>Définition :</h2><ul><li><p>Aujourd&apos;hui, le Jourdain sépare Israël qui se trouve sur sa rive ouest de la Jordanie qui se trouve sur sa rive est.</p></li><li><p>Le Jourdain coule à travers la mer de Galilée, puis il se jette dans la mer Morte.</p></li><li><p>Lorsque Josué a commandé aux Israélites d&apos;enter en Canaan, ils ont dû traverser le Jourdain. Normalement le Jourdain est trop profond pour le traverser, mais Dieu a miraculeusement empêché la rivière de couler pour qu&apos;ils puissent marcher dans le lit de la rivière à pied sec.</p></li><li><p>Souvent dans la Bible, l&apos;expression « les eaux du Jourdain » est employée en parlant du fleuve.</p></li></ul><p>(Voir aussi : (../names/canaan.md), (../names/saltsea.md), (../names/seaofgalilee.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "01013011",
+          "start_ref_usfm": "GEN 13:11",
+          "end_ref": "01013011",
+          "end_ref_usfm": "GEN 13:11"
+        },
+        {
+          "start_ref": "01032010",
+          "start_ref_usfm": "GEN 32:10",
+          "end_ref": "01032010",
+          "end_ref_usfm": "GEN 32:10"
+        },
+        {
+          "start_ref": "01050010",
+          "start_ref_usfm": "GEN 50:10",
+          "end_ref": "01050010",
+          "end_ref_usfm": "GEN 50:10"
+        },
+        {
+          "start_ref": "01050011",
+          "start_ref_usfm": "GEN 50:11",
+          "end_ref": "01050011",
+          "end_ref_usfm": "GEN 50:11"
+        },
+        {
+          "start_ref": "18040023",
+          "start_ref_usfm": "JOB 40:23",
+          "end_ref": "18040023",
+          "end_ref_usfm": "JOB 40:23"
+        },
+        {
+          "start_ref": "40003005",
+          "start_ref_usfm": "MAT 3:5",
+          "end_ref": "40003005",
+          "end_ref_usfm": "MAT 3:5"
+        },
+        {
+          "start_ref": "40003006",
+          "start_ref_usfm": "MAT 3:6",
+          "end_ref": "40003006",
+          "end_ref_usfm": "MAT 3:6"
+        },
+        {
+          "start_ref": "40003013",
+          "start_ref_usfm": "MAT 3:13",
+          "end_ref": "40003013",
+          "end_ref_usfm": "MAT 3:13"
+        },
+        {
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
+        },
+        {
+          "start_ref": "40004025",
+          "start_ref_usfm": "MAT 4:25",
+          "end_ref": "40004025",
+          "end_ref_usfm": "MAT 4:25"
+        },
+        {
+          "start_ref": "40019001",
+          "start_ref_usfm": "MAT 19:1",
+          "end_ref": "40019001",
+          "end_ref_usfm": "MAT 19:1"
+        },
+        {
+          "start_ref": "41001005",
+          "start_ref_usfm": "MRK 1:5",
+          "end_ref": "41001005",
+          "end_ref_usfm": "MRK 1:5"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        },
+        {
+          "start_ref": "41003008",
+          "start_ref_usfm": "MRK 3:8",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        },
+        {
+          "start_ref": "41010001",
+          "start_ref_usfm": "MRK 10:1",
+          "end_ref": "41010001",
+          "end_ref_usfm": "MRK 10:1"
+        },
+        {
+          "start_ref": "42003003",
+          "start_ref_usfm": "LUK 3:3",
+          "end_ref": "42003003",
+          "end_ref_usfm": "LUK 3:3"
+        },
+        {
+          "start_ref": "42004001",
+          "start_ref_usfm": "LUK 4:1",
+          "end_ref": "42004001",
+          "end_ref_usfm": "LUK 4:1"
+        },
+        {
+          "start_ref": "43001028",
+          "start_ref_usfm": "JHN 1:28",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "43003026",
+          "start_ref_usfm": "JHN 3:26",
+          "end_ref": "43003026",
+          "end_ref_usfm": "JHN 3:26"
+        },
+        {
+          "start_ref": "43010040",
+          "start_ref_usfm": "JHN 10:40",
+          "end_ref": "43010040",
+          "end_ref_usfm": "JHN 10:40"
+        },
+        {
+          "start_ref": "40003013",
+          "start_ref_usfm": "MAT 3:13",
+          "end_ref": "40003015",
+          "end_ref_usfm": "MAT 3:15"
+        },
+        {
+          "start_ref": "43001026",
+          "start_ref_usfm": "JHN 1:26",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "01032009",
+          "start_ref_usfm": "GEN 32:9",
+          "end_ref": "01032010",
+          "end_ref_usfm": "GEN 32:10"
+        },
+        {
+          "start_ref": "43003025",
+          "start_ref_usfm": "JHN 3:25",
+          "end_ref": "43003026",
+          "end_ref_usfm": "JHN 3:26"
+        },
+        {
+          "start_ref": "40004014",
+          "start_ref_usfm": "MAT 4:14",
+          "end_ref": "40004016",
+          "end_ref_usfm": "MAT 4:16"
+        },
+        {
+          "start_ref": "40019001",
+          "start_ref_usfm": "MAT 19:1",
+          "end_ref": "40019002",
+          "end_ref_usfm": "MAT 19:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 467326,
+          "label": "Mer de Galilée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27229,
+    "reference_id": 26371,
+    "title": "Zedekiah",
+    "media_type": "Text",
+    "index_reference": "zedekiah",
+    "language": "eng",
+    "content": "<h1>Zedekiah</h1><h2>Facts:</h2><p>Zedekiah, son of Josiah, was the last king of Judah (597–587 B.C.). There are also several other men named Zedekiah in the Old Testament.</p><ul><li><p>King Nebuchadnezzar made Zedekiah king of Judah after capturing King Jehoiachin and taking him away to Babylon. Zedekiah later rebelled and as a result Nebuchadnezzar captured him and destroyed all of Jerusalem.</p></li><li><p>Zedekiah, son of Kenaanah, was a false prophet during the time of King Ahab of Israel.</p></li><li><p>A man named Zedekiah was one of those who signed an agreement to the Lord during the time of Nehemiah.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Ahab</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25723\" data-resourceType=\"UWTranslationWords\">Ezekiel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25888\" data-resourceType=\"UWTranslationWords\">Jehoiachin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">Josiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nebuchadnezzar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:15-1Chr3:16\">1 Chronicles 3:15–16</a></p></li><li><p><a href=\"https://ref.ly/Jer37:1-Jer37:2\">Jeremiah 37:1–2</a></p></li><li><p><a href=\"https://ref.ly/Jer39:2\">Jeremiah 39:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6667</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16010001",
+          "end_ref_usfm": "NEH 10:1"
+        },
+        {
+          "start_ref": "24039002",
+          "start_ref_usfm": "JER 39:2",
+          "end_ref": "24039002",
+          "end_ref_usfm": "JER 39:2"
+        },
+        {
+          "start_ref": "24037001",
+          "start_ref_usfm": "JER 37:1",
+          "end_ref": "24037002",
+          "end_ref_usfm": "JER 37:2"
+        },
+        {
+          "start_ref": "13003015",
+          "start_ref_usfm": "1CH 3:15",
+          "end_ref": "13003016",
+          "end_ref_usfm": "1CH 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 26296,
+          "label": "Ahab",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25723,
+          "content_id": 26581,
+          "label": "Ezekiel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25888,
+          "content_id": 26746,
+          "label": "Jehoiachin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 26753,
+          "label": "Jeremiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 26779,
+          "label": "Josiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 26905,
+          "label": "Nebuchadnezzar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 26907,
+          "label": "Nehemiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

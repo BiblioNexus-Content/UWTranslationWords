@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467100,
+    "reference_id": 25960,
+    "title": "Lazare",
+    "media_type": "Text",
+    "index_reference": "lazare",
+    "language": "fra",
+    "content": "<h1>Lazare</h1><h2>Données :</h2><p>Lazare et ses sœurs, Marie et Marthe, étaient des amis spéciaux de Jésus. Jésus restait souvent avec eux dans leur maison à Béthanie.</p><ul><li><p>Lazare est surtout connu parce que Jésus l&apos;a ressuscité des morts après avoir été enterré dans une tombe pendant plusieurs jours.</p></li><li><p>Les dirigeants juifs étaient tellement en colère contre Jésus et jaloux qu&apos;il avait fait ce miracle, qu&apos;ils ont essayé de trouver un moyen de tuer tous les deux.</p></li><li><p>Jésus a aussi raconté une parabole au sujet d&apos;un pauvre mendiant nommé Lazare et d&apos;un homme riche.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/beg.md), (../other/jewishleaders.md), (../names/martha.md), (../names/mary.md), (../other/raise.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42016021",
+          "start_ref_usfm": "LUK 16:21",
+          "end_ref": "42016021",
+          "end_ref_usfm": "LUK 16:21"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011001",
+          "end_ref_usfm": "JHN 11:1"
+        },
+        {
+          "start_ref": "43011002",
+          "start_ref_usfm": "JHN 11:2",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        },
+        {
+          "start_ref": "43011005",
+          "start_ref_usfm": "JHN 11:5",
+          "end_ref": "43011005",
+          "end_ref_usfm": "JHN 11:5"
+        },
+        {
+          "start_ref": "43011011",
+          "start_ref_usfm": "JHN 11:11",
+          "end_ref": "43011011",
+          "end_ref_usfm": "JHN 11:11"
+        },
+        {
+          "start_ref": "43011014",
+          "start_ref_usfm": "JHN 11:14",
+          "end_ref": "43011014",
+          "end_ref_usfm": "JHN 11:14"
+        },
+        {
+          "start_ref": "43011043",
+          "start_ref_usfm": "JHN 11:43",
+          "end_ref": "43011043",
+          "end_ref_usfm": "JHN 11:43"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012001",
+          "end_ref_usfm": "JHN 12:1"
+        },
+        {
+          "start_ref": "43012002",
+          "start_ref_usfm": "JHN 12:2",
+          "end_ref": "43012002",
+          "end_ref_usfm": "JHN 12:2"
+        },
+        {
+          "start_ref": "43012009",
+          "start_ref_usfm": "JHN 12:9",
+          "end_ref": "43012009",
+          "end_ref_usfm": "JHN 12:9"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012010",
+          "end_ref_usfm": "JHN 12:10"
+        },
+        {
+          "start_ref": "43012017",
+          "start_ref_usfm": "JHN 12:17",
+          "end_ref": "43012017",
+          "end_ref_usfm": "JHN 12:17"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012003",
+          "end_ref_usfm": "JHN 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25521,
+          "content_id": 466695,
+          "label": "Mendier ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25903,
+          "content_id": 467048,
+          "label": "Chefs des juifs",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25997,
+          "content_id": 467134,
+          "label": "Marthe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25998,
+          "content_id": 467135,
+          "label": "Marie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

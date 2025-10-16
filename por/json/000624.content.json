@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238169,
+    "reference_id": 26039,
+    "title": "Naamã",
+    "media_type": "Text",
+    "index_reference": "naamã",
+    "language": "por",
+    "content": "<h1>Naamã</h1><h2>Fatos:</h2><p>No Antigo Testamento, Naamã era o comandante do exército do rei da Síria.</p><ul><li><p>Naamã tinha uma terrível doença de pele chamada lepra que não podia ser curada.</p></li><li><p>Uma escrava judia na casa de Naamã disse-lhe para ir pedir ao profeta Eliseu para curá-lo.</p></li><li><p>Eliseu disse a Naamã para se lavar sete vezes no rio Jordão. Quando Naamã obedeceu, Deus o curou de sua doença.</p></li><li><p>Como resultado, Naamã passou a acreditar no único Deus verdadeiro, Javé.</p></li><li><p>Outros dois homens chamados Naamã eram descendentes do filho de Jacó, Benjamim.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Arão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Rio Jordão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25965\" data-resourceType=\"UWTranslationWords\">lepra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr8:6-1Chr8:7\">1 Crônicas 8.6–7</a></p></li><li><p><a href=\"https://ref.ly/2Kgs5:1\">2 Reis 5.1</a></p></li><li><p><a href=\"https://ref.ly/Luke4:27\">Lucas 4.27</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>19.14</strong> Um dos milagres aconteceu com <strong>Naamã</strong>, um comandante inimigo, que tinha uma terrível doença de pele.</p></li><li><p><strong>19.15</strong> No início, <strong>Naamã</strong> ficou com raiva e não quis fazer isso porque parecia tolice. Mas, depois ele mudou de ideia e mergulhou sete vezes no rio Jordão.</p></li><li><p><strong>26.6</strong> “Ele (Eliseu) curou apenas a doença de pele de <strong>Naamã</strong>, um comandante dos inimigos de Israel”.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5283, G34970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01046021",
+          "start_ref_usfm": "GEN 46:21",
+          "end_ref": "01046021",
+          "end_ref_usfm": "GEN 46:21"
+        },
+        {
+          "start_ref": "12005001",
+          "start_ref_usfm": "2KI 5:1",
+          "end_ref": "12005001",
+          "end_ref_usfm": "2KI 5:1"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "13008006",
+          "start_ref_usfm": "1CH 8:6",
+          "end_ref": "13008007",
+          "end_ref_usfm": "1CH 8:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 237608,
+          "label": "Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 238050,
+          "label": "Rio Jordão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25965,
+          "content_id": 238096,
+          "label": "Lepra",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

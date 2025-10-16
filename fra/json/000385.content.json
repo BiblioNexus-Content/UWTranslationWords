@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466979,
+    "reference_id": 25831,
+    "title": "Hérodias",
+    "media_type": "Text",
+    "index_reference": "hérodias",
+    "language": "fra",
+    "content": "<h1>Hérodias</h1><h2>Définition :</h2><p>&quot;Hérodias était la femme du Roi Hérode (Antipas) en Judé au temps de Jean Baptiste.</p><ul><li><p>Hérodias était à l&apos;origine la femme de Philippe, frère d&apos;Hérode, mais elle s&apos;est mariée illégalement à Hérode.</p></li><li><p>Jean Baptiste a critiqué Hérode et Hérodias pour leur marriage illégale* A cause de cela, Hérode à mis Jean Baptiste en prison et éventuellement lui a coupé la tête.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/herodantipas.md), (../names/johnthebaptist.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014003",
+          "start_ref_usfm": "MAT 14:3",
+          "end_ref": "40014003",
+          "end_ref_usfm": "MAT 14:3"
+        },
+        {
+          "start_ref": "40014004",
+          "start_ref_usfm": "MAT 14:4",
+          "end_ref": "40014004",
+          "end_ref_usfm": "MAT 14:4"
+        },
+        {
+          "start_ref": "40014006",
+          "start_ref_usfm": "MAT 14:6",
+          "end_ref": "40014006",
+          "end_ref_usfm": "MAT 14:6"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006017",
+          "end_ref_usfm": "MRK 6:17"
+        },
+        {
+          "start_ref": "41006019",
+          "start_ref_usfm": "MRK 6:19",
+          "end_ref": "41006019",
+          "end_ref_usfm": "MRK 6:19"
+        },
+        {
+          "start_ref": "41006022",
+          "start_ref_usfm": "MRK 6:22",
+          "end_ref": "41006022",
+          "end_ref_usfm": "MRK 6:22"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 466978,
+          "label": "Hérode Antipas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 467057,
+          "label": "Jean (le Baptiste)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

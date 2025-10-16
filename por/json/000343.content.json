@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238276,
+    "reference_id": 26146,
+    "title": "Extinguir",
+    "media_type": "Text",
+    "index_reference": "extinguir",
+    "language": "por",
+    "content": "<h1>extinguir, extinguido, inextinguível</h1><h2>Definição:</h2><p>O termo “extinguir” significa apagar ou parar algo que está exigindo ser satisfeito.</p><ul><li><p>Este termo é geralmente usado no contexto de saciar a sede e significa parar de sentir sede bebendo algo.</p></li><li><p>Também pode ser usado para se referir a apagar um incêndio.</p></li><li><p>Tanto a sede quanto o fogo são extinguidos com água.</p></li><li><p>Paulo usa o termo “extinguir” de uma maneira figurativa quando instrui os crentes a não “extinguir o Espírito Santo”. Isso significa não desencorajar as pessoas de permitir que o Espírito Santo produza seus frutos e dons nelas. Extinguindo o Espírito Santo significa impedir que o Espírito Santo manifeste livremente seu poder e trabalho nas pessoas.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25760\" data-resourceType=\"UWTranslationWords\">fruto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">dom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Thess5:19\">1 Tessalonicenses 5.19</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:47\">Ezequiel 20.47</a></p></li><li><p><a href=\"https://ref.ly/Isa1:31\">Isaías 1.31</a></p></li><li><p><a href=\"https://ref.ly/Jer21:12\">Jeremias 21.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1846, H3518, H7665, G07620, G45700</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001031",
+          "start_ref_usfm": "ISA 1:31",
+          "end_ref": "23001031",
+          "end_ref_usfm": "ISA 1:31"
+        },
+        {
+          "start_ref": "24021012",
+          "start_ref_usfm": "JER 21:12",
+          "end_ref": "24021012",
+          "end_ref_usfm": "JER 21:12"
+        },
+        {
+          "start_ref": "26020047",
+          "start_ref_usfm": "EZK 20:47",
+          "end_ref": "26020047",
+          "end_ref_usfm": "EZK 20:47"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "41009048",
+          "start_ref_usfm": "MRK 9:48",
+          "end_ref": "41009048",
+          "end_ref_usfm": "MRK 9:48"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "52005019",
+          "start_ref_usfm": "1TH 5:19",
+          "end_ref": "52005019",
+          "end_ref_usfm": "1TH 5:19"
+        },
+        {
+          "start_ref": "58011034",
+          "start_ref_usfm": "HEB 11:34",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25760,
+          "content_id": 237893,
+          "label": "Fruto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

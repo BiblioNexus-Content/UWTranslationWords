@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26352,
+    "reference_id": 25494,
+    "title": "Awe",
+    "media_type": "Text",
+    "index_reference": "awe",
+    "language": "eng",
+    "content": "<h1>awe, awesome</h1><h2>Definition:</h2><p>The term “awe” refers to the sense of amazement and deep respect that comes from seeing something great, powerful, and magnificent.</p><ul><li><p>The term “awesome” describes someone or something that inspires a feeling of awe.</p></li><li><p>The visions of the glory of God seen by the prophet Ezekiel were “awesome” or “awe-inspiring.”</p></li><li><p>Typical human responses showing awe of God’s presence include: fear, bowing or kneeling down, covering the face, and trembling.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">fear</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25786\" data-resourceType=\"UWTranslationWords\">glory</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr17:21\">1 Chronicles 17:21</a></p></li><li><p><a href=\"https://ref.ly/Gen28:16-Gen28:17\">Genesis 28:16–17</a></p></li><li><p><a href=\"https://ref.ly/Heb12:28\">Hebrews 12:28</a></p></li><li><p><a href=\"https://ref.ly/Ps22:23\">Psalm 22:23</a></p></li><li><p><a href=\"https://ref.ly/Ps147:4-Ps147:5\">Psalms 147:4–5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0366, H1481, H3372, H6206, H7227, G21240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017021",
+          "start_ref_usfm": "1CH 17:21",
+          "end_ref": "13017021",
+          "end_ref_usfm": "1CH 17:21"
+        },
+        {
+          "start_ref": "19022023",
+          "start_ref_usfm": "PSA 22:23",
+          "end_ref": "19022023",
+          "end_ref_usfm": "PSA 22:23"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "19147004",
+          "start_ref_usfm": "PSA 147:4",
+          "end_ref": "19147005",
+          "end_ref_usfm": "PSA 147:5"
+        },
+        {
+          "start_ref": "01028016",
+          "start_ref_usfm": "GEN 28:16",
+          "end_ref": "01028017",
+          "end_ref_usfm": "GEN 28:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 26593,
+          "label": "Fear",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25786,
+          "content_id": 26644,
+          "label": "Glory",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

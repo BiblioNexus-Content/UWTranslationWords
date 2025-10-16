@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467222,
+    "reference_id": 26098,
+    "title": "Philippe",
+    "media_type": "Text",
+    "index_reference": "philippe",
+    "language": "fra",
+    "content": "<h1>Philippe, l&apos;apôtre</h1><h2>Définition :</h2><p>Philippe, l&apos;apôtre, était l&apos;un des douze premiers disciples de Jésus.</p><ul><li><p>Philippe était de la ville de Bethsaïda; c&apos;est lui qui présenta Nathanael à Jésus.</p></li><li><p>Un jour Jésus interrogea Philippe sur la façon de fournir de la nourriture pour une foule de plus de cinq mille personnes.</p></li><li><p>Lorsque Jésus mangeait le dernier repas de la Pâque avec ses disciples, il leur parlait de Dieu, son Père* Philippe a demandé à Jésus de leur montrer le Père.</p></li><li><p>Certaines langues préférent écrire d&apos;une manière différente le nom Philippe(l&apos;apôtre) de l&apos;autre Philippe (l&apos;évangéliste) pour éviter toute confusion.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/philip.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001043",
+          "end_ref_usfm": "JHN 1:43"
+        },
+        {
+          "start_ref": "43001044",
+          "start_ref_usfm": "JHN 1:44",
+          "end_ref": "43001044",
+          "end_ref_usfm": "JHN 1:44"
+        },
+        {
+          "start_ref": "43001045",
+          "start_ref_usfm": "JHN 1:45",
+          "end_ref": "43001045",
+          "end_ref_usfm": "JHN 1:45"
+        },
+        {
+          "start_ref": "43001046",
+          "start_ref_usfm": "JHN 1:46",
+          "end_ref": "43001046",
+          "end_ref_usfm": "JHN 1:46"
+        },
+        {
+          "start_ref": "43001048",
+          "start_ref_usfm": "JHN 1:48",
+          "end_ref": "43001048",
+          "end_ref_usfm": "JHN 1:48"
+        },
+        {
+          "start_ref": "43006005",
+          "start_ref_usfm": "JHN 6:5",
+          "end_ref": "43006005",
+          "end_ref_usfm": "JHN 6:5"
+        },
+        {
+          "start_ref": "43006006",
+          "start_ref_usfm": "JHN 6:6",
+          "end_ref": "43006006",
+          "end_ref_usfm": "JHN 6:6"
+        },
+        {
+          "start_ref": "43006007",
+          "start_ref_usfm": "JHN 6:7",
+          "end_ref": "43006007",
+          "end_ref_usfm": "JHN 6:7"
+        },
+        {
+          "start_ref": "43012021",
+          "start_ref_usfm": "JHN 12:21",
+          "end_ref": "43012021",
+          "end_ref_usfm": "JHN 12:21"
+        },
+        {
+          "start_ref": "43012022",
+          "start_ref_usfm": "JHN 12:22",
+          "end_ref": "43012022",
+          "end_ref_usfm": "JHN 12:22"
+        },
+        {
+          "start_ref": "43014008",
+          "start_ref_usfm": "JHN 14:8",
+          "end_ref": "43014008",
+          "end_ref_usfm": "JHN 14:8"
+        },
+        {
+          "start_ref": "43014009",
+          "start_ref_usfm": "JHN 14:9",
+          "end_ref": "43014009",
+          "end_ref_usfm": "JHN 14:9"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44001014",
+          "start_ref_usfm": "ACT 1:14",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26096,
+          "content_id": 467220,
+          "label": "Philippe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

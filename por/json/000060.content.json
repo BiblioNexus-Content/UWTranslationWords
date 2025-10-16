@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 237598,
+    "reference_id": 25460,
+    "title": "Angústia",
+    "media_type": "Text",
+    "index_reference": "angústia",
+    "language": "por",
+    "content": "<h1>angústia</h1><h2>Definição:</h2><p>O termo &quot;angústia&quot; se refere a uma dor ou sofrimento intenso.</p><ul><li><p>Angústia pode ser tanto dor quanto sofrimento, físico ou emocional.</p></li><li><p>Frequentemente, pessoas que estão em extrema angústia demonstram isso em seu rosto e comportamentos.</p></li><li><p>Por exemplo, uma pessoa em dor ou angústia severa pode ranger os dentes ou gritar.</p></li><li><p>O termo “angústia” também pode ser traduzido como “sofrimento emocional” ou “profunda tristeza” ou “dor severa”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Jer6:24\">Jeremias 6.24</a></p></li><li><p><a href=\"https://ref.ly/Jer19:9\">Jeremias 19.9</a></p></li><li><p><a href=\"https://ref.ly/Job15:24\">Jó 15.24</a></p></li><li><p><a href=\"https://ref.ly/Luke16:24\">Lucas 16.24</a></p></li><li><p><a href=\"https://ref.ly/Ps116:3-Ps116:4\">Salmos 116.3–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2342, H2470, H2479, H3708, H4164, H4689, H4691, H5100, H6695, H6862, H6869, H7267, H7581, G09280, G36000, G49280</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02003007",
+          "start_ref_usfm": "EXO 3:7",
+          "end_ref": "02003007",
+          "end_ref_usfm": "EXO 3:7"
+        },
+        {
+          "start_ref": "18015024",
+          "start_ref_usfm": "JOB 15:24",
+          "end_ref": "18015024",
+          "end_ref_usfm": "JOB 15:24"
+        },
+        {
+          "start_ref": "20001027",
+          "start_ref_usfm": "PRO 1:27",
+          "end_ref": "20001027",
+          "end_ref_usfm": "PRO 1:27"
+        },
+        {
+          "start_ref": "24006024",
+          "start_ref_usfm": "JER 6:24",
+          "end_ref": "24006024",
+          "end_ref_usfm": "JER 6:24"
+        },
+        {
+          "start_ref": "24019009",
+          "start_ref_usfm": "JER 19:9",
+          "end_ref": "24019009",
+          "end_ref_usfm": "JER 19:9"
+        },
+        {
+          "start_ref": "42016024",
+          "start_ref_usfm": "LUK 16:24",
+          "end_ref": "42016024",
+          "end_ref_usfm": "LUK 16:24"
+        },
+        {
+          "start_ref": "42016025",
+          "start_ref_usfm": "LUK 16:25",
+          "end_ref": "42016025",
+          "end_ref_usfm": "LUK 16:25"
+        },
+        {
+          "start_ref": "47002004",
+          "start_ref_usfm": "2CO 2:4",
+          "end_ref": "47002004",
+          "end_ref_usfm": "2CO 2:4"
+        },
+        {
+          "start_ref": "19116003",
+          "start_ref_usfm": "PSA 116:3",
+          "end_ref": "19116004",
+          "end_ref_usfm": "PSA 116:4"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

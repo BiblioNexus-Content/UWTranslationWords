@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26900,
+    "reference_id": 26042,
+    "title": "Naphtali",
+    "media_type": "Text",
+    "index_reference": "naphtali",
+    "language": "eng",
+    "content": "<h1>Naphtali</h1><h2>Facts:</h2><p>Naphtali was Jacob’s sixth son. He was Bilhah’s second son. His descendants became one of the tribes of Israel.</p><ul><li><p>The tribe descended from him was known as the “tribe of Naphtali” or “Naphtali” or “Naphtalites.”</p></li><li><p>The name Naphtali is similar to the Hebrew word meaning “to twist, wrestle.”</p></li><li><p>The tribe of Naphtali settled in the northern part of Canaan, between the tribes of Manassah and Asher. Its eastern border was on the western shoreline of the Sea of Chinnereth. When used as the name of a region of land, the term “Naphtali” refers to the land given to the tribe of Naphtali.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25540\" data-resourceType=\"UWTranslationWords\">Bilhah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:15\">1 Kings 4:15</a></p></li><li><p><a href=\"https://ref.ly/Deut27:13-Deut27:14\">Deuteronomy 27:13–14</a></p></li><li><p><a href=\"https://ref.ly/Ezek48:1-Ezek48:3\">Ezekiel 48:1–3</a></p></li><li><p><a href=\"https://ref.ly/Gen30:8\">Genesis 30:8</a></p></li><li><p><a href=\"https://ref.ly/Judg1:33\">Judges 1:33</a></p></li><li><p><a href=\"https://ref.ly/Matt4:13\">Matthew 4:13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5321, G35080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030008",
+          "start_ref_usfm": "GEN 30:8",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046024",
+          "start_ref_usfm": "GEN 46:24",
+          "end_ref": "01046024",
+          "end_ref_usfm": "GEN 46:24"
+        },
+        {
+          "start_ref": "01049021",
+          "start_ref_usfm": "GEN 49:21",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "11004015",
+          "start_ref_usfm": "1KI 4:15",
+          "end_ref": "11004015",
+          "end_ref_usfm": "1KI 4:15"
+        },
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
+        },
+        {
+          "start_ref": "66007006",
+          "start_ref_usfm": "REV 7:6",
+          "end_ref": "66007006",
+          "end_ref_usfm": "REV 7:6"
+        },
+        {
+          "start_ref": "26048001",
+          "start_ref_usfm": "EZK 48:1",
+          "end_ref": "26048003",
+          "end_ref_usfm": "EZK 48:3"
+        },
+        {
+          "start_ref": "05027013",
+          "start_ref_usfm": "DEU 27:13",
+          "end_ref": "05027014",
+          "end_ref_usfm": "DEU 27:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25540,
+          "content_id": 26398,
+          "label": "Bilhah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

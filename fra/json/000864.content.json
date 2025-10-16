@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467432,
+    "reference_id": 26319,
+    "title": "Troas",
+    "media_type": "Text",
+    "index_reference": "troas",
+    "language": "fra",
+    "content": "<h1>Troas</h1><h2>Définition :</h2><p>La ville de Troas était un port situé sur la côte nord-ouest de l&apos;ancienne province romaine d&apos;Asie.</p><ul><li><p>Paul a visité Troas au moins trois fois au cours de ses voyages missionnaires *.</p></li><li><p>Lors d&apos;un de ses voyages, Paul a prêché longtemps dans la nuit et un jeune homme nommé Eutychus s&apos;était endormi* Parce qu&apos;il était assis sur le bord d&apos;une fenêtre ouverte, Eutychus est tombé de très haut et est mort* Grâce à la puissance de Dieu, Paul a raméné ce jeune homme à la vie.</p></li><li><p>Lorsque Paul était à Rome, il a demandé à Timothée de lui amener ses livres et son manteau qu&apos;il avait laissés à Troas.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/asia.md), (../other/preach.md), (../other/province.md), (../other/raise.md), (../names/rome.md), (../other/scroll.md), (../names/timothy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016008",
+          "start_ref_usfm": "ACT 16:8",
+          "end_ref": "44016008",
+          "end_ref_usfm": "ACT 16:8"
+        },
+        {
+          "start_ref": "44016011",
+          "start_ref_usfm": "ACT 16:11",
+          "end_ref": "44016011",
+          "end_ref_usfm": "ACT 16:11"
+        },
+        {
+          "start_ref": "44020005",
+          "start_ref_usfm": "ACT 20:5",
+          "end_ref": "44020005",
+          "end_ref_usfm": "ACT 20:5"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "47002012",
+          "start_ref_usfm": "2CO 2:12",
+          "end_ref": "47002012",
+          "end_ref_usfm": "2CO 2:12"
+        },
+        {
+          "start_ref": "47002013",
+          "start_ref_usfm": "2CO 2:13",
+          "end_ref": "47002013",
+          "end_ref_usfm": "2CO 2:13"
+        },
+        {
+          "start_ref": "55004013",
+          "start_ref_usfm": "2TI 4:13",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 466664,
+          "label": "Asie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26118,
+          "content_id": 467241,
+          "label": "Prêcher",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 467258,
+          "label": "Province",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26205,
+          "content_id": 467324,
+          "label": "Faire défiler",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 467418,
+          "label": "Timothée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

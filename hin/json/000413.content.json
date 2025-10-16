@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180107,
+    "reference_id": 26043,
+    "title": "नातान",
+    "media_type": "Text",
+    "index_reference": "नातान",
+    "language": "hin",
+    "content": "<h1>नातान</h1><h2>तथ्य:</h2><p>नातान परमेश्वर का एक विश्वासयोग्य भविष्यद्वक्ता था, और दाऊद के राज्यकाल में सेवा कर रहा था।</p><ul><li><p>उरिय्याह के विरुद्ध दाऊद के गंभीर पाप का पर्दाफाश करने के लिए परमेश्वर ने नातान को भेजा था।</p></li><li><p>नातान ने दाऊद को झिड़का था, यद्यपि दाऊद राजा था।</p></li><li><p>नातान के आगमन के बाद दाऊद ने अपने पाप का प्रायश्चित किया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25726\" data-resourceType=\"UWTranslationWords\">विश्वासयोग्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26330\" data-resourceType=\"UWTranslationWords\">ऊरिय्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 17:1–2</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 9:29</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 12:1–3</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 51:1</a></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p>__<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">17:7</a>__परन्तु परमेश्वर ने <strong>नातान</strong> भविष्यद्वक्ता के द्वारा दाऊद को संदेश भेजा, “क्योंकि तू एक योद्धा है, तू मेरे लिए वह भवन नहीं बनाएगा |</p></li><li><p><strong>17:13</strong> दाऊद ने जो कुछ भी किया उसे लेकर परमेश्वर का क्रोध उस पर भड़का, परमेश्वर ने <strong>नातान</strong> भविष्यद्वक्ता द्वारा दाऊद को कहलवा भेजा कि उसका पाप कितना बुरा है।</p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H5416, G34810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14009029",
+          "start_ref_usfm": "2CH 9:29",
+          "end_ref": "14009029",
+          "end_ref_usfm": "2CH 9:29"
+        },
+        {
+          "start_ref": "15008016",
+          "start_ref_usfm": "EZR 8:16",
+          "end_ref": "15008016",
+          "end_ref_usfm": "EZR 8:16"
+        },
+        {
+          "start_ref": "15010039",
+          "start_ref_usfm": "EZR 10:39",
+          "end_ref": "15010039",
+          "end_ref_usfm": "EZR 10:39"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051001",
+          "end_ref_usfm": "PSA 51:1"
+        },
+        {
+          "start_ref": "42003031",
+          "start_ref_usfm": "LUK 3:31",
+          "end_ref": "42003031",
+          "end_ref_usfm": "LUK 3:31"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017002",
+          "end_ref_usfm": "1CH 17:2"
+        },
+        {
+          "start_ref": "10012001",
+          "start_ref_usfm": "2SA 12:1",
+          "end_ref": "10012003",
+          "end_ref_usfm": "2SA 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 179799,
+          "label": "विश्वासयोग्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26330,
+          "content_id": 180383,
+          "label": "ऊरिय्याह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

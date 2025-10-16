@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466972,
+    "reference_id": 25824,
+    "title": "Hautain",
+    "media_type": "Text",
+    "index_reference": "hautain",
+    "language": "fra",
+    "content": "<h1>hautain</h1><h2>Définition :</h2><p>&quot;Une personne hautaine est quelqu&apos;un qui pense être le plus important dans tous les domaines.</p><ul><li><p>Le mot «hautain» signifie «orgueilleux» avec une attitude d&apos;arrogance.</p></li><li><p>La Bible a des expressions telles que «yeux hautains» pour décrire une personne qui se croit la plus importante, d&apos;une manière orgueilleuse.</p></li></ul><p>(Voir aussi : (../kt/boast.md), (../other/proud.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19131001",
+          "start_ref_usfm": "PSA 131:1",
+          "end_ref": "19131001",
+          "end_ref_usfm": "PSA 131:1"
+        },
+        {
+          "start_ref": "20016018",
+          "start_ref_usfm": "PRO 16:18",
+          "end_ref": "20016018",
+          "end_ref_usfm": "PRO 16:18"
+        },
+        {
+          "start_ref": "20021024",
+          "start_ref_usfm": "PRO 21:24",
+          "end_ref": "20021024",
+          "end_ref_usfm": "PRO 21:24"
+        },
+        {
+          "start_ref": "23002017",
+          "start_ref_usfm": "ISA 2:17",
+          "end_ref": "23002017",
+          "end_ref_usfm": "ISA 2:17"
+        },
+        {
+          "start_ref": "55003001",
+          "start_ref_usfm": "2TI 3:1",
+          "end_ref": "55003004",
+          "end_ref_usfm": "2TI 3:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26135,
+          "content_id": 467256,
+          "label": "Fier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

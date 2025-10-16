@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 179648,
+    "reference_id": 25566,
+    "title": "कालेब",
+    "media_type": "Text",
+    "index_reference": "कालेब",
+    "language": "hin",
+    "content": "<h1>कालेब</h1><h2>तथ्य:</h2><p>कालेब उन बारह इस्राएली भेदियों में से एक था जिन्हें मूसा ने कनान की जानकारी लेने के लिए भेजा था।</p><ul><li><p>उसने और यहोशू ने लोगों से कनानियों को हराने में मदद करने के लिए परमेश्वर पर भरोसा रखने को कहा।</p></li><li><p>यहोशू और कालेब उनकी पीढ़ी के एकमात्र पुरुष थे जिन्हें कनान की प्रतिज्ञा की गई भूमि में प्रवेश करने की अनुमति दी गई थी।</p></li><li><p>कालेब ने विनती की कि हेब्रोन की भूमि उसे और उसके परिवार को दी जाए। वह जानता था कि परमेश्वर वहाँ रहने वाले लोगों को हराने में उसकी मदद करेगा।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25827\" data-resourceType=\"UWTranslationWords\">हेब्रोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">यहोशू</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 4:13</a></p></li><li><p><a href=\"https://ref.ly/Josh14:6-Josh14:7\">यहोशू 14:6–7</a></p></li><li><p><a href=\"https://ref.ly/Judg1:12\">न्यायियों 01:12</a></p></li><li><p><a href=\"https://ref.ly/Num32:10-Num32:12\">गिनती 32:10–12</a></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p>__<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">14:04</a>__जब इस्राएली कनान की सीमा पर पहुँचे, तब मूसा ने बारह पुरषों को चुना इस्राएल के हर गोत्र में से उसने उन पुरषों को आदेश दिया कि जाओ और भूमि का पता लगाओ कि वह कैसी दिखती है ।</p></li><li><p><strong>14:06</strong> तुरन्त ही <strong>कालेब</strong> और यहोशू, अन्य दो जासूस कहने लगे, &quot;हाँ यह सही है कि कनान के लोग लम्बे और तेजस्वी है , पर हम निश्चित रूप से उन्हें पराजित कर देंगे ! परमेश्वर हमारे लिये उनसे युद्ध करेगा!&quot;</p></li><li><p><strong>14:08</strong> “यहोशू और <strong>कालिब</strong> को छोड़कर, जितने बीस वर्ष या उससे अधिक के हैं, वे वहीं मरेंगे और प्रतिज्ञा किए हुए देश में कभी प्रवेश नहीं करेंगे।”</p></li></ul><p>ताकि वे उस देश में शांति से जी सकें।</p><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3612, H3614</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001012",
+          "start_ref_usfm": "JDG 1:12",
+          "end_ref": "07001012",
+          "end_ref_usfm": "JDG 1:12"
+        },
+        {
+          "start_ref": "13004013",
+          "start_ref_usfm": "1CH 4:13",
+          "end_ref": "13004013",
+          "end_ref_usfm": "1CH 4:13"
+        },
+        {
+          "start_ref": "06014006",
+          "start_ref_usfm": "JOS 14:6",
+          "end_ref": "06014007",
+          "end_ref_usfm": "JOS 14:7"
+        },
+        {
+          "start_ref": "04032010",
+          "start_ref_usfm": "NUM 32:10",
+          "end_ref": "04032012",
+          "end_ref_usfm": "NUM 32:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25827,
+          "content_id": 179897,
+          "label": "हेब्रोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 179987,
+          "label": "यहोशू",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

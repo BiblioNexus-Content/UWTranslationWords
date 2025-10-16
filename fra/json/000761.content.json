@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467312,
+    "reference_id": 26193,
+    "title": "Samson",
+    "media_type": "Text",
+    "index_reference": "samson",
+    "language": "fra",
+    "content": "<h1>Samson</h1><h2>Définition :</h2><p>Samson était l&apos;un des juges, ou libérateurs d&apos;Israël* Il était de la tribu de Dan.</p><ul><li><p>Dieu a donné à Samson une incroyable force surhumaine dont il se servait pour lutter contre les ennemis d&apos;Israël, les Philistins.</p></li><li><p>Samson a été mis sous serment de ne jamais couper ses cheveux et de ne jamais boire de vin ou toute autre boisson fermentée.</p></li><li><p>Quand il est tombé dans les mains de sa femme perfide, Delilah, et lui a dit le secret de sa force, elle a coupé ses cheveux pour qu&apos;il perde sa force.</p></li><li><p>Alors que Samson était en captivité, Dieu lui a permis de retrouver sa force et lui a donné l&apos;occasion de détruire le temple du faux dieu Dagon, ainsi que de nombreux Philistins.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/deliverer.md), (../names/philistines.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07013025",
+          "start_ref_usfm": "JDG 13:25",
+          "end_ref": "07013025",
+          "end_ref_usfm": "JDG 13:25"
+        },
+        {
+          "start_ref": "07016002",
+          "start_ref_usfm": "JDG 16:2",
+          "end_ref": "07016002",
+          "end_ref_usfm": "JDG 16:2"
+        },
+        {
+          "start_ref": "07016031",
+          "start_ref_usfm": "JDG 16:31",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

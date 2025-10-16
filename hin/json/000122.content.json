@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180382,
+    "reference_id": 26329,
+    "title": "ऊर",
+    "media_type": "Text",
+    "index_reference": "ऊर",
+    "language": "hin",
+    "content": "<h1>ऊर</h1><h2>तथ्य:</h2><p>ऊर फरात नदी के पास, प्राचीन कसदी प्रदेश का एक महत्वपूर्ण नगर था, जो मेसोपोटामिया का एक भाग था। यह स्थान आज के इराक में स्थित था।</p><ul><li><p>अब्राहम ऊर नगर का रहने वाला था, वहीं से परमेश्वर ने उसे बुला लिया था कि उसे कनान ले जाएं।</p></li><li><p>लूत का पिता, अब्राहम का भाई हारान ऊर में ही मर गया था। लूत का अब्राहम के साथ ऊर छोड़ने का शायद यह भी एक कारण था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">अब्राहम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25582\" data-resourceType=\"UWTranslationWords\">कसदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25715\" data-resourceType=\"UWTranslationWords\">फरात नदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25819\" data-resourceType=\"UWTranslationWords\">हारान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25976\" data-resourceType=\"UWTranslationWords\">लूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26014\" data-resourceType=\"UWTranslationWords\">मेसोपोटामिया</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen11:27-Gen11:28\">उत्पत्ति 11:27–28</a></p></li><li><p><a href=\"https://ref.ly/Gen11:31-Gen11:32\">उत्पत्ति 11:31–32</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H218</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011028",
+          "start_ref_usfm": "GEN 11:28",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01015007",
+          "start_ref_usfm": "GEN 15:7",
+          "end_ref": "01015007",
+          "end_ref_usfm": "GEN 15:7"
+        },
+        {
+          "start_ref": "16009007",
+          "start_ref_usfm": "NEH 9:7",
+          "end_ref": "16009007",
+          "end_ref_usfm": "NEH 9:7"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 179514,
+          "label": "अब्राहम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25582,
+          "content_id": 179661,
+          "label": "कसदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 179788,
+          "label": "फरात महानद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25819,
+          "content_id": 179890,
+          "label": "हारान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 180041,
+          "label": "लूत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26014,
+          "content_id": 180078,
+          "label": "मेसोपोटामिया",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 466992,
+    "reference_id": 25845,
+    "title": "Miel",
+    "media_type": "Text",
+    "index_reference": "miel",
+    "language": "fra",
+    "content": "<h1>Miel, Gateau de miel</h1><h2>Définition :</h2><p>&quot;Le miel est sucré, collant et est une substance mangeable faite par les abeilles et provenant des nectars de fleurs* Un Gateau de miel est une substance en forme de cadre où les abeilles préservent le miel.</p><ul><li><p>Dépendant de leur qualité, le miel peut être d&apos;une couleur jaune ou maron.</p></li><li><p>Le miel parfois peut être utilisé dans un sens figuré pour représenter quelque chose qui est sucrée ou qui donne le plaisir* Quelque chose est dite sucrée comme le miel ou décrite comme être sucré &quot; comme le miel&quot;</p></li><li><p>Le miel peut être trouvé dans un endroit sauvage, précisement dans une cavité d&apos;arbre, et d&apos;autre part dans une ruche d&apos;abeilles* Les gens aussi elèvent les abeilles dans des ruches dans le but de produire le miel pour manger ou pour vendre, mais probablement le miel dont la Bible parle est un miel sauvage.</p></li><li><p>Dans le but de regagner des forces pour combatre au front, Jonathan le fils de Saül mangea le miel sauvage qu&apos;il avait trouvé dans la forêt.</p></li><li><p>Samson une fois a trouvé le miel dans le squelette d&apos;un lion mort.</p></li><li><p>Jean Baptiste mangea les criquets et le miel sauvage quand il vivait dans le désert.</p></li></ul><p>(Voir aussi : (../names/johnthebaptist.md), (../names/jonathan.md), (../names/philistines.md), (../names/samson.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043011",
+          "start_ref_usfm": "GEN 43:11",
+          "end_ref": "01043011",
+          "end_ref_usfm": "GEN 43:11"
+        },
+        {
+          "start_ref": "02003008",
+          "start_ref_usfm": "EXO 3:8",
+          "end_ref": "02003008",
+          "end_ref_usfm": "EXO 3:8"
+        },
+        {
+          "start_ref": "02003017",
+          "start_ref_usfm": "EXO 3:17",
+          "end_ref": "02003017",
+          "end_ref_usfm": "EXO 3:17"
+        },
+        {
+          "start_ref": "02013005",
+          "start_ref_usfm": "EXO 13:5",
+          "end_ref": "02013005",
+          "end_ref_usfm": "EXO 13:5"
+        },
+        {
+          "start_ref": "02016031",
+          "start_ref_usfm": "EXO 16:31",
+          "end_ref": "02016031",
+          "end_ref_usfm": "EXO 16:31"
+        },
+        {
+          "start_ref": "02033003",
+          "start_ref_usfm": "EXO 33:3",
+          "end_ref": "02033003",
+          "end_ref_usfm": "EXO 33:3"
+        },
+        {
+          "start_ref": "05006003",
+          "start_ref_usfm": "DEU 6:3",
+          "end_ref": "05006003",
+          "end_ref_usfm": "DEU 6:3"
+        },
+        {
+          "start_ref": "06005006",
+          "start_ref_usfm": "JOS 5:6",
+          "end_ref": "06005006",
+          "end_ref_usfm": "JOS 5:6"
+        },
+        {
+          "start_ref": "20005003",
+          "start_ref_usfm": "PRO 5:3",
+          "end_ref": "20005003",
+          "end_ref_usfm": "PRO 5:3"
+        },
+        {
+          "start_ref": "20016024",
+          "start_ref_usfm": "PRO 16:24",
+          "end_ref": "20016024",
+          "end_ref_usfm": "PRO 16:24"
+        },
+        {
+          "start_ref": "20024013",
+          "start_ref_usfm": "PRO 24:13",
+          "end_ref": "20024013",
+          "end_ref_usfm": "PRO 24:13"
+        },
+        {
+          "start_ref": "20025016",
+          "start_ref_usfm": "PRO 25:16",
+          "end_ref": "20025016",
+          "end_ref_usfm": "PRO 25:16"
+        },
+        {
+          "start_ref": "20025027",
+          "start_ref_usfm": "PRO 25:27",
+          "end_ref": "20025027",
+          "end_ref_usfm": "PRO 25:27"
+        },
+        {
+          "start_ref": "20027007",
+          "start_ref_usfm": "PRO 27:7",
+          "end_ref": "20027007",
+          "end_ref_usfm": "PRO 27:7"
+        },
+        {
+          "start_ref": "40003004",
+          "start_ref_usfm": "MAT 3:4",
+          "end_ref": "40003004",
+          "end_ref_usfm": "MAT 3:4"
+        },
+        {
+          "start_ref": "41001006",
+          "start_ref_usfm": "MRK 1:6",
+          "end_ref": "41001006",
+          "end_ref_usfm": "MRK 1:6"
+        },
+        {
+          "start_ref": "66010009",
+          "start_ref_usfm": "REV 10:9",
+          "end_ref": "66010009",
+          "end_ref_usfm": "REV 10:9"
+        },
+        {
+          "start_ref": "66010010",
+          "start_ref_usfm": "REV 10:10",
+          "end_ref": "66010010",
+          "end_ref_usfm": "REV 10:10"
+        },
+        {
+          "start_ref": "11014001",
+          "start_ref_usfm": "1KI 14:1",
+          "end_ref": "11014003",
+          "end_ref_usfm": "1KI 14:3"
+        },
+        {
+          "start_ref": "02013003",
+          "start_ref_usfm": "EXO 13:3",
+          "end_ref": "02013005",
+          "end_ref_usfm": "EXO 13:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25912,
+          "content_id": 467057,
+          "label": "Jean (le Baptiste)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25914,
+          "content_id": 467059,
+          "label": "Jonathan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 467312,
+          "label": "Samson",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

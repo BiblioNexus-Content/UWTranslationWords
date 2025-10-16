@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467049,
+    "reference_id": 25904,
+    "title": "Jézabel",
+    "media_type": "Text",
+    "index_reference": "jézabel",
+    "language": "fra",
+    "content": "<h1>Jézabel</h1><h2>Définition :</h2><p>&quot;Jézabel était la méchante femme du roi Achab d&apos;Israël.</p><ul><li><p>Jezabel a influencé Achab et le reste d&apos;Israël à adorer les idoles.</p></li><li><p>Elle a également tué beaucoup de prophètes de Dieu.</p></li><li><p>Jezabel a fait tuer un homme innocent nommé Naboth afin qu&apos;Achab puisse lui prendre sa vigne.</p></li><li><p>Jezabel a finalement été tuée à cause de toutes les mauvaises choses qu&apos;elle avait faites* Élie a prophétisé sur la façon dont elle allait mourir et cela s&apos;est accompli exactement comme il l&apos;avait prédit.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahab.md), (../names/elijah.md), (../kt/falsegod.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12009007",
+          "start_ref_usfm": "2KI 9:7",
+          "end_ref": "12009007",
+          "end_ref_usfm": "2KI 9:7"
+        },
+        {
+          "start_ref": "12009031",
+          "start_ref_usfm": "2KI 9:31",
+          "end_ref": "12009031",
+          "end_ref_usfm": "2KI 9:31"
+        },
+        {
+          "start_ref": "66002020",
+          "start_ref_usfm": "REV 2:20",
+          "end_ref": "66002020",
+          "end_ref_usfm": "REV 2:20"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016033",
+          "end_ref_usfm": "1KI 16:33"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019003",
+          "end_ref_usfm": "1KI 19:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

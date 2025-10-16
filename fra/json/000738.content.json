@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467302,
+    "reference_id": 26182,
+    "title": "Royal",
+    "media_type": "Text",
+    "index_reference": "royal",
+    "language": "fra",
+    "content": "<h1>Royal</h1><h2>Définition :</h2><p>Le terme «royal» décrit les personnes et les choses qui sont associées à un roi ou une reine*, Comme leur trône, leur palais, leurs vêtements et leurs enfants.</p><ul><li><p>Des exemples de choses qui peuvent être appelées «royal» sont les enfants, les vêtements, les palais, trône, ou la couronne d&apos;un roi.</p></li><li><p>Un palais royal est la magnifique résidence où un roi ou la reine vit.</p></li><li><p>Un roi porte des vêtements spéciaux, parfois appelés robes «royales»* Souvent, les robes d&apos;un roi ont une couleur pourpre, qui était un colorant de type rare et coûteux .</p></li></ul><p>(Voir aussi : (../other/king.md). (../other/palace.md), (../kt/priest.md), (../other/purple.md), (../other/queen.md), (../other/robe.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11010013",
+          "start_ref_usfm": "1KI 10:13",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        },
+        {
+          "start_ref": "30007013",
+          "start_ref_usfm": "AMO 7:13",
+          "end_ref": "30007013",
+          "end_ref_usfm": "AMO 7:13"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43004049",
+          "start_ref_usfm": "JHN 4:49",
+          "end_ref": "43004049",
+          "end_ref_usfm": "JHN 4:49"
+        },
+        {
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012021",
+          "end_ref_usfm": "ACT 12:21"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002008",
+          "end_ref_usfm": "JAS 2:8"
+        },
+        {
+          "start_ref": "14018028",
+          "start_ref_usfm": "2CH 18:28",
+          "end_ref": "14018030",
+          "end_ref_usfm": "2CH 18:30"
+        },
+        {
+          "start_ref": "01049019",
+          "start_ref_usfm": "GEN 49:19",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26071,
+          "content_id": 467201,
+          "label": "Palais",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26143,
+          "content_id": 467264,
+          "label": "Violet",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26179,
+          "content_id": 467299,
+          "label": "Robe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26145,
+          "content_id": 467266,
+          "label": "reine",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

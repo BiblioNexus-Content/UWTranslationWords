@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 179535,
+    "reference_id": 25446,
+    "title": "दान",
+    "media_type": "Text",
+    "index_reference": "दान",
+    "language": "hin",
+    "content": "<h1>दान</h1><h2>परिभाषा:</h2><p>“दान” अर्थात गरीबों की सहायता के लिए पैसा, भोजन तथा अन्य वस्तुएं देना।</p><ul><li><p>दान करना अधिकतर धार्मिकता हेतु धर्म की अनिवार्यताओं में होता था।</p></li><li><p>यीशु ने कहा कि दान देना मनुष्यों को दिखाने के लिए नहीं होना है।</p></li><li><p>इस शब्द का अनुवाद “पैसा” या “गरीबों को देना” या “गरीबों की सहायता” हो सकता है।</p></li></ul><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts3:1-Acts3:3\">प्रे.का. 3:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt6:1\">मत्ती 6:1</a></p></li><li><p><a href=\"https://ref.ly/Matt6:3\">मत्ती 6:3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G16540</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40006001",
+          "start_ref_usfm": "MAT 6:1",
+          "end_ref": "40006001",
+          "end_ref_usfm": "MAT 6:1"
+        },
+        {
+          "start_ref": "40006002",
+          "start_ref_usfm": "MAT 6:2",
+          "end_ref": "40006002",
+          "end_ref_usfm": "MAT 6:2"
+        },
+        {
+          "start_ref": "40006003",
+          "start_ref_usfm": "MAT 6:3",
+          "end_ref": "40006003",
+          "end_ref_usfm": "MAT 6:3"
+        },
+        {
+          "start_ref": "40006004",
+          "start_ref_usfm": "MAT 6:4",
+          "end_ref": "40006004",
+          "end_ref_usfm": "MAT 6:4"
+        },
+        {
+          "start_ref": "42011041",
+          "start_ref_usfm": "LUK 11:41",
+          "end_ref": "42011041",
+          "end_ref_usfm": "LUK 11:41"
+        },
+        {
+          "start_ref": "42012033",
+          "start_ref_usfm": "LUK 12:33",
+          "end_ref": "42012033",
+          "end_ref_usfm": "LUK 12:33"
+        },
+        {
+          "start_ref": "44003002",
+          "start_ref_usfm": "ACT 3:2",
+          "end_ref": "44003002",
+          "end_ref_usfm": "ACT 3:2"
+        },
+        {
+          "start_ref": "44003003",
+          "start_ref_usfm": "ACT 3:3",
+          "end_ref": "44003003",
+          "end_ref_usfm": "ACT 3:3"
+        },
+        {
+          "start_ref": "44003010",
+          "start_ref_usfm": "ACT 3:10",
+          "end_ref": "44003010",
+          "end_ref_usfm": "ACT 3:10"
+        },
+        {
+          "start_ref": "44009036",
+          "start_ref_usfm": "ACT 9:36",
+          "end_ref": "44009036",
+          "end_ref_usfm": "ACT 9:36"
+        },
+        {
+          "start_ref": "44010002",
+          "start_ref_usfm": "ACT 10:2",
+          "end_ref": "44010002",
+          "end_ref_usfm": "ACT 10:2"
+        },
+        {
+          "start_ref": "44010004",
+          "start_ref_usfm": "ACT 10:4",
+          "end_ref": "44010004",
+          "end_ref_usfm": "ACT 10:4"
+        },
+        {
+          "start_ref": "44010031",
+          "start_ref_usfm": "ACT 10:31",
+          "end_ref": "44010031",
+          "end_ref_usfm": "ACT 10:31"
+        },
+        {
+          "start_ref": "44024017",
+          "start_ref_usfm": "ACT 24:17",
+          "end_ref": "44024017",
+          "end_ref_usfm": "ACT 24:17"
+        },
+        {
+          "start_ref": "44003001",
+          "start_ref_usfm": "ACT 3:1",
+          "end_ref": "44003003",
+          "end_ref_usfm": "ACT 3:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

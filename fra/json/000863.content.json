@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 559321,
+    "reference_id": 25620,
+    "title": "Tribunal",
+    "media_type": "Text",
+    "index_reference": "tribunal",
+    "language": "fra",
+    "content": "<h1>cour, cour intérieure</h1><h2>Définition :</h2><p>Les termes « cour » et « cour intérieure » désignent un espace clos qui est ouvert au ciel et entouré de murs.</p><ul><li><p>Le tabernacle était entouré d&apos;une cour qui était fermée par des murs faits de rideaux épais en tissu.</p></li><li><p>Le complexe du temple avait trois cours intérieures&nbsp;: une pour les prêtres, une pour les hommes juifs, et une pour les femmes juives.</p></li><li><p>Ces cours intérieures étaient entourées d&apos;un mur de pierre bas qui les séparait d&apos;une cour extérieure où les Gentils étaient autorisés à adorer.</p></li><li><p>La cour d&apos;une maison était un espace ouvert au milieu de la maison.</p></li></ul><h2>Suggestions de traduction :</h2><ul><li><p>Les termes « cour » et « cour intérieure » pourraient être traduits par « espace clos », « terrain entouré de murs », « espace entouré de murs », « terrain du tabernacle », « terrain du temple » ou « enceinte du temple » selon le contexte.</p></li><li><p>S&apos;il était naturel dans votre langue, le terme utilisé pour désigner la cour d&apos;un roi pourrait également être utilisé pour se référer à la cour de Yahweh.</p></li></ul><p>(Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">Gentil</span>,<span data-bnType=\"resourceReference\" data-resourceId=\"26278\" data-resourceType=\"UWTranslationWords\">tabernacle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">temple</span>)</p><h2>Références bibliques :</h2><ul><li><p><a href=\"https://ref.ly/2Kgs20:4-2Kgs20:5\">2 Rois 20.4–5</a></p></li><li><p><a href=\"https://ref.ly/Exod27:9\">Exode 27.9</a></p></li><li><p><a href=\"https://ref.ly/Jer19:14-Jer19:15\">Jérémie 19.14–15</a></p></li><li><p><a href=\"https://ref.ly/Luke22:55\">Luc 22.55</a></p></li><li><p><a href=\"https://ref.ly/Matt26:69-Matt26:70\">Matthieu 26.69–70</a></p></li><li><p><a href=\"https://ref.ly/Num3:26\">Nombres 3.26</a></p></li><li><p><a href=\"https://ref.ly/Ps65:4\">Psaumes 65.4</a></p></li></ul><h2>Données sur le mot :</h2><ul><li><p>Strong’s&nbsp;: H1004, H1508, H2691, H5835, H7339, H8651, G08330, G42590</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02027009",
+          "start_ref_usfm": "EXO 27:9",
+          "end_ref": "02027009",
+          "end_ref_usfm": "EXO 27:9"
+        },
+        {
+          "start_ref": "04003026",
+          "start_ref_usfm": "NUM 3:26",
+          "end_ref": "04003026",
+          "end_ref_usfm": "NUM 3:26"
+        },
+        {
+          "start_ref": "19065004",
+          "start_ref_usfm": "PSA 65:4",
+          "end_ref": "19065004",
+          "end_ref_usfm": "PSA 65:4"
+        },
+        {
+          "start_ref": "42022055",
+          "start_ref_usfm": "LUK 22:55",
+          "end_ref": "42022055",
+          "end_ref_usfm": "LUK 22:55"
+        },
+        {
+          "start_ref": "24019014",
+          "start_ref_usfm": "JER 19:14",
+          "end_ref": "24019015",
+          "end_ref_usfm": "JER 19:15"
+        },
+        {
+          "start_ref": "12020004",
+          "start_ref_usfm": "2KI 20:4",
+          "end_ref": "12020005",
+          "end_ref_usfm": "2KI 20:5"
+        },
+        {
+          "start_ref": "40026069",
+          "start_ref_usfm": "MAT 26:69",
+          "end_ref": "40026070",
+          "end_ref_usfm": "MAT 26:70"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25773,
+          "content_id": 466922,
+          "label": "Gentil (Païen)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 467392,
+          "label": "Tabernacle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

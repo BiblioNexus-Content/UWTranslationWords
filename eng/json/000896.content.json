@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 27169,
+    "reference_id": 26311,
+    "title": "Trample",
+    "media_type": "Text",
+    "index_reference": "trample",
+    "language": "eng",
+    "content": "<h1>trample</h1><h2>Definition:</h2><p>To “trample” means to step on something and smash it with the feet. This term is also used figuratively in the Bible to mean “destroy” or “defeat” or “humiliate.”</p><ul><li><p>An example of “trampling” would be the smashing down of grass by the feet of people running in a field..</p></li><li><p>In ancient times, wine was sometimes made by trampling grapes to remove the juice from them.</p></li><li><p>Sometimes the term to “trample” has a figurative meaning of to “punish by humiliating,” comparing it to trampling mud for a threshing floor.</p></li><li><p>The term “trample” was used figuratively to express how Yahweh would punish his people Israel for their pride and rebellion.</p></li><li><p>Other ways that “trample” could be translated include “crush with the feet” or “smash down with the feet” or “stomp on and crush” or “smash into the ground.”</p></li><li><p>Depending on the context, this term could also be translated as “run over,” “walk around on,” or “crush underfoot.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">grape</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26220\" data-resourceType=\"UWTranslationWords\">shame</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">punish</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26157\" data-resourceType=\"UWTranslationWords\">rebel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26300\" data-resourceType=\"UWTranslationWords\">thresh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">wine</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Heb10:29\">Hebrews 10:29</a></p></li><li><p><a href=\"https://ref.ly/Ps7:5\">Psalms 7:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0947, H1758, H1869, H4001, H4823, H7429, H7512, G26620, G39610</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19007005",
+          "start_ref_usfm": "PSA 7:5",
+          "end_ref": "19007005",
+          "end_ref_usfm": "PSA 7:5"
+        },
+        {
+          "start_ref": "40005013",
+          "start_ref_usfm": "MAT 5:13",
+          "end_ref": "40005013",
+          "end_ref_usfm": "MAT 5:13"
+        },
+        {
+          "start_ref": "40007006",
+          "start_ref_usfm": "MAT 7:6",
+          "end_ref": "40007006",
+          "end_ref_usfm": "MAT 7:6"
+        },
+        {
+          "start_ref": "58010029",
+          "start_ref_usfm": "HEB 10:29",
+          "end_ref": "58010029",
+          "end_ref_usfm": "HEB 10:29"
+        },
+        {
+          "start_ref": "66011002",
+          "start_ref_usfm": "REV 11:2",
+          "end_ref": "66011002",
+          "end_ref_usfm": "REV 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 26661,
+          "label": "Grape",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 26697,
+          "label": "Hivite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 26999,
+          "label": "Punish",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 27015,
+          "label": "Rebel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26220,
+          "content_id": 27078,
+          "label": "Shame",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26300,
+          "content_id": 27158,
+          "label": "Thresh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 27205,
+          "label": "Wine",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

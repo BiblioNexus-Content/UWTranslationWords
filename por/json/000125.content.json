@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 237666,
+    "reference_id": 25530,
+    "title": "Belém",
+    "media_type": "Text",
+    "index_reference": "belém",
+    "language": "por",
+    "content": "<h1>Belém, Efrata</h1><h2>Fatos:</h2><p>Belém era uma pequena cidade na terra de Israel, perto da cidade de Jerusalém. Também era conhecida como “Efrata”, que provavelmente era seu nome original.</p><ul><li><p>Belém foi chamada de “cidade de Davi”, já que o Rei Davi nasceu lá.</p></li><li><p>O profeta Miqueias disse que o Messias viria de “Belém Efrata”.</p></li><li><p>Cumprindo essa profecia, Jesus nasceu em Belém, muitos anos depois.</p></li><li><p>O nome “Belém” significa “casa do pão” ou “casa da comida”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25566\" data-resourceType=\"UWTranslationWords\">Calebe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26016\" data-resourceType=\"UWTranslationWords\">Miqueias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen35:16\">Gênesis 35.16</a></p></li><li><p><a href=\"https://ref.ly/John7:42\">João 7.42</a></p></li><li><p><a href=\"https://ref.ly/Matt2:6\">Mateus 2.6</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Mateus 2.16</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:2\">Rute 1.2</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:21\">Rute 1.21</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>17:2</strong> Davi era um pastor da cidade de <strong>Belém</strong>.</p></li><li><p><strong>21:9</strong> O profeta Isaías profetizou que o Messias nasceria de uma virgem. O profeta Miqueias disse que ele nasceria na cidade de <strong>Belém</strong>.</p></li><li><p><strong>23:4</strong> José e Maria tiveram que fazer uma longa viagem de onde moravam em Nazaré até <strong>Belém</strong> porque seu antepassado era Davi, cuja cidade natal era <strong>Belém</strong>.</p></li><li><p><strong>23:6</strong> “O Messias, o Mestre, nasceu em <strong>Belém</strong>!”</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0376, H0672, H1035, G09650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08001019",
+          "start_ref_usfm": "RUT 1:19",
+          "end_ref": "08001019",
+          "end_ref_usfm": "RUT 1:19"
+        },
+        {
+          "start_ref": "08001021",
+          "start_ref_usfm": "RUT 1:21",
+          "end_ref": "08001021",
+          "end_ref_usfm": "RUT 1:21"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002004",
+          "start_ref_usfm": "RUT 2:4",
+          "end_ref": "08002004",
+          "end_ref_usfm": "RUT 2:4"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "16007026",
+          "start_ref_usfm": "NEH 7:26",
+          "end_ref": "16007026",
+          "end_ref_usfm": "NEH 7:26"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002005",
+          "start_ref_usfm": "MAT 2:5",
+          "end_ref": "40002005",
+          "end_ref_usfm": "MAT 2:5"
+        },
+        {
+          "start_ref": "40002006",
+          "start_ref_usfm": "MAT 2:6",
+          "end_ref": "40002006",
+          "end_ref_usfm": "MAT 2:6"
+        },
+        {
+          "start_ref": "40002008",
+          "start_ref_usfm": "MAT 2:8",
+          "end_ref": "40002008",
+          "end_ref_usfm": "MAT 2:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002015",
+          "start_ref_usfm": "LUK 2:15",
+          "end_ref": "42002015",
+          "end_ref_usfm": "LUK 2:15"
+        },
+        {
+          "start_ref": "43007042",
+          "start_ref_usfm": "JHN 7:42",
+          "end_ref": "43007042",
+          "end_ref_usfm": "JHN 7:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25566,
+          "content_id": 237701,
+          "label": "Calebe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 26016,
+          "content_id": 238146,
+          "label": "Miquéias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

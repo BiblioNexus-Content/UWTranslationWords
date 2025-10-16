@@ -1,0 +1,185 @@
+[
+  {
+    "content_id": 466867,
+    "reference_id": 25707,
+    "title": "Éphod",
+    "media_type": "Text",
+    "index_reference": "éphod",
+    "language": "fra",
+    "content": "<h1>éphod</h1><h2>Définition :</h2><p>Un &quot;éphod&quot; était un vêtement semblable à un tablier porté par les prêtres israélites. Il avait deux parties, avant et arrière, qui étaient réunies aux épaules et attachées autour de la taille avec une ceinture en tissu.</p><ul><li><p>Une sorte &quot;d&apos;éphod&quot; était faite de lin ordinaire et était portée par les prêtres ordinaires.</p></li><li><p>&quot;L&apos;éphod&quot; porté par le souverain sacrificateur était spécialement brodé de fils d&apos;or, bleu, violet et rouge.</p></li><li><p>Le pectoral du grand prêtre était attaché à l&apos;avant de &quot;l&apos;éphod&quot;. Derrière le pectoral, étaient gardés l&apos;Urim et le Thummim, qui étaient des pierres utilisées pour demander à Dieu quelle était sa volonté dans certains domaines.</p></li><li><p>Le juge Gideon a stupidement fait un &quot;éphod&quot; d&apos;or que les Israélites ont tourné en une idole et ont adoré.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">prêtre</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02025007",
+          "start_ref_usfm": "EXO 25:7",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
+        },
+        {
+          "start_ref": "02028004",
+          "start_ref_usfm": "EXO 28:4",
+          "end_ref": "02028004",
+          "end_ref_usfm": "EXO 28:4"
+        },
+        {
+          "start_ref": "02028006",
+          "start_ref_usfm": "EXO 28:6",
+          "end_ref": "02028006",
+          "end_ref_usfm": "EXO 28:6"
+        },
+        {
+          "start_ref": "02028008",
+          "start_ref_usfm": "EXO 28:8",
+          "end_ref": "02028008",
+          "end_ref_usfm": "EXO 28:8"
+        },
+        {
+          "start_ref": "02028012",
+          "start_ref_usfm": "EXO 28:12",
+          "end_ref": "02028012",
+          "end_ref_usfm": "EXO 28:12"
+        },
+        {
+          "start_ref": "02028015",
+          "start_ref_usfm": "EXO 28:15",
+          "end_ref": "02028015",
+          "end_ref_usfm": "EXO 28:15"
+        },
+        {
+          "start_ref": "02028025",
+          "start_ref_usfm": "EXO 28:25",
+          "end_ref": "02028025",
+          "end_ref_usfm": "EXO 28:25"
+        },
+        {
+          "start_ref": "02028026",
+          "start_ref_usfm": "EXO 28:26",
+          "end_ref": "02028026",
+          "end_ref_usfm": "EXO 28:26"
+        },
+        {
+          "start_ref": "02028027",
+          "start_ref_usfm": "EXO 28:27",
+          "end_ref": "02028027",
+          "end_ref_usfm": "EXO 28:27"
+        },
+        {
+          "start_ref": "02028028",
+          "start_ref_usfm": "EXO 28:28",
+          "end_ref": "02028028",
+          "end_ref_usfm": "EXO 28:28"
+        },
+        {
+          "start_ref": "02028031",
+          "start_ref_usfm": "EXO 28:31",
+          "end_ref": "02028031",
+          "end_ref_usfm": "EXO 28:31"
+        },
+        {
+          "start_ref": "02029005",
+          "start_ref_usfm": "EXO 29:5",
+          "end_ref": "02029005",
+          "end_ref_usfm": "EXO 29:5"
+        },
+        {
+          "start_ref": "02035009",
+          "start_ref_usfm": "EXO 35:9",
+          "end_ref": "02035009",
+          "end_ref_usfm": "EXO 35:9"
+        },
+        {
+          "start_ref": "02035027",
+          "start_ref_usfm": "EXO 35:27",
+          "end_ref": "02035027",
+          "end_ref_usfm": "EXO 35:27"
+        },
+        {
+          "start_ref": "02039002",
+          "start_ref_usfm": "EXO 39:2",
+          "end_ref": "02039002",
+          "end_ref_usfm": "EXO 39:2"
+        },
+        {
+          "start_ref": "02039007",
+          "start_ref_usfm": "EXO 39:7",
+          "end_ref": "02039007",
+          "end_ref_usfm": "EXO 39:7"
+        },
+        {
+          "start_ref": "02039008",
+          "start_ref_usfm": "EXO 39:8",
+          "end_ref": "02039008",
+          "end_ref_usfm": "EXO 39:8"
+        },
+        {
+          "start_ref": "02039018",
+          "start_ref_usfm": "EXO 39:18",
+          "end_ref": "02039018",
+          "end_ref_usfm": "EXO 39:18"
+        },
+        {
+          "start_ref": "02039019",
+          "start_ref_usfm": "EXO 39:19",
+          "end_ref": "02039019",
+          "end_ref_usfm": "EXO 39:19"
+        },
+        {
+          "start_ref": "02039020",
+          "start_ref_usfm": "EXO 39:20",
+          "end_ref": "02039020",
+          "end_ref_usfm": "EXO 39:20"
+        },
+        {
+          "start_ref": "02039021",
+          "start_ref_usfm": "EXO 39:21",
+          "end_ref": "02039021",
+          "end_ref_usfm": "EXO 39:21"
+        },
+        {
+          "start_ref": "02039022",
+          "start_ref_usfm": "EXO 39:22",
+          "end_ref": "02039022",
+          "end_ref_usfm": "EXO 39:22"
+        },
+        {
+          "start_ref": "03008007",
+          "start_ref_usfm": "LEV 8:7",
+          "end_ref": "03008007",
+          "end_ref_usfm": "LEV 8:7"
+        },
+        {
+          "start_ref": "07008027",
+          "start_ref_usfm": "JDG 8:27",
+          "end_ref": "07008027",
+          "end_ref_usfm": "JDG 8:27"
+        },
+        {
+          "start_ref": "28003004",
+          "start_ref_usfm": "HOS 3:4",
+          "end_ref": "28003004",
+          "end_ref_usfm": "HOS 3:4"
+        },
+        {
+          "start_ref": "09002018",
+          "start_ref_usfm": "1SA 2:18",
+          "end_ref": "09002019",
+          "end_ref_usfm": "1SA 2:19"
+        },
+        {
+          "start_ref": "02028004",
+          "start_ref_usfm": "EXO 28:4",
+          "end_ref": "02028005",
+          "end_ref_usfm": "EXO 28:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

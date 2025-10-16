@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238112,
+    "reference_id": 25981,
+    "title": "Lucas",
+    "media_type": "Text",
+    "index_reference": "lucas",
+    "language": "por",
+    "content": "<h1>Lucas</h1><h2>Fatos:</h2><p>Lucas escreveu dois livros do Novo Testamento: o Evangelho de Lucas e o livro de Atos.</p><ul><li><p>Em sua carta aos Colossenses, Paulo se refere a Lucas como um médico. Paulo também menciona Lucas em duas de suas outras cartas.</p></li><li><p>Pensa-se que Lucas era um grego e um gentio que veio a conhecer Cristo. Em seu evangelho, Lucas inclui vários relatos que destacam o amor de Jesus por todos os povos, tanto judeus quanto gentios.</p></li><li><p>Lucas acompanhou Paulo em duas de suas viagens missionárias e o ajudou em seu trabalho.</p></li><li><p>Em alguns escritos da igreja primitiva, diz-se que Lucas nasceu na cidade de Antioquia na Síria.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25464\" data-resourceType=\"UWTranslationWords\">Antioquia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timóteo 4.11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:12-Col4:14\">Colossenses 4.12–14</a></p></li><li><p><a href=\"https://ref.ly/Phlm1:24\">Filemom 1.24</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G30650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "51004012",
+          "start_ref_usfm": "COL 4:12",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25464,
+          "content_id": 237602,
+          "label": "Antioquia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

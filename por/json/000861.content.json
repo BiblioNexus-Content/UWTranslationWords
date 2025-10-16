@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 238399,
+    "reference_id": 26270,
+    "title": "Submeter",
+    "media_type": "Text",
+    "index_reference": "submeter",
+    "language": "por",
+    "content": "<h1>submeter, submetido, submetendo, submissão, em submissão</h1><h2>Definição:</h2><p>“Submeter” geralmente significa colocar-se voluntariamente sob a autoridade de uma pessoa ou governo.</p><ul><li><p>A Bíblia diz aos crentes em Jesus para se submeterem a Deus e a outras autoridades em suas vidas.</p></li><li><p>A instrução para “submeter-se uns aos outros” significa aceitar humildemente a correção e focar nas necessidades dos outros em vez de nas nossas próprias necessidades.</p></li><li><p>“Viver em submissão a” significa colocar-se sob a autoridade de algo ou alguém.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>A ordem de “submeter-se a” poderia ser traduzido como “colocar-se sob a autoridade de” ou “seguir a liderança de” ou “honrar e respeitar humildemente”.</p></li><li><p>O termo “submissão” poderia ser traduzido como “obediência” ou “seguir a autoridade”.</p></li><li><p>A frase “viver em submissão a” poderia ser traduzida como “ser obediente a” ou “colocar-se sob a autoridade de”.</p></li><li><p>A frase “estar em submissão” poderia ser traduzida como “aceitar humildemente a autoridade”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_subject-submission\" data-resourceType=\"UWTranslationWords\">sujeito-submissão</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45010003",
+          "start_ref_usfm": "ROM 10:3",
+          "end_ref": "45010003",
+          "end_ref_usfm": "ROM 10:3"
+        },
+        {
+          "start_ref": "46014034",
+          "start_ref_usfm": "1CO 14:34",
+          "end_ref": "46014034",
+          "end_ref_usfm": "1CO 14:34"
+        },
+        {
+          "start_ref": "47009013",
+          "start_ref_usfm": "2CO 9:13",
+          "end_ref": "47009013",
+          "end_ref_usfm": "2CO 9:13"
+        },
+        {
+          "start_ref": "51003018",
+          "start_ref_usfm": "COL 3:18",
+          "end_ref": "51003018",
+          "end_ref_usfm": "COL 3:18"
+        },
+        {
+          "start_ref": "54002011",
+          "start_ref_usfm": "1TI 2:11",
+          "end_ref": "54002011",
+          "end_ref_usfm": "1TI 2:11"
+        },
+        {
+          "start_ref": "54003004",
+          "start_ref_usfm": "1TI 3:4",
+          "end_ref": "54003004",
+          "end_ref_usfm": "1TI 3:4"
+        },
+        {
+          "start_ref": "58012009",
+          "start_ref_usfm": "HEB 12:9",
+          "end_ref": "58012009",
+          "end_ref_usfm": "HEB 12:9"
+        },
+        {
+          "start_ref": "58013017",
+          "start_ref_usfm": "HEB 13:17",
+          "end_ref": "58013017",
+          "end_ref_usfm": "HEB 13:17"
+        },
+        {
+          "start_ref": "59004007",
+          "start_ref_usfm": "JAS 4:7",
+          "end_ref": "59004007",
+          "end_ref_usfm": "JAS 4:7"
+        },
+        {
+          "start_ref": "60003001",
+          "start_ref_usfm": "1PE 3:1",
+          "end_ref": "60003001",
+          "end_ref_usfm": "1PE 3:1"
+        },
+        {
+          "start_ref": "60005005",
+          "start_ref_usfm": "1PE 5:5",
+          "end_ref": "60005005",
+          "end_ref_usfm": "1PE 5:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

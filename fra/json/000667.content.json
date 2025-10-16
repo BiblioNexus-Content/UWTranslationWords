@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467238,
+    "reference_id": 26115,
+    "title": "Potiphar",
+    "media_type": "Text",
+    "index_reference": "potiphar",
+    "language": "fra",
+    "content": "<h1>Potiphar</h1><h2>Définition :</h2><p>Potiphar était un fonctionnaire important pour le pharaon d&apos;Egypte pendant le temps où Jacob, ses femmes et ses enfants vivaient dans le pays de Canaan* Potiphar était le capitaine de la garde.</p><ul><li><p>Potiphar a acheté Joseph le fils Jacob, comme un esclave et l&apos;a nommé pour être en charge de sa maison.</p></li><li><p>Quand Joseph a été faussement accusé de mal faire, Potiphar avait mis Joseph en prison.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/egypt.md), (../names/josephot.md), (../names/pharaoh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037036",
+          "start_ref_usfm": "GEN 37:36",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039001",
+          "end_ref_usfm": "GEN 39:1"
+        },
+        {
+          "start_ref": "01039002",
+          "start_ref_usfm": "GEN 39:2",
+          "end_ref": "01039002",
+          "end_ref_usfm": "GEN 39:2"
+        },
+        {
+          "start_ref": "01039014",
+          "start_ref_usfm": "GEN 39:14",
+          "end_ref": "01039014",
+          "end_ref_usfm": "GEN 39:14"
+        },
+        {
+          "start_ref": "01037034",
+          "start_ref_usfm": "GEN 37:34",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 467218,
+          "label": "Pharaon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

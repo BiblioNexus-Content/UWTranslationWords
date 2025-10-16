@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 237827,
+    "reference_id": 25694,
+    "title": "Eleazar",
+    "media_type": "Text",
+    "index_reference": "eleazar",
+    "language": "por",
+    "content": "<h1>Eleazar</h1><h2>Fatos:</h2><p>Eleazar era o nome de vários homens na Bíblia.</p><ol><li><p>Eleazar era o terceiro filho do irmão de Moisés, Arão. Após a morte de Arão, Eleazar se tornou o sumo sacerdote em Israel.</p></li><li><p>Eleazar também era o nome de um dos &quot;valentes&quot; de Davi.</p></li><li><p>Outro Eleazar era um dos ancestrais de Jesus.</p></li></ol><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25417\" data-resourceType=\"UWTranslationWords\">Arão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sumo sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26019\" data-resourceType=\"UWTranslationWords\">valente</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr24:3\">1 Crônicas 24.3</a></p></li><li><p><a href=\"https://ref.ly/Judg20:27-Judg20:28\">Juízes 20.27–28</a></p></li><li><p><a href=\"https://ref.ly/Num26:1-Num26:2\">Números 26.1–2</a></p></li><li><p><a href=\"https://ref.ly/Num34:16-Num34:18\">Números 34.16–18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0499, G16480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006023",
+          "start_ref_usfm": "EXO 6:23",
+          "end_ref": "02006023",
+          "end_ref_usfm": "EXO 6:23"
+        },
+        {
+          "start_ref": "02006025",
+          "start_ref_usfm": "EXO 6:25",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "02028001",
+          "start_ref_usfm": "EXO 28:1",
+          "end_ref": "02028001",
+          "end_ref_usfm": "EXO 28:1"
+        },
+        {
+          "start_ref": "13024003",
+          "start_ref_usfm": "1CH 24:3",
+          "end_ref": "13024003",
+          "end_ref_usfm": "1CH 24:3"
+        },
+        {
+          "start_ref": "15007005",
+          "start_ref_usfm": "EZR 7:5",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "15008033",
+          "start_ref_usfm": "EZR 8:33",
+          "end_ref": "15008033",
+          "end_ref_usfm": "EZR 8:33"
+        },
+        {
+          "start_ref": "15010025",
+          "start_ref_usfm": "EZR 10:25",
+          "end_ref": "15010025",
+          "end_ref_usfm": "EZR 10:25"
+        },
+        {
+          "start_ref": "16012042",
+          "start_ref_usfm": "NEH 12:42",
+          "end_ref": "16012042",
+          "end_ref_usfm": "NEH 12:42"
+        },
+        {
+          "start_ref": "40001015",
+          "start_ref_usfm": "MAT 1:15",
+          "end_ref": "40001015",
+          "end_ref_usfm": "MAT 1:15"
+        },
+        {
+          "start_ref": "04026001",
+          "start_ref_usfm": "NUM 26:1",
+          "end_ref": "04026002",
+          "end_ref_usfm": "NUM 26:2"
+        },
+        {
+          "start_ref": "07020027",
+          "start_ref_usfm": "JDG 20:27",
+          "end_ref": "07020028",
+          "end_ref_usfm": "JDG 20:28"
+        },
+        {
+          "start_ref": "04034016",
+          "start_ref_usfm": "NUM 34:16",
+          "end_ref": "04034018",
+          "end_ref_usfm": "NUM 34:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 237555,
+          "label": "Arão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 237969,
+          "label": "Sumo Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26019,
+          "content_id": 238149,
+          "label": "Poderoso",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

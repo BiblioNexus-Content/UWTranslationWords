@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466965,
+    "reference_id": 25816,
+    "title": "Hanania",
+    "media_type": "Text",
+    "index_reference": "hanania",
+    "language": "fra",
+    "content": "<h1>Hanania</h1><h2>Définition :</h2><p>&quot;Dans le livre de Daniel, Hanania était un jeune sage hébreu qui a été emmené à Babylone pendant la période de captivité* Il est plus connu sous le nom de Shadrach.</p><ul><li><p>Les Babyloniens ont donné à Hanania une position de serviteur royal en raison de son excellent caractère et ses capacités données par Dieu.</p></li><li><p>Hanania a été rebaptisé Shadrach par le roi babylonien.</p></li><li><p>Avec ses compagnons juifs, Shadrach a été jeté dans un feu à l&apos;intérieur d&apos;un four parce qu&apos;ils ont refusé d&apos;adorer le roi* Dieu a montré sa puissance en les protégeant.</p></li><li><p>Il y a d&apos;autres hommes moins connus nommés Hanania dans divers anciens passages de l&apos;Ancien Testament.</p></li><li><p>Un homme nommé Hanania était un faux prophète au temps du prophète Jérémie.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/azariah.md), (../names/babylon.md), (../names/daniel.md), (../other/falseprophet.md), (../names/jeremiah.md), (../names/mishael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15010028",
+          "start_ref_usfm": "EZR 10:28",
+          "end_ref": "15010028",
+          "end_ref_usfm": "EZR 10:28"
+        },
+        {
+          "start_ref": "16003008",
+          "start_ref_usfm": "NEH 3:8",
+          "end_ref": "16003008",
+          "end_ref_usfm": "NEH 3:8"
+        },
+        {
+          "start_ref": "16003030",
+          "start_ref_usfm": "NEH 3:30",
+          "end_ref": "16003030",
+          "end_ref_usfm": "NEH 3:30"
+        },
+        {
+          "start_ref": "16007002",
+          "start_ref_usfm": "NEH 7:2",
+          "end_ref": "16007002",
+          "end_ref_usfm": "NEH 7:2"
+        },
+        {
+          "start_ref": "16010023",
+          "start_ref_usfm": "NEH 10:23",
+          "end_ref": "16010023",
+          "end_ref_usfm": "NEH 10:23"
+        },
+        {
+          "start_ref": "16012012",
+          "start_ref_usfm": "NEH 12:12",
+          "end_ref": "16012012",
+          "end_ref_usfm": "NEH 12:12"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "24028001",
+          "start_ref_usfm": "JER 28:1",
+          "end_ref": "24028001",
+          "end_ref_usfm": "JER 28:1"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "24028015",
+          "start_ref_usfm": "JER 28:15",
+          "end_ref": "24028017",
+          "end_ref_usfm": "JER 28:17"
+        },
+        {
+          "start_ref": "27002017",
+          "start_ref_usfm": "DAN 2:17",
+          "end_ref": "27002018",
+          "end_ref_usfm": "DAN 2:18"
+        },
+        {
+          "start_ref": "24028005",
+          "start_ref_usfm": "JER 28:5",
+          "end_ref": "24028007",
+          "end_ref_usfm": "JER 28:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25496,
+          "content_id": 466674,
+          "label": "Azaria",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25729,
+          "content_id": 466884,
+          "label": "Faux prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 467040,
+          "label": "Jérémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26024,
+          "content_id": 467161,
+          "label": "Mischaël",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

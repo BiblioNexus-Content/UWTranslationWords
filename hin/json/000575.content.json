@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179596,
+    "reference_id": 25508,
+    "title": "बरतुल्मै",
+    "media_type": "Text",
+    "index_reference": "बरतुल्मै",
+    "language": "hin",
+    "content": "<h1>बरतुल्मै</h1><h2>तथ्य:</h2><p>बरतुल्मै यीशु के बारह चेलों में से एक था।</p><ul><li><p>अन्य चेलों के साथ बरतुल्मै को सुसमाचार प्रचार और यीशु के नाम में आश्चर्यकर्म करने के लिए भेजा गया था।</p></li><li><p>वह भी यीशु के स्वर्गारोहण के साक्षात गवाहों में था।</p></li><li><p>कुछ सप्ताह बाद पिन्तेकुस्त के दिन जब शिष्यों पर पवित्र-आत्मा उतरा तब वह भी यरूशलेम नगर में अन्य शिष्यों के साथ था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">प्रेरित</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">शुभ सन्देश</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">पवित्र आत्मा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26022\" data-resourceType=\"UWTranslationWords\">आश्चर्यकर्म</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26082\" data-resourceType=\"UWTranslationWords\">पिन्तेकुस्त</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">बारहों</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts1:12-Acts1:14\">प्रे.का. 1:12–14</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">लूका 6:14–16</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">मरकुस 3:17–19</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G09180</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 179554,
+          "label": "प्रेरित",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 179867,
+          "label": "शुभ सन्देश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 179913,
+          "label": "पवित्र आत्मा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26022,
+          "content_id": 180086,
+          "label": "चमत्कार",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 180144,
+          "label": "पिन्तेकुस्त",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 180349,
+          "label": "बारहों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

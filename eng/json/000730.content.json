@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 27004,
+    "reference_id": 26146,
+    "title": "Quench",
+    "media_type": "Text",
+    "index_reference": "quench",
+    "language": "eng",
+    "content": "<h1>quench, quenched, unquenchable</h1><h2>Definition:</h2><p>The term “quench” means to put out or stop something that is demanding to be satisfied.</p><ul><li><p>This term is usually used in the context of quenching thirst and means to stop being thirsty by drinking something.</p></li><li><p>It can also be used to refer to putting out a fire.</p></li><li><p>Both thirst and fire are quenched with water.</p></li><li><p>Paul uses the term “quench” in a figurative way when he instructs believers to not “quench the Holy Spirit.” This means to not discourage people from allowing the Holy Spirit from produce his fruits and gifts in them. Quenching the Holy Spirit means preventing the Holy Spirit from freely manifesting his power and work in people..</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25760\" data-resourceType=\"UWTranslationWords\">fruit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">gift</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Holy Spirit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Thess5:19\">1 Thessalonians 5:19</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:47\">Ezekiel 20:47</a></p></li><li><p><a href=\"https://ref.ly/Isa1:31\">Isaiah 1:31</a></p></li><li><p><a href=\"https://ref.ly/Jer21:12\">Jeremiah 21:12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1846, H3518, H7665, G07620, G45700</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001031",
+          "start_ref_usfm": "ISA 1:31",
+          "end_ref": "23001031",
+          "end_ref_usfm": "ISA 1:31"
+        },
+        {
+          "start_ref": "24021012",
+          "start_ref_usfm": "JER 21:12",
+          "end_ref": "24021012",
+          "end_ref_usfm": "JER 21:12"
+        },
+        {
+          "start_ref": "26020047",
+          "start_ref_usfm": "EZK 20:47",
+          "end_ref": "26020047",
+          "end_ref_usfm": "EZK 20:47"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "41009048",
+          "start_ref_usfm": "MRK 9:48",
+          "end_ref": "41009048",
+          "end_ref_usfm": "MRK 9:48"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "52005019",
+          "start_ref_usfm": "1TH 5:19",
+          "end_ref": "52005019",
+          "end_ref_usfm": "1TH 5:19"
+        },
+        {
+          "start_ref": "58011034",
+          "start_ref_usfm": "HEB 11:34",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25760,
+          "content_id": 26618,
+          "label": "Fruit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 26702,
+          "label": "Holy Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

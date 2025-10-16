@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466951,
+    "reference_id": 25802,
+    "title": "Offrande de grain",
+    "media_type": "Text",
+    "index_reference": "offrande de grain",
+    "language": "fra",
+    "content": "<h1>offrande de grain</h1><h2>Définition :</h2><p>&quot;Une offrande de grain était un don de blé ou de la farine d&apos;orge offerte à Dieu, souvent après un holocauste.</p><ul><li><p>Le grain utilisé pour l&apos;offrande était finement broyé et parfois il était cuit avant d&apos;être offert; d&apos;autres fois, il a été laissé non cuit.</p></li><li><p>L&apos;huile et le sel devaient être ajoutés à la farine de céréales, mais la levure ou le miel n&apos;était pas autorisé.</p></li></ul><p>(Voir aussi : (../other/burntoffering.md), (../other/guiltoffering.md) , (../other/sacrifice.md), (../other/sinoffering.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "02040029",
+          "start_ref_usfm": "EXO 40:29",
+          "end_ref": "02040029",
+          "end_ref_usfm": "EXO 40:29"
+        },
+        {
+          "start_ref": "03002002",
+          "start_ref_usfm": "LEV 2:2",
+          "end_ref": "03002002",
+          "end_ref_usfm": "LEV 2:2"
+        },
+        {
+          "start_ref": "07013019",
+          "start_ref_usfm": "JDG 13:19",
+          "end_ref": "07013019",
+          "end_ref_usfm": "JDG 13:19"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "13023027",
+          "start_ref_usfm": "1CH 23:27",
+          "end_ref": "13023029",
+          "end_ref_usfm": "1CH 23:29"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029042",
+          "end_ref_usfm": "EXO 29:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 466956,
+          "label": "&quot;l'offrande de culpabilité ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 467357,
+          "label": "Sacrifice de péché",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

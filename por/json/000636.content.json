@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238376,
+    "reference_id": 26247,
+    "title": "Neve",
+    "media_type": "Text",
+    "index_reference": "neve",
+    "language": "por",
+    "content": "<h1>neve</h1><h2>Fatos:</h2><p>O termo “neve” refere-se a flocos brancos de água congelada que podem cair das nuvens em lugares onde a temperatura do ar é fria.</p><ul><li><p>A neve cai em lugares de maior elevação em Israel, mas nem sempre permanece no chão por muito tempo antes de derreter. Os picos das montanhas tendem a ter neve que dura mais tempo. Um exemplo de um lugar mencionado na Bíblia como tendo neve é o Monte Líbano.</p></li><li><p>Algo que é muito branco muitas vezes tem sua cor comparada à cor da neve. Por exemplo, no livro de Apocalipse, as roupas e o cabelo de Jesus foram descritos como sendo “brancos como a neve”.</p></li><li><p>A brancura da neve também simboliza pureza e limpeza. Por exemplo, a afirmação de que nossos “pecados serão brancos como a neve” significa que Deus limpará completamente seu povo de seus pecados.</p></li><li><p>Algumas línguas podem se referir à neve como “chuva congelada” ou “flocos de gelo” ou “flocos congelados”.</p></li><li><p>“Água de neve” refere-se à água que vem da neve derretida.</p></li></ul><p>(Veja também: Como Traduzir Desconhecidos)</p><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25963\" data-resourceType=\"UWTranslationWords\">Líbano</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">puro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod4:6\">Êxodo 4.6</a></p></li><li><p><a href=\"https://ref.ly/Job37:4-Job37:6\">Jó 37.4–6</a></p></li><li><p><a href=\"https://ref.ly/Matt28:3\">Mateus 28.3</a></p></li><li><p><a href=\"https://ref.ly/Ps147:16\">Salmos 147.16</a></p></li><li><p><a href=\"https://ref.ly/Rev1:14\">Apocalipse 1.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7949, H7950, H8517, G55100</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004006",
+          "start_ref_usfm": "EXO 4:6",
+          "end_ref": "02004006",
+          "end_ref_usfm": "EXO 4:6"
+        },
+        {
+          "start_ref": "19147016",
+          "start_ref_usfm": "PSA 147:16",
+          "end_ref": "19147016",
+          "end_ref_usfm": "PSA 147:16"
+        },
+        {
+          "start_ref": "20025013",
+          "start_ref_usfm": "PRO 25:13",
+          "end_ref": "20025013",
+          "end_ref_usfm": "PRO 25:13"
+        },
+        {
+          "start_ref": "20026001",
+          "start_ref_usfm": "PRO 26:1",
+          "end_ref": "20026001",
+          "end_ref_usfm": "PRO 26:1"
+        },
+        {
+          "start_ref": "20031021",
+          "start_ref_usfm": "PRO 31:21",
+          "end_ref": "20031021",
+          "end_ref_usfm": "PRO 31:21"
+        },
+        {
+          "start_ref": "40028003",
+          "start_ref_usfm": "MAT 28:3",
+          "end_ref": "40028003",
+          "end_ref_usfm": "MAT 28:3"
+        },
+        {
+          "start_ref": "66001014",
+          "start_ref_usfm": "REV 1:14",
+          "end_ref": "66001014",
+          "end_ref_usfm": "REV 1:14"
+        },
+        {
+          "start_ref": "18037004",
+          "start_ref_usfm": "JOB 37:4",
+          "end_ref": "18037006",
+          "end_ref_usfm": "JOB 37:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25963,
+          "content_id": 238094,
+          "label": "Líbano",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

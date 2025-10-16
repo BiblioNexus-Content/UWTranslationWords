@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179941,
+    "reference_id": 25873,
+    "title": "प्रार्थना किया",
+    "media_type": "Text",
+    "index_reference": "प्रार्थना किया",
+    "language": "hin",
+    "content": "<h1>प्रार्थना किया, मध्यस्थता की, मध्यस्थता</h1><h2>परिभाषा:</h2><p>“प्रार्थना किया” या “मध्यस्थता” का अर्थ है किसी के लिए किसी से विनती करना। बाइबल यह शब्द अन्यों के लिए प्रार्थना करने के लिए काम में लिया गया है।</p><ul><li><p>“के लिए मध्यस्थता करना” और “मध्यस्थता” का अर्थ है मनुष्यों के लिए परमेश्वर से प्रार्थना करना।</p></li><li><p>बाइबल में लिखा है कि पवित्र आत्मा हमारे लिए विनती करता है,अर्थात वह हमारे लिए परमेश्वर से प्रार्थना करता है।</p></li><li><p>मनुष्य किसी अधिकारी से किसी अनुवाद के लिए विनती करके मध्यस्थता करता है।</p></li></ul><h2>अनुवाद के लिए सुझाव:</h2><ul><li><p>“मध्यस्थता के अन्य अनुवाद रूप, “याचना करना”, या (किसी से) “निवेदन करना” (किसी और के लिए) कुछ करने के लिए हो सकते हैं।</p></li><li><p>संज्ञा &quot;और निवेदन&quot; का अनुवाद &quot;आग्रह&quot; या &quot;अनुरोध&quot; या &quot;तत्काल प्रार्थना&quot; के रूप में किया जा सकता है।</p></li><li><p>वाक्यांश &quot;के लिए मध्यस्थता&quot; का अनुवाद &quot;के लिए अनुरोध करने के लिए&quot; या &quot;की ओर से अपील करें&quot; या &quot;परमेश्वर से मदद मांगे&quot; या &quot;(किसी के लिए) परमेश्वर से निवेदन करना&quot; के रूप में किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26117\" data-resourceType=\"UWTranslationWords\">प्रार्थना करना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Heb7:25-Heb7:26\">इब्रानियों 07:25–26</a></p></li><li><p><a href=\"https://ref.ly/Isa53:12\">यशायाह 53:12</a></p></li><li><p><a href=\"https://ref.ly/Jer29:6-Jer29:7\">यिर्मयाह 29:6–7</a></p></li><li><p><a href=\"https://ref.ly/Rom8:26-Rom8:27\">रोमियो 08:26–27</a></p></li><li><p><a href=\"https://ref.ly/Rom8:33-Rom8:34\">रोमियो 08:33–34</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H6293, G1783, G1793, G5241</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23053012",
+          "start_ref_usfm": "ISA 53:12",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "45008027",
+          "start_ref_usfm": "ROM 8:27",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008034",
+          "start_ref_usfm": "ROM 8:34",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008033",
+          "start_ref_usfm": "ROM 8:33",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007026",
+          "end_ref_usfm": "HEB 7:26"
+        },
+        {
+          "start_ref": "24029006",
+          "start_ref_usfm": "JER 29:6",
+          "end_ref": "24029007",
+          "end_ref_usfm": "JER 29:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26117,
+          "content_id": 180178,
+          "label": "प्रार्थना कर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

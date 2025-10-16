@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 179564,
+    "reference_id": 25476,
+    "title": "हथियार",
+    "media_type": "Text",
+    "index_reference": "हथियार",
+    "language": "hin",
+    "content": "<h1>हथियार, शस्त्रागार</h1><h2>परिभाषा:</h2><p>“हथियार” अर्थात सैनिक द्वारा युद्ध में काम में आने वाले अस्त्र-शस्त्र तथा शत्रु के वार से बचाने वाला कवच। इसका उपयोग प्रतीकात्मक रूप में आत्मिक हथियारों के लिए भी काम में लिया गया है।</p><ul><li><p>सैनिक के हथियारों में टोप, ढाल, सीनाबन्ध, पांव के कवच और तलवार आदि।</p></li><li><p>प्रेरित पौलुस हथियारों की उपमा द्वारा आत्मिक हथियारों का संदर्भ देता है जो परमेश्वर ने विश्वासी को आत्मिक युद्ध के लिए दिए हैं।</p></li><li><p>पाप और शैतान के विरूद्ध युद्ध करने के लिए परमेश्वर अपने लोगों को जो आत्मिक हथियार देता है, वे हैं, सत्य, धार्मिकता, शान्ति का सुसमाचार, विश्वास, उद्धार तथा पवित्र आत्मा।</p></li><li><p>इसका अनुवाद ऐसे शब्द से किया जाए जिसका अर्थ हो, “सैनिक के हथियार” या “युद्ध के सुरक्षात्मक वस्त्र” या “सुरक्षात्मक आवरण” या “अस्त्र-शस्त्र”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">विश्वास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">पवित्र आत्मा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26080\" data-resourceType=\"UWTranslationWords\">शान्ति</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_salvation\" data-resourceType=\"UWTranslationWords\">उद्धार</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">आत्मा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 31:9–10</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 20:8</a></p></li><li><p><a href=\"https://ref.ly/Eph6:11\">इफिसियों 6:11</a></p></li><li><p><a href=\"https://ref.ly/Jer51:3-Jer51:4\">यिर्मयाह 51:3–4</a></p></li><li><p><a href=\"https://ref.ly/Luke11:22\">लूका 11:22</a></p></li><li><p><a href=\"https://ref.ly/Neh4:15-Neh4:16\">नहेम्याह 4:15–16</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2290, H2488, H3627, H4055, H5402, G36960, G38330</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10020008",
+          "start_ref_usfm": "2SA 20:8",
+          "end_ref": "10020008",
+          "end_ref_usfm": "2SA 20:8"
+        },
+        {
+          "start_ref": "42011022",
+          "start_ref_usfm": "LUK 11:22",
+          "end_ref": "42011022",
+          "end_ref_usfm": "LUK 11:22"
+        },
+        {
+          "start_ref": "45006013",
+          "start_ref_usfm": "ROM 6:13",
+          "end_ref": "45006013",
+          "end_ref_usfm": "ROM 6:13"
+        },
+        {
+          "start_ref": "45013012",
+          "start_ref_usfm": "ROM 13:12",
+          "end_ref": "45013012",
+          "end_ref_usfm": "ROM 13:12"
+        },
+        {
+          "start_ref": "47006007",
+          "start_ref_usfm": "2CO 6:7",
+          "end_ref": "47006007",
+          "end_ref_usfm": "2CO 6:7"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "49006011",
+          "start_ref_usfm": "EPH 6:11",
+          "end_ref": "49006011",
+          "end_ref_usfm": "EPH 6:11"
+        },
+        {
+          "start_ref": "49006013",
+          "start_ref_usfm": "EPH 6:13",
+          "end_ref": "49006013",
+          "end_ref_usfm": "EPH 6:13"
+        },
+        {
+          "start_ref": "09031009",
+          "start_ref_usfm": "1SA 31:9",
+          "end_ref": "09031010",
+          "end_ref_usfm": "1SA 31:10"
+        },
+        {
+          "start_ref": "24051003",
+          "start_ref_usfm": "JER 51:3",
+          "end_ref": "24051004",
+          "end_ref_usfm": "JER 51:4"
+        },
+        {
+          "start_ref": "16004015",
+          "start_ref_usfm": "NEH 4:15",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 179798,
+          "label": "विश्वास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 179913,
+          "label": "पवित्र आत्मा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 180142,
+          "label": "शान्ति",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26201,
+          "content_id": 180259,
+          "label": "बचाना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 180311,
+          "label": "आत्मा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

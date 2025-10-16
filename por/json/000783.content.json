@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238073,
+    "reference_id": 25941,
+    "title": "Reino de Israel",
+    "media_type": "Text",
+    "index_reference": "reino de israel",
+    "language": "por",
+    "content": "<h1>reino de Israel</h1><h2>Fatos:</h2><p>O que havia sido a parte norte da nação de Israel tornou-se o reino de Israel quando as doze tribos de Israel foram divididas em dois reinos após a morte de Salomão.</p><ul><li><p>O reino de Israel no norte tinha dez tribos, e o reino de Judá no sul tinha duas tribos.</p></li><li><p>A cidade capital do reino de Israel era Samaria. Ficava a cerca de 50 km de Jerusalém, a cidade capital do reino de Judá.</p></li><li><p>Todos os reis do reino de Israel foram maus. Eles influenciaram o povo a servir ídolos e falsos deuses.</p></li><li><p>Deus enviou os assírios para atacar o reino de Israel. Muitos israelitas foram capturados e levados para viver na Assíria.</p></li><li><p>Os assírios trouxeram estrangeiros para viver entre o povo restante do reino de Israel. Esses estrangeiros casaram-se com os israelitas, e seus descendentes tornaram-se o povo samaritano.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assíria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25939\" data-resourceType=\"UWTranslationWords\">reino</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr35:18\">2 Crônicas 35.18</a></p></li><li><p><a href=\"https://ref.ly/Jer5:11\">Jeremias 5.11</a></p></li><li><p><a href=\"https://ref.ly/Jer9:26\">Jeremias 9.26</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>18:8</strong> As outras dez tribos da nação de Israel que se rebelaram contra Roboão nomearam um homem chamado Jeroboão para ser seu rei. Eles estabeleceram seu reino na parte norte da terra e foram chamados de <strong>reino de Israel</strong>.</p></li><li><p><strong>18:10</strong> Os <strong>reinos de Judá e Israel</strong> tornaram-se inimigos e frequentemente lutavam entre si.</p></li><li><p><strong>18:11</strong> No novo <strong>reino de Israel</strong>, todos os reis eram maus.</p></li><li><p><strong>20:1</strong> Os <strong>reinos de Israel</strong> e Judá pecaram contra Deus.</p></li><li><p><strong>20:2</strong> O <strong>reino de Israel</strong> foi destruído pelo Império Assírio, uma nação poderosa e cruel. Os assírios mataram muitas pessoas no <strong>reino de Israel</strong>, levaram tudo de valor e queimaram grande parte do país.</p></li><li><p><strong>20:4</strong> Então os assírios trouxeram estrangeiros para viver na terra onde havia sido o <strong>reino de Israel</strong>. Os estrangeiros reconstruíram as cidades destruídas e casaram-se com os israelitas que ficaram lá. Os descendentes dos israelitas que se casaram com estrangeiros foram chamados de samaritanos.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3478, H4410, H4467, H4468</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035018",
+          "start_ref_usfm": "2CH 35:18",
+          "end_ref": "14035018",
+          "end_ref_usfm": "2CH 35:18"
+        },
+        {
+          "start_ref": "24005011",
+          "start_ref_usfm": "JER 5:11",
+          "end_ref": "24005011",
+          "end_ref_usfm": "JER 5:11"
+        },
+        {
+          "start_ref": "24009026",
+          "start_ref_usfm": "JER 9:26",
+          "end_ref": "24009026",
+          "end_ref_usfm": "JER 9:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 237625,
+          "label": "Assíria",
+          "language": "por"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 238012,
+          "label": "Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25939,
+          "content_id": 238071,
+          "label": "Reino",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 238321,
+          "label": "Samaria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

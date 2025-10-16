@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 26848,
+    "reference_id": 25990,
+    "title": "Maker",
+    "media_type": "Text",
+    "index_reference": "maker",
+    "language": "eng",
+    "content": "<h1>Maker</h1><h2>Facts:</h2><p>In general, a “maker” is someone who creates or makes things.</p><ul><li><p>In the Bible, the term “Maker” is sometimes used as a name or title for Yahweh, because he created everything.</p></li><li><p>Usually this term is combined with “his” or “my” or “your.”</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “Maker” can be translated as “the Creator” or “God who creates” or “the One who made everything.”</p></li><li><p>The phrase “his Maker” could also be translated as “the One who created him” or “God, who created him.”</p></li><li><p>The phrases “your Maker” and “my Maker” could be translated in a similar way.</p></li></ul><p>(See also: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_create\" data-resourceType=\"UWTranslationWords\">create</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Hos8:13-Hos8:14\">Hosea 8:13–14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3335, H6213, H6466</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28008013",
+          "start_ref_usfm": "HOS 8:13",
+          "end_ref": "28008014",
+          "end_ref_usfm": "HOS 8:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25624,
+          "content_id": 26482,
+          "label": "Creation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 27218,
+          "label": "Yahweh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

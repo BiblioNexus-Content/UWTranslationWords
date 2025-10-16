@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 26832,
+    "reference_id": 25974,
+    "title": "Lord's Supper",
+    "media_type": "Text",
+    "index_reference": "lord's supper",
+    "language": "eng",
+    "content": "<h1>Lord’s Supper</h1><h2>Definition:</h2><p>The term “Lord’s Supper” was used by the apostle Paul to refer to the Passover meal that Jesus ate with his disciples on the night he was arrested by the Jewish leaders.</p><ul><li><p>During this meal, Jesus broke the Passover bread into pieces and called it his body, which would soon be beaten and killed.</p></li><li><p>He called the cup of wine his blood, which would soon be spilled out as he died as a sacrifice for sin.</p></li><li><p>Jesus commanded that as often as his followers shared this meal together, they should remember his death and resurrection.</p></li><li><p>In his letter to the Corinthians, the apostle Paul also further established the Lord’s Supper as a regular practice for believers in Jesus.</p></li><li><p>Churches today often use the term “communion” to refer to the Lord’s Supper. The term “Last Supper” is also sometimes used.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>This term could also be translated as “the Lord’s meal” or “the meal of our Lord Jesus” or “the meal in memory of the Lord Jesus.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">Passover</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor11:20\">1 Corinthians 11:20</a></p></li><li><p><a href=\"https://ref.ly/1Cor11:25-1Cor11:26\">1 Corinthians 11:25–26</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G11730, G29600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46011020",
+          "start_ref_usfm": "1CO 11:20",
+          "end_ref": "46011020",
+          "end_ref_usfm": "1CO 11:20"
+        },
+        {
+          "start_ref": "46011025",
+          "start_ref_usfm": "1CO 11:25",
+          "end_ref": "46011026",
+          "end_ref_usfm": "1CO 11:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26076,
+          "content_id": 26934,
+          "label": "Passover",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

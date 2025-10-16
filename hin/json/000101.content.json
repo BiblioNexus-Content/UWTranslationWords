@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 179506,
+    "reference_id": 25416,
+    "title": "इस्राएल के बारह गोत्र",
+    "media_type": "Text",
+    "index_reference": "इस्राएल के बारह गोत्र",
+    "language": "hin",
+    "content": "<h1>इस्राएल के बारह गोत्र, बारह गोत्र</h1><h2>परिभाषा:</h2><p>&quot;इस्राएल के बारह गोत्र&quot; का सन्दर्भ याकूब के बारह पुत्रों और उनके वंशजों से है।</p><ul><li><p>याकूब के पुत्रों के नाम हैं: रूबेन, शमौन, लेवी, यहूदा, दान, नप्ताली, गाद, अशेर, इस्साकार, जबूलून, यूसुफ, बिन्यामीन।</p></li><li><p>बाईबल में अनेक स्थान ऐसे हैं जहां इन बारह गोत्रों की सूची में भिन्नता है| कहीं-कहीं सूची में लेवी, यूसुफ़ या दान को छोड़ दिया गया है और कहीं-कहीं यूसुफ़ के दो पुत्रों, एप्रैम तथा मनश्शे को सूची में जोड़ दिया है|</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26174\" data-resourceType=\"UWTranslationWords\">रूबेन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26238\" data-resourceType=\"UWTranslationWords\">शमौन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">लेवी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">दान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">नाप्ताली</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">गाद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25482\" data-resourceType=\"UWTranslationWords\">आशेर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25880\" data-resourceType=\"UWTranslationWords\">इस्साकार</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26368\" data-resourceType=\"UWTranslationWords\">ज़बूलून</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">यूसुफ़</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">बिन्यामीन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">एप्रैम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">मनश्शे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">इस्राएल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">याकूब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26316\" data-resourceType=\"UWTranslationWords\">गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts26:7\">प्रे.का. 26:7</a></p></li><li><p><a href=\"https://ref.ly/Gen49:28\">उत्पत्ति 49:28</a></p></li><li><p><a href=\"https://ref.ly/Luke22:28-Luke22:30\">लूका 22:28–30</a></p></li><li><p><a href=\"https://ref.ly/Matt19:28\">मत्ती 19:28</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H3478, H7626, H8147, G1427, G2474, G5443</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049028",
+          "start_ref_usfm": "GEN 49:28",
+          "end_ref": "01049028",
+          "end_ref_usfm": "GEN 49:28"
+        },
+        {
+          "start_ref": "40019028",
+          "start_ref_usfm": "MAT 19:28",
+          "end_ref": "40019028",
+          "end_ref_usfm": "MAT 19:28"
+        },
+        {
+          "start_ref": "42022030",
+          "start_ref_usfm": "LUK 22:30",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "44026007",
+          "start_ref_usfm": "ACT 26:7",
+          "end_ref": "44026007",
+          "end_ref_usfm": "ACT 26:7"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "66021012",
+          "start_ref_usfm": "REV 21:12",
+          "end_ref": "66021012",
+          "end_ref_usfm": "REV 21:12"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25482,
+          "content_id": 179570,
+          "label": "आशेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 179609,
+          "label": "बिन्यामीन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25641,
+          "content_id": 179718,
+          "label": "दान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 179781,
+          "label": "एप्रैम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 179837,
+          "label": "गाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 179946,
+          "label": "इस्राएल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25880,
+          "content_id": 179947,
+          "label": "इस्साकार",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 179986,
+          "label": "यूसुफ (पुराना नियम)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 180032,
+          "label": "लेवी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 180058,
+          "label": "मनश्शे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 180106,
+          "label": "नप्ताली",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26174,
+          "content_id": 180232,
+          "label": "रूबेन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26238,
+          "content_id": 180292,
+          "label": "शमौन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26316,
+          "content_id": 180369,
+          "label": "गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26368,
+          "content_id": 180420,
+          "label": "जबूलून",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

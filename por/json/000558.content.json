@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238479,
+    "reference_id": 26353,
+    "title": "Lobo",
+    "media_type": "Text",
+    "index_reference": "lobo",
+    "language": "por",
+    "content": "<h1>lobo, cães selvagens</h1><h2>Definição:</h2><p>Um lobo é um animal feroz e carnívoro que é semelhante a um cão selvagem.</p><ul><li><p>Lobos geralmente caçam em grupos e perseguem suas presas de maneira inteligente e furtiva.</p></li><li><p>Na Bíblia, o termo “lobos” é usado figurativamente para se referir a falsos mestres ou falsos profetas que destroem os crentes, que são comparados a ovelhas. O falso ensino faz com que as pessoas acreditem em coisas erradas que lhes trazem mal.</p></li><li><p>Essa comparação é baseada no fato de que as ovelhas são especialmente vulneráveis a serem atacadas e comidas por lobos, porque são fracas e não podem se defender.</p></li></ul><h2>Sugestão de Tradução</h2><ul><li><p>Este termo poderia ser traduzido como “cão selvagem” ou “animal selvagem”.</p></li><li><p>Outros nomes para cães selvagens poderiam ser “chacal” ou “coiote”.</p></li><li><p>Quando usado figurativamente para se referir a pessoas, isso poderia ser traduzido como “pessoas más que prejudicam as pessoas como animais que atacam ovelhas”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25718\" data-resourceType=\"UWTranslationWords\">mal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25729\" data-resourceType=\"UWTranslationWords\">falso profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">ovelha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_teach\" data-resourceType=\"UWTranslationWords\">ensinar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts20:29\">Atos 20.29</a></p></li><li><p><a href=\"https://ref.ly/Isa11:7\">Isaías 11.7</a></p></li><li><p><a href=\"https://ref.ly/John10:11-John10:13\">João 10.11–13</a></p></li><li><p><a href=\"https://ref.ly/Luke10:3\">Lucas 10.3</a></p></li><li><p><a href=\"https://ref.ly/Matt7:15\">Mateus 7.15</a></p></li><li><p><a href=\"https://ref.ly/Zeph3:3\">Sofonias 3.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2061, H3611, G30740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049027",
+          "start_ref_usfm": "GEN 49:27",
+          "end_ref": "01049027",
+          "end_ref_usfm": "GEN 49:27"
+        },
+        {
+          "start_ref": "23011007",
+          "start_ref_usfm": "ISA 11:7",
+          "end_ref": "23011007",
+          "end_ref_usfm": "ISA 11:7"
+        },
+        {
+          "start_ref": "36003003",
+          "start_ref_usfm": "ZEP 3:3",
+          "end_ref": "36003003",
+          "end_ref_usfm": "ZEP 3:3"
+        },
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007015",
+          "end_ref_usfm": "MAT 7:15"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010016",
+          "end_ref_usfm": "MAT 10:16"
+        },
+        {
+          "start_ref": "42010003",
+          "start_ref_usfm": "LUK 10:3",
+          "end_ref": "42010003",
+          "end_ref_usfm": "LUK 10:3"
+        },
+        {
+          "start_ref": "43010012",
+          "start_ref_usfm": "JHN 10:12",
+          "end_ref": "43010012",
+          "end_ref_usfm": "JHN 10:12"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020029",
+          "end_ref_usfm": "ACT 20:29"
+        },
+        {
+          "start_ref": "43010011",
+          "start_ref_usfm": "JHN 10:11",
+          "end_ref": "43010013",
+          "end_ref_usfm": "JHN 10:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25718,
+          "content_id": 237851,
+          "label": "Mal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25729,
+          "content_id": 237862,
+          "label": "Falso profeta",
+          "language": "por"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 238353,
+          "label": "Ovelha",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

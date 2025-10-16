@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26567,
+    "reference_id": 25709,
+    "title": "Ephrathah",
+    "media_type": "Text",
+    "index_reference": "ephrathah",
+    "language": "eng",
+    "content": "<h1>Ephrath, Ephrathah</h1><h2>Facts:</h2><p>The name “Ephrathah” refers to a clan of Judah as well as to the territory that they occupied, which was centered around the town of Bethlehem. Sometimes the name is shortened to “Ephrath.”</p><ul><li><p>The clan of Ephrathah was probably named after a woman named “Ephrathah,” who was a wife of Caleb and the grandmother of the founders of the towns of Kiriath-Jearim, Bethlehem, and Beth-Gader (1 Chron 2:50–51).</p></li><li><p>The towns of Bethlehem (Gen 35:19;48:7) and Kirjath-Jearim (Psalm 132:6) are both sometimes referred to as “Ephrathah.”</p></li><li><p>Rachel died on the way to a town called “Ephrathah.”</p></li><li><p>It is possible that there was a different town called “Ephrathah” further north near Ramah, and that Rachel was buried near there (1 Sam 10:2; Jer 31:15).</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Bethlehem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">Boaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25566\" data-resourceType=\"UWTranslationWords\">Caleb</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H0672, H0673</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 26388,
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 26406,
+          "label": "Boaz",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25566,
+          "content_id": 26424,
+          "label": "Caleb",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

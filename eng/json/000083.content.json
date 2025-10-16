@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26356,
+    "reference_id": 25498,
+    "title": "Baasha",
+    "media_type": "Text",
+    "index_reference": "baasha",
+    "language": "eng",
+    "content": "<h1>Baasha</h1><h2>Facts:</h2><p>Baasha was one of Israel’s evil kings, who influenced the Israelites to worship idols.</p><ul><li><p>Baasha was the third king of Israel and reigned for twenty-four years, during the time when Asa was king of Judah.</p></li><li><p>He was a military commander who became king by killing the previous king, Nadab.</p></li><li><p>During Baasha’s reign there were many wars between the kingdoms of Israel and Judah, especially with King Asa of Judah.</p></li><li><p>Baasha’s many sins caused God to eventually remove him from office by his death.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">Asa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs15:17\">1 Kings 15:17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs9:9\">2 Kings 9:9</a></p></li><li><p><a href=\"https://ref.ly/Jer41:9\">Jeremiah 41:9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1201</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015017",
+          "start_ref_usfm": "1KI 15:17",
+          "end_ref": "11015017",
+          "end_ref_usfm": "1KI 15:17"
+        },
+        {
+          "start_ref": "12009009",
+          "start_ref_usfm": "2KI 9:9",
+          "end_ref": "12009009",
+          "end_ref_usfm": "2KI 9:9"
+        },
+        {
+          "start_ref": "24041009",
+          "start_ref_usfm": "JER 41:9",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25479,
+          "content_id": 26337,
+          "label": "Asa",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

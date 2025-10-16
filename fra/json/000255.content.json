@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 466598,
+    "reference_id": 25416,
+    "title": "Douze tribus d'Israël",
+    "media_type": "Text",
+    "index_reference": "douze tribus d'israël",
+    "language": "fra",
+    "content": "<h1>douze tribus d&apos;Israël, douze tribus</h1><h2>Définition :</h2><p>Le terme « douze tribus d&apos;Israël » fait référence aux douze fils de Jacob et à leurs descendants.</p><ul><li><p>Jacob était le petit-fils d&apos;Abraham. Plus tard, Dieu a changé le nom de Jacob en Israël.</p></li><li><p>Voici les noms des tribus : Ruben, Siméon, Lévi, Juda, Dan, Nephtali, Gad, Aser, Issacar, Zabulon, Joseph et Benjamin.</p></li><li><p>Les descendants de Lévi n&apos;ont pas hérité de terre à Canaan parce qu&apos;ils étaient une tribu de prêtres mis à part pour servir Dieu et son peuple.</p></li><li><p>Joseph a reçu un double héritage de terre, qui a été transmis à ses deux fils, Éphraïm et Manassé.</p></li><li><p>Il y a plusieurs endroits dans la Bible où la liste des douze tribus est légèrement différente. Parfois, Levi, Joseph ou Dan est exclu de la liste et parfois les deux fils de Joseph, Ephraïm et Manassé, sont inclus dans la liste.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">inherit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26316\" data-resourceType=\"UWTranslationWords\">tribe</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049028",
+          "start_ref_usfm": "GEN 49:28",
+          "end_ref": "01049028",
+          "end_ref_usfm": "GEN 49:28"
+        },
+        {
+          "start_ref": "40019028",
+          "start_ref_usfm": "MAT 19:28",
+          "end_ref": "40019028",
+          "end_ref_usfm": "MAT 19:28"
+        },
+        {
+          "start_ref": "42022030",
+          "start_ref_usfm": "LUK 22:30",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "44026007",
+          "start_ref_usfm": "ACT 26:7",
+          "end_ref": "44026007",
+          "end_ref_usfm": "ACT 26:7"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "66021012",
+          "start_ref_usfm": "REV 21:12",
+          "end_ref": "66021012",
+          "end_ref_usfm": "REV 21:12"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25482,
+          "content_id": 466661,
+          "label": "Aser",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25641,
+          "content_id": 466804,
+          "label": "Dan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 466868,
+          "label": "Ephraim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 466915,
+          "label": "Gad",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25880,
+          "content_id": 467025,
+          "label": "Issacar",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 467131,
+          "label": "Manassé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 467179,
+          "label": "Nephtali",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26174,
+          "content_id": 467294,
+          "label": "Ruben",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26238,
+          "content_id": 467353,
+          "label": "Siméon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26316,
+          "content_id": 467429,
+          "label": "Tribu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

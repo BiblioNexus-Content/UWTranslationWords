@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 179983,
+    "reference_id": 25916,
+    "title": "योराम",
+    "media_type": "Text",
+    "index_reference": "योराम",
+    "language": "hin",
+    "content": "<h1>योराम</h1><h2>तथ्य:</h2><p>योराम, जो अहाब का पुत्र, इस्राएल का राजा था। वह यहोराम के नाम से भी जाना जाता है।</p><ul><li><p>राजा योराम उसी समय इस्राएल पर राज कर रहा था जब यहूदा में भी यहोराम नामक राजा राज्य कर रहा था।</p></li><li><p>योराम एक दुष्ट राजा था जिसने स्वयं तो मूर्तिपूजा की और इस्राएल का पाप करने के कारण बना।</p></li><li><p>इस्राएल के राजा योराम ने एलिय्याह और ओबद्याह के भविष्यवक्ताओं के समय में राज्य किया।</p></li><li><p>योराम नाम का एक और व्यक्ति था जो हमात के राजा तू का पुत्र और राजा दाऊद के राज्यकाल में।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">अहाब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">एलिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25814\" data-resourceType=\"UWTranslationWords\">हाम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25891\" data-resourceType=\"UWTranslationWords\">यहोराम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">इस्राएल का राज्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26059\" data-resourceType=\"UWTranslationWords\">ओबद्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 03:10–12</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 22:4–5</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 01:17–18</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 08:16–17</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3088, H3141, G2496</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "12008016",
+          "start_ref_usfm": "2KI 8:16",
+          "end_ref": "12008016",
+          "end_ref_usfm": "2KI 8:16"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14022004",
+          "start_ref_usfm": "2CH 22:4",
+          "end_ref": "14022005",
+          "end_ref_usfm": "2CH 22:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 179527,
+          "label": "आहाब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 179771,
+          "label": "एलिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25814,
+          "content_id": 179885,
+          "label": "हामात",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25891,
+          "content_id": 179958,
+          "label": "यहोराम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 180008,
+          "label": "इस्राएल के राज्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 180009,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 180122,
+          "label": "ओबद्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

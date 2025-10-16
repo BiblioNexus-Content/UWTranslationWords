@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26651,
+    "reference_id": 25793,
+    "title": "Goliath",
+    "media_type": "Text",
+    "index_reference": "goliath",
+    "language": "eng",
+    "content": "<h1>Goliath</h1><h2>Facts:</h2><p>Goliath was a very tall and very large soldier in the army of the Philistines who was killed by David.</p><ul><li><p>Goliath was between two and three meters tall. He is often referred to as a giant because of his great size.</p></li><li><p>Although Goliath had better weapons and was much bigger than David, God gave David the strength and ability to defeat Goliath.</p></li><li><p>The Israelites were declared victorious over the Philistines as a result of David’s victory over Goliath.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Philistines</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr20:4-1Chr20:5\">1 Chronicles 20:4–5</a></p></li><li><p><a href=\"https://ref.ly/1Sam17:4-1Sam17:5\">1 Samuel 17:4–5</a></p></li><li><p><a href=\"https://ref.ly/1Sam21:8-1Sam21:9\">1 Samuel 21:8–9</a></p></li><li><p><a href=\"https://ref.ly/1Sam22:9-1Sam22:10\">1 Samuel 22:9–10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1555</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09022009",
+          "start_ref_usfm": "1SA 22:9",
+          "end_ref": "09022010",
+          "end_ref_usfm": "1SA 22:10"
+        },
+        {
+          "start_ref": "13020004",
+          "start_ref_usfm": "1CH 20:4",
+          "end_ref": "13020005",
+          "end_ref_usfm": "1CH 20:5"
+        },
+        {
+          "start_ref": "09017004",
+          "start_ref_usfm": "1SA 17:4",
+          "end_ref": "09017005",
+          "end_ref_usfm": "1SA 17:5"
+        },
+        {
+          "start_ref": "09021008",
+          "start_ref_usfm": "1SA 21:8",
+          "end_ref": "09021009",
+          "end_ref_usfm": "1SA 21:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 26958,
+          "label": "Philistines",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180068,
+    "reference_id": 26004,
+    "title": "मध्यस्थ",
+    "media_type": "Text",
+    "index_reference": "मध्यस्थ",
+    "language": "hin",
+    "content": "<h1>मध्यस्थ</h1><h2>परिभाषा:</h2><p>“मध्यस्थ” दो पक्षों या अधिक मनुष्यों के मध्य मतभेद या कलह का समाधान करता है। वह आपसी मेल में उनकी सहायता करता है।</p><ul><li><p>पाप के कारण मनुष्य परमेश्वर का बैरी है जो उसके क्रोध और दण्ड का भागी है। पाप के कारण, परमेश्वर और उसके लोगों के मध्य संबन्ध विच्छेद है।</p></li><li><p>यीशु पिता परमेश्वर और उसके लोगों के बीच मध्यस्थ है उसने उनके पाप का मूल्य चुकानेवाली अपनी मृत्यु के द्वारा इस विच्छेदित संबन्ध को पुनः स्थापित कर दिया है।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>“मध्यस्थ का अनुवाद हो सकता है”, “बिचौलियाँ” या “मेल कराने वाला” या “शान्ति स्थापित करनेवाला”</p></li><li><p>इस शब्द के अनुवाद की तुलना “याजक” शब्द के अनुवाद से करें। “मध्यस्थ” का अनुवाद भिन्न शब्द से करें तो उचित होगा।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">याजक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">मेल करना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Tim0:0\">1 तीमुथियुस 2:5</a></p></li><li><p><a href=\"https://ref.ly/Gal3:20\">गलातियों 3:20</a></p></li><li><p><a href=\"https://ref.ly/Heb8:6\">इब्रानियों 8:6</a></p></li><li><p><a href=\"https://ref.ly/Heb12:24\">इब्रानियों 12:24</a></p></li><li><p><a href=\"https://ref.ly/Luke12:14\">लूका 12:14</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स:&nbsp;H3887, G33120, G33160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42012014",
+          "start_ref_usfm": "LUK 12:14",
+          "end_ref": "42012014",
+          "end_ref_usfm": "LUK 12:14"
+        },
+        {
+          "start_ref": "48003020",
+          "start_ref_usfm": "GAL 3:20",
+          "end_ref": "48003020",
+          "end_ref_usfm": "GAL 3:20"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002005",
+          "end_ref_usfm": "1TI 2:5"
+        },
+        {
+          "start_ref": "58008006",
+          "start_ref_usfm": "HEB 8:6",
+          "end_ref": "58008006",
+          "end_ref_usfm": "HEB 8:6"
+        },
+        {
+          "start_ref": "58009015",
+          "start_ref_usfm": "HEB 9:15",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26121,
+          "content_id": 180182,
+          "label": "याजक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 180218,
+          "label": "मेल करना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

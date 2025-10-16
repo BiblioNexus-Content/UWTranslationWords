@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466608,
+    "reference_id": 25426,
+    "title": "Abîme",
+    "media_type": "Text",
+    "index_reference": "abîme",
+    "language": "fra",
+    "content": "<h1>abîme</h1><h2>Définition :</h2><p>Le terme &quot;abîme&quot; fait référance à une très grande et profonde fosse ou un gouffre qui n&apos;a pas de fond.</p><ul><li><p>Dans la Bible, &quot;l&quot;abîme&quot; est un lieu de punition.</p></li><li><p>Par exemple, lorsque Jésus commanda aux esprits mauvais de sortir d&apos;un homme, ils le supplièrent de ne pas les envoyer dans l&apos;abîme.</p></li><li><p>Le mot &quot;abîme&quot; pourrait aussi être traduit par &quot;fosse sans fond&quot; ou &quot;gouffre profond&quot;.</p></li><li><p>Ce terme doit être traduit différemment de &quot;séjour des morts&quot;, ou &quot;enfer&quot;.</p></li></ul><p>(Voir aussi : (../kt/hades.md), (../kt/hell.md), (../other/punish.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008031",
+          "start_ref_usfm": "LUK 8:31",
+          "end_ref": "42008031",
+          "end_ref_usfm": "LUK 8:31"
+        },
+        {
+          "start_ref": "45010007",
+          "start_ref_usfm": "ROM 10:7",
+          "end_ref": "45010007",
+          "end_ref_usfm": "ROM 10:7"
+        },
+        {
+          "start_ref": "66009001",
+          "start_ref_usfm": "REV 9:1",
+          "end_ref": "66009001",
+          "end_ref_usfm": "REV 9:1"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        },
+        {
+          "start_ref": "66009011",
+          "start_ref_usfm": "REV 9:11",
+          "end_ref": "66009011",
+          "end_ref_usfm": "REV 9:11"
+        },
+        {
+          "start_ref": "66011007",
+          "start_ref_usfm": "REV 11:7",
+          "end_ref": "66011007",
+          "end_ref_usfm": "REV 11:7"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020001",
+          "end_ref_usfm": "REV 20:1"
+        },
+        {
+          "start_ref": "66020003",
+          "start_ref_usfm": "REV 20:3",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "42008030",
+          "start_ref_usfm": "LUK 8:30",
+          "end_ref": "42008031",
+          "end_ref_usfm": "LUK 8:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25809,
+          "content_id": 466958,
+          "label": "Hadès",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 466977,
+          "label": "Enfer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 467262,
+          "label": "Punir",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

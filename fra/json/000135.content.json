@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466737,
+    "reference_id": 25566,
+    "title": "Caleb",
+    "media_type": "Text",
+    "index_reference": "caleb",
+    "language": "fra",
+    "content": "<h1>Caleb</h1><h2>Données :</h2><p>Caleb était l&apos;un des douze espions d&apos;Israël que Moïse a envoyé pour explorer le pays de Canaan.</p><ul><li><p>Caleb et Josué ont dit aux gens de faire confiance à Dieu pour les aider à vaincre les Cananéens.</p></li><li><p>Josué et Caleb étaient les seuls hommes de leur génération qui ont été autorisés à entrer dans la terre promise de Canaan.</p></li><li><p>Caleb a demandé que la terre d&apos;Hébron lui soit donnée, à lui et sa famille. Il savait que Dieu l&apos;aiderait à vaincre les gens qui y vivaient.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/hebron.md), (../names/joshua.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001012",
+          "start_ref_usfm": "JDG 1:12",
+          "end_ref": "07001012",
+          "end_ref_usfm": "JDG 1:12"
+        },
+        {
+          "start_ref": "13004013",
+          "start_ref_usfm": "1CH 4:13",
+          "end_ref": "13004013",
+          "end_ref_usfm": "1CH 4:13"
+        },
+        {
+          "start_ref": "06014006",
+          "start_ref_usfm": "JOS 14:6",
+          "end_ref": "06014007",
+          "end_ref_usfm": "JOS 14:7"
+        },
+        {
+          "start_ref": "04032010",
+          "start_ref_usfm": "NUM 32:10",
+          "end_ref": "04032012",
+          "end_ref_usfm": "NUM 32:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25827,
+          "content_id": 466975,
+          "label": "Hébron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 467065,
+          "label": "Josué",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

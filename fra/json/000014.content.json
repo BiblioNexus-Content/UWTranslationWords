@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 466602,
+    "reference_id": 25420,
+    "title": "Abijah",
+    "media_type": "Text",
+    "index_reference": "abijah",
+    "language": "fra",
+    "content": "<h1>Abijah</h1><h2>Définition :</h2><p>Abija était le nom d&apos;un roi de Juda qui régna de 915–913 Avant Jésus Christ* Il était le fils du roi Roboam* Il y avait aussi plusieurs hommes du nom d&apos;Abija dans l&apos;Ancien Testament* - Abija et Joël, fils de Samuel étaient des leaders du peuple d&apos;Israël à Beer-Schéba.</p><ul><li><p>A cause de la malhonnêteté et la cupidité d&apos;Abija et de son frère, le peuple demanda à Samuel de leur donner un roi pour les diriger.</p></li><li><p>Un autre Abija était l&apos;un des sacrificateurs pendant le règne du Roi David.</p></li><li><p>Abija était le nom de l&apos;un des fils de Jéroboam.</p></li><li><p>Abija était aussi le nom d&apos;un souverain sacrificateur qui retourna de la captivité en Babylone avec Zorobabel à Jérusalem.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015003",
+          "start_ref_usfm": "1KI 15:3",
+          "end_ref": "11015003",
+          "end_ref_usfm": "1KI 15:3"
+        },
+        {
+          "start_ref": "14013002",
+          "start_ref_usfm": "2CH 13:2",
+          "end_ref": "14013002",
+          "end_ref_usfm": "2CH 13:2"
+        },
+        {
+          "start_ref": "14013019",
+          "start_ref_usfm": "2CH 13:19",
+          "end_ref": "14013019",
+          "end_ref_usfm": "2CH 13:19"
+        },
+        {
+          "start_ref": "16010007",
+          "start_ref_usfm": "NEH 10:7",
+          "end_ref": "16010007",
+          "end_ref_usfm": "NEH 10:7"
+        },
+        {
+          "start_ref": "16012004",
+          "start_ref_usfm": "NEH 12:4",
+          "end_ref": "16012004",
+          "end_ref_usfm": "NEH 12:4"
+        },
+        {
+          "start_ref": "16012017",
+          "start_ref_usfm": "NEH 12:17",
+          "end_ref": "16012017",
+          "end_ref_usfm": "NEH 12:17"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008003",
+          "end_ref_usfm": "1SA 8:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

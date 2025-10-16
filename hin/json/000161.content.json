@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 179654,
+    "reference_id": 25575,
+    "title": "कर्मेल",
+    "media_type": "Text",
+    "index_reference": "कर्मेल",
+    "language": "hin",
+    "content": "<h1>कर्मेल, कर्मेल पहाड़</h1><h2>तथ्य:</h2><p>“कर्मेल पहाड़” भूमध्यसागर के तट पर स्थित पर्वतीय श्रृंखला-शारोन के मैदान के निकट उत्तर में। उसकी सबसे ऊंची चोटी 546 मीटर ऊंची है।</p><ul><li><p>कर्मेल नामक एक नगर भी था जो नमक सागर के दक्षिण में यहूदा राज्य में था।</p></li><li><p>नाबाल एक धनवान किसान था, उसकी पत्नी का नाम अबीगैल था। वे कर्मेल नगर के निकट रहते थे। दाऊद और उसके साथी नाबाल के चरवाहों की रक्षा करते थे।</p></li><li><p>कर्मेल पहाड़ पर एलिय्याह ने बाल पुजारियों के साथ स्पर्धा करके सिद्ध किया था कि केवल यहोवा ही सच्चा परमेश्वर है।</p></li><li><p>यह स्पष्ट करने के लिए कि कर्मेल एक ही पहाड़ नहीं था, “कर्मेल पहाड़” का अनुवाद “कर्मेल पर्वतीय श्रृंखला के एक पहाड़ पर” या “कर्मेल पर्वतीय श्रृंखला”।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">बाल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">एलिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">खारा ताल</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 18:18–19</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 15:12–13</a></p></li><li><p><a href=\"https://ref.ly/Jer46:18-Jer46:19\">यिर्मयाह 46:18–19</a></p></li><li><p><a href=\"https://ref.ly/Mic7:14-Mic7:15\">मीका 07:14–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3760, H3761, H3762</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09015012",
+          "start_ref_usfm": "1SA 15:12",
+          "end_ref": "09015012",
+          "end_ref_usfm": "1SA 15:12"
+        },
+        {
+          "start_ref": "24046018",
+          "start_ref_usfm": "JER 46:18",
+          "end_ref": "24046018",
+          "end_ref_usfm": "JER 46:18"
+        },
+        {
+          "start_ref": "11018018",
+          "start_ref_usfm": "1KI 18:18",
+          "end_ref": "11018019",
+          "end_ref_usfm": "1KI 18:19"
+        },
+        {
+          "start_ref": "33007014",
+          "start_ref_usfm": "MIC 7:14",
+          "end_ref": "33007015",
+          "end_ref_usfm": "MIC 7:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 179585,
+          "label": "बाल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 179771,
+          "label": "एलिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 180249,
+          "label": "खारा ताल",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

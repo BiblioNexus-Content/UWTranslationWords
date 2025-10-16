@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 237715,
+    "reference_id": 25580,
+    "title": "Centurião",
+    "media_type": "Text",
+    "index_reference": "centurião",
+    "language": "por",
+    "content": "<h1>centurião</h1><h2>Definição:</h2><p>Um centurião era um oficial do exército romano que tinha um grupo de 100 soldados sob seu comando.</p><ul><li><p>Isso também poderia ser traduzido com um termo que significa “líder de cem homens” ou “líder do exército” ou “oficial encarregado de cem”.</p></li><li><p>Um centurião romano veio a Jesus para pedir cura para seu servo.</p></li><li><p>O centurião encarregado da crucificação de Jesus ficou impressionado quando testemunhou como Jesus morreu.</p></li><li><p>Deus enviou um centurião a Pedro para que Pedro pudesse explicar a ele as boas novas sobre Jesus.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts10:1\">Atos 10.1</a></p></li><li><p><a href=\"https://ref.ly/Acts27:1\">Atos 27.1</a></p></li><li><p><a href=\"https://ref.ly/Acts27:42-Acts27:44\">Atos 27.42–44</a></p></li><li><p><a href=\"https://ref.ly/Luke7:4\">Lucas 7.4</a></p></li><li><p><a href=\"https://ref.ly/Luke23:47\">Lucas 23.47</a></p></li><li><p><a href=\"https://ref.ly/Mark15:39\">Marcos 15.39</a></p></li><li><p><a href=\"https://ref.ly/Matt8:7\">Mateus 8.7</a></p></li><li><p><a href=\"https://ref.ly/Matt27:54\">Mateus 27.54</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G15430, G27600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40008005",
+          "start_ref_usfm": "MAT 8:5",
+          "end_ref": "40008005",
+          "end_ref_usfm": "MAT 8:5"
+        },
+        {
+          "start_ref": "40008007",
+          "start_ref_usfm": "MAT 8:7",
+          "end_ref": "40008007",
+          "end_ref_usfm": "MAT 8:7"
+        },
+        {
+          "start_ref": "40008008",
+          "start_ref_usfm": "MAT 8:8",
+          "end_ref": "40008008",
+          "end_ref_usfm": "MAT 8:8"
+        },
+        {
+          "start_ref": "40008013",
+          "start_ref_usfm": "MAT 8:13",
+          "end_ref": "40008013",
+          "end_ref_usfm": "MAT 8:13"
+        },
+        {
+          "start_ref": "40027054",
+          "start_ref_usfm": "MAT 27:54",
+          "end_ref": "40027054",
+          "end_ref_usfm": "MAT 27:54"
+        },
+        {
+          "start_ref": "41015039",
+          "start_ref_usfm": "MRK 15:39",
+          "end_ref": "41015039",
+          "end_ref_usfm": "MRK 15:39"
+        },
+        {
+          "start_ref": "41015044",
+          "start_ref_usfm": "MRK 15:44",
+          "end_ref": "41015044",
+          "end_ref_usfm": "MRK 15:44"
+        },
+        {
+          "start_ref": "41015045",
+          "start_ref_usfm": "MRK 15:45",
+          "end_ref": "41015045",
+          "end_ref_usfm": "MRK 15:45"
+        },
+        {
+          "start_ref": "42007002",
+          "start_ref_usfm": "LUK 7:2",
+          "end_ref": "42007002",
+          "end_ref_usfm": "LUK 7:2"
+        },
+        {
+          "start_ref": "42007004",
+          "start_ref_usfm": "LUK 7:4",
+          "end_ref": "42007004",
+          "end_ref_usfm": "LUK 7:4"
+        },
+        {
+          "start_ref": "42007006",
+          "start_ref_usfm": "LUK 7:6",
+          "end_ref": "42007006",
+          "end_ref_usfm": "LUK 7:6"
+        },
+        {
+          "start_ref": "42023047",
+          "start_ref_usfm": "LUK 23:47",
+          "end_ref": "42023047",
+          "end_ref_usfm": "LUK 23:47"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010001",
+          "end_ref_usfm": "ACT 10:1"
+        },
+        {
+          "start_ref": "44010022",
+          "start_ref_usfm": "ACT 10:22",
+          "end_ref": "44010022",
+          "end_ref_usfm": "ACT 10:22"
+        },
+        {
+          "start_ref": "44021032",
+          "start_ref_usfm": "ACT 21:32",
+          "end_ref": "44021032",
+          "end_ref_usfm": "ACT 21:32"
+        },
+        {
+          "start_ref": "44022025",
+          "start_ref_usfm": "ACT 22:25",
+          "end_ref": "44022025",
+          "end_ref_usfm": "ACT 22:25"
+        },
+        {
+          "start_ref": "44022026",
+          "start_ref_usfm": "ACT 22:26",
+          "end_ref": "44022026",
+          "end_ref_usfm": "ACT 22:26"
+        },
+        {
+          "start_ref": "44023017",
+          "start_ref_usfm": "ACT 23:17",
+          "end_ref": "44023017",
+          "end_ref_usfm": "ACT 23:17"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "44024023",
+          "start_ref_usfm": "ACT 24:23",
+          "end_ref": "44024023",
+          "end_ref_usfm": "ACT 24:23"
+        },
+        {
+          "start_ref": "44027001",
+          "start_ref_usfm": "ACT 27:1",
+          "end_ref": "44027001",
+          "end_ref_usfm": "ACT 27:1"
+        },
+        {
+          "start_ref": "44027006",
+          "start_ref_usfm": "ACT 27:6",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
+        },
+        {
+          "start_ref": "44027011",
+          "start_ref_usfm": "ACT 27:11",
+          "end_ref": "44027011",
+          "end_ref_usfm": "ACT 27:11"
+        },
+        {
+          "start_ref": "44027031",
+          "start_ref_usfm": "ACT 27:31",
+          "end_ref": "44027031",
+          "end_ref_usfm": "ACT 27:31"
+        },
+        {
+          "start_ref": "44027043",
+          "start_ref_usfm": "ACT 27:43",
+          "end_ref": "44027043",
+          "end_ref_usfm": "ACT 27:43"
+        },
+        {
+          "start_ref": "44027042",
+          "start_ref_usfm": "ACT 27:42",
+          "end_ref": "44027044",
+          "end_ref_usfm": "ACT 27:44"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

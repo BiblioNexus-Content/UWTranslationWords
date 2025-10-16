@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466663,
+    "reference_id": 25484,
+    "title": "Ascalon",
+    "media_type": "Text",
+    "index_reference": "ascalon",
+    "language": "fra",
+    "content": "<h1>Ascalon</h1><h2>Définition :</h2><p>Dans les temps bibliques, Ascalon est une ville philistine majeure située sur la côte de la Mer Méditerranée* Il existe encore aujourd&apos;hui en Israël.</p><ul><li><p>Ascalon a été l&apos;une des cinq villes philistines les plus importantes, avec Asdod, Ekron, Gath, et Gaza.</p></li><li><p>Les Israélites ne conquièrent pas complètement le peuple d&apos;Ascalon, même si le royaume de Juda a occupé son pays de colline.</p></li><li><p>Ascalon est resté occupé par les Philistins depuis des centaines d&apos;années.</p></li></ul><p>(Voir aussi : (../names/ashdod.md), (../names/canaan.md), (../names/ekron.md), (../names/gath.md), (../names/gaza.md), (../names/philistines.md), (../names/mediterranean.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30001008",
+          "start_ref_usfm": "AMO 1:8",
+          "end_ref": "30001008",
+          "end_ref_usfm": "AMO 1:8"
+        },
+        {
+          "start_ref": "36002004",
+          "start_ref_usfm": "ZEP 2:4",
+          "end_ref": "36002004",
+          "end_ref_usfm": "ZEP 2:4"
+        },
+        {
+          "start_ref": "36002007",
+          "start_ref_usfm": "ZEP 2:7",
+          "end_ref": "36002007",
+          "end_ref_usfm": "ZEP 2:7"
+        },
+        {
+          "start_ref": "38009005",
+          "start_ref_usfm": "ZEC 9:5",
+          "end_ref": "38009005",
+          "end_ref_usfm": "ZEC 9:5"
+        },
+        {
+          "start_ref": "07001018",
+          "start_ref_usfm": "JDG 1:18",
+          "end_ref": "07001019",
+          "end_ref_usfm": "JDG 1:19"
+        },
+        {
+          "start_ref": "06013002",
+          "start_ref_usfm": "JOS 13:2",
+          "end_ref": "06013003",
+          "end_ref_usfm": "JOS 13:3"
+        },
+        {
+          "start_ref": "09006017",
+          "start_ref_usfm": "1SA 6:17",
+          "end_ref": "09006018",
+          "end_ref_usfm": "1SA 6:18"
+        },
+        {
+          "start_ref": "24025019",
+          "start_ref_usfm": "JER 25:19",
+          "end_ref": "24025021",
+          "end_ref_usfm": "JER 25:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 466660,
+          "label": "Asdod",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25691,
+          "content_id": 466851,
+          "label": "Ekron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 466919,
+          "label": "Gath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25769,
+          "content_id": 466920,
+          "label": "Gaza",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 467143,
+          "label": "La mer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

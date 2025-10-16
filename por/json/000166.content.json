@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 238126,
+    "reference_id": 25996,
+    "title": "Casamento",
+    "media_type": "Text",
+    "index_reference": "casamento",
+    "language": "por",
+    "content": "<h1>casamento, casar, casado, matrimônio</h1><h2>Definição:</h2><p>O termo “casamento” refere-se à união formal entre um homem e uma mulher na qual eles são unidos em um relacionamento reconhecido publicamente e, frequentemente, legalmente reconhecido.</p><ul><li><p>O relacionamento de casamento originou-se com Deus. Deus instituiu o relacionamento de casamento e ele introduziu o primeiro casamento entre Adão e Eva.</p></li><li><p>Deus instituiu o casamento por várias razões. Algumas das razões pelas quais Deus instituiu o casamento são para que os filhos tenham um ambiente saudável e seguro no qual possam ser criados, para que as pessoas tenham uma demonstração terrena visível de seu relacionamento com seu povo do pacto e, para que homens e mulheres que são casados possam ajudar-se mutuamente e complementar as forças e fraquezas uns dos outros.</p></li><li><p>Em uma cerimônia de casamento (chamada de “matrimônio”) o noivo é o <strong>homem</strong> que se casará com a noiva (a <strong>mulher</strong>).</p></li><li><p>A Bíblia ensina que o casamento não deve ser proibido.</p></li><li><p>Deus proíbe estritamente o adultério tanto no Antigo quanto no Novo Testamento.</p></li><li><p>O Novo Testamento ensina que as pessoas que acreditam em Jesus não devem se casar com descrentes.</p></li><li><p>Jesus ensinou que não haverá casamento no céu.</p></li></ul><h2>Sugestões de Tradução:</h2><p>Use o termo que seu idioma emprega para se referir ao relacionamento de casamento entre um homem e uma mulher.</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25558\" data-resourceType=\"UWTranslationWords\">noivo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25557\" data-resourceType=\"UWTranslationWords\">noiva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25433\" data-resourceType=\"UWTranslationWords\">adultério</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25717\" data-resourceType=\"UWTranslationWords\">Eva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">Adão</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 237567,
+          "label": "Adão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25433,
+          "content_id": 237571,
+          "label": "Adultério",
+          "language": "por"
+        },
+        {
+          "reference_id": 25557,
+          "content_id": 237692,
+          "label": "Noiva",
+          "language": "por"
+        },
+        {
+          "reference_id": 25558,
+          "content_id": 237693,
+          "label": "Noivo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25717,
+          "content_id": 237850,
+          "label": "Eva",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

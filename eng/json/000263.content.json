@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26535,
+    "reference_id": 25677,
+    "title": "Dominion",
+    "media_type": "Text",
+    "index_reference": "dominion",
+    "language": "eng",
+    "content": "<h1>dominion</h1><h2>Definition:</h2><p>The term “dominion” refers to power, control, or authority over people, animals, or land.</p><ul><li><p>Jesus Christ is said to have dominion over all the earth, as prophet, priest, and king.</p></li><li><p>Satan’s dominion has been defeated forever by Jesus Christ’s death on the cross.</p></li><li><p>At creation, God said that man is to have dominion over fish, birds, and all creatures on the earth.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, other ways to translate this term could include “authority” or “power” or “control.”</p></li><li><p>The phrase “have dominion over” could be translated as “rule over” or “manage.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">authority</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">power</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Pet5:10-1Pet5:11\">1 Peter 5:10–11</a></p></li><li><p><a href=\"https://ref.ly/Col1:13\">Colossians 1:13</a></p></li><li><p><a href=\"https://ref.ly/Jude1:25\">Jude 1:25</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1166, H4474, H4475, H4896, H4910, H4915, H7287, H7300, H7980, H7985, G26340, G29040, G29610, G29630</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001026",
+          "end_ref_usfm": "GEN 1:26"
+        },
+        {
+          "start_ref": "01001028",
+          "start_ref_usfm": "GEN 1:28",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        },
+        {
+          "start_ref": "01003016",
+          "start_ref_usfm": "GEN 3:16",
+          "end_ref": "01003016",
+          "end_ref_usfm": "GEN 3:16"
+        },
+        {
+          "start_ref": "01004007",
+          "start_ref_usfm": "GEN 4:7",
+          "end_ref": "01004007",
+          "end_ref_usfm": "GEN 4:7"
+        },
+        {
+          "start_ref": "01024002",
+          "start_ref_usfm": "GEN 24:2",
+          "end_ref": "01024002",
+          "end_ref_usfm": "GEN 24:2"
+        },
+        {
+          "start_ref": "01037008",
+          "start_ref_usfm": "GEN 37:8",
+          "end_ref": "01037008",
+          "end_ref_usfm": "GEN 37:8"
+        },
+        {
+          "start_ref": "18025002",
+          "start_ref_usfm": "JOB 25:2",
+          "end_ref": "18025002",
+          "end_ref_usfm": "JOB 25:2"
+        },
+        {
+          "start_ref": "49001021",
+          "start_ref_usfm": "EPH 1:21",
+          "end_ref": "49001021",
+          "end_ref_usfm": "EPH 1:21"
+        },
+        {
+          "start_ref": "51001013",
+          "start_ref_usfm": "COL 1:13",
+          "end_ref": "51001013",
+          "end_ref_usfm": "COL 1:13"
+        },
+        {
+          "start_ref": "51001016",
+          "start_ref_usfm": "COL 1:16",
+          "end_ref": "51001016",
+          "end_ref_usfm": "COL 1:16"
+        },
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        },
+        {
+          "start_ref": "60005010",
+          "start_ref_usfm": "1PE 5:10",
+          "end_ref": "60005011",
+          "end_ref_usfm": "1PE 5:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 26350,
+          "label": "Authority",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

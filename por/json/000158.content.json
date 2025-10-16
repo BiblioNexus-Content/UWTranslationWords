@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237710,
+    "reference_id": 25575,
+    "title": "Carmelo",
+    "media_type": "Text",
+    "index_reference": "carmelo",
+    "language": "por",
+    "content": "<h1>Carmelo, Monte Carmelo</h1><h2>Fatos:</h2><p>“Monte Carmelo” refere-se a uma cadeia de montanhas localizada ao longo da costa do Mar Mediterrâneo, ao norte da Planície de Sarom. Seu pico mais alto tem 546 metros de altura.</p><ul><li><p>Havia também uma cidade chamada “Carmelo” localizada em Judá, ao sul do Mar Salgado.</p></li><li><p>O rico proprietário de terras Nabal e sua esposa Abigail viviam perto da cidade de Carmelo, onde Davi e seus homens ajudaram a proteger os tosquiadores de ovelhas de Nabal.</p></li><li><p>No Monte Carmelo, Elias desafiou os profetas de Baal a uma competição para provar que Yahweh é o único Deus verdadeiro.</p></li><li><p>Para deixar claro que não se tratava apenas de uma única montanha, “Monte Carmelo” poderia ser traduzido como “montanha na cadeia de montanhas do Carmelo” ou “cadeia de montanhas do Carmelo.”</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Mar Salgado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs18:18-1Kgs18:19\">1 Reis 18.18–19</a></p></li><li><p><a href=\"https://ref.ly/1Sam15:12\">1 Samuel 15.12</a></p></li><li><p><a href=\"https://ref.ly/Jer46:18\">Jeremias 46.18</a></p></li><li><p><a href=\"https://ref.ly/Mic7:14-Mic7:15\">Miqueias 7.14–15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3760, H3761, H3762</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09015012",
+          "start_ref_usfm": "1SA 15:12",
+          "end_ref": "09015012",
+          "end_ref_usfm": "1SA 15:12"
+        },
+        {
+          "start_ref": "24046018",
+          "start_ref_usfm": "JER 46:18",
+          "end_ref": "24046018",
+          "end_ref_usfm": "JER 46:18"
+        },
+        {
+          "start_ref": "11018018",
+          "start_ref_usfm": "1KI 18:18",
+          "end_ref": "11018019",
+          "end_ref_usfm": "1KI 18:19"
+        },
+        {
+          "start_ref": "33007014",
+          "start_ref_usfm": "MIC 7:14",
+          "end_ref": "33007015",
+          "end_ref_usfm": "MIC 7:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 238320,
+          "label": "Mar Salgado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

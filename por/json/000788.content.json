@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 238299,
+    "reference_id": 26169,
+    "title": "Renome",
+    "media_type": "Text",
+    "index_reference": "renome",
+    "language": "por",
+    "content": "<h1>renome, renomado, famoso</h1><h2>Definição:</h2><p>O termo “renome” refere-se à grandeza associada a ser bem conhecido e ter uma reputação louvável. Algo ou alguém é “renomado” se tem renome.</p><ul><li><p>Uma pessoa “renomada” é alguém que é bem conhecido e altamente estimado.</p></li><li><p>“Renome” refere-se especialmente a uma boa reputação que é amplamente conhecida por um longo período de tempo.</p></li><li><p>Uma cidade que é “renomada” é frequentemente bem conhecida por sua riqueza e prosperidade.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo “renome” também poderia ser traduzido como “fama” ou “reputação estimada” ou “grandeza que é bem conhecida por muitas pessoas”.</p></li><li><p>O termo “renomado” também poderia ser traduzido como “bem conhecido e altamente estimado” ou “tendo uma excelente reputação”.</p></li><li><p>A expressão “Que o nome do Senhor seja renomado em Israel” poderia ser traduzida como “Que o nome do Senhor seja bem conhecido e honrado pelo povo de Israel”.</p></li><li><p>A frase “homens de renome” poderia ser traduzida como “homens bem conhecidos por sua coragem” ou “guerreiros famosos” ou “homens altamente estimados”.</p></li><li><p>A expressão “teu renome dura por todas as gerações” poderia ser traduzida como “ao longo dos anos as pessoas ouvirão sobre quão grande você é” ou “sua grandeza é vista e ouvida por pessoas de todas as gerações”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honra</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen6:4\">Gênesis 6.4</a></p></li><li><p><a href=\"https://ref.ly/Ps135:12-Ps135:14\">Salmos 135.12–14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1984, H7121, H8034</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "19135012",
+          "start_ref_usfm": "PSA 135:12",
+          "end_ref": "19135014",
+          "end_ref_usfm": "PSA 135:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25846,
+          "content_id": 237979,
+          "label": "Honra",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

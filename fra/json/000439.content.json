@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 467046,
+    "reference_id": 25901,
+    "title": "Jethro",
+    "media_type": "Text",
+    "index_reference": "jethro",
+    "language": "fra",
+    "content": "<h1>Jethro, Reuel</h1><h2>Définition :</h2><p>&quot;Les noms Jethro et Reuel ont tous deux été utilisés pour désigner le père de la femme de Moïse, Séphora* Il est possible que Reuel était son nom de clan.</p><ul><li><p>Quand Moïse était un berger dans le pays de Madian, il épousa la fille d&apos;un homme nommé Reuel, madianite* Il a ensuite été appelé «Jéthro, sacrificateur de Madian*&quot;</p></li><li><p>Une fois, quand Moïse faisait paître le troupeau de Jéthro, Dieu lui a parlé à partir d&apos;un buisson ardent.</p></li><li><p>Quelque temps plus tard, après que Dieu eut sauvé les Israélites d&apos;Egypte, Jethro sortit à la rencontre de Moïse dans le désert et lui donna de bons conseils sur comment juger les affaires du peuple.</p></li><li><p>Jethro crut en Dieu quand il a entendu parler de tous les miracles que Dieu avait fait en Egypte.</p></li><li><p>L&apos;Ancien Testament enregistre plusieurs autres hommes avec le nom Reuel, dont l&apos;un des fils d&apos;Esaü* Certains traducteurs peuvent décider d&apos;écrire le nom différemment pour chacun de ces hommes, pour faire comprendre qu&apos;ils étaient des personnes différentes.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/captive.md), (../other/clan.md), (../other/desert.md), (../names/egypt.md), (../names/esau.md), (../kt/miracle.md), (../names/moses.md), (../other/desert.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02002018",
+          "start_ref_usfm": "EXO 2:18",
+          "end_ref": "02002018",
+          "end_ref_usfm": "EXO 2:18"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02004018",
+          "start_ref_usfm": "EXO 4:18",
+          "end_ref": "02004018",
+          "end_ref_usfm": "EXO 4:18"
+        },
+        {
+          "start_ref": "02018001",
+          "start_ref_usfm": "EXO 18:1",
+          "end_ref": "02018001",
+          "end_ref_usfm": "EXO 18:1"
+        },
+        {
+          "start_ref": "02018002",
+          "start_ref_usfm": "EXO 18:2",
+          "end_ref": "02018002",
+          "end_ref_usfm": "EXO 18:2"
+        },
+        {
+          "start_ref": "02018003",
+          "start_ref_usfm": "EXO 18:3",
+          "end_ref": "02018003",
+          "end_ref_usfm": "EXO 18:3"
+        },
+        {
+          "start_ref": "02018005",
+          "start_ref_usfm": "EXO 18:5",
+          "end_ref": "02018005",
+          "end_ref_usfm": "EXO 18:5"
+        },
+        {
+          "start_ref": "02018006",
+          "start_ref_usfm": "EXO 18:6",
+          "end_ref": "02018006",
+          "end_ref_usfm": "EXO 18:6"
+        },
+        {
+          "start_ref": "02018009",
+          "start_ref_usfm": "EXO 18:9",
+          "end_ref": "02018009",
+          "end_ref_usfm": "EXO 18:9"
+        },
+        {
+          "start_ref": "02018010",
+          "start_ref_usfm": "EXO 18:10",
+          "end_ref": "02018010",
+          "end_ref_usfm": "EXO 18:10"
+        },
+        {
+          "start_ref": "02018012",
+          "start_ref_usfm": "EXO 18:12",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "04010029",
+          "start_ref_usfm": "NUM 10:29",
+          "end_ref": "04010029",
+          "end_ref_usfm": "NUM 10:29"
+        },
+        {
+          "start_ref": "02002018",
+          "start_ref_usfm": "EXO 2:18",
+          "end_ref": "02002020",
+          "end_ref_usfm": "EXO 2:20"
+        },
+        {
+          "start_ref": "13001034",
+          "start_ref_usfm": "1CH 1:34",
+          "end_ref": "13001037",
+          "end_ref_usfm": "1CH 1:37"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003003",
+          "end_ref_usfm": "EXO 3:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25574,
+          "content_id": 466742,
+          "label": "Captif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25595,
+          "content_id": 466763,
+          "label": "Clan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26022,
+          "content_id": 467159,
+          "label": "Miracle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

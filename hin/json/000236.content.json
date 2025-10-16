@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179855,
+    "reference_id": 25784,
+    "title": "गिर्गाशियों",
+    "media_type": "Text",
+    "index_reference": "गिर्गाशियों",
+    "language": "hin",
+    "content": "<h1>गिर्गाशियों</h1><h2>तथ्य:</h2><p>कनान देश में गलील सागर के तट पर रहनेवाली एक जाति को गिर्गाशी कहते थे।</p><ul><li><p>वे हाम के पुत्र कनान के वंशज थे, अतः वे कनानी कहलानेवाली अनेक जातियों में से एक थे।</p></li><li><p>परमेश्वर ने इस्राएलियों से प्रतिज्ञा की थी कि वह गिर्गाशियों तथा अन्य सब कनानी जातियों को हराने में उनकी सहायता करेगा।</p></li><li><p>अन्य कनानियों के समान गिर्गाशी भी मूर्तिपूजक थे और मूर्तिपूजा के भाग के रूप में अनैतिक काम करते थे।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span> , <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">हाम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">नूह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 1:14</a></p></li><li><p><a href=\"https://ref.ly/Deut7:1\">व्यवस्थाविवरण 7:1</a></p></li><li><p><a href=\"https://ref.ly/Gen10:16\">उत्पत्ति 10:16</a></p></li><li><p><a href=\"https://ref.ly/Josh3:9-Josh3:11\">यहोशू 3:9–11</a></p></li><li><p><a href=\"https://ref.ly/Josh24:11-Josh24:12\">यहोशू 24:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1622</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010016",
+          "start_ref_usfm": "GEN 10:16",
+          "end_ref": "01010016",
+          "end_ref_usfm": "GEN 10:16"
+        },
+        {
+          "start_ref": "01015021",
+          "start_ref_usfm": "GEN 15:21",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007001",
+          "end_ref_usfm": "DEU 7:1"
+        },
+        {
+          "start_ref": "13001014",
+          "start_ref_usfm": "1CH 1:14",
+          "end_ref": "13001014",
+          "end_ref_usfm": "1CH 1:14"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "06003009",
+          "start_ref_usfm": "JOS 3:9",
+          "end_ref": "06003011",
+          "end_ref_usfm": "JOS 3:11"
+        },
+        {
+          "start_ref": "06024011",
+          "start_ref_usfm": "JOS 24:11",
+          "end_ref": "06024012",
+          "end_ref_usfm": "JOS 24:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 179884,
+          "label": "हाम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 180118,
+          "label": "नूह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

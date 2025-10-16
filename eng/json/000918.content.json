@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 27191,
+    "reference_id": 26333,
+    "title": "Vashti",
+    "media_type": "Text",
+    "index_reference": "vashti",
+    "language": "eng",
+    "content": "<h1>Vashti</h1><h2>Facts:</h2><p>In the Old Testament book of Esther, Vashti was the wife of Ahasuerus, king of Persia.</p><ul><li><p>King Ahasuerus sent Queen Vashti away when she refused to obey his order to come to his dinner party and show off her beauty to his drunken guests.</p></li><li><p>As a result, a search went out for a new queen and eventually Esther was chosen to be the king’s new wife.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Ahasuerus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Esther</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Persia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Esth1:9-Esth1:11\">Esther 1:9–11</a></p></li><li><p><a href=\"https://ref.ly/Esth2:1-Esth2:2\">Esther 2:1–2</a></p></li><li><p><a href=\"https://ref.ly/Esth2:17-Esth2:18\">Esther 2:17–18</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17001009",
+          "start_ref_usfm": "EST 1:9",
+          "end_ref": "17001011",
+          "end_ref_usfm": "EST 1:11"
+        },
+        {
+          "start_ref": "17002001",
+          "start_ref_usfm": "EST 2:1",
+          "end_ref": "17002002",
+          "end_ref_usfm": "EST 2:2"
+        },
+        {
+          "start_ref": "17002017",
+          "start_ref_usfm": "EST 2:17",
+          "end_ref": "17002018",
+          "end_ref_usfm": "EST 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 26297,
+          "label": "Ahasuerus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 26569,
+          "label": "Esther",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 26949,
+          "label": "Persia",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

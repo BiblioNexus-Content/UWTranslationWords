@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238434,
+    "reference_id": 26305,
+    "title": "Tirza",
+    "media_type": "Text",
+    "index_reference": "tirza",
+    "language": "por",
+    "content": "<h1>Tirza</h1><h2>Fatos:</h2><p>Tirza era uma importante cidade cananeia que foi conquistada pelos israelitas. Também era o nome de uma filha de Gileade, um descendente de Manassés.</p><ul><li><p>A cidade de Tirza estava localizada na região ocupada pela tribo de Manassés. Pensa-se que a cidade ficava cerca de 16 km ao norte da cidade de Siquém.</p></li><li><p>Anos depois, Tirza se tornou uma capital temporária do reino do norte de Israel, durante os reinados de quatro reis de Israel.</p></li><li><p>Tirza também era o nome de uma das netas de Manassés. Elas pediram para receber uma porção da terra, já que seu pai havia morrido e ele não tinha filhos para herdá-la, como seria normalmente o costume.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">herdar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manassés</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26223\" data-resourceType=\"UWTranslationWords\">Siquém</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Num27:1\">Números 27.1</a></p></li><li><p><a href=\"https://ref.ly/Num36:11\">Números 36.11</a></p></li><li><p><a href=\"https://ref.ly/Song6:4\">Cântico dos Cânticos 6.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8656</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04027001",
+          "start_ref_usfm": "NUM 27:1",
+          "end_ref": "04027001",
+          "end_ref_usfm": "NUM 27:1"
+        },
+        {
+          "start_ref": "04036011",
+          "start_ref_usfm": "NUM 36:11",
+          "end_ref": "04036011",
+          "end_ref_usfm": "NUM 36:11"
+        },
+        {
+          "start_ref": "22006004",
+          "start_ref_usfm": "SNG 6:4",
+          "end_ref": "22006004",
+          "end_ref_usfm": "SNG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 238000,
+          "label": "Herdar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 238123,
+          "label": "Manassés",
+          "language": "por"
+        },
+        {
+          "reference_id": 26223,
+          "content_id": 238352,
+          "label": "Siquém",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467351,
+    "reference_id": 26236,
+    "title": "Silas",
+    "media_type": "Text",
+    "index_reference": "silas",
+    "language": "fra",
+    "content": "<h1>Silas, Silvanus</h1><h2>Données :</h2><p>Silas était un dirigeant parmi les croyants de Jérusalem.</p><ul><li><p>Les anciens de l&apos;église de Jérusalem ont nommé Silas pour accompagner Paul et Barnabas qui apportaient une lettre à la ville d&apos;Antioche.</p></li><li><p>Silas s&apos;est ensuite rendu avec Paul dans d&apos;autres villes pour enseigner les gens à propos de Jésus.</p></li><li><p>Paul et Silas ont été mis en prison dans la ville de Philippes. Ils ont chanté des louanges à Dieu pendant qu&apos;ils étaient là et Dieu les a libérés de la prison. Le geôlier est devenu chrétien à la suite de leur témoignage.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/antioch.md), (../names/barnabas.md), (../names/jerusalem.md), (../names/paul.md), (../names/philippi.md), (../other/prison.md), (../kt/testimony.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44015022",
+          "start_ref_usfm": "ACT 15:22",
+          "end_ref": "44015022",
+          "end_ref_usfm": "ACT 15:22"
+        },
+        {
+          "start_ref": "44015027",
+          "start_ref_usfm": "ACT 15:27",
+          "end_ref": "44015027",
+          "end_ref_usfm": "ACT 15:27"
+        },
+        {
+          "start_ref": "44015032",
+          "start_ref_usfm": "ACT 15:32",
+          "end_ref": "44015032",
+          "end_ref_usfm": "ACT 15:32"
+        },
+        {
+          "start_ref": "44015040",
+          "start_ref_usfm": "ACT 15:40",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "44016019",
+          "start_ref_usfm": "ACT 16:19",
+          "end_ref": "44016019",
+          "end_ref_usfm": "ACT 16:19"
+        },
+        {
+          "start_ref": "44016025",
+          "start_ref_usfm": "ACT 16:25",
+          "end_ref": "44016025",
+          "end_ref_usfm": "ACT 16:25"
+        },
+        {
+          "start_ref": "44016029",
+          "start_ref_usfm": "ACT 16:29",
+          "end_ref": "44016029",
+          "end_ref_usfm": "ACT 16:29"
+        },
+        {
+          "start_ref": "44017004",
+          "start_ref_usfm": "ACT 17:4",
+          "end_ref": "44017004",
+          "end_ref_usfm": "ACT 17:4"
+        },
+        {
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017010",
+          "end_ref_usfm": "ACT 17:10"
+        },
+        {
+          "start_ref": "44017014",
+          "start_ref_usfm": "ACT 17:14",
+          "end_ref": "44017014",
+          "end_ref_usfm": "ACT 17:14"
+        },
+        {
+          "start_ref": "44017015",
+          "start_ref_usfm": "ACT 17:15",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        },
+        {
+          "start_ref": "44018005",
+          "start_ref_usfm": "ACT 18:5",
+          "end_ref": "44018005",
+          "end_ref_usfm": "ACT 18:5"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "60005012",
+          "start_ref_usfm": "1PE 5:12",
+          "end_ref": "60005012",
+          "end_ref_usfm": "1PE 5:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25464,
+          "content_id": 466644,
+          "label": "Antioche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25506,
+          "content_id": 466684,
+          "label": "Barnabas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26097,
+          "content_id": 467221,
+          "label": "Philippes",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 467407,
+          "label": "Témoignage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

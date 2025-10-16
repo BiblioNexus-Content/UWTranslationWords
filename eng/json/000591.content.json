@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26864,
+    "reference_id": 26006,
+    "title": "Mediterranean",
+    "media_type": "Text",
+    "index_reference": "mediterranean",
+    "language": "eng",
+    "content": "<h1>the sea, the Great Sea, the western sea, Mediterranean Sea</h1><h2>Facts:</h2><p>In the Bible, the “Great Sea” or “western sea” refers to what is now called the “Mediterranean Sea,” which was the largest body of water known to the people of Bible times.</p><ul><li><p>The Mediterranean Sea is bordered by: Israel (east), Europe (north and west), and Africa (south).</p></li><li><p>This sea was very important in ancient times for trade and travel since it bordered so many countries. Cities and people groups located on the coast of this sea were very prosperous because of how easy it was to access goods from other countries by boat.</p></li><li><p>Since the Great Sea was located to the west of Israel, it was sometimes referred to as the “western sea.”</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26083\" data-resourceType=\"UWTranslationWords\">people group</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26131\" data-resourceType=\"UWTranslationWords\">prosper</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek47:15-Ezek47:17\">Ezekiel 47:15–17</a></p></li><li><p><a href=\"https://ref.ly/Ezek47:18-Ezek47:20\">Ezekiel 47:18–20</a></p></li><li><p><a href=\"https://ref.ly/Josh15:3-Josh15:4\">Joshua 15:3–4</a></p></li><li><p><a href=\"https://ref.ly/Num13:27-Num13:29\">Numbers 13:27–29</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0314, H1419, H3220</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02023031",
+          "start_ref_usfm": "EXO 23:31",
+          "end_ref": "02023031",
+          "end_ref_usfm": "EXO 23:31"
+        },
+        {
+          "start_ref": "44010006",
+          "start_ref_usfm": "ACT 10:6",
+          "end_ref": "44010006",
+          "end_ref_usfm": "ACT 10:6"
+        },
+        {
+          "start_ref": "44010032",
+          "start_ref_usfm": "ACT 10:32",
+          "end_ref": "44010032",
+          "end_ref_usfm": "ACT 10:32"
+        },
+        {
+          "start_ref": "44017014",
+          "start_ref_usfm": "ACT 17:14",
+          "end_ref": "44017014",
+          "end_ref_usfm": "ACT 17:14"
+        },
+        {
+          "start_ref": "44027030",
+          "start_ref_usfm": "ACT 27:30",
+          "end_ref": "44027030",
+          "end_ref_usfm": "ACT 27:30"
+        },
+        {
+          "start_ref": "44027038",
+          "start_ref_usfm": "ACT 27:38",
+          "end_ref": "44027038",
+          "end_ref_usfm": "ACT 27:38"
+        },
+        {
+          "start_ref": "44027040",
+          "start_ref_usfm": "ACT 27:40",
+          "end_ref": "44027040",
+          "end_ref_usfm": "ACT 27:40"
+        },
+        {
+          "start_ref": "44028004",
+          "start_ref_usfm": "ACT 28:4",
+          "end_ref": "44028004",
+          "end_ref_usfm": "ACT 28:4"
+        },
+        {
+          "start_ref": "06015003",
+          "start_ref_usfm": "JOS 15:3",
+          "end_ref": "06015004",
+          "end_ref_usfm": "JOS 15:4"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        },
+        {
+          "start_ref": "04013027",
+          "start_ref_usfm": "NUM 13:27",
+          "end_ref": "04013029",
+          "end_ref_usfm": "NUM 13:29"
+        },
+        {
+          "start_ref": "26047018",
+          "start_ref_usfm": "EZK 47:18",
+          "end_ref": "26047020",
+          "end_ref_usfm": "EZK 47:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26083,
+          "content_id": 26941,
+          "label": "People Group",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26131,
+          "content_id": 26989,
+          "label": "Prosper",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

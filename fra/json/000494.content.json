@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467371,
+    "reference_id": 26256,
+    "title": "Lance",
+    "media_type": "Text",
+    "index_reference": "lance",
+    "language": "fra",
+    "content": "<h1>lance</h1><h2>Définition :</h2><p>Une lance est une arme avec un long manche et une lame pointue à une des extrémités*Elle peut etre jetée sur une longue distance.</p><ul><li><p>les lances ont été couramment utilisées pour la guerre dans les temps bibliques* Elles sont parfois encore utilisées dans les conflits entre des groupes de personnes.</p></li><li><p>Une lance a été utilisée par un soldat romain pour percer le côté de Jésus alors qu&apos;il était sur la croix.</p></li><li><p>Parfois, les gens jettent des lances pour attraper des poissons ou d&apos;autres proies à manger.</p></li></ul><p>(Voir aussi : (../other/prey.md), (../names/rome.md), (../other/sword.md), (../other/warrior.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10021019",
+          "start_ref_usfm": "2SA 21:19",
+          "end_ref": "10021019",
+          "end_ref_usfm": "2SA 21:19"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "16004021",
+          "start_ref_usfm": "NEH 4:21",
+          "end_ref": "16004021",
+          "end_ref_usfm": "NEH 4:21"
+        },
+        {
+          "start_ref": "19035003",
+          "start_ref_usfm": "PSA 35:3",
+          "end_ref": "19035003",
+          "end_ref_usfm": "PSA 35:3"
+        },
+        {
+          "start_ref": "43019034",
+          "start_ref_usfm": "JHN 19:34",
+          "end_ref": "43019034",
+          "end_ref_usfm": "JHN 19:34"
+        },
+        {
+          "start_ref": "09013019",
+          "start_ref_usfm": "1SA 13:19",
+          "end_ref": "09013021",
+          "end_ref_usfm": "1SA 13:21"
+        },
+        {
+          "start_ref": "16004012",
+          "start_ref_usfm": "NEH 4:12",
+          "end_ref": "16004014",
+          "end_ref_usfm": "NEH 4:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26120,
+          "content_id": 467243,
+          "label": "Proies",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26275,
+          "content_id": 467389,
+          "label": "Épée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26340,
+          "content_id": 467448,
+          "label": "Guerrier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

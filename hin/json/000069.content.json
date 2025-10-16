@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179529,
+    "reference_id": 25440,
+    "title": "अहाज",
+    "media_type": "Text",
+    "index_reference": "अहाज",
+    "language": "hin",
+    "content": "<h1>अहाज</h1><h2>परिभाषा:</h2><p>अहाज एक दुष्ट राजा था जिसने यहूदा पर 732 से 716 ई.पू. तक राज किया था। यह समय इस्राएल और यहूदा के अनेक निवासियों को बेबीलोन की बन्धुआई में ले जाने से लगभग 140 वर्ष पूर्व का था।</p><ul><li><p>जब वह यहूदा में राज कर रहा था उसने अश्शूरों के देवता के लिए एक वेदी बनवाई थी, परिणामस्वरूप प्रजा एकमात्र सच्चे परमेश्वर यहोवा से विमुख हो गई थी।</p></li><li><p>राजा अहाज 20 वर्ष की आयु में यहूदा के सिंहासन पर बैठा था और उसने 16 वर्ष राज किया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बेबीलोन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 08:35–37</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 28:1–2</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 16:19–20</a></p></li><li><p><a href=\"https://ref.ly/Hos1:1-Hos1:2\">होशे 01:1–2</a></p></li><li><p><a href=\"https://ref.ly/Isa1:1\">यशायाह 01:1</a></p></li><li><p><a href=\"https://ref.ly/Isa7:3-Isa7:4\">यशायाह 07:3–4</a></p></li><li><p><a href=\"https://ref.ly/Matt1:9-Matt1:11\">मत्ती 01:9–11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H271</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14028001",
+          "start_ref_usfm": "2CH 28:1",
+          "end_ref": "14028001",
+          "end_ref_usfm": "2CH 28:1"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23007004",
+          "start_ref_usfm": "ISA 7:4",
+          "end_ref": "23007004",
+          "end_ref_usfm": "ISA 7:4"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "13008035",
+          "start_ref_usfm": "1CH 8:35",
+          "end_ref": "13008037",
+          "end_ref_usfm": "1CH 8:37"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

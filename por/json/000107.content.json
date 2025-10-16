@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237632,
+    "reference_id": 25496,
+    "title": "Azarias",
+    "media_type": "Text",
+    "index_reference": "azarias",
+    "language": "por",
+    "content": "<h1>Azarias</h1><h2>Fatos:</h2><p>Azarias foi o nome de vários homens no Antigo Testamento.</p><ul><li><p>Um Azarias é mais conhecido pelo seu nome babilônico, Abede-Nego. Ele foi um dos muitos israelitas de Judá que foram capturados pelo exército de Nabucodonosor e levados para viver na Babilônia. Azarias e seus companheiros israelitas Hananias e Misael se recusaram a adorar o rei babilônico, então ele os jogou em uma fornalha ardente como punição. Mas Deus os protegeu e eles não foram feridos.</p></li><li><p>O rei Uzias de Judá também era conhecido como “Azarias”.</p></li><li><p>Outro Azarias foi um sumo sacerdote do Antigo Testamento.</p></li><li><p>Na época do profeta Jeremias, um homem chamado Azarias incitou erroneamente os israelitas a desobedecerem a Deus, deixando sua terra natal.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">Hananias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26024\" data-resourceType=\"UWTranslationWords\">Misael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">Uzias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr2:38\">1 Crônicas 2.38</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:2\">1 Reis 4.2</a></p></li><li><p><a href=\"https://ref.ly/2Chr15:1\">2 Crônicas 15.1</a></p></li><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">Daniel 1.6–7</a></p></li><li><p><a href=\"https://ref.ly/Jer43:2\">Jeremias 43.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5838</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004002",
+          "start_ref_usfm": "1KI 4:2",
+          "end_ref": "11004002",
+          "end_ref_usfm": "1KI 4:2"
+        },
+        {
+          "start_ref": "13002038",
+          "start_ref_usfm": "1CH 2:38",
+          "end_ref": "13002038",
+          "end_ref_usfm": "1CH 2:38"
+        },
+        {
+          "start_ref": "14015001",
+          "start_ref_usfm": "2CH 15:1",
+          "end_ref": "14015001",
+          "end_ref_usfm": "2CH 15:1"
+        },
+        {
+          "start_ref": "24043002",
+          "start_ref_usfm": "JER 43:2",
+          "end_ref": "24043002",
+          "end_ref_usfm": "JER 43:2"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 237949,
+          "label": "Hananias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 238028,
+          "label": "Jeremias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26024,
+          "content_id": 238154,
+          "label": "Misael",
+          "language": "por"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 238457,
+          "label": "Uzias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

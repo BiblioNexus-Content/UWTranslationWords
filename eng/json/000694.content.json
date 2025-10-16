@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26968,
+    "reference_id": 26110,
+    "title": "Plow",
+    "media_type": "Text",
+    "index_reference": "plow",
+    "language": "eng",
+    "content": "<h1>plow, plowed, plowers, plowman, plowshares, unplowed</h1><h2>Definition:</h2><p>A “plow” is a farm tool that is used for breaking up soil to prepare a field for planting.</p><ul><li><p>Plows have sharp, pointed prongs that dig into the soil. They usually have handles that the farmer uses to guide the plow.</p></li><li><p>In Bible times, plows were usually pulled by a pair of oxen or other work animals.</p></li><li><p>Most plows were made of hard wood, except for the sharp points which were made of a metal, such as bronze or iron.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25559\" data-resourceType=\"UWTranslationWords\">bronze</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25623\" data-resourceType=\"UWTranslationWords\">ox</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam8:10-1Sam8:12\">1 Samuel 8:10–12</a></p></li><li><p><a href=\"https://ref.ly/Deut21:4\">Deuteronomy 21:4</a></p></li><li><p><a href=\"https://ref.ly/Luke9:62\">Luke 9:62</a></p></li><li><p><a href=\"https://ref.ly/Luke17:7\">Luke 17:7</a></p></li><li><p><a href=\"https://ref.ly/Ps141:5-Ps141:7\">Psalm 141:5–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0406, H0855, H2758, H2790, H5215, H5647, H5656, H5674, H6213, H6398, G07220, G07230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01045006",
+          "start_ref_usfm": "GEN 45:6",
+          "end_ref": "01045006",
+          "end_ref_usfm": "GEN 45:6"
+        },
+        {
+          "start_ref": "02034021",
+          "start_ref_usfm": "EXO 34:21",
+          "end_ref": "02034021",
+          "end_ref_usfm": "EXO 34:21"
+        },
+        {
+          "start_ref": "05021004",
+          "start_ref_usfm": "DEU 21:4",
+          "end_ref": "05021004",
+          "end_ref_usfm": "DEU 21:4"
+        },
+        {
+          "start_ref": "20013023",
+          "start_ref_usfm": "PRO 13:23",
+          "end_ref": "20013023",
+          "end_ref_usfm": "PRO 13:23"
+        },
+        {
+          "start_ref": "20020004",
+          "start_ref_usfm": "PRO 20:4",
+          "end_ref": "20020004",
+          "end_ref_usfm": "PRO 20:4"
+        },
+        {
+          "start_ref": "42009062",
+          "start_ref_usfm": "LUK 9:62",
+          "end_ref": "42009062",
+          "end_ref_usfm": "LUK 9:62"
+        },
+        {
+          "start_ref": "42017007",
+          "start_ref_usfm": "LUK 17:7",
+          "end_ref": "42017007",
+          "end_ref_usfm": "LUK 17:7"
+        },
+        {
+          "start_ref": "46009010",
+          "start_ref_usfm": "1CO 9:10",
+          "end_ref": "46009010",
+          "end_ref_usfm": "1CO 9:10"
+        },
+        {
+          "start_ref": "09008010",
+          "start_ref_usfm": "1SA 8:10",
+          "end_ref": "09008012",
+          "end_ref_usfm": "1SA 8:12"
+        },
+        {
+          "start_ref": "19141005",
+          "start_ref_usfm": "PSA 141:5",
+          "end_ref": "19141007",
+          "end_ref_usfm": "PSA 141:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25559,
+          "content_id": 26417,
+          "label": "Bronze",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25623,
+          "content_id": 26481,
+          "label": "Cow",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

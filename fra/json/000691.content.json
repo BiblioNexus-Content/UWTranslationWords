@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467257,
+    "reference_id": 26136,
+    "title": "Proverbe",
+    "media_type": "Text",
+    "index_reference": "proverbe",
+    "language": "fra",
+    "content": "<h1>proverbe</h1><h2>Définition :</h2><p>&quot;Un proverbe est une courte déclaration qui exprime une certaine sagesse ou la vérité.</p><ul><li><p>Les proverbes sont puissants parce qu&apos;ils sont faciles à retenir et à répéter.</p></li><li><p>Souvent, un proverbe inclura des exemples de la vie quotidienne.</p></li><li><p>Certains proverbes sont très claires et simples, tandis que d&apos;autres sont plus difficiles à comprendre.</p></li><li><p>Le roi Salomon était connu pour sa sagesse et il a écrit plus de mille proverbes.</p></li><li><p>Jésus a souvent utilisé des proverbes ou des paraboles quand il a enseigné les gens.</p></li><li><p>Une façon de traduire &quot;proverbe&quot; peut être &quot;sage dicton*&quot;</p></li></ul><p>(Voir aussi : (../names/solomon.md), (../kt/true.md), (../kt/wise.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        },
+        {
+          "start_ref": "20001006",
+          "start_ref_usfm": "PRO 1:6",
+          "end_ref": "20001006",
+          "end_ref_usfm": "PRO 1:6"
+        },
+        {
+          "start_ref": "20010001",
+          "start_ref_usfm": "PRO 10:1",
+          "end_ref": "20010001",
+          "end_ref_usfm": "PRO 10:1"
+        },
+        {
+          "start_ref": "20025001",
+          "start_ref_usfm": "PRO 25:1",
+          "end_ref": "20025001",
+          "end_ref_usfm": "PRO 25:1"
+        },
+        {
+          "start_ref": "20026007",
+          "start_ref_usfm": "PRO 26:7",
+          "end_ref": "20026007",
+          "end_ref_usfm": "PRO 26:7"
+        },
+        {
+          "start_ref": "20026009",
+          "start_ref_usfm": "PRO 26:9",
+          "end_ref": "20026009",
+          "end_ref_usfm": "PRO 26:9"
+        },
+        {
+          "start_ref": "42004023",
+          "start_ref_usfm": "LUK 4:23",
+          "end_ref": "42004023",
+          "end_ref_usfm": "LUK 4:23"
+        },
+        {
+          "start_ref": "42004024",
+          "start_ref_usfm": "LUK 4:24",
+          "end_ref": "42004024",
+          "end_ref_usfm": "LUK 4:24"
+        },
+        {
+          "start_ref": "61002022",
+          "start_ref_usfm": "2PE 2:22",
+          "end_ref": "61002022",
+          "end_ref_usfm": "2PE 2:22"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "09024012",
+          "start_ref_usfm": "1SA 24:12",
+          "end_ref": "09024013",
+          "end_ref_usfm": "1SA 24:13"
+        },
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001003",
+          "end_ref_usfm": "PRO 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26350,
+          "content_id": 467458,
+          "label": "Sage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

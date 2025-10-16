@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466942,
+    "reference_id": 25793,
+    "title": "Goliath",
+    "media_type": "Text",
+    "index_reference": "goliath",
+    "language": "fra",
+    "content": "<h1>Goliath</h1><h2>Définition :</h2><p>&quot;Goliath était un grand soldat dans l&apos;armée des Philistins et a été tué par David qui a utilisé une fronde et une pierre.</p><ul><li><p>Goliath avait entre deux et trois mètres de haut* Il est souvent désigné comme un géant en raison de sa grande taille.</p></li><li><p>Bien que Goliath avait de meilleures armes et était beaucoup plus grand que David, Dieu a donné à David la force et la capacité de vaincre Goliath.</p></li><li><p>Les Israélites ont été déclarés vainqueurs sur les Philistins à la suite de la victoire de David sur Goliath.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09022009",
+          "start_ref_usfm": "1SA 22:9",
+          "end_ref": "09022010",
+          "end_ref_usfm": "1SA 22:10"
+        },
+        {
+          "start_ref": "13020004",
+          "start_ref_usfm": "1CH 20:4",
+          "end_ref": "13020005",
+          "end_ref_usfm": "1CH 20:5"
+        },
+        {
+          "start_ref": "09017004",
+          "start_ref_usfm": "1SA 17:4",
+          "end_ref": "09017005",
+          "end_ref_usfm": "1SA 17:5"
+        },
+        {
+          "start_ref": "09021008",
+          "start_ref_usfm": "1SA 21:8",
+          "end_ref": "09021009",
+          "end_ref_usfm": "1SA 21:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

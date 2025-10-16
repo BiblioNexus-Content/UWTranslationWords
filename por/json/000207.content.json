@@ -1,0 +1,269 @@
+[
+  {
+    "content_id": 237740,
+    "reference_id": 25605,
+    "title": "Condenar",
+    "media_type": "Text",
+    "index_reference": "condenar",
+    "language": "por",
+    "content": "<h1>condenar, condenado, condenação</h1><h2>Definição:</h2><p>Os termos “condenar” e “condenação” referem-se a julgar alguém por fazer algo errado.</p><ul><li><p>Frequentemente, a palavra “condenar” inclui punir essa pessoa pelo que ela fez de errado.</p></li><li><p>Às vezes, “condenar” significa acusar falsamente alguém ou julgar alguém severamente.</p></li><li><p>O termo “condenação” refere-se ao ato de condenar ou acusar alguém.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Dependendo do contexto, este termo pode ser traduzido como “julgar severamente” ou “criticar falsamente”.</p></li><li><p>A frase “condená-lo” pode ser traduzida como “julgar que ele é culpado” ou “afirmar que ele deve ser punido por seu pecado”.</p></li><li><p>O termo “condenação” pode ser traduzido como “julgamento severo” ou “declarar culpado” ou “punição da culpa”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">julgar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">punir</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1John3:20\">1 João 3.20</a></p></li><li><p><a href=\"https://ref.ly/Job9:29\">Jó 9.29</a></p></li><li><p><a href=\"https://ref.ly/John5:24\">João 5.24</a></p></li><li><p><a href=\"https://ref.ly/Luke6:37\">Lucas 6.37</a></p></li><li><p><a href=\"https://ref.ly/Matt12:7\">Mateus 12.7</a></p></li><li><p><a href=\"https://ref.ly/Prov17:15-Prov17:16\">Provérbios 17.15–16</a></p></li><li><p><a href=\"https://ref.ly/Ps34:22\">Salmos 34.22</a></p></li><li><p><a href=\"https://ref.ly/Rom5:16\">Romanos 5.16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6064, H7034, H7561, H8199, G01760, G08430, G26070, G26130, G26310, G26320, G26330, G29170, G29190, G29200, G52720, G60480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18009029",
+          "start_ref_usfm": "JOB 9:29",
+          "end_ref": "18009029",
+          "end_ref_usfm": "JOB 9:29"
+        },
+        {
+          "start_ref": "19034022",
+          "start_ref_usfm": "PSA 34:22",
+          "end_ref": "19034022",
+          "end_ref_usfm": "PSA 34:22"
+        },
+        {
+          "start_ref": "20012002",
+          "start_ref_usfm": "PRO 12:2",
+          "end_ref": "20012002",
+          "end_ref_usfm": "PRO 12:2"
+        },
+        {
+          "start_ref": "40012007",
+          "start_ref_usfm": "MAT 12:7",
+          "end_ref": "40012007",
+          "end_ref_usfm": "MAT 12:7"
+        },
+        {
+          "start_ref": "40012037",
+          "start_ref_usfm": "MAT 12:37",
+          "end_ref": "40012037",
+          "end_ref_usfm": "MAT 12:37"
+        },
+        {
+          "start_ref": "40012041",
+          "start_ref_usfm": "MAT 12:41",
+          "end_ref": "40012041",
+          "end_ref_usfm": "MAT 12:41"
+        },
+        {
+          "start_ref": "40012042",
+          "start_ref_usfm": "MAT 12:42",
+          "end_ref": "40012042",
+          "end_ref_usfm": "MAT 12:42"
+        },
+        {
+          "start_ref": "40020018",
+          "start_ref_usfm": "MAT 20:18",
+          "end_ref": "40020018",
+          "end_ref_usfm": "MAT 20:18"
+        },
+        {
+          "start_ref": "40027003",
+          "start_ref_usfm": "MAT 27:3",
+          "end_ref": "40027003",
+          "end_ref_usfm": "MAT 27:3"
+        },
+        {
+          "start_ref": "41010033",
+          "start_ref_usfm": "MRK 10:33",
+          "end_ref": "41010033",
+          "end_ref_usfm": "MRK 10:33"
+        },
+        {
+          "start_ref": "41012040",
+          "start_ref_usfm": "MRK 12:40",
+          "end_ref": "41012040",
+          "end_ref_usfm": "MRK 12:40"
+        },
+        {
+          "start_ref": "41014064",
+          "start_ref_usfm": "MRK 14:64",
+          "end_ref": "41014064",
+          "end_ref_usfm": "MRK 14:64"
+        },
+        {
+          "start_ref": "42006037",
+          "start_ref_usfm": "LUK 6:37",
+          "end_ref": "42006037",
+          "end_ref_usfm": "LUK 6:37"
+        },
+        {
+          "start_ref": "42011031",
+          "start_ref_usfm": "LUK 11:31",
+          "end_ref": "42011031",
+          "end_ref_usfm": "LUK 11:31"
+        },
+        {
+          "start_ref": "42011032",
+          "start_ref_usfm": "LUK 11:32",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        },
+        {
+          "start_ref": "42020047",
+          "start_ref_usfm": "LUK 20:47",
+          "end_ref": "42020047",
+          "end_ref_usfm": "LUK 20:47"
+        },
+        {
+          "start_ref": "43003017",
+          "start_ref_usfm": "JHN 3:17",
+          "end_ref": "43003017",
+          "end_ref_usfm": "JHN 3:17"
+        },
+        {
+          "start_ref": "43003018",
+          "start_ref_usfm": "JHN 3:18",
+          "end_ref": "43003018",
+          "end_ref_usfm": "JHN 3:18"
+        },
+        {
+          "start_ref": "43005024",
+          "start_ref_usfm": "JHN 5:24",
+          "end_ref": "43005024",
+          "end_ref_usfm": "JHN 5:24"
+        },
+        {
+          "start_ref": "44013027",
+          "start_ref_usfm": "ACT 13:27",
+          "end_ref": "44013027",
+          "end_ref_usfm": "ACT 13:27"
+        },
+        {
+          "start_ref": "45002001",
+          "start_ref_usfm": "ROM 2:1",
+          "end_ref": "45002001",
+          "end_ref_usfm": "ROM 2:1"
+        },
+        {
+          "start_ref": "45003008",
+          "start_ref_usfm": "ROM 3:8",
+          "end_ref": "45003008",
+          "end_ref_usfm": "ROM 3:8"
+        },
+        {
+          "start_ref": "45005016",
+          "start_ref_usfm": "ROM 5:16",
+          "end_ref": "45005016",
+          "end_ref_usfm": "ROM 5:16"
+        },
+        {
+          "start_ref": "45005018",
+          "start_ref_usfm": "ROM 5:18",
+          "end_ref": "45005018",
+          "end_ref_usfm": "ROM 5:18"
+        },
+        {
+          "start_ref": "45008001",
+          "start_ref_usfm": "ROM 8:1",
+          "end_ref": "45008001",
+          "end_ref_usfm": "ROM 8:1"
+        },
+        {
+          "start_ref": "45008003",
+          "start_ref_usfm": "ROM 8:3",
+          "end_ref": "45008003",
+          "end_ref_usfm": "ROM 8:3"
+        },
+        {
+          "start_ref": "45008034",
+          "start_ref_usfm": "ROM 8:34",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "45014022",
+          "start_ref_usfm": "ROM 14:22",
+          "end_ref": "45014022",
+          "end_ref_usfm": "ROM 14:22"
+        },
+        {
+          "start_ref": "45014023",
+          "start_ref_usfm": "ROM 14:23",
+          "end_ref": "45014023",
+          "end_ref_usfm": "ROM 14:23"
+        },
+        {
+          "start_ref": "46011032",
+          "start_ref_usfm": "1CO 11:32",
+          "end_ref": "46011032",
+          "end_ref_usfm": "1CO 11:32"
+        },
+        {
+          "start_ref": "47003009",
+          "start_ref_usfm": "2CO 3:9",
+          "end_ref": "47003009",
+          "end_ref_usfm": "2CO 3:9"
+        },
+        {
+          "start_ref": "47007003",
+          "start_ref_usfm": "2CO 7:3",
+          "end_ref": "47007003",
+          "end_ref_usfm": "2CO 7:3"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "59005006",
+          "start_ref_usfm": "JAS 5:6",
+          "end_ref": "59005006",
+          "end_ref_usfm": "JAS 5:6"
+        },
+        {
+          "start_ref": "61002003",
+          "start_ref_usfm": "2PE 2:3",
+          "end_ref": "61002003",
+          "end_ref_usfm": "2PE 2:3"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002006",
+          "end_ref_usfm": "2PE 2:6"
+        },
+        {
+          "start_ref": "62003020",
+          "start_ref_usfm": "1JN 3:20",
+          "end_ref": "62003020",
+          "end_ref_usfm": "1JN 3:20"
+        },
+        {
+          "start_ref": "62003021",
+          "start_ref_usfm": "1JN 3:21",
+          "end_ref": "62003021",
+          "end_ref_usfm": "1JN 3:21"
+        },
+        {
+          "start_ref": "65001004",
+          "start_ref_usfm": "JUD 1:4",
+          "end_ref": "65001004",
+          "end_ref_usfm": "JUD 1:4"
+        },
+        {
+          "start_ref": "20017015",
+          "start_ref_usfm": "PRO 17:15",
+          "end_ref": "20017016",
+          "end_ref_usfm": "PRO 17:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25929,
+          "content_id": 238062,
+          "label": "Julgar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 238271,
+          "label": "Punir",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

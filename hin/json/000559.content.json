@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180164,
+    "reference_id": 26102,
+    "title": "फीनीके",
+    "media_type": "Text",
+    "index_reference": "फीनीके",
+    "language": "hin",
+    "content": "<h1>फीनीके</h1><h2>तथ्य:</h2><p>प्राचीन युग मे फिनिके इस्राएल के उत्तर में भूमध्य सागर के तट पर एक धनाढ्य नगर था।</p><ul><li><p>फिनिके आज के लेबनान देश के पश्चिमी में स्थित एक भू भाग था।</p></li><li><p>नये नियम के युग में फिनिके की राजधानी सूर नगर थी। एक और महत्त्वपूर्ण फीनीके नगर सैदा था।</p></li><li><p>फीनीकेवासी काष्ठकला के लिए प्रसिद्ध थे, वे अपने देश के देवदारों की लकड़ी काम में लेते थे और बैंजनी रंग तैयार करते थे, जो बहुत मंहगा होता था। वे समुद्री यात्रा और व्यापार करने के लिए प्रसिद्ध थे। वे अत्यधिक कुशल नाव बनानेवाले भी थे।</p></li><li><p>पूर्व के अक्षरों में से एक अक्षर फीनीकेवासी द्वारा बनाया गया था। व्यापार के माध्यम से कई लोगों के समूह के साथ उनके संपर्क के कारण उनकी वर्णमाला व्यापक रूप से इस्तेमाल की गई थी।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">देवदारू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26143\" data-resourceType=\"UWTranslationWords\">बैंजनी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26232\" data-resourceType=\"UWTranslationWords\">सैदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26326\" data-resourceType=\"UWTranslationWords\">सूर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts11:19-Acts11:21\">प्रे.का. 11:19–21</a></p></li><li><p><a href=\"https://ref.ly/Acts15:3-Acts15:4\">प्रे.का. 15:3–4</a></p></li><li><p><a href=\"https://ref.ly/Acts21:1-Acts21:2\">प्रे.का. 21:1–2</a></p></li><li><p><a href=\"https://ref.ly/Isa23:10-Isa23:12\">यशायाह 23:10–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3667, G4949, G5403</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44015003",
+          "start_ref_usfm": "ACT 15:3",
+          "end_ref": "44015003",
+          "end_ref_usfm": "ACT 15:3"
+        },
+        {
+          "start_ref": "44021002",
+          "start_ref_usfm": "ACT 21:2",
+          "end_ref": "44021002",
+          "end_ref_usfm": "ACT 21:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        },
+        {
+          "start_ref": "44015003",
+          "start_ref_usfm": "ACT 15:3",
+          "end_ref": "44015004",
+          "end_ref_usfm": "ACT 15:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 179657,
+          "label": "देवदारू",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26143,
+          "content_id": 180202,
+          "label": "बैंगनी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26232,
+          "content_id": 180287,
+          "label": "सीदोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26326,
+          "content_id": 180379,
+          "label": "सोर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

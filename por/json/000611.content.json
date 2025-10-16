@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238154,
+    "reference_id": 26024,
+    "title": "Misael",
+    "media_type": "Text",
+    "index_reference": "misael",
+    "language": "por",
+    "content": "<h1>Misael</h1><h2>Fatos:</h2><p>Misael é o nome de três homens no Antigo Testamento.</p><ul><li><p>Um homem chamado Misael era primo de Arão. Quando dois filhos de Arão foram mortos por Deus após oferecerem incenso de uma maneira que não seguia o que Deus lhes havia dito para fazer, Misael e seu irmão receberam a tarefa de carregar os corpos mortos para fora do acampamento israelita.</p></li><li><p>Outro homem chamado Misael ficou ao lado de Esdras quando ele leu publicamente a lei redescoberta.</p></li><li><p>Durante o tempo em que o povo de Israel estava no exílio na Babilônia, um jovem chamado Misael também foi capturado e forçado a viver na Babilônia. Os babilônios lhe deram o nome de “Mesaque”. Ele, junto com seus companheiros, Azarias (Sadraque) e Hananias (Abede-Nego), recusou-se a adorar a estátua do rei e foi lançado em uma fornalha ardente.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25417\" data-resourceType=\"UWTranslationWords\">Arão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25496\" data-resourceType=\"UWTranslationWords\">Azarias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">Ananias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">Daniel 1.6–7</a></p></li><li><p><a href=\"https://ref.ly/Dan2:17-Dan2:18\">Daniel 2.17–18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4332, H4333</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "27002017",
+          "start_ref_usfm": "DAN 2:17",
+          "end_ref": "27002018",
+          "end_ref_usfm": "DAN 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 237555,
+          "label": "Arão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25496,
+          "content_id": 237632,
+          "label": "Azarias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 237949,
+          "label": "Hananias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

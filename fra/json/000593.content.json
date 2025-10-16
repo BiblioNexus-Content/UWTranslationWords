@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467183,
+    "reference_id": 26046,
+    "title": "Nazaréen",
+    "media_type": "Text",
+    "index_reference": "nazaréen",
+    "language": "fra",
+    "content": "<h1>Nazaréen, vœu nazaréen&quot;,</h1><h2>Définition :</h2><p>Le terme « Nazaréen » fait référence à une personne qui a prononcé un « vœu nazaréen ». Pour la plupart les hommes faisaient ce vœu, mais les femmes pouvaient aussi le faire.</p><ul><li><p>Une personne qui a fait le vœu naziréen a accepté de ne pas avoir de nourriture ou de boisson à base de raisin pendant la période qui avait été convenue pour l&apos;accomplissement du vœu. Pendant cette période, il ne devait pas non plus se faire couper les cheveux et ne pas s&apos;approcher d&apos;un cadavre.</p></li><li><p>Lorsque le temps requis était passé et que le vœu avait été accompli, le Nazaréen se rendait chez le prêtre et lui faisait une offrande. Cela comprendrait la coupe et la mise en flames de ses cheveux. Toutes les autres restrictions seraient également supprimées.</p></li><li><p>Samson est un homme bien connu dans l&apos;Ancien Testament qui était sous le vœu nazaréen.</p></li><li><p>L&apos;ange annonçant la naissance de Jean-Baptiste a dit à Zacharie que son fils ne boirait pas de boisson forte, ce qui peut indiquer que Jean était sous le vœu nazaréen.</p></li><li><p>Selon un passage du livre des Actes, l&apos;apôtre Paul peut aussi avoir à un moment donné pris ce vœu.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/johnthebaptist.md), (../other/sacrifice.md), (../names/samson.md), (../kt/vow.md), (../names/zechariahot.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07013005",
+          "start_ref_usfm": "JDG 13:5",
+          "end_ref": "07013005",
+          "end_ref_usfm": "JDG 13:5"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018019",
+          "end_ref_usfm": "ACT 18:19"
+        },
+        {
+          "start_ref": "04006001",
+          "start_ref_usfm": "NUM 6:1",
+          "end_ref": "04006004",
+          "end_ref_usfm": "NUM 6:4"
+        },
+        {
+          "start_ref": "30002011",
+          "start_ref_usfm": "AMO 2:11",
+          "end_ref": "30002012",
+          "end_ref_usfm": "AMO 2:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25912,
+          "content_id": 467057,
+          "label": "Jean (le Baptiste)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 467312,
+          "label": "Samson",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 467475,
+          "label": "Zacharie (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

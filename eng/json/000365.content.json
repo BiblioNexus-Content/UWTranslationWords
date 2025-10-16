@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26637,
+    "reference_id": 25779,
+    "title": "Gibeon",
+    "media_type": "Text",
+    "index_reference": "gibeon",
+    "language": "eng",
+    "content": "<h1>Gibeon, Gibeonite</h1><h2>Facts:</h2><p>Gibeon was a city that was located about 13 kilometers northwest of Jerusalem. The people living in Gibeon were the Gibeonites.</p><ul><li><p>When the Gibeonites heard about how the Israelites had destroyed the cities of Jericho and Ai, they were afraid.</p></li><li><p>So the Gibeonites came to the leaders of Israel at Gilgal and pretended to be people from a far-away country.</p></li><li><p>The Israelite leaders were deceived and made an agreement with the Gibeonites that they would protect them and not destroy them.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25782\" data-resourceType=\"UWTranslationWords\">Gilgal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr8:29\">1 Chronicles 8:29</a></p></li><li><p><a href=\"https://ref.ly/1Kgs3:4-1Kgs3:5\">1 Kings 3:4–5</a></p></li><li><p><a href=\"https://ref.ly/2Sam2:12-2Sam2:13\">2 Samuel 2:12–13</a></p></li><li><p><a href=\"https://ref.ly/Josh9:3-Josh9:5\">Joshua 9:3–5</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>15:6</strong> But one of the Canaanite people groups, called the <strong>Gibeonites</strong>, lied to Joshua and said they were from a place far from Canaan.</p></li><li><p><strong>15:7</strong> Sometime later, the kings of another people group in Canaan, the Amorites, heard that the <strong>Gibeonites</strong> had made a peace treaty with the Israelites, so they combined their armies into one large army and attacked <strong>Gibeon</strong>.</p></li><li><p><strong>15:8</strong> So Joshua gathered the Israelite army and they marched all night to reach the <strong>Gibeonites</strong>.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1391, H1393</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008029",
+          "end_ref_usfm": "1CH 8:29"
+        },
+        {
+          "start_ref": "16003007",
+          "start_ref_usfm": "NEH 3:7",
+          "end_ref": "16003007",
+          "end_ref_usfm": "NEH 3:7"
+        },
+        {
+          "start_ref": "11003004",
+          "start_ref_usfm": "1KI 3:4",
+          "end_ref": "11003005",
+          "end_ref_usfm": "1KI 3:5"
+        },
+        {
+          "start_ref": "10002012",
+          "start_ref_usfm": "2SA 2:12",
+          "end_ref": "10002013",
+          "end_ref_usfm": "2SA 2:13"
+        },
+        {
+          "start_ref": "06009003",
+          "start_ref_usfm": "JOS 9:3",
+          "end_ref": "06009005",
+          "end_ref_usfm": "JOS 9:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25782,
+          "content_id": 26640,
+          "label": "Gilgal",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 26754,
+          "label": "Jericho",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

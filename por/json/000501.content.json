@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238040,
+    "reference_id": 25907,
+    "title": "Joás",
+    "media_type": "Text",
+    "index_reference": "joás",
+    "language": "por",
+    "content": "<h1>Joás</h1><h2>Fatos:</h2><p>Joás foi o nome de vários homens no Antigo Testamento.</p><ul><li><p>Um Joás foi o pai do libertador israelita Gideão.</p></li><li><p>Outro homem chamado Joás foi um descendente do filho mais novo de Jacó, Benjamim.</p></li><li><p>O Joás mais conhecido tornou-se rei de Judá aos sete anos de idade. Ele era filho de Acazias, rei de Judá, que havia sido assassinado.</p></li><li><p>Quando Joás era uma criança muito pequena, sua tia o salvou de ser morto escondendo-o até que ele tivesse idade suficiente para ser coroado rei.</p></li><li><p>O rei Joás foi um bom rei que inicialmente obedeceu a Deus. Mas ele não removeu os lugares altos, e os israelitas começaram a adorar ídolos novamente.</p></li><li><p>O rei Joás governou Judá durante alguns dos anos em que o rei Jeoás estava governando Israel. Eles eram dois reis distintos.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Acazias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">altar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25780\" data-resourceType=\"UWTranslationWords\">Gideão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25835\" data-resourceType=\"UWTranslationWords\">lugares altos</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Crônicas 3.10–12</a></p></li><li><p><a href=\"https://ref.ly/2Chr18:25-2Chr18:27\">2 Crônicas 18.25–27</a></p></li><li><p><a href=\"https://ref.ly/2Kgs11:3\">2 Reis 11.3</a></p></li><li><p><a href=\"https://ref.ly/Amos1:1\">Amós 1.1</a></p></li><li><p><a href=\"https://ref.ly/Judg6:11-Judg6:12\">Juízes 6.11–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3101, H3135</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011003",
+          "start_ref_usfm": "2KI 11:3",
+          "end_ref": "12011003",
+          "end_ref_usfm": "2KI 11:3"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14018025",
+          "start_ref_usfm": "2CH 18:25",
+          "end_ref": "14018027",
+          "end_ref_usfm": "2CH 18:27"
+        },
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006012",
+          "end_ref_usfm": "JDG 6:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 237579,
+          "label": "Acazias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25447,
+          "content_id": 237585,
+          "label": "Altar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 237662,
+          "label": "Benjamim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25835,
+          "content_id": 237968,
+          "label": "Lugares Altos",
+          "language": "por"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 237913,
+          "label": "Gideão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467195,
+    "reference_id": 26059,
+    "title": "Abdias",
+    "media_type": "Text",
+    "index_reference": "abdias",
+    "language": "fra",
+    "content": "<h1>Abdias</h1><h2>Définition :</h2><p>&quot;Abdias était un prophète de l&apos;Ancien Testamant qui prophétisa contre le peuple d&apos;Edom, qui étaient les descendants d&apos;Esaü*&quot; Il y avait d&apos;autres hommes du nom d&apos;Abdias dans l&apos;Ancien Testament.</p><ul><li><p>Le livre d&apos;Abdias est le livre le plus court de l&apos;Ancien Testament et parle d&apos;une prophètie qu&apos;Abdias a reçu de Dieu à travers une vision.</p></li><li><p>Il n&apos;y a pas de précisions claires sur la vie et le temps de son minitèere prophètique* Cela auriat pu être pendant les règnes de Joram, d&apos;Achaz, Joas, et Athalie, rois de Juda.</p></li><li><p>D&apos;autres prophètes à cette époque étaient Ezéchiel et Daniel et Jérémie.</p></li><li><p>Abdias aurait pu vivre à une période plus tardive, pendant le règne du roi Sédésias et la captivité Baylonienne.</p></li><li><p>D&apos;autres hommes du nom d&apos;Abdias sont un descendant de Saul; un Gadite devenu un des hommes de David; un administrateur de palais du rois Ahab; un officier du roi Jozaphat; un homme qui a aidé à la répartion du Temple durant le temps du rois Josias; un lévite qui était un gardien pendant le temps de Néhémie.</p></li><li><p>Il se pourrait que l&apos;auteur du livre d&apos;Abdias soit un de ces hommes.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahab.md), (../names/babylon.md), (../names/david.md), (../names/edom.md), (../names/esau.md), (../names/ezekiel.md), (../names/daniel.md), (../names/gad.md), (../names/jehoshaphat.md), (../names/josiah.md), (../names/levite.md), (../names/saul.md), (../names/zedekiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13003021",
+          "start_ref_usfm": "1CH 3:21",
+          "end_ref": "13003021",
+          "end_ref_usfm": "1CH 3:21"
+        },
+        {
+          "start_ref": "15008009",
+          "start_ref_usfm": "EZR 8:9",
+          "end_ref": "15008009",
+          "end_ref_usfm": "EZR 8:9"
+        },
+        {
+          "start_ref": "16010005",
+          "start_ref_usfm": "NEH 10:5",
+          "end_ref": "16010005",
+          "end_ref_usfm": "NEH 10:5"
+        },
+        {
+          "start_ref": "16012025",
+          "start_ref_usfm": "NEH 12:25",
+          "end_ref": "16012025",
+          "end_ref_usfm": "NEH 12:25"
+        },
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        },
+        {
+          "start_ref": "31001002",
+          "start_ref_usfm": "OBA 1:2",
+          "end_ref": "31001002",
+          "end_ref_usfm": "OBA 1:2"
+        },
+        {
+          "start_ref": "13008038",
+          "start_ref_usfm": "1CH 8:38",
+          "end_ref": "13008040",
+          "end_ref_usfm": "1CH 8:40"
+        },
+        {
+          "start_ref": "15008008",
+          "start_ref_usfm": "EZR 8:8",
+          "end_ref": "15008011",
+          "end_ref_usfm": "EZR 8:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25689,
+          "content_id": 466849,
+          "label": "Edom ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 466915,
+          "label": "Gad",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 467066,
+          "label": "Josias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 467319,
+          "label": "Saül (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25723,
+          "content_id": 559325,
+          "label": "Ézéchiel",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237714,
+    "reference_id": 25579,
+    "title": "Censo",
+    "media_type": "Text",
+    "index_reference": "censo",
+    "language": "por",
+    "content": "<h1>censo</h1><h2>Definição:</h2><p>O termo “censo” refere-se a uma contagem formal do número de pessoas em uma nação ou império.</p><ul><li><p>O Antigo Testamento registra diferentes momentos em que Deus ordenou que os homens de Israel fossem contados, como quando os israelitas saíram do Egito e depois novamente pouco antes de entrarem em Canaã.</p></li><li><p>Frequentemente, o propósito de um censo era saber quantas pessoas deveriam pagar impostos.</p></li><li><p>Por exemplo, uma vez em Êxodo, os homens israelitas foram contados para que cada um pagasse meio siclo para cuidar do templo.</p></li><li><p>Quando Jesus era um bebê, o governo romano fez um censo para contar todas as pessoas que viviam em seu império, para exigir que pagassem impostos.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Maneiras possíveis de traduzir este termo poderiam incluir, “contagem de nomes” ou “lista de nomes” ou “registro.”</p></li><li><p>A frase “fazer um censo” poderia ser traduzida como “registrar os nomes das pessoas” ou “inscrever pessoas” ou “anotar os nomes das pessoas.”</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26044\" data-resourceType=\"UWTranslationWords\">nação</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts5:37\">Atos 5.37</a></p></li><li><p><a href=\"https://ref.ly/Exod30:12\">Êxodo 30.12</a></p></li><li><p><a href=\"https://ref.ly/Exod38:26\">Êxodo 38.26</a></p></li><li><p><a href=\"https://ref.ly/Luke2:3\">Lucas 2.3</a></p></li><li><p><a href=\"https://ref.ly/Num4:1-Num4:4\">Números 4.1–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3789, H5674, H5921, H6485, H7218, G05820, G05830</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02038026",
+          "start_ref_usfm": "EXO 38:26",
+          "end_ref": "02038026",
+          "end_ref_usfm": "EXO 38:26"
+        },
+        {
+          "start_ref": "42002003",
+          "start_ref_usfm": "LUK 2:3",
+          "end_ref": "42002003",
+          "end_ref_usfm": "LUK 2:3"
+        },
+        {
+          "start_ref": "44005037",
+          "start_ref_usfm": "ACT 5:37",
+          "end_ref": "44005037",
+          "end_ref_usfm": "ACT 5:37"
+        },
+        {
+          "start_ref": "04004001",
+          "start_ref_usfm": "NUM 4:1",
+          "end_ref": "04004004",
+          "end_ref_usfm": "NUM 4:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26044,
+          "content_id": 238174,
+          "label": "Nação",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

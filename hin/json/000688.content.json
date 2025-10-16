@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180094,
+    "reference_id": 26030,
+    "title": "मोर्दकै",
+    "media_type": "Text",
+    "index_reference": "मोर्दकै",
+    "language": "hin",
+    "content": "<h1>मोर्दकै</h1><h2>तथ्य:</h2><p>मोर्दकै फारस में निवास कर रहा एक यहूदी पुरुष था। वह अपनी चचेरी बहन एस्तेर का संरक्षक था, एस्तेर बाद में फारसी राजा क्षयर्ष की पत्नी हुई थी।</p><ul><li><p>राजा के महल में सेवा करते समय मोर्दकै ने प्रजा के कुछ लोगों को राजा की हत्या का षड्यंत्र रचते सुना। उसने इसकी सूचना दी और राजा की जान बच गई।</p></li><li><p>कुछ समय पश्चात मोर्दकै ने फारस में यहूदियों के सर्वनाश के षड्यंत्र को भी सुना। उसने एस्तेर से कहा कि वह अपने लोगों को बचाने के लिए राजा से याचना करे।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">क्षयर्ष</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">एस्तेर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Esth2:6\">एस्तेर 02:06</a></p></li><li><p><a href=\"https://ref.ly/Esth3:6\">एस्तेर 03:06</a></p></li><li><p><a href=\"https://ref.ly/Esth8:2\">एस्तेर 08:02</a></p></li><li><p><a href=\"https://ref.ly/Esth10:2\">एस्तेर 10:02</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H4782</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "17002006",
+          "start_ref_usfm": "EST 2:6",
+          "end_ref": "17002006",
+          "end_ref_usfm": "EST 2:6"
+        },
+        {
+          "start_ref": "17003006",
+          "start_ref_usfm": "EST 3:6",
+          "end_ref": "17003006",
+          "end_ref_usfm": "EST 3:6"
+        },
+        {
+          "start_ref": "17008002",
+          "start_ref_usfm": "EST 8:2",
+          "end_ref": "17008002",
+          "end_ref_usfm": "EST 8:2"
+        },
+        {
+          "start_ref": "17010002",
+          "start_ref_usfm": "EST 10:2",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 179528,
+          "label": "क्षयर्ष",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 179784,
+          "label": "एस्तेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

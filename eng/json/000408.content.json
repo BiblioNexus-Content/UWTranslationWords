@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26680,
+    "reference_id": 25822,
+    "title": "Harp",
+    "media_type": "Text",
+    "index_reference": "harp",
+    "language": "eng",
+    "content": "<h1>harp, harpist</h1><h2>Definition:</h2><p>A harp is a stringed musical instrument, that usually consists of a large open frame with vertical strings.</p><ul><li><p>In Bible times, fir wood was used to make harps and other musical instruments.</p></li><li><p>Harps were often held in the hands and played while walking.</p></li><li><p>In many places in the Bible, harps are mentioned as instruments that were used to praise and worship God.</p></li><li><p>David wrote several psalms which were set to harp music.</p></li><li><p>He also played a harp for King Saul, to soothe the king’s troubled spirit.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">fir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26140\" data-resourceType=\"UWTranslationWords\">psalm</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (OT)</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr15:16-1Chr15:18\">1 Chronicles 15:16–18</a></p></li><li><p><a href=\"https://ref.ly/Amos5:23-Amos5:24\">Amos 5:23–24</a></p></li><li><p><a href=\"https://ref.ly/Dan3:5\">Daniel 3:5</a></p></li><li><p><a href=\"https://ref.ly/Ps33:1-Ps33:3\">Psalm 33:1–3</a></p></li><li><p><a href=\"https://ref.ly/Rev5:8\">Revelation 5:8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3658, H5035, H5059, H7030, G27880, G27890, G27900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16012027",
+          "start_ref_usfm": "NEH 12:27",
+          "end_ref": "16012027",
+          "end_ref_usfm": "NEH 12:27"
+        },
+        {
+          "start_ref": "27003005",
+          "start_ref_usfm": "DAN 3:5",
+          "end_ref": "27003005",
+          "end_ref_usfm": "DAN 3:5"
+        },
+        {
+          "start_ref": "46014007",
+          "start_ref_usfm": "1CO 14:7",
+          "end_ref": "46014007",
+          "end_ref_usfm": "1CO 14:7"
+        },
+        {
+          "start_ref": "66005008",
+          "start_ref_usfm": "REV 5:8",
+          "end_ref": "66005008",
+          "end_ref_usfm": "REV 5:8"
+        },
+        {
+          "start_ref": "66014002",
+          "start_ref_usfm": "REV 14:2",
+          "end_ref": "66014002",
+          "end_ref_usfm": "REV 14:2"
+        },
+        {
+          "start_ref": "66015002",
+          "start_ref_usfm": "REV 15:2",
+          "end_ref": "66015002",
+          "end_ref_usfm": "REV 15:2"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
+        },
+        {
+          "start_ref": "13015016",
+          "start_ref_usfm": "1CH 15:16",
+          "end_ref": "13015018",
+          "end_ref_usfm": "1CH 15:18"
+        },
+        {
+          "start_ref": "19033001",
+          "start_ref_usfm": "PSA 33:1",
+          "end_ref": "19033003",
+          "end_ref_usfm": "PSA 33:3"
+        },
+        {
+          "start_ref": "30005023",
+          "start_ref_usfm": "AMO 5:23",
+          "end_ref": "30005024",
+          "end_ref_usfm": "AMO 5:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 26599,
+          "label": "Fir",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26140,
+          "content_id": 26998,
+          "label": "Psalm",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 27058,
+          "label": "Saul",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

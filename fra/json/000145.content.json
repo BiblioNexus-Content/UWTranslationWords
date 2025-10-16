@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466932,
+    "reference_id": 25783,
+    "title": "Ceindre",
+    "media_type": "Text",
+    "index_reference": "ceindre",
+    "language": "fra",
+    "content": "<h1>ceindre</h1><h2>Définition :</h2><p>&quot;Le terme &quot;ceindre&quot; signifie fixer quelque chose autour de quelque chose d&apos;autre* Il se réfère souvent au fait d&apos;utiliser une ceinture autour de la taille pour garder une robe ou une tunique en place.</p><ul><li><p>L&apos;idiome biblique commun, &quot;ceindre vos reins» signifie rentrer le bas de votre vêtement dans votre ceinture pour permettre aux jambes de se déplacer facilement pour travailler* Cette expression signifie se tenir prêt à l&apos;action ou être préparé à faire quelque chose de difficile</p></li><li><p>&quot;Ceindre&quot; peut aussi signifier entourer quelque chose dans un cercle.</p></li><li><p>L&apos;idiome, &quot;ceindre les reins&quot; pourrait être traduit en utilisant un langage dans la langue cible qui a la même signification* Ou il pourrait être traduit comme de façon figurative &quot;préparez-vous pour l&apos;action» ou «se tenir prêt*&quot;</p></li><li><p>Le terme «ceint» pourrait être traduit par &quot;encerclé par&quot; ou enveloppé avec &quot;ou&quot; ceint avec &quot;.</p></li></ul><p>(Voir aussi : (../other/loins.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "16004018",
+          "start_ref_usfm": "NEH 4:18",
+          "end_ref": "16004018",
+          "end_ref_usfm": "NEH 4:18"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036008",
+          "end_ref_usfm": "JOB 36:8"
+        },
+        {
+          "start_ref": "18036013",
+          "start_ref_usfm": "JOB 36:13",
+          "end_ref": "18036013",
+          "end_ref_usfm": "JOB 36:13"
+        },
+        {
+          "start_ref": "18038003",
+          "start_ref_usfm": "JOB 38:3",
+          "end_ref": "18038003",
+          "end_ref_usfm": "JOB 38:3"
+        },
+        {
+          "start_ref": "20030031",
+          "start_ref_usfm": "PRO 30:31",
+          "end_ref": "20030031",
+          "end_ref_usfm": "PRO 30:31"
+        },
+        {
+          "start_ref": "20031017",
+          "start_ref_usfm": "PRO 31:17",
+          "end_ref": "20031017",
+          "end_ref_usfm": "PRO 31:17"
+        },
+        {
+          "start_ref": "22007005",
+          "start_ref_usfm": "SNG 7:5",
+          "end_ref": "22007005",
+          "end_ref_usfm": "SNG 7:5"
+        },
+        {
+          "start_ref": "43013004",
+          "start_ref_usfm": "JHN 13:4",
+          "end_ref": "43013004",
+          "end_ref_usfm": "JHN 13:4"
+        },
+        {
+          "start_ref": "43013005",
+          "start_ref_usfm": "JHN 13:5",
+          "end_ref": "43013005",
+          "end_ref_usfm": "JHN 13:5"
+        },
+        {
+          "start_ref": "43021007",
+          "start_ref_usfm": "JHN 21:7",
+          "end_ref": "43021007",
+          "end_ref_usfm": "JHN 21:7"
+        },
+        {
+          "start_ref": "43021018",
+          "start_ref_usfm": "JHN 21:18",
+          "end_ref": "43021018",
+          "end_ref_usfm": "JHN 21:18"
+        },
+        {
+          "start_ref": "44012008",
+          "start_ref_usfm": "ACT 12:8",
+          "end_ref": "44012008",
+          "end_ref_usfm": "ACT 12:8"
+        },
+        {
+          "start_ref": "60001013",
+          "start_ref_usfm": "1PE 1:13",
+          "end_ref": "60001013",
+          "end_ref_usfm": "1PE 1:13"
+        },
+        {
+          "start_ref": "66001013",
+          "start_ref_usfm": "REV 1:13",
+          "end_ref": "66001013",
+          "end_ref_usfm": "REV 1:13"
+        },
+        {
+          "start_ref": "66015006",
+          "start_ref_usfm": "REV 15:6",
+          "end_ref": "66015006",
+          "end_ref_usfm": "REV 15:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25972,
+          "content_id": 467112,
+          "label": "Reins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

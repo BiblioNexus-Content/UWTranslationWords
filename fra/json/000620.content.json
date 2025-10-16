@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466691,
+    "reference_id": 25516,
+    "title": "Ours",
+    "media_type": "Text",
+    "index_reference": "ours",
+    "language": "fra",
+    "content": "<h1>ours</h1><h2>Définition :</h2><p>Un ours est un grand animal à fourrure, à quatre pattes brun foncé ou noirs, avec des dents et des griffes acérées* Les ours étaient monnaie courante en Israël pendant les temps bibliques.</p><ul><li><p>Ces animaux vivent dans les forêts et les zones de montagne; ils mangent du poisson, les insectes et les plantes.</p></li><li><p>Dans l&apos;Ancien Testament, l&apos;ours est utilisé comme un symbole de force.</p></li><li><p>Bien que garder les moutons, le berger David a combattu un ours et battit.</p></li><li><p>Deux ours sont sortis de la forêt et ont attaqué un groupe de jeunes qui avaient raillé le prophète Elisée.</p></li></ul><p>(Voir aussi : (../names/david.md), (../names/elisha.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017012",
+          "start_ref_usfm": "PRO 17:12",
+          "end_ref": "20017012",
+          "end_ref_usfm": "PRO 17:12"
+        },
+        {
+          "start_ref": "20028015",
+          "start_ref_usfm": "PRO 28:15",
+          "end_ref": "20028015",
+          "end_ref_usfm": "PRO 28:15"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 466858,
+          "label": "Elisée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

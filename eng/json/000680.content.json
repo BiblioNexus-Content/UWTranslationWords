@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 26954,
+    "reference_id": 26096,
+    "title": "Philip",
+    "media_type": "Text",
+    "index_reference": "philip",
+    "language": "eng",
+    "content": "<h1>Philip, the evangelist</h1><h2>Facts:</h2><p>In the early Christian church in Jerusalem, Philip was one of seven leaders chosen to care for the poor and needy Christians, especially the widows.</p><ul><li><p>God used Philip to share the gospel with people in many different towns in the provinces of Judea and Galilee, including an Ethiopian man he met on the desert road to Gaza from Jerusalem.</p></li><li><p>Years later Philip was living in Caesarea when Paul and his companions stayed at his house on their way back to Jerusalem.</p></li><li><p>Most Bible scholars think that Philip the evangelist was not the same man as Jesus’ apostle by that name. Some languages may prefer to use slightly different spellings for the names of these two men to make it clear they are different men.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Philip</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:5-Acts6:6\">Acts 6:5–6</a></p></li><li><p><a href=\"https://ref.ly/Acts8:6\">Acts 8:6</a></p></li><li><p><a href=\"https://ref.ly/Acts8:13\">Acts 8:13</a></p></li><li><p><a href=\"https://ref.ly/Acts8:31\">Acts 8:31</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36\">Acts 8:36</a></p></li><li><p><a href=\"https://ref.ly/Acts8:40\">Acts 8:40</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G53760</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44008005",
+          "start_ref_usfm": "ACT 8:5",
+          "end_ref": "44008005",
+          "end_ref_usfm": "ACT 8:5"
+        },
+        {
+          "start_ref": "44008006",
+          "start_ref_usfm": "ACT 8:6",
+          "end_ref": "44008006",
+          "end_ref_usfm": "ACT 8:6"
+        },
+        {
+          "start_ref": "44008012",
+          "start_ref_usfm": "ACT 8:12",
+          "end_ref": "44008012",
+          "end_ref_usfm": "ACT 8:12"
+        },
+        {
+          "start_ref": "44008013",
+          "start_ref_usfm": "ACT 8:13",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "44008029",
+          "start_ref_usfm": "ACT 8:29",
+          "end_ref": "44008029",
+          "end_ref_usfm": "ACT 8:29"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44008031",
+          "start_ref_usfm": "ACT 8:31",
+          "end_ref": "44008031",
+          "end_ref_usfm": "ACT 8:31"
+        },
+        {
+          "start_ref": "44008034",
+          "start_ref_usfm": "ACT 8:34",
+          "end_ref": "44008034",
+          "end_ref_usfm": "ACT 8:34"
+        },
+        {
+          "start_ref": "44008035",
+          "start_ref_usfm": "ACT 8:35",
+          "end_ref": "44008035",
+          "end_ref_usfm": "ACT 8:35"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008036",
+          "end_ref_usfm": "ACT 8:36"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26096,
+          "content_id": 26954,
+          "label": "Philip",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

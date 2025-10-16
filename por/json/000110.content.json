@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237634,
+    "reference_id": 25498,
+    "title": "Baasa",
+    "media_type": "Text",
+    "index_reference": "baasa",
+    "language": "por",
+    "content": "<h1>Baasa</h1><h2>Fatos:</h2><p>Baasa foi um dos reis maus de Israel, que influenciou os israelitas a adorarem ídolos.</p><ul><li><p>Baasa foi o terceiro rei de Israel e reinou por vinte e quatro anos, durante o tempo em que Asa era rei de Judá.</p></li><li><p>Ele era um comandante militar que se tornou rei matando o rei anterior, Nadabe.</p></li><li><p>Durante o reinado de Baasa, houve muitas guerras entre os reinos de Israel e Judá, especialmente com o rei Asa de Judá.</p></li><li><p>Os muitos pecados de Baasa fizeram com que Deus eventualmente o removesse do cargo por meio de sua morte.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">Asa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs15:17\">1 Reis 15.17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs9:9\">2 Reis 9.9</a></p></li><li><p><a href=\"https://ref.ly/Jer41:9\">Jeremias 41.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1201</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015017",
+          "start_ref_usfm": "1KI 15:17",
+          "end_ref": "11015017",
+          "end_ref_usfm": "1KI 15:17"
+        },
+        {
+          "start_ref": "12009009",
+          "start_ref_usfm": "2KI 9:9",
+          "end_ref": "12009009",
+          "end_ref_usfm": "2KI 9:9"
+        },
+        {
+          "start_ref": "24041009",
+          "start_ref_usfm": "JER 41:9",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25479,
+          "content_id": 237616,
+          "label": "Asa",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

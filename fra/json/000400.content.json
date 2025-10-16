@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467008,
+    "reference_id": 25862,
+    "title": "Iconium",
+    "media_type": "Text",
+    "index_reference": "iconium",
+    "language": "fra",
+    "content": "<h1>Iconium</h1><h2>Définition :</h2><p>&quot;était une ville dans le centre-sud d&apos;Asie Mineure ( de nos jour appeler Turquie ).</p><ul><li><p>Iconium était située là où la ville moderne de Konya est localisée présentement.</p></li><li><p>Quand Paul et Barnabas furent expulsés par les Juifs de la région d&apos;Antioche après le succès de leur ministère pour les paiens en Antioche au prémier jour de leur voyage missionnaire, ils partirent à Iconium.</p></li><li><p>Les incroyants Juifs et des Paiens à Inconium se sont ligués pour lapider Paul et ses associés, mais ils se sont enfuis dans la ville voisine de Lystre* Ensuite les gens d&apos;Iconium et d&apos; Antioche vinrent à Lystre et montèrent le peuple pour lapider Paul.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/barnabas.md), (../names/lystra.md), (../kt/stone.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013051",
+          "start_ref_usfm": "ACT 13:51",
+          "end_ref": "44013051",
+          "end_ref_usfm": "ACT 13:51"
+        },
+        {
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014001",
+          "end_ref_usfm": "ACT 14:1"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44016002",
+          "start_ref_usfm": "ACT 16:2",
+          "end_ref": "44016002",
+          "end_ref_usfm": "ACT 16:2"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016003",
+          "end_ref_usfm": "ACT 16:3"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014020",
+          "end_ref_usfm": "ACT 14:20"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 466684,
+          "label": "Barnabas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25984,
+          "content_id": 467124,
+          "label": "Lystre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26262,
+          "content_id": 467377,
+          "label": "Pierre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

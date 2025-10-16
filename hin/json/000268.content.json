@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 180029,
+    "reference_id": 25964,
+    "title": "चीता",
+    "media_type": "Text",
+    "index_reference": "चीता",
+    "language": "hin",
+    "content": "<h1>चीता, चीतों</h1><h2>तथ्य:</h2><p>चीता, बिल्ली जैसा एक बड़ा पशु है जिसका रंग भूरा होता है और उस पर काले धब्बे होते हैं।</p><ul><li><p>चीता अन्य पशुओं को मार कर खाता है।</p></li><li><p>बाइबल में आकस्मिक दुर्घटना की तुलना चीते से की जाती है क्योंकि चीता अपने शिकार पर आकस्मिक हमला करता है।</p></li><li><p>भविष्यद्वक्ता दानिय्येल और प्रेरित यूहन्ना ने दर्शन में चीते जैसा एक पशु देखा था।</p></li></ul><p>(यह भी देखें: अपरिचित शब्दों का अनुवाद कैसे करे)</p><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25517\" data-resourceType=\"UWTranslationWords\">पशु</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">शिकार</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26338\" data-resourceType=\"UWTranslationWords\">दर्शन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan7:6-Dan7:7\">दानिय्येल 07:6–7</a></p></li><li><p><a href=\"https://ref.ly/Hos13:7-Hos13:8\">होशे 13:7–8</a></p></li><li><p><a href=\"https://ref.ly/Rev13:1-Rev13:2\">प्रकाशितवाक्य 13:1–2</a></p></li><li><p><a href=\"https://ref.ly/Song4:8\">श्रेष्ठगीत 04:8</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5245, H5246</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "27007006",
+          "start_ref_usfm": "DAN 7:6",
+          "end_ref": "27007006",
+          "end_ref_usfm": "DAN 7:6"
+        },
+        {
+          "start_ref": "28013007",
+          "start_ref_usfm": "HOS 13:7",
+          "end_ref": "28013007",
+          "end_ref_usfm": "HOS 13:7"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25517,
+          "content_id": 179602,
+          "label": "पशु",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 180181,
+          "label": "आहेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26338,
+          "content_id": 180391,
+          "label": "दर्शन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

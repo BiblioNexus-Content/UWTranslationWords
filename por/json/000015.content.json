@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237576,
+    "reference_id": 25438,
+    "title": "Acabe",
+    "media_type": "Text",
+    "index_reference": "acabe",
+    "language": "por",
+    "content": "<h1>Acabe</h1><h2>Fatos:</h2><p>Acabe foi um rei muito mau que reinou sobre o reino do norte de Israel de 875 a 854 a.C.</p><ul><li><p>O rei Acabe influenciou o povo de Israel a adorar falsos deuses.</p></li><li><p>O profeta Elias confrontou Acabe e disse-lhe que haveria uma seca severa por três anos e meio como punição pelos pecados que Acabe fez Israel cometer.</p></li><li><p>Acabe e sua esposa Jezabel fizeram muitas outras coisas más, incluindo usar seu poder para matar pessoas inocentes.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25904\" data-resourceType=\"UWTranslationWords\">Jezabel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs18:1-1Kgs18:2\">1 Reis 18.1–2</a></p></li><li><p><a href=\"https://ref.ly/1Kgs20:1-1Kgs20:3\">1 Reis 20.1–3</a></p></li><li><p><a href=\"https://ref.ly/2Chr21:6\">2 Crônicas 21.6</a></p></li><li><p><a href=\"https://ref.ly/2Kgs9:8\">2 Reis 9.8</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>19:2</strong> Elias era um profeta quando <strong>Acabe</strong> era rei sobre o reino de Israel. <strong>Acabe</strong> era um homem mau que encorajava as pessoas a adorar um falso deus chamado Baal.</p></li><li><p><strong>19:3</strong> <strong>Acabe</strong> e seu exército procuraram Elias, mas não conseguiram encontrá-lo.</p></li><li><p><strong>19:5</strong> Após três anos e meio, Deus disse a Elias para retornar ao reino de Israel e falar com <strong>Acabe</strong> porque ele iria enviar chuva novamente.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0256</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12009008",
+          "start_ref_usfm": "2KI 9:8",
+          "end_ref": "12009008",
+          "end_ref_usfm": "2KI 9:8"
+        },
+        {
+          "start_ref": "14021006",
+          "start_ref_usfm": "2CH 21:6",
+          "end_ref": "14021006",
+          "end_ref_usfm": "2CH 21:6"
+        },
+        {
+          "start_ref": "11018001",
+          "start_ref_usfm": "1KI 18:1",
+          "end_ref": "11018002",
+          "end_ref_usfm": "1KI 18:2"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020003",
+          "end_ref_usfm": "1KI 20:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25904,
+          "content_id": 238037,
+          "label": "Jezabel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

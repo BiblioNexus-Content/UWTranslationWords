@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26792,
+    "reference_id": 25934,
+    "title": "Kedar",
+    "media_type": "Text",
+    "index_reference": "kedar",
+    "language": "eng",
+    "content": "<h1>Kedar</h1><h2>Facts:</h2><p>Kedar was Ishmael’s second son. It was also an important city, which was probably named after the man.</p><ul><li><p>The city of Kedar is located in the northern part of Arabia near the southern border of Palestine. In Bible times, it was known for its greatness and beauty.</p></li><li><p>The descendants of Kedar formed a large people group that is also called “Kedar.”</p></li><li><p>The phrase “dark tents of Kedar” refers to the black goathair tents the people of Kedar lived in.</p></li><li><p>These people raised sheep and goats. They also used camels for transporting things.</p></li><li><p>In the Bible, the phrase “the glory of Kedar” refers to the greatness of that city and its people.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arabia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25787\" data-resourceType=\"UWTranslationWords\">goat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">Ishmael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Song1:5\">Song of Songs 1:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6938</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
+        },
+        {
+          "start_ref": "22001005",
+          "start_ref_usfm": "SNG 1:5",
+          "end_ref": "22001005",
+          "end_ref_usfm": "SNG 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 26328,
+          "label": "Arabia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25787,
+          "content_id": 26645,
+          "label": "Goat",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 26736,
+          "label": "Ishmael",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

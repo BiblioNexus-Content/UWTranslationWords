@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 179632,
+    "reference_id": 25550,
+    "title": "जीवन की पुस्तक",
+    "media_type": "Text",
+    "index_reference": "जीवन की पुस्तक",
+    "language": "hin",
+    "content": "<h1>जीवन की पुस्तक</h1><h2>परिभाषा:</h2><p>“जीवन की पुस्तक” का संदर्भ उस अभिलेख से है जिसमें परमेश्वर ने उन सब मनुष्यों के नाम लिखे हैं जिनका उसने उद्धार करके अनन्त जीवन दे दिया है।</p><ul><li><p>प्रकाशितवाक्य की पुस्तक में इस पुस्तक को “मेम्ने के जीवन की पुस्तक” कहा गया है। इसका अनुवाद किया जा सकता है, “परमेश्वर के मेम्ने यीशु की जीवन की पुस्तक”। क्रूस पर यीशु की बलि ने मनुष्यों के पाप का दण्ड उठा लिया कि वे उसमें विश्वास के द्वारा अनन्त जीवन पाएं।</p></li><li><p>“पुस्तक” शब्द का अर्थ है “कुंडली-ग्रन्थ” या “पत्र” या “लेख” या “वैध अभिलेख।” यह शाब्दिक या प्रतीकात्मक हो सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25712\" data-resourceType=\"UWTranslationWords\">अनन्त</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25951\" data-resourceType=\"UWTranslationWords\">मेम्ना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_life\" data-resourceType=\"UWTranslationWords\">जीवन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26205\" data-resourceType=\"UWTranslationWords\">पुस्तक (कुंडली-ग्रन्थ)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Phil4:3\">फिलिप्पियों 4:3</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 69:28–29</a></p></li><li><p><a href=\"https://ref.ly/Rev3:5-Rev3:6\">प्रकाशितवाक्य 3:5–6</a></p></li><li><p><a href=\"https://ref.ly/Rev20:11-Rev20:12\">प्रकाशितवाक्य 20:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2416, H5612, G09760, G22220</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02032032",
+          "start_ref_usfm": "EXO 32:32",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        },
+        {
+          "start_ref": "02032033",
+          "start_ref_usfm": "EXO 32:33",
+          "end_ref": "02032033",
+          "end_ref_usfm": "EXO 32:33"
+        },
+        {
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "66003005",
+          "start_ref_usfm": "REV 3:5",
+          "end_ref": "66003005",
+          "end_ref_usfm": "REV 3:5"
+        },
+        {
+          "start_ref": "66013008",
+          "start_ref_usfm": "REV 13:8",
+          "end_ref": "66013008",
+          "end_ref_usfm": "REV 13:8"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66020015",
+          "start_ref_usfm": "REV 20:15",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "66021027",
+          "start_ref_usfm": "REV 21:27",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        },
+        {
+          "start_ref": "66020011",
+          "start_ref_usfm": "REV 20:11",
+          "end_ref": "66020012",
+          "end_ref_usfm": "REV 20:12"
+        },
+        {
+          "start_ref": "19069028",
+          "start_ref_usfm": "PSA 69:28",
+          "end_ref": "19069029",
+          "end_ref_usfm": "PSA 69:29"
+        },
+        {
+          "start_ref": "66003005",
+          "start_ref_usfm": "REV 3:5",
+          "end_ref": "66003006",
+          "end_ref_usfm": "REV 3:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25712,
+          "content_id": 179785,
+          "label": "सनातन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25951,
+          "content_id": 180016,
+          "label": "मेमना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26205,
+          "content_id": 180263,
+          "label": "कुंडली ग्रन्थ",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

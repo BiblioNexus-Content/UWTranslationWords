@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 27164,
+    "reference_id": 26306,
+    "title": "Titus",
+    "media_type": "Text",
+    "index_reference": "titus",
+    "language": "eng",
+    "content": "<h1>Titus</h1><h2>Facts:</h2><p>Titus was a Gentile. He was trained by Paul to be a leader in the early churches.</p><ul><li><p>A letter written to Titus by Paul is one of the books of the New Testament.</p></li><li><p>In this letter Paul instructed Titus to appoint elders for the churches on the island of Crete.</p></li><li><p>In some of his other letters to Christians, Paul mentions Titus as someone who encouraged him and brought him joy.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25467\" data-resourceType=\"UWTranslationWords\">appoint</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">believe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">church</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25592\" data-resourceType=\"UWTranslationWords\">circumcise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25626\" data-resourceType=\"UWTranslationWords\">Crete</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25693\" data-resourceType=\"UWTranslationWords\">elder</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25700\" data-resourceType=\"UWTranslationWords\">encourage</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25871\" data-resourceType=\"UWTranslationWords\">instruct</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">minister</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:10\">2 Timothy 4:10</a></p></li><li><p><a href=\"https://ref.ly/Gal2:1-Gal2:2\">Galatians 2:1–2</a></p></li><li><p><a href=\"https://ref.ly/Gal2:3-Gal2:5\">Galatians 2:3–5</a></p></li><li><p><a href=\"https://ref.ly/Titus1:4\">Titus 1:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G51030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "47002013",
+          "start_ref_usfm": "2CO 2:13",
+          "end_ref": "47002013",
+          "end_ref_usfm": "2CO 2:13"
+        },
+        {
+          "start_ref": "47007006",
+          "start_ref_usfm": "2CO 7:6",
+          "end_ref": "47007006",
+          "end_ref_usfm": "2CO 7:6"
+        },
+        {
+          "start_ref": "47007013",
+          "start_ref_usfm": "2CO 7:13",
+          "end_ref": "47007013",
+          "end_ref_usfm": "2CO 7:13"
+        },
+        {
+          "start_ref": "47007014",
+          "start_ref_usfm": "2CO 7:14",
+          "end_ref": "47007014",
+          "end_ref_usfm": "2CO 7:14"
+        },
+        {
+          "start_ref": "47008006",
+          "start_ref_usfm": "2CO 8:6",
+          "end_ref": "47008006",
+          "end_ref_usfm": "2CO 8:6"
+        },
+        {
+          "start_ref": "47008016",
+          "start_ref_usfm": "2CO 8:16",
+          "end_ref": "47008016",
+          "end_ref_usfm": "2CO 8:16"
+        },
+        {
+          "start_ref": "47008023",
+          "start_ref_usfm": "2CO 8:23",
+          "end_ref": "47008023",
+          "end_ref_usfm": "2CO 8:23"
+        },
+        {
+          "start_ref": "47012018",
+          "start_ref_usfm": "2CO 12:18",
+          "end_ref": "47012018",
+          "end_ref_usfm": "2CO 12:18"
+        },
+        {
+          "start_ref": "55004010",
+          "start_ref_usfm": "2TI 4:10",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "56001004",
+          "start_ref_usfm": "TIT 1:4",
+          "end_ref": "56001004",
+          "end_ref_usfm": "TIT 1:4"
+        },
+        {
+          "start_ref": "48002003",
+          "start_ref_usfm": "GAL 2:3",
+          "end_ref": "48002005",
+          "end_ref_usfm": "GAL 2:5"
+        },
+        {
+          "start_ref": "48002001",
+          "start_ref_usfm": "GAL 2:1",
+          "end_ref": "48002002",
+          "end_ref_usfm": "GAL 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 26325,
+          "label": "Appoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 26381,
+          "label": "Believe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 26448,
+          "label": "Church",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25592,
+          "content_id": 26450,
+          "label": "Circumcise",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25618,
+          "content_id": 26476,
+          "label": "Courage",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25626,
+          "content_id": 26484,
+          "label": "Crete",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25693,
+          "content_id": 26551,
+          "label": "Elder",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25700,
+          "content_id": 26558,
+          "label": "Encourage",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25871,
+          "content_id": 26729,
+          "label": "Instruct",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 26879,
+          "label": "Minister",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

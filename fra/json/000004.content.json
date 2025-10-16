@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467215,
+    "reference_id": 26090,
+    "title": "# persévérer",
+    "media_type": "Text",
+    "index_reference": "# persévérer",
+    "language": "fra",
+    "content": "<h1># persévérer, persévérance</h1><h2>Définition :</h2><p>Le terme, &quot;persévérer&quot;, se réfère à l’application de constance, résolution et ténacité à un défi ou challenge qui est très difficile ou prend beaucoup de temps. La &quot;persévérance&quot; est l’acte de persister, d&apos;être inébranlable devant les épreuves de la vie.</p><ul><li><p>&quot;Persévérer&quot; peut aussi signifier continuer à agir comme le Christ, particulièrement en traversant des épreuves ou des circonstances difficiles.</p></li><li><p>Si une personne a de la &quot;persévérance&quot;, cela signifie qu’elle est capable de continuer à faire ce qu’elle doit faire, même lorsque c’est douloureux ou difficile.</p></li><li><p>Continuer à croire et à faire ce que Dieu enseigne exige de la &quot;persévérance&quot;, surtout à la face de faux enseignements.</p></li><li><p>Faites attention de ne pas utiliser un mot comme têtu qui a normalement un sens négatif.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26077\" data-resourceType=\"UWTranslationWords\">patient</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26315\" data-resourceType=\"UWTranslationWords\">épreuve</span>)</p><h2>Bible References:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Colossians 1:11</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Ephesians 6:18</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">James 5:9–11</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Luke 8:14–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G31150, G43430, G52810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008015",
+          "start_ref_usfm": "LUK 8:15",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005003",
+          "end_ref_usfm": "ROM 5:3"
+        },
+        {
+          "start_ref": "45005004",
+          "start_ref_usfm": "ROM 5:4",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "49006018",
+          "start_ref_usfm": "EPH 6:18",
+          "end_ref": "49006018",
+          "end_ref_usfm": "EPH 6:18"
+        },
+        {
+          "start_ref": "51001011",
+          "start_ref_usfm": "COL 1:11",
+          "end_ref": "51001011",
+          "end_ref_usfm": "COL 1:11"
+        },
+        {
+          "start_ref": "56002002",
+          "start_ref_usfm": "TIT 2:2",
+          "end_ref": "56002002",
+          "end_ref_usfm": "TIT 2:2"
+        },
+        {
+          "start_ref": "66002003",
+          "start_ref_usfm": "REV 2:3",
+          "end_ref": "66002003",
+          "end_ref_usfm": "REV 2:3"
+        },
+        {
+          "start_ref": "66002019",
+          "start_ref_usfm": "REV 2:19",
+          "end_ref": "66002019",
+          "end_ref_usfm": "REV 2:19"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "42008014",
+          "start_ref_usfm": "LUK 8:14",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26315,
+          "content_id": 467428,
+          "label": "Procès",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

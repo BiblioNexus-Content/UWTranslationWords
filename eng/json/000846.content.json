@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27119,
+    "reference_id": 26261,
+    "title": "Stephen",
+    "media_type": "Text",
+    "index_reference": "stephen",
+    "language": "eng",
+    "content": "<h1>Stephen</h1><h2>Facts:</h2><p>Stephen is most remembered as the first Christian martyr, that is, the first person to be killed because of his faith in Jesus. The facts about his life and death are recorded in the book of Acts.</p><ul><li><p>Stephen was appointed by the early Church in Jerusalem to serve the Christians as a deacon by providing food for widows and other Christians in need.</p></li><li><p>Certain Jews falsely accused Stephen of speaking against God and against the laws of Moses.</p></li><li><p>Stephen boldly spoke the truth about Jesus the Messiah, beginning with the history of God’s dealings with the people of Israel.</p></li><li><p>The Jewish leaders were furious and executed Stephen by stoning him to death outside the city.</p></li><li><p>His execution was witnessed by Saul of Tarsus, who later became the apostle Paul.</p></li><li><p>Stephen is also well-known for his last words before he died, “Lord, please do not hold this sin against them,” which showed the love he had for others.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25467\" data-resourceType=\"UWTranslationWords\">appoint</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25647\" data-resourceType=\"UWTranslationWords\">deacon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26262\" data-resourceType=\"UWTranslationWords\">stone</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">true</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:5\">Acts 6:5</a></p></li><li><p><a href=\"https://ref.ly/Acts6:9\">Acts 6:9</a></p></li><li><p><a href=\"https://ref.ly/Acts6:10-Acts6:11\">Acts 6:10–11</a></p></li><li><p><a href=\"https://ref.ly/Acts6:12\">Acts 6:12</a></p></li><li><p><a href=\"https://ref.ly/Acts7:59\">Acts 7:59</a></p></li><li><p><a href=\"https://ref.ly/Acts11:19\">Acts 11:19</a></p></li><li><p><a href=\"https://ref.ly/Acts22:20\">Acts 22:20</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G47360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44006012",
+          "start_ref_usfm": "ACT 6:12",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44007059",
+          "start_ref_usfm": "ACT 7:59",
+          "end_ref": "44007059",
+          "end_ref_usfm": "ACT 7:59"
+        },
+        {
+          "start_ref": "44008002",
+          "start_ref_usfm": "ACT 8:2",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "44006010",
+          "start_ref_usfm": "ACT 6:10",
+          "end_ref": "44006011",
+          "end_ref_usfm": "ACT 6:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 26325,
+          "label": "Appoint",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25647,
+          "content_id": 26505,
+          "label": "Deacon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26262,
+          "content_id": 27120,
+          "label": "Stone",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

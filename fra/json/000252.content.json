@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466837,
+    "reference_id": 25677,
+    "title": "Domination",
+    "media_type": "Text",
+    "index_reference": "domination",
+    "language": "fra",
+    "content": "<h1>domination</h1><h2>Définition</h2><p>Le terme &quot;domination&quot; fait référence au pouvoir, au contrôle ou à l&apos;autorité sur les personnes, les animaux ou la terre.</p><ul><li><p>On dit au sujet de Jésus qu&apos;il a &quot;la domination&quot; sur la terre, comme prophète, prêtre et roi.</p></li><li><p>La &quot;domination&quot; de Satan a été vaincue pour toujours par la mort de Jésus-Christ sur la croix.</p></li><li><p>À la création, Dieu a dit que l&apos;homme devait avoir la &quot;domination&quot; sur les poissons, les oiseaux et toutes les créatures de la terre.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Selon le contexte, d&apos;autres façons de traduire le terme &quot;domination&quot; pourraient comprendre &quot;autorité&quot; ou &quot;pouvoir&quot; ou &quot;contrôle&quot;.</p></li><li><p>L&apos;expression, &quot;avoir la domination sur&quot;, pourrait être traduite par &quot;régner sur&quot; ou &quot;gérer&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">autorité</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">pouvoir</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001026",
+          "end_ref_usfm": "GEN 1:26"
+        },
+        {
+          "start_ref": "01001028",
+          "start_ref_usfm": "GEN 1:28",
+          "end_ref": "01001028",
+          "end_ref_usfm": "GEN 1:28"
+        },
+        {
+          "start_ref": "01003016",
+          "start_ref_usfm": "GEN 3:16",
+          "end_ref": "01003016",
+          "end_ref_usfm": "GEN 3:16"
+        },
+        {
+          "start_ref": "01004007",
+          "start_ref_usfm": "GEN 4:7",
+          "end_ref": "01004007",
+          "end_ref_usfm": "GEN 4:7"
+        },
+        {
+          "start_ref": "01024002",
+          "start_ref_usfm": "GEN 24:2",
+          "end_ref": "01024002",
+          "end_ref_usfm": "GEN 24:2"
+        },
+        {
+          "start_ref": "01037008",
+          "start_ref_usfm": "GEN 37:8",
+          "end_ref": "01037008",
+          "end_ref_usfm": "GEN 37:8"
+        },
+        {
+          "start_ref": "18025002",
+          "start_ref_usfm": "JOB 25:2",
+          "end_ref": "18025002",
+          "end_ref_usfm": "JOB 25:2"
+        },
+        {
+          "start_ref": "49001021",
+          "start_ref_usfm": "EPH 1:21",
+          "end_ref": "49001021",
+          "end_ref_usfm": "EPH 1:21"
+        },
+        {
+          "start_ref": "51001013",
+          "start_ref_usfm": "COL 1:13",
+          "end_ref": "51001013",
+          "end_ref_usfm": "COL 1:13"
+        },
+        {
+          "start_ref": "51001016",
+          "start_ref_usfm": "COL 1:16",
+          "end_ref": "51001016",
+          "end_ref_usfm": "COL 1:16"
+        },
+        {
+          "start_ref": "65001025",
+          "start_ref_usfm": "JUD 1:25",
+          "end_ref": "65001025",
+          "end_ref_usfm": "JUD 1:25"
+        },
+        {
+          "start_ref": "60005010",
+          "start_ref_usfm": "1PE 5:10",
+          "end_ref": "60005011",
+          "end_ref_usfm": "1PE 5:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 32921,
+          "label": "autorité",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

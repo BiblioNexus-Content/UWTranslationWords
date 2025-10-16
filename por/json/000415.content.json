@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237937,
+    "reference_id": 25804,
+    "title": "Grécia",
+    "media_type": "Text",
+    "index_reference": "grécia",
+    "language": "por",
+    "content": "<h1>Grécia, grego</h1><h2>Fatos:</h2><p>Durante os tempos do Novo Testamento, a Grécia era uma província do Império Romano.</p><ul><li><p>Assim como o país moderno da Grécia, a Grécia antiga estava localizada em uma península que é banhada pelo Mar Mediterrâneo, Mar Egeu e Mar Jônico.</p></li><li><p>O apóstolo Paulo visitou várias cidades na Grécia e estabeleceu igrejas nas cidades de Corinto, Tessalônica e Filipos, e provavelmente em outras.</p></li><li><p>As pessoas que são da Grécia são chamadas de “gregos” e sua língua é o “grego”. Pessoas de outras províncias romanas também falavam grego, incluindo muitos judeus.</p></li><li><p>Às vezes, o termo “grego” é usado para se referir a um gentio.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">Corinto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">Gentio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25805\" data-resourceType=\"UWTranslationWords\">grego</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25826\" data-resourceType=\"UWTranslationWords\">Hebraico</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26097\" data-resourceType=\"UWTranslationWords\">Filipos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26295\" data-resourceType=\"UWTranslationWords\">Tessalônica</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan8:21\">Daniel 8.21</a></p></li><li><p><a href=\"https://ref.ly/Dan10:20-Dan10:21\">Daniel 10.20–21</a></p></li><li><p><a href=\"https://ref.ly/Dan11:1-Dan11:2\">Daniel 11.1–2</a></p></li><li><p><a href=\"https://ref.ly/Zech9:13\">Zacarias 9.13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3120, G16710</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "27008021",
+          "start_ref_usfm": "DAN 8:21",
+          "end_ref": "27008021",
+          "end_ref_usfm": "DAN 8:21"
+        },
+        {
+          "start_ref": "38009013",
+          "start_ref_usfm": "ZEC 9:13",
+          "end_ref": "38009013",
+          "end_ref_usfm": "ZEC 9:13"
+        },
+        {
+          "start_ref": "44020002",
+          "start_ref_usfm": "ACT 20:2",
+          "end_ref": "44020002",
+          "end_ref_usfm": "ACT 20:2"
+        },
+        {
+          "start_ref": "27010020",
+          "start_ref_usfm": "DAN 10:20",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "27011001",
+          "start_ref_usfm": "DAN 11:1",
+          "end_ref": "27011002",
+          "end_ref_usfm": "DAN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25612,
+          "content_id": 237746,
+          "label": "Corinto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 237906,
+          "label": "Gentio",
+          "language": "por"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 237938,
+          "label": "Grego",
+          "language": "por"
+        },
+        {
+          "reference_id": 25826,
+          "content_id": 237959,
+          "label": "Hebreu",
+          "language": "por"
+        },
+        {
+          "reference_id": 26097,
+          "content_id": 238227,
+          "label": "Filipos",
+          "language": "por"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 238424,
+          "label": "Tessalônica",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

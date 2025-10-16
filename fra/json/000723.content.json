@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 467289,
+    "reference_id": 26169,
+    "title": "Renommée",
+    "media_type": "Text",
+    "index_reference": "renommée",
+    "language": "fra",
+    "content": "<h1>renommée, renommé</h1><h2>Définition :</h2><p>Le terme «renommée» se réfère à être bien connu et ayant une réputation louable.</p><ul><li><p>&quot;Renommée&quot; se réfère en particulier à une bonne réputation qui est largement connue sur une longue période de temps.</p></li><li><p>Une personne &quot;renommée&quot; est quelqu&apos;un qui est bien connu et très apprécié.</p></li><li><p>Une ville qui est «renommée» est souvent bien connue pour sa richesse et sa prospérité.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Le terme «renommée» pourrait être traduit comme &quot;la gloire&quot; ou &quot;réputation estimée&quot; &quot;</p></li><li><p>Le terme «renommée» pourrait aussi être traduit par &quot;bien connu et très estimé&quot; ou &quot;ayant une excellente réputation*&quot;</p></li><li><p>L&apos;expression, «Que le nom du Seigneur soit renommé en Israël&quot; pourrait être traduit par «Que le nom du Seigneur soit bien connu et honoré par le peuple d&apos;Israël*&quot;</p></li><li><p>L&apos;expression «hommes de renom&quot; pourrait être traduite comme «hommes bien connus pour leur courage» ou «guerriers célèbres» ou «hommes très estimés*&quot;</p></li><li><p>L&apos;expression «ta renommée perdure dans toutes les générations» pourrait être traduite par «Pendant des années, les gens vont apprendre à quel point vous êtes estimés» ou «votre grandeur est vue et entendue par toutes les générations*&quot;</p></li></ul><p>(Voir aussi : (../kt/honor.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "19135012",
+          "start_ref_usfm": "PSA 135:12",
+          "end_ref": "19135014",
+          "end_ref_usfm": "PSA 135:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25846,
+          "content_id": 466993,
+          "label": "Honneur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

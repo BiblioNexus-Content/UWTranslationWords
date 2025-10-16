@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 238171,
+    "reference_id": 26041,
+    "title": "Naum",
+    "media_type": "Text",
+    "index_reference": "naum",
+    "language": "por",
+    "content": "<h1>Nahum</h1><h2>Fatos:</h2><p>Naum foi um profeta que pregou durante o tempo em que o malvado Rei Manassés estava governando Judá.</p><ul><li><p>Naum era da cidade de Elcos, que ficava a cerca de 32 quilômetros de Jerusalém.</p></li><li><p>O livro de Naum no Antigo Testamento registra suas profecias sobre a destruição da cidade assíria de Nínive.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assíria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manassés</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">Nínive</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Nah1:1\">Naum 1.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5151, G34860</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 237625,
+          "label": "Assíria",
+          "language": "por"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 238123,
+          "label": "Manassés",
+          "language": "por"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 238184,
+          "label": "Nínive",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

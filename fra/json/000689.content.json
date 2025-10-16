@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467255,
+    "reference_id": 26133,
+    "title": "Prosterner",
+    "media_type": "Text",
+    "index_reference": "prosterner",
+    "language": "fra",
+    "content": "<h1>prosterner</h1><h2>Définition :</h2><p>&quot;Le terme se «prosterner» signifie être couché sur le ventre, allongé sur le sol, une manière de se plier légèrement</p><ul><li><p>«se prosterner» ou à «se prosterner» devant signifie que quelqu&apos;un s&apos;est courbé légèrement ou s&apos;est couché face vers le sol en face de cette personne.</p></li><li><p>Habituellement, cette position d&apos;être prosterné est une réaction qui montre le choc, l&apos;étonnement et la crainte à cause de quelque chose de miraculeux qui est arrivé* Elle montre également l&apos;honneur et le respect manifestés à la personne saluée.</p></li><li><p>Se prosterner était aussi une façon d&apos;adorer Dieu* Souvent, les gens ont réagi de cette façon vis à vis de Jésus dans un esprit d&apos;action de grâce et d&apos;adoration quand il faisait un miracle ou pour l&apos;honorer comme un grand maître.</p></li><li><p>Selon le contexte, les expressions pour traduire \\se&quot;prosterner&quot; pourrait inclure, &quot;se courber bas le visage au sol» ou «se prosterner devant quelqu&apos;un en se couchant face contre terre» ou «se prosterner au ras du sol dans la stupéfaction» ou &quot;adorer*&quot;</p></li><li><p>L&apos;expression «ne pas se prosterner &quot; pourrait être traduit par &quot;ne pas adorer&quot; ou &quot;faire semblant d&apos;adorer dans le culte» ou «ne se prosterner dans le culte*&quot;</p></li></ul><p>(Voir aussi : (../other/awe.md), (../other/bow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043028",
+          "start_ref_usfm": "GEN 43:28",
+          "end_ref": "01043028",
+          "end_ref_usfm": "GEN 43:28"
+        },
+        {
+          "start_ref": "02034008",
+          "start_ref_usfm": "EXO 34:8",
+          "end_ref": "02034008",
+          "end_ref_usfm": "EXO 34:8"
+        },
+        {
+          "start_ref": "12017036",
+          "start_ref_usfm": "2KI 17:36",
+          "end_ref": "12017038",
+          "end_ref_usfm": "2KI 17:38"
+        },
+        {
+          "start_ref": "66019003",
+          "start_ref_usfm": "REV 19:3",
+          "end_ref": "66019004",
+          "end_ref_usfm": "REV 19:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25494,
+          "content_id": 466672,
+          "label": "Emerveillement impressionnant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25552,
+          "content_id": 466723,
+          "label": "S'incliner",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

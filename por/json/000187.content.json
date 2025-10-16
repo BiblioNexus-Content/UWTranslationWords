@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 237728,
+    "reference_id": 25593,
+    "title": "Cidadão",
+    "media_type": "Text",
+    "index_reference": "cidadão",
+    "language": "por",
+    "content": "<h1>cidadão, cidadania</h1><h2>Definição:</h2><p>Um cidadão é alguém que vive em uma cidade, país ou reino específico. Refere-se especialmente a alguém que é reconhecido oficialmente como residente legal desse lugar.</p><ul><li><p>Dependendo do contexto, isso também pode ser traduzido como “habitante” ou “residente oficial”.</p></li><li><p>Um cidadão pode viver em uma região que faz parte de um reino ou império maior governado por um rei, imperador ou outro governante. Por exemplo, Paulo era um cidadão do Império Romano, que consistia em muitas províncias diferentes; Paulo vivia em uma dessas províncias.</p></li><li><p>Em um sentido figurado, os crentes em Jesus são chamados de “cidadãos” do céu no sentido de que viverão lá algum dia. Como um cidadão de um país, os cristãos pertencem ao reino de Deus.</p></li></ul><p>(Veja: <span data-bnType=\"resourceReference\" data-resourceId=\"25939\" data-resourceType=\"UWTranslationWords\">reino</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">província</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts21:39-Acts21:40\">Atos 21.39–40</a></p></li><li><p><a href=\"https://ref.ly/Isa3:3\">Isaías 3.3</a></p></li><li><p><a href=\"https://ref.ly/Luke15:15\">Lucas 15.15</a></p></li><li><p><a href=\"https://ref.ly/Luke19:14\">Lucas 19.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6440, G41750, G41770, G48470</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23003003",
+          "start_ref_usfm": "ISA 3:3",
+          "end_ref": "23003003",
+          "end_ref_usfm": "ISA 3:3"
+        },
+        {
+          "start_ref": "42015015",
+          "start_ref_usfm": "LUK 15:15",
+          "end_ref": "42015015",
+          "end_ref_usfm": "LUK 15:15"
+        },
+        {
+          "start_ref": "42019014",
+          "start_ref_usfm": "LUK 19:14",
+          "end_ref": "42019014",
+          "end_ref_usfm": "LUK 19:14"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022028",
+          "start_ref_usfm": "ACT 22:28",
+          "end_ref": "44022028",
+          "end_ref_usfm": "ACT 22:28"
+        },
+        {
+          "start_ref": "44023001",
+          "start_ref_usfm": "ACT 23:1",
+          "end_ref": "44023001",
+          "end_ref_usfm": "ACT 23:1"
+        },
+        {
+          "start_ref": "49002012",
+          "start_ref_usfm": "EPH 2:12",
+          "end_ref": "49002012",
+          "end_ref_usfm": "EPH 2:12"
+        },
+        {
+          "start_ref": "49002019",
+          "start_ref_usfm": "EPH 2:19",
+          "end_ref": "49002019",
+          "end_ref_usfm": "EPH 2:19"
+        },
+        {
+          "start_ref": "50003020",
+          "start_ref_usfm": "PHP 3:20",
+          "end_ref": "50003020",
+          "end_ref_usfm": "PHP 3:20"
+        },
+        {
+          "start_ref": "58008011",
+          "start_ref_usfm": "HEB 8:11",
+          "end_ref": "58008011",
+          "end_ref_usfm": "HEB 8:11"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021040",
+          "end_ref_usfm": "ACT 21:40"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25939,
+          "content_id": 238071,
+          "label": "Reino",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 238267,
+          "label": "Província",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

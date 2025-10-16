@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238446,
+    "reference_id": 26318,
+    "title": "Tributo",
+    "media_type": "Text",
+    "index_reference": "tributo",
+    "language": "por",
+    "content": "<h1>tributo, contribuição, multado</h1><h2>Definição:</h2><p>O termo “tributo” refere-se a um presente de um governante para outro governante, com o propósito de proteção e boas relações entre suas nações. Um tributo também pode ser um pagamento que um governante ou governo exige do povo, como um pedágio ou imposto.</p><ul><li><p>Nos tempos bíblicos, reis ou governantes viajantes às vezes pagavam um tributo ao rei da região pela qual estavam viajando para garantir que estariam protegidos e seguros.</p></li><li><p>Frequentemente, o tributo incluía coisas além de dinheiro, como alimentos, especiarias, roupas e metais caros como ouro.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Dependendo do contexto, “tributo” poderia ser traduzido como “presentes oficiais”, “taxa especial” ou “pagamento exigido”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25791\" data-resourceType=\"UWTranslationWords\">ouro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">rei</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">governante</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">imposto</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr18:1-1Chr18:2\">1 Crônicas 18.1–2</a></p></li><li><p><a href=\"https://ref.ly/2Chr9:22-2Chr9:24\">2 Crônicas 9.22–24</a></p></li><li><p><a href=\"https://ref.ly/2Kgs17:3\">2 Reis 17.3</a></p></li><li><p><a href=\"https://ref.ly/Luke23:2\">Lucas 23.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1093, H4061, H4503, H4530, H4853, H6066, H7862, G54110</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "15004013",
+          "start_ref_usfm": "EZR 4:13",
+          "end_ref": "15004013",
+          "end_ref_usfm": "EZR 4:13"
+        },
+        {
+          "start_ref": "15004020",
+          "start_ref_usfm": "EZR 4:20",
+          "end_ref": "15004020",
+          "end_ref_usfm": "EZR 4:20"
+        },
+        {
+          "start_ref": "15007024",
+          "start_ref_usfm": "EZR 7:24",
+          "end_ref": "15007024",
+          "end_ref_usfm": "EZR 7:24"
+        },
+        {
+          "start_ref": "40017025",
+          "start_ref_usfm": "MAT 17:25",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
+        },
+        {
+          "start_ref": "40022017",
+          "start_ref_usfm": "MAT 22:17",
+          "end_ref": "40022017",
+          "end_ref_usfm": "MAT 22:17"
+        },
+        {
+          "start_ref": "40022019",
+          "start_ref_usfm": "MAT 22:19",
+          "end_ref": "40022019",
+          "end_ref_usfm": "MAT 22:19"
+        },
+        {
+          "start_ref": "41012014",
+          "start_ref_usfm": "MRK 12:14",
+          "end_ref": "41012014",
+          "end_ref_usfm": "MRK 12:14"
+        },
+        {
+          "start_ref": "42023002",
+          "start_ref_usfm": "LUK 23:2",
+          "end_ref": "42023002",
+          "end_ref_usfm": "LUK 23:2"
+        },
+        {
+          "start_ref": "13018001",
+          "start_ref_usfm": "1CH 18:1",
+          "end_ref": "13018002",
+          "end_ref_usfm": "1CH 18:2"
+        },
+        {
+          "start_ref": "14009022",
+          "start_ref_usfm": "2CH 9:22",
+          "end_ref": "14009024",
+          "end_ref_usfm": "2CH 9:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25791,
+          "content_id": 237924,
+          "label": "Ouro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 238070,
+          "label": "Rei",
+          "language": "por"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 191642,
+          "label": "Governante",
+          "language": "por"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 238411,
+          "label": "Imposto",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

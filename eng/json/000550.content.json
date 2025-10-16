@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26823,
+    "reference_id": 25965,
+    "title": "Leprosy",
+    "media_type": "Text",
+    "index_reference": "leprosy",
+    "language": "eng",
+    "content": "<h1>skin disease, leper, leprosy</h1><h2>Definition:</h2><p>The term “leprosy” is used in the Bible to refer to several different skin diseases. A “leper” is a person who has leprosy. The term “leprous” describes a person or body part that is infected with leprosy.</p><ul><li><p>Certain kinds of leprosy cause the skin to become discolored with white patches, as when Miriam and Naaman had leprosy.</p></li><li><p>In modern times, leprosy often causes hands, feet, and other body parts to become damaged and deformed.</p></li><li><p>According to the instructions that God gave to the Israelites, when a person had leprosy, he was considered “unclean” and had to stay away from other people so that they would not become infected with the disease.</p></li><li><p>A leper would often call out “unclean” so that others would be warned not to come near him.</p></li><li><p>Jesus healed many lepers, and also people who had other kinds of diseases.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “leprosy” in the Bible can be translated as “skin disease” or “dreaded skin disease.”</p></li><li><p>Ways to translate “leprous” could include “full of leprosy” or “infected with skin disease” or “covered with skin sores.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26023\" data-resourceType=\"UWTranslationWords\">Miriam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26039\" data-resourceType=\"UWTranslationWords\">Naaman</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">clean</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke5:13\">Luke 5:13</a></p></li><li><p><a href=\"https://ref.ly/Luke17:12\">Luke 17:12</a></p></li><li><p><a href=\"https://ref.ly/Mark1:40\">Mark 1:40</a></p></li><li><p><a href=\"https://ref.ly/Mark14:3\">Mark 14:3</a></p></li><li><p><a href=\"https://ref.ly/Matt8:3\">Matthew 8:3</a></p></li><li><p><a href=\"https://ref.ly/Matt10:8-Matt10:10\">Matthew 10:8–10</a></p></li><li><p><a href=\"https://ref.ly/Matt11:5\">Matthew 11:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6879, H6883, G30140, G30150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40008002",
+          "start_ref_usfm": "MAT 8:2",
+          "end_ref": "40008002",
+          "end_ref_usfm": "MAT 8:2"
+        },
+        {
+          "start_ref": "40008003",
+          "start_ref_usfm": "MAT 8:3",
+          "end_ref": "40008003",
+          "end_ref_usfm": "MAT 8:3"
+        },
+        {
+          "start_ref": "40010008",
+          "start_ref_usfm": "MAT 10:8",
+          "end_ref": "40010008",
+          "end_ref_usfm": "MAT 10:8"
+        },
+        {
+          "start_ref": "40011005",
+          "start_ref_usfm": "MAT 11:5",
+          "end_ref": "40011005",
+          "end_ref_usfm": "MAT 11:5"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026006",
+          "end_ref_usfm": "MAT 26:6"
+        },
+        {
+          "start_ref": "41001040",
+          "start_ref_usfm": "MRK 1:40",
+          "end_ref": "41001040",
+          "end_ref_usfm": "MRK 1:40"
+        },
+        {
+          "start_ref": "41001042",
+          "start_ref_usfm": "MRK 1:42",
+          "end_ref": "41001042",
+          "end_ref_usfm": "MRK 1:42"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014003",
+          "end_ref_usfm": "MRK 14:3"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "42005012",
+          "start_ref_usfm": "LUK 5:12",
+          "end_ref": "42005012",
+          "end_ref_usfm": "LUK 5:12"
+        },
+        {
+          "start_ref": "42005013",
+          "start_ref_usfm": "LUK 5:13",
+          "end_ref": "42005013",
+          "end_ref_usfm": "LUK 5:13"
+        },
+        {
+          "start_ref": "42007022",
+          "start_ref_usfm": "LUK 7:22",
+          "end_ref": "42007022",
+          "end_ref_usfm": "LUK 7:22"
+        },
+        {
+          "start_ref": "42017012",
+          "start_ref_usfm": "LUK 17:12",
+          "end_ref": "42017012",
+          "end_ref_usfm": "LUK 17:12"
+        },
+        {
+          "start_ref": "40010008",
+          "start_ref_usfm": "MAT 10:8",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 26454,
+          "label": "Clean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26023,
+          "content_id": 26881,
+          "label": "Miriam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 26897,
+          "label": "Naaman",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237702,
+    "reference_id": 25567,
+    "title": "Chamar - Falar alto",
+    "media_type": "Text",
+    "index_reference": "chamar - falar alto",
+    "language": "por",
+    "content": "<h1>chamar, chamado, clamar, clamado</h1><h2>Definição:</h2><p>Os termos “chamar” e “chamar alto,” neste sentido, significam falar em voz alta.</p><ul><li><p>“Chamar alto” por alguém significa gritar, anunciar ou proclamar. Também pode significar pedir ajuda a alguém, especialmente a Deus.</p></li><li><p>Em alguns contextos, os termos “chamar” e “chamar alto” significam pedir ajuda em voz alta.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>A expressão “chamar alto por você” poderia ser traduzida como “pedir sua ajuda” ou “orar urgentemente para você.”</p></li><li><p>Quando a Bíblia diz que Deus nos “chamou” para sermos seus servos, isso poderia ser traduzido como “nos escolheu especialmente” ou “nos designou” para sermos seus servos.</p></li><li><p>“Você deve chamar o nome dele” também pode ser traduzido como “você deve nomeá-lo.”</p></li><li><p>“O nome dele é chamado” também poderia ser traduzido como “o nome dele é” ou “ele é chamado.”</p></li><li><p>“Chamar alto” poderia ser traduzido como “dizer em voz alta” ou “gritar” ou “dizer com voz alta.” Certifique-se de que a tradução disso não pareça que a pessoa está com raiva.</p></li><li><p>A expressão “sua vocação” poderia ser traduzida como “seu propósito” ou “o propósito de Deus para você” ou “o trabalho especial de Deus para você.”</p></li><li><p>“Invocar o nome do Senhor” poderia ser traduzido como “buscar o Senhor e depender dele” ou “confiar no Senhor e obedecê-lo.”</p></li><li><p>“Chamar por” algo poderia ser traduzido como “exigir” ou “pedir” ou “comandar.”</p></li><li><p>A expressão “você é chamado pelo meu nome” poderia ser traduzida como “eu lhe dei meu nome, mostrando que você pertence a mim.”</p></li><li><p>Quando Deus diz, “Eu o chamei pelo nome,” isso poderia ser traduzido como “Eu o conheço e o escolhi.”</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26117\" data-resourceType=\"UWTranslationWords\">orar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25630\" data-resourceType=\"UWTranslationWords\">chorar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25569\" data-resourceType=\"UWTranslationWords\">chamar para convocar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25568\" data-resourceType=\"UWTranslationWords\">chamar nome</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0559, H2199, H4744, H6817, H7121, H7123, H7769, H7773, G01540, G03630, G14580, G15280, G19410, G19510, G20280, G20460, G25640, G28210, G28220, G28400, G29190, G30040, G31060, G33330, G33430, G36030, G36860, G36870, G43160, G43410, G43770, G47790, G48670, G54550, G55370, G55810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001003",
+          "start_ref_usfm": "MRK 1:3",
+          "end_ref": "41001003",
+          "end_ref_usfm": "MRK 1:3"
+        },
+        {
+          "start_ref": "41015034",
+          "start_ref_usfm": "MRK 15:34",
+          "end_ref": "41015034",
+          "end_ref_usfm": "MRK 15:34"
+        },
+        {
+          "start_ref": "41015037",
+          "start_ref_usfm": "MRK 15:37",
+          "end_ref": "41015037",
+          "end_ref_usfm": "MRK 15:37"
+        },
+        {
+          "start_ref": "55002022",
+          "start_ref_usfm": "2TI 2:22",
+          "end_ref": "55002022",
+          "end_ref_usfm": "2TI 2:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25568,
+          "content_id": 237703,
+          "label": "Chamar - nomear",
+          "language": "por"
+        },
+        {
+          "reference_id": 25569,
+          "content_id": 237704,
+          "label": "Chamar - Convocar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26117,
+          "content_id": 238247,
+          "label": "Orar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25630,
+          "content_id": 237763,
+          "label": "Chorar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

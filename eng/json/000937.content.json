@@ -1,0 +1,268 @@
+[
+  {
+    "content_id": 27210,
+    "reference_id": 26352,
+    "title": "Woe",
+    "media_type": "Text",
+    "index_reference": "woe",
+    "language": "eng",
+    "content": "<h1>woe</h1><h2>Definition:</h2><p>The term “woe” refers to a feeling of great distress. It also gives a warning that someone will experience severe trouble.</p><ul><li><p>The expression “woe to” is followed by a warning to people that they will experience suffering as punishment for their sins.</p></li><li><p>In several places in the Bible, the word “woe” is repeated, to emphasize an especially terrible judgment.</p></li><li><p>A person who says “woe is me” or “woe to me” is expressing sorrow about severe suffering.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, the term “woe” could also be translated as “great sorrow” or “sadness” or “calamity” or “disaster.”</p></li><li><p>Other ways to translate the expression “Woe to (name of city)” could include, “How terrible it will be for (name of city)” or “The people in (that city) will be severely punished” or “Those people will suffer greatly.”</p></li><li><p>The expression, “Woe is me!” or “Woe to me!” could be translated as “How sad I am!” or “I am so sad!” or “How terrible this is for me!”</p></li><li><p>The expression “Woe to you” could also be translated as “You will suffer terribly” or “You will experience terrible troubles.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek13:17-Ezek13:18\">Ezekiel 13:17–18</a></p></li><li><p><a href=\"https://ref.ly/Hab2:12\">Habakkuk 2:12</a></p></li><li><p><a href=\"https://ref.ly/Isa31:1-Isa31:2\">Isaiah 31:1–2</a></p></li><li><p><a href=\"https://ref.ly/Jer45:1-Jer45:3\">Jeremiah 45:1–3</a></p></li><li><p><a href=\"https://ref.ly/Jude1:9-Jude1:11\">Jude 1:9–11</a></p></li><li><p><a href=\"https://ref.ly/Luke6:24\">Luke 6:24</a></p></li><li><p><a href=\"https://ref.ly/Luke17:1-Luke17:2\">Luke 17:1–2</a></p></li><li><p><a href=\"https://ref.ly/Matt23:23\">Matthew 23:23</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0188, H0190, H0337, H0480, H1929, H1945, H1958, G37590</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20023029",
+          "start_ref_usfm": "PRO 23:29",
+          "end_ref": "20023029",
+          "end_ref_usfm": "PRO 23:29"
+        },
+        {
+          "start_ref": "35002012",
+          "start_ref_usfm": "HAB 2:12",
+          "end_ref": "35002012",
+          "end_ref_usfm": "HAB 2:12"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "40018007",
+          "start_ref_usfm": "MAT 18:7",
+          "end_ref": "40018007",
+          "end_ref_usfm": "MAT 18:7"
+        },
+        {
+          "start_ref": "40023013",
+          "start_ref_usfm": "MAT 23:13",
+          "end_ref": "40023013",
+          "end_ref_usfm": "MAT 23:13"
+        },
+        {
+          "start_ref": "40023015",
+          "start_ref_usfm": "MAT 23:15",
+          "end_ref": "40023015",
+          "end_ref_usfm": "MAT 23:15"
+        },
+        {
+          "start_ref": "40023016",
+          "start_ref_usfm": "MAT 23:16",
+          "end_ref": "40023016",
+          "end_ref_usfm": "MAT 23:16"
+        },
+        {
+          "start_ref": "40023023",
+          "start_ref_usfm": "MAT 23:23",
+          "end_ref": "40023023",
+          "end_ref_usfm": "MAT 23:23"
+        },
+        {
+          "start_ref": "40023025",
+          "start_ref_usfm": "MAT 23:25",
+          "end_ref": "40023025",
+          "end_ref_usfm": "MAT 23:25"
+        },
+        {
+          "start_ref": "40023027",
+          "start_ref_usfm": "MAT 23:27",
+          "end_ref": "40023027",
+          "end_ref_usfm": "MAT 23:27"
+        },
+        {
+          "start_ref": "40023029",
+          "start_ref_usfm": "MAT 23:29",
+          "end_ref": "40023029",
+          "end_ref_usfm": "MAT 23:29"
+        },
+        {
+          "start_ref": "40024019",
+          "start_ref_usfm": "MAT 24:19",
+          "end_ref": "40024019",
+          "end_ref_usfm": "MAT 24:19"
+        },
+        {
+          "start_ref": "40026024",
+          "start_ref_usfm": "MAT 26:24",
+          "end_ref": "40026024",
+          "end_ref_usfm": "MAT 26:24"
+        },
+        {
+          "start_ref": "41013017",
+          "start_ref_usfm": "MRK 13:17",
+          "end_ref": "41013017",
+          "end_ref_usfm": "MRK 13:17"
+        },
+        {
+          "start_ref": "41014021",
+          "start_ref_usfm": "MRK 14:21",
+          "end_ref": "41014021",
+          "end_ref_usfm": "MRK 14:21"
+        },
+        {
+          "start_ref": "42006024",
+          "start_ref_usfm": "LUK 6:24",
+          "end_ref": "42006024",
+          "end_ref_usfm": "LUK 6:24"
+        },
+        {
+          "start_ref": "42006025",
+          "start_ref_usfm": "LUK 6:25",
+          "end_ref": "42006025",
+          "end_ref_usfm": "LUK 6:25"
+        },
+        {
+          "start_ref": "42006026",
+          "start_ref_usfm": "LUK 6:26",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "42011042",
+          "start_ref_usfm": "LUK 11:42",
+          "end_ref": "42011042",
+          "end_ref_usfm": "LUK 11:42"
+        },
+        {
+          "start_ref": "42011043",
+          "start_ref_usfm": "LUK 11:43",
+          "end_ref": "42011043",
+          "end_ref_usfm": "LUK 11:43"
+        },
+        {
+          "start_ref": "42011044",
+          "start_ref_usfm": "LUK 11:44",
+          "end_ref": "42011044",
+          "end_ref_usfm": "LUK 11:44"
+        },
+        {
+          "start_ref": "42011046",
+          "start_ref_usfm": "LUK 11:46",
+          "end_ref": "42011046",
+          "end_ref_usfm": "LUK 11:46"
+        },
+        {
+          "start_ref": "42011047",
+          "start_ref_usfm": "LUK 11:47",
+          "end_ref": "42011047",
+          "end_ref_usfm": "LUK 11:47"
+        },
+        {
+          "start_ref": "42011052",
+          "start_ref_usfm": "LUK 11:52",
+          "end_ref": "42011052",
+          "end_ref_usfm": "LUK 11:52"
+        },
+        {
+          "start_ref": "42017001",
+          "start_ref_usfm": "LUK 17:1",
+          "end_ref": "42017001",
+          "end_ref_usfm": "LUK 17:1"
+        },
+        {
+          "start_ref": "42021023",
+          "start_ref_usfm": "LUK 21:23",
+          "end_ref": "42021023",
+          "end_ref_usfm": "LUK 21:23"
+        },
+        {
+          "start_ref": "42022022",
+          "start_ref_usfm": "LUK 22:22",
+          "end_ref": "42022022",
+          "end_ref_usfm": "LUK 22:22"
+        },
+        {
+          "start_ref": "46009016",
+          "start_ref_usfm": "1CO 9:16",
+          "end_ref": "46009016",
+          "end_ref_usfm": "1CO 9:16"
+        },
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "66008013",
+          "start_ref_usfm": "REV 8:13",
+          "end_ref": "66008013",
+          "end_ref_usfm": "REV 8:13"
+        },
+        {
+          "start_ref": "66009012",
+          "start_ref_usfm": "REV 9:12",
+          "end_ref": "66009012",
+          "end_ref_usfm": "REV 9:12"
+        },
+        {
+          "start_ref": "66011014",
+          "start_ref_usfm": "REV 11:14",
+          "end_ref": "66011014",
+          "end_ref_usfm": "REV 11:14"
+        },
+        {
+          "start_ref": "66012012",
+          "start_ref_usfm": "REV 12:12",
+          "end_ref": "66012012",
+          "end_ref_usfm": "REV 12:12"
+        },
+        {
+          "start_ref": "66018010",
+          "start_ref_usfm": "REV 18:10",
+          "end_ref": "66018010",
+          "end_ref_usfm": "REV 18:10"
+        },
+        {
+          "start_ref": "66018016",
+          "start_ref_usfm": "REV 18:16",
+          "end_ref": "66018016",
+          "end_ref_usfm": "REV 18:16"
+        },
+        {
+          "start_ref": "66018019",
+          "start_ref_usfm": "REV 18:19",
+          "end_ref": "66018019",
+          "end_ref_usfm": "REV 18:19"
+        },
+        {
+          "start_ref": "23031001",
+          "start_ref_usfm": "ISA 31:1",
+          "end_ref": "23031002",
+          "end_ref_usfm": "ISA 31:2"
+        },
+        {
+          "start_ref": "26013017",
+          "start_ref_usfm": "EZK 13:17",
+          "end_ref": "26013018",
+          "end_ref_usfm": "EZK 13:18"
+        },
+        {
+          "start_ref": "24045001",
+          "start_ref_usfm": "JER 45:1",
+          "end_ref": "24045003",
+          "end_ref_usfm": "JER 45:3"
+        },
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "42017001",
+          "start_ref_usfm": "LUK 17:1",
+          "end_ref": "42017002",
+          "end_ref_usfm": "LUK 17:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

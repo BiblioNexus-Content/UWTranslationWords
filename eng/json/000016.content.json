@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 26289,
+    "reference_id": 25431,
+    "title": "Adonijah",
+    "media_type": "Text",
+    "index_reference": "adonijah",
+    "language": "eng",
+    "content": "<h1>Adonijah</h1><h2>Definition:</h2><p>Adonijah was the fourth son of King David.</p><ul><li><p>Adonijah tried to take over as king of Israel after the deaths of his brothers Absalom and Amnon.</p></li><li><p>God, however, had promised that David’s son Solomon would be king, so Adonijah’s plot was overthrown and Solomon was made king.</p></li><li><p>When Adonijah tried a second time to make himself king, Solomon put him to death.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H0138</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010016",
+          "start_ref_usfm": "NEH 10:16",
+          "end_ref": "16010016",
+          "end_ref_usfm": "NEH 10:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

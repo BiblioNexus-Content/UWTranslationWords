@@ -1,0 +1,215 @@
+[
+  {
+    "content_id": 467436,
+    "reference_id": 26324,
+    "title": "Tunique",
+    "media_type": "Text",
+    "index_reference": "tunique",
+    "language": "fra",
+    "content": "<h1>tunique</h1><h2>Définition :</h2><p>Une tunique est un vêtement qui va des épaules jusqu&apos;à la taille ou les genoux.</p><ul><li><p>Une tunique est semblable à une chemise ou une blouse.</p></li><li><p>Une tunique est porté sous un sur-vêtement plus long, comme une toge ou robe*,,</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../other/robe.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003021",
+          "start_ref_usfm": "GEN 3:21",
+          "end_ref": "01003021",
+          "end_ref_usfm": "GEN 3:21"
+        },
+        {
+          "start_ref": "01037003",
+          "start_ref_usfm": "GEN 37:3",
+          "end_ref": "01037003",
+          "end_ref_usfm": "GEN 37:3"
+        },
+        {
+          "start_ref": "01037023",
+          "start_ref_usfm": "GEN 37:23",
+          "end_ref": "01037023",
+          "end_ref_usfm": "GEN 37:23"
+        },
+        {
+          "start_ref": "01037031",
+          "start_ref_usfm": "GEN 37:31",
+          "end_ref": "01037031",
+          "end_ref_usfm": "GEN 37:31"
+        },
+        {
+          "start_ref": "01037032",
+          "start_ref_usfm": "GEN 37:32",
+          "end_ref": "01037032",
+          "end_ref_usfm": "GEN 37:32"
+        },
+        {
+          "start_ref": "01037033",
+          "start_ref_usfm": "GEN 37:33",
+          "end_ref": "01037033",
+          "end_ref_usfm": "GEN 37:33"
+        },
+        {
+          "start_ref": "02028004",
+          "start_ref_usfm": "EXO 28:4",
+          "end_ref": "02028004",
+          "end_ref_usfm": "EXO 28:4"
+        },
+        {
+          "start_ref": "02028039",
+          "start_ref_usfm": "EXO 28:39",
+          "end_ref": "02028039",
+          "end_ref_usfm": "EXO 28:39"
+        },
+        {
+          "start_ref": "02028040",
+          "start_ref_usfm": "EXO 28:40",
+          "end_ref": "02028040",
+          "end_ref_usfm": "EXO 28:40"
+        },
+        {
+          "start_ref": "02029005",
+          "start_ref_usfm": "EXO 29:5",
+          "end_ref": "02029005",
+          "end_ref_usfm": "EXO 29:5"
+        },
+        {
+          "start_ref": "02029008",
+          "start_ref_usfm": "EXO 29:8",
+          "end_ref": "02029008",
+          "end_ref_usfm": "EXO 29:8"
+        },
+        {
+          "start_ref": "02039027",
+          "start_ref_usfm": "EXO 39:27",
+          "end_ref": "02039027",
+          "end_ref_usfm": "EXO 39:27"
+        },
+        {
+          "start_ref": "02040014",
+          "start_ref_usfm": "EXO 40:14",
+          "end_ref": "02040014",
+          "end_ref_usfm": "EXO 40:14"
+        },
+        {
+          "start_ref": "15002069",
+          "start_ref_usfm": "EZR 2:69",
+          "end_ref": "15002069",
+          "end_ref_usfm": "EZR 2:69"
+        },
+        {
+          "start_ref": "16007070",
+          "start_ref_usfm": "NEH 7:70",
+          "end_ref": "16007070",
+          "end_ref_usfm": "NEH 7:70"
+        },
+        {
+          "start_ref": "16007072",
+          "start_ref_usfm": "NEH 7:72",
+          "end_ref": "16007072",
+          "end_ref_usfm": "NEH 7:72"
+        },
+        {
+          "start_ref": "18030018",
+          "start_ref_usfm": "JOB 30:18",
+          "end_ref": "18030018",
+          "end_ref_usfm": "JOB 30:18"
+        },
+        {
+          "start_ref": "22005003",
+          "start_ref_usfm": "SNG 5:3",
+          "end_ref": "22005003",
+          "end_ref_usfm": "SNG 5:3"
+        },
+        {
+          "start_ref": "23022021",
+          "start_ref_usfm": "ISA 22:21",
+          "end_ref": "23022021",
+          "end_ref_usfm": "ISA 22:21"
+        },
+        {
+          "start_ref": "40005040",
+          "start_ref_usfm": "MAT 5:40",
+          "end_ref": "40005040",
+          "end_ref_usfm": "MAT 5:40"
+        },
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "41006009",
+          "start_ref_usfm": "MRK 6:9",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        },
+        {
+          "start_ref": "41014063",
+          "start_ref_usfm": "MRK 14:63",
+          "end_ref": "41014063",
+          "end_ref_usfm": "MRK 14:63"
+        },
+        {
+          "start_ref": "42003011",
+          "start_ref_usfm": "LUK 3:11",
+          "end_ref": "42003011",
+          "end_ref_usfm": "LUK 3:11"
+        },
+        {
+          "start_ref": "42006029",
+          "start_ref_usfm": "LUK 6:29",
+          "end_ref": "42006029",
+          "end_ref_usfm": "LUK 6:29"
+        },
+        {
+          "start_ref": "42009003",
+          "start_ref_usfm": "LUK 9:3",
+          "end_ref": "42009003",
+          "end_ref_usfm": "LUK 9:3"
+        },
+        {
+          "start_ref": "43019023",
+          "start_ref_usfm": "JHN 19:23",
+          "end_ref": "43019023",
+          "end_ref_usfm": "JHN 19:23"
+        },
+        {
+          "start_ref": "44009039",
+          "start_ref_usfm": "ACT 9:39",
+          "end_ref": "44009039",
+          "end_ref_usfm": "ACT 9:39"
+        },
+        {
+          "start_ref": "65001023",
+          "start_ref_usfm": "JUD 1:23",
+          "end_ref": "65001023",
+          "end_ref_usfm": "JUD 1:23"
+        },
+        {
+          "start_ref": "41006007",
+          "start_ref_usfm": "MRK 6:7",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        },
+        {
+          "start_ref": "27003021",
+          "start_ref_usfm": "DAN 3:21",
+          "end_ref": "27003023",
+          "end_ref_usfm": "DAN 3:23"
+        },
+        {
+          "start_ref": "03008012",
+          "start_ref_usfm": "LEV 8:12",
+          "end_ref": "03008013",
+          "end_ref_usfm": "LEV 8:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26179,
+          "content_id": 467299,
+          "label": "Robe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466806,
+    "reference_id": 25643,
+    "title": "Darius",
+    "media_type": "Text",
+    "index_reference": "darius",
+    "language": "fra",
+    "content": "<h1>Darius</h1><h2>Définition :</h2><p>Darius était le nom de plusieurs rois de Perse* Il est possible que &quot;Darius&quot; soit un titre plutôt qu&apos;un nom.</p><ul><li><p>«Darius le Mède» était le roi que le prophète Daniel a désobéi au ordre et qui fut jeté dans la fosse aux lions comme punition pour avoir adoré son Dieu.</p></li><li><p>«Darius le Perse&quot; a contribué à faciliter la reconstruction du temple de Jérusalem pendant le temps d&apos;Esdras et de Néhémie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/persia.md), (../names/babylon.md), (../names/daniel.md), (../names/ezra.md), (../names/nehemiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15004024",
+          "start_ref_usfm": "EZR 4:24",
+          "end_ref": "15004024",
+          "end_ref_usfm": "EZR 4:24"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005005",
+          "end_ref_usfm": "EZR 5:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005006",
+          "end_ref_usfm": "EZR 5:6"
+        },
+        {
+          "start_ref": "15005007",
+          "start_ref_usfm": "EZR 5:7",
+          "end_ref": "15005007",
+          "end_ref_usfm": "EZR 5:7"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006001",
+          "end_ref_usfm": "EZR 6:1"
+        },
+        {
+          "start_ref": "15006012",
+          "start_ref_usfm": "EZR 6:12",
+          "end_ref": "15006012",
+          "end_ref_usfm": "EZR 6:12"
+        },
+        {
+          "start_ref": "15006013",
+          "start_ref_usfm": "EZR 6:13",
+          "end_ref": "15006013",
+          "end_ref_usfm": "EZR 6:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "15006015",
+          "start_ref_usfm": "EZR 6:15",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "16012022",
+          "start_ref_usfm": "NEH 12:22",
+          "end_ref": "16012022",
+          "end_ref_usfm": "NEH 12:22"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001001",
+          "end_ref_usfm": "ZEC 1:1"
+        },
+        {
+          "start_ref": "15004004",
+          "start_ref_usfm": "EZR 4:4",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 467186,
+          "label": "Néhémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

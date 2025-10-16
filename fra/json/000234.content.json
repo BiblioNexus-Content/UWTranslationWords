@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466827,
+    "reference_id": 25665,
+    "title": "Détestable",
+    "media_type": "Text",
+    "index_reference": "détestable",
+    "language": "fra",
+    "content": "<h1>détestable, détester</h1><h2>Définition :</h2><p>Le terme &quot;détestable&quot; décrit quelque chose qui est très mauvais, abominable, digne de haine. &quot;Détester&quot; veut dire avoir de l&apos;aversion, de la répulsion pour quelqu&apos;un ou quelque chose.</p><ul><li><p>Souvent, la Bible parle de détester le mal. Cela signifie haïr le mal et le rejeter.</p></li><li><p>Dieu a utilisé le mot &quot;détestable&quot; pour décrire les mauvaises pratiques de ceux qui adoraient des faux dieux.</p></li><li><p>Les Israélites avaient reçu l’ordre de &quot;détester&quot; les actes immoraux et pécheurs que certains des pays voisins pratiquaient.</p></li><li><p>Dieu a qualifié tous les actes sexuels répréhensibles de &quot;détestables&quot;.</p></li><li><p>La divination, la sorcellerie et le sacrifice d&apos;enfant étaient tous &quot;détestables&quot; devant Dieu.</p></li><li><p>Le terme &quot;détesté&quot; pourrait être traduit comme &quot;abominable&quot; ou &quot;exécrable&quot; ou &quot;haï&quot; ou &quot;très mauvais&quot;.</p></li><li><p>Le terme &quot;détestable&quot; pourrait être traduit comme &quot;horriblement mauvais&quot; ou &quot;dégoûtant&quot; ou &quot;qui mérite d&apos;être jeté au rebut&quot;.</p></li><li><p>Lorsque les méchants appellent les justes &quot;détestables&quot;, nous pouvons le traduire par &quot;les justes sont considérés comme très odieux&quot; ou &quot;répugnants&quot; ou &quot;rejetés&quot;.</p></li><li><p>Dieu a dit aux Israélites de &quot;détester&quot; certaines sortes d&apos;animaux qu&apos;il a déclarés &quot;impur&quot; et pas convenable à manger. Ici, &quot;détester&quot; pourrait être traduit comme &quot;avoir de l&apos;antipathie&quot;, ou &quot;rejeter&quot;ou &quot;considérer comme inacceptable&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25674\" data-resourceType=\"UWTranslationWords\">divination</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">pur</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043032",
+          "start_ref_usfm": "GEN 43:32",
+          "end_ref": "01043032",
+          "end_ref_usfm": "GEN 43:32"
+        },
+        {
+          "start_ref": "03011010",
+          "start_ref_usfm": "LEV 11:10",
+          "end_ref": "03011010",
+          "end_ref_usfm": "LEV 11:10"
+        },
+        {
+          "start_ref": "24007030",
+          "start_ref_usfm": "JER 7:30",
+          "end_ref": "24007030",
+          "end_ref_usfm": "JER 7:30"
+        },
+        {
+          "start_ref": "42016015",
+          "start_ref_usfm": "LUK 16:15",
+          "end_ref": "42016015",
+          "end_ref_usfm": "LUK 16:15"
+        },
+        {
+          "start_ref": "56001016",
+          "start_ref_usfm": "TIT 1:16",
+          "end_ref": "56001016",
+          "end_ref_usfm": "TIT 1:16"
+        },
+        {
+          "start_ref": "66018002",
+          "start_ref_usfm": "REV 18:2",
+          "end_ref": "66018002",
+          "end_ref_usfm": "REV 18:2"
+        },
+        {
+          "start_ref": "66017003",
+          "start_ref_usfm": "REV 17:3",
+          "end_ref": "66017005",
+          "end_ref_usfm": "REV 17:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 466764,
+          "label": "Pur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25674,
+          "content_id": 466834,
+          "label": "Devination ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

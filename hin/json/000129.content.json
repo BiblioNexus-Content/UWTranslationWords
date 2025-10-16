@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179782,
+    "reference_id": 25709,
+    "title": "एप्रात",
+    "media_type": "Text",
+    "index_reference": "एप्रात",
+    "language": "hin",
+    "content": "<h1>एप्रात, एप्राती</h1><h2>तथ्य:</h2><p>&quot;एप्रात&quot; और &quot;एप्राती&quot; शब्द शायद &quot;एप्रैम&quot; नाम से प्राप्त हुए हैं, जो यूसुफ के पुत्रों में से एक थे और&nbsp;इस्राएल&nbsp;की 12 जनजातियों में से एक के कुलपति बन गए। विभिन्न</p><ul><li><p>&quot;एप्रात&quot; उस क्षेत्र का नाम है जहां बेथेल शहर के पास, राहेल की मृत्यु हो गई।</p></li><li><p>पुराने नियम में &quot;एप्रात&quot; नाम की एक स्त्री है, जो कालेब की पत्नी थी।</p></li><li><p>बेथलहम और किरजथ-जियरिम दोनों शहरों को &quot;एप्राती&quot; भी कहा जाता है, भले ही दोनों शहर ऊपर (बेथेल के पास) की तुलना में एक अलग क्षेत्र में हैं।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">बैतलहम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">बोआज़</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25566\" data-resourceType=\"UWTranslationWords\">कालेब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">इस्राएल</span>)</p><h2>बाइबल सन्दर्भ:</h2><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H672, H673</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 179613,
+          "label": "बैतलहम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 179630,
+          "label": "बोअज़",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25566,
+          "content_id": 179648,
+          "label": "कालेब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 179946,
+          "label": "इस्राएल",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

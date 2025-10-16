@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 26472,
+    "reference_id": 25614,
+    "title": "Cornerstone",
+    "media_type": "Text",
+    "index_reference": "cornerstone",
+    "language": "eng",
+    "content": "<h1>cornerstone</h1><h2>Definition:</h2><p>The term “cornerstone” refers to a large stone that has been specially cut and placed in the corner of the foundation of a building.</p><ul><li><p>All the other stones of the building are measured and placed in relation to the cornerstone.</p></li><li><p>It is very important for the strength and stability of the whole structure.</p></li><li><p>In the New Testament, the Assembly of believers is metaphorically compared to a building which has Jesus Christ as its “cornerstone.”</p></li><li><p>In the same way that the cornerstone of a building supports and determines the position of the whole building, so Jesus Christ is the cornerstone on which the Assembly of believers is founded and supported.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “cornerstone” could also be translated as “main building stone” or “foundation stone.”</p></li><li><p>Consider whether the target language has a term for a part of a building’s foundation that is the main support. If so, this term could be used.</p></li><li><p>Another way to translate this would be, “a foundation stone used for the corner of a building.”</p></li><li><p>It is important to keep the fact that this is a large stone, used as a solid and secure building material. If stones are not used for constructing buildings, there may be another word that could be used that means “large stone” (such as “boulder”) but it should also have the idea of being well-formed and made to fit.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:11\">Acts 4:11</a></p></li><li><p><a href=\"https://ref.ly/Eph2:20\">Ephesians 2:20</a></p></li><li><p><a href=\"https://ref.ly/Matt21:42\">Matthew 21:42</a></p></li><li><p><a href=\"https://ref.ly/Ps118:22\">Psalms 118:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0068, H6438, H7218, G02040, G11370, G27760, G30370</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19118022",
+          "start_ref_usfm": "PSA 118:22",
+          "end_ref": "19118022",
+          "end_ref_usfm": "PSA 118:22"
+        },
+        {
+          "start_ref": "40021042",
+          "start_ref_usfm": "MAT 21:42",
+          "end_ref": "40021042",
+          "end_ref_usfm": "MAT 21:42"
+        },
+        {
+          "start_ref": "41012010",
+          "start_ref_usfm": "MRK 12:10",
+          "end_ref": "41012010",
+          "end_ref_usfm": "MRK 12:10"
+        },
+        {
+          "start_ref": "42020017",
+          "start_ref_usfm": "LUK 20:17",
+          "end_ref": "42020017",
+          "end_ref_usfm": "LUK 20:17"
+        },
+        {
+          "start_ref": "44004011",
+          "start_ref_usfm": "ACT 4:11",
+          "end_ref": "44004011",
+          "end_ref_usfm": "ACT 4:11"
+        },
+        {
+          "start_ref": "49002020",
+          "start_ref_usfm": "EPH 2:20",
+          "end_ref": "49002020",
+          "end_ref_usfm": "EPH 2:20"
+        },
+        {
+          "start_ref": "60002006",
+          "start_ref_usfm": "1PE 2:6",
+          "end_ref": "60002006",
+          "end_ref_usfm": "1PE 2:6"
+        },
+        {
+          "start_ref": "60002007",
+          "start_ref_usfm": "1PE 2:7",
+          "end_ref": "60002007",
+          "end_ref_usfm": "1PE 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

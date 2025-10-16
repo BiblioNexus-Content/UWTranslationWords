@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467343,
+    "reference_id": 26227,
+    "title": "Bouclier",
+    "media_type": "Text",
+    "index_reference": "bouclier",
+    "language": "fra",
+    "content": "<h1>bouclier</h1><h2>Définition :</h2><p>Un bouclier est un objet tenu par un soldat au cours d&apos;une bataille pour se protéger contre les flèches et d&apos;autres formes d&apos;attaque par un ennemi* Protéger quelqu&apos;un signifie preserver cette personne du mal.</p><ul><li><p>les Boucliers peuvent être de différentes formes, mais sont souvent circulaires ou ovales.</p></li><li><p>Ils étaient faits de matériaux robustes tels que le cuir, le bois ou le métal qui pouvaient résister à une épée ou a une flèche.</p></li><li><p>L&apos;utilisation de ce terme dans un sens métaphorique,fait reference à Dieu comme un bouclier protecteur pour son peuple.</p></li><li><p>Paul parle aussi du «bouclier de la foi&quot; qui protège les croyants contre les attaques spirituelles de satan.</p></li></ul><p>(Voir aussi : (../kt/faith.md), (../other/obey.md), (../kt/satan.md), (../kt/spirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015001",
+          "end_ref_usfm": "GEN 15:1"
+        },
+        {
+          "start_ref": "05033029",
+          "start_ref_usfm": "DEU 33:29",
+          "end_ref": "05033029",
+          "end_ref_usfm": "DEU 33:29"
+        },
+        {
+          "start_ref": "10022036",
+          "start_ref_usfm": "2SA 22:36",
+          "end_ref": "10022036",
+          "end_ref_usfm": "2SA 22:36"
+        },
+        {
+          "start_ref": "11014026",
+          "start_ref_usfm": "1KI 14:26",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "19018035",
+          "start_ref_usfm": "PSA 18:35",
+          "end_ref": "19018035",
+          "end_ref_usfm": "PSA 18:35"
+        },
+        {
+          "start_ref": "20002007",
+          "start_ref_usfm": "PRO 2:7",
+          "end_ref": "20002007",
+          "end_ref_usfm": "PRO 2:7"
+        },
+        {
+          "start_ref": "20006011",
+          "start_ref_usfm": "PRO 6:11",
+          "end_ref": "20006011",
+          "end_ref_usfm": "PRO 6:11"
+        },
+        {
+          "start_ref": "20024034",
+          "start_ref_usfm": "PRO 24:34",
+          "end_ref": "20024034",
+          "end_ref_usfm": "PRO 24:34"
+        },
+        {
+          "start_ref": "20030005",
+          "start_ref_usfm": "PRO 30:5",
+          "end_ref": "20030005",
+          "end_ref_usfm": "PRO 30:5"
+        },
+        {
+          "start_ref": "22004004",
+          "start_ref_usfm": "SNG 4:4",
+          "end_ref": "22004004",
+          "end_ref_usfm": "SNG 4:4"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "14023008",
+          "start_ref_usfm": "2CH 23:8",
+          "end_ref": "14023009",
+          "end_ref_usfm": "2CH 23:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 466880,
+          "label": "La foi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 467318,
+          "label": "Satan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

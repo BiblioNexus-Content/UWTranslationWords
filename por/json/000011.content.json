@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 237560,
+    "reference_id": 25422,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "por",
+    "content": "<h1>Abner</h1><h2>Definição:</h2><p>Abner era primo do Rei Saul no Antigo Testamento.</p><ul><li><p>Abner era o comandante-chefe do exército de Saul e apresentou o jovem Davi a Saul após Davi matar Golias, o gigante.</p></li><li><p>Após a morte do Rei Saul, Abner nomeou o filho de Saul, Isbosete, como rei em Israel, enquanto Davi foi nomeado rei em Judá.</p></li><li><p>Mais tarde, Abner foi traiçoeiramente morto pelo comandante-chefe de Davi, Joabe.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr26:26-1Chr26:28\">1 Crônicas 26.26–28</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1 Reis 2.5–6</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:32\">1 Reis 2.32</a></p></li><li><p><a href=\"https://ref.ly/1Sam17:55-1Sam17:56\">1 Samuel 17.55–56</a></p></li><li><p><a href=\"https://ref.ly/2Sam3:22\">2 Samuel 3.22</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0074</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003022",
+          "end_ref_usfm": "2SA 3:22"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "13026026",
+          "start_ref_usfm": "1CH 26:26",
+          "end_ref": "13026028",
+          "end_ref_usfm": "1CH 26:28"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017056",
+          "end_ref_usfm": "1SA 17:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

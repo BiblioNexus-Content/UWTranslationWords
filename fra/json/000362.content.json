@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467235,
+    "reference_id": 26112,
+    "title": "Grenade",
+    "media_type": "Text",
+    "index_reference": "grenade",
+    "language": "fra",
+    "content": "<h1>Grenade</h1><h2>Définition :</h2><p>Une grenade est une sorte de fruit qui a une peau dure épaisse remplie de nombreuses graines qui sont couvertes avec de la pulpe rouge comestible.</p><ul><li><p>L&apos;écorce externe est de couleur rougeâtre et la pulpe entourant les graines est brillante et rouge.</p></li><li><p>Les Grenades sont très couramment cultivées en Egypte et d&apos;autres pays ayant un climat chaud et sec.</p></li></ul><p>(Voir aussi : (../other/bronze.md), (../names/canaan.md), (../names/egypt.md), (../names/solomon.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028033",
+          "start_ref_usfm": "EXO 28:33",
+          "end_ref": "02028033",
+          "end_ref_usfm": "EXO 28:33"
+        },
+        {
+          "start_ref": "02039024",
+          "start_ref_usfm": "EXO 39:24",
+          "end_ref": "02039024",
+          "end_ref_usfm": "EXO 39:24"
+        },
+        {
+          "start_ref": "04020005",
+          "start_ref_usfm": "NUM 20:5",
+          "end_ref": "04020005",
+          "end_ref_usfm": "NUM 20:5"
+        },
+        {
+          "start_ref": "22004013",
+          "start_ref_usfm": "SNG 4:13",
+          "end_ref": "22004013",
+          "end_ref_usfm": "SNG 4:13"
+        },
+        {
+          "start_ref": "22008002",
+          "start_ref_usfm": "SNG 8:2",
+          "end_ref": "22008002",
+          "end_ref_usfm": "SNG 8:2"
+        },
+        {
+          "start_ref": "04013023",
+          "start_ref_usfm": "NUM 13:23",
+          "end_ref": "04013024",
+          "end_ref_usfm": "NUM 13:24"
+        },
+        {
+          "start_ref": "12025016",
+          "start_ref_usfm": "2KI 25:16",
+          "end_ref": "12025017",
+          "end_ref_usfm": "2KI 25:17"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008008",
+          "end_ref_usfm": "DEU 8:8"
+        },
+        {
+          "start_ref": "24052022",
+          "start_ref_usfm": "JER 52:22",
+          "end_ref": "24052023",
+          "end_ref_usfm": "JER 52:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25559,
+          "content_id": 466730,
+          "label": "Bronze",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 467015,
+    "reference_id": 25869,
+    "title": "Innocent",
+    "media_type": "Text",
+    "index_reference": "innocent",
+    "language": "fra",
+    "content": "<h1>Innocent</h1><h2>Définition :</h2><p>Le terme « innocent » s&apos;applique à quelqu&apos;un qui n&apos;est pas coupable d&apos;un acte criminel ou d&apos;autres actes répréhensibles. Cette définition peut aussi se référer plus géneralement aux gens qui ne sont pas inclus dans de mauvaises actions.</p><ul><li><p>Une personne accusée de faire quelque chose de mauvais est innocente si elle n&apos;a pas commis cet acte.</p></li><li><p>Parfois le terme « innocent » est utilisé pour se référer aux gens qui n&apos;ont rien fait de mal pour mériter le mauvais traitement qu&apos;ils reçoivent quand une armée ennemie les attaque même s&apos;ils sont « innocents ».</p></li><li><p>Dans la Bible, « le sang » peut être une métaphore pour l&apos;acte de « tuer », donc « verser le sang innocent » fait référence à « tuer des gens qui ne méritaient pas de mourir ».</p></li></ul><h2>Sugestions de traduction</h2><ul><li><p>Dans certains contextes le terme « innocent » peut être traduit par « pas coupable » ou « pas responsable » ou « sous une fausse accusation ».</p></li><li><p>Dans le cas général où on se refère aux gens innocents, ce terme peut être traduit comme « qui n&apos;ont rien fait de mauvais » ou « qui n&apos;ont pas participé au mal».</p></li><li><p>On trouve souvent l&apos;expression « le sang innocent » qui peut être traduite comme, « les gens qui n&apos;ont rien fait de mal pour mériter d&apos;être tués ».</p></li><li><p>L&apos;expression « verser le sang innocent » peut être traduit par, « tuer des gens innocents » ou « mettre à mort des gens qui n&apos;ont rien fait de mal ».</p></li><li><p>Dans le contexte d&apos;une personne qui a été tuée, « être innocent du sang de » peut être traduit par, « pas coupable de la mort de ».</p></li><li><p>Si on parle d&apos;une personne à qui on a donné la bonne nouvelle de Jésus mais qui ne l&apos;a pas l&apos;acceptée, on pourrait dire qu&apos;on est « innocent du sang de cette personne » ce qui veut dire qu&apos;on « n&apos;est pas responsable s&apos;il demeure spirituellement mort » ou « on n&apos;est pas responsable s&apos;il n&apos;accepte pas le méssage ».</p></li><li><p>Quand Pilate disait à propos de Jésus, « je suis innocent du sang de cet homme, » ceci peut être traduit par, « je ne suis pas responsable de la mort de cet homme qui n&apos;a rien fait de mal ».</p></li></ul><p>(Voir aussi : (../kt/guilt.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01020005",
+          "start_ref_usfm": "GEN 20:5",
+          "end_ref": "01020005",
+          "end_ref_usfm": "GEN 20:5"
+        },
+        {
+          "start_ref": "01044010",
+          "start_ref_usfm": "GEN 44:10",
+          "end_ref": "01044010",
+          "end_ref_usfm": "GEN 44:10"
+        },
+        {
+          "start_ref": "02021028",
+          "start_ref_usfm": "EXO 21:28",
+          "end_ref": "02021028",
+          "end_ref_usfm": "EXO 21:28"
+        },
+        {
+          "start_ref": "02023007",
+          "start_ref_usfm": "EXO 23:7",
+          "end_ref": "02023007",
+          "end_ref_usfm": "EXO 23:7"
+        },
+        {
+          "start_ref": "09019005",
+          "start_ref_usfm": "1SA 19:5",
+          "end_ref": "09019005",
+          "end_ref_usfm": "1SA 19:5"
+        },
+        {
+          "start_ref": "18004007",
+          "start_ref_usfm": "JOB 4:7",
+          "end_ref": "18004007",
+          "end_ref_usfm": "JOB 4:7"
+        },
+        {
+          "start_ref": "18009023",
+          "start_ref_usfm": "JOB 9:23",
+          "end_ref": "18009023",
+          "end_ref_usfm": "JOB 9:23"
+        },
+        {
+          "start_ref": "18022030",
+          "start_ref_usfm": "JOB 22:30",
+          "end_ref": "18022030",
+          "end_ref_usfm": "JOB 22:30"
+        },
+        {
+          "start_ref": "18027017",
+          "start_ref_usfm": "JOB 27:17",
+          "end_ref": "18027017",
+          "end_ref_usfm": "JOB 27:17"
+        },
+        {
+          "start_ref": "20001011",
+          "start_ref_usfm": "PRO 1:11",
+          "end_ref": "20001011",
+          "end_ref_usfm": "PRO 1:11"
+        },
+        {
+          "start_ref": "20006017",
+          "start_ref_usfm": "PRO 6:17",
+          "end_ref": "20006017",
+          "end_ref_usfm": "PRO 6:17"
+        },
+        {
+          "start_ref": "24022017",
+          "start_ref_usfm": "JER 22:17",
+          "end_ref": "24022017",
+          "end_ref_usfm": "JER 22:17"
+        },
+        {
+          "start_ref": "32001014",
+          "start_ref_usfm": "JON 1:14",
+          "end_ref": "32001014",
+          "end_ref_usfm": "JON 1:14"
+        },
+        {
+          "start_ref": "40012005",
+          "start_ref_usfm": "MAT 12:5",
+          "end_ref": "40012005",
+          "end_ref_usfm": "MAT 12:5"
+        },
+        {
+          "start_ref": "40012007",
+          "start_ref_usfm": "MAT 12:7",
+          "end_ref": "40012007",
+          "end_ref_usfm": "MAT 12:7"
+        },
+        {
+          "start_ref": "40027004",
+          "start_ref_usfm": "MAT 27:4",
+          "end_ref": "40027004",
+          "end_ref_usfm": "MAT 27:4"
+        },
+        {
+          "start_ref": "40027024",
+          "start_ref_usfm": "MAT 27:24",
+          "end_ref": "40027024",
+          "end_ref_usfm": "MAT 27:24"
+        },
+        {
+          "start_ref": "44020026",
+          "start_ref_usfm": "ACT 20:26",
+          "end_ref": "44020026",
+          "end_ref_usfm": "ACT 20:26"
+        },
+        {
+          "start_ref": "45016018",
+          "start_ref_usfm": "ROM 16:18",
+          "end_ref": "45016018",
+          "end_ref_usfm": "ROM 16:18"
+        },
+        {
+          "start_ref": "45016019",
+          "start_ref_usfm": "ROM 16:19",
+          "end_ref": "45016019",
+          "end_ref_usfm": "ROM 16:19"
+        },
+        {
+          "start_ref": "46004004",
+          "start_ref_usfm": "1CO 4:4",
+          "end_ref": "46004004",
+          "end_ref_usfm": "1CO 4:4"
+        },
+        {
+          "start_ref": "58007026",
+          "start_ref_usfm": "HEB 7:26",
+          "end_ref": "58007026",
+          "end_ref_usfm": "HEB 7:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25806,
+          "content_id": 466955,
+          "label": "Culpabilité",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

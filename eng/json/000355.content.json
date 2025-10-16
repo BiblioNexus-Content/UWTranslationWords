@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26627,
+    "reference_id": 25769,
+    "title": "Gaza",
+    "media_type": "Text",
+    "index_reference": "gaza",
+    "language": "eng",
+    "content": "<h1>Gaza</h1><h2>Facts:</h2><p>During Bible times, Gaza was a prosperous Philistine city located on the coast of the Mediterranean Sea, about 38 kilometers south of Ashdod. It was one of the Philistines’ five major cities.</p><ul><li><p>Because of its location, Gaza was a key seaport where commercial activities took place between many different people groups and nations.</p></li><li><p>Today, the city of Gaza is still an important seaport in the Gaza Strip, which is a region of land located along the coast of the Mediterranean Sea bordered by Israel on the north and east, and by Egypt on the south.</p></li><li><p>Gaza was the city that the Philistines took Samson to after they had captured him.</p></li><li><p>Philip the evangelist was walking along the desert road to Gaza when he met an Ethiopian eunuch.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25481\" data-resourceType=\"UWTranslationWords\">Ashdod</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Philip</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Philistines</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Ethiopia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25768\" data-resourceType=\"UWTranslationWords\">Gath</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:24-1Kgs4:25\">1 Kings 4:24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts8:26\">Acts 8:26</a></p></li><li><p><a href=\"https://ref.ly/Gen10:19\">Genesis 10:19</a></p></li><li><p><a href=\"https://ref.ly/Josh10:40-Josh10:41\">Joshua 10:40–41</a></p></li><li><p><a href=\"https://ref.ly/Judg6:3-Judg6:4\">Judges 6:3–4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5804, H5841, G10480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "11004024",
+          "start_ref_usfm": "1KI 4:24",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "07006003",
+          "start_ref_usfm": "JDG 6:3",
+          "end_ref": "07006004",
+          "end_ref_usfm": "JDG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 26339,
+          "label": "Ashdod",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 26571,
+          "label": "Ethiopia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 26626,
+          "label": "Gath",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 26954,
+          "label": "Philip",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 26958,
+          "label": "Philistines",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

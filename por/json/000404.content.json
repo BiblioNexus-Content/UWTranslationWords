@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237917,
+    "reference_id": 25784,
+    "title": "Girgaseus",
+    "media_type": "Text",
+    "index_reference": "girgaseus",
+    "language": "por",
+    "content": "<h1>Girgaseus</h1><h2>Fatos:</h2><p>Os girgaseus eram um grupo de pessoas que viviam perto do Mar da Galileia na terra de Canaã.</p><ul><li><p>Eles eram descendentes de Canaã, filho de Cam, e assim eram um dos muitos grupos de pessoas que também eram conhecidos como &quot;cananeus&quot;.</p></li><li><p>Deus prometeu aos israelitas que os ajudaria a derrotar os girgaseus e outros grupos de pessoas cananeias.</p></li><li><p>Semelhantemente a todos os povos cananeus, os girgaseus adoravam falsos deuses e faziam coisas imorais como parte dessa adoração.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">Cam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:14\">1 Crônicas 1.14</a></p></li><li><p><a href=\"https://ref.ly/Deut7:1\">Deuteronômio 7.1</a></p></li><li><p><a href=\"https://ref.ly/Gen10:16\">Gênesis 10.16</a></p></li><li><p><a href=\"https://ref.ly/Josh3:9-Josh3:11\">Josué 3.9–11</a></p></li><li><p><a href=\"https://ref.ly/Josh24:11-Josh24:12\">Josué 24.11–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1622</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010016",
+          "start_ref_usfm": "GEN 10:16",
+          "end_ref": "01010016",
+          "end_ref_usfm": "GEN 10:16"
+        },
+        {
+          "start_ref": "01015021",
+          "start_ref_usfm": "GEN 15:21",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007001",
+          "end_ref_usfm": "DEU 7:1"
+        },
+        {
+          "start_ref": "13001014",
+          "start_ref_usfm": "1CH 1:14",
+          "end_ref": "13001014",
+          "end_ref_usfm": "1CH 1:14"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "06003009",
+          "start_ref_usfm": "JOS 3:9",
+          "end_ref": "06003011",
+          "end_ref_usfm": "JOS 3:11"
+        },
+        {
+          "start_ref": "06024011",
+          "start_ref_usfm": "JOS 24:11",
+          "end_ref": "06024012",
+          "end_ref_usfm": "JOS 24:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 237946,
+          "label": "Cam",
+          "language": "por"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

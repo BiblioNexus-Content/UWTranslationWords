@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 26854,
+    "reference_id": 25996,
+    "title": "Marriage",
+    "media_type": "Text",
+    "index_reference": "marriage",
+    "language": "eng",
+    "content": "<h1>marriage, marry, married, wedding</h1><h2>Definition:</h2><p>The term “marriage” refers to the formal union between a man and a woman in which they are joined together in a publicly recognized, and often legally recognized, relationship.</p><ul><li><p>The marriage relationship originated with God. God instituted the marriage relationship and he initiated the first marriage between Adam and Eve.</p></li><li><p>God instituted marriage for several reasons. Some of the reasons that God instituted marriage are so that children would have a healthy and secure environment in which to be raised, so that people would have a visual earthly demonstration of his relationship with his covenant people and so that men and women who are married to each other can help each other and complement the others strengths and weaknesses.</p></li><li><p>In a marriage ceremony (called a “wedding”) the bridegroom is the <strong>man</strong> who will marry the bride (the <strong>woman</strong>).</p></li><li><p>The Bible teaches that marriage should not be prohibited.</p></li><li><p>God strictly prohibits adultery in both the Old and the New Testament.</p></li><li><p>The New Testament teaches that people who believe in Jesus should not marry unbelievers.</p></li><li><p>Jesus taught that there will be no marriage in heaven.</p></li></ul><h2>Translation Suggestions:</h2><p>Use the term that your language uses to refer to the marriage relationship between a man and a woman.</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25558\" data-resourceType=\"UWTranslationWords\">bridegroom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25557\" data-resourceType=\"UWTranslationWords\">bride</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25433\" data-resourceType=\"UWTranslationWords\">adultery</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25717\" data-resourceType=\"UWTranslationWords\">Eve</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">Adam</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 26287,
+          "label": "Adam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25433,
+          "content_id": 26291,
+          "label": "Adultery",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25557,
+          "content_id": 26415,
+          "label": "Bride",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25558,
+          "content_id": 26416,
+          "label": "Bridegroom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25717,
+          "content_id": 26575,
+          "label": "Eve",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

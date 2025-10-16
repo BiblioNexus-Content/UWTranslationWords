@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26395,
+    "reference_id": 25537,
+    "title": "Biblical Time Watch",
+    "media_type": "Text",
+    "index_reference": "biblical time watch",
+    "language": "eng",
+    "content": "<h1>watch (biblical time)</h1><h2>Definition:</h2><p>In biblical times, a “watch” was a period of time at night during which a watchman or guard for a city would be on duty looking out for any danger from an enemy.</p><ul><li><p>In the Old Testament, the Israelites had three watches which were called “beginning” (sunset to 10 PM), “middle” (10 PM to 2 AM), and “morning” (2 AM to sunrise) watches.</p></li><li><p>In the New Testament, the Jews followed the Roman system and had four watches, named simply “first” (sunset to 9 PM), “second” (9 PM to 12 midnight), “third” (12 midnight to 3 AM), and “fourth” (3 AM to sunrise) watches.</p></li><li><p>These could also be translated with more general expressions such as “late evening” or “middle of the night” or “very early in the morning,” depending on which watch is being referred to.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26342\" data-resourceType=\"UWTranslationWords\">watch</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke12:37-Luke12:38\">Luke 12:37–38</a></p></li><li><p><a href=\"https://ref.ly/Mark6:48-Mark6:50\">Mark 6:48–50</a></p></li><li><p><a href=\"https://ref.ly/Matt14:25-Matt14:27\">Matthew 14:25–27</a></p></li><li><p><a href=\"https://ref.ly/Ps90:3-Ps90:4\">Psalms 90:3–4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0821, G54380</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006048",
+          "end_ref_usfm": "MRK 6:48"
+        },
+        {
+          "start_ref": "42012038",
+          "start_ref_usfm": "LUK 12:38",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "42012037",
+          "start_ref_usfm": "LUK 12:37",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006050",
+          "end_ref_usfm": "MRK 6:50"
+        },
+        {
+          "start_ref": "40014025",
+          "start_ref_usfm": "MAT 14:25",
+          "end_ref": "40014027",
+          "end_ref_usfm": "MAT 14:27"
+        },
+        {
+          "start_ref": "19090003",
+          "start_ref_usfm": "PSA 90:3",
+          "end_ref": "19090004",
+          "end_ref_usfm": "PSA 90:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26342,
+          "content_id": 27200,
+          "label": "Watch",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

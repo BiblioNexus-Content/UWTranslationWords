@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467474,
+    "reference_id": 26369,
+    "title": "Zacharie",
+    "media_type": "Text",
+    "index_reference": "zacharie",
+    "language": "fra",
+    "content": "<h1>Zacharie</h1><h2>Quelques données :</h2><p>Dans le Nouveau Testament, Zacharie était un prêtre juif qui est devenu le père de Jean-Baptiste.</p><ul><li><p>Zacharie aimait Dieu et lui obéissait.</p></li><li><p>Pendant de nombreuses années, Zacharie et son épouse Élisabeth ont prié avec ferveur pour avoir un enfant, mais ils n&apos;en ont pas eu. Mais, alors qu’ils étaient très vieux, Dieu a répondu à leurs prières et leur a donné un fils.</p></li><li><p>Zacharie a prophétisé que son fils Jean serait le prophète qui annoncerait et préparerait le chemin du Messie.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : (../kt/christ.md), (../names/elizabeth.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "42001012",
+          "start_ref_usfm": "LUK 1:12",
+          "end_ref": "42001012",
+          "end_ref_usfm": "LUK 1:12"
+        },
+        {
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42001018",
+          "start_ref_usfm": "LUK 1:18",
+          "end_ref": "42001018",
+          "end_ref_usfm": "LUK 1:18"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001021",
+          "end_ref_usfm": "LUK 1:21"
+        },
+        {
+          "start_ref": "42001040",
+          "start_ref_usfm": "LUK 1:40",
+          "end_ref": "42001040",
+          "end_ref_usfm": "LUK 1:40"
+        },
+        {
+          "start_ref": "42001059",
+          "start_ref_usfm": "LUK 1:59",
+          "end_ref": "42001059",
+          "end_ref_usfm": "LUK 1:59"
+        },
+        {
+          "start_ref": "42001067",
+          "start_ref_usfm": "LUK 1:67",
+          "end_ref": "42001067",
+          "end_ref_usfm": "LUK 1:67"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001023",
+          "end_ref_usfm": "LUK 1:23"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25699,
+          "content_id": 466859,
+          "label": "Elisabeth",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

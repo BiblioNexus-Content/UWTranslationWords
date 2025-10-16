@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 238314,
+    "reference_id": 26185,
+    "title": "Rute",
+    "media_type": "Text",
+    "index_reference": "rute",
+    "language": "por",
+    "content": "<h1>Rute</h1><h2>Fatos:</h2><p>Rute era uma mulher moabita que viveu durante a época em que os juízes lideravam Israel. Em Moabe, ela se casou com um israelita chamado Malom depois que a família dele se mudou para lá por causa de uma fome em Israel. Malom morreu, e algum tempo depois ela deixou Moabe com sua sogra Noemi para voltar à cidade de Belém em Israel.</p><ul><li><p>Ruth foi leal a Noemi e trabalhou duro para fornecer alimento para ela.</p></li><li><p>Ela também se comprometeu a servir ao único verdadeiro Deus de Israel.</p></li><li><p>Ruth se casou com um israelita chamado Boaz e deu à luz um filho chamado Obede. Obede se tornou o avô do Rei Davi, e o Rei Davi foi um antepassado de Jesus.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Belém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">Boaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">juiz</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Matt1:5\">Mateus 1.5</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:3-Ruth1:5\">Rute 1.3–5</a></p></li><li><p><a href=\"https://ref.ly/Ruth3:9\">Rute 3.9</a></p></li><li><p><a href=\"https://ref.ly/Ruth4:6\">Rute 4.6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7327, G45030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08001004",
+          "end_ref_usfm": "RUT 1:4"
+        },
+        {
+          "start_ref": "08001014",
+          "start_ref_usfm": "RUT 1:14",
+          "end_ref": "08001014",
+          "end_ref_usfm": "RUT 1:14"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001016",
+          "end_ref_usfm": "RUT 1:16"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08002008",
+          "start_ref_usfm": "RUT 2:8",
+          "end_ref": "08002008",
+          "end_ref_usfm": "RUT 2:8"
+        },
+        {
+          "start_ref": "08002021",
+          "start_ref_usfm": "RUT 2:21",
+          "end_ref": "08002021",
+          "end_ref_usfm": "RUT 2:21"
+        },
+        {
+          "start_ref": "08002022",
+          "start_ref_usfm": "RUT 2:22",
+          "end_ref": "08002022",
+          "end_ref_usfm": "RUT 2:22"
+        },
+        {
+          "start_ref": "08003009",
+          "start_ref_usfm": "RUT 3:9",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004006",
+          "start_ref_usfm": "RUT 4:6",
+          "end_ref": "08004006",
+          "end_ref_usfm": "RUT 4:6"
+        },
+        {
+          "start_ref": "08004010",
+          "start_ref_usfm": "RUT 4:10",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        },
+        {
+          "start_ref": "08004013",
+          "start_ref_usfm": "RUT 4:13",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "08001003",
+          "start_ref_usfm": "RUT 1:3",
+          "end_ref": "08001005",
+          "end_ref_usfm": "RUT 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 237666,
+          "label": "Belém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 237684,
+          "label": "Boaz",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 238062,
+          "label": "Julgar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 238063,
+          "label": "Posição de Juiz",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

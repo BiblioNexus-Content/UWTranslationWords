@@ -1,0 +1,425 @@
+[
+  {
+    "content_id": 26725,
+    "reference_id": 25867,
+    "title": "Inherit",
+    "media_type": "Text",
+    "index_reference": "inherit",
+    "language": "eng",
+    "content": "<h1>inherit, inheritance, heir</h1><h2>Definition:</h2><p>The term “inherit” refers to receiving something valuable from a parent after a parent dies. The term can also refer to receiving something valuable from some other person because of a special relationship with that person. An “inheritance” is the things that are received, and an “heir” is a person who receives an inheritance.</p><ul><li><p>A physical inheritance that is received may be money, land, or other kinds of property.</p></li><li><p>God promised Abraham and his descendants that they would inherit the land of Canaan, that it would belong to them forever.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>As always, consider first whether there are already terms in the target language for the concept of an heir or an inheritance, and use those terms.</p></li><li><p>Depending on the context, other ways that the term “inherit” could be translated might include “receive” or “possess” or “come into possession of.”</p></li><li><p>Ways to translate “inheritance” could include “promised gift” or “secure possession.”</p></li><li><p>The term “heir” could be translated with a word or phrase that means “privileged child who receives the father’s possessions.”</p></li><li><p>The term “heritage” could be translated as “inherited blessings.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25828\" data-resourceType=\"UWTranslationWords\">heir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26128\" data-resourceType=\"UWTranslationWords\">Promised Land</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26114\" data-resourceType=\"UWTranslationWords\">possess</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor6:9\">1 Corinthians 6:9</a></p></li><li><p><a href=\"https://ref.ly/1Pet1:4\">1 Peter 1:4</a></p></li><li><p><a href=\"https://ref.ly/2Sam21:3\">2 Samuel 21:3</a></p></li><li><p><a href=\"https://ref.ly/Acts7:4-Acts7:5\">Acts 7:4–5</a></p></li><li><p><a href=\"https://ref.ly/Deut20:16\">Deuteronomy 20:16</a></p></li><li><p><a href=\"https://ref.ly/Gal5:21\">Galatians 5:21</a></p></li><li><p><a href=\"https://ref.ly/Gen15:7\">Genesis 15:7</a></p></li><li><p><a href=\"https://ref.ly/Heb9:15\">Hebrews 9:15</a></p></li><li><p><a href=\"https://ref.ly/Jer2:7\">Jeremiah 2:7</a></p></li><li><p><a href=\"https://ref.ly/Luke15:11\">Luke 15:11</a></p></li><li><p><a href=\"https://ref.ly/Matt19:29\">Matthew 19:29</a></p></li><li><p><a href=\"https://ref.ly/Ps79:1\">Psalm 79:1</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>4:6</strong> When Abram arrived in Canaan God said, “Look all around you. I will give to you and your descendants all the land that you can see as an <strong>inheritance</strong>.”</p></li><li><p><strong>27:1</strong> One day, an expert in the Jewish law came to Jesus to test him, saying, “Teacher, what must I do to <strong>inherit</strong> eternal life?”</p></li><li><p><strong>35:3</strong> “There was a man who had two sons. The younger son told his father, ‘Father, I want my <strong>inheritance</strong> now!’ So the father divided his property between the two sons.”</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2490, H2506, H3423, H3425, H4181, H5157, H5159, G28160, G28170, G28190, G28200</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015003",
+          "start_ref_usfm": "GEN 15:3",
+          "end_ref": "01015003",
+          "end_ref_usfm": "GEN 15:3"
+        },
+        {
+          "start_ref": "01015004",
+          "start_ref_usfm": "GEN 15:4",
+          "end_ref": "01015004",
+          "end_ref_usfm": "GEN 15:4"
+        },
+        {
+          "start_ref": "01015007",
+          "start_ref_usfm": "GEN 15:7",
+          "end_ref": "01015007",
+          "end_ref_usfm": "GEN 15:7"
+        },
+        {
+          "start_ref": "01031014",
+          "start_ref_usfm": "GEN 31:14",
+          "end_ref": "01031014",
+          "end_ref_usfm": "GEN 31:14"
+        },
+        {
+          "start_ref": "01048006",
+          "start_ref_usfm": "GEN 48:6",
+          "end_ref": "01048006",
+          "end_ref_usfm": "GEN 48:6"
+        },
+        {
+          "start_ref": "02034009",
+          "start_ref_usfm": "EXO 34:9",
+          "end_ref": "02034009",
+          "end_ref_usfm": "EXO 34:9"
+        },
+        {
+          "start_ref": "05020016",
+          "start_ref_usfm": "DEU 20:16",
+          "end_ref": "05020016",
+          "end_ref_usfm": "DEU 20:16"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004006",
+          "start_ref_usfm": "RUT 4:6",
+          "end_ref": "08004006",
+          "end_ref_usfm": "RUT 4:6"
+        },
+        {
+          "start_ref": "08004010",
+          "start_ref_usfm": "RUT 4:10",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        },
+        {
+          "start_ref": "10021003",
+          "start_ref_usfm": "2SA 21:3",
+          "end_ref": "10021003",
+          "end_ref_usfm": "2SA 21:3"
+        },
+        {
+          "start_ref": "15009012",
+          "start_ref_usfm": "EZR 9:12",
+          "end_ref": "15009012",
+          "end_ref_usfm": "EZR 9:12"
+        },
+        {
+          "start_ref": "16011020",
+          "start_ref_usfm": "NEH 11:20",
+          "end_ref": "16011020",
+          "end_ref_usfm": "NEH 11:20"
+        },
+        {
+          "start_ref": "18007003",
+          "start_ref_usfm": "JOB 7:3",
+          "end_ref": "18007003",
+          "end_ref_usfm": "JOB 7:3"
+        },
+        {
+          "start_ref": "18013026",
+          "start_ref_usfm": "JOB 13:26",
+          "end_ref": "18013026",
+          "end_ref_usfm": "JOB 13:26"
+        },
+        {
+          "start_ref": "18020029",
+          "start_ref_usfm": "JOB 20:29",
+          "end_ref": "18020029",
+          "end_ref_usfm": "JOB 20:29"
+        },
+        {
+          "start_ref": "18027013",
+          "start_ref_usfm": "JOB 27:13",
+          "end_ref": "18027013",
+          "end_ref_usfm": "JOB 27:13"
+        },
+        {
+          "start_ref": "18031002",
+          "start_ref_usfm": "JOB 31:2",
+          "end_ref": "18031002",
+          "end_ref_usfm": "JOB 31:2"
+        },
+        {
+          "start_ref": "18042015",
+          "start_ref_usfm": "JOB 42:15",
+          "end_ref": "18042015",
+          "end_ref_usfm": "JOB 42:15"
+        },
+        {
+          "start_ref": "19079001",
+          "start_ref_usfm": "PSA 79:1",
+          "end_ref": "19079001",
+          "end_ref_usfm": "PSA 79:1"
+        },
+        {
+          "start_ref": "20003035",
+          "start_ref_usfm": "PRO 3:35",
+          "end_ref": "20003035",
+          "end_ref_usfm": "PRO 3:35"
+        },
+        {
+          "start_ref": "20008021",
+          "start_ref_usfm": "PRO 8:21",
+          "end_ref": "20008021",
+          "end_ref_usfm": "PRO 8:21"
+        },
+        {
+          "start_ref": "20011029",
+          "start_ref_usfm": "PRO 11:29",
+          "end_ref": "20011029",
+          "end_ref_usfm": "PRO 11:29"
+        },
+        {
+          "start_ref": "20013022",
+          "start_ref_usfm": "PRO 13:22",
+          "end_ref": "20013022",
+          "end_ref_usfm": "PRO 13:22"
+        },
+        {
+          "start_ref": "20014018",
+          "start_ref_usfm": "PRO 14:18",
+          "end_ref": "20014018",
+          "end_ref_usfm": "PRO 14:18"
+        },
+        {
+          "start_ref": "20017002",
+          "start_ref_usfm": "PRO 17:2",
+          "end_ref": "20017002",
+          "end_ref_usfm": "PRO 17:2"
+        },
+        {
+          "start_ref": "20019014",
+          "start_ref_usfm": "PRO 19:14",
+          "end_ref": "20019014",
+          "end_ref_usfm": "PRO 19:14"
+        },
+        {
+          "start_ref": "20020021",
+          "start_ref_usfm": "PRO 20:21",
+          "end_ref": "20020021",
+          "end_ref_usfm": "PRO 20:21"
+        },
+        {
+          "start_ref": "20028010",
+          "start_ref_usfm": "PRO 28:10",
+          "end_ref": "20028010",
+          "end_ref_usfm": "PRO 28:10"
+        },
+        {
+          "start_ref": "24002007",
+          "start_ref_usfm": "JER 2:7",
+          "end_ref": "24002007",
+          "end_ref_usfm": "JER 2:7"
+        },
+        {
+          "start_ref": "40005005",
+          "start_ref_usfm": "MAT 5:5",
+          "end_ref": "40005005",
+          "end_ref_usfm": "MAT 5:5"
+        },
+        {
+          "start_ref": "40019029",
+          "start_ref_usfm": "MAT 19:29",
+          "end_ref": "40019029",
+          "end_ref_usfm": "MAT 19:29"
+        },
+        {
+          "start_ref": "40021038",
+          "start_ref_usfm": "MAT 21:38",
+          "end_ref": "40021038",
+          "end_ref_usfm": "MAT 21:38"
+        },
+        {
+          "start_ref": "40025034",
+          "start_ref_usfm": "MAT 25:34",
+          "end_ref": "40025034",
+          "end_ref_usfm": "MAT 25:34"
+        },
+        {
+          "start_ref": "41010017",
+          "start_ref_usfm": "MRK 10:17",
+          "end_ref": "41010017",
+          "end_ref_usfm": "MRK 10:17"
+        },
+        {
+          "start_ref": "41012007",
+          "start_ref_usfm": "MRK 12:7",
+          "end_ref": "41012007",
+          "end_ref_usfm": "MRK 12:7"
+        },
+        {
+          "start_ref": "42010025",
+          "start_ref_usfm": "LUK 10:25",
+          "end_ref": "42010025",
+          "end_ref_usfm": "LUK 10:25"
+        },
+        {
+          "start_ref": "42012013",
+          "start_ref_usfm": "LUK 12:13",
+          "end_ref": "42012013",
+          "end_ref_usfm": "LUK 12:13"
+        },
+        {
+          "start_ref": "42015011",
+          "start_ref_usfm": "LUK 15:11",
+          "end_ref": "42015011",
+          "end_ref_usfm": "LUK 15:11"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018018",
+          "end_ref_usfm": "LUK 18:18"
+        },
+        {
+          "start_ref": "42020014",
+          "start_ref_usfm": "LUK 20:14",
+          "end_ref": "42020014",
+          "end_ref_usfm": "LUK 20:14"
+        },
+        {
+          "start_ref": "44007005",
+          "start_ref_usfm": "ACT 7:5",
+          "end_ref": "44007005",
+          "end_ref_usfm": "ACT 7:5"
+        },
+        {
+          "start_ref": "44013019",
+          "start_ref_usfm": "ACT 13:19",
+          "end_ref": "44013019",
+          "end_ref_usfm": "ACT 13:19"
+        },
+        {
+          "start_ref": "44020032",
+          "start_ref_usfm": "ACT 20:32",
+          "end_ref": "44020032",
+          "end_ref_usfm": "ACT 20:32"
+        },
+        {
+          "start_ref": "44026018",
+          "start_ref_usfm": "ACT 26:18",
+          "end_ref": "44026018",
+          "end_ref_usfm": "ACT 26:18"
+        },
+        {
+          "start_ref": "46006009",
+          "start_ref_usfm": "1CO 6:9",
+          "end_ref": "46006009",
+          "end_ref_usfm": "1CO 6:9"
+        },
+        {
+          "start_ref": "46006010",
+          "start_ref_usfm": "1CO 6:10",
+          "end_ref": "46006010",
+          "end_ref_usfm": "1CO 6:10"
+        },
+        {
+          "start_ref": "46015050",
+          "start_ref_usfm": "1CO 15:50",
+          "end_ref": "46015050",
+          "end_ref_usfm": "1CO 15:50"
+        },
+        {
+          "start_ref": "48005021",
+          "start_ref_usfm": "GAL 5:21",
+          "end_ref": "48005021",
+          "end_ref_usfm": "GAL 5:21"
+        },
+        {
+          "start_ref": "49001014",
+          "start_ref_usfm": "EPH 1:14",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "49001018",
+          "start_ref_usfm": "EPH 1:18",
+          "end_ref": "49001018",
+          "end_ref_usfm": "EPH 1:18"
+        },
+        {
+          "start_ref": "49005005",
+          "start_ref_usfm": "EPH 5:5",
+          "end_ref": "49005005",
+          "end_ref_usfm": "EPH 5:5"
+        },
+        {
+          "start_ref": "51001012",
+          "start_ref_usfm": "COL 1:12",
+          "end_ref": "51001012",
+          "end_ref_usfm": "COL 1:12"
+        },
+        {
+          "start_ref": "51003024",
+          "start_ref_usfm": "COL 3:24",
+          "end_ref": "51003024",
+          "end_ref_usfm": "COL 3:24"
+        },
+        {
+          "start_ref": "58001004",
+          "start_ref_usfm": "HEB 1:4",
+          "end_ref": "58001004",
+          "end_ref_usfm": "HEB 1:4"
+        },
+        {
+          "start_ref": "58001014",
+          "start_ref_usfm": "HEB 1:14",
+          "end_ref": "58001014",
+          "end_ref_usfm": "HEB 1:14"
+        },
+        {
+          "start_ref": "58006012",
+          "start_ref_usfm": "HEB 6:12",
+          "end_ref": "58006012",
+          "end_ref_usfm": "HEB 6:12"
+        },
+        {
+          "start_ref": "58009015",
+          "start_ref_usfm": "HEB 9:15",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "58011008",
+          "start_ref_usfm": "HEB 11:8",
+          "end_ref": "58011008",
+          "end_ref_usfm": "HEB 11:8"
+        },
+        {
+          "start_ref": "58012017",
+          "start_ref_usfm": "HEB 12:17",
+          "end_ref": "58012017",
+          "end_ref_usfm": "HEB 12:17"
+        },
+        {
+          "start_ref": "60001004",
+          "start_ref_usfm": "1PE 1:4",
+          "end_ref": "60001004",
+          "end_ref_usfm": "1PE 1:4"
+        },
+        {
+          "start_ref": "60003009",
+          "start_ref_usfm": "1PE 3:9",
+          "end_ref": "60003009",
+          "end_ref_usfm": "1PE 3:9"
+        },
+        {
+          "start_ref": "66021007",
+          "start_ref_usfm": "REV 21:7",
+          "end_ref": "66021007",
+          "end_ref_usfm": "REV 21:7"
+        },
+        {
+          "start_ref": "44007004",
+          "start_ref_usfm": "ACT 7:4",
+          "end_ref": "44007005",
+          "end_ref_usfm": "ACT 7:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25828,
+          "content_id": 26686,
+          "label": "Heir",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26114,
+          "content_id": 26972,
+          "label": "Possess",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26128,
+          "content_id": 26986,
+          "label": "Promised Land",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

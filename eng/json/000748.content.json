@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 27021,
+    "reference_id": 26163,
+    "title": "Reed",
+    "media_type": "Text",
+    "index_reference": "reed",
+    "language": "eng",
+    "content": "<h1>reed</h1><h2>Facts:</h2><p>The term “reed” refers to a plant with a long stalk that grows in the water, usually along the edge of a river or stream.</p><ul><li><p>The reeds in the Nile River where Moses was hidden as a baby were also called “bulrushes.” They were tall, hollow stalks growing in dense clumps in the river water.</p></li><li><p>These fibrous plants were used in ancient Egypt for making paper, baskets, and boats.</p></li><li><p>The stalk of the reed plant is flexible and is easily bent over by the wind.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moses</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26053\" data-resourceType=\"UWTranslationWords\">Nile River</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs14:15\">1 Kings 14:15</a></p></li><li><p><a href=\"https://ref.ly/Luke7:24\">Luke 7:24</a></p></li><li><p><a href=\"https://ref.ly/Matt11:7\">Matthew 11:7</a></p></li><li><p><a href=\"https://ref.ly/Matt12:20\">Matthew 12:20</a></p></li><li><p><a href=\"https://ref.ly/Ps68:30\">Psalm 68:30</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0098, H0100, H0260, H5488, H6169, H7070, G25630</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041002",
+          "start_ref_usfm": "GEN 41:2",
+          "end_ref": "01041002",
+          "end_ref_usfm": "GEN 41:2"
+        },
+        {
+          "start_ref": "01041005",
+          "start_ref_usfm": "GEN 41:5",
+          "end_ref": "01041005",
+          "end_ref_usfm": "GEN 41:5"
+        },
+        {
+          "start_ref": "01041018",
+          "start_ref_usfm": "GEN 41:18",
+          "end_ref": "01041018",
+          "end_ref_usfm": "GEN 41:18"
+        },
+        {
+          "start_ref": "01041022",
+          "start_ref_usfm": "GEN 41:22",
+          "end_ref": "01041022",
+          "end_ref_usfm": "GEN 41:22"
+        },
+        {
+          "start_ref": "02002003",
+          "start_ref_usfm": "EXO 2:3",
+          "end_ref": "02002003",
+          "end_ref_usfm": "EXO 2:3"
+        },
+        {
+          "start_ref": "02002005",
+          "start_ref_usfm": "EXO 2:5",
+          "end_ref": "02002005",
+          "end_ref_usfm": "EXO 2:5"
+        },
+        {
+          "start_ref": "11014015",
+          "start_ref_usfm": "1KI 14:15",
+          "end_ref": "11014015",
+          "end_ref_usfm": "1KI 14:15"
+        },
+        {
+          "start_ref": "19068030",
+          "start_ref_usfm": "PSA 68:30",
+          "end_ref": "19068030",
+          "end_ref_usfm": "PSA 68:30"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011007",
+          "end_ref_usfm": "MAT 11:7"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "40027048",
+          "start_ref_usfm": "MAT 27:48",
+          "end_ref": "40027048",
+          "end_ref_usfm": "MAT 27:48"
+        },
+        {
+          "start_ref": "41015019",
+          "start_ref_usfm": "MRK 15:19",
+          "end_ref": "41015019",
+          "end_ref_usfm": "MRK 15:19"
+        },
+        {
+          "start_ref": "41015036",
+          "start_ref_usfm": "MRK 15:36",
+          "end_ref": "41015036",
+          "end_ref_usfm": "MRK 15:36"
+        },
+        {
+          "start_ref": "42007024",
+          "start_ref_usfm": "LUK 7:24",
+          "end_ref": "42007024",
+          "end_ref_usfm": "LUK 7:24"
+        },
+        {
+          "start_ref": "44007036",
+          "start_ref_usfm": "ACT 7:36",
+          "end_ref": "44007036",
+          "end_ref_usfm": "ACT 7:36"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011029",
+          "end_ref_usfm": "HEB 11:29"
+        },
+        {
+          "start_ref": "66021015",
+          "start_ref_usfm": "REV 21:15",
+          "end_ref": "66021015",
+          "end_ref_usfm": "REV 21:15"
+        },
+        {
+          "start_ref": "66021016",
+          "start_ref_usfm": "REV 21:16",
+          "end_ref": "66021016",
+          "end_ref_usfm": "REV 21:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 26889,
+          "label": "Moses",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 26911,
+          "label": "Nile River",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

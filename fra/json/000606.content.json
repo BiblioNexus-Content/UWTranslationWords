@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466729,
+    "reference_id": 25558,
+    "title": "Nouveau marié",
+    "media_type": "Text",
+    "index_reference": "nouveau marié",
+    "language": "fra",
+    "content": "<h1>nouveau marié</h1><h2>Définition :</h2><p>Lors d&apos;une cérémonie de mariage, l&apos;époux est l&apos;homme qui va épouser la fiancée.</p><ul><li><p>Dans la culture juive pendant les temps bibliques, la cérémonie était centrée autour de l&apos;époux venant pour obtenir sa fiancée.</p></li><li><p>Dans la Bible, Jésus est figurativement appelé &quot;l&apos;Epoux&quot; qui viendra un jour pour son &quot;épouse&quot;, l&apos;Église.</p></li></ul><p>Jésus a comparé ses disciples aux amis de l&apos;époux qui célèbrent pendant que l&apos;époux est avec eux, mais qui sera triste quand il est parti.</p><p>(Voir aussi : (../other/bride.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004025",
+          "start_ref_usfm": "EXO 4:25",
+          "end_ref": "02004025",
+          "end_ref_usfm": "EXO 4:25"
+        },
+        {
+          "start_ref": "02004026",
+          "start_ref_usfm": "EXO 4:26",
+          "end_ref": "02004026",
+          "end_ref_usfm": "EXO 4:26"
+        },
+        {
+          "start_ref": "23062005",
+          "start_ref_usfm": "ISA 62:5",
+          "end_ref": "23062005",
+          "end_ref_usfm": "ISA 62:5"
+        },
+        {
+          "start_ref": "40009015",
+          "start_ref_usfm": "MAT 9:15",
+          "end_ref": "40009015",
+          "end_ref_usfm": "MAT 9:15"
+        },
+        {
+          "start_ref": "40025001",
+          "start_ref_usfm": "MAT 25:1",
+          "end_ref": "40025001",
+          "end_ref_usfm": "MAT 25:1"
+        },
+        {
+          "start_ref": "40025005",
+          "start_ref_usfm": "MAT 25:5",
+          "end_ref": "40025005",
+          "end_ref_usfm": "MAT 25:5"
+        },
+        {
+          "start_ref": "40025006",
+          "start_ref_usfm": "MAT 25:6",
+          "end_ref": "40025006",
+          "end_ref_usfm": "MAT 25:6"
+        },
+        {
+          "start_ref": "40025010",
+          "start_ref_usfm": "MAT 25:10",
+          "end_ref": "40025010",
+          "end_ref_usfm": "MAT 25:10"
+        },
+        {
+          "start_ref": "41002019",
+          "start_ref_usfm": "MRK 2:19",
+          "end_ref": "41002019",
+          "end_ref_usfm": "MRK 2:19"
+        },
+        {
+          "start_ref": "41002020",
+          "start_ref_usfm": "MRK 2:20",
+          "end_ref": "41002020",
+          "end_ref_usfm": "MRK 2:20"
+        },
+        {
+          "start_ref": "42005034",
+          "start_ref_usfm": "LUK 5:34",
+          "end_ref": "42005034",
+          "end_ref_usfm": "LUK 5:34"
+        },
+        {
+          "start_ref": "42005035",
+          "start_ref_usfm": "LUK 5:35",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "43002009",
+          "start_ref_usfm": "JHN 2:9",
+          "end_ref": "43002009",
+          "end_ref_usfm": "JHN 2:9"
+        },
+        {
+          "start_ref": "43003029",
+          "start_ref_usfm": "JHN 3:29",
+          "end_ref": "43003029",
+          "end_ref_usfm": "JHN 3:29"
+        },
+        {
+          "start_ref": "43003030",
+          "start_ref_usfm": "JHN 3:30",
+          "end_ref": "43003030",
+          "end_ref_usfm": "JHN 3:30"
+        },
+        {
+          "start_ref": "66018023",
+          "start_ref_usfm": "REV 18:23",
+          "end_ref": "66018023",
+          "end_ref_usfm": "REV 18:23"
+        },
+        {
+          "start_ref": "29002015",
+          "start_ref_usfm": "JOL 2:15",
+          "end_ref": "29002016",
+          "end_ref_usfm": "JOL 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25557,
+          "content_id": 466728,
+          "label": "Mariéé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

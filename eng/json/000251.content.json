@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26523,
+    "reference_id": 25665,
+    "title": "Detestable",
+    "media_type": "Text",
+    "index_reference": "detestable",
+    "language": "eng",
+    "content": "<h1>detest, detested, detestable</h1><h2>Facts:</h2><p>The term “detestable” describes something that should be disliked and rejected. To “detest” something means to strongly dislike it.</p><ul><li><p>Often the Bible talks about detesting evil. This means to hate evil and reject it.</p></li><li><p>God used the word “detestable” to describe the evil practices of those who worshiped false gods.</p></li><li><p>The Israelites were commanded to “detest” the sinful, immoral acts that some of the neighboring people groups practiced.</p></li><li><p>God called all wrong sexual acts “detestable.”</p></li><li><p>Divination, sorcery, and child sacrifice were all “detestable” to God.</p></li><li><p>The term “detest” could be translated as “strongly reject” or “hate” or “regard as very evil.”</p></li><li><p>The term “detestable” could also be translated as “horribly evil” or “disgusting” or “deserving rejection.”</p></li><li><p>When applied to the righteous being “detestable to” the wicked, this could be translated as “considered very undesirable to” or “distasteful to” or “rejected by.”</p></li><li><p>God told the Israelites to “detest” certain kinds of animals that God had declared to be “unclean” and not suitable for food. This could also be translated as “strongly dislike” or “reject” or “regard as unacceptable.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25674\" data-resourceType=\"UWTranslationWords\">divination</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">clean</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen43:32\">Genesis 43:32</a></p></li><li><p><a href=\"https://ref.ly/Jer7:30\">Jeremiah 7:30</a></p></li><li><p><a href=\"https://ref.ly/Lev11:10\">Leviticus 11:10</a></p></li><li><p><a href=\"https://ref.ly/Luke16:15\">Luke 16:15</a></p></li><li><p><a href=\"https://ref.ly/Rev17:3-Rev17:5\">Revelation 17:3–5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1602, H6973, H8130, H8251, H8262, H8263, H8441, H8581, G09460, G09470, G09480, G47670, G34040</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043032",
+          "start_ref_usfm": "GEN 43:32",
+          "end_ref": "01043032",
+          "end_ref_usfm": "GEN 43:32"
+        },
+        {
+          "start_ref": "03011010",
+          "start_ref_usfm": "LEV 11:10",
+          "end_ref": "03011010",
+          "end_ref_usfm": "LEV 11:10"
+        },
+        {
+          "start_ref": "24007030",
+          "start_ref_usfm": "JER 7:30",
+          "end_ref": "24007030",
+          "end_ref_usfm": "JER 7:30"
+        },
+        {
+          "start_ref": "42016015",
+          "start_ref_usfm": "LUK 16:15",
+          "end_ref": "42016015",
+          "end_ref_usfm": "LUK 16:15"
+        },
+        {
+          "start_ref": "56001016",
+          "start_ref_usfm": "TIT 1:16",
+          "end_ref": "56001016",
+          "end_ref_usfm": "TIT 1:16"
+        },
+        {
+          "start_ref": "66018002",
+          "start_ref_usfm": "REV 18:2",
+          "end_ref": "66018002",
+          "end_ref_usfm": "REV 18:2"
+        },
+        {
+          "start_ref": "66017003",
+          "start_ref_usfm": "REV 17:3",
+          "end_ref": "66017005",
+          "end_ref_usfm": "REV 17:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 26454,
+          "label": "Clean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25674,
+          "content_id": 26532,
+          "label": "Divination",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

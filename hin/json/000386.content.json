@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179878,
+    "reference_id": 25807,
+    "title": "दोषबलि",
+    "media_type": "Text",
+    "index_reference": "दोषबलि",
+    "language": "hin",
+    "content": "<h1>दोषबलि, दोषबलियों</h1><h2>परिभाषा:</h2><p>दोषबलि,एक ऐसी बली या भेंट थी जो परमेश्वर ने इस्राएल के लिए निर्धारित किया था जब अनजाने में वे परमेश्वर के अपमान या किसी की सम्पदा की हानि जैसा अनर्थ कर बैठें।</p><ul><li><p>इस बलि में पशु चढ़ाया जाता था और सोने या चांदी की मुद्रा में भुगतान किया जाता था।</p></li><li><p>इसके अतिरिक्त दोषी मनुष्य की क्षतिपूर्ति करनी होती थी।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">होमबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">अन्नबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26242\" data-resourceType=\"UWTranslationWords\">पाप बलि</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 06:3–4</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 12:15–16</a></p></li><li><p><a href=\"https://ref.ly/Lev5:5-Lev5:6\">लैव्यव्यवस्था 05:5–6</a></p></li><li><p><a href=\"https://ref.ly/Num6:12\">गिनती 06:12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H817</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04006012",
+          "start_ref_usfm": "NUM 6:12",
+          "end_ref": "04006012",
+          "end_ref_usfm": "NUM 6:12"
+        },
+        {
+          "start_ref": "09006003",
+          "start_ref_usfm": "1SA 6:3",
+          "end_ref": "09006003",
+          "end_ref_usfm": "1SA 6:3"
+        },
+        {
+          "start_ref": "12012016",
+          "start_ref_usfm": "2KI 12:16",
+          "end_ref": "12012016",
+          "end_ref_usfm": "2KI 12:16"
+        },
+        {
+          "start_ref": "20014009",
+          "start_ref_usfm": "PRO 14:9",
+          "end_ref": "20014009",
+          "end_ref_usfm": "PRO 14:9"
+        },
+        {
+          "start_ref": "03005005",
+          "start_ref_usfm": "LEV 5:5",
+          "end_ref": "03005006",
+          "end_ref_usfm": "LEV 5:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 179642,
+          "label": "होमबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 179873,
+          "label": "अन्नबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 180296,
+          "label": "पापबलि",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

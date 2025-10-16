@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467344,
+    "reference_id": 26228,
+    "title": "Silo",
+    "media_type": "Text",
+    "index_reference": "silo",
+    "language": "fra",
+    "content": "<h1>Silo</h1><h2>Définition :</h2><p>Silo était une ville cananéenne fortifiée qui a été conquise par les Israélites sous la conduite de Josué.</p><ul><li><p>La ville de silo était située à l&apos;ouest du Jourdain et au nord-est de la ville de Bethel.</p></li><li><p>Pendant le règne de Josue , la ville de Silo était un veritable lieu de rencontre pour le peuple d&apos;Israël.</p></li><li><p>Les douze tribus d&apos;Israël se sont réunies à Silo pour entendre Josue leur dire quelle partie de la terre de Canaan devait être attribuée à chacun d&apos;eux.</p></li><li><p>Avant que le temple ne soit construit à Jérusalem, Silo était l&apos;endroit où les Israélites venaient offrir des sacrifices à Dieu.</p></li><li><p>Samuel dès son jeune âge a été consacré au SEIGNEUR à Silo par sa mère Anne* il y est resté avec le sacrificateur Eli pour être formé pour le service du Seigneur*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/bethel.md), (../other/dedicate.md), (../names/hannah.md), (../names/jerusalem.md), (../names/jordanriver.md), (../kt/priest.md), (../other/sacrifice.md), (../names/samuel.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "07018030",
+          "start_ref_usfm": "JDG 18:30",
+          "end_ref": "07018031",
+          "end_ref_usfm": "JDG 18:31"
+        },
+        {
+          "start_ref": "09001009",
+          "start_ref_usfm": "1SA 1:9",
+          "end_ref": "09001010",
+          "end_ref_usfm": "1SA 1:10"
+        },
+        {
+          "start_ref": "06018001",
+          "start_ref_usfm": "JOS 18:1",
+          "end_ref": "06018002",
+          "end_ref_usfm": "JOS 18:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25529,
+          "content_id": 466702,
+          "label": "Béthel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25651,
+          "content_id": 466814,
+          "label": "Dédier ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25818,
+          "content_id": 466967,
+          "label": "Anne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 467313,
+          "label": "Samuel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 180061,
+    "reference_id": 25997,
+    "title": "मार्था",
+    "media_type": "Text",
+    "index_reference": "मार्था",
+    "language": "hin",
+    "content": "<h1>मार्था</h1><h2>तथ्य:</h2><p>मार्था बैतनिय्याह की निवासी थी जो यीशु की अनुयायी थी।</p><ul><li><p>मार्था की बहन मरियम और भाई लाज़र भी यीशु के अनुयायी थे।</p></li><li><p>एक बार यीशु उनके घर गया तब मार्था तो खाना तैयार करने में व्यस्त हो गई परन्तु मरियम यीशु के पास बैठकर उसकी शिक्षा सुनने लगी।</p></li><li><p>लाज़र की मृत्यु पर मार्था ने यीशु के समक्ष स्वीकार किया कि यीशु, परमेश्वर का पुत्र, मसीह है।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25960\" data-resourceType=\"UWTranslationWords\">लाज़र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26000\" data-resourceType=\"UWTranslationWords\">मरियम (मार्था की बहन)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/John11:2\">यूहन्ना 11:2</a></p></li><li><p><a href=\"https://ref.ly/John12:1-John12:3\">यूहन्ना 12:1–3</a></p></li><li><p><a href=\"https://ref.ly/Luke10:39\">लूका 10:39</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G31360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010038",
+          "end_ref_usfm": "LUK 10:38"
+        },
+        {
+          "start_ref": "42010039",
+          "start_ref_usfm": "LUK 10:39",
+          "end_ref": "42010039",
+          "end_ref_usfm": "LUK 10:39"
+        },
+        {
+          "start_ref": "42010040",
+          "start_ref_usfm": "LUK 10:40",
+          "end_ref": "42010040",
+          "end_ref_usfm": "LUK 10:40"
+        },
+        {
+          "start_ref": "42010041",
+          "start_ref_usfm": "LUK 10:41",
+          "end_ref": "42010041",
+          "end_ref_usfm": "LUK 10:41"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011001",
+          "end_ref_usfm": "JHN 11:1"
+        },
+        {
+          "start_ref": "43011002",
+          "start_ref_usfm": "JHN 11:2",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        },
+        {
+          "start_ref": "43011005",
+          "start_ref_usfm": "JHN 11:5",
+          "end_ref": "43011005",
+          "end_ref_usfm": "JHN 11:5"
+        },
+        {
+          "start_ref": "43011019",
+          "start_ref_usfm": "JHN 11:19",
+          "end_ref": "43011019",
+          "end_ref_usfm": "JHN 11:19"
+        },
+        {
+          "start_ref": "43011020",
+          "start_ref_usfm": "JHN 11:20",
+          "end_ref": "43011020",
+          "end_ref_usfm": "JHN 11:20"
+        },
+        {
+          "start_ref": "43011021",
+          "start_ref_usfm": "JHN 11:21",
+          "end_ref": "43011021",
+          "end_ref_usfm": "JHN 11:21"
+        },
+        {
+          "start_ref": "43011024",
+          "start_ref_usfm": "JHN 11:24",
+          "end_ref": "43011024",
+          "end_ref_usfm": "JHN 11:24"
+        },
+        {
+          "start_ref": "43011030",
+          "start_ref_usfm": "JHN 11:30",
+          "end_ref": "43011030",
+          "end_ref_usfm": "JHN 11:30"
+        },
+        {
+          "start_ref": "43011039",
+          "start_ref_usfm": "JHN 11:39",
+          "end_ref": "43011039",
+          "end_ref_usfm": "JHN 11:39"
+        },
+        {
+          "start_ref": "43012002",
+          "start_ref_usfm": "JHN 12:2",
+          "end_ref": "43012002",
+          "end_ref_usfm": "JHN 12:2"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012003",
+          "end_ref_usfm": "JHN 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25960,
+          "content_id": 180025,
+          "label": "लाजर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26000,
+          "content_id": 180064,
+          "label": "मरियम (मार्था की बहन)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "content_id": 467022,
+    "reference_id": 25877,
+    "title": "Esaîe",
+    "media_type": "Text",
+    "index_reference": "esaîe",
+    "language": "fra",
+    "content": "<h1>Esaîe</h1><h2>Données :</h2><p>Ésaïe était un prophète de Dieu qui a prophétisé pendant le règne de quatre rois de Juda : Ozias, Jotham, Achaz et Ézéchias.</p><ul><li><p>Ésaïe a vécu à Jérusalem au moment où les Assyriens attaquaient la ville, pendant le règne d&apos;Ézéchias.</p></li><li><p>Ésaïe a écrit de nombreuses prophéties qui se sont réalisées alors qu&apos;il était encore vivant.</p></li><li><p>Ésaïe est surtout connu pour les prophéties qu&apos;il a écrites sur le Messie qui se sont réalisées 700 ans plus tard, lorsque Jésus vivait sur la terre.</p></li><li><p>Le livre d&apos;Ésaïe, dans l&apos;Ancien Testament est l&apos;un des livres les plus importants de la Bible.</p></li><li><p>Jésus et ses disciples ont cité les prophéties d&apos;Ésaie pour enseigner le peuple à propos du Messie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ahaz.md), (../names/assyria.md), (../kt/christ.md), (../names/hezekiah.md), (../names/jotham.md), (../names/kingdomofjudah.md), (../kt/prophet.md), (../names/uzziah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15008007",
+          "start_ref_usfm": "EZR 8:7",
+          "end_ref": "15008007",
+          "end_ref_usfm": "EZR 8:7"
+        },
+        {
+          "start_ref": "15008019",
+          "start_ref_usfm": "EZR 8:19",
+          "end_ref": "15008019",
+          "end_ref_usfm": "EZR 8:19"
+        },
+        {
+          "start_ref": "16011007",
+          "start_ref_usfm": "NEH 11:7",
+          "end_ref": "16011007",
+          "end_ref_usfm": "NEH 11:7"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "40003003",
+          "start_ref_usfm": "MAT 3:3",
+          "end_ref": "40003003",
+          "end_ref_usfm": "MAT 3:3"
+        },
+        {
+          "start_ref": "40004014",
+          "start_ref_usfm": "MAT 4:14",
+          "end_ref": "40004014",
+          "end_ref_usfm": "MAT 4:14"
+        },
+        {
+          "start_ref": "40008017",
+          "start_ref_usfm": "MAT 8:17",
+          "end_ref": "40008017",
+          "end_ref_usfm": "MAT 8:17"
+        },
+        {
+          "start_ref": "40012017",
+          "start_ref_usfm": "MAT 12:17",
+          "end_ref": "40012017",
+          "end_ref_usfm": "MAT 12:17"
+        },
+        {
+          "start_ref": "40013014",
+          "start_ref_usfm": "MAT 13:14",
+          "end_ref": "40013014",
+          "end_ref_usfm": "MAT 13:14"
+        },
+        {
+          "start_ref": "40015007",
+          "start_ref_usfm": "MAT 15:7",
+          "end_ref": "40015007",
+          "end_ref_usfm": "MAT 15:7"
+        },
+        {
+          "start_ref": "41001001",
+          "start_ref_usfm": "MRK 1:1",
+          "end_ref": "41001001",
+          "end_ref_usfm": "MRK 1:1"
+        },
+        {
+          "start_ref": "41001002",
+          "start_ref_usfm": "MRK 1:2",
+          "end_ref": "41001002",
+          "end_ref_usfm": "MRK 1:2"
+        },
+        {
+          "start_ref": "41007006",
+          "start_ref_usfm": "MRK 7:6",
+          "end_ref": "41007006",
+          "end_ref_usfm": "MRK 7:6"
+        },
+        {
+          "start_ref": "42003004",
+          "start_ref_usfm": "LUK 3:4",
+          "end_ref": "42003004",
+          "end_ref_usfm": "LUK 3:4"
+        },
+        {
+          "start_ref": "42004017",
+          "start_ref_usfm": "LUK 4:17",
+          "end_ref": "42004017",
+          "end_ref_usfm": "LUK 4:17"
+        },
+        {
+          "start_ref": "43001023",
+          "start_ref_usfm": "JHN 1:23",
+          "end_ref": "43001023",
+          "end_ref_usfm": "JHN 1:23"
+        },
+        {
+          "start_ref": "43012038",
+          "start_ref_usfm": "JHN 12:38",
+          "end_ref": "43012038",
+          "end_ref_usfm": "JHN 12:38"
+        },
+        {
+          "start_ref": "43012039",
+          "start_ref_usfm": "JHN 12:39",
+          "end_ref": "43012039",
+          "end_ref_usfm": "JHN 12:39"
+        },
+        {
+          "start_ref": "43012041",
+          "start_ref_usfm": "JHN 12:41",
+          "end_ref": "43012041",
+          "end_ref_usfm": "JHN 12:41"
+        },
+        {
+          "start_ref": "44008028",
+          "start_ref_usfm": "ACT 8:28",
+          "end_ref": "44008028",
+          "end_ref_usfm": "ACT 8:28"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44028025",
+          "start_ref_usfm": "ACT 28:25",
+          "end_ref": "44028025",
+          "end_ref_usfm": "ACT 28:25"
+        },
+        {
+          "start_ref": "44028026",
+          "start_ref_usfm": "ACT 28:26",
+          "end_ref": "44028026",
+          "end_ref_usfm": "ACT 28:26"
+        },
+        {
+          "start_ref": "45009027",
+          "start_ref_usfm": "ROM 9:27",
+          "end_ref": "45009027",
+          "end_ref_usfm": "ROM 9:27"
+        },
+        {
+          "start_ref": "45009029",
+          "start_ref_usfm": "ROM 9:29",
+          "end_ref": "45009029",
+          "end_ref_usfm": "ROM 9:29"
+        },
+        {
+          "start_ref": "45010016",
+          "start_ref_usfm": "ROM 10:16",
+          "end_ref": "45010016",
+          "end_ref_usfm": "ROM 10:16"
+        },
+        {
+          "start_ref": "45010020",
+          "start_ref_usfm": "ROM 10:20",
+          "end_ref": "45010020",
+          "end_ref_usfm": "ROM 10:20"
+        },
+        {
+          "start_ref": "45015012",
+          "start_ref_usfm": "ROM 15:12",
+          "end_ref": "45015012",
+          "end_ref_usfm": "ROM 15:12"
+        },
+        {
+          "start_ref": "12020001",
+          "start_ref_usfm": "2KI 20:1",
+          "end_ref": "12020003",
+          "end_ref_usfm": "2KI 20:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 466621,
+          "label": "Achaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 466981,
+          "label": "Ezéchias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25922,
+          "content_id": 467067,
+          "label": "Jotham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 467441,
+          "label": "Ozias",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

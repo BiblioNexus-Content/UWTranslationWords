@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26849,
+    "reference_id": 25991,
+    "title": "Malachi",
+    "media_type": "Text",
+    "index_reference": "malachi",
+    "language": "eng",
+    "content": "<h1>Malachi</h1><h2>Facts:</h2><p>Malachi was one of God’s prophets to the kingdom of Judah. He lived around 500 years before Christ was on earth.</p><ul><li><p>Malachi prophesied during the period when Israel’s temple was being rebuilt after returning from the Babylonian captivity.</p></li><li><p>Ezra and Nehemiah lived around the same time as Malachi.</p></li><li><p>The book of Malachi is the last book of the Old Testament.</p></li><li><p>Like all the Old Testament prophets, Malachi urged the people to repent of their sins and to turn back to worshiping Yahweh.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25574\" data-resourceType=\"UWTranslationWords\">captive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Ezra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">repent</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_turn\" data-resourceType=\"UWTranslationWords\">turn</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Mal1:1\">Malachi 1:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4401</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 26432,
+          "label": "Captive",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 26582,
+          "label": "Ezra",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 26907,
+          "label": "Nehemiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 27028,
+          "label": "Repent",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

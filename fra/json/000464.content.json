@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467085,
+    "reference_id": 25942,
+    "title": "Juda",
+    "media_type": "Text",
+    "index_reference": "juda",
+    "language": "fra",
+    "content": "<h1>Juda, royaume de Juda</h1><h2>Données :</h2><p>La tribu de Juda était la plus grande des douze tribus d&apos;Israël. Le royaume de Juda était composé des tribus de Juda et de Benjamin.</p><ul><li><p>Après la mort du roi Salomon, la nation d&apos;Israël a été divisée en deux royaumes: Israël et Juda. Le royaume de Juda était le royaume du sud, situé à l&apos;ouest de la mer Morte.</p></li><li><p>La capitale du royaume de Juda était Jérusalem.</p></li><li><p>Huit rois de Juda ont obéi à Yahvé et ont mené le peuple à l&apos;adorer. Les autres rois de Juda étaient méchants et ont mené le peuple à adorer des idoles.</p></li><li><p>Plus de 120 ans après que l&apos;Assyrie a vaincu Israël (le royaume du nord), Juda a été conquise par les Babyloniens qui ont détruit Jérusalem et le temple, et ont emmené la plupart des habitants de Juda à Babylone en captivité.</p></li></ul><p>(Voir aussi : (../names/judah.md), (../names/saltsea.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10012008",
+          "start_ref_usfm": "2SA 12:8",
+          "end_ref": "10012008",
+          "end_ref_usfm": "2SA 12:8"
+        },
+        {
+          "start_ref": "24007033",
+          "start_ref_usfm": "JER 7:33",
+          "end_ref": "24007033",
+          "end_ref_usfm": "JER 7:33"
+        },
+        {
+          "start_ref": "28005014",
+          "start_ref_usfm": "HOS 5:14",
+          "end_ref": "28005014",
+          "end_ref_usfm": "HOS 5:14"
+        },
+        {
+          "start_ref": "09030026",
+          "start_ref_usfm": "1SA 30:26",
+          "end_ref": "09030028",
+          "end_ref_usfm": "1SA 30:28"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001017",
+          "end_ref_usfm": "JDG 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

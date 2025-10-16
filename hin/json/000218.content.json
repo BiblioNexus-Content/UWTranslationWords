@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 180101,
+    "reference_id": 26037,
+    "title": "गन्धरस",
+    "media_type": "Text",
+    "index_reference": "गन्धरस",
+    "language": "hin",
+    "content": "<h1>गन्धरस</h1><h2>परिभाषा:</h2><p>“गन्धरस” एक तेल या मसाला होता था जो मूर के पेड़ से निकाले हुआ गोंद से तैयार किया जाता था, यह वृक्ष अफ्रीका और एशिया में उगता है और लोबान की प्रजाति का है।</p><p>गन्धरस धूप, इत्र, और औषधी बनाने तथा कब्र में रखने के लिए शवों का अभ्यंजन करने के भी काम में लिया जाता था।</p><ul><li><p>गन्धरस यीशु के जन्म पर ज्योतिषियों द्वारा चढ़ाई गई भेंटों में से एक था।</p></li><li><p>यीशु जब क्रूस पर लटका हुआ था तब गन्धरस मिश्रित मदिरा उसे दी गई थी कि उसकी पीड़ा कम जो जाए।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25757\" data-resourceType=\"UWTranslationWords\">लोबान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25962\" data-resourceType=\"UWTranslationWords\">ज्योतिषियों</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Exod30:22-Exod30:25\">निर्गमन 30:22–25</a></p></li><li><p><a href=\"https://ref.ly/Gen37:25-Gen37:26\">उत्पत्ति 37:25–26</a></p></li><li><p><a href=\"https://ref.ly/John11:1-John11:2\">यूहन्ना 11:1–2</a></p></li><li><p><a href=\"https://ref.ly/Mark15:23\">मरकुस 15:23</a></p></li><li><p><a href=\"https://ref.ly/Matt2:11-Matt2:12\">मत्ती 2:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H3910, H4753, G34640, G46660, G46690</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "01043011",
+          "start_ref_usfm": "GEN 43:11",
+          "end_ref": "01043011",
+          "end_ref_usfm": "GEN 43:11"
+        },
+        {
+          "start_ref": "02030023",
+          "start_ref_usfm": "EXO 30:23",
+          "end_ref": "02030023",
+          "end_ref_usfm": "EXO 30:23"
+        },
+        {
+          "start_ref": "20007017",
+          "start_ref_usfm": "PRO 7:17",
+          "end_ref": "20007017",
+          "end_ref_usfm": "PRO 7:17"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "41015023",
+          "start_ref_usfm": "MRK 15:23",
+          "end_ref": "41015023",
+          "end_ref_usfm": "MRK 15:23"
+        },
+        {
+          "start_ref": "43019039",
+          "start_ref_usfm": "JHN 19:39",
+          "end_ref": "43019039",
+          "end_ref_usfm": "JHN 19:39"
+        },
+        {
+          "start_ref": "02030022",
+          "start_ref_usfm": "EXO 30:22",
+          "end_ref": "02030025",
+          "end_ref_usfm": "EXO 30:25"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25757,
+          "content_id": 179830,
+          "label": "लोबान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25962,
+          "content_id": 180027,
+          "label": "ज्योतिषी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

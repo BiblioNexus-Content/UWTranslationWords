@@ -1,0 +1,467 @@
+[
+  {
+    "content_id": 27205,
+    "reference_id": 26347,
+    "title": "Wine",
+    "media_type": "Text",
+    "index_reference": "wine",
+    "language": "eng",
+    "content": "<h1>wine, wineskin, new wine</h1><h2>Definition:</h2><p>In the Bible, the term “wine” refers to a kind of fermented drink made from the juice of a fruit called grapes. Wine was stored in “wineskins,” which were containers made out of animal skin.</p><ul><li><p>The term “new wine” referred to grape juice that had just been taken from the grape and was not fermented yet. Sometimes the term “wine” also referred to unfermented grape juice.</p></li><li><p>To make wine, grapes are crushed in a winepress so that the juice comes out. The juice eventually ferments and alcohol forms in it.</p></li><li><p>In Bible times, wine was the normal drink with meals. It did not have as much alcohol as present-day wine has.</p></li><li><p>Before wine was served for a meal, it was often mixed with water.</p></li><li><p>A wineskin that was old and brittle would get cracks in it, which allowed the wine to leak out. New wineskins were soft and flexible, which meant they did not tear easily and could store the wine safely.</p></li><li><p>If wine is unknown in your culture, it could be translated as “fermented grape juice” or “fermented drink made from a fruit called grapes” or “fermented fruit juice.” (See: How to Translate Unknowns)</p></li><li><p>Ways to translate “wineskin” could include “bag for wine” or “animal skin wine bag” or “animal skin container for wine.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">grape</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26335\" data-resourceType=\"UWTranslationWords\">vine</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vineyard</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26348\" data-resourceType=\"UWTranslationWords\">winepress</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Tim5:23\">1 Timothy 5:23</a></p></li><li><p><a href=\"https://ref.ly/Gen9:21\">Genesis 9:21</a></p></li><li><p><a href=\"https://ref.ly/Gen49:12\">Genesis 49:12</a></p></li><li><p><a href=\"https://ref.ly/John2:3-John2:5\">John 2:3–5</a></p></li><li><p><a href=\"https://ref.ly/John2:10\">John 2:10</a></p></li><li><p><a href=\"https://ref.ly/Matt9:17\">Matthew 9:17</a></p></li><li><p><a href=\"https://ref.ly/Matt11:18\">Matthew 11:18</a></p></li></ul><p>smashed</p><h2>Word Data:</h2><ul><li><p>Strong’s: H2561, H2562, H3196, H4469, H4997, H5435, H6025, H6071, H8492, G10980, G36310, G38200, G39430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009021",
+          "start_ref_usfm": "GEN 9:21",
+          "end_ref": "01009021",
+          "end_ref_usfm": "GEN 9:21"
+        },
+        {
+          "start_ref": "01009024",
+          "start_ref_usfm": "GEN 9:24",
+          "end_ref": "01009024",
+          "end_ref_usfm": "GEN 9:24"
+        },
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "01019032",
+          "start_ref_usfm": "GEN 19:32",
+          "end_ref": "01019032",
+          "end_ref_usfm": "GEN 19:32"
+        },
+        {
+          "start_ref": "01019033",
+          "start_ref_usfm": "GEN 19:33",
+          "end_ref": "01019033",
+          "end_ref_usfm": "GEN 19:33"
+        },
+        {
+          "start_ref": "01019034",
+          "start_ref_usfm": "GEN 19:34",
+          "end_ref": "01019034",
+          "end_ref_usfm": "GEN 19:34"
+        },
+        {
+          "start_ref": "01019035",
+          "start_ref_usfm": "GEN 19:35",
+          "end_ref": "01019035",
+          "end_ref_usfm": "GEN 19:35"
+        },
+        {
+          "start_ref": "01027025",
+          "start_ref_usfm": "GEN 27:25",
+          "end_ref": "01027025",
+          "end_ref_usfm": "GEN 27:25"
+        },
+        {
+          "start_ref": "01027028",
+          "start_ref_usfm": "GEN 27:28",
+          "end_ref": "01027028",
+          "end_ref_usfm": "GEN 27:28"
+        },
+        {
+          "start_ref": "01027037",
+          "start_ref_usfm": "GEN 27:37",
+          "end_ref": "01027037",
+          "end_ref_usfm": "GEN 27:37"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "01049012",
+          "start_ref_usfm": "GEN 49:12",
+          "end_ref": "01049012",
+          "end_ref_usfm": "GEN 49:12"
+        },
+        {
+          "start_ref": "02029040",
+          "start_ref_usfm": "EXO 29:40",
+          "end_ref": "02029040",
+          "end_ref_usfm": "EXO 29:40"
+        },
+        {
+          "start_ref": "15006009",
+          "start_ref_usfm": "EZR 6:9",
+          "end_ref": "15006009",
+          "end_ref_usfm": "EZR 6:9"
+        },
+        {
+          "start_ref": "15007022",
+          "start_ref_usfm": "EZR 7:22",
+          "end_ref": "15007022",
+          "end_ref_usfm": "EZR 7:22"
+        },
+        {
+          "start_ref": "16002001",
+          "start_ref_usfm": "NEH 2:1",
+          "end_ref": "16002001",
+          "end_ref_usfm": "NEH 2:1"
+        },
+        {
+          "start_ref": "16005011",
+          "start_ref_usfm": "NEH 5:11",
+          "end_ref": "16005011",
+          "end_ref_usfm": "NEH 5:11"
+        },
+        {
+          "start_ref": "16005015",
+          "start_ref_usfm": "NEH 5:15",
+          "end_ref": "16005015",
+          "end_ref_usfm": "NEH 5:15"
+        },
+        {
+          "start_ref": "16005018",
+          "start_ref_usfm": "NEH 5:18",
+          "end_ref": "16005018",
+          "end_ref_usfm": "NEH 5:18"
+        },
+        {
+          "start_ref": "16010037",
+          "start_ref_usfm": "NEH 10:37",
+          "end_ref": "16010037",
+          "end_ref_usfm": "NEH 10:37"
+        },
+        {
+          "start_ref": "16010039",
+          "start_ref_usfm": "NEH 10:39",
+          "end_ref": "16010039",
+          "end_ref_usfm": "NEH 10:39"
+        },
+        {
+          "start_ref": "16013005",
+          "start_ref_usfm": "NEH 13:5",
+          "end_ref": "16013005",
+          "end_ref_usfm": "NEH 13:5"
+        },
+        {
+          "start_ref": "16013012",
+          "start_ref_usfm": "NEH 13:12",
+          "end_ref": "16013012",
+          "end_ref_usfm": "NEH 13:12"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "18001013",
+          "start_ref_usfm": "JOB 1:13",
+          "end_ref": "18001013",
+          "end_ref_usfm": "JOB 1:13"
+        },
+        {
+          "start_ref": "18001018",
+          "start_ref_usfm": "JOB 1:18",
+          "end_ref": "18001018",
+          "end_ref_usfm": "JOB 1:18"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "20004017",
+          "start_ref_usfm": "PRO 4:17",
+          "end_ref": "20004017",
+          "end_ref_usfm": "PRO 4:17"
+        },
+        {
+          "start_ref": "20009002",
+          "start_ref_usfm": "PRO 9:2",
+          "end_ref": "20009002",
+          "end_ref_usfm": "PRO 9:2"
+        },
+        {
+          "start_ref": "20009005",
+          "start_ref_usfm": "PRO 9:5",
+          "end_ref": "20009005",
+          "end_ref_usfm": "PRO 9:5"
+        },
+        {
+          "start_ref": "20020001",
+          "start_ref_usfm": "PRO 20:1",
+          "end_ref": "20020001",
+          "end_ref_usfm": "PRO 20:1"
+        },
+        {
+          "start_ref": "20021017",
+          "start_ref_usfm": "PRO 21:17",
+          "end_ref": "20021017",
+          "end_ref_usfm": "PRO 21:17"
+        },
+        {
+          "start_ref": "20023020",
+          "start_ref_usfm": "PRO 23:20",
+          "end_ref": "20023020",
+          "end_ref_usfm": "PRO 23:20"
+        },
+        {
+          "start_ref": "20023030",
+          "start_ref_usfm": "PRO 23:30",
+          "end_ref": "20023030",
+          "end_ref_usfm": "PRO 23:30"
+        },
+        {
+          "start_ref": "20023031",
+          "start_ref_usfm": "PRO 23:31",
+          "end_ref": "20023031",
+          "end_ref_usfm": "PRO 23:31"
+        },
+        {
+          "start_ref": "20031004",
+          "start_ref_usfm": "PRO 31:4",
+          "end_ref": "20031004",
+          "end_ref_usfm": "PRO 31:4"
+        },
+        {
+          "start_ref": "20031006",
+          "start_ref_usfm": "PRO 31:6",
+          "end_ref": "20031006",
+          "end_ref_usfm": "PRO 31:6"
+        },
+        {
+          "start_ref": "22002004",
+          "start_ref_usfm": "SNG 2:4",
+          "end_ref": "22002004",
+          "end_ref_usfm": "SNG 2:4"
+        },
+        {
+          "start_ref": "22005001",
+          "start_ref_usfm": "SNG 5:1",
+          "end_ref": "22005001",
+          "end_ref_usfm": "SNG 5:1"
+        },
+        {
+          "start_ref": "36001013",
+          "start_ref_usfm": "ZEP 1:13",
+          "end_ref": "36001013",
+          "end_ref_usfm": "ZEP 1:13"
+        },
+        {
+          "start_ref": "37001011",
+          "start_ref_usfm": "HAG 1:11",
+          "end_ref": "37001011",
+          "end_ref_usfm": "HAG 1:11"
+        },
+        {
+          "start_ref": "37002012",
+          "start_ref_usfm": "HAG 2:12",
+          "end_ref": "37002012",
+          "end_ref_usfm": "HAG 2:12"
+        },
+        {
+          "start_ref": "40009017",
+          "start_ref_usfm": "MAT 9:17",
+          "end_ref": "40009017",
+          "end_ref_usfm": "MAT 9:17"
+        },
+        {
+          "start_ref": "40011018",
+          "start_ref_usfm": "MAT 11:18",
+          "end_ref": "40011018",
+          "end_ref_usfm": "MAT 11:18"
+        },
+        {
+          "start_ref": "40027034",
+          "start_ref_usfm": "MAT 27:34",
+          "end_ref": "40027034",
+          "end_ref_usfm": "MAT 27:34"
+        },
+        {
+          "start_ref": "41002022",
+          "start_ref_usfm": "MRK 2:22",
+          "end_ref": "41002022",
+          "end_ref_usfm": "MRK 2:22"
+        },
+        {
+          "start_ref": "41015023",
+          "start_ref_usfm": "MRK 15:23",
+          "end_ref": "41015023",
+          "end_ref_usfm": "MRK 15:23"
+        },
+        {
+          "start_ref": "42001015",
+          "start_ref_usfm": "LUK 1:15",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        },
+        {
+          "start_ref": "42005037",
+          "start_ref_usfm": "LUK 5:37",
+          "end_ref": "42005037",
+          "end_ref_usfm": "LUK 5:37"
+        },
+        {
+          "start_ref": "42005038",
+          "start_ref_usfm": "LUK 5:38",
+          "end_ref": "42005038",
+          "end_ref_usfm": "LUK 5:38"
+        },
+        {
+          "start_ref": "42007033",
+          "start_ref_usfm": "LUK 7:33",
+          "end_ref": "42007033",
+          "end_ref_usfm": "LUK 7:33"
+        },
+        {
+          "start_ref": "42010034",
+          "start_ref_usfm": "LUK 10:34",
+          "end_ref": "42010034",
+          "end_ref_usfm": "LUK 10:34"
+        },
+        {
+          "start_ref": "43002003",
+          "start_ref_usfm": "JHN 2:3",
+          "end_ref": "43002003",
+          "end_ref_usfm": "JHN 2:3"
+        },
+        {
+          "start_ref": "43002009",
+          "start_ref_usfm": "JHN 2:9",
+          "end_ref": "43002009",
+          "end_ref_usfm": "JHN 2:9"
+        },
+        {
+          "start_ref": "43002010",
+          "start_ref_usfm": "JHN 2:10",
+          "end_ref": "43002010",
+          "end_ref_usfm": "JHN 2:10"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "45014021",
+          "start_ref_usfm": "ROM 14:21",
+          "end_ref": "45014021",
+          "end_ref_usfm": "ROM 14:21"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "54003008",
+          "start_ref_usfm": "1TI 3:8",
+          "end_ref": "54003008",
+          "end_ref_usfm": "1TI 3:8"
+        },
+        {
+          "start_ref": "54005023",
+          "start_ref_usfm": "1TI 5:23",
+          "end_ref": "54005023",
+          "end_ref_usfm": "1TI 5:23"
+        },
+        {
+          "start_ref": "56001007",
+          "start_ref_usfm": "TIT 1:7",
+          "end_ref": "56001007",
+          "end_ref_usfm": "TIT 1:7"
+        },
+        {
+          "start_ref": "56002003",
+          "start_ref_usfm": "TIT 2:3",
+          "end_ref": "56002003",
+          "end_ref_usfm": "TIT 2:3"
+        },
+        {
+          "start_ref": "66006006",
+          "start_ref_usfm": "REV 6:6",
+          "end_ref": "66006006",
+          "end_ref_usfm": "REV 6:6"
+        },
+        {
+          "start_ref": "66014008",
+          "start_ref_usfm": "REV 14:8",
+          "end_ref": "66014008",
+          "end_ref_usfm": "REV 14:8"
+        },
+        {
+          "start_ref": "66014010",
+          "start_ref_usfm": "REV 14:10",
+          "end_ref": "66014010",
+          "end_ref_usfm": "REV 14:10"
+        },
+        {
+          "start_ref": "66016019",
+          "start_ref_usfm": "REV 16:19",
+          "end_ref": "66016019",
+          "end_ref_usfm": "REV 16:19"
+        },
+        {
+          "start_ref": "66017002",
+          "start_ref_usfm": "REV 17:2",
+          "end_ref": "66017002",
+          "end_ref_usfm": "REV 17:2"
+        },
+        {
+          "start_ref": "66018003",
+          "start_ref_usfm": "REV 18:3",
+          "end_ref": "66018003",
+          "end_ref_usfm": "REV 18:3"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "66019015",
+          "start_ref_usfm": "REV 19:15",
+          "end_ref": "66019015",
+          "end_ref_usfm": "REV 19:15"
+        },
+        {
+          "start_ref": "43002003",
+          "start_ref_usfm": "JHN 2:3",
+          "end_ref": "43002005",
+          "end_ref_usfm": "JHN 2:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 26661,
+          "label": "Grape",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26335,
+          "content_id": 27193,
+          "label": "Vine",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 27194,
+          "label": "Vineyard",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26348,
+          "content_id": 27206,
+          "label": "Wine Press",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

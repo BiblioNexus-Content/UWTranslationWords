@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 179549,
+    "reference_id": 25461,
+    "title": "हन्ना",
+    "media_type": "Text",
+    "index_reference": "हन्ना",
+    "language": "hin",
+    "content": "<h1>हन्ना</h1><h2>तथ्य:</h2><p>हन्ना दस वर्ष तक यरूशलेम में यहूदियों का महायाजक रहा था लगभग सन् 6–15 तक। उसके बाद रोमी सरकार ने उसे हटा दिया था परन्तु वह यहूदियों का एक प्रभावी अगुवा बना रहा।</p><ul><li><p>हन्ना यीशु के सेवाकाल में अधिकृत महायाजक कैफा का ससुर था।</p></li><li><p>जब यीशु को बंदी बनाया गया था, तब हन्ना का दामाद,कैफा अधिकृत महायाजक था| तथापि, हन्ना को भी महायाजक कहा गया है क्योंकि वह निवर्तमान महायाजक था और मनुष्यों पर उसका वर्चस्व और अधिकार तब भी था|</p></li><li><p>महायाजक सेवानिवृत्त होकर भी महायाजक ही कहलाते थे, अतः कैफा और अन्यों के सेवाकाल में भी उसे महायाजक ही कहा जाता था।</p></li><li><p>यहूदी अगुओं के समक्ष अभियोग के समय यीशु को वाद-प्रतिवाद के लिए पहले हन्ना के पास लाया गया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">महा-याजक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">याजक</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:5-Acts4:7\">प्रे.का. 4:5–7</a></p></li><li><p><a href=\"https://ref.ly/John18:22-John18:24\">यूहन्ना 18:22–24</a></p></li><li><p><a href=\"https://ref.ly/Luke3:2\">लूका 3:2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G04520</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018013",
+          "end_ref_usfm": "JHN 18:13"
+        },
+        {
+          "start_ref": "43018024",
+          "start_ref_usfm": "JHN 18:24",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "43018022",
+          "start_ref_usfm": "JHN 18:22",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25836,
+          "content_id": 179905,
+          "label": "महायाजक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 180182,
+          "label": "याजक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

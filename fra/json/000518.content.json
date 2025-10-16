@@ -1,0 +1,563 @@
+[
+  {
+    "content_id": 467107,
+    "reference_id": 25967,
+    "title": "Lévites",
+    "media_type": "Text",
+    "index_reference": "lévites",
+    "language": "fra",
+    "content": "<h1>Lévites, Levi</h1><h2>Définition :</h2><p>&quot;Un Lévite est une personne qui est un membre de la tribu Israélite dont l&apos;ancêtre est Levi.</p><ul><li><p>Les Lévites étaient responsables du temple et de la cérémonie religieuse.</p></li><li><p>Tous les prêtres juifs étaient des hommes qui faisaient partie des Lévites* (Mais tous les Lévites n&apos; étaient pas des prêtres *)</p></li><li><p>Les prêtres lévites ont été mis à part et dédiés pour le travail spécial de servir Dieu dans le temple.</p></li></ul><p>(Voir aussi : (../names/matthew.md), (../kt/priest.md), (../other/sacrifice.md), (../kt/temple.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029034",
+          "start_ref_usfm": "GEN 29:34",
+          "end_ref": "01029034",
+          "end_ref_usfm": "GEN 29:34"
+        },
+        {
+          "start_ref": "01034025",
+          "start_ref_usfm": "GEN 34:25",
+          "end_ref": "01034025",
+          "end_ref_usfm": "GEN 34:25"
+        },
+        {
+          "start_ref": "01034030",
+          "start_ref_usfm": "GEN 34:30",
+          "end_ref": "01034030",
+          "end_ref_usfm": "GEN 34:30"
+        },
+        {
+          "start_ref": "01046011",
+          "start_ref_usfm": "GEN 46:11",
+          "end_ref": "01046011",
+          "end_ref_usfm": "GEN 46:11"
+        },
+        {
+          "start_ref": "02001002",
+          "start_ref_usfm": "EXO 1:2",
+          "end_ref": "02001002",
+          "end_ref_usfm": "EXO 1:2"
+        },
+        {
+          "start_ref": "02002001",
+          "start_ref_usfm": "EXO 2:1",
+          "end_ref": "02002001",
+          "end_ref_usfm": "EXO 2:1"
+        },
+        {
+          "start_ref": "02004014",
+          "start_ref_usfm": "EXO 4:14",
+          "end_ref": "02004014",
+          "end_ref_usfm": "EXO 4:14"
+        },
+        {
+          "start_ref": "02006016",
+          "start_ref_usfm": "EXO 6:16",
+          "end_ref": "02006016",
+          "end_ref_usfm": "EXO 6:16"
+        },
+        {
+          "start_ref": "02006019",
+          "start_ref_usfm": "EXO 6:19",
+          "end_ref": "02006019",
+          "end_ref_usfm": "EXO 6:19"
+        },
+        {
+          "start_ref": "02006025",
+          "start_ref_usfm": "EXO 6:25",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "02032026",
+          "start_ref_usfm": "EXO 32:26",
+          "end_ref": "02032026",
+          "end_ref_usfm": "EXO 32:26"
+        },
+        {
+          "start_ref": "02032028",
+          "start_ref_usfm": "EXO 32:28",
+          "end_ref": "02032028",
+          "end_ref_usfm": "EXO 32:28"
+        },
+        {
+          "start_ref": "02038021",
+          "start_ref_usfm": "EXO 38:21",
+          "end_ref": "02038021",
+          "end_ref_usfm": "EXO 38:21"
+        },
+        {
+          "start_ref": "15001005",
+          "start_ref_usfm": "EZR 1:5",
+          "end_ref": "15001005",
+          "end_ref_usfm": "EZR 1:5"
+        },
+        {
+          "start_ref": "15002040",
+          "start_ref_usfm": "EZR 2:40",
+          "end_ref": "15002040",
+          "end_ref_usfm": "EZR 2:40"
+        },
+        {
+          "start_ref": "15002070",
+          "start_ref_usfm": "EZR 2:70",
+          "end_ref": "15002070",
+          "end_ref_usfm": "EZR 2:70"
+        },
+        {
+          "start_ref": "15003008",
+          "start_ref_usfm": "EZR 3:8",
+          "end_ref": "15003008",
+          "end_ref_usfm": "EZR 3:8"
+        },
+        {
+          "start_ref": "15003009",
+          "start_ref_usfm": "EZR 3:9",
+          "end_ref": "15003009",
+          "end_ref_usfm": "EZR 3:9"
+        },
+        {
+          "start_ref": "15003010",
+          "start_ref_usfm": "EZR 3:10",
+          "end_ref": "15003010",
+          "end_ref_usfm": "EZR 3:10"
+        },
+        {
+          "start_ref": "15003012",
+          "start_ref_usfm": "EZR 3:12",
+          "end_ref": "15003012",
+          "end_ref_usfm": "EZR 3:12"
+        },
+        {
+          "start_ref": "15006016",
+          "start_ref_usfm": "EZR 6:16",
+          "end_ref": "15006016",
+          "end_ref_usfm": "EZR 6:16"
+        },
+        {
+          "start_ref": "15006018",
+          "start_ref_usfm": "EZR 6:18",
+          "end_ref": "15006018",
+          "end_ref_usfm": "EZR 6:18"
+        },
+        {
+          "start_ref": "15006020",
+          "start_ref_usfm": "EZR 6:20",
+          "end_ref": "15006020",
+          "end_ref_usfm": "EZR 6:20"
+        },
+        {
+          "start_ref": "15007007",
+          "start_ref_usfm": "EZR 7:7",
+          "end_ref": "15007007",
+          "end_ref_usfm": "EZR 7:7"
+        },
+        {
+          "start_ref": "15007013",
+          "start_ref_usfm": "EZR 7:13",
+          "end_ref": "15007013",
+          "end_ref_usfm": "EZR 7:13"
+        },
+        {
+          "start_ref": "15007024",
+          "start_ref_usfm": "EZR 7:24",
+          "end_ref": "15007024",
+          "end_ref_usfm": "EZR 7:24"
+        },
+        {
+          "start_ref": "15008015",
+          "start_ref_usfm": "EZR 8:15",
+          "end_ref": "15008015",
+          "end_ref_usfm": "EZR 8:15"
+        },
+        {
+          "start_ref": "15008018",
+          "start_ref_usfm": "EZR 8:18",
+          "end_ref": "15008018",
+          "end_ref_usfm": "EZR 8:18"
+        },
+        {
+          "start_ref": "15008020",
+          "start_ref_usfm": "EZR 8:20",
+          "end_ref": "15008020",
+          "end_ref_usfm": "EZR 8:20"
+        },
+        {
+          "start_ref": "15008029",
+          "start_ref_usfm": "EZR 8:29",
+          "end_ref": "15008029",
+          "end_ref_usfm": "EZR 8:29"
+        },
+        {
+          "start_ref": "15008030",
+          "start_ref_usfm": "EZR 8:30",
+          "end_ref": "15008030",
+          "end_ref_usfm": "EZR 8:30"
+        },
+        {
+          "start_ref": "15008033",
+          "start_ref_usfm": "EZR 8:33",
+          "end_ref": "15008033",
+          "end_ref_usfm": "EZR 8:33"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "15010005",
+          "start_ref_usfm": "EZR 10:5",
+          "end_ref": "15010005",
+          "end_ref_usfm": "EZR 10:5"
+        },
+        {
+          "start_ref": "15010015",
+          "start_ref_usfm": "EZR 10:15",
+          "end_ref": "15010015",
+          "end_ref_usfm": "EZR 10:15"
+        },
+        {
+          "start_ref": "15010023",
+          "start_ref_usfm": "EZR 10:23",
+          "end_ref": "15010023",
+          "end_ref_usfm": "EZR 10:23"
+        },
+        {
+          "start_ref": "16003017",
+          "start_ref_usfm": "NEH 3:17",
+          "end_ref": "16003017",
+          "end_ref_usfm": "NEH 3:17"
+        },
+        {
+          "start_ref": "16007001",
+          "start_ref_usfm": "NEH 7:1",
+          "end_ref": "16007001",
+          "end_ref_usfm": "NEH 7:1"
+        },
+        {
+          "start_ref": "16007043",
+          "start_ref_usfm": "NEH 7:43",
+          "end_ref": "16007043",
+          "end_ref_usfm": "NEH 7:43"
+        },
+        {
+          "start_ref": "16007073",
+          "start_ref_usfm": "NEH 7:73",
+          "end_ref": "16007073",
+          "end_ref_usfm": "NEH 7:73"
+        },
+        {
+          "start_ref": "16008007",
+          "start_ref_usfm": "NEH 8:7",
+          "end_ref": "16008007",
+          "end_ref_usfm": "NEH 8:7"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008009",
+          "end_ref_usfm": "NEH 8:9"
+        },
+        {
+          "start_ref": "16008011",
+          "start_ref_usfm": "NEH 8:11",
+          "end_ref": "16008011",
+          "end_ref_usfm": "NEH 8:11"
+        },
+        {
+          "start_ref": "16008013",
+          "start_ref_usfm": "NEH 8:13",
+          "end_ref": "16008013",
+          "end_ref_usfm": "NEH 8:13"
+        },
+        {
+          "start_ref": "16009004",
+          "start_ref_usfm": "NEH 9:4",
+          "end_ref": "16009004",
+          "end_ref_usfm": "NEH 9:4"
+        },
+        {
+          "start_ref": "16009005",
+          "start_ref_usfm": "NEH 9:5",
+          "end_ref": "16009005",
+          "end_ref_usfm": "NEH 9:5"
+        },
+        {
+          "start_ref": "16009038",
+          "start_ref_usfm": "NEH 9:38",
+          "end_ref": "16009038",
+          "end_ref_usfm": "NEH 9:38"
+        },
+        {
+          "start_ref": "16010009",
+          "start_ref_usfm": "NEH 10:9",
+          "end_ref": "16010009",
+          "end_ref_usfm": "NEH 10:9"
+        },
+        {
+          "start_ref": "16010028",
+          "start_ref_usfm": "NEH 10:28",
+          "end_ref": "16010028",
+          "end_ref_usfm": "NEH 10:28"
+        },
+        {
+          "start_ref": "16010034",
+          "start_ref_usfm": "NEH 10:34",
+          "end_ref": "16010034",
+          "end_ref_usfm": "NEH 10:34"
+        },
+        {
+          "start_ref": "16010037",
+          "start_ref_usfm": "NEH 10:37",
+          "end_ref": "16010037",
+          "end_ref_usfm": "NEH 10:37"
+        },
+        {
+          "start_ref": "16010038",
+          "start_ref_usfm": "NEH 10:38",
+          "end_ref": "16010038",
+          "end_ref_usfm": "NEH 10:38"
+        },
+        {
+          "start_ref": "16011003",
+          "start_ref_usfm": "NEH 11:3",
+          "end_ref": "16011003",
+          "end_ref_usfm": "NEH 11:3"
+        },
+        {
+          "start_ref": "16011015",
+          "start_ref_usfm": "NEH 11:15",
+          "end_ref": "16011015",
+          "end_ref_usfm": "NEH 11:15"
+        },
+        {
+          "start_ref": "16011016",
+          "start_ref_usfm": "NEH 11:16",
+          "end_ref": "16011016",
+          "end_ref_usfm": "NEH 11:16"
+        },
+        {
+          "start_ref": "16011018",
+          "start_ref_usfm": "NEH 11:18",
+          "end_ref": "16011018",
+          "end_ref_usfm": "NEH 11:18"
+        },
+        {
+          "start_ref": "16011020",
+          "start_ref_usfm": "NEH 11:20",
+          "end_ref": "16011020",
+          "end_ref_usfm": "NEH 11:20"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011022",
+          "end_ref_usfm": "NEH 11:22"
+        },
+        {
+          "start_ref": "16011036",
+          "start_ref_usfm": "NEH 11:36",
+          "end_ref": "16011036",
+          "end_ref_usfm": "NEH 11:36"
+        },
+        {
+          "start_ref": "16012001",
+          "start_ref_usfm": "NEH 12:1",
+          "end_ref": "16012001",
+          "end_ref_usfm": "NEH 12:1"
+        },
+        {
+          "start_ref": "16012008",
+          "start_ref_usfm": "NEH 12:8",
+          "end_ref": "16012008",
+          "end_ref_usfm": "NEH 12:8"
+        },
+        {
+          "start_ref": "16012022",
+          "start_ref_usfm": "NEH 12:22",
+          "end_ref": "16012022",
+          "end_ref_usfm": "NEH 12:22"
+        },
+        {
+          "start_ref": "16012024",
+          "start_ref_usfm": "NEH 12:24",
+          "end_ref": "16012024",
+          "end_ref_usfm": "NEH 12:24"
+        },
+        {
+          "start_ref": "16012027",
+          "start_ref_usfm": "NEH 12:27",
+          "end_ref": "16012027",
+          "end_ref_usfm": "NEH 12:27"
+        },
+        {
+          "start_ref": "16012030",
+          "start_ref_usfm": "NEH 12:30",
+          "end_ref": "16012030",
+          "end_ref_usfm": "NEH 12:30"
+        },
+        {
+          "start_ref": "16012044",
+          "start_ref_usfm": "NEH 12:44",
+          "end_ref": "16012044",
+          "end_ref_usfm": "NEH 12:44"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "16013005",
+          "start_ref_usfm": "NEH 13:5",
+          "end_ref": "16013005",
+          "end_ref_usfm": "NEH 13:5"
+        },
+        {
+          "start_ref": "16013010",
+          "start_ref_usfm": "NEH 13:10",
+          "end_ref": "16013010",
+          "end_ref_usfm": "NEH 13:10"
+        },
+        {
+          "start_ref": "16013013",
+          "start_ref_usfm": "NEH 13:13",
+          "end_ref": "16013013",
+          "end_ref_usfm": "NEH 13:13"
+        },
+        {
+          "start_ref": "16013022",
+          "start_ref_usfm": "NEH 13:22",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "16013029",
+          "start_ref_usfm": "NEH 13:29",
+          "end_ref": "16013029",
+          "end_ref_usfm": "NEH 13:29"
+        },
+        {
+          "start_ref": "16013030",
+          "start_ref_usfm": "NEH 13:30",
+          "end_ref": "16013030",
+          "end_ref_usfm": "NEH 13:30"
+        },
+        {
+          "start_ref": "42010032",
+          "start_ref_usfm": "LUK 10:32",
+          "end_ref": "42010032",
+          "end_ref_usfm": "LUK 10:32"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001019",
+          "end_ref_usfm": "JHN 1:19"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "58007005",
+          "start_ref_usfm": "HEB 7:5",
+          "end_ref": "58007005",
+          "end_ref_usfm": "HEB 7:5"
+        },
+        {
+          "start_ref": "58007009",
+          "start_ref_usfm": "HEB 7:9",
+          "end_ref": "58007009",
+          "end_ref_usfm": "HEB 7:9"
+        },
+        {
+          "start_ref": "58007011",
+          "start_ref_usfm": "HEB 7:11",
+          "end_ref": "58007011",
+          "end_ref_usfm": "HEB 7:11"
+        },
+        {
+          "start_ref": "66007007",
+          "start_ref_usfm": "REV 7:7",
+          "end_ref": "66007007",
+          "end_ref_usfm": "REV 7:7"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "13002001",
+          "start_ref_usfm": "1CH 2:1",
+          "end_ref": "13002002",
+          "end_ref_usfm": "1CH 2:2"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001021",
+          "end_ref_usfm": "JHN 1:21"
+        },
+        {
+          "start_ref": "11008003",
+          "start_ref_usfm": "1KI 8:3",
+          "end_ref": "11008005",
+          "end_ref_usfm": "1KI 8:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 467101,
+          "label": "Lea",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26001,
+          "content_id": 467138,
+          "label": "Matthieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

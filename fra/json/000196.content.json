@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466779,
+    "reference_id": 25612,
+    "title": "Corinthe",
+    "media_type": "Text",
+    "index_reference": "corinthe",
+    "language": "fra",
+    "content": "<h1>Corinthe ,Corinthiens</h1><h2>Définition :</h2><p>Corinthe était une ville dans le pays de la Grèce, à environ 80 kilomètres à l&apos;Ouest d&apos;Athènes* Les Corinthiens étaient des gens qui vivaient à Corinthe.</p><ul><li><p>A Corinthe, l&apos;une des premières églises chrétiennes a vu le jour.</p></li><li><p>Dans le Nouveau Testament, 1 Corinthiens 2 Corinthiens étaient des lettres écrites par Paul aux chrétiens vivant à Corinthe.</p></li><li><p>Lors de son premier voyage missionnaire, Paul est resté à Corinthe pendant environ 18 mois.</p></li><li><p>Paul a rencontré les croyants Aquilas et Priscille à Corinthe.</p></li><li><p>D&apos;autres dirigeants de l&apos;église tôt associés à Corinthe comprennent Timothée, Tite, Apollos, et Silas.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/apollos.md), (../names/timothy.md), (../names/titus.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018001",
+          "end_ref_usfm": "ACT 18:1"
+        },
+        {
+          "start_ref": "44018008",
+          "start_ref_usfm": "ACT 18:8",
+          "end_ref": "44018008",
+          "end_ref_usfm": "ACT 18:8"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46001002",
+          "start_ref_usfm": "1CO 1:2",
+          "end_ref": "46001002",
+          "end_ref_usfm": "1CO 1:2"
+        },
+        {
+          "start_ref": "46001003",
+          "start_ref_usfm": "1CO 1:3",
+          "end_ref": "46001003",
+          "end_ref_usfm": "1CO 1:3"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47001023",
+          "start_ref_usfm": "2CO 1:23",
+          "end_ref": "47001023",
+          "end_ref_usfm": "2CO 1:23"
+        },
+        {
+          "start_ref": "47006011",
+          "start_ref_usfm": "2CO 6:11",
+          "end_ref": "47006011",
+          "end_ref_usfm": "2CO 6:11"
+        },
+        {
+          "start_ref": "55004020",
+          "start_ref_usfm": "2TI 4:20",
+          "end_ref": "55004020",
+          "end_ref_usfm": "2TI 4:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        },
+        {
+          "start_ref": "47001023",
+          "start_ref_usfm": "2CO 1:23",
+          "end_ref": "47001024",
+          "end_ref_usfm": "2CO 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25465,
+          "content_id": 32920,
+          "label": "Apollos",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 467418,
+          "label": "Timothée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26306,
+          "content_id": 32929,
+          "label": "Tite",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

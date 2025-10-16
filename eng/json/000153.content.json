@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26426,
+    "reference_id": 25568,
+    "title": "Call-To Name",
+    "media_type": "Text",
+    "index_reference": "call-to name",
+    "language": "eng",
+    "content": "<h1>call, called</h1><h2>Definition:</h2><p>The terms “call” and “called,” in this sense, mean to name a place, person, or being. When referring to a person or thing the terms “call” and “called” can refer either to initially giving someone or something a name for the first time or to saying that thing or persons pre-existing name or title.</p><ul><li><p>The Bible sometimes uses these terms in the context of naming someone. For example, “His name is called John,” means “He is named John” or “His name is John.”</p></li><li><p>To be “called by the name of” means that someone is given the name of someone else. God says that he has called his people by his name.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>“You must call his name” can also be translated as “you must name him.”</p></li><li><p>“His name is called” could also be translated as “his name is” or “he is named.”</p></li><li><p>The expression “you are called by my name” could be translated as “I have given you my name, showing that you belong to me.”</p></li><li><p>You could translates Jesus&apos; words “You call me ‘Teacher’ and ‘Lord,’” as “You address me as ‘Teacher’ and ‘Lord,’” or something similar to show that the word “call” in this context means to “address” someone by a specific name or title.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25569\" data-resourceType=\"UWTranslationWords\">call to summon</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18042014",
+          "start_ref_usfm": "JOB 42:14",
+          "end_ref": "18042014",
+          "end_ref_usfm": "JOB 42:14"
+        },
+        {
+          "start_ref": "41010018",
+          "start_ref_usfm": "MRK 10:18",
+          "end_ref": "41010018",
+          "end_ref_usfm": "MRK 10:18"
+        },
+        {
+          "start_ref": "41011017",
+          "start_ref_usfm": "MRK 11:17",
+          "end_ref": "41011017",
+          "end_ref_usfm": "MRK 11:17"
+        },
+        {
+          "start_ref": "41012037",
+          "start_ref_usfm": "MRK 12:37",
+          "end_ref": "41012037",
+          "end_ref_usfm": "MRK 12:37"
+        },
+        {
+          "start_ref": "54006020",
+          "start_ref_usfm": "1TI 6:20",
+          "end_ref": "54006020",
+          "end_ref_usfm": "1TI 6:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25569,
+          "content_id": 26427,
+          "label": "Call-To Summon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

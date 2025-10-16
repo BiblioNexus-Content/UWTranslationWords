@@ -1,0 +1,197 @@
+[
+  {
+    "content_id": 467418,
+    "reference_id": 26304,
+    "title": "Timothée",
+    "media_type": "Text",
+    "index_reference": "timothée",
+    "language": "fra",
+    "content": "<h1>Timothée</h1><h2>Définition :</h2><p>&quot;Timothée était un jeune homme de Lystres qui est devenu un croyant en Christ à la suite du ministère de Paul dans sa ville* Il a ensuite rejoint Paul pour plusieurs voyages missionnaires et a aidé à guider de nouvelles communautés de croyants.</p><ul><li><p>Sa grand-mère Lois ainsi que sa mère Eunice étaient juives et croyantes en Christ, mais son père était grec.</p></li><li><p>Parce que Timothée était en partie juif, Paul le fit circoncire afin qu&apos;il puisse rendre le ministère pour les Juifs sans les offenser.</p></li><li><p>Les anciens et Paul ont formellement établi Timothée pour le ministère en lui imposant les mains et en priant pour lui.</p></li><li><p>Deux livres du Nouveau Testament (I Timothée et 2 Timothée) ont été écrits par Paul, fournissant des conseils à Timothée comme un jeune chef d&apos;églises locales.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/appoint.md), (../kt/believe.md), (../kt/church.md), (../names/greek.md), (../kt/minister.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
+        },
+        {
+          "start_ref": "44016003",
+          "start_ref_usfm": "ACT 16:3",
+          "end_ref": "44016003",
+          "end_ref_usfm": "ACT 16:3"
+        },
+        {
+          "start_ref": "44017014",
+          "start_ref_usfm": "ACT 17:14",
+          "end_ref": "44017014",
+          "end_ref_usfm": "ACT 17:14"
+        },
+        {
+          "start_ref": "44017015",
+          "start_ref_usfm": "ACT 17:15",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        },
+        {
+          "start_ref": "44018005",
+          "start_ref_usfm": "ACT 18:5",
+          "end_ref": "44018005",
+          "end_ref_usfm": "ACT 18:5"
+        },
+        {
+          "start_ref": "44019022",
+          "start_ref_usfm": "ACT 19:22",
+          "end_ref": "44019022",
+          "end_ref_usfm": "ACT 19:22"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "45016021",
+          "start_ref_usfm": "ROM 16:21",
+          "end_ref": "45016021",
+          "end_ref_usfm": "ROM 16:21"
+        },
+        {
+          "start_ref": "46004017",
+          "start_ref_usfm": "1CO 4:17",
+          "end_ref": "46004017",
+          "end_ref_usfm": "1CO 4:17"
+        },
+        {
+          "start_ref": "46016010",
+          "start_ref_usfm": "1CO 16:10",
+          "end_ref": "46016010",
+          "end_ref_usfm": "1CO 16:10"
+        },
+        {
+          "start_ref": "47001001",
+          "start_ref_usfm": "2CO 1:1",
+          "end_ref": "47001001",
+          "end_ref_usfm": "2CO 1:1"
+        },
+        {
+          "start_ref": "47001019",
+          "start_ref_usfm": "2CO 1:19",
+          "end_ref": "47001019",
+          "end_ref_usfm": "2CO 1:19"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "50002019",
+          "start_ref_usfm": "PHP 2:19",
+          "end_ref": "50002019",
+          "end_ref_usfm": "PHP 2:19"
+        },
+        {
+          "start_ref": "51001001",
+          "start_ref_usfm": "COL 1:1",
+          "end_ref": "51001001",
+          "end_ref_usfm": "COL 1:1"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "52003002",
+          "start_ref_usfm": "1TH 3:2",
+          "end_ref": "52003002",
+          "end_ref_usfm": "1TH 3:2"
+        },
+        {
+          "start_ref": "52003006",
+          "start_ref_usfm": "1TH 3:6",
+          "end_ref": "52003006",
+          "end_ref_usfm": "1TH 3:6"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "54001002",
+          "start_ref_usfm": "1TI 1:2",
+          "end_ref": "54001002",
+          "end_ref_usfm": "1TI 1:2"
+        },
+        {
+          "start_ref": "54001018",
+          "start_ref_usfm": "1TI 1:18",
+          "end_ref": "54001018",
+          "end_ref_usfm": "1TI 1:18"
+        },
+        {
+          "start_ref": "54006020",
+          "start_ref_usfm": "1TI 6:20",
+          "end_ref": "54006020",
+          "end_ref_usfm": "1TI 6:20"
+        },
+        {
+          "start_ref": "55001002",
+          "start_ref_usfm": "2TI 1:2",
+          "end_ref": "55001002",
+          "end_ref_usfm": "2TI 1:2"
+        },
+        {
+          "start_ref": "57001001",
+          "start_ref_usfm": "PHM 1:1",
+          "end_ref": "57001001",
+          "end_ref_usfm": "PHM 1:1"
+        },
+        {
+          "start_ref": "58013023",
+          "start_ref_usfm": "HEB 13:23",
+          "end_ref": "58013023",
+          "end_ref_usfm": "HEB 13:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 466646,
+          "label": "Nommer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 466758,
+          "label": "Église",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 466954,
+          "label": "Grecque",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 467158,
+          "label": "Ministre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

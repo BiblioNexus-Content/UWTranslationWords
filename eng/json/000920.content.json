@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 27193,
+    "reference_id": 26335,
+    "title": "Vine",
+    "media_type": "Text",
+    "index_reference": "vine",
+    "language": "eng",
+    "content": "<h1>vine, vines</h1><h2>Definition:</h2><p>The term “vine” refers to a plant that grows by trailing along the ground or by climbing trees and other structures. The word “vine” in the Bible is used only of fruit-bearing vines and usually refers to grape vines.</p><ul><li><p>In the Bible, the word “vine” almost always means “grapevine.”</p></li><li><p>The branches of the grapevine are attached to the main stem which gives them water and other nutrients so that they can grow.</p></li><li><p>Jesus called himself the “vine” and called his people the “branches.” In this context, the word “vine” could also be translated as “grapevine stem” or “grape plant stem.” (See: Metaphor)</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">grape</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vineyard</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen40:9\">Genesis 40:9</a></p></li><li><p><a href=\"https://ref.ly/Gen49:11\">Genesis 49:11</a></p></li><li><p><a href=\"https://ref.ly/John15:1\">John 15:1</a></p></li><li><p><a href=\"https://ref.ly/Luke22:18\">Luke 22:18</a></p></li><li><p><a href=\"https://ref.ly/Mark12:3\">Mark 12:3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:35-Matt21:37\">Matthew 21:35–37</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5139, H1612, H8321, G02880, G02900, G10090, G10920</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040009",
+          "start_ref_usfm": "GEN 40:9",
+          "end_ref": "01040009",
+          "end_ref_usfm": "GEN 40:9"
+        },
+        {
+          "start_ref": "01040010",
+          "start_ref_usfm": "GEN 40:10",
+          "end_ref": "01040010",
+          "end_ref_usfm": "GEN 40:10"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "22006011",
+          "start_ref_usfm": "SNG 6:11",
+          "end_ref": "22006011",
+          "end_ref_usfm": "SNG 6:11"
+        },
+        {
+          "start_ref": "22007008",
+          "start_ref_usfm": "SNG 7:8",
+          "end_ref": "22007008",
+          "end_ref_usfm": "SNG 7:8"
+        },
+        {
+          "start_ref": "22007012",
+          "start_ref_usfm": "SNG 7:12",
+          "end_ref": "22007012",
+          "end_ref_usfm": "SNG 7:12"
+        },
+        {
+          "start_ref": "37002019",
+          "start_ref_usfm": "HAG 2:19",
+          "end_ref": "37002019",
+          "end_ref_usfm": "HAG 2:19"
+        },
+        {
+          "start_ref": "40026029",
+          "start_ref_usfm": "MAT 26:29",
+          "end_ref": "40026029",
+          "end_ref_usfm": "MAT 26:29"
+        },
+        {
+          "start_ref": "41012003",
+          "start_ref_usfm": "MRK 12:3",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "41014025",
+          "start_ref_usfm": "MRK 14:25",
+          "end_ref": "41014025",
+          "end_ref_usfm": "MRK 14:25"
+        },
+        {
+          "start_ref": "42022018",
+          "start_ref_usfm": "LUK 22:18",
+          "end_ref": "42022018",
+          "end_ref_usfm": "LUK 22:18"
+        },
+        {
+          "start_ref": "43015001",
+          "start_ref_usfm": "JHN 15:1",
+          "end_ref": "43015001",
+          "end_ref_usfm": "JHN 15:1"
+        },
+        {
+          "start_ref": "43015004",
+          "start_ref_usfm": "JHN 15:4",
+          "end_ref": "43015004",
+          "end_ref_usfm": "JHN 15:4"
+        },
+        {
+          "start_ref": "43015005",
+          "start_ref_usfm": "JHN 15:5",
+          "end_ref": "43015005",
+          "end_ref_usfm": "JHN 15:5"
+        },
+        {
+          "start_ref": "59003012",
+          "start_ref_usfm": "JAS 3:12",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "66014018",
+          "start_ref_usfm": "REV 14:18",
+          "end_ref": "66014018",
+          "end_ref_usfm": "REV 14:18"
+        },
+        {
+          "start_ref": "66014019",
+          "start_ref_usfm": "REV 14:19",
+          "end_ref": "66014019",
+          "end_ref_usfm": "REV 14:19"
+        },
+        {
+          "start_ref": "40021035",
+          "start_ref_usfm": "MAT 21:35",
+          "end_ref": "40021037",
+          "end_ref_usfm": "MAT 21:37"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 26661,
+          "label": "Grape",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 27194,
+          "label": "Vineyard",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467144,
+    "reference_id": 26007,
+    "title": "Doux",
+    "media_type": "Text",
+    "index_reference": "doux",
+    "language": "fra",
+    "content": "<h1>doux, douceur</h1><h2>Définition :</h2><p>&quot;Le terme «doux» décrit une personne qui est douce, soumise, et prêt à subir l&apos;injustice* La douceur est la capacité à être doux, même lorsqu&apos;on peut utiliser la dureté ou la force.</p><ul><li><p>La douceur est souvent associée à l&apos;humilité.</p></li><li><p>Jésus lui-même est décrit comme étant doux ou doux de cœur.</p></li><li><p>Ce terme pourrait aussi être traduit comme «gentil» ou «manière douce*&quot;</p></li><li><p>Le terme &quot;douceur&quot; pourrait être traduit par «gentillesse» ou «l&apos;humilité».</p></li></ul><p>(Voir aussi : (../kt/humble.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19037011",
+          "start_ref_usfm": "PSA 37:11",
+          "end_ref": "19037011",
+          "end_ref_usfm": "PSA 37:11"
+        },
+        {
+          "start_ref": "40005005",
+          "start_ref_usfm": "MAT 5:5",
+          "end_ref": "40005005",
+          "end_ref_usfm": "MAT 5:5"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010001",
+          "end_ref_usfm": "2CO 10:1"
+        },
+        {
+          "start_ref": "55002025",
+          "start_ref_usfm": "2TI 2:25",
+          "end_ref": "55002025",
+          "end_ref_usfm": "2TI 2:25"
+        },
+        {
+          "start_ref": "59001010",
+          "start_ref_usfm": "JAS 1:10",
+          "end_ref": "59001010",
+          "end_ref_usfm": "JAS 1:10"
+        },
+        {
+          "start_ref": "59003013",
+          "start_ref_usfm": "JAS 3:13",
+          "end_ref": "59003013",
+          "end_ref_usfm": "JAS 3:13"
+        },
+        {
+          "start_ref": "60003015",
+          "start_ref_usfm": "1PE 3:15",
+          "end_ref": "60003017",
+          "end_ref_usfm": "1PE 3:17"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010002",
+          "end_ref_usfm": "2CO 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25860,
+          "content_id": 467006,
+          "label": "Humble",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

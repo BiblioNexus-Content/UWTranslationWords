@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179650,
+    "reference_id": 25571,
+    "title": "काना",
+    "media_type": "Text",
+    "index_reference": "काना",
+    "language": "hin",
+    "content": "<h1>काना</h1><h2>परिभाषा:</h2><p>काना गलील क्षेत्र में एक गांव या नगर था जो नासरत से लगभग नौ मील उत्तर में बसा हुआ था।</p><ul><li><p>काना नगर बारहों में से एक नतनएल का जन्म स्थान था।</p></li><li><p>यीशु काना नगर में एक विवाहोत्सव में गया था जहां उसने पानी को मदिरा में परिणत करके अपना पहला आश्चर्यकर्म किया था।</p></li><li><p>कुछ समय बाद यीशु काना में पुनः आया था जहां उसकी भेंट कफरनहूम के एक अधिकारी से हुई थी जिसने अपने पुत्र की चंगाई के लिए उससे विनती की थी।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25573\" data-resourceType=\"UWTranslationWords\">कफरनहूम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25766\" data-resourceType=\"UWTranslationWords\">गलील</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">बारहों</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/John2:1-John2:2\">यूहन्ना 2:1–2</a></p></li><li><p><a href=\"https://ref.ly/John4:46-John4:47\">यूहन्ना 4:46–47</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G25800</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002001",
+          "end_ref_usfm": "JHN 2:1"
+        },
+        {
+          "start_ref": "43002011",
+          "start_ref_usfm": "JHN 2:11",
+          "end_ref": "43002011",
+          "end_ref_usfm": "JHN 2:11"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002002",
+          "end_ref_usfm": "JHN 2:2"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004047",
+          "end_ref_usfm": "JHN 4:47"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25573,
+          "content_id": 179652,
+          "label": "कफरनहूम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25766,
+          "content_id": 179839,
+          "label": "गलील",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 180349,
+          "label": "बारहों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

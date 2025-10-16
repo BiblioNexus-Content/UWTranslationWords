@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 27102,
+    "reference_id": 26244,
+    "title": "Slander",
+    "media_type": "Text",
+    "index_reference": "slander",
+    "language": "eng",
+    "content": "<h1>slander, slanderers, revile, insult</h1><h2>Definition:</h2><p>A slander consists of negative, defaming things spoken (not written) about another person. To say such things (not to write them) about someone is to slander that person. The person saying such things is a slanderer.</p><ul><li><p>Slander may be a true report or a false accusation, but its effect is to cause others to think negatively of the person being slandered.</p></li><li><p>To “slander” could be translated as to “speak against” or to “spread an evil report” or to “defame.”</p></li><li><p>A slanderer is also called an “informer” or a “tale-bearer.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25543\" data-resourceType=\"UWTranslationWords\">blasphemy</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:13\">1 Corinthians 4:13</a></p></li><li><p><a href=\"https://ref.ly/1Tim3:11\">1 Timothy 3:11</a></p></li><li><p><a href=\"https://ref.ly/2Cor6:8-2Cor6:10\">2 Corinthians 6:8–10</a></p></li><li><p><a href=\"https://ref.ly/Mark7:20-Mark7:23\">Mark 7:20–23</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1681, H1696, H1848, H3960, H5791, H7270, H7400, H8267, G09870, G09880, G12280, G14260, G26360, G26370, G30590, G30600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20011013",
+          "start_ref_usfm": "PRO 11:13",
+          "end_ref": "20011013",
+          "end_ref_usfm": "PRO 11:13"
+        },
+        {
+          "start_ref": "20020019",
+          "start_ref_usfm": "PRO 20:19",
+          "end_ref": "20020019",
+          "end_ref_usfm": "PRO 20:19"
+        },
+        {
+          "start_ref": "20025010",
+          "start_ref_usfm": "PRO 25:10",
+          "end_ref": "20025010",
+          "end_ref_usfm": "PRO 25:10"
+        },
+        {
+          "start_ref": "20030010",
+          "start_ref_usfm": "PRO 30:10",
+          "end_ref": "20030010",
+          "end_ref_usfm": "PRO 30:10"
+        },
+        {
+          "start_ref": "44018006",
+          "start_ref_usfm": "ACT 18:6",
+          "end_ref": "44018006",
+          "end_ref_usfm": "ACT 18:6"
+        },
+        {
+          "start_ref": "45001030",
+          "start_ref_usfm": "ROM 1:30",
+          "end_ref": "45001030",
+          "end_ref_usfm": "ROM 1:30"
+        },
+        {
+          "start_ref": "45003008",
+          "start_ref_usfm": "ROM 3:8",
+          "end_ref": "45003008",
+          "end_ref_usfm": "ROM 3:8"
+        },
+        {
+          "start_ref": "45014016",
+          "start_ref_usfm": "ROM 14:16",
+          "end_ref": "45014016",
+          "end_ref_usfm": "ROM 14:16"
+        },
+        {
+          "start_ref": "46004013",
+          "start_ref_usfm": "1CO 4:13",
+          "end_ref": "46004013",
+          "end_ref_usfm": "1CO 4:13"
+        },
+        {
+          "start_ref": "46010030",
+          "start_ref_usfm": "1CO 10:30",
+          "end_ref": "46010030",
+          "end_ref_usfm": "1CO 10:30"
+        },
+        {
+          "start_ref": "47006008",
+          "start_ref_usfm": "2CO 6:8",
+          "end_ref": "47006008",
+          "end_ref_usfm": "2CO 6:8"
+        },
+        {
+          "start_ref": "47012020",
+          "start_ref_usfm": "2CO 12:20",
+          "end_ref": "47012020",
+          "end_ref_usfm": "2CO 12:20"
+        },
+        {
+          "start_ref": "51003008",
+          "start_ref_usfm": "COL 3:8",
+          "end_ref": "51003008",
+          "end_ref_usfm": "COL 3:8"
+        },
+        {
+          "start_ref": "54003011",
+          "start_ref_usfm": "1TI 3:11",
+          "end_ref": "54003011",
+          "end_ref_usfm": "1TI 3:11"
+        },
+        {
+          "start_ref": "56002003",
+          "start_ref_usfm": "TIT 2:3",
+          "end_ref": "56002003",
+          "end_ref_usfm": "TIT 2:3"
+        },
+        {
+          "start_ref": "56002005",
+          "start_ref_usfm": "TIT 2:5",
+          "end_ref": "56002005",
+          "end_ref_usfm": "TIT 2:5"
+        },
+        {
+          "start_ref": "56003002",
+          "start_ref_usfm": "TIT 3:2",
+          "end_ref": "56003002",
+          "end_ref_usfm": "TIT 3:2"
+        },
+        {
+          "start_ref": "60002001",
+          "start_ref_usfm": "1PE 2:1",
+          "end_ref": "60002001",
+          "end_ref_usfm": "1PE 2:1"
+        },
+        {
+          "start_ref": "60004004",
+          "start_ref_usfm": "1PE 4:4",
+          "end_ref": "60004004",
+          "end_ref_usfm": "1PE 4:4"
+        },
+        {
+          "start_ref": "61002002",
+          "start_ref_usfm": "2PE 2:2",
+          "end_ref": "61002002",
+          "end_ref_usfm": "2PE 2:2"
+        },
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        },
+        {
+          "start_ref": "65001010",
+          "start_ref_usfm": "JUD 1:10",
+          "end_ref": "65001010",
+          "end_ref_usfm": "JUD 1:10"
+        },
+        {
+          "start_ref": "66002009",
+          "start_ref_usfm": "REV 2:9",
+          "end_ref": "66002009",
+          "end_ref_usfm": "REV 2:9"
+        },
+        {
+          "start_ref": "41007020",
+          "start_ref_usfm": "MRK 7:20",
+          "end_ref": "41007023",
+          "end_ref_usfm": "MRK 7:23"
+        },
+        {
+          "start_ref": "47006008",
+          "start_ref_usfm": "2CO 6:8",
+          "end_ref": "47006010",
+          "end_ref_usfm": "2CO 6:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25543,
+          "content_id": 26401,
+          "label": "Blasphemy",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

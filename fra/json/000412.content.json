@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467019,
+    "reference_id": 25873,
+    "title": "Interceder",
+    "media_type": "Text",
+    "index_reference": "interceder",
+    "language": "fra",
+    "content": "<h1>Interceder, intercession</h1><h2>Définition :</h2><p>Les termes « intercéder » et « intercession » se réfèrent à faire des demandes à quelqu&apos;un au nom d&apos;une autre personne. Dans la Bible, cela fait généralement référence à la prière pour les autres.</p><ul><li><p>Les expressions « faire une intercession pour » et « intercéder pour » signifie faire une demande à Dieu pour le bénéfice des autres.</p></li><li><p>La Bible nous enseigne que le Saint Esprit intercède pour nous, il prie Dieu pour nous.</p></li><li><p>Une personne intercède pour les autres en faisant des demandes à une personne qui a de l&apos;autorité.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>D&apos;autres façons de traduire « intercéder » pourraient inclure « plaider pour » ou « exhorter (quelqu&apos;un) à faire quelque chose (pour quelqu&apos;un d&apos;autre) ».</p></li><li><p>Le mot « intercessions » pourrait être traduit par « appels » ou « demandes » ou « prières urgentes ».</p></li><li><p>L&apos;expression « faire l&apos;intercession pour » pourrait se traduire par « faire des demandes au profit de » ou « faire un appel au nom de » ou « demander à Dieu d&apos;aider » ou « faire appel à Dieu pour bénir (quelqu&apos;un) ».</p></li></ul><p>(Voir aussi : (../kt/pray.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23053012",
+          "start_ref_usfm": "ISA 53:12",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "45008027",
+          "start_ref_usfm": "ROM 8:27",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008034",
+          "start_ref_usfm": "ROM 8:34",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008033",
+          "start_ref_usfm": "ROM 8:33",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007026",
+          "end_ref_usfm": "HEB 7:26"
+        },
+        {
+          "start_ref": "24029006",
+          "start_ref_usfm": "JER 29:6",
+          "end_ref": "24029007",
+          "end_ref_usfm": "JER 29:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26117,
+          "content_id": 467240,
+          "label": "Prier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

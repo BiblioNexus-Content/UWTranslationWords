@@ -1,0 +1,184 @@
+[
+  {
+    "content_id": 26393,
+    "reference_id": 25535,
+    "title": "Biblical Time Hour",
+    "media_type": "Text",
+    "index_reference": "biblical time hour",
+    "language": "eng",
+    "content": "<h1>hour, moment, immediately, for a while</h1><h2>Definition:</h2><p>The term “hour” is often used in the Bible to tell what time of day a certain event took place. It is also used figuratively to mean “time” or “moment.”</p><ul><li><p>The Jews counted daylight hours starting at sunrise (around 6 AM). For example, “the ninth hour” meant “around three in the afternoon.”</p></li><li><p>Nighttime hours were counted starting at sunset (around 6 PM). For example, “the third hour of the night” meant “around nine in the evening” in our present-day system..</p></li><li><p>Since references to time in the Bible will not correspond exactly to the present-day time system, phrases such as “around nine” or “about six o’clock” could be used.</p></li><li><p>Some translations might add phrases like “in the evening” or “in the morning” or “in the afternoon” to make it clear what time of day is being talked about.</p></li><li><p>The phrase, “in that hour” could be translated as “at that time” or “in that moment.”</p></li><li><p>Referring to Jesus, the expression “his hour had come” could be translated as “the time had come for him to” or “the appointed time for him had come.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:15\">Acts 2:15</a></p></li><li><p><a href=\"https://ref.ly/John4:51-John4:52\">John 4:51–52</a></p></li><li><p><a href=\"https://ref.ly/Luke23:44\">Luke 23:44</a></p></li><li><p><a href=\"https://ref.ly/Matt20:3\">Matthew 20:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H8160, G56100</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40020003",
+          "start_ref_usfm": "MAT 20:3",
+          "end_ref": "40020003",
+          "end_ref_usfm": "MAT 20:3"
+        },
+        {
+          "start_ref": "40020005",
+          "start_ref_usfm": "MAT 20:5",
+          "end_ref": "40020005",
+          "end_ref_usfm": "MAT 20:5"
+        },
+        {
+          "start_ref": "40020009",
+          "start_ref_usfm": "MAT 20:9",
+          "end_ref": "40020009",
+          "end_ref_usfm": "MAT 20:9"
+        },
+        {
+          "start_ref": "40020012",
+          "start_ref_usfm": "MAT 20:12",
+          "end_ref": "40020012",
+          "end_ref_usfm": "MAT 20:12"
+        },
+        {
+          "start_ref": "40026040",
+          "start_ref_usfm": "MAT 26:40",
+          "end_ref": "40026040",
+          "end_ref_usfm": "MAT 26:40"
+        },
+        {
+          "start_ref": "40027045",
+          "start_ref_usfm": "MAT 27:45",
+          "end_ref": "40027045",
+          "end_ref_usfm": "MAT 27:45"
+        },
+        {
+          "start_ref": "40027046",
+          "start_ref_usfm": "MAT 27:46",
+          "end_ref": "40027046",
+          "end_ref_usfm": "MAT 27:46"
+        },
+        {
+          "start_ref": "41015025",
+          "start_ref_usfm": "MRK 15:25",
+          "end_ref": "41015025",
+          "end_ref_usfm": "MRK 15:25"
+        },
+        {
+          "start_ref": "41015033",
+          "start_ref_usfm": "MRK 15:33",
+          "end_ref": "41015033",
+          "end_ref_usfm": "MRK 15:33"
+        },
+        {
+          "start_ref": "41015034",
+          "start_ref_usfm": "MRK 15:34",
+          "end_ref": "41015034",
+          "end_ref_usfm": "MRK 15:34"
+        },
+        {
+          "start_ref": "42022059",
+          "start_ref_usfm": "LUK 22:59",
+          "end_ref": "42022059",
+          "end_ref_usfm": "LUK 22:59"
+        },
+        {
+          "start_ref": "42023044",
+          "start_ref_usfm": "LUK 23:44",
+          "end_ref": "42023044",
+          "end_ref_usfm": "LUK 23:44"
+        },
+        {
+          "start_ref": "43001039",
+          "start_ref_usfm": "JHN 1:39",
+          "end_ref": "43001039",
+          "end_ref_usfm": "JHN 1:39"
+        },
+        {
+          "start_ref": "43004006",
+          "start_ref_usfm": "JHN 4:6",
+          "end_ref": "43004006",
+          "end_ref_usfm": "JHN 4:6"
+        },
+        {
+          "start_ref": "43004052",
+          "start_ref_usfm": "JHN 4:52",
+          "end_ref": "43004052",
+          "end_ref_usfm": "JHN 4:52"
+        },
+        {
+          "start_ref": "43004053",
+          "start_ref_usfm": "JHN 4:53",
+          "end_ref": "43004053",
+          "end_ref_usfm": "JHN 4:53"
+        },
+        {
+          "start_ref": "43011009",
+          "start_ref_usfm": "JHN 11:9",
+          "end_ref": "43011009",
+          "end_ref_usfm": "JHN 11:9"
+        },
+        {
+          "start_ref": "43019014",
+          "start_ref_usfm": "JHN 19:14",
+          "end_ref": "43019014",
+          "end_ref_usfm": "JHN 19:14"
+        },
+        {
+          "start_ref": "44002015",
+          "start_ref_usfm": "ACT 2:15",
+          "end_ref": "44002015",
+          "end_ref_usfm": "ACT 2:15"
+        },
+        {
+          "start_ref": "44003001",
+          "start_ref_usfm": "ACT 3:1",
+          "end_ref": "44003001",
+          "end_ref_usfm": "ACT 3:1"
+        },
+        {
+          "start_ref": "44005007",
+          "start_ref_usfm": "ACT 5:7",
+          "end_ref": "44005007",
+          "end_ref_usfm": "ACT 5:7"
+        },
+        {
+          "start_ref": "44010003",
+          "start_ref_usfm": "ACT 10:3",
+          "end_ref": "44010003",
+          "end_ref_usfm": "ACT 10:3"
+        },
+        {
+          "start_ref": "44010009",
+          "start_ref_usfm": "ACT 10:9",
+          "end_ref": "44010009",
+          "end_ref_usfm": "ACT 10:9"
+        },
+        {
+          "start_ref": "44010030",
+          "start_ref_usfm": "ACT 10:30",
+          "end_ref": "44010030",
+          "end_ref_usfm": "ACT 10:30"
+        },
+        {
+          "start_ref": "44019034",
+          "start_ref_usfm": "ACT 19:34",
+          "end_ref": "44019034",
+          "end_ref_usfm": "ACT 19:34"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "45013011",
+          "start_ref_usfm": "ROM 13:11",
+          "end_ref": "45013011",
+          "end_ref_usfm": "ROM 13:11"
+        },
+        {
+          "start_ref": "43004051",
+          "start_ref_usfm": "JHN 4:51",
+          "end_ref": "43004052",
+          "end_ref_usfm": "JHN 4:52"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

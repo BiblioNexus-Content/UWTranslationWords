@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179790,
+    "reference_id": 25717,
+    "title": "हव्वा",
+    "media_type": "Text",
+    "index_reference": "हव्वा",
+    "language": "hin",
+    "content": "<h1>हव्वा</h1><h2>तथ्य:</h2><p>यह नाम सबसे पहली स्त्री का था. उसके नाम का अर्थ है, “जीवन” या “जीवित.”</p><ul><li><p>परमेश्वर ने आदम के शरीर से एक पसली निकाल कर हव्वा को बनाया था.</p></li><li><p>हव्वा को आदम की “सहायक” होने के लिए बनाया गया था. वह परमेश्वर प्रदत्त कार्यों में आदम के साथ काम करती थी.</p></li><li><p>शैतान ने (सर्प का रूप धारण करके) हव्वा को ललचाया था और परमेश्वर के वर्जित फल को खाकर पाप करनेवाली वह मनुष्यों में पहली थी.</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">आदम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_life\" data-resourceType=\"UWTranslationWords\">जीवन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26199\" data-resourceType=\"UWTranslationWords\">शैतान</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Tim0:0\">1 तीमुथियुस 02:13</a></p></li><li><p><a href=\"https://ref.ly/2Cor0:0\">2 कुरिन्थियों 11:03</a></p></li><li><p><a href=\"https://ref.ly/Gen3:20\">उत्पत्ति 03:20</a></p></li><li><p><a href=\"https://ref.ly/Gen4:2\">उत्पत्ति 04:02</a></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p><strong>01:13</strong> तब परमेश्वर ने आदम की पसलियों में से एक को लेकर औरत को बनाया और उसे आदम के पास लाया.</p></li><li><p>__<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">02:02</a>__लेकिन वाटिका में एक चालाक साँप था. उसने औरत से पूछा, “क्या परमेश्वर ने वास्तव में यह कहा है कि वाटिका के किसी भी पेड़ से फल न खाना?”</p></li><li><p><strong>02:11</strong> मनुष्य ने अपनी पत्नी का नाम हव्वा रखा, जिसका मतलब होता है &quot;जीवनदात्री&quot; क्योंकि वह समस्त मानव-जाति की माँ होगी.</p></li><li><p><strong>21:01</strong> परमेश्वर ने यह प्रतिज्ञा की कि <strong>हव्वा</strong> का एक वंशज उतपन्न होगा जो साँप के सिर को कुचल डालेगा.</p></li><li><p>__<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">48:02</a>__शैतान ने <strong>हव्वा</strong> को धोखा देने के लिए वाटिका में साँप के माध्यम से बात की.</p></li><li><p>__<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">49:08</a>__आदम और <strong>हव्वा</strong> ने पाप किया तो उससे उनका पूरा वंश प्रभावित हुआ.</p></li><li><p><strong>50:16</strong> क्योंकि आदम और <strong>हव्वा</strong> ने परमेश्वर की आज्ञा का उलंघन किया और इस दुनिया में पाप को लाए, इसलिये परमेश्वर ने पाप को श्राप दिया और उसे नष्ट करने का निर्णय लिया.</p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong’s:&nbsp;H2332, G2096</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003020",
+          "start_ref_usfm": "GEN 3:20",
+          "end_ref": "01003020",
+          "end_ref_usfm": "GEN 3:20"
+        },
+        {
+          "start_ref": "01004001",
+          "start_ref_usfm": "GEN 4:1",
+          "end_ref": "01004001",
+          "end_ref_usfm": "GEN 4:1"
+        },
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "47011003",
+          "start_ref_usfm": "2CO 11:3",
+          "end_ref": "47011003",
+          "end_ref_usfm": "2CO 11:3"
+        },
+        {
+          "start_ref": "54002013",
+          "start_ref_usfm": "1TI 2:13",
+          "end_ref": "54002013",
+          "end_ref_usfm": "1TI 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 179519,
+          "label": "आदम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 180257,
+          "label": "शैतान",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

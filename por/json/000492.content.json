@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 238026,
+    "reference_id": 25893,
+    "title": "Jeú",
+    "media_type": "Text",
+    "index_reference": "jeú",
+    "language": "por",
+    "content": "<h1>Jeú</h1><h2>Fatos:</h2><p>Jeú foi o nome de dois homens no Antigo Testamento.</p><ul><li><p>Jeú, filho de Hanani, foi um profeta durante os reinados do rei Acabe de Israel e do rei Josafá de Judá.</p></li><li><p>Jeú, filho (ou descendente) de Josafá, foi um general no exército israelita que foi ungido rei por ordem do profeta Eliseu.</p></li><li><p>O rei Jeú matou dois reis maus, o rei Jorão de Israel e o rei Acazias de Judá.</p></li><li><p>O rei Jeú também matou todos os parentes do antigo rei Acabe e mandou matar a rainha má, Jezabel.</p></li><li><p>O rei Jeú destruiu todos os lugares de adoração a Baal em Samaria e matou todos os profetas de Baal.</p></li><li><p>O rei Jeú serviu ao único Deus verdadeiro, Javé (Yahweh), e foi rei sobre Israel por vinte e oito anos.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Acazias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">Eliseu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Josafá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25893\" data-resourceType=\"UWTranslationWords\">Jeú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25904\" data-resourceType=\"UWTranslationWords\">Jezabel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25916\" data-resourceType=\"UWTranslationWords\">Jorão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr4:35\">1 Crônicas 4.35</a></p></li><li><p><a href=\"https://ref.ly/1Kgs16:2\">1 Reis 16.2</a></p></li><li><p><a href=\"https://ref.ly/2Chr19:1-2Chr19:3\">2 Crônicas 19.1–3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs10:9\">2 Reis 10.9</a></p></li><li><p><a href=\"https://ref.ly/Hos1:4\">Oséias 1.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3058</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11016002",
+          "start_ref_usfm": "1KI 16:2",
+          "end_ref": "11016002",
+          "end_ref_usfm": "1KI 16:2"
+        },
+        {
+          "start_ref": "12010009",
+          "start_ref_usfm": "2KI 10:9",
+          "end_ref": "12010009",
+          "end_ref_usfm": "2KI 10:9"
+        },
+        {
+          "start_ref": "13004035",
+          "start_ref_usfm": "1CH 4:35",
+          "end_ref": "13004035",
+          "end_ref_usfm": "1CH 4:35"
+        },
+        {
+          "start_ref": "28001004",
+          "start_ref_usfm": "HOS 1:4",
+          "end_ref": "28001004",
+          "end_ref_usfm": "HOS 1:4"
+        },
+        {
+          "start_ref": "14019001",
+          "start_ref_usfm": "2CH 19:1",
+          "end_ref": "14019003",
+          "end_ref_usfm": "2CH 19:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25441,
+          "content_id": 237579,
+          "label": "Acazias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 237831,
+          "label": "Eliseu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 238025,
+          "label": "Josafá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 238026,
+          "label": "Jeú",
+          "language": "por"
+        },
+        {
+          "reference_id": 25904,
+          "content_id": 238037,
+          "label": "Jezabel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 238049,
+          "label": "Jorão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 238321,
+          "label": "Samaria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

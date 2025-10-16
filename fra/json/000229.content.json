@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466821,
+    "reference_id": 25659,
+    "title": "Démoniaque",
+    "media_type": "Text",
+    "index_reference": "démoniaque",
+    "language": "fra",
+    "content": "<h1>démoniaque, possedé par un démon</h1><h2>Définition</h2><p>Le terme &quot;démoniaque&quot; s&apos;applique à une personne qui est &quot;possédée par un démon&quot;, a un démon ou un mauvais esprit qui contrôle ce qu’elle fait et pense.</p><ul><li><p>Souvent un &quot;démoniaque&quot; se blessait ou blessait d&apos;autres personnes parce que le démon en lui le conduisait à faire cela.</p></li><li><p>Jésus a guéri des &quot;démoniaques&quot; en ordonnant aux démons de sortir d&apos;eux.</p></li><li><p>On emploie souvent les expressions &quot;chasser ou expulser des démons&quot; pour dire que l&apos;on guérit des personnes &quot;possédées par des démons&quot;.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>D&apos;autres façons de traduire l&apos;expression &quot;être possédé par un démon&quot; pourraient comprendre, &quot;être contrôlé par un démon&quot; ou &quot;être contrôlé par un mauvais esprit&quot; ou &quot;avoir un mauvais esprit vivant dans soi-même&quot; ou &quot;être démoniaque&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25658\" data-resourceType=\"UWTranslationWords\">demon</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004024",
+          "start_ref_usfm": "MAT 4:24",
+          "end_ref": "40004024",
+          "end_ref_usfm": "MAT 4:24"
+        },
+        {
+          "start_ref": "40008016",
+          "start_ref_usfm": "MAT 8:16",
+          "end_ref": "40008016",
+          "end_ref_usfm": "MAT 8:16"
+        },
+        {
+          "start_ref": "40008028",
+          "start_ref_usfm": "MAT 8:28",
+          "end_ref": "40008028",
+          "end_ref_usfm": "MAT 8:28"
+        },
+        {
+          "start_ref": "40008033",
+          "start_ref_usfm": "MAT 8:33",
+          "end_ref": "40008033",
+          "end_ref_usfm": "MAT 8:33"
+        },
+        {
+          "start_ref": "40009032",
+          "start_ref_usfm": "MAT 9:32",
+          "end_ref": "40009032",
+          "end_ref_usfm": "MAT 9:32"
+        },
+        {
+          "start_ref": "40012022",
+          "start_ref_usfm": "MAT 12:22",
+          "end_ref": "40012022",
+          "end_ref_usfm": "MAT 12:22"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015022",
+          "end_ref_usfm": "MAT 15:22"
+        },
+        {
+          "start_ref": "41001032",
+          "start_ref_usfm": "MRK 1:32",
+          "end_ref": "41001032",
+          "end_ref_usfm": "MRK 1:32"
+        },
+        {
+          "start_ref": "41005015",
+          "start_ref_usfm": "MRK 5:15",
+          "end_ref": "41005015",
+          "end_ref_usfm": "MRK 5:15"
+        },
+        {
+          "start_ref": "41005016",
+          "start_ref_usfm": "MRK 5:16",
+          "end_ref": "41005016",
+          "end_ref_usfm": "MRK 5:16"
+        },
+        {
+          "start_ref": "41005018",
+          "start_ref_usfm": "MRK 5:18",
+          "end_ref": "41005018",
+          "end_ref_usfm": "MRK 5:18"
+        },
+        {
+          "start_ref": "42008036",
+          "start_ref_usfm": "LUK 8:36",
+          "end_ref": "42008036",
+          "end_ref_usfm": "LUK 8:36"
+        },
+        {
+          "start_ref": "43008048",
+          "start_ref_usfm": "JHN 8:48",
+          "end_ref": "43008048",
+          "end_ref_usfm": "JHN 8:48"
+        },
+        {
+          "start_ref": "43008052",
+          "start_ref_usfm": "JHN 8:52",
+          "end_ref": "43008052",
+          "end_ref_usfm": "JHN 8:52"
+        },
+        {
+          "start_ref": "43010020",
+          "start_ref_usfm": "JHN 10:20",
+          "end_ref": "43010020",
+          "end_ref_usfm": "JHN 10:20"
+        },
+        {
+          "start_ref": "43010021",
+          "start_ref_usfm": "JHN 10:21",
+          "end_ref": "43010021",
+          "end_ref_usfm": "JHN 10:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25658,
+          "content_id": 466820,
+          "label": "Démon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179848,
+    "reference_id": 25777,
+    "title": "रपाई",
+    "media_type": "Text",
+    "index_reference": "रपाई",
+    "language": "hin",
+    "content": "<h1>रपाई, दानव</h1><h2>परिभाषा:</h2><p>“दानव” उस मनुष्य को कहते हैं जो कद और शक्ति में असामान्य रूप से बड़ा हो।</p><ul><li><p>पलिश्ती सैनिक गोलियत जो दाऊद से लड़ा उसको दानव कहा गया है क्योंकि वह बहुत लम्बा चौड़ा और बलवान पुरुष था।</p></li><li><p>कनान का भेद लेने जो इस्राएली भेदिए गये थे उन्होंने कहा कि वहां दानव बसते हैं।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25793\" data-resourceType=\"UWTranslationWords\">गोलियत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">पलिश्ती</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen6:4\">उत्पत्ति 06:4</a></p></li><li><p><a href=\"https://ref.ly/Num13:32-Num13:33\">गिनती 13:32–33</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1368, H5303, H7497</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "04013032",
+          "start_ref_usfm": "NUM 13:32",
+          "end_ref": "04013033",
+          "end_ref_usfm": "NUM 13:33"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25793,
+          "content_id": 179864,
+          "label": "गोलियत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 180162,
+          "label": "पलिश्तियों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

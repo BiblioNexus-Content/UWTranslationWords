@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180028,
+    "reference_id": 25963,
+    "title": "लबानोन",
+    "media_type": "Text",
+    "index_reference": "लबानोन",
+    "language": "hin",
+    "content": "<h1>लबानोन</h1><h2>तथ्य:</h2><p>लबानोन एक अति सुंदर पर्वतीय प्रदेश है जो इस्राएल के उत्तर में भूमध्यसागर के तट पर है। बाइबल के युग में यह स्थान सनोवर के देवदारू और सरू के वृक्षों से घिरा हुआ था।</p><ul><li><p>सुलैमान ने लबानोन में श्रमिक भेजे थे कि परमेश्वर के मन्दिर के निर्माण हेतु पेड़ काट कर लाएं।</p></li><li><p>प्राचीन लबानोन में फिनिके वासी रहते थे जो पानी के जहाज बनाने में कुशल कारीगर थे, ये जहाज समुद्र में सफल व्यापार के लिए काम में लिए जाते थे।</p></li><li><p>सूर और सैदा नगर लबानोन ही में थे। इन्हीं नगरों में बहुमूल्य बैंजनी रंग सबसे पहले काम में लिया गया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">देवदारू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25636\" data-resourceType=\"UWTranslationWords\">सरू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">सनोवर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26102\" data-resourceType=\"UWTranslationWords\">फिनिके</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 4:32–34</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 2:8–10</a></p></li><li><p><a href=\"https://ref.ly/Deut1:7-Deut1:8\">व्यवस्थाविवरण 1:7–8</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 29:3–5</a></p></li><li><p><a href=\"https://ref.ly/Zech10:8-Zech10:10\">जकर्याह 10:8–10</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3844</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "22003009",
+          "start_ref_usfm": "SNG 3:9",
+          "end_ref": "22003009",
+          "end_ref_usfm": "SNG 3:9"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "22004011",
+          "start_ref_usfm": "SNG 4:11",
+          "end_ref": "22004011",
+          "end_ref_usfm": "SNG 4:11"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "22005015",
+          "start_ref_usfm": "SNG 5:15",
+          "end_ref": "22005015",
+          "end_ref_usfm": "SNG 5:15"
+        },
+        {
+          "start_ref": "22007004",
+          "start_ref_usfm": "SNG 7:4",
+          "end_ref": "22007004",
+          "end_ref_usfm": "SNG 7:4"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "14002008",
+          "start_ref_usfm": "2CH 2:8",
+          "end_ref": "14002010",
+          "end_ref_usfm": "2CH 2:10"
+        },
+        {
+          "start_ref": "05001007",
+          "start_ref_usfm": "DEU 1:7",
+          "end_ref": "05001008",
+          "end_ref_usfm": "DEU 1:8"
+        },
+        {
+          "start_ref": "19029003",
+          "start_ref_usfm": "PSA 29:3",
+          "end_ref": "19029005",
+          "end_ref_usfm": "PSA 29:5"
+        },
+        {
+          "start_ref": "38010008",
+          "start_ref_usfm": "ZEC 10:8",
+          "end_ref": "38010010",
+          "end_ref_usfm": "ZEC 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 179657,
+          "label": "देवदारू",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25636,
+          "content_id": 179713,
+          "label": "सनौबर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 179814,
+          "label": "सनौबर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

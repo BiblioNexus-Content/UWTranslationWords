@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238469,
+    "reference_id": 26343,
+    "title": "Torre de vigia",
+    "media_type": "Text",
+    "index_reference": "torre de vigia",
+    "language": "por",
+    "content": "<h1>torre de vigia, torre</h1><h2>Definição:</h2><p>O termo “torre de vigia” refere-se a uma estrutura alta construída como um lugar de onde os guardas podiam observar qualquer perigo. Essas torres eram frequentemente feitas de pedra.</p><ul><li><p>Proprietários de terras às vezes construíam torres de vigia de onde podiam vigiar suas colheitas e protegê-las de serem roubadas.</p></li><li><p>As torres frequentemente incluíam quartos onde os vigias ou a família moravam, para que pudessem vigiar as colheitas dia e noite.</p></li><li><p>Torres de vigia para cidades eram construídas mais altas que as muralhas da cidade para que os vigias pudessem ver se algum inimigo estava vindo atacar a cidade.</p></li><li><p>O termo “torre de vigia” também é usado como um símbolo de proteção contra inimigos. (Veja: Metáfora)</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25434\" data-resourceType=\"UWTranslationWords\">adversário</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26342\" data-resourceType=\"UWTranslationWords\">vigiar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:25-1Chr27:27\">1 Crônicas 27.25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek26:3-Ezek26:4\">Ezequiel 26.3–4</a></p></li><li><p><a href=\"https://ref.ly/Mark12:1-Mark12:3\">Marcos 12.1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:33-Matt21:34\">Mateus 21.33–34</a></p></li><li><p><a href=\"https://ref.ly/Ps62:2\">Salmo 62.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0803, H0971, H0975, H1785, H2918, H4026, H4029, H4692, H4707, H4869, H6076, H6438, H6836, G44440</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19062002",
+          "start_ref_usfm": "PSA 62:2",
+          "end_ref": "19062002",
+          "end_ref_usfm": "PSA 62:2"
+        },
+        {
+          "start_ref": "20018010",
+          "start_ref_usfm": "PRO 18:10",
+          "end_ref": "20018010",
+          "end_ref_usfm": "PRO 18:10"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "42013004",
+          "start_ref_usfm": "LUK 13:4",
+          "end_ref": "42013004",
+          "end_ref_usfm": "LUK 13:4"
+        },
+        {
+          "start_ref": "42014028",
+          "start_ref_usfm": "LUK 14:28",
+          "end_ref": "42014028",
+          "end_ref_usfm": "LUK 14:28"
+        },
+        {
+          "start_ref": "13027025",
+          "start_ref_usfm": "1CH 27:25",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "26026003",
+          "start_ref_usfm": "EZK 26:3",
+          "end_ref": "26026004",
+          "end_ref_usfm": "EZK 26:4"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021034",
+          "end_ref_usfm": "MAT 21:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25434,
+          "content_id": 237572,
+          "label": "Adversário",
+          "language": "por"
+        },
+        {
+          "reference_id": 26342,
+          "content_id": 238468,
+          "label": "Vigiar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

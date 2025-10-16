@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 238381,
+    "reference_id": 26252,
+    "title": "Filhos de Deus",
+    "media_type": "Text",
+    "index_reference": "filhos de deus",
+    "language": "por",
+    "content": "<h1>filhos de Deus</h1><h2>Definição:</h2><p>O termo “filhos de Deus” é uma expressão figurativa que tem vários significados possíveis.</p><ul><li><p>No Novo Testamento, o termo “filhos de Deus” refere-se a todos os crentes em Jesus e inclui tanto homens quanto mulheres.</p></li><li><p>Esse uso do termo fala de um relacionamento com Deus que é como o relacionamento entre um filho humano e seu pai, com todos os privilégios associados a ser filhos.</p></li><li><p>Algumas pessoas interpretam o termo “filhos de Deus” que aparece em Gênesis 6 como significando anjos caídos — espíritos malignos ou demônios. Outros acham que pode se referir a governantes políticos poderosos ou aos descendentes de Sete.</p></li><li><p>O título “Filho de Deus” é um termo diferente: refere-se a Jesus, que é o único Filho de Deus.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Quando “filhos de Deus” se refere aos crentes em Jesus, pode ser traduzido como “crianças de Deus”.</p></li><li><p>Em Gênesis 6, nos versículos 2 e 4, algumas maneiras de traduzir “filhos de Deus” poderiam ser “anjos”, “seres espirituais”, “criaturas sobrenaturais” ou “demônios”.</p></li><li><p>Veja também o link para “filho”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">anjo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25658\" data-resourceType=\"UWTranslationWords\">demônio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_son\" data-resourceType=\"UWTranslationWords\">filho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Filho de Deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">governante</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">espírito</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen6:2\">Gênesis 6.2</a></p></li><li><p><a href=\"https://ref.ly/Gen6:4\">Gênesis 6.4</a></p></li><li><p><a href=\"https://ref.ly/Job1:6\">Jó 1.6</a></p></li><li><p><a href=\"https://ref.ly/Rom8:14\">Romanos 8.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0430, H1121, G52070, G50430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006002",
+          "start_ref_usfm": "GEN 6:2",
+          "end_ref": "01006002",
+          "end_ref_usfm": "GEN 6:2"
+        },
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "18001006",
+          "start_ref_usfm": "JOB 1:6",
+          "end_ref": "18001006",
+          "end_ref_usfm": "JOB 1:6"
+        },
+        {
+          "start_ref": "40005009",
+          "start_ref_usfm": "MAT 5:9",
+          "end_ref": "40005009",
+          "end_ref_usfm": "MAT 5:9"
+        },
+        {
+          "start_ref": "40005045",
+          "start_ref_usfm": "MAT 5:45",
+          "end_ref": "40005045",
+          "end_ref_usfm": "MAT 5:45"
+        },
+        {
+          "start_ref": "42020036",
+          "start_ref_usfm": "LUK 20:36",
+          "end_ref": "42020036",
+          "end_ref_usfm": "LUK 20:36"
+        },
+        {
+          "start_ref": "45008014",
+          "start_ref_usfm": "ROM 8:14",
+          "end_ref": "45008014",
+          "end_ref_usfm": "ROM 8:14"
+        },
+        {
+          "start_ref": "45008019",
+          "start_ref_usfm": "ROM 8:19",
+          "end_ref": "45008019",
+          "end_ref_usfm": "ROM 8:19"
+        },
+        {
+          "start_ref": "45009026",
+          "start_ref_usfm": "ROM 9:26",
+          "end_ref": "45009026",
+          "end_ref_usfm": "ROM 9:26"
+        },
+        {
+          "start_ref": "47006018",
+          "start_ref_usfm": "2CO 6:18",
+          "end_ref": "47006018",
+          "end_ref_usfm": "2CO 6:18"
+        },
+        {
+          "start_ref": "58012005",
+          "start_ref_usfm": "HEB 12:5",
+          "end_ref": "58012005",
+          "end_ref_usfm": "HEB 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 237597,
+          "label": "Anjo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25658,
+          "content_id": 237791,
+          "label": "Demônio",
+          "language": "por"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 191642,
+          "label": "Governante",
+          "language": "por"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 238379,
+          "label": "Filho de Deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 238386,
+          "label": "Espírito",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

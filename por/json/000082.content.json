@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238392,
+    "reference_id": 26263,
+    "title": "Armazém",
+    "media_type": "Text",
+    "index_reference": "armazém",
+    "language": "por",
+    "content": "<h1>armazém</h1><h2>Definição:</h2><p>Um “armazém” é um grande edifício usado para guardar alimentos ou outras coisas, muitas vezes por um longo tempo.</p><ul><li><p>Na Bíblia, um “armazém” era geralmente usado para armazenar grãos extras e outros alimentos para serem usados mais tarde, quando houvesse uma fome.</p></li><li><p>Este termo também era usado no sentido figurado para se referir a todas as coisas boas que Deus quer dar ao seu povo.</p></li><li><p>Os armazéns do templo continham coisas valiosas que haviam sido dedicadas a Javé, como ouro e prata. Algumas dessas coisas usadas para reparar e manter o templo também eram guardadas lá.</p></li><li><p>Outras maneiras de traduzir “armazém” podem ser “um depósito para armazenar grãos” ou “lugar para guardar alimentos” ou “sala para manter coisas valiosas seguras”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25609\" data-resourceType=\"UWTranslationWords\">consagrar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25651\" data-resourceType=\"UWTranslationWords\">dedicar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25732\" data-resourceType=\"UWTranslationWords\">fome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25791\" data-resourceType=\"UWTranslationWords\">ouro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26237\" data-resourceType=\"UWTranslationWords\">prata</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr16:2-2Chr16:3\">2 Crônicas 16.2–3</a></p></li><li><p><a href=\"https://ref.ly/Luke3:17\">Lucas 3.17</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">Mateus 3.12</a></p></li><li><p><a href=\"https://ref.ly/Ps33:7\">Salmos 33.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0214, H0618, H0624, H4035, H4200, H4543, G05960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16012044",
+          "start_ref_usfm": "NEH 12:44",
+          "end_ref": "16012044",
+          "end_ref_usfm": "NEH 12:44"
+        },
+        {
+          "start_ref": "18038022",
+          "start_ref_usfm": "JOB 38:22",
+          "end_ref": "18038022",
+          "end_ref_usfm": "JOB 38:22"
+        },
+        {
+          "start_ref": "19033007",
+          "start_ref_usfm": "PSA 33:7",
+          "end_ref": "19033007",
+          "end_ref_usfm": "PSA 33:7"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "20010002",
+          "start_ref_usfm": "PRO 10:2",
+          "end_ref": "20010002",
+          "end_ref_usfm": "PRO 10:2"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        },
+        {
+          "start_ref": "14016002",
+          "start_ref_usfm": "2CH 16:2",
+          "end_ref": "14016003",
+          "end_ref_usfm": "2CH 16:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25609,
+          "content_id": 237743,
+          "label": "Consagrar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25651,
+          "content_id": 237784,
+          "label": "Dedicar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25732,
+          "content_id": 237865,
+          "label": "Fome",
+          "language": "por"
+        },
+        {
+          "reference_id": 25791,
+          "content_id": 237924,
+          "label": "Ouro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 237934,
+          "label": "Grão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 238366,
+          "label": "Prata",
+          "language": "por"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 238413,
+          "label": "Templo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

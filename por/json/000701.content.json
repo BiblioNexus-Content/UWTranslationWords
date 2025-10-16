@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 238218,
+    "reference_id": 26088,
+    "title": "Perizeu",
+    "media_type": "Text",
+    "index_reference": "perizeu",
+    "language": "por",
+    "content": "<h1>Perizeu</h1><h2>Fatos:</h2><p>Os perizeus eram um dos vários grupos de pessoas na terra de Canaã. A maioria das Bíblias em português transliteram esta palavra como &quot;ferezeus&quot;. Pouco se sabe sobre este grupo, seja quanto a quem eram seus ancestrais ou em qual parte de Canaã viviam.</p><ul><li><p>Os perizeus são mencionados com mais frequência no Livro dos Juízes do Antigo Testamento, onde é registrado que os perizeus se casaram com os israelitas e os influenciaram a adorar falsos deuses.</p></li><li><p>Note que o clã de Perez, chamado de “perezitas”, era um grupo de pessoas diferente dos perizeus. Pode ser necessário soletrar os nomes de maneira muito diferente para deixar isso claro.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Reis 9.20–21</a></p></li><li><p><a href=\"https://ref.ly/2Chr8:7-2Chr8:8\">2 Crônicas 8.7–8</a></p></li><li><p><a href=\"https://ref.ly/Exod3:16-Exod3:18\">Êxodo 3.16–18</a></p></li><li><p><a href=\"https://ref.ly/Gen13:7\">Gênesis 13.7</a></p></li><li><p><a href=\"https://ref.ly/Josh3:9-Josh3:11\">Josué 3.9–11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6522</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013007",
+          "start_ref_usfm": "GEN 13:7",
+          "end_ref": "01013007",
+          "end_ref_usfm": "GEN 13:7"
+        },
+        {
+          "start_ref": "01015020",
+          "start_ref_usfm": "GEN 15:20",
+          "end_ref": "01015020",
+          "end_ref_usfm": "GEN 15:20"
+        },
+        {
+          "start_ref": "01034030",
+          "start_ref_usfm": "GEN 34:30",
+          "end_ref": "01034030",
+          "end_ref_usfm": "GEN 34:30"
+        },
+        {
+          "start_ref": "02003008",
+          "start_ref_usfm": "EXO 3:8",
+          "end_ref": "02003008",
+          "end_ref_usfm": "EXO 3:8"
+        },
+        {
+          "start_ref": "02003017",
+          "start_ref_usfm": "EXO 3:17",
+          "end_ref": "02003017",
+          "end_ref_usfm": "EXO 3:17"
+        },
+        {
+          "start_ref": "02023023",
+          "start_ref_usfm": "EXO 23:23",
+          "end_ref": "02023023",
+          "end_ref_usfm": "EXO 23:23"
+        },
+        {
+          "start_ref": "02033002",
+          "start_ref_usfm": "EXO 33:2",
+          "end_ref": "02033002",
+          "end_ref_usfm": "EXO 33:2"
+        },
+        {
+          "start_ref": "02034011",
+          "start_ref_usfm": "EXO 34:11",
+          "end_ref": "02034011",
+          "end_ref_usfm": "EXO 34:11"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009021",
+          "end_ref_usfm": "1KI 9:21"
+        },
+        {
+          "start_ref": "14008007",
+          "start_ref_usfm": "2CH 8:7",
+          "end_ref": "14008008",
+          "end_ref_usfm": "2CH 8:8"
+        },
+        {
+          "start_ref": "06003009",
+          "start_ref_usfm": "JOS 3:9",
+          "end_ref": "06003011",
+          "end_ref_usfm": "JOS 3:11"
+        },
+        {
+          "start_ref": "02003016",
+          "start_ref_usfm": "EXO 3:16",
+          "end_ref": "02003018",
+          "end_ref_usfm": "EXO 3:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237788,
+    "reference_id": 25655,
+    "title": "Dalila",
+    "media_type": "Text",
+    "index_reference": "dalila",
+    "language": "por",
+    "content": "<h1>Dalila</h1><h2>Fatos:</h2><p>Dalila era uma mulher filisteia que era amada por Sansão, mas não era sua esposa.</p><ul><li><p>Dalila amava o dinheiro mais do que amava Sansão.</p></li><li><p>Os filisteus subornaram Dalila para enganar Sansão e fazê-lo contar como ele poderia ser enfraquecido. Quando sua força se foi, os filisteus o capturaram.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25556\" data-resourceType=\"UWTranslationWords\">suborno</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">filisteus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26193\" data-resourceType=\"UWTranslationWords\">Sansão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Judg16:4-Judg16:5\">Juízes 16.4–5</a></p></li><li><p><a href=\"https://ref.ly/Judg16:6-Judg16:7\">Juízes 16.6–7</a></p></li><li><p><a href=\"https://ref.ly/Judg16:10\">Juízes 16.10</a></p></li><li><p><a href=\"https://ref.ly/Judg16:18\">Juízes 16.18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1807</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07016010",
+          "start_ref_usfm": "JDG 16:10",
+          "end_ref": "07016010",
+          "end_ref_usfm": "JDG 16:10"
+        },
+        {
+          "start_ref": "07016018",
+          "start_ref_usfm": "JDG 16:18",
+          "end_ref": "07016018",
+          "end_ref_usfm": "JDG 16:18"
+        },
+        {
+          "start_ref": "07016004",
+          "start_ref_usfm": "JDG 16:4",
+          "end_ref": "07016005",
+          "end_ref_usfm": "JDG 16:5"
+        },
+        {
+          "start_ref": "07016006",
+          "start_ref_usfm": "JDG 16:6",
+          "end_ref": "07016007",
+          "end_ref_usfm": "JDG 16:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25556,
+          "content_id": 237691,
+          "label": "Suborno",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 238322,
+          "label": "Sansão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

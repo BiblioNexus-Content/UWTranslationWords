@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238198,
+    "reference_id": 26068,
+    "title": "Atingir",
+    "media_type": "Text",
+    "index_reference": "atingir",
+    "language": "por",
+    "content": "<h1>atingir, assaltar, alcançar, ultrapassar</h1><h2>Definição:</h2><p>O termo “atingir” e “assaltar” referem-se a ganhar controle sobre alguém ou algo. Geralmente inclui a ideia de alcançar algo após persegui-lo.</p><ul><li><p>Quando tropas militares “assaltam” um inimigo, significa que derrotam esse inimigo em batalha.</p></li><li><p>Quando um predador &quot;ultrapassa&quot; sua presa, significa que ele persegue e captura sua presa.</p></li><li><p>Se uma maldição “atinge” alguém, significa que o que foi dito nessa maldição acontece com a pessoa.</p></li><li><p>Se bênçãos “alcançam” pessoas, significa que essas pessoas experimentam essas bênçãos.</p></li><li><p>Dependendo do contexto, “atingir” pode ser traduzido como “conquistar” ou “capturar” ou “derrotar” ou “alcançar” ou “afetar completamente”.</p></li><li><p>A ação passada “atingiu” pode ser traduzida como “alcançou” ou “chegou ao lado de” ou “conquistou” ou “derrotou” ou “causou dano a”.</p></li><li><p>Quando usado em um aviso de que a escuridão ou punição ou terrores ultrapassarão as pessoas por causa de seu pecado, significa que essas pessoas experimentarão essas coisas negativas se não se arrependerem.</p></li><li><p>A frase “Minhas palavras alcançaram seus pais” significa que os ensinamentos que Javé deu aos seus ancestrais, agora, farão com que os ancestrais recebam punição porque não obedeceram a esses ensinamentos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25545\" data-resourceType=\"UWTranslationWords\">abençoar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25632\" data-resourceType=\"UWTranslationWords\">xingamento</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">presa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">punir</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs25:4-2Kgs25:5\">2 Reis 25.4–5</a></p></li><li><p><a href=\"https://ref.ly/John12:35\">João 12.35</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0579, H0935, H1692, H4672, H5066, H5381, G26380, G29830</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031025",
+          "start_ref_usfm": "GEN 31:25",
+          "end_ref": "01031025",
+          "end_ref_usfm": "GEN 31:25"
+        },
+        {
+          "start_ref": "01044004",
+          "start_ref_usfm": "GEN 44:4",
+          "end_ref": "01044004",
+          "end_ref_usfm": "GEN 44:4"
+        },
+        {
+          "start_ref": "01044006",
+          "start_ref_usfm": "GEN 44:6",
+          "end_ref": "01044006",
+          "end_ref_usfm": "GEN 44:6"
+        },
+        {
+          "start_ref": "02015009",
+          "start_ref_usfm": "EXO 15:9",
+          "end_ref": "02015009",
+          "end_ref_usfm": "EXO 15:9"
+        },
+        {
+          "start_ref": "43012035",
+          "start_ref_usfm": "JHN 12:35",
+          "end_ref": "43012035",
+          "end_ref_usfm": "JHN 12:35"
+        },
+        {
+          "start_ref": "52005004",
+          "start_ref_usfm": "1TH 5:4",
+          "end_ref": "52005004",
+          "end_ref_usfm": "1TH 5:4"
+        },
+        {
+          "start_ref": "12025004",
+          "start_ref_usfm": "2KI 25:4",
+          "end_ref": "12025005",
+          "end_ref_usfm": "2KI 25:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25545,
+          "content_id": 237681,
+          "label": "Abençoar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25632,
+          "content_id": 237765,
+          "label": "Maldição",
+          "language": "por"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 238250,
+          "label": "Presa",
+          "language": "por"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 238271,
+          "label": "Punir",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180395,
+    "reference_id": 26343,
+    "title": "गुम्मट",
+    "media_type": "Text",
+    "index_reference": "गुम्मट",
+    "language": "hin",
+    "content": "<h1>गुम्मट, पहरे की मिनारें</h1><h2>परिभाषा:</h2><p>“गुम्मट” एक ऊँची रचना जहाँ से सुरक्षाकर्मी किसी आने वाले संकट पर दृष्टि रख सकते थे। ये गुम्मट अधिकतर पत्थरों के बने होते थे।</p><ul><li><p>जमींदार भी कभी-कभी गुम्मट बनाते थे कि वहाँ से अपनी फसल की चौकीदारी करें और चोरी होने से उसे बचाएं।</p></li><li><p>गुम्मटों में कमरे भी होते थे कि चौकीदार या उसका परिवार वहाँ रहे जिससे कि दिन रात फसल की चौकसी की जा सके।</p></li><li><p>नगर के गुम्मट शहरपनाह से ऊँचे बनाए जाते थे कि पहरूए किसी शत्रु की सेना को आते हुए देख पाएं।</p></li><li><p>&quot;गुम्मट&quot; शब्द का उपयोग शत्रु से रक्षा के प्रतीक स्वरुप भी काम में लिया जाता है। (देखें: उपमा)</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25434\" data-resourceType=\"UWTranslationWords\">बैरी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26342\" data-resourceType=\"UWTranslationWords\">पहरा देना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 27:25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek26:3-Ezek26:4\">यहेजकेल 26:3–4</a></p></li><li><p><a href=\"https://ref.ly/Mark12:1-Mark12:3\">मरकुस 12:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:33-Matt21:34\">मत्ती 21:33–34</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 62:2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H0803, H0971, H0975, H1785, H2918, H4026, H4029, H4692, H4707, H4869, H6076, H6438, H6836, G44440</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19062002",
+          "start_ref_usfm": "PSA 62:2",
+          "end_ref": "19062002",
+          "end_ref_usfm": "PSA 62:2"
+        },
+        {
+          "start_ref": "20018010",
+          "start_ref_usfm": "PRO 18:10",
+          "end_ref": "20018010",
+          "end_ref_usfm": "PRO 18:10"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "42013004",
+          "start_ref_usfm": "LUK 13:4",
+          "end_ref": "42013004",
+          "end_ref_usfm": "LUK 13:4"
+        },
+        {
+          "start_ref": "42014028",
+          "start_ref_usfm": "LUK 14:28",
+          "end_ref": "42014028",
+          "end_ref_usfm": "LUK 14:28"
+        },
+        {
+          "start_ref": "13027025",
+          "start_ref_usfm": "1CH 27:25",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "26026003",
+          "start_ref_usfm": "EZK 26:3",
+          "end_ref": "26026004",
+          "end_ref_usfm": "EZK 26:4"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021034",
+          "end_ref_usfm": "MAT 21:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25434,
+          "content_id": 179524,
+          "label": "विरोधी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26342,
+          "content_id": 180394,
+          "label": "चौकस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

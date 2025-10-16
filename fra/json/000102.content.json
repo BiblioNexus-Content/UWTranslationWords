@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 466680,
+    "reference_id": 25502,
+    "title": "Banquet",
+    "media_type": "Text",
+    "index_reference": "banquet",
+    "language": "fra",
+    "content": "<h1>banquet</h1><h2>Définition :</h2><p>Un banquet est un grand repas officiel , qui inclut habituellement plusieurs sortes de nourritures.</p><ul><li><p>Dans les temps anciens, les rois ont souvent servi des banquets pour divertir les dirigeants politiques et d&apos;autres invités importants.</p></li><li><p>Cela pourrait aussi être traduit par «repas élaboré» ou «fête importante» ou «beaucoup de sortes de repas*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001005",
+          "start_ref_usfm": "JOB 1:5",
+          "end_ref": "18001005",
+          "end_ref_usfm": "JOB 1:5"
+        },
+        {
+          "start_ref": "24016008",
+          "start_ref_usfm": "JER 16:8",
+          "end_ref": "24016008",
+          "end_ref_usfm": "JER 16:8"
+        },
+        {
+          "start_ref": "27005010",
+          "start_ref_usfm": "DAN 5:10",
+          "end_ref": "27005010",
+          "end_ref_usfm": "DAN 5:10"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "42014013",
+          "start_ref_usfm": "LUK 14:13",
+          "end_ref": "42014013",
+          "end_ref_usfm": "LUK 14:13"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "22002003",
+          "start_ref_usfm": "SNG 2:3",
+          "end_ref": "22002004",
+          "end_ref_usfm": "SNG 2:4"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 467192,
+    "reference_id": 26056,
+    "title": "Noble",
+    "media_type": "Text",
+    "index_reference": "noble",
+    "language": "fra",
+    "content": "<h1>noble, noble</h1><h2>Définition :</h2><p>Le terme «noble» se réfère à quelque chose qui est excellent et de haute qualité* Un &quot;noble&quot; est une personne qui appartient à une classe politique ou sociale plus élevée.</p><ul><li><p>Un noble était souvent un officier de l&apos;état, un serviteur proche du roi.</p></li><li><p>Le terme «noble» pourrait aussi être traduit par «officielle du roi» ou «agent du gouvernement» ou «homme de noble naissance*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16002016",
+          "start_ref_usfm": "NEH 2:16",
+          "end_ref": "16002016",
+          "end_ref_usfm": "NEH 2:16"
+        },
+        {
+          "start_ref": "16003005",
+          "start_ref_usfm": "NEH 3:5",
+          "end_ref": "16003005",
+          "end_ref_usfm": "NEH 3:5"
+        },
+        {
+          "start_ref": "16004014",
+          "start_ref_usfm": "NEH 4:14",
+          "end_ref": "16004014",
+          "end_ref_usfm": "NEH 4:14"
+        },
+        {
+          "start_ref": "16004019",
+          "start_ref_usfm": "NEH 4:19",
+          "end_ref": "16004019",
+          "end_ref_usfm": "NEH 4:19"
+        },
+        {
+          "start_ref": "16005007",
+          "start_ref_usfm": "NEH 5:7",
+          "end_ref": "16005007",
+          "end_ref_usfm": "NEH 5:7"
+        },
+        {
+          "start_ref": "16006017",
+          "start_ref_usfm": "NEH 6:17",
+          "end_ref": "16006017",
+          "end_ref_usfm": "NEH 6:17"
+        },
+        {
+          "start_ref": "16007005",
+          "start_ref_usfm": "NEH 7:5",
+          "end_ref": "16007005",
+          "end_ref_usfm": "NEH 7:5"
+        },
+        {
+          "start_ref": "16010029",
+          "start_ref_usfm": "NEH 10:29",
+          "end_ref": "16010029",
+          "end_ref_usfm": "NEH 10:29"
+        },
+        {
+          "start_ref": "16013017",
+          "start_ref_usfm": "NEH 13:17",
+          "end_ref": "16013017",
+          "end_ref_usfm": "NEH 13:17"
+        },
+        {
+          "start_ref": "20008006",
+          "start_ref_usfm": "PRO 8:6",
+          "end_ref": "20008006",
+          "end_ref_usfm": "PRO 8:6"
+        },
+        {
+          "start_ref": "20008016",
+          "start_ref_usfm": "PRO 8:16",
+          "end_ref": "20008016",
+          "end_ref_usfm": "PRO 8:16"
+        },
+        {
+          "start_ref": "20017026",
+          "start_ref_usfm": "PRO 17:26",
+          "end_ref": "20017026",
+          "end_ref_usfm": "PRO 17:26"
+        },
+        {
+          "start_ref": "20019006",
+          "start_ref_usfm": "PRO 19:6",
+          "end_ref": "20019006",
+          "end_ref_usfm": "PRO 19:6"
+        },
+        {
+          "start_ref": "20025007",
+          "start_ref_usfm": "PRO 25:7",
+          "end_ref": "20025007",
+          "end_ref_usfm": "PRO 25:7"
+        },
+        {
+          "start_ref": "21010017",
+          "start_ref_usfm": "ECC 10:17",
+          "end_ref": "21010017",
+          "end_ref_usfm": "ECC 10:17"
+        },
+        {
+          "start_ref": "27004036",
+          "start_ref_usfm": "DAN 4:36",
+          "end_ref": "27004036",
+          "end_ref_usfm": "DAN 4:36"
+        },
+        {
+          "start_ref": "42019012",
+          "start_ref_usfm": "LUK 19:12",
+          "end_ref": "42019012",
+          "end_ref_usfm": "LUK 19:12"
+        },
+        {
+          "start_ref": "46001026",
+          "start_ref_usfm": "1CO 1:26",
+          "end_ref": "46001026",
+          "end_ref_usfm": "1CO 1:26"
+        },
+        {
+          "start_ref": "14023020",
+          "start_ref_usfm": "2CH 23:20",
+          "end_ref": "14023021",
+          "end_ref_usfm": "2CH 23:21"
+        },
+        {
+          "start_ref": "19016001",
+          "start_ref_usfm": "PSA 16:1",
+          "end_ref": "19016003",
+          "end_ref_usfm": "PSA 16:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

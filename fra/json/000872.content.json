@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 32931,
+    "reference_id": 26325,
+    "title": "Tychicus",
+    "media_type": "Text",
+    "index_reference": "tychicus",
+    "language": "fra",
+    "content": "<h1>Tychique</h1><h2>Faits établis :</h2><p>Tychique est l&apos;un des collègues de Paul dans le ministère de l&apos;Évangile.</p><ul><li><p>Il accompagne Paul lors d&apos;au moins l&apos;un de ses voyages missionnaires en Asie.</p></li><li><p>Paul le décrit comme «&nbsp;bien-aimé&nbsp;» et «&nbsp;fidèle&nbsp;».</p></li><li><p>Tychique apporte les lettres de Paul à Éphèse et Colosses.</p></li></ul><p>(Suggestions de traduction : comment traduire les noms)</p><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">Asie</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25524\" data-resourceType=\"UWTranslationWords\">bien-aimé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">Colosses</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Éphèse</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25726\" data-resourceType=\"UWTranslationWords\">fidèle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">Bonne Nouvelle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">ministre</span>)</p><h2>Références bibliques :</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timothée 4.11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:7\">Colossiens 4.7</a></p></li><li><p><a href=\"https://ref.ly/Titus3:12\">Tite 3.12</a></p></li></ul><h2>Données :</h2><ul><li><p>Concordance Strong : G51900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "49006021",
+          "start_ref_usfm": "EPH 6:21",
+          "end_ref": "49006021",
+          "end_ref_usfm": "EPH 6:21"
+        },
+        {
+          "start_ref": "51004007",
+          "start_ref_usfm": "COL 4:7",
+          "end_ref": "51004007",
+          "end_ref_usfm": "COL 4:7"
+        },
+        {
+          "start_ref": "51004009",
+          "start_ref_usfm": "COL 4:9",
+          "end_ref": "51004009",
+          "end_ref_usfm": "COL 4:9"
+        },
+        {
+          "start_ref": "55004012",
+          "start_ref_usfm": "2TI 4:12",
+          "end_ref": "55004012",
+          "end_ref_usfm": "2TI 4:12"
+        },
+        {
+          "start_ref": "56003012",
+          "start_ref_usfm": "TIT 3:12",
+          "end_ref": "56003012",
+          "end_ref_usfm": "TIT 3:12"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 466664,
+          "label": "Asie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25524,
+          "content_id": 466697,
+          "label": "Bien-aimé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 466765,
+          "label": "Colosses ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 466866,
+          "label": "Ephèse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 466881,
+          "label": "Fidèle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 466945,
+          "label": "La bonnes nouvelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 467158,
+          "label": "Ministre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

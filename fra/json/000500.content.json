@@ -1,0 +1,167 @@
+[
+  {
+    "content_id": 466809,
+    "reference_id": 25646,
+    "title": "Le jour de l'Éternel",
+    "media_type": "Text",
+    "index_reference": "le jour de l'éternel",
+    "language": "fra",
+    "content": "<h1>le jour de l&apos;Éternel, le jour du Seigneur</h1><h2>Description</h2><p>Dans l’Ancien Testament, le terme &quot;le jour de l&apos;Éternel&quot; est utilisé pour désigner un moment précis où Dieu va punir les gens pour leur péché.</p><ul><li><p>L&apos;expression du Nouveau Testament &quot; le jour du Seigneur &quot; fait généralement référence au jour ou au moment où le Seigneur Jésus reviendra pour juger les gens à la fin des temps.</p></li><li><p>Ce temps final et futur de jugement et de résurrection est aussi parfois appelé le &quot;dernier jour&quot;. Ce temps commencera lorsque le Seigneur Jésus reviendra pour juger les pécheurs et établira à jamais son règne.</p></li><li><p>Le mot &quot;jour&quot; dans ces phrases peut parfois faire référence à un jour littéral ou à un &quot;temps&quot; ou une &quot;occasion&quot; plus longue qu&apos;un jour.</p></li><li><p>Parfois, le châtiment est appelé &quot;le déversement de la colère de Dieu&quot; sur ceux qui ne croient pas.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Selon le contexte, d&apos;autres façons de traduire &quot;jour de l&apos;Éternel&quot; pourraient inclure &quot;le temps de l&apos;Éternel&quot; ou &quot;le temps où l&apos;Éternel punira ses ennemis&quot; ou &quot;le temps de la colère de l&apos;Éternel&quot;.</p></li><li><p>D&apos;autres façons de traduire &quot;le jour du Seigneur&quot; pourraient inclure &quot;le temps du jugement du Seigneur&quot; ou &quot;le temps où le Seigneur Jésus reviendra pour juger le monde&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25534\" data-resourceType=\"UWTranslationWords\">les temps de la Bible</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25931\" data-resourceType=\"UWTranslationWords\">le jour du jugement</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">Seigneur</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26173\" data-resourceType=\"UWTranslationWords\">résurrection</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">l&apos;Éternel</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "31001015",
+          "start_ref_usfm": "OBA 1:15",
+          "end_ref": "31001015",
+          "end_ref_usfm": "OBA 1:15"
+        },
+        {
+          "start_ref": "44002020",
+          "start_ref_usfm": "ACT 2:20",
+          "end_ref": "44002020",
+          "end_ref_usfm": "ACT 2:20"
+        },
+        {
+          "start_ref": "46001008",
+          "start_ref_usfm": "1CO 1:8",
+          "end_ref": "46001008",
+          "end_ref_usfm": "1CO 1:8"
+        },
+        {
+          "start_ref": "46005005",
+          "start_ref_usfm": "1CO 5:5",
+          "end_ref": "46005005",
+          "end_ref_usfm": "1CO 5:5"
+        },
+        {
+          "start_ref": "47001014",
+          "start_ref_usfm": "2CO 1:14",
+          "end_ref": "47001014",
+          "end_ref_usfm": "2CO 1:14"
+        },
+        {
+          "start_ref": "50001006",
+          "start_ref_usfm": "PHP 1:6",
+          "end_ref": "50001006",
+          "end_ref_usfm": "PHP 1:6"
+        },
+        {
+          "start_ref": "50001010",
+          "start_ref_usfm": "PHP 1:10",
+          "end_ref": "50001010",
+          "end_ref_usfm": "PHP 1:10"
+        },
+        {
+          "start_ref": "50002016",
+          "start_ref_usfm": "PHP 2:16",
+          "end_ref": "50002016",
+          "end_ref_usfm": "PHP 2:16"
+        },
+        {
+          "start_ref": "52005002",
+          "start_ref_usfm": "1TH 5:2",
+          "end_ref": "52005002",
+          "end_ref_usfm": "1TH 5:2"
+        },
+        {
+          "start_ref": "53002002",
+          "start_ref_usfm": "2TH 2:2",
+          "end_ref": "53002002",
+          "end_ref_usfm": "2TH 2:2"
+        },
+        {
+          "start_ref": "61003010",
+          "start_ref_usfm": "2PE 3:10",
+          "end_ref": "61003010",
+          "end_ref_usfm": "2PE 3:10"
+        },
+        {
+          "start_ref": "61003012",
+          "start_ref_usfm": "2PE 3:12",
+          "end_ref": "61003012",
+          "end_ref_usfm": "2PE 3:12"
+        },
+        {
+          "start_ref": "44002020",
+          "start_ref_usfm": "ACT 2:20",
+          "end_ref": "44002021",
+          "end_ref_usfm": "ACT 2:21"
+        },
+        {
+          "start_ref": "50001009",
+          "start_ref_usfm": "PHP 1:9",
+          "end_ref": "50001011",
+          "end_ref_usfm": "PHP 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25534,
+          "content_id": 466707,
+          "label": "Temps biblique",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25931,
+          "content_id": 467076,
+          "label": "Jour du jugement dernier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140937,
+          "content_id": 357569,
+          "label": "Jean 6.39 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 467113,
+          "label": "Seigneur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26173,
+          "content_id": 467293,
+          "label": "Résurrection",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140942,
+          "content_id": 357574,
+          "label": "Jean 6.40 (#5)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140955,
+          "content_id": 357587,
+          "label": "Jean 6.44 (#7)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140995,
+          "content_id": 357627,
+          "label": "Jean 6.54 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141644,
+          "content_id": 358276,
+          "label": "Jean 11.24 (#4)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 166871,
+          "content_id": 718924,
+          "label": "Jude 1.6 (#8)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

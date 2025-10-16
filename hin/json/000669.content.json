@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180089,
+    "reference_id": 26025,
+    "title": "मिस्पा",
+    "media_type": "Text",
+    "index_reference": "मिस्पा",
+    "language": "hin",
+    "content": "<h1>मिस्पा</h1><h2>तथ्य:</h2><p>मिस्पा पुराने नियम में अनेक नगरों के नाम थे। इसका अर्थ है, “निगरानी का स्थान” या “चौकसी का गुम्मट”।</p><ul><li><p>जब शाऊल दाऊद की ख़ोज में लगा हुआ था तब दाऊद ने अपने माता-पिता को मोआब के राजा की शरण में मिस्पा में रखा था।</p></li><li><p>मिस्पा नामक एक नगर यहूदा और इस्राएल राज्यों की सीमा पर था। वह एक प्रमुख सेना केन्द्र था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">इस्राएल राज्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">मोआब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">शाऊल (पुराना नियम)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 15:20–22</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 7:5–6</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 7:10–11</a></p></li><li><p><a href=\"https://ref.ly/Jer40:5-Jer40:6\">यिर्मयाह 40:5–6</a></p></li><li><p><a href=\"https://ref.ly/Judg10:17-Judg10:18\">न्यायियों 10:17–18</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4708, H4709</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031049",
+          "start_ref_usfm": "GEN 31:49",
+          "end_ref": "01031049",
+          "end_ref_usfm": "GEN 31:49"
+        },
+        {
+          "start_ref": "16003007",
+          "start_ref_usfm": "NEH 3:7",
+          "end_ref": "16003007",
+          "end_ref_usfm": "NEH 3:7"
+        },
+        {
+          "start_ref": "16003015",
+          "start_ref_usfm": "NEH 3:15",
+          "end_ref": "16003015",
+          "end_ref_usfm": "NEH 3:15"
+        },
+        {
+          "start_ref": "16003019",
+          "start_ref_usfm": "NEH 3:19",
+          "end_ref": "16003019",
+          "end_ref_usfm": "NEH 3:19"
+        },
+        {
+          "start_ref": "07010017",
+          "start_ref_usfm": "JDG 10:17",
+          "end_ref": "07010018",
+          "end_ref_usfm": "JDG 10:18"
+        },
+        {
+          "start_ref": "11015020",
+          "start_ref_usfm": "1KI 15:20",
+          "end_ref": "11015022",
+          "end_ref_usfm": "1KI 15:22"
+        },
+        {
+          "start_ref": "09007005",
+          "start_ref_usfm": "1SA 7:5",
+          "end_ref": "09007006",
+          "end_ref_usfm": "1SA 7:6"
+        },
+        {
+          "start_ref": "09007010",
+          "start_ref_usfm": "1SA 7:10",
+          "end_ref": "09007011",
+          "end_ref_usfm": "1SA 7:11"
+        },
+        {
+          "start_ref": "24040005",
+          "start_ref_usfm": "JER 40:5",
+          "end_ref": "24040006",
+          "end_ref_usfm": "JER 40:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 180008,
+          "label": "इस्राएल के राज्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 180009,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 180090,
+          "label": "मोआब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 180258,
+          "label": "शाऊल (पुराना नियम)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

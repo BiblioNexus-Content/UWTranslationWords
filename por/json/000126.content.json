@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237654,
+    "reference_id": 25518,
+    "title": "Belzebu",
+    "media_type": "Text",
+    "index_reference": "belzebu",
+    "language": "por",
+    "content": "<h1>Belzebu</h1><h2>Fatos:</h2><p><span>Belzebu</span> é outro nome para Satanás, ou o diabo. Também é às vezes escrito como “Beel-Zebube”.</p><ul><li><p>Este nome literalmente significa “senhor das moscas” que significa “governante sobre demônios”. Mas é melhor traduzir este termo próximo à grafia original em vez de traduzir o significado.</p></li><li><p>Poderia também ser traduzido como “Belzebu, o diabo” para deixar claro a quem se refere.</p></li><li><p>Este nome está relacionado ao nome do falso deus “Baal-Zebude” de Ecrom.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25658\" data-resourceType=\"UWTranslationWords\">demônio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25691\" data-resourceType=\"UWTranslationWords\">Ecrom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26199\" data-resourceType=\"UWTranslationWords\">Satanás</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Luke11:15\">Lucas 11.15</a></p></li><li><p><a href=\"https://ref.ly/Mark3:22\">Marcos 3.22</a></p></li><li><p><a href=\"https://ref.ly/Matt10:25\">Mateus 10.25</a></p></li><li><p><a href=\"https://ref.ly/Matt12:25\">Mateus 12.25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G09540</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010025",
+          "start_ref_usfm": "MAT 10:25",
+          "end_ref": "40010025",
+          "end_ref_usfm": "MAT 10:25"
+        },
+        {
+          "start_ref": "40012024",
+          "start_ref_usfm": "MAT 12:24",
+          "end_ref": "40012024",
+          "end_ref_usfm": "MAT 12:24"
+        },
+        {
+          "start_ref": "40012025",
+          "start_ref_usfm": "MAT 12:25",
+          "end_ref": "40012025",
+          "end_ref_usfm": "MAT 12:25"
+        },
+        {
+          "start_ref": "40012027",
+          "start_ref_usfm": "MAT 12:27",
+          "end_ref": "40012027",
+          "end_ref_usfm": "MAT 12:27"
+        },
+        {
+          "start_ref": "41003022",
+          "start_ref_usfm": "MRK 3:22",
+          "end_ref": "41003022",
+          "end_ref_usfm": "MRK 3:22"
+        },
+        {
+          "start_ref": "42011015",
+          "start_ref_usfm": "LUK 11:15",
+          "end_ref": "42011015",
+          "end_ref_usfm": "LUK 11:15"
+        },
+        {
+          "start_ref": "42011018",
+          "start_ref_usfm": "LUK 11:18",
+          "end_ref": "42011018",
+          "end_ref_usfm": "LUK 11:18"
+        },
+        {
+          "start_ref": "42011019",
+          "start_ref_usfm": "LUK 11:19",
+          "end_ref": "42011019",
+          "end_ref_usfm": "LUK 11:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25658,
+          "content_id": 237791,
+          "label": "Demônio",
+          "language": "por"
+        },
+        {
+          "reference_id": 25691,
+          "content_id": 237824,
+          "label": "Ecrom",
+          "language": "por"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 238328,
+          "label": "Satanás",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

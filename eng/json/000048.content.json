@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26321,
+    "reference_id": 25463,
+    "title": "Antichrist",
+    "media_type": "Text",
+    "index_reference": "antichrist",
+    "language": "eng",
+    "content": "<h1>antichrist</h1><h2>Definition:</h2><p>The term “antichrist” refers to a person or teaching that is against Jesus Christ and his work. There are many antichrists in the world.</p><ul><li><p>The apostle John tells us that a person is the antichrist if he deceives people by saying that Jesus is not the Messiah or if he denies that Jesus is both God and human.</p></li><li><p>The Bible also teaches that there is a general spirit of antichrist in the world that opposes Jesus’ work.</p></li><li><p>The beast in chapter 13 of the New Testament book of Revelation is often identified as the ultimate antichrist. This person or being will attempt to destroy God’s people, but he will be defeated by Jesus.</p></li><li><p>The apostle Paul refers to this person as “the man of lawlessness” (2 Thess 2:3) and to the general spirit of antichrist in the world as “the secret power of lawlessness” (2 Thess 2:7).</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Other ways to translate this term could include a word or phrase that means “Christ-opposer” or “enemy of Christ” or “person who is against Christ.”</p></li><li><p>The phrase “spirit of the antichrist” could also be translated as “spirit that is against Christ” or “attitude of spreading lies about Christ” or “spirit that teaches lies about Christ.”</p></li><li><p>Also consider how this term is translated in a Bible translation in a local or national language. (See: How to Translate Unknowns)</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26317\" data-resourceType=\"UWTranslationWords\">tribulation</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1John2:18\">1 John 2:18</a></p></li><li><p><a href=\"https://ref.ly/1John2:22\">1 John 2:22</a></p></li><li><p><a href=\"https://ref.ly/1John4:3\">1 John 4:3</a></p></li><li><p><a href=\"https://ref.ly/2John1:7\">2 John 1:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G05000</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 26445,
+          "label": "Christ",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26317,
+          "content_id": 27175,
+          "label": "Tribulation",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

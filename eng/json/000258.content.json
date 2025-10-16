@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 26529,
+    "reference_id": 25671,
+    "title": "Dishonor-object",
+    "media_type": "Text",
+    "index_reference": "dishonor-object",
+    "language": "eng",
+    "content": "<h1>dishonor</h1><h2>Definition:</h2><p>Used in this sense, the term “dishonor” describes something that is used for common or ordinary use instead of for a special or honorable use.</p><ul><li><p>Used in this sense, the term “dishonor” refers to objects that are not useful for anything important.</p></li><li><p>Depending on the context, “dishonor” could also be translated as “common use” or “ordinary use” or “mundane use.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honor</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25846,
+          "content_id": 26704,
+          "label": "Honor",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466810,
+    "reference_id": 25647,
+    "title": "Diacre",
+    "media_type": "Text",
+    "index_reference": "diacre",
+    "language": "fra",
+    "content": "<h1>diacre</h1><h2>Définition :</h2><p>Un diacre est une personne qui sert dans l&apos;église locale, aidant les autres croyants à répondre à leurs besoins pratiques, comme la nourriture ou l&apos;argent.</p><ul><li><p>Le mot &quot;diacre&quot; vient directement d&apos;un mot grec qui signifie &quot;serviteur&quot; ou &quot;ministre&quot;.</p></li><li><p>Dès l&apos;époque des premiers chrétiens, le &quot;diacre&quot; a été un rôle et un ministère bien défini dans le corps de l&apos;Église.</p></li><li><p>Par exemple, dans le Nouveau Testament, les &quot;diacres&quot; veillaient à ce que l&apos;argent ou la nourriture que les croyants se partageaient soient distribués équitablement aux veuves parmi eux.</p></li></ul><h2>Suggestions pour la traduction&nbsp;:</h2><ul><li><p>Le terme &quot;diacre&quot; peut également être traduit par &quot;ministre de l&apos;Église&quot;, &quot;ouvrier de l&apos;Église&quot; ou &quot;serviteur de l&apos;Église&quot;, ou toute autre expression montrant que la personne a été officiellement désignée pour accomplir des tâches spécifiques au profit de la communauté chrétienne locale</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">ministère</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26217\" data-resourceType=\"UWTranslationWords\">serviteur</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "54003008",
+          "start_ref_usfm": "1TI 3:8",
+          "end_ref": "54003008",
+          "end_ref_usfm": "1TI 3:8"
+        },
+        {
+          "start_ref": "54003010",
+          "start_ref_usfm": "1TI 3:10",
+          "end_ref": "54003010",
+          "end_ref_usfm": "1TI 3:10"
+        },
+        {
+          "start_ref": "54003012",
+          "start_ref_usfm": "1TI 3:12",
+          "end_ref": "54003012",
+          "end_ref_usfm": "1TI 3:12"
+        },
+        {
+          "start_ref": "54003013",
+          "start_ref_usfm": "1TI 3:13",
+          "end_ref": "54003013",
+          "end_ref_usfm": "1TI 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26021,
+          "content_id": 467158,
+          "label": "Ministre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26217,
+          "content_id": 467334,
+          "label": "Serviteur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

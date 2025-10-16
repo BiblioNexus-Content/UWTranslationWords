@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 180348,
+    "reference_id": 26295,
+    "title": "थिस्सलुनिके",
+    "media_type": "Text",
+    "index_reference": "थिस्सलुनिके",
+    "language": "hin",
+    "content": "<h1>थिस्सलुनिके, थिस्सलुनीकियों, थिस्सलुनीकियों</h1><h2>तथ्य:</h2><p>नये नियम के युग में थिस्सलुनिके प्राचीन रोमी राज्य के मकिदुनिया की राजधानी थी। उस नगर के लोग “थिस्सलोनिकेवासी” कहलाते थे।</p><ul><li><p>थिस्सलुनिके नगर एक महत्वपूर्ण बंदरगाह था और एक प्रमुख मुख्य मार्ग पर स्थित था जिसके द्वारा रोम पूर्वी क्षेत्र से जुड़ता था।</p></li><li><p>सिलास और तीमुथियुस के साथ पौलुस अपनी दूसरी प्रचार यात्रा में इस नगर में गया और वहाँ एक फलवन्त कलीसिया तैयार की। पौलुस ने अपनी तीसरी प्रचार यात्रा में भी इस नगर की कलीसिया से भेंट की थी।</p></li><li><p>पौलुस ने थिस्सलुनिके की कलीसिया को दो पत्र लिखे थे। ये दोनों पत्र (पहला थिस्सलुनीकियों और दूसरा थिस्सलुनीकियों) नये नियम में संग्रहित है।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25986\" data-resourceType=\"UWTranslationWords\">मकिदुनिया</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">पौलुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">रोम</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">1 थिस्सलुनीकियों 1:1</a></p></li><li><p><a href=\"https://ref.ly/2Thess0:0\">2 थिस्सलुनीकियों 1:1</a></p></li><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमु. 4:9</a></p></li><li><p><a href=\"https://ref.ly/Acts17:1\">प्रे.का. 17:1</a></p></li><li><p><a href=\"https://ref.ly/Phil4:14-Phil4:17\">फिलिप्पियों 4:14–17</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2331, G2332</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017001",
+          "start_ref_usfm": "ACT 17:1",
+          "end_ref": "44017001",
+          "end_ref_usfm": "ACT 17:1"
+        },
+        {
+          "start_ref": "44017011",
+          "start_ref_usfm": "ACT 17:11",
+          "end_ref": "44017011",
+          "end_ref_usfm": "ACT 17:11"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017013",
+          "end_ref_usfm": "ACT 17:13"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "44027002",
+          "start_ref_usfm": "ACT 27:2",
+          "end_ref": "44027002",
+          "end_ref_usfm": "ACT 27:2"
+        },
+        {
+          "start_ref": "50004016",
+          "start_ref_usfm": "PHP 4:16",
+          "end_ref": "50004016",
+          "end_ref_usfm": "PHP 4:16"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "55004010",
+          "start_ref_usfm": "2TI 4:10",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "55004009",
+          "start_ref_usfm": "2TI 4:9",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "50004014",
+          "start_ref_usfm": "PHP 4:14",
+          "end_ref": "50004017",
+          "end_ref_usfm": "PHP 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25986,
+          "content_id": 180051,
+          "label": "मकिदुनिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 180141,
+          "label": "पौलुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 180239,
+          "label": "रोम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

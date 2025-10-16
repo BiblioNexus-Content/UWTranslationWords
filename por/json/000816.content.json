@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238323,
+    "reference_id": 26194,
+    "title": "Samuel",
+    "media_type": "Text",
+    "index_reference": "samuel",
+    "language": "por",
+    "content": "<h1>Samuel</h1><h2>Fatos:</h2><p>Samuel foi um profeta e o último juiz de Israel. Ele ungiu tanto Saul quanto Davi como reis sobre Israel.</p><ul><li><p>Samuel nasceu de Elcana e Ana na cidade de Ramá.</p></li><li><p>Ana era estéril, então ela orou fervorosamente para que Deus lhe desse um filho. Samuel foi a resposta a essa oração.</p></li><li><p>Ana prometeu que, se em resposta à sua oração desesperada Deus lhe desse um filho homem, ela dedicaria seu filho a Javé.</p></li><li><p>Para cumprir sua promessa a Deus, quando Samuel era um menino, Ana o enviou para viver e ajudar Eli, o sacerdote, no templo.</p></li><li><p>Deus levantou Samuel para ser um grande profeta.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25818\" data-resourceType=\"UWTranslationWords\">Ana</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">juiz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam1:19\">1 Samuel 1.19</a></p></li><li><p><a href=\"https://ref.ly/1Sam9:24\">1 Samuel 9.24</a></p></li><li><p><a href=\"https://ref.ly/1Sam12:17\">1 Samuel 12.17</a></p></li><li><p><a href=\"https://ref.ly/Acts3:24\">Atos 3.24</a></p></li><li><p><a href=\"https://ref.ly/Acts13:20\">Atos 13.20</a></p></li><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">Hebreus 11.32–34</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8050, G45450</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09001019",
+          "start_ref_usfm": "1SA 1:19",
+          "end_ref": "09001019",
+          "end_ref_usfm": "1SA 1:19"
+        },
+        {
+          "start_ref": "09009024",
+          "start_ref_usfm": "1SA 9:24",
+          "end_ref": "09009024",
+          "end_ref_usfm": "1SA 9:24"
+        },
+        {
+          "start_ref": "09012017",
+          "start_ref_usfm": "1SA 12:17",
+          "end_ref": "09012017",
+          "end_ref_usfm": "1SA 12:17"
+        },
+        {
+          "start_ref": "44003024",
+          "start_ref_usfm": "ACT 3:24",
+          "end_ref": "44003024",
+          "end_ref_usfm": "ACT 3:24"
+        },
+        {
+          "start_ref": "44013020",
+          "start_ref_usfm": "ACT 13:20",
+          "end_ref": "44013020",
+          "end_ref_usfm": "ACT 13:20"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25818,
+          "content_id": 237951,
+          "label": "Ana",
+          "language": "por"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 238062,
+          "label": "Julgar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

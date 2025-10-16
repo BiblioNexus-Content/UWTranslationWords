@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466780,
+    "reference_id": 25613,
+    "title": "Corneille",
+    "media_type": "Text",
+    "index_reference": "corneille",
+    "language": "fra",
+    "content": "<h1>Corneille</h1><h2>Définition :</h2><p>Corneille était un païen, ou un non-juif, qui était un officier militaire dans l&apos;armée romaine.</p><ul><li><p>Il priait régulièrement Dieu et était très généreux en donnant aux pauvres.</p></li><li><p>Lorsque Corneille et sa famille ont entendu l&apos;apôtre Pierre expliquer l&apos;évangile, ils crurent en Jésus.</p></li><li><p>Les habitants de la maison de Corneille ont été les premiers non-juifs à devenir croyants.</p></li><li><p>Cela a montré aux disciples de Jésus que Jésus était venu pour sauver tous les hommes, y compris les Gentils.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../kt/believe.md), (../kt/gentile.md), (../kt/goodnews.md), (../names/greek.md), (../kt/centurion.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010001",
+          "end_ref_usfm": "ACT 10:1"
+        },
+        {
+          "start_ref": "44010003",
+          "start_ref_usfm": "ACT 10:3",
+          "end_ref": "44010003",
+          "end_ref_usfm": "ACT 10:3"
+        },
+        {
+          "start_ref": "44010008",
+          "start_ref_usfm": "ACT 10:8",
+          "end_ref": "44010008",
+          "end_ref_usfm": "ACT 10:8"
+        },
+        {
+          "start_ref": "44010017",
+          "start_ref_usfm": "ACT 10:17",
+          "end_ref": "44010017",
+          "end_ref_usfm": "ACT 10:17"
+        },
+        {
+          "start_ref": "44010018",
+          "start_ref_usfm": "ACT 10:18",
+          "end_ref": "44010018",
+          "end_ref_usfm": "ACT 10:18"
+        },
+        {
+          "start_ref": "44010022",
+          "start_ref_usfm": "ACT 10:22",
+          "end_ref": "44010022",
+          "end_ref_usfm": "ACT 10:22"
+        },
+        {
+          "start_ref": "44010024",
+          "start_ref_usfm": "ACT 10:24",
+          "end_ref": "44010024",
+          "end_ref_usfm": "ACT 10:24"
+        },
+        {
+          "start_ref": "44010025",
+          "start_ref_usfm": "ACT 10:25",
+          "end_ref": "44010025",
+          "end_ref_usfm": "ACT 10:25"
+        },
+        {
+          "start_ref": "44010026",
+          "start_ref_usfm": "ACT 10:26",
+          "end_ref": "44010026",
+          "end_ref_usfm": "ACT 10:26"
+        },
+        {
+          "start_ref": "44010030",
+          "start_ref_usfm": "ACT 10:30",
+          "end_ref": "44010030",
+          "end_ref_usfm": "ACT 10:30"
+        },
+        {
+          "start_ref": "44010031",
+          "start_ref_usfm": "ACT 10:31",
+          "end_ref": "44010031",
+          "end_ref_usfm": "ACT 10:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25580,
+          "content_id": 466748,
+          "label": "Centurion",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 466922,
+          "label": "Gentil (Païen)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 466945,
+          "label": "La bonnes nouvelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 466954,
+          "label": "Grecque",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

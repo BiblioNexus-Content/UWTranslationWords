@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467078,
+    "reference_id": 25934,
+    "title": "Kedar",
+    "media_type": "Text",
+    "index_reference": "kedar",
+    "language": "fra",
+    "content": "<h1>Kedar</h1><h2>Définition :</h2><p>&quot;Kedar était le nom du second fils d&apos;Ismaël et du groupe de personnes descendant de lui* Il y a aussi une ville importante nommée Kedar.</p><ul><li><p>La ville de Kedar est située dans la partie nord de l&apos;Arabie près de la frontière sud de la Palestine* Dans les temps bibliques, elle était connue pour sa grandeur et sa beauté.</p></li><li><p>L&apos;expression «tentes sombres de Kedar&quot; désigne les tentes en poils de chèvre noire où les gens de Kedar vivaient.</p></li><li><p>Dans la Bible, l&apos;expression «la gloire de Kedar&quot; se réfère à la grandeur de cette ville et de ses habitants.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/arabia.md), (../other/goat.md), (../names/ishmael.md), (../other/sacrifice.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
+        },
+        {
+          "start_ref": "22001005",
+          "start_ref_usfm": "SNG 1:5",
+          "end_ref": "22001005",
+          "end_ref_usfm": "SNG 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25787,
+          "content_id": 466936,
+          "label": "Chèvre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 467023,
+          "label": "Ismaël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

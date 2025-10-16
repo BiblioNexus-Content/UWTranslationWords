@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 182407,
+    "reference_id": 25540,
+    "title": "बिल्हा",
+    "media_type": "Text",
+    "index_reference": "बिल्हा",
+    "language": "hin",
+    "content": "<h1>बिल्हा</h1><h2>तथ्य:</h2><p>बिल्हा याकूब की पत्नियों में से एक थी। उसने दान और नप्ताली को जन्म दिया, जो याकूब के दो पुत्र थे जिनके वंशज इस्राएल के गोत्र बन गए।</p><ul><li><p>जब राहेल ने याकूब से विवाह किया तो लाबान ने बिल्हा को दासी के रूप में राहेल को दिया था।</p></li><li><p>क्योंकि राहेल के कोई संतान नहीं थी, इसलिए उसने बिल्हा को याकूब को पत्नी के रूप में दिया ताकि वह उसके लिए संतान उत्पन्न करे। </p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">याकूब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26149\" data-resourceType=\"UWTranslationWords\">राहेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">दान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">नप्ताली</span>)</p><h2>बाइबल संदर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:29\">उत्पत्ति 29:29</a></p></li><li><p><a href=\"https://ref.ly/Gen30:4\">उत्पत्ति 30:4</a></p></li></ul><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग का: H1090</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030003",
+          "end_ref_usfm": "GEN 30:3"
+        },
+        {
+          "start_ref": "01030004",
+          "start_ref_usfm": "GEN 30:4",
+          "end_ref": "01030004",
+          "end_ref_usfm": "GEN 30:4"
+        },
+        {
+          "start_ref": "01030005",
+          "start_ref_usfm": "GEN 30:5",
+          "end_ref": "01030005",
+          "end_ref_usfm": "GEN 30:5"
+        },
+        {
+          "start_ref": "01030007",
+          "start_ref_usfm": "GEN 30:7",
+          "end_ref": "01030007",
+          "end_ref_usfm": "GEN 30:7"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037002",
+          "end_ref_usfm": "GEN 37:2"
+        },
+        {
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25641,
+          "content_id": 179718,
+          "label": "दान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 180106,
+          "label": "नप्ताली",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26149,
+          "content_id": 180208,
+          "label": "राहेल",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

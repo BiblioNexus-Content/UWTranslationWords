@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26755,
+    "reference_id": 25897,
+    "title": "Jeroboam",
+    "media_type": "Text",
+    "index_reference": "jeroboam",
+    "language": "eng",
+    "content": "<h1>Jeroboam</h1><h2>Facts:</h2><p>Jeroboam son of Nebat was the first king of the northern kingdom of Israel around 900–910 BC. Another Jeroboam, son of King Jehoash, ruled over Israel about 120 years later.</p><ul><li><p>Yahweh gave Jeroboam son of Nebat a prophecy that he would become king after Solomon and that he would rule ten tribes of Israel.</p></li><li><p>When Solomon died, the ten northern tribes of Israel rebelled against Solomon’s son Rehoboam and instead made Jeroboam their king, leaving Rehoboam as king of only the southern two tribes, Judah and Benjamin.</p></li><li><p>Jeroboam became a wicked king who led the people away from worshiping Yahweh and instead set up idols for them to worship. All the other kings of Israel followed Jeroboam’s example and were evil like he was.</p></li><li><p>Almost 120 years later, another King Jeroboam began ruling the northern kingdom of Israel. This Jeroboam was the son of King Jehoash and was wicked like all the previous kings of Israel had been.</p></li><li><p>In spite of the Israelite’s wickedness, God had mercy on them and helped this King Jeroboam to gain land and establish boundaries for their territory.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:16-1Chr5:17\">1 Chronicles 5:16–17</a></p></li><li><p><a href=\"https://ref.ly/1Kgs12:2\">1 Kings 12:2</a></p></li><li><p><a href=\"https://ref.ly/2Chr9:29\">2 Chronicles 9:29</a></p></li><li><p><a href=\"https://ref.ly/2Kgs3:1-2Kgs3:3\">2 Kings 3:1–3</a></p></li><li><p><a href=\"https://ref.ly/Amos1:1\">Amos 1:1</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>18:8</strong> The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named <strong>Jeroboam</strong> to be their king.</p></li><li><p><strong>18:9</strong> <strong>Jeroboam</strong> rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3379</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012002",
+          "start_ref_usfm": "1KI 12:2",
+          "end_ref": "11012002",
+          "end_ref_usfm": "1KI 12:2"
+        },
+        {
+          "start_ref": "14009029",
+          "start_ref_usfm": "2CH 9:29",
+          "end_ref": "14009029",
+          "end_ref_usfm": "2CH 9:29"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "13005016",
+          "start_ref_usfm": "1CH 5:16",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003003",
+          "end_ref_usfm": "2KI 3:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

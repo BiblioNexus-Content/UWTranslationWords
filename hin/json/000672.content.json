@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180081,
+    "reference_id": 26017,
+    "title": "मीकाएल",
+    "media_type": "Text",
+    "index_reference": "मीकाएल",
+    "language": "hin",
+    "content": "<h1>मीकाएल</h1><h2>तथ्य:</h2><p>परमेश्वर के सब आज्ञाकारी पवित्र स्वर्गदूतों का प्रधान मीकाएल है। वही एकमात्र स्वर्गदूत है जिसे परमेश्वर का प्रधान स्वर्गदूत कहा जाता है।</p><ul><li><p>“प्रधान स्वर्गदूत” का अर्थ है “स्वर्गदूतों का मुखिया” या “शासन करनेवाला स्वर्गदूत”।</p></li><li><p>मीकाएल एक योद्धा है जो परमेश्वर के बैरियों से युद्ध करके उसके लोगों की रक्षा करता है।</p></li><li><p>उसने फारस की सेना से युद्ध करने के लिए इस्राएल की अगुआई की थी। अन्त समय में वह दुष्ट की सेना के विरूद्ध इस्राएल की अगुआई करेगा जैसा उसने दानिय्येल से कहा था।</p></li><li><p>बाइबल में मीकाएल नाम के अनेक पुरुष हुए है। अनेक पुरुषों की पहचान “मीकाएल का पुत्र” स्वरूप की गई है।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">स्वर्गदूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26015\" data-resourceType=\"UWTranslationWords\">दूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan10:12-Dan10:13\">दानिय्येल 10:12–13</a></p></li><li><p><a href=\"https://ref.ly/Dan10:20-Dan10:21\">दानिय्येल 10:20–21</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:8-Ezra8:11\">एज्रा 08:8–11</a></p></li><li><p><a href=\"https://ref.ly/Rev0:0\">प्रकाशितवाक्य 12:7–9</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4317, G3413</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15008008",
+          "start_ref_usfm": "EZR 8:8",
+          "end_ref": "15008008",
+          "end_ref_usfm": "EZR 8:8"
+        },
+        {
+          "start_ref": "27010013",
+          "start_ref_usfm": "DAN 10:13",
+          "end_ref": "27010013",
+          "end_ref_usfm": "DAN 10:13"
+        },
+        {
+          "start_ref": "27010021",
+          "start_ref_usfm": "DAN 10:21",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012007",
+          "end_ref_usfm": "REV 12:7"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012009",
+          "end_ref_usfm": "REV 12:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 179547,
+          "label": "स्वर्गदूत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26015,
+          "content_id": 180079,
+          "label": "दूत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

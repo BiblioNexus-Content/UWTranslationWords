@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 466964,
+    "reference_id": 25815,
+    "title": "Hamor",
+    "media_type": "Text",
+    "index_reference": "hamor",
+    "language": "fra",
+    "content": "<h1>Hamor</h1><h2>Définition :</h2><p>&quot;Hamor était un voisin non-juif de Jacob.</p><ul><li><p>Après que Jacob fut retourné à sa terre natale avec ses femmes et ses enfants, il a acheté un lieu de sépulture du fils de Hamor.</p></li><li><p>Le fils de Hamor Sichem a violé la fille de Jacob, Dinah* Ses frères se sont vengés sur Hamor et sa famille.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../names/hivite.md), (../names/jacob.md), (../names/shechem.md), (../names/succoth.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01033019",
+          "start_ref_usfm": "GEN 33:19",
+          "end_ref": "01033019",
+          "end_ref_usfm": "GEN 33:19"
+        },
+        {
+          "start_ref": "01034002",
+          "start_ref_usfm": "GEN 34:2",
+          "end_ref": "01034002",
+          "end_ref_usfm": "GEN 34:2"
+        },
+        {
+          "start_ref": "01034004",
+          "start_ref_usfm": "GEN 34:4",
+          "end_ref": "01034004",
+          "end_ref_usfm": "GEN 34:4"
+        },
+        {
+          "start_ref": "01034006",
+          "start_ref_usfm": "GEN 34:6",
+          "end_ref": "01034006",
+          "end_ref_usfm": "GEN 34:6"
+        },
+        {
+          "start_ref": "01034008",
+          "start_ref_usfm": "GEN 34:8",
+          "end_ref": "01034008",
+          "end_ref_usfm": "GEN 34:8"
+        },
+        {
+          "start_ref": "01034013",
+          "start_ref_usfm": "GEN 34:13",
+          "end_ref": "01034013",
+          "end_ref_usfm": "GEN 34:13"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034018",
+          "end_ref_usfm": "GEN 34:18"
+        },
+        {
+          "start_ref": "01034020",
+          "start_ref_usfm": "GEN 34:20",
+          "end_ref": "01034020",
+          "end_ref_usfm": "GEN 34:20"
+        },
+        {
+          "start_ref": "01034021",
+          "start_ref_usfm": "GEN 34:21",
+          "end_ref": "01034021",
+          "end_ref_usfm": "GEN 34:21"
+        },
+        {
+          "start_ref": "01034024",
+          "start_ref_usfm": "GEN 34:24",
+          "end_ref": "01034024",
+          "end_ref_usfm": "GEN 34:24"
+        },
+        {
+          "start_ref": "01034026",
+          "start_ref_usfm": "GEN 34:26",
+          "end_ref": "01034026",
+          "end_ref_usfm": "GEN 34:26"
+        },
+        {
+          "start_ref": "07009028",
+          "start_ref_usfm": "JDG 9:28",
+          "end_ref": "07009028",
+          "end_ref_usfm": "JDG 9:28"
+        },
+        {
+          "start_ref": "44007014",
+          "start_ref_usfm": "ACT 7:14",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        },
+        {
+          "start_ref": "06024032",
+          "start_ref_usfm": "JOS 24:32",
+          "end_ref": "06024033",
+          "end_ref_usfm": "JOS 24:33"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 466986,
+          "label": "Héviens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26223,
+          "content_id": 467339,
+          "label": "Sichem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26271,
+          "content_id": 467385,
+          "label": "Succoth",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

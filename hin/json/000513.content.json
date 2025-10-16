@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180176,
+    "reference_id": 26115,
+    "title": "पोतीपर",
+    "media_type": "Text",
+    "index_reference": "पोतीपर",
+    "language": "hin",
+    "content": "<h1>पोतीपर</h1><h2>तथ्य:</h2><p>पोतीपर मिस्र के फिरौन का एक महत्वपूर्ण अधिकारी था, उस समय यूसुफ कुछ इश्माएल वंशियों को बेचा गया था।</p><ul><li><p>पोतीपर ने यूसुफ को इश्माएलवंशी व्यापारियों से खरीद कर अपने घर का पर्यवेक्षक बनाया था।</p></li><li><p>यूसुफ पर अनुचित काम का दोष लगाया गया तो उसने यूसुफ को बन्दीगृह में डलवा दिया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">मिस्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">यूसुफ (पुराना नियम)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">फ़िरौन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen37:34-Gen37:36\">उत्पत्ति 37:34–36</a></p></li><li><p><a href=\"https://ref.ly/Gen39:1-Gen39:2\">उत्पत्ति 39:1–2</a></p></li><li><p><a href=\"https://ref.ly/Gen39:13-Gen39:15\">उत्पत्ति 39:13–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H6318</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037036",
+          "start_ref_usfm": "GEN 37:36",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039001",
+          "end_ref_usfm": "GEN 39:1"
+        },
+        {
+          "start_ref": "01039002",
+          "start_ref_usfm": "GEN 39:2",
+          "end_ref": "01039002",
+          "end_ref_usfm": "GEN 39:2"
+        },
+        {
+          "start_ref": "01039014",
+          "start_ref_usfm": "GEN 39:14",
+          "end_ref": "01039014",
+          "end_ref_usfm": "GEN 39:14"
+        },
+        {
+          "start_ref": "01037034",
+          "start_ref_usfm": "GEN 37:34",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 179764,
+          "label": "मिस्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 179986,
+          "label": "यूसुफ (पुराना नियम)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 180156,
+          "label": "फ़िरौन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

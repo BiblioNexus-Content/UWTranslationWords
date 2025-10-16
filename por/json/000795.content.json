@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238308,
+    "reference_id": 26178,
+    "title": "Rimom",
+    "media_type": "Text",
+    "index_reference": "rimom",
+    "language": "por",
+    "content": "<h1>Rimom</h1><h2>Fatos:</h2><p>Rimom era o nome de um homem e de vários lugares mencionados na Bíblia. Também era o nome de um falso deus.</p><ul><li><p>Um homem chamado Rimom era um benjamita da cidade de Beerote em Zebulom. Os filhos desse homem assassinaram Isbosete, o filho aleijado de Jônatas.</p></li><li><p>Rimom era uma cidade na parte sul de Judá, na região ocupada pela tribo de Benjamim.</p></li><li><p>A “rocha de Rimom” era um lugar de segurança onde os benjamitas foram para escapar de serem mortos em uma batalha.</p></li><li><p>Rimom Perez era um local desconhecido no deserto da Judeia.</p></li><li><p>O comandante sírio Naamã falou do templo do falso deus Rimom, onde o rei da Síria adorava.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judeia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26039\" data-resourceType=\"UWTranslationWords\">Naamã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26368\" data-resourceType=\"UWTranslationWords\">Zebulom</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs5:18\">2 Reis 5.18</a></p></li><li><p><a href=\"https://ref.ly/2Sam4:5-2Sam4:7\">2 Samuel 4.5–7</a></p></li><li><p><a href=\"https://ref.ly/Judg20:45-Judg20:46\">Juízes 20.45–46</a></p></li><li><p><a href=\"https://ref.ly/Judg21:13-Judg21:15\">Juízes 21.13–15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7417</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12005018",
+          "start_ref_usfm": "2KI 5:18",
+          "end_ref": "12005018",
+          "end_ref_usfm": "2KI 5:18"
+        },
+        {
+          "start_ref": "10004005",
+          "start_ref_usfm": "2SA 4:5",
+          "end_ref": "10004007",
+          "end_ref_usfm": "2SA 4:7"
+        },
+        {
+          "start_ref": "07020045",
+          "start_ref_usfm": "JDG 20:45",
+          "end_ref": "07020046",
+          "end_ref_usfm": "JDG 20:46"
+        },
+        {
+          "start_ref": "07021013",
+          "start_ref_usfm": "JDG 21:13",
+          "end_ref": "07021015",
+          "end_ref_usfm": "JDG 21:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25526,
+          "content_id": 237662,
+          "label": "Benjamim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 238061,
+          "label": "Judeia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 238169,
+          "label": "Naamã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        },
+        {
+          "reference_id": 26368,
+          "content_id": 238494,
+          "label": "Zebulom",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

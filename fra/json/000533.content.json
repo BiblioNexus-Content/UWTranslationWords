@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467123,
+    "reference_id": 25983,
+    "title": "Luth",
+    "media_type": "Text",
+    "index_reference": "luth",
+    "language": "fra",
+    "content": "<h1>luth, cithare</h1><h2>Définition :</h2><p>&quot;Le luth et la lyre sont petits instruments de musique à cordes qui ont été utilisés par les Israélites pour adorer Dieu.</p><ul><li><p>Une lyre ressemble beaucoup à une petite harpe, ayant un cadre ouvert et les cordes sont enfilées à travers.</p></li><li><p>Un luth est très similaire à une guitare moderne acoustique de nos jours, ayant une caisse de résonance en bois et un col étendu sur lequel les cordes sont enfilées.</p></li><li><p>Pour jouer un luth ou une lyre, certaines cordes sont maintenues enfoncées avec les doigts d&apos;une main tandis que d&apos;autres cordes sont pincées ou grattées avec l&apos;autre main.</p></li><li><p>Le luth, cithare, harpe sont tous joués en grattant ou pinçant les cordes.</p></li><li><p>Le nombre de cordes varie, mais l&apos;Ancien Testament mentionne spécifiquement les instruments qui avaient dix cordes.</p></li></ul><p>(Voir aussi : (../other/harp.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "01031027",
+          "start_ref_usfm": "GEN 31:27",
+          "end_ref": "01031027",
+          "end_ref_usfm": "GEN 31:27"
+        },
+        {
+          "start_ref": "11010011",
+          "start_ref_usfm": "1KI 10:11",
+          "end_ref": "11010012",
+          "end_ref_usfm": "1KI 10:12"
+        },
+        {
+          "start_ref": "09010005",
+          "start_ref_usfm": "1SA 10:5",
+          "end_ref": "09010006",
+          "end_ref_usfm": "1SA 10:6"
+        },
+        {
+          "start_ref": "14005011",
+          "start_ref_usfm": "2CH 5:11",
+          "end_ref": "14005012",
+          "end_ref_usfm": "2CH 5:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25822,
+          "content_id": 466970,
+          "label": "Harpe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

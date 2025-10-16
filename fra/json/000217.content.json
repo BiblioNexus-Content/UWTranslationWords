@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466804,
+    "reference_id": 25641,
+    "title": "Dan",
+    "media_type": "Text",
+    "index_reference": "dan",
+    "language": "fra",
+    "content": "<h1>Dan</h1><h2>Définition :</h2><p>Dan était le cinquième fils de Jacob et était l&apos;un des douze tribus d&apos;Israel* La région accordé à la tribu de Dan dans la partie Nord de Canaan a également pris ce nom.</p><ul><li><p>Pendant le temps d&apos;Abraham, il y avait une ville nommée Dan située à l&apos;Ouest de Jérusalem.</p></li><li><p>Des années plus tard, au temps où la nation d&apos;Israël est entrée dans la terre promise, une autre ville nommée Dan était située à environ 96 kilomètres au Nord de Jérusalem.</p></li><li><p>Le terme «Danites» désigne les descendants de Dan, qui étaient aussi membres de son clan.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../names/jerusalem.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014014",
+          "start_ref_usfm": "GEN 14:14",
+          "end_ref": "01014014",
+          "end_ref_usfm": "GEN 14:14"
+        },
+        {
+          "start_ref": "01030006",
+          "start_ref_usfm": "GEN 30:6",
+          "end_ref": "01030006",
+          "end_ref_usfm": "GEN 30:6"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046023",
+          "start_ref_usfm": "GEN 46:23",
+          "end_ref": "01046023",
+          "end_ref_usfm": "GEN 46:23"
+        },
+        {
+          "start_ref": "01049017",
+          "start_ref_usfm": "GEN 49:17",
+          "end_ref": "01049017",
+          "end_ref_usfm": "GEN 49:17"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "02031006",
+          "start_ref_usfm": "EXO 31:6",
+          "end_ref": "02031006",
+          "end_ref_usfm": "EXO 31:6"
+        },
+        {
+          "start_ref": "02035034",
+          "start_ref_usfm": "EXO 35:34",
+          "end_ref": "02035034",
+          "end_ref_usfm": "EXO 35:34"
+        },
+        {
+          "start_ref": "02038023",
+          "start_ref_usfm": "EXO 38:23",
+          "end_ref": "02038023",
+          "end_ref_usfm": "EXO 38:23"
+        },
+        {
+          "start_ref": "11004025",
+          "start_ref_usfm": "1KI 4:25",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "13012035",
+          "start_ref_usfm": "1CH 12:35",
+          "end_ref": "13012035",
+          "end_ref_usfm": "1CH 12:35"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

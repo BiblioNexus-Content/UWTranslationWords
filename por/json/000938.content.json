@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 238461,
+    "reference_id": 26335,
+    "title": "Videira",
+    "media_type": "Text",
+    "index_reference": "videira",
+    "language": "por",
+    "content": "<h1>videira, videiras</h1><h2>Definição:</h2><p>O termo “videira” refere-se a uma planta que cresce rastejando pelo chão ou subindo em árvores e outras estruturas. A palavra “videira” na Bíblia é usada apenas para videiras com uvas frutíferas. </p><ul><li><p>Na Bíblia, a palavra “videira” quase sempre significa “videira de uva”.</p></li><li><p>Os ramos da videira de uva estão ligados ao caule principal, que lhes fornece água e outros nutrientes para que possam crescer.</p></li><li><p>Jesus chamou a si mesmo de “videira” e chamou seu povo de “ramos”. Nesse contexto, a palavra “videira” também poderia ser traduzida como “caule da videira de uva” ou “caule da planta de uva”. (Veja: Metáfora)</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">uva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vinhedo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen40:9\">Gênesis 40.9</a></p></li><li><p><a href=\"https://ref.ly/Gen49:11\">Gênesis 49.11</a></p></li><li><p><a href=\"https://ref.ly/John15:1\">João 15.1</a></p></li><li><p><a href=\"https://ref.ly/Luke22:18\">Lucas 22.18</a></p></li><li><p><a href=\"https://ref.ly/Mark12:3\">Marcos 12.3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:35-Matt21:37\">Mateus 21.35–37</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5139, H1612, H8321, G02880, G02900, G10090, G10920</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040009",
+          "start_ref_usfm": "GEN 40:9",
+          "end_ref": "01040009",
+          "end_ref_usfm": "GEN 40:9"
+        },
+        {
+          "start_ref": "01040010",
+          "start_ref_usfm": "GEN 40:10",
+          "end_ref": "01040010",
+          "end_ref_usfm": "GEN 40:10"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "22006011",
+          "start_ref_usfm": "SNG 6:11",
+          "end_ref": "22006011",
+          "end_ref_usfm": "SNG 6:11"
+        },
+        {
+          "start_ref": "22007008",
+          "start_ref_usfm": "SNG 7:8",
+          "end_ref": "22007008",
+          "end_ref_usfm": "SNG 7:8"
+        },
+        {
+          "start_ref": "22007012",
+          "start_ref_usfm": "SNG 7:12",
+          "end_ref": "22007012",
+          "end_ref_usfm": "SNG 7:12"
+        },
+        {
+          "start_ref": "37002019",
+          "start_ref_usfm": "HAG 2:19",
+          "end_ref": "37002019",
+          "end_ref_usfm": "HAG 2:19"
+        },
+        {
+          "start_ref": "40026029",
+          "start_ref_usfm": "MAT 26:29",
+          "end_ref": "40026029",
+          "end_ref_usfm": "MAT 26:29"
+        },
+        {
+          "start_ref": "41012003",
+          "start_ref_usfm": "MRK 12:3",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "41014025",
+          "start_ref_usfm": "MRK 14:25",
+          "end_ref": "41014025",
+          "end_ref_usfm": "MRK 14:25"
+        },
+        {
+          "start_ref": "42022018",
+          "start_ref_usfm": "LUK 22:18",
+          "end_ref": "42022018",
+          "end_ref_usfm": "LUK 22:18"
+        },
+        {
+          "start_ref": "43015001",
+          "start_ref_usfm": "JHN 15:1",
+          "end_ref": "43015001",
+          "end_ref_usfm": "JHN 15:1"
+        },
+        {
+          "start_ref": "43015004",
+          "start_ref_usfm": "JHN 15:4",
+          "end_ref": "43015004",
+          "end_ref_usfm": "JHN 15:4"
+        },
+        {
+          "start_ref": "43015005",
+          "start_ref_usfm": "JHN 15:5",
+          "end_ref": "43015005",
+          "end_ref_usfm": "JHN 15:5"
+        },
+        {
+          "start_ref": "59003012",
+          "start_ref_usfm": "JAS 3:12",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "66014018",
+          "start_ref_usfm": "REV 14:18",
+          "end_ref": "66014018",
+          "end_ref_usfm": "REV 14:18"
+        },
+        {
+          "start_ref": "66014019",
+          "start_ref_usfm": "REV 14:19",
+          "end_ref": "66014019",
+          "end_ref_usfm": "REV 14:19"
+        },
+        {
+          "start_ref": "40021035",
+          "start_ref_usfm": "MAT 21:35",
+          "end_ref": "40021037",
+          "end_ref_usfm": "MAT 21:37"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 237936,
+          "label": "Uva",
+          "language": "por"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 238462,
+          "label": "Vinhedo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "content_id": 467023,
+    "reference_id": 25878,
+    "title": "Ismaël",
+    "media_type": "Text",
+    "index_reference": "ismaël",
+    "language": "fra",
+    "content": "<h1>Ismaël</h1><h2>Définition</h2><p>Ismaël était le fils d&apos;Abraham et de l&apos;esclave égyptienne Agar. Plusieurs autres hommes dans l&apos;Ancien Testament s&apos;appellaient Ismaël.</p><ul><li><p>Le nom « Ismaël » veut dire, « Dieu entend. »</p></li><li><p>Dieu a promis de bénir Ismaël, le fils d&apos;Abraham, mais ce n&apos;était pas le fils par lequel Dieu avait promis d&apos;établir son alliance.</p></li><li><p>Dieu a protégé Agar et Ismaël lorsqu&apos;ils ont été envoyés dans le désert.</p></li><li><p>Alors qu&apos;Ismaël vivait dans le désert de Paran, il a épousé une femme égyptienne.</p></li><li><p>Ismaël, fils de Nethaniah, était un officier de l&apos;armée de Juda qui a conduit un groupe d&apos;hommes à tuer un gouverneur appelé à ce poste par le roi de Babylone, Nabuchodonosor.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../names/babylon.md), (../kt/covenant.md), (../other/desert.md), (../names/egypt.md), (../names/hagar.md), (../names/isaac.md), (../names/nebuchadnezzar.md), (../names/paran.md), (../names/sarah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016011",
+          "start_ref_usfm": "GEN 16:11",
+          "end_ref": "01016011",
+          "end_ref_usfm": "GEN 16:11"
+        },
+        {
+          "start_ref": "01016012",
+          "start_ref_usfm": "GEN 16:12",
+          "end_ref": "01016012",
+          "end_ref_usfm": "GEN 16:12"
+        },
+        {
+          "start_ref": "01016015",
+          "start_ref_usfm": "GEN 16:15",
+          "end_ref": "01016015",
+          "end_ref_usfm": "GEN 16:15"
+        },
+        {
+          "start_ref": "01016016",
+          "start_ref_usfm": "GEN 16:16",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01017018",
+          "start_ref_usfm": "GEN 17:18",
+          "end_ref": "01017018",
+          "end_ref_usfm": "GEN 17:18"
+        },
+        {
+          "start_ref": "01017020",
+          "start_ref_usfm": "GEN 17:20",
+          "end_ref": "01017020",
+          "end_ref_usfm": "GEN 17:20"
+        },
+        {
+          "start_ref": "01017023",
+          "start_ref_usfm": "GEN 17:23",
+          "end_ref": "01017023",
+          "end_ref_usfm": "GEN 17:23"
+        },
+        {
+          "start_ref": "01017025",
+          "start_ref_usfm": "GEN 17:25",
+          "end_ref": "01017025",
+          "end_ref_usfm": "GEN 17:25"
+        },
+        {
+          "start_ref": "01017026",
+          "start_ref_usfm": "GEN 17:26",
+          "end_ref": "01017026",
+          "end_ref_usfm": "GEN 17:26"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025009",
+          "end_ref_usfm": "GEN 25:9"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
+        },
+        {
+          "start_ref": "01025016",
+          "start_ref_usfm": "GEN 25:16",
+          "end_ref": "01025016",
+          "end_ref_usfm": "GEN 25:16"
+        },
+        {
+          "start_ref": "01025017",
+          "start_ref_usfm": "GEN 25:17",
+          "end_ref": "01025017",
+          "end_ref_usfm": "GEN 25:17"
+        },
+        {
+          "start_ref": "01028009",
+          "start_ref_usfm": "GEN 28:9",
+          "end_ref": "01028009",
+          "end_ref_usfm": "GEN 28:9"
+        },
+        {
+          "start_ref": "01036003",
+          "start_ref_usfm": "GEN 36:3",
+          "end_ref": "01036003",
+          "end_ref_usfm": "GEN 36:3"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "01037027",
+          "start_ref_usfm": "GEN 37:27",
+          "end_ref": "01037027",
+          "end_ref_usfm": "GEN 37:27"
+        },
+        {
+          "start_ref": "01037028",
+          "start_ref_usfm": "GEN 37:28",
+          "end_ref": "01037028",
+          "end_ref_usfm": "GEN 37:28"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039001",
+          "end_ref_usfm": "GEN 39:1"
+        },
+        {
+          "start_ref": "14023001",
+          "start_ref_usfm": "2CH 23:1",
+          "end_ref": "14023001",
+          "end_ref_usfm": "2CH 23:1"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        },
+        {
+          "start_ref": "13001028",
+          "start_ref_usfm": "1CH 1:28",
+          "end_ref": "13001031",
+          "end_ref_usfm": "1CH 1:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25621,
+          "content_id": 466786,
+          "label": "Alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25810,
+          "content_id": 466959,
+          "label": "Agar",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25876,
+          "content_id": 467021,
+          "label": "Isaac",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 467184,
+          "label": "Nébucadnetsar",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26074,
+          "content_id": 467203,
+          "label": "Paran",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26198,
+          "content_id": 467317,
+          "label": "Sara",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

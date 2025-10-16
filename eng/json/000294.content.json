@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26566,
+    "reference_id": 25708,
+    "title": "Ephraim",
+    "media_type": "Text",
+    "index_reference": "ephraim",
+    "language": "eng",
+    "content": "<h1>Ephraim, Ephraimite</h1><h2>Facts:</h2><p>Ephraim was the younger son of Joseph. His descendants, the Ephraimites, formed one of the tribes of Israel.</p><ul><li><p>The name Ephriam sounds like the Hebrew word meaning “to make fruitful.”</p></li><li><p>The tribe of Ephraim was one of the ten tribes located in the northern part of Israel.</p></li><li><p>Sometimes the name Ephraim is used in the Bible to refer to the whole northern kingdom of Israel (similar to how the name Judah is sometimes used to refer to the whole southern kingdom of Israel).</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">Joseph</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manasseh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:66-1Chr6:69\">1 Chronicles 6:66–69</a></p></li><li><p><a href=\"https://ref.ly/2Chr13:4-2Chr13:5\">2 Chronicles 13:4–5</a></p></li><li><p><a href=\"https://ref.ly/Ezek37:16\">Ezekiel 37:16</a></p></li><li><p><a href=\"https://ref.ly/Gen41:52\">Genesis 41:52</a></p></li><li><p><a href=\"https://ref.ly/Gen48:1-Gen48:2\">Genesis 48:1–2</a></p></li><li><p><a href=\"https://ref.ly/John11:54\">John 11:54</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0669, H0673, G21870</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041052",
+          "start_ref_usfm": "GEN 41:52",
+          "end_ref": "01041052",
+          "end_ref_usfm": "GEN 41:52"
+        },
+        {
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048001",
+          "end_ref_usfm": "GEN 48:1"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01048013",
+          "start_ref_usfm": "GEN 48:13",
+          "end_ref": "01048013",
+          "end_ref_usfm": "GEN 48:13"
+        },
+        {
+          "start_ref": "01048014",
+          "start_ref_usfm": "GEN 48:14",
+          "end_ref": "01048014",
+          "end_ref_usfm": "GEN 48:14"
+        },
+        {
+          "start_ref": "01048017",
+          "start_ref_usfm": "GEN 48:17",
+          "end_ref": "01048017",
+          "end_ref_usfm": "GEN 48:17"
+        },
+        {
+          "start_ref": "01048020",
+          "start_ref_usfm": "GEN 48:20",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "01050023",
+          "start_ref_usfm": "GEN 50:23",
+          "end_ref": "01050023",
+          "end_ref_usfm": "GEN 50:23"
+        },
+        {
+          "start_ref": "16008016",
+          "start_ref_usfm": "NEH 8:16",
+          "end_ref": "16008016",
+          "end_ref_usfm": "NEH 8:16"
+        },
+        {
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
+        },
+        {
+          "start_ref": "26037016",
+          "start_ref_usfm": "EZK 37:16",
+          "end_ref": "26037016",
+          "end_ref_usfm": "EZK 37:16"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "43011054",
+          "start_ref_usfm": "JHN 11:54",
+          "end_ref": "43011054",
+          "end_ref_usfm": "JHN 11:54"
+        },
+        {
+          "start_ref": "13006066",
+          "start_ref_usfm": "1CH 6:66",
+          "end_ref": "13006069",
+          "end_ref_usfm": "1CH 6:69"
+        },
+        {
+          "start_ref": "14013004",
+          "start_ref_usfm": "2CH 13:4",
+          "end_ref": "14013005",
+          "end_ref_usfm": "2CH 13:5"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048002",
+          "end_ref_usfm": "GEN 48:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 26777,
+          "label": "Joseph OT",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 26851,
+          "label": "Manasseh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 179950,
+    "reference_id": 25883,
+    "title": "याकूब(हलफईस का पुत्र)",
+    "media_type": "Text",
+    "index_reference": "याकूब(हलफईस का पुत्र)",
+    "language": "hin",
+    "content": "<h1>याकूब(हलफईस का पुत्र)</h1><h2>तथ्य:</h2><p>हलफईस का पुत्र याकूब यीशु के बारह शिष्यों में एक था।</p><ul><li><p>इसका नाम सुसमाचार वृत्तान्तों में मत्ती, मरकुस और लूका में यीशु के शिष्यों की सूची में दिया गया है।</p></li><li><p>उसका नाम प्रेरितों के काम की पुस्तक में भी आया है कि वह भी उन ग्यारह शिष्यों में था जो यीशु के स्वर्गारोहण के बाद यरूशलेम में प्रार्थना कर रहे थे।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">प्रेरित</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25669\" data-resourceType=\"UWTranslationWords\">चेले</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25882\" data-resourceType=\"UWTranslationWords\">याकूब (यीशु का भाई)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25884\" data-resourceType=\"UWTranslationWords\">याकूब (जब्दी का पुत्र)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">बारहों</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts1:12-Acts1:14\">प्रे.का. 1:12–14</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">लूका 6:14–16</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">मरकुस 3:17–19</a></p></li><li><p><a href=\"https://ref.ly/Mark14:32-Mark14:34\">मरकुस 14:32–34</a></p></li><li><p><a href=\"https://ref.ly/Matt10:2-Matt10:4\">मत्ती 10:2–4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G23850</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010004",
+          "end_ref_usfm": "MAT 10:4"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        },
+        {
+          "start_ref": "41014032",
+          "start_ref_usfm": "MRK 14:32",
+          "end_ref": "41014034",
+          "end_ref_usfm": "MRK 14:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 179554,
+          "label": "प्रेरित",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 179745,
+          "label": "चेला",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25882,
+          "content_id": 179949,
+          "label": "याकूब (यीशु का भाई)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25884,
+          "content_id": 179951,
+          "label": "याकूब (जब्दी का पुत्र)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 180349,
+          "label": "बारहों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

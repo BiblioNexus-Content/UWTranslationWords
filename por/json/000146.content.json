@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 237708,
+    "reference_id": 25573,
+    "title": "Cafarnaum",
+    "media_type": "Text",
+    "index_reference": "cafarnaum",
+    "language": "por",
+    "content": "<h1>Cafarnaum</h1><h2>Fatos:</h2><p>Cafarnaum era uma vila de pescadores na costa noroeste do Mar da Galileia.</p><ul><li><p>Jesus morava em Cafarnaum sempre que ensinava na Galileia.</p></li><li><p>Vários de seus discípulos eram de Cafarnaum.</p></li><li><p>Jesus também fez muitos milagres nesta cidade, incluindo trazer uma menina morta de volta à vida.</p></li><li><p>Cafarnaum foi uma das três cidades que Jesus repreendeu publicamente porque seu povo o rejeitou e não acreditou em sua mensagem. Ele os advertiu que Deus os puniria por sua incredulidade.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25766\" data-resourceType=\"UWTranslationWords\">Galileia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Mar da Galileia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/John2:12\">João 2.12</a></p></li><li><p><a href=\"https://ref.ly/Luke4:31\">Lucas 4.31</a></p></li><li><p><a href=\"https://ref.ly/Luke7:1\">Lucas 7.1</a></p></li><li><p><a href=\"https://ref.ly/Mark1:21\">Marcos 1.21</a></p></li><li><p><a href=\"https://ref.ly/Mark2:2\">Marcos 2.2</a></p></li><li><p><a href=\"https://ref.ly/Matt4:12-Matt4:13\">Mateus 4.12–13</a></p></li><li><p><a href=\"https://ref.ly/Matt17:24-Matt17:25\">Mateus 17.24–25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G25840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40008005",
+          "start_ref_usfm": "MAT 8:5",
+          "end_ref": "40008005",
+          "end_ref_usfm": "MAT 8:5"
+        },
+        {
+          "start_ref": "40011023",
+          "start_ref_usfm": "MAT 11:23",
+          "end_ref": "40011023",
+          "end_ref_usfm": "MAT 11:23"
+        },
+        {
+          "start_ref": "40017024",
+          "start_ref_usfm": "MAT 17:24",
+          "end_ref": "40017024",
+          "end_ref_usfm": "MAT 17:24"
+        },
+        {
+          "start_ref": "41001021",
+          "start_ref_usfm": "MRK 1:21",
+          "end_ref": "41001021",
+          "end_ref_usfm": "MRK 1:21"
+        },
+        {
+          "start_ref": "41002001",
+          "start_ref_usfm": "MRK 2:1",
+          "end_ref": "41002001",
+          "end_ref_usfm": "MRK 2:1"
+        },
+        {
+          "start_ref": "41002002",
+          "start_ref_usfm": "MRK 2:2",
+          "end_ref": "41002002",
+          "end_ref_usfm": "MRK 2:2"
+        },
+        {
+          "start_ref": "41009033",
+          "start_ref_usfm": "MRK 9:33",
+          "end_ref": "41009033",
+          "end_ref_usfm": "MRK 9:33"
+        },
+        {
+          "start_ref": "42004023",
+          "start_ref_usfm": "LUK 4:23",
+          "end_ref": "42004023",
+          "end_ref_usfm": "LUK 4:23"
+        },
+        {
+          "start_ref": "42004031",
+          "start_ref_usfm": "LUK 4:31",
+          "end_ref": "42004031",
+          "end_ref_usfm": "LUK 4:31"
+        },
+        {
+          "start_ref": "42007001",
+          "start_ref_usfm": "LUK 7:1",
+          "end_ref": "42007001",
+          "end_ref_usfm": "LUK 7:1"
+        },
+        {
+          "start_ref": "42010015",
+          "start_ref_usfm": "LUK 10:15",
+          "end_ref": "42010015",
+          "end_ref_usfm": "LUK 10:15"
+        },
+        {
+          "start_ref": "43002012",
+          "start_ref_usfm": "JHN 2:12",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43006017",
+          "start_ref_usfm": "JHN 6:17",
+          "end_ref": "43006017",
+          "end_ref_usfm": "JHN 6:17"
+        },
+        {
+          "start_ref": "43006024",
+          "start_ref_usfm": "JHN 6:24",
+          "end_ref": "43006024",
+          "end_ref_usfm": "JHN 6:24"
+        },
+        {
+          "start_ref": "43006059",
+          "start_ref_usfm": "JHN 6:59",
+          "end_ref": "43006059",
+          "end_ref_usfm": "JHN 6:59"
+        },
+        {
+          "start_ref": "40017024",
+          "start_ref_usfm": "MAT 17:24",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
+        },
+        {
+          "start_ref": "40004012",
+          "start_ref_usfm": "MAT 4:12",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25766,
+          "content_id": 237899,
+          "label": "Galileia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 238336,
+          "label": "Mar da Galileia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

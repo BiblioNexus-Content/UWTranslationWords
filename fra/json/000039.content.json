@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466625,
+    "reference_id": 25444,
+    "title": "Alarme",
+    "media_type": "Text",
+    "index_reference": "alarme",
+    "language": "fra",
+    "content": "<h1>alarme, alarmer</h1><h2>Définition :</h2><p>Une alarme, c&apos;est quelque chose qui avertit les gens des dangers qui pourraient leur faire du mal* &quot;Etre alarmé&quot; signifie être très inquiet et dans la peur que quelque chose de dangereux ou de menaçant n&apos;arrive.</p><ul><li><p>Le roi Josaphat fut alarmé quand il apprit que les Moabites planifiaient d&apos;attaquer Juda.</p></li><li><p>Jésus dit aux disciples de ne pas s&apos;alarmer quand ils entendront parler des signes des derniers temps.</p></li><li><p>L&apos;expression idiomatique &quot;sonner une alarme&quot; signifie donner un avertissement* Dans les temps anciens, une personne pourrait sonner une alarme en faisant un bruit à l&apos;aide de quelque chose comme une trompête ou une cloche* Sonner une alarme pourrait signifier alerter les gens d&apos;un danger et qu&apos;à leur tour ils alertent d&apos;autres personnes* (Voir: [[rc://fr/ta/man/translate/figs-idiom]] )</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>&quot;Alarmer quelqu&apos;un&quot; signifie &quot;donner des soucis à quelqu&apos;un&quot; ou &quot;inquiéter quelqu&apos;un&quot;.</p></li><li><p>&quot;être alarmé&quot; pourrait être traduit par &quot;avoir des soucis&quot; ou &quot;avoir une crainte&quot; ou &quot;être très inquiet&quot;.</p></li><li><p>L&apos;expression idiomatique &quot;sonner une alarme&quot; pourrait être traduite par &quot;avertir publiquement&quot; ou &quot;annoncer qu&apos;un danger s&apos;approche&quot; ou &quot;sonner une trompête pour avertir d&apos;un danger&quot;.</p></li></ul><p>(Voir aussi : (../names/jehoshaphat.md), (../names/moab.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04010009",
+          "start_ref_usfm": "NUM 10:9",
+          "end_ref": "04010009",
+          "end_ref_usfm": "NUM 10:9"
+        },
+        {
+          "start_ref": "18038007",
+          "start_ref_usfm": "JOB 38:7",
+          "end_ref": "18038007",
+          "end_ref_usfm": "JOB 38:7"
+        },
+        {
+          "start_ref": "27011044",
+          "start_ref_usfm": "DAN 11:44",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "24004019",
+          "start_ref_usfm": "JER 4:19",
+          "end_ref": "24004020",
+          "end_ref_usfm": "JER 4:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 467163,
+          "label": "Moab",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

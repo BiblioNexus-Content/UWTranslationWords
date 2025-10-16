@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26543,
+    "reference_id": 25685,
+    "title": "Dung",
+    "media_type": "Text",
+    "index_reference": "dung",
+    "language": "eng",
+    "content": "<h1>dung, manure</h1><h2>Definition:</h2><p>The term “dung” refers to human or animal solid waste, and is also called feces or excrement. When used as fertilizer for enriching the soil, it is called “manure.”</p><ul><li><p>These terms can also be used figuratively to refer to something that is worthless or not important.</p></li><li><p>Dried animal dung is often used for fuel.</p></li><li><p>The expression “like dung on the ground” could be translated as “be scattered like worthless dung over the land.”</p></li><li><p>The “Dung Gate” in the South Wall of Jerusalem was probably the gate where garbage and trash were taken out of the city.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25767\" data-resourceType=\"UWTranslationWords\">gate</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs14:10\">1 Kings 14:10</a></p></li><li><p><a href=\"https://ref.ly/2Kgs6:25\">2 Kings 6:25</a></p></li><li><p><a href=\"https://ref.ly/Isa25:10\">Isaiah 25:10</a></p></li><li><p><a href=\"https://ref.ly/Jer8:2\">Jeremiah 8:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0830, H1119, H1557, H1561, H1686, H1828, H6569, H6675, G28740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014010",
+          "start_ref_usfm": "1KI 14:10",
+          "end_ref": "11014010",
+          "end_ref_usfm": "1KI 14:10"
+        },
+        {
+          "start_ref": "12006025",
+          "start_ref_usfm": "2KI 6:25",
+          "end_ref": "12006025",
+          "end_ref_usfm": "2KI 6:25"
+        },
+        {
+          "start_ref": "23025010",
+          "start_ref_usfm": "ISA 25:10",
+          "end_ref": "23025010",
+          "end_ref_usfm": "ISA 25:10"
+        },
+        {
+          "start_ref": "24008002",
+          "start_ref_usfm": "JER 8:2",
+          "end_ref": "24008002",
+          "end_ref_usfm": "JER 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 26625,
+          "label": "Gate",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

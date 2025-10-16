@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 180378,
+    "reference_id": 26325,
+    "title": "तुखिकुस",
+    "media_type": "Text",
+    "index_reference": "तुखिकुस",
+    "language": "hin",
+    "content": "<h1>तुखिकुस</h1><h2>तथ्य:</h2><p>तुखिकुस सुसमाचार प्रचार में पौलुस का साथी सेवक था।</p><ul><li><p>तुखिकुस पौलुस की एशिया प्रचार सेवा में कम से कम एक बार गया था।</p></li><li><p>पौलुस उसे “प्रिय” और “विश्वासयोग्य” कहता था।</p></li><li><p>तुखिकुस इफिसुस और कुलुस्से में पौलुस के पत्र लेकर गया था।</p></li></ul><p>(अनुवाद संबंधित सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">आसिया</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25524\" data-resourceType=\"UWTranslationWords\">प्रिय</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">कुलुस्से</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">इफिसुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25726\" data-resourceType=\"UWTranslationWords\">विश्वासयोग्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">शुभ सन्देश</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">अगुआ</span>)</p><h2>बाइबल संदर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमु. 04:11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:7-Col4:9\">कुलुस्सियों 04:7–9</a></p></li><li><p><a href=\"https://ref.ly/Titus3:12-Titus3:13\">तीतुस 03:12–13</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रांग&apos;स: G5190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "49006021",
+          "start_ref_usfm": "EPH 6:21",
+          "end_ref": "49006021",
+          "end_ref_usfm": "EPH 6:21"
+        },
+        {
+          "start_ref": "51004007",
+          "start_ref_usfm": "COL 4:7",
+          "end_ref": "51004007",
+          "end_ref_usfm": "COL 4:7"
+        },
+        {
+          "start_ref": "51004009",
+          "start_ref_usfm": "COL 4:9",
+          "end_ref": "51004009",
+          "end_ref_usfm": "COL 4:9"
+        },
+        {
+          "start_ref": "55004012",
+          "start_ref_usfm": "2TI 4:12",
+          "end_ref": "55004012",
+          "end_ref_usfm": "2TI 4:12"
+        },
+        {
+          "start_ref": "56003012",
+          "start_ref_usfm": "TIT 3:12",
+          "end_ref": "56003012",
+          "end_ref_usfm": "TIT 3:12"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 179573,
+          "label": "आसिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25524,
+          "content_id": 179607,
+          "label": "प्रिय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 179676,
+          "label": "कुलुस्से",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 179779,
+          "label": "इफिसुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 179799,
+          "label": "विश्वासयोग्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 179867,
+          "label": "शुभ सन्देश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 180085,
+          "label": "सेवा करना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

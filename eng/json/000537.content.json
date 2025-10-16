@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26810,
+    "reference_id": 25952,
+    "title": "Lamech",
+    "media_type": "Text",
+    "index_reference": "lamech",
+    "language": "eng",
+    "content": "<h1>Lamech</h1><h2>Facts:</h2><p>Lamech was the name of two men mentioned in the book of Genesis.</p><ul><li><p>The first Lamech mentioned was a descendant of Cain. He boasted to his two wives that he had killed a man for injuring him.</p></li><li><p>The second Lamech was a descendant of Seth. He was also the father of Noah.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">Cain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26218\" data-resourceType=\"UWTranslationWords\">Seth</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen4:18-Gen4:19\">Genesis 4:18–19</a></p></li><li><p><a href=\"https://ref.ly/Gen4:24\">Genesis 4:24</a></p></li><li><p><a href=\"https://ref.ly/Gen5:25\">Genesis 5:25</a></p></li><li><p><a href=\"https://ref.ly/Gen5:29\">Genesis 5:29</a></p></li><li><p><a href=\"https://ref.ly/Gen5:31\">Genesis 5:31</a></p></li><li><p><a href=\"https://ref.ly/Luke3:36\">Luke 3:36</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3929, G29840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
+        },
+        {
+          "start_ref": "01004019",
+          "start_ref_usfm": "GEN 4:19",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        },
+        {
+          "start_ref": "01004023",
+          "start_ref_usfm": "GEN 4:23",
+          "end_ref": "01004023",
+          "end_ref_usfm": "GEN 4:23"
+        },
+        {
+          "start_ref": "01004024",
+          "start_ref_usfm": "GEN 4:24",
+          "end_ref": "01004024",
+          "end_ref_usfm": "GEN 4:24"
+        },
+        {
+          "start_ref": "01005025",
+          "start_ref_usfm": "GEN 5:25",
+          "end_ref": "01005025",
+          "end_ref_usfm": "GEN 5:25"
+        },
+        {
+          "start_ref": "01005026",
+          "start_ref_usfm": "GEN 5:26",
+          "end_ref": "01005026",
+          "end_ref_usfm": "GEN 5:26"
+        },
+        {
+          "start_ref": "01005028",
+          "start_ref_usfm": "GEN 5:28",
+          "end_ref": "01005028",
+          "end_ref_usfm": "GEN 5:28"
+        },
+        {
+          "start_ref": "01005029",
+          "start_ref_usfm": "GEN 5:29",
+          "end_ref": "01005029",
+          "end_ref_usfm": "GEN 5:29"
+        },
+        {
+          "start_ref": "01005030",
+          "start_ref_usfm": "GEN 5:30",
+          "end_ref": "01005030",
+          "end_ref_usfm": "GEN 5:30"
+        },
+        {
+          "start_ref": "01005031",
+          "start_ref_usfm": "GEN 5:31",
+          "end_ref": "01005031",
+          "end_ref_usfm": "GEN 5:31"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 26423,
+          "label": "Cain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26218,
+          "content_id": 27076,
+          "label": "Seth",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

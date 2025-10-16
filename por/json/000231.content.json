@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 191638,
+    "reference_id": 25626,
+    "title": "Creta",
+    "media_type": "Text",
+    "index_reference": "creta",
+    "language": "por",
+    "content": "<h1>Creta, cretense</h1><h2>Fatos:</h2><p>Creta é uma ilha localizada ao largo da costa sul da Grécia. Um “cretense” é alguém que vive nesta ilha.</p><ul><li><p>O apóstolo Paulo viajou para a ilha de Creta durante suas jornadas missionárias.</p></li><li><p>Paulo deixou seu colaborador Tito em Creta para ensinar os cristãos e ajudar a nomear líderes para a igreja lá.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:11\">Atos 2.11</a></p></li><li><p><a href=\"https://ref.ly/Acts27:8\">Atos 27.8</a></p></li><li><p><a href=\"https://ref.ly/Amos9:7-Amos9:8\">Amós 9.7–8</a></p></li><li><p><a href=\"https://ref.ly/Titus1:12\">Tito 1.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G29120, G29140</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002011",
+          "start_ref_usfm": "ACT 2:11",
+          "end_ref": "44002011",
+          "end_ref_usfm": "ACT 2:11"
+        },
+        {
+          "start_ref": "44027007",
+          "start_ref_usfm": "ACT 27:7",
+          "end_ref": "44027007",
+          "end_ref_usfm": "ACT 27:7"
+        },
+        {
+          "start_ref": "44027008",
+          "start_ref_usfm": "ACT 27:8",
+          "end_ref": "44027008",
+          "end_ref_usfm": "ACT 27:8"
+        },
+        {
+          "start_ref": "44027012",
+          "start_ref_usfm": "ACT 27:12",
+          "end_ref": "44027012",
+          "end_ref_usfm": "ACT 27:12"
+        },
+        {
+          "start_ref": "44027013",
+          "start_ref_usfm": "ACT 27:13",
+          "end_ref": "44027013",
+          "end_ref_usfm": "ACT 27:13"
+        },
+        {
+          "start_ref": "44027021",
+          "start_ref_usfm": "ACT 27:21",
+          "end_ref": "44027021",
+          "end_ref_usfm": "ACT 27:21"
+        },
+        {
+          "start_ref": "56001005",
+          "start_ref_usfm": "TIT 1:5",
+          "end_ref": "56001005",
+          "end_ref_usfm": "TIT 1:5"
+        },
+        {
+          "start_ref": "56001012",
+          "start_ref_usfm": "TIT 1:12",
+          "end_ref": "56001012",
+          "end_ref_usfm": "TIT 1:12"
+        },
+        {
+          "start_ref": "30009007",
+          "start_ref_usfm": "AMO 9:7",
+          "end_ref": "30009008",
+          "end_ref_usfm": "AMO 9:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

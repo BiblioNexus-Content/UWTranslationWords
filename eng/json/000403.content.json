@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 26675,
+    "reference_id": 25817,
+    "title": "Hang",
+    "media_type": "Text",
+    "index_reference": "hang",
+    "language": "eng",
+    "content": "<h1>hang, hung</h1><h2>Definition:</h2><p>The term “hang” means to suspend something or someone above the ground.</p><ul><li><p>In modern times, death by hanging is usually done by tying a rope around a person’s neck and suspending him from an elevated object until he dies. This elevated object can be any number of things, such as a tree or a gallows, that is, a platform built specifically for the purpose of hanging a person in order to kill him.</p></li><li><p>In biblical times, however, ancient cultures may not have killed people by hanging in precisely the same way. For example, Jesus died while hanging on a wooden cross (sometimes called a “tree”), but there was nothing around his neck. The soldiers suspended him by nailing his hands (or wrists) and his feet to the cross.</p></li><li><p>Some ancient cultures “hung” a person by impaling him on a wooden pole in such a way that he was suspended above the ground so that he could not escape. The person would be left there until he died.</p></li><li><p>For many references to death by “hanging” in the Bible, the specific means of death is unknown.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Sam17:23\">2 Samuel 17:23</a></p></li><li><p><a href=\"https://ref.ly/Acts10:39\">Acts 10:39</a></p></li><li><p><a href=\"https://ref.ly/Gal3:13\">Galatians 3:13</a></p></li><li><p><a href=\"https://ref.ly/Gen40:22\">Genesis 40:22</a></p></li><li><p><a href=\"https://ref.ly/Matt27:3-Matt27:5\">Matthew 27:3–5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2614, H3363, H8518, G05190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040019",
+          "start_ref_usfm": "GEN 40:19",
+          "end_ref": "01040019",
+          "end_ref_usfm": "GEN 40:19"
+        },
+        {
+          "start_ref": "01040022",
+          "start_ref_usfm": "GEN 40:22",
+          "end_ref": "01040022",
+          "end_ref_usfm": "GEN 40:22"
+        },
+        {
+          "start_ref": "01041013",
+          "start_ref_usfm": "GEN 41:13",
+          "end_ref": "01041013",
+          "end_ref_usfm": "GEN 41:13"
+        },
+        {
+          "start_ref": "10017023",
+          "start_ref_usfm": "2SA 17:23",
+          "end_ref": "10017023",
+          "end_ref_usfm": "2SA 17:23"
+        },
+        {
+          "start_ref": "15006011",
+          "start_ref_usfm": "EZR 6:11",
+          "end_ref": "15006011",
+          "end_ref_usfm": "EZR 6:11"
+        },
+        {
+          "start_ref": "18026007",
+          "start_ref_usfm": "JOB 26:7",
+          "end_ref": "18026007",
+          "end_ref_usfm": "JOB 26:7"
+        },
+        {
+          "start_ref": "22004004",
+          "start_ref_usfm": "SNG 4:4",
+          "end_ref": "22004004",
+          "end_ref_usfm": "SNG 4:4"
+        },
+        {
+          "start_ref": "40027005",
+          "start_ref_usfm": "MAT 27:5",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        },
+        {
+          "start_ref": "44010039",
+          "start_ref_usfm": "ACT 10:39",
+          "end_ref": "44010039",
+          "end_ref_usfm": "ACT 10:39"
+        },
+        {
+          "start_ref": "48003013",
+          "start_ref_usfm": "GAL 3:13",
+          "end_ref": "48003013",
+          "end_ref_usfm": "GAL 3:13"
+        },
+        {
+          "start_ref": "40027003",
+          "start_ref_usfm": "MAT 27:3",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

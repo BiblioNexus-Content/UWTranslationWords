@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238111,
+    "reference_id": 25980,
+    "title": "Humilde",
+    "media_type": "Text",
+    "index_reference": "humilde",
+    "language": "por",
+    "content": "<h1>humilde, humildade</h1><h2>Definição:</h2><p>Os termos “humilde” e “humildade” referem-se a ser pobre ou ter status baixo. Ser humilde também pode ter o significado de ser modesto.</p><ul><li><p>Jesus se humilhou à posição humilde de se tornar um ser humano e servir aos outros.</p></li><li><p>Seu nascimento foi humilde porque ele nasceu em um lugar onde os animais eram mantidos, não em um palácio.</p></li><li><p>Ter uma atitude humilde é o oposto de ser orgulhoso.</p></li><li><p>Maneiras de traduzir “humilde” poderiam incluir “modesto” ou “de status baixo” ou “sem importância”.</p></li><li><p>A palavra “humildade” também poderia ser traduzida como “modéstia” ou “pouca importância”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25860\" data-resourceType=\"UWTranslationWords\">modesto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26135\" data-resourceType=\"UWTranslationWords\">orgulhoso</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts20:19\">Atos 20.19</a></p></li><li><p><a href=\"https://ref.ly/Ezek17:14\">Ezequiel 17.14</a></p></li><li><p><a href=\"https://ref.ly/Luke1:48-Luke1:49\">Lucas 1.48–49</a></p></li><li><p><a href=\"https://ref.ly/Rom12:16\">Romanos 12.16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6041, H6819, H8217, G50110, G50120, G50140</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26017014",
+          "start_ref_usfm": "EZK 17:14",
+          "end_ref": "26017014",
+          "end_ref_usfm": "EZK 17:14"
+        },
+        {
+          "start_ref": "44020019",
+          "start_ref_usfm": "ACT 20:19",
+          "end_ref": "44020019",
+          "end_ref_usfm": "ACT 20:19"
+        },
+        {
+          "start_ref": "45012016",
+          "start_ref_usfm": "ROM 12:16",
+          "end_ref": "45012016",
+          "end_ref_usfm": "ROM 12:16"
+        },
+        {
+          "start_ref": "50003021",
+          "start_ref_usfm": "PHP 3:21",
+          "end_ref": "50003021",
+          "end_ref_usfm": "PHP 3:21"
+        },
+        {
+          "start_ref": "59001009",
+          "start_ref_usfm": "JAS 1:9",
+          "end_ref": "59001009",
+          "end_ref_usfm": "JAS 1:9"
+        },
+        {
+          "start_ref": "42001048",
+          "start_ref_usfm": "LUK 1:48",
+          "end_ref": "42001049",
+          "end_ref_usfm": "LUK 1:49"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25860,
+          "content_id": 237993,
+          "label": "Humilde",
+          "language": "por"
+        },
+        {
+          "reference_id": 26135,
+          "content_id": 238265,
+          "label": "Orgulhoso",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

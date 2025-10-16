@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 27123,
+    "reference_id": 26265,
+    "title": "Strong Drink",
+    "media_type": "Text",
+    "index_reference": "strong drink",
+    "language": "eng",
+    "content": "<h1>strong drink</h1><h2>Definition:</h2><p>The term “strong drink” refers to drinks that have been fermented and have alcohol in them.</p><ul><li><p>Alcoholic drinks are made from either grain or fruit and have undergone fermentation.</p></li><li><p>Kinds of “strong drink” include grape wine, palm wine, beer, and apple cider. In the Bible, grape wine was the most frequently mentioned strong drink.</p></li><li><p>Priests and anyone who took a special vow such as the “Nazirite vow” were not permitted to drink fermented drinks.</p></li><li><p>This term could also be translated as “fermented drink” or “alcoholic drink.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">grape</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26046\" data-resourceType=\"UWTranslationWords\">Nazirite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">vow</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">wine</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Isa5:11-Isa5:12\">Isaiah 5:11–12</a></p></li><li><p><a href=\"https://ref.ly/Lev10:9\">Leviticus 10:9</a></p></li><li><p><a href=\"https://ref.ly/Luke1:14-Luke1:15\">Luke 1:14–15</a></p></li><li><p><a href=\"https://ref.ly/Num6:3\">Numbers 6:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5435, H7941, G46080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03010009",
+          "start_ref_usfm": "LEV 10:9",
+          "end_ref": "03010009",
+          "end_ref_usfm": "LEV 10:9"
+        },
+        {
+          "start_ref": "04006003",
+          "start_ref_usfm": "NUM 6:3",
+          "end_ref": "04006003",
+          "end_ref_usfm": "NUM 6:3"
+        },
+        {
+          "start_ref": "20020001",
+          "start_ref_usfm": "PRO 20:1",
+          "end_ref": "20020001",
+          "end_ref_usfm": "PRO 20:1"
+        },
+        {
+          "start_ref": "20031004",
+          "start_ref_usfm": "PRO 31:4",
+          "end_ref": "20031004",
+          "end_ref_usfm": "PRO 31:4"
+        },
+        {
+          "start_ref": "20031006",
+          "start_ref_usfm": "PRO 31:6",
+          "end_ref": "20031006",
+          "end_ref_usfm": "PRO 31:6"
+        },
+        {
+          "start_ref": "42001015",
+          "start_ref_usfm": "LUK 1:15",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42001014",
+          "start_ref_usfm": "LUK 1:14",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 26661,
+          "label": "Grape",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26046,
+          "content_id": 26904,
+          "label": "Nazirite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 27205,
+          "label": "Wine",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

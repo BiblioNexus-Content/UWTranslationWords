@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179885,
+    "reference_id": 25814,
+    "title": "हामात",
+    "media_type": "Text",
+    "index_reference": "हामात",
+    "language": "hin",
+    "content": "<h1>हामात, हमाती, लीबो हामात</h1><h2>तथ्य:</h2><p>हामात उत्तरी सीरिया में कनान के उत्तर में एक महत्वपूर्ण नगर था। हमाती नहू के पुत्र, कनान के वंशज थे।</p><ul><li><p>“लीबो हमात” संभवतः हमात नगर के निकट एक पर्वतीय दर्रे का नाम था।</p></li><li><p>कुछ संस्करणों में लीबो हमात का अनुवाद “हामात का प्रवेश” किया गया है।</p></li><li><p>राजा दाऊद ने हमात के राजा तू के बैरियों को हराया था जिसके परिणामस्वरूप वे अच्छे मित्र बन गए थे।</p></li><li><p>हामात सुलैमान के भण्डारण नगरों में से एक था जहां उसने सामान रखा था।</p></li><li><p>हामात नगर वह स्थान था जहां नबूकदनेस्सर ने राजा सिदकिय्याह की हत्या की थी और वहीं यहोआहाज मिस्र के फिरौन द्वारा बन्दी बनाया गया था।</p></li><li><p>“हामात” का अनुवाद “हामातवासी” भी किया जा सकता है।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">नबूकदनेस्सर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">सीरिया</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">सिदकिय्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 18:3–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 08:9–10</a></p></li><li><p><a href=\"https://ref.ly/Amos6:1-Amos6:2\">आमोस 06:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezek47:15-Ezek47:17\">यहेजकेल 47:15–17</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2574, H2577</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "10008009",
+          "start_ref_usfm": "2SA 8:9",
+          "end_ref": "10008009",
+          "end_ref_usfm": "2SA 8:9"
+        },
+        {
+          "start_ref": "13018003",
+          "start_ref_usfm": "1CH 18:3",
+          "end_ref": "13018004",
+          "end_ref_usfm": "1CH 18:4"
+        },
+        {
+          "start_ref": "30006001",
+          "start_ref_usfm": "AMO 6:1",
+          "end_ref": "30006002",
+          "end_ref_usfm": "AMO 6:2"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 180111,
+          "label": "नबूकदनेस्सर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 180330,
+          "label": "सीरिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 180423,
+          "label": "सिदकिय्याह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

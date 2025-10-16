@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26447,
+    "reference_id": 25589,
+    "title": "Chronicles",
+    "media_type": "Text",
+    "index_reference": "chronicles",
+    "language": "eng",
+    "content": "<h1>chronicles</h1><h2>Definition:</h2><p>The term “chronicle” refers to a written record of events over a period of time.</p><ul><li><p>Two Old Testament books are called “First Book of the Chronicles” and “Second Book of the Chronicles.”</p></li><li><p>The books called “Chronicles” record part of the history of the Israelite people, beginning with a list of people in every generation since Adam.</p></li><li><p>The “First Book of the Chronicles” records the end of King Saul’s life and the events of King David’s reign.</p></li><li><p>The “Second Book of the Chronicles” records the reigns of King Solomon and several other kings, including the building of the temple and the separation of the northern kingdom of Israel from the southern kingdom of Judah.</p></li><li><p>The end of 2 Chronicles describes the beginning of the Babylonian exile.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:24\">1 Chronicles 27:24</a></p></li><li><p><a href=\"https://ref.ly/2Chr33:19\">2 Chronicles 33:19</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Esther 10:1–2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1697</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13027024",
+          "start_ref_usfm": "1CH 27:24",
+          "end_ref": "13027024",
+          "end_ref_usfm": "1CH 27:24"
+        },
+        {
+          "start_ref": "14033019",
+          "start_ref_usfm": "2CH 33:19",
+          "end_ref": "14033019",
+          "end_ref_usfm": "2CH 33:19"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 26579,
+          "label": "Exile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

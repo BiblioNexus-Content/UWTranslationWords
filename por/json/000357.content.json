@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 238008,
+    "reference_id": 25875,
+    "title": "Ferro",
+    "media_type": "Text",
+    "index_reference": "ferro",
+    "language": "por",
+    "content": "<h1>ferro</h1><h2>Definição:</h2><p>Ferro é um metal duro e ligeiramente brilhante que é usado para fazer muitas coisas.</p><ul><li><p>Nos tempos bíblicos, o ferro era usado para fazer moedas, correntes, móveis, ferramentas, armas, carruagens, portões, pregos e outras coisas.</p></li><li><p>O ferro é um metal muito forte.</p></li><li><p>Se a sua cultura não tiver ferro, você pode traduzir este termo com uma expressão geral que o descreva, como &quot;metal duro&quot; ou &quot;metal forte&quot;.</p></li><li><p>Se a sua cultura não tiver ferro, você pode traduzir a frase &quot;uma ferramenta de ferro&quot; como &quot;uma ferramenta feita de metal duro&quot; ou &quot;uma ferramenta de metal forte&quot;.</p></li></ul><p>(Veja também: Como Traduzir Desconhecidos)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25476\" data-resourceType=\"UWTranslationWords\">armadura</span>)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25476,
+          "content_id": 237613,
+          "label": "Armadura",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

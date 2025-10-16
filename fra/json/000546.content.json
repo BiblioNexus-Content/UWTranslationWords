@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467167,
+    "reference_id": 26030,
+    "title": "Mardochée",
+    "media_type": "Text",
+    "index_reference": "mardochée",
+    "language": "fra",
+    "content": "<h1>MARDOCHÉE</h1><h2>Informations sur la personne</h2><p>Mardochée est un Juif qui vit en Perse. Il est le gardien ou père adoptif de sa cousine Esther, qui devient plus tard l&apos;épouse du roi de Perse, Assuérus.</p><ul><li><p>Alors qu&apos;il se trouve au palais royal, Mardochée entend des hommes comploter de tuer le roi Assuérus. Mardochée rapporte cela à Esther, qui le rapporte au roi. Mardochée sauve ainsi la vie du roi.</p></li><li><p>Quelque temps plus tard, lorsque Mardochée entend parler d&apos;un plan de tuer tous les Juifs dans le royaume de Perse, il conseille à Esther de faire appel au roi pour sauver son peuple. Elle le fait, et les Juifs sont sauvés de cette menace.</p></li></ul><p>Voir&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">Comment traduire les noms</span></p><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Assuérus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylone</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Esther</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Perse</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/Esth2:6\">Esther 2.6</a></p></li><li><p><a href=\"https://ref.ly/Esth2:21-Esth2:23\">Esther 2.21–23</a></p></li><li><p><a href=\"https://ref.ly/Esth3:6\">Esther 3.6</a></p></li><li><p><a href=\"https://ref.ly/Esth8:2\">Esther 8.2</a></p></li><li><p><a href=\"https://ref.ly/Esth10:2\">Esther 10.2</a></p></li></ul><h2>Données sur le mot</h2><ul><li><p>Numéro Strong&nbsp;: H4782</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "17002006",
+          "start_ref_usfm": "EST 2:6",
+          "end_ref": "17002006",
+          "end_ref_usfm": "EST 2:6"
+        },
+        {
+          "start_ref": "17003006",
+          "start_ref_usfm": "EST 3:6",
+          "end_ref": "17003006",
+          "end_ref_usfm": "EST 3:6"
+        },
+        {
+          "start_ref": "17008002",
+          "start_ref_usfm": "EST 8:2",
+          "end_ref": "17008002",
+          "end_ref_usfm": "EST 8:2"
+        },
+        {
+          "start_ref": "17010002",
+          "start_ref_usfm": "EST 10:2",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 466620,
+          "label": "Assuérus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 466870,
+          "label": "Esther",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

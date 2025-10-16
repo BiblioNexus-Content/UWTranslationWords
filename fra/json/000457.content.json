@@ -1,0 +1,185 @@
+[
+  {
+    "content_id": 467063,
+    "reference_id": 25918,
+    "title": "Joseph (NT)",
+    "media_type": "Text",
+    "index_reference": "joseph (nt)",
+    "language": "fra",
+    "content": "<h1>Joseph (NT)</h1><h2>Données :</h2><p>Joseph était le père terrestre de Jésus et l&apos;éleva comme son fils.</p><ul><li><p>Joseph était un descendant du roi David.</p></li><li><p>Joseph s&apos;est fiancé à une fille juive nommée Marie. Alors qu&apos;ils étaient fiancés, Dieu l&apos;a choisie pour devenir la mère de Jésus le Messie.</p></li><li><p>Un ange dit à Joseph que le Saint-Esprit avait miraculeusement rendu Marie enceinte, et que le bébé de Marie était le Fils de Dieu.</p></li><li><p>Joseph a cru à l&apos;ange et a obéi à Dieu en prenant Marie comme sa femme.</p></li><li><p>Joseph a gardé Marie vierge jusqu&apos;à la naissance de Jésus.</p></li><li><p>Après la naissance de Jésus, un ange a averti Joseph d&apos;emmener le bébé et Marie en Égypte afin de s&apos;échapper d&apos;Hérode.</p></li><li><p>Joseph et sa famille ont vécu plus tard dans la ville de Nazareth en Galilée, où il gagnait sa vie en faisant la menuiserie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/christ.md), (../names/galilee.md), (../kt/jesus.md), (../names/nazareth.md), (../kt/sonofgod.md), (../other/virgin.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001016",
+          "start_ref_usfm": "MAT 1:16",
+          "end_ref": "40001016",
+          "end_ref_usfm": "MAT 1:16"
+        },
+        {
+          "start_ref": "40001018",
+          "start_ref_usfm": "MAT 1:18",
+          "end_ref": "40001018",
+          "end_ref_usfm": "MAT 1:18"
+        },
+        {
+          "start_ref": "40001019",
+          "start_ref_usfm": "MAT 1:19",
+          "end_ref": "40001019",
+          "end_ref_usfm": "MAT 1:19"
+        },
+        {
+          "start_ref": "40001020",
+          "start_ref_usfm": "MAT 1:20",
+          "end_ref": "40001020",
+          "end_ref_usfm": "MAT 1:20"
+        },
+        {
+          "start_ref": "40001024",
+          "start_ref_usfm": "MAT 1:24",
+          "end_ref": "40001024",
+          "end_ref_usfm": "MAT 1:24"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002013",
+          "end_ref_usfm": "MAT 2:13"
+        },
+        {
+          "start_ref": "40002019",
+          "start_ref_usfm": "MAT 2:19",
+          "end_ref": "40002019",
+          "end_ref_usfm": "MAT 2:19"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002016",
+          "start_ref_usfm": "LUK 2:16",
+          "end_ref": "42002016",
+          "end_ref_usfm": "LUK 2:16"
+        },
+        {
+          "start_ref": "42003023",
+          "start_ref_usfm": "LUK 3:23",
+          "end_ref": "42003023",
+          "end_ref_usfm": "LUK 3:23"
+        },
+        {
+          "start_ref": "42004022",
+          "start_ref_usfm": "LUK 4:22",
+          "end_ref": "42004022",
+          "end_ref_usfm": "LUK 4:22"
+        },
+        {
+          "start_ref": "43001045",
+          "start_ref_usfm": "JHN 1:45",
+          "end_ref": "43001045",
+          "end_ref_usfm": "JHN 1:45"
+        },
+        {
+          "start_ref": "43006042",
+          "start_ref_usfm": "JHN 6:42",
+          "end_ref": "43006042",
+          "end_ref_usfm": "JHN 6:42"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002005",
+          "end_ref_usfm": "LUK 2:5"
+        },
+        {
+          "start_ref": "40002019",
+          "start_ref_usfm": "MAT 2:19",
+          "end_ref": "40002021",
+          "end_ref_usfm": "MAT 2:21"
+        },
+        {
+          "start_ref": "40013054",
+          "start_ref_usfm": "MAT 13:54",
+          "end_ref": "40013056",
+          "end_ref_usfm": "MAT 13:56"
+        },
+        {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001045",
+          "end_ref_usfm": "JHN 1:45"
+        },
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001029",
+          "end_ref_usfm": "LUK 1:29"
+        },
+        {
+          "start_ref": "42002015",
+          "start_ref_usfm": "LUK 2:15",
+          "end_ref": "42002016",
+          "end_ref_usfm": "LUK 2:16"
+        },
+        {
+          "start_ref": "40001018",
+          "start_ref_usfm": "MAT 1:18",
+          "end_ref": "40001019",
+          "end_ref_usfm": "MAT 1:19"
+        },
+        {
+          "start_ref": "40001024",
+          "start_ref_usfm": "MAT 1:24",
+          "end_ref": "40001025",
+          "end_ref_usfm": "MAT 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25766,
+          "content_id": 466917,
+          "label": "Galilée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 467045,
+          "label": "Jésus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26045,
+          "content_id": 467182,
+          "label": "Nazareth",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 467365,
+          "label": "Fils de Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26337,
+          "content_id": 467446,
+          "label": "Vierge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

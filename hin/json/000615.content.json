@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 179835,
+    "reference_id": 25762,
+    "title": "भट्ठा",
+    "media_type": "Text",
+    "index_reference": "भट्ठा",
+    "language": "hin",
+    "content": "<h1>भट्ठा</h1><h2>तथ्य:</h2><p>भट्ठा एक बहुत बड़ा अग्निकुण्ड होता था जिसमें बहुत उच्च तापमान की आग जलती थी।</p><ul><li><p>प्राचीन युग में भट्ठे धातु को पिघलाकर पकाने के बर्तन, गहने, हथियार और मूर्तिया बनाने के लिए धधकाए जाते थे।</p></li><li><p>मिट्टी के बर्तन पकाने के लिए भी भट्ठे जलाए जाते थे।</p></li><li><p>कभी मिट्टी शब्द को रूपक स्वरूप भी काम में लिया जाता है कि बहुत गर्म का भाव व्यक्त हो।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_idol\" data-resourceType=\"UWTranslationWords\">मूरत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">छवि</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 08:51–53</a></p></li><li><p><a href=\"https://ref.ly/Gen19:26-Gen19:28\">उत्पत्ति 19:26–28</a></p></li><li><p><a href=\"https://ref.ly/Prov17:3-Prov17:4\">नीतिवचन 17:3–4</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 021:9–10</a></p></li><li><p><a href=\"https://ref.ly/Rev0:0\">प्रकाशितवाक्य 09:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H861, H3536, H3564, H5948, H8574, G2575</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019028",
+          "start_ref_usfm": "GEN 19:28",
+          "end_ref": "01019028",
+          "end_ref_usfm": "GEN 19:28"
+        },
+        {
+          "start_ref": "02009008",
+          "start_ref_usfm": "EXO 9:8",
+          "end_ref": "02009008",
+          "end_ref_usfm": "EXO 9:8"
+        },
+        {
+          "start_ref": "02009010",
+          "start_ref_usfm": "EXO 9:10",
+          "end_ref": "02009010",
+          "end_ref_usfm": "EXO 9:10"
+        },
+        {
+          "start_ref": "02019018",
+          "start_ref_usfm": "EXO 19:18",
+          "end_ref": "02019018",
+          "end_ref_usfm": "EXO 19:18"
+        },
+        {
+          "start_ref": "11008051",
+          "start_ref_usfm": "1KI 8:51",
+          "end_ref": "11008051",
+          "end_ref_usfm": "1KI 8:51"
+        },
+        {
+          "start_ref": "19021009",
+          "start_ref_usfm": "PSA 21:9",
+          "end_ref": "19021009",
+          "end_ref_usfm": "PSA 21:9"
+        },
+        {
+          "start_ref": "20017003",
+          "start_ref_usfm": "PRO 17:3",
+          "end_ref": "20017003",
+          "end_ref_usfm": "PRO 17:3"
+        },
+        {
+          "start_ref": "20027021",
+          "start_ref_usfm": "PRO 27:21",
+          "end_ref": "20027021",
+          "end_ref_usfm": "PRO 27:21"
+        },
+        {
+          "start_ref": "40013042",
+          "start_ref_usfm": "MAT 13:42",
+          "end_ref": "40013042",
+          "end_ref_usfm": "MAT 13:42"
+        },
+        {
+          "start_ref": "40013050",
+          "start_ref_usfm": "MAT 13:50",
+          "end_ref": "40013050",
+          "end_ref_usfm": "MAT 13:50"
+        },
+        {
+          "start_ref": "66001015",
+          "start_ref_usfm": "REV 1:15",
+          "end_ref": "66001015",
+          "end_ref_usfm": "REV 1:15"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25863,
+          "content_id": 179931,
+          "label": "मूरत/मूरतों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

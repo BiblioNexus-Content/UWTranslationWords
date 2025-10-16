@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 467114,
+    "reference_id": 25974,
+    "title": "Le repas du Seigneur",
+    "media_type": "Text",
+    "index_reference": "le repas du seigneur",
+    "language": "fra",
+    "content": "<h1>Le repas du Seigneur</h1><h2>Définition :</h2><p>Le terme « Le repas du Seigneur » est utilisé par l&apos;apôtre Paul pour désigner le repas de la Pâque que Jésus a mangé avec ses disciples la nuit où il a été arrêté par les dirigeants juifs.</p><ul><li><p>Pendant ce repas, Jésus rompit le pain de la Pâque et l&apos;a appelé son corps qui allait bientôt être battu et tué.</p></li><li><p>Il a appelé la coupe de vin son sang, qui allait bientôt être versé comme un sacrifice pour le péché.</p></li><li><p>Jésus a commandé aussi à ses disciples de partager ce genre de repas ensemble pour se souvenir de sa mort et de sa résurrection.</p></li><li><p>Dans sa lettre aux Corinthiens, l&apos;apôtre Paul a également établi la Cène du Seigneur comme une pratique régulière pour les croyants en Jésus.</p></li><li><p>Certaines Églises aujourd&apos;hui utilisent souvent le terme « communion » pour faire référence à la Cène du Seigneur. Le terme « Dernière Cène » est aussi parfois utilisé.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Ce terme pourrait aussi être traduit comme « repas du Seigneur » ou « le repas de notre Seigneur Jésus » ou « le repas en mémoire du Seigneur Jésus ».</p></li></ul><p>(Voir aussi : (../kt/passover.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46011020",
+          "start_ref_usfm": "1CO 11:20",
+          "end_ref": "46011020",
+          "end_ref_usfm": "1CO 11:20"
+        },
+        {
+          "start_ref": "46011025",
+          "start_ref_usfm": "1CO 11:25",
+          "end_ref": "46011026",
+          "end_ref_usfm": "1CO 11:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26076,
+          "content_id": 467204,
+          "label": "La Pâques",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

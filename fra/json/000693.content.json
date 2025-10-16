@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 467259,
+    "reference_id": 26138,
+    "title": "Provoquer",
+    "media_type": "Text",
+    "index_reference": "provoquer",
+    "language": "fra",
+    "content": "<h1>provoquer</h1><h2>Définition :</h2><p>&quot;Le terme «provoquer» signifie amener quelqu&apos;un à éprouver une réaction négative ou un sentiment.</p><ul><li><p>provoquer quelqu&apos;un à la colère signifie faire quelque chose qui provoque la colère de cette personne * Cela pourrait aussi être traduit par &quot;amener à se mettre en colère» ou « pousser à la colère*&quot;</p></li><li><p>Lorsqu&apos;il est utilisé dans une phrase telle que &quot;ne le provoque pas,&quot; cela pourrait être traduit comme, &quot;ne l&apos;irrite pas» ou «ne le pousse pas à la colère» ou «ne le met pas en colère contre vous*&quot;</p></li></ul><p>(Voir aussi : (../other/angry.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017016",
+          "end_ref_usfm": "ACT 17:16"
+        },
+        {
+          "start_ref": "45010019",
+          "start_ref_usfm": "ROM 10:19",
+          "end_ref": "45010019",
+          "end_ref_usfm": "ROM 10:19"
+        },
+        {
+          "start_ref": "45011011",
+          "start_ref_usfm": "ROM 11:11",
+          "end_ref": "45011011",
+          "end_ref_usfm": "ROM 11:11"
+        },
+        {
+          "start_ref": "45011014",
+          "start_ref_usfm": "ROM 11:14",
+          "end_ref": "45011014",
+          "end_ref_usfm": "ROM 11:14"
+        },
+        {
+          "start_ref": "46013005",
+          "start_ref_usfm": "1CO 13:5",
+          "end_ref": "46013005",
+          "end_ref_usfm": "1CO 13:5"
+        },
+        {
+          "start_ref": "49006004",
+          "start_ref_usfm": "EPH 6:4",
+          "end_ref": "49006004",
+          "end_ref_usfm": "EPH 6:4"
+        },
+        {
+          "start_ref": "51003021",
+          "start_ref_usfm": "COL 3:21",
+          "end_ref": "51003021",
+          "end_ref_usfm": "COL 3:21"
+        },
+        {
+          "start_ref": "26020027",
+          "start_ref_usfm": "EZK 20:27",
+          "end_ref": "26020029",
+          "end_ref_usfm": "EZK 20:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26575,
+    "reference_id": 25717,
+    "title": "Eve",
+    "media_type": "Text",
+    "index_reference": "eve",
+    "language": "eng",
+    "content": "<h1>Eve</h1><h2>Facts:</h2><p>This was the name of the first woman. Her name means “life” or “living.”</p><ul><li><p>God formed Eve from a rib that he took out of Adam.</p></li><li><p>Eve was created to be Adam’s “helper.” She came alongside Adam to assist him in the work that God gave them to do.</p></li><li><p>Eve was tempted by Satan (in the form of a snake) and was the first to sin by eating the fruit that God said not to eat.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">Adam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_life\" data-resourceType=\"UWTranslationWords\">life</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26199\" data-resourceType=\"UWTranslationWords\">Satan</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Tim2:13\">1 Timothy 2:13</a></p></li><li><p><a href=\"https://ref.ly/2Cor11:3\">2 Corinthians 11:3</a></p></li><li><p><a href=\"https://ref.ly/Gen3:20\">Genesis 3:20</a></p></li><li><p><a href=\"https://ref.ly/Gen4:2\">Genesis 4:2</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>1:13</strong> Then God took one of Adam’s ribs and made it into a woman and brought her to him.</p></li><li><p><strong>2:2</strong> But there was a crafty snake in the garden. He asked the woman, “Did God really tell you not to eat the fruit from any of the trees in the garden?”</p></li><li><p><strong>2:11</strong> The man named his wife <strong>Eve</strong>, which means “life-giver,” because she would become the mother of all people.</p></li><li><p><strong>21:1</strong> God promised that a descendant of <strong>Eve</strong> would be born who would crush the snake’s head.</p></li><li><p><strong>48:2</strong> Satan spoke through the snake in the garden in order to deceive <strong>Eve</strong>.</p></li><li><p><strong>49:8</strong> When Adam and <strong>Eve</strong> sinned, it affected all of their descendants.</p></li><li><p><strong>50:16</strong> Because Adam and <strong>Eve</strong> disobeyed God and brought sin into this world, God cursed it and decided to destroy it.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2332, G20960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003020",
+          "start_ref_usfm": "GEN 3:20",
+          "end_ref": "01003020",
+          "end_ref_usfm": "GEN 3:20"
+        },
+        {
+          "start_ref": "01004001",
+          "start_ref_usfm": "GEN 4:1",
+          "end_ref": "01004001",
+          "end_ref_usfm": "GEN 4:1"
+        },
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "47011003",
+          "start_ref_usfm": "2CO 11:3",
+          "end_ref": "47011003",
+          "end_ref_usfm": "2CO 11:3"
+        },
+        {
+          "start_ref": "54002013",
+          "start_ref_usfm": "1TI 2:13",
+          "end_ref": "54002013",
+          "end_ref_usfm": "1TI 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 26287,
+          "label": "Adam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 27057,
+          "label": "Satan",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

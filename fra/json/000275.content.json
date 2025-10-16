@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466908,
+    "reference_id": 25757,
+    "title": "Encens",
+    "media_type": "Text",
+    "index_reference": "encens",
+    "language": "fra",
+    "content": "<h1>encens</h1><h2>Définition :</h2><p>&quot;L&apos; encens est une épice parfumée à base de résine d&apos;arbre* Il est utilisé pour fabriquer des parfums et de l&apos;encens.</p><ul><li><p>C&apos;était une épice importante utilisée pour préparer des cadavres pour les enterrer* Il a également la vertu de guérison naturelle et des propriétés calmantes.</p></li><li><p>Lorsque les rois mages sont venus de l&apos;Orient pour visiter l&apos;enfant Jésus à Bethléem, l&apos;encens était l&apos;un des trois cadeaux qu&apos;ils lui ont apportés.</p></li></ul><p>(Voir aussi : (../names/bethlehem.md), (../other/learnedmen.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030034",
+          "end_ref_usfm": "EXO 30:34"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "16013005",
+          "start_ref_usfm": "NEH 13:5",
+          "end_ref": "16013005",
+          "end_ref_usfm": "NEH 13:5"
+        },
+        {
+          "start_ref": "22004006",
+          "start_ref_usfm": "SNG 4:6",
+          "end_ref": "22004006",
+          "end_ref_usfm": "SNG 4:6"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "13009028",
+          "start_ref_usfm": "1CH 9:28",
+          "end_ref": "13009029",
+          "end_ref_usfm": "1CH 9:29"
+        },
+        {
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030036",
+          "end_ref_usfm": "EXO 30:36"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25962,
+          "content_id": 467102,
+          "label": "Les savants",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

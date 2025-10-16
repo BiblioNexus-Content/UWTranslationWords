@@ -1,0 +1,647 @@
+[
+  {
+    "content_id": 26770,
+    "reference_id": 25912,
+    "title": "John the Baptist",
+    "media_type": "Text",
+    "index_reference": "john the baptist",
+    "language": "eng",
+    "content": "<h1>John (the Baptist)</h1><h2>Facts:</h2><p>John was the son of Zechariah and Elizabeth. Since “John” was a common name, he is often called “John the Baptist” to distinguish him from the other people named John, such as the Apostle John.</p><ul><li><p>John was the prophet whom God sent to prepare people to believe in and follow the Messiah.</p></li><li><p>John told people to confess their sins, turn to God, and stop sinning, so that they would be ready to receive the Messiah.</p></li><li><p>John baptized many people in water as a sign that they were sorry for their sins and were turning away from them.</p></li><li><p>John was called “John the Baptist” because he baptized many people.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25503\" data-resourceType=\"UWTranslationWords\">baptize</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26369\" data-resourceType=\"UWTranslationWords\">Zechariah (NT)</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John3:22-John3:24\">John 3:22–24</a></p></li><li><p><a href=\"https://ref.ly/Luke1:11-Luke1:13\">Luke 1:11–13</a></p></li><li><p><a href=\"https://ref.ly/Luke1:62-Luke1:63\">Luke 1:62–63</a></p></li><li><p><a href=\"https://ref.ly/Luke3:7\">Luke 3:7</a></p></li><li><p><a href=\"https://ref.ly/Luke3:15-Luke3:16\">Luke 3:15–16</a></p></li><li><p><a href=\"https://ref.ly/Luke7:27-Luke7:28\">Luke 7:27–28</a></p></li><li><p><a href=\"https://ref.ly/Matt3:13\">Matthew 3:13</a></p></li><li><p><a href=\"https://ref.ly/Matt11:14\">Matthew 11:14</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>22:2</strong> The angel said to Zechariah, “Your wife will have a son. You will name him <strong>John</strong>. He will be filled with the Holy Spirit, and will prepare the people for Messiah!”</p></li><li><p><strong>22:7</strong> After Elizabeth gave birth to her baby boy, Zechariah and Elizabeth named the baby <strong>John</strong>, as the angel had commanded.</p></li><li><p><strong>24:1</strong> <strong>John</strong>, the son of Zechariah and Elizabeth, grew up and became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.</p></li><li><p><strong>24:2</strong> Many people came out to the wilderness to listen to <strong>John</strong>. He preached to them, saying, “Repent, for the kingdom of God is near!”</p></li><li><p><strong>24:6</strong> The next day, Jesus came to be baptized by <strong>John</strong>. When <strong>John</strong> saw him, he said, “Look! There is the Lamb of God who will take away the sin of the world.”</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G09100 G24910</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003001",
+          "start_ref_usfm": "MAT 3:1",
+          "end_ref": "40003001",
+          "end_ref_usfm": "MAT 3:1"
+        },
+        {
+          "start_ref": "40003004",
+          "start_ref_usfm": "MAT 3:4",
+          "end_ref": "40003004",
+          "end_ref_usfm": "MAT 3:4"
+        },
+        {
+          "start_ref": "40003013",
+          "start_ref_usfm": "MAT 3:13",
+          "end_ref": "40003013",
+          "end_ref_usfm": "MAT 3:13"
+        },
+        {
+          "start_ref": "40003014",
+          "start_ref_usfm": "MAT 3:14",
+          "end_ref": "40003014",
+          "end_ref_usfm": "MAT 3:14"
+        },
+        {
+          "start_ref": "40004012",
+          "start_ref_usfm": "MAT 4:12",
+          "end_ref": "40004012",
+          "end_ref_usfm": "MAT 4:12"
+        },
+        {
+          "start_ref": "40009014",
+          "start_ref_usfm": "MAT 9:14",
+          "end_ref": "40009014",
+          "end_ref_usfm": "MAT 9:14"
+        },
+        {
+          "start_ref": "40011002",
+          "start_ref_usfm": "MAT 11:2",
+          "end_ref": "40011002",
+          "end_ref_usfm": "MAT 11:2"
+        },
+        {
+          "start_ref": "40011004",
+          "start_ref_usfm": "MAT 11:4",
+          "end_ref": "40011004",
+          "end_ref_usfm": "MAT 11:4"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011007",
+          "end_ref_usfm": "MAT 11:7"
+        },
+        {
+          "start_ref": "40011011",
+          "start_ref_usfm": "MAT 11:11",
+          "end_ref": "40011011",
+          "end_ref_usfm": "MAT 11:11"
+        },
+        {
+          "start_ref": "40011012",
+          "start_ref_usfm": "MAT 11:12",
+          "end_ref": "40011012",
+          "end_ref_usfm": "MAT 11:12"
+        },
+        {
+          "start_ref": "40011013",
+          "start_ref_usfm": "MAT 11:13",
+          "end_ref": "40011013",
+          "end_ref_usfm": "MAT 11:13"
+        },
+        {
+          "start_ref": "40011014",
+          "start_ref_usfm": "MAT 11:14",
+          "end_ref": "40011014",
+          "end_ref_usfm": "MAT 11:14"
+        },
+        {
+          "start_ref": "40011018",
+          "start_ref_usfm": "MAT 11:18",
+          "end_ref": "40011018",
+          "end_ref_usfm": "MAT 11:18"
+        },
+        {
+          "start_ref": "40014002",
+          "start_ref_usfm": "MAT 14:2",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "40014003",
+          "start_ref_usfm": "MAT 14:3",
+          "end_ref": "40014003",
+          "end_ref_usfm": "MAT 14:3"
+        },
+        {
+          "start_ref": "40014004",
+          "start_ref_usfm": "MAT 14:4",
+          "end_ref": "40014004",
+          "end_ref_usfm": "MAT 14:4"
+        },
+        {
+          "start_ref": "40014008",
+          "start_ref_usfm": "MAT 14:8",
+          "end_ref": "40014008",
+          "end_ref_usfm": "MAT 14:8"
+        },
+        {
+          "start_ref": "40014010",
+          "start_ref_usfm": "MAT 14:10",
+          "end_ref": "40014010",
+          "end_ref_usfm": "MAT 14:10"
+        },
+        {
+          "start_ref": "40016014",
+          "start_ref_usfm": "MAT 16:14",
+          "end_ref": "40016014",
+          "end_ref_usfm": "MAT 16:14"
+        },
+        {
+          "start_ref": "40017013",
+          "start_ref_usfm": "MAT 17:13",
+          "end_ref": "40017013",
+          "end_ref_usfm": "MAT 17:13"
+        },
+        {
+          "start_ref": "40021025",
+          "start_ref_usfm": "MAT 21:25",
+          "end_ref": "40021025",
+          "end_ref_usfm": "MAT 21:25"
+        },
+        {
+          "start_ref": "40021026",
+          "start_ref_usfm": "MAT 21:26",
+          "end_ref": "40021026",
+          "end_ref_usfm": "MAT 21:26"
+        },
+        {
+          "start_ref": "40021032",
+          "start_ref_usfm": "MAT 21:32",
+          "end_ref": "40021032",
+          "end_ref_usfm": "MAT 21:32"
+        },
+        {
+          "start_ref": "41001004",
+          "start_ref_usfm": "MRK 1:4",
+          "end_ref": "41001004",
+          "end_ref_usfm": "MRK 1:4"
+        },
+        {
+          "start_ref": "41001006",
+          "start_ref_usfm": "MRK 1:6",
+          "end_ref": "41001006",
+          "end_ref_usfm": "MRK 1:6"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        },
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001014",
+          "end_ref_usfm": "MRK 1:14"
+        },
+        {
+          "start_ref": "41002018",
+          "start_ref_usfm": "MRK 2:18",
+          "end_ref": "41002018",
+          "end_ref_usfm": "MRK 2:18"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006014",
+          "end_ref_usfm": "MRK 6:14"
+        },
+        {
+          "start_ref": "41006016",
+          "start_ref_usfm": "MRK 6:16",
+          "end_ref": "41006016",
+          "end_ref_usfm": "MRK 6:16"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006017",
+          "end_ref_usfm": "MRK 6:17"
+        },
+        {
+          "start_ref": "41006018",
+          "start_ref_usfm": "MRK 6:18",
+          "end_ref": "41006018",
+          "end_ref_usfm": "MRK 6:18"
+        },
+        {
+          "start_ref": "41006020",
+          "start_ref_usfm": "MRK 6:20",
+          "end_ref": "41006020",
+          "end_ref_usfm": "MRK 6:20"
+        },
+        {
+          "start_ref": "41006024",
+          "start_ref_usfm": "MRK 6:24",
+          "end_ref": "41006024",
+          "end_ref_usfm": "MRK 6:24"
+        },
+        {
+          "start_ref": "41006025",
+          "start_ref_usfm": "MRK 6:25",
+          "end_ref": "41006025",
+          "end_ref_usfm": "MRK 6:25"
+        },
+        {
+          "start_ref": "41008028",
+          "start_ref_usfm": "MRK 8:28",
+          "end_ref": "41008028",
+          "end_ref_usfm": "MRK 8:28"
+        },
+        {
+          "start_ref": "41011030",
+          "start_ref_usfm": "MRK 11:30",
+          "end_ref": "41011030",
+          "end_ref_usfm": "MRK 11:30"
+        },
+        {
+          "start_ref": "41011032",
+          "start_ref_usfm": "MRK 11:32",
+          "end_ref": "41011032",
+          "end_ref_usfm": "MRK 11:32"
+        },
+        {
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42001060",
+          "start_ref_usfm": "LUK 1:60",
+          "end_ref": "42001060",
+          "end_ref_usfm": "LUK 1:60"
+        },
+        {
+          "start_ref": "42001063",
+          "start_ref_usfm": "LUK 1:63",
+          "end_ref": "42001063",
+          "end_ref_usfm": "LUK 1:63"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42003007",
+          "start_ref_usfm": "LUK 3:7",
+          "end_ref": "42003007",
+          "end_ref_usfm": "LUK 3:7"
+        },
+        {
+          "start_ref": "42003015",
+          "start_ref_usfm": "LUK 3:15",
+          "end_ref": "42003015",
+          "end_ref_usfm": "LUK 3:15"
+        },
+        {
+          "start_ref": "42003016",
+          "start_ref_usfm": "LUK 3:16",
+          "end_ref": "42003016",
+          "end_ref_usfm": "LUK 3:16"
+        },
+        {
+          "start_ref": "42003020",
+          "start_ref_usfm": "LUK 3:20",
+          "end_ref": "42003020",
+          "end_ref_usfm": "LUK 3:20"
+        },
+        {
+          "start_ref": "42005033",
+          "start_ref_usfm": "LUK 5:33",
+          "end_ref": "42005033",
+          "end_ref_usfm": "LUK 5:33"
+        },
+        {
+          "start_ref": "42007018",
+          "start_ref_usfm": "LUK 7:18",
+          "end_ref": "42007018",
+          "end_ref_usfm": "LUK 7:18"
+        },
+        {
+          "start_ref": "42007020",
+          "start_ref_usfm": "LUK 7:20",
+          "end_ref": "42007020",
+          "end_ref_usfm": "LUK 7:20"
+        },
+        {
+          "start_ref": "42007022",
+          "start_ref_usfm": "LUK 7:22",
+          "end_ref": "42007022",
+          "end_ref_usfm": "LUK 7:22"
+        },
+        {
+          "start_ref": "42007024",
+          "start_ref_usfm": "LUK 7:24",
+          "end_ref": "42007024",
+          "end_ref_usfm": "LUK 7:24"
+        },
+        {
+          "start_ref": "42007028",
+          "start_ref_usfm": "LUK 7:28",
+          "end_ref": "42007028",
+          "end_ref_usfm": "LUK 7:28"
+        },
+        {
+          "start_ref": "42007029",
+          "start_ref_usfm": "LUK 7:29",
+          "end_ref": "42007029",
+          "end_ref_usfm": "LUK 7:29"
+        },
+        {
+          "start_ref": "42007033",
+          "start_ref_usfm": "LUK 7:33",
+          "end_ref": "42007033",
+          "end_ref_usfm": "LUK 7:33"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009007",
+          "end_ref_usfm": "LUK 9:7"
+        },
+        {
+          "start_ref": "42009009",
+          "start_ref_usfm": "LUK 9:9",
+          "end_ref": "42009009",
+          "end_ref_usfm": "LUK 9:9"
+        },
+        {
+          "start_ref": "42009019",
+          "start_ref_usfm": "LUK 9:19",
+          "end_ref": "42009019",
+          "end_ref_usfm": "LUK 9:19"
+        },
+        {
+          "start_ref": "42011001",
+          "start_ref_usfm": "LUK 11:1",
+          "end_ref": "42011001",
+          "end_ref_usfm": "LUK 11:1"
+        },
+        {
+          "start_ref": "42020004",
+          "start_ref_usfm": "LUK 20:4",
+          "end_ref": "42020004",
+          "end_ref_usfm": "LUK 20:4"
+        },
+        {
+          "start_ref": "42020006",
+          "start_ref_usfm": "LUK 20:6",
+          "end_ref": "42020006",
+          "end_ref_usfm": "LUK 20:6"
+        },
+        {
+          "start_ref": "43001006",
+          "start_ref_usfm": "JHN 1:6",
+          "end_ref": "43001006",
+          "end_ref_usfm": "JHN 1:6"
+        },
+        {
+          "start_ref": "43001015",
+          "start_ref_usfm": "JHN 1:15",
+          "end_ref": "43001015",
+          "end_ref_usfm": "JHN 1:15"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001019",
+          "end_ref_usfm": "JHN 1:19"
+        },
+        {
+          "start_ref": "43001026",
+          "start_ref_usfm": "JHN 1:26",
+          "end_ref": "43001026",
+          "end_ref_usfm": "JHN 1:26"
+        },
+        {
+          "start_ref": "43001028",
+          "start_ref_usfm": "JHN 1:28",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "43001032",
+          "start_ref_usfm": "JHN 1:32",
+          "end_ref": "43001032",
+          "end_ref_usfm": "JHN 1:32"
+        },
+        {
+          "start_ref": "43001035",
+          "start_ref_usfm": "JHN 1:35",
+          "end_ref": "43001035",
+          "end_ref_usfm": "JHN 1:35"
+        },
+        {
+          "start_ref": "43001040",
+          "start_ref_usfm": "JHN 1:40",
+          "end_ref": "43001040",
+          "end_ref_usfm": "JHN 1:40"
+        },
+        {
+          "start_ref": "43003023",
+          "start_ref_usfm": "JHN 3:23",
+          "end_ref": "43003023",
+          "end_ref_usfm": "JHN 3:23"
+        },
+        {
+          "start_ref": "43003024",
+          "start_ref_usfm": "JHN 3:24",
+          "end_ref": "43003024",
+          "end_ref_usfm": "JHN 3:24"
+        },
+        {
+          "start_ref": "43003025",
+          "start_ref_usfm": "JHN 3:25",
+          "end_ref": "43003025",
+          "end_ref_usfm": "JHN 3:25"
+        },
+        {
+          "start_ref": "43003026",
+          "start_ref_usfm": "JHN 3:26",
+          "end_ref": "43003026",
+          "end_ref_usfm": "JHN 3:26"
+        },
+        {
+          "start_ref": "43003027",
+          "start_ref_usfm": "JHN 3:27",
+          "end_ref": "43003027",
+          "end_ref_usfm": "JHN 3:27"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004001",
+          "end_ref_usfm": "JHN 4:1"
+        },
+        {
+          "start_ref": "43005033",
+          "start_ref_usfm": "JHN 5:33",
+          "end_ref": "43005033",
+          "end_ref_usfm": "JHN 5:33"
+        },
+        {
+          "start_ref": "43005036",
+          "start_ref_usfm": "JHN 5:36",
+          "end_ref": "43005036",
+          "end_ref_usfm": "JHN 5:36"
+        },
+        {
+          "start_ref": "43010040",
+          "start_ref_usfm": "JHN 10:40",
+          "end_ref": "43010040",
+          "end_ref_usfm": "JHN 10:40"
+        },
+        {
+          "start_ref": "43010041",
+          "start_ref_usfm": "JHN 10:41",
+          "end_ref": "43010041",
+          "end_ref_usfm": "JHN 10:41"
+        },
+        {
+          "start_ref": "44001005",
+          "start_ref_usfm": "ACT 1:5",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        },
+        {
+          "start_ref": "44001022",
+          "start_ref_usfm": "ACT 1:22",
+          "end_ref": "44001022",
+          "end_ref_usfm": "ACT 1:22"
+        },
+        {
+          "start_ref": "44010037",
+          "start_ref_usfm": "ACT 10:37",
+          "end_ref": "44010037",
+          "end_ref_usfm": "ACT 10:37"
+        },
+        {
+          "start_ref": "44011016",
+          "start_ref_usfm": "ACT 11:16",
+          "end_ref": "44011016",
+          "end_ref_usfm": "ACT 11:16"
+        },
+        {
+          "start_ref": "44013024",
+          "start_ref_usfm": "ACT 13:24",
+          "end_ref": "44013024",
+          "end_ref_usfm": "ACT 13:24"
+        },
+        {
+          "start_ref": "44013025",
+          "start_ref_usfm": "ACT 13:25",
+          "end_ref": "44013025",
+          "end_ref_usfm": "ACT 13:25"
+        },
+        {
+          "start_ref": "44018025",
+          "start_ref_usfm": "ACT 18:25",
+          "end_ref": "44018025",
+          "end_ref_usfm": "ACT 18:25"
+        },
+        {
+          "start_ref": "44019003",
+          "start_ref_usfm": "ACT 19:3",
+          "end_ref": "44019003",
+          "end_ref_usfm": "ACT 19:3"
+        },
+        {
+          "start_ref": "44019004",
+          "start_ref_usfm": "ACT 19:4",
+          "end_ref": "44019004",
+          "end_ref_usfm": "ACT 19:4"
+        },
+        {
+          "start_ref": "43003022",
+          "start_ref_usfm": "JHN 3:22",
+          "end_ref": "43003024",
+          "end_ref_usfm": "JHN 3:24"
+        },
+        {
+          "start_ref": "42001062",
+          "start_ref_usfm": "LUK 1:62",
+          "end_ref": "42001063",
+          "end_ref_usfm": "LUK 1:63"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42003015",
+          "start_ref_usfm": "LUK 3:15",
+          "end_ref": "42003016",
+          "end_ref_usfm": "LUK 3:16"
+        },
+        {
+          "start_ref": "42007027",
+          "start_ref_usfm": "LUK 7:27",
+          "end_ref": "42007028",
+          "end_ref_usfm": "LUK 7:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25503,
+          "content_id": 26361,
+          "label": "Baptize",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26369,
+          "content_id": 27227,
+          "label": "Zechariah NT",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140157,
+          "content_id": 210684,
+          "label": "John 1:6 (#2)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140226,
+          "content_id": 210753,
+          "label": "John 1:19 (#1)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140250,
+          "content_id": 210777,
+          "label": "John 1:26 (#1)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140257,
+          "content_id": 210784,
+          "label": "John 1:28 (#4)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140295,
+          "content_id": 210822,
+          "label": "John 1:40 (#1)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140489,
+          "content_id": 211016,
+          "label": "John 3:23 (#1)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140496,
+          "content_id": 211023,
+          "label": "John 3:25 (#3)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140790,
+          "content_id": 211317,
+          "label": "John 5:33 (#3)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140794,
+          "content_id": 211321,
+          "label": "John 5:35 (#1)",
+          "language": "eng"
+        },
+        {
+          "reference_id": 141588,
+          "content_id": 212115,
+          "label": "John 10:40 (#2)",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

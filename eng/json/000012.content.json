@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26285,
+    "reference_id": 25427,
+    "title": "Acacia",
+    "media_type": "Text",
+    "index_reference": "acacia",
+    "language": "eng",
+    "content": "<h1>acacia</h1><h2>Definition:</h2><p>The term “acacia” is the name of a common shrub or tree growing in the land of Canaan in ancient times; it is still plentiful in that region today.</p><ul><li><p>The orange-brown wood of the acacia tree is very hard and durable, making it a useful material for building things.</p></li><li><p>This wood is highly resistant to decay because it is so very dense that it keeps out water, and it has natural preservatives that keep insects from destroying it.</p></li><li><p>In the Bible, acacia wood was used to build the tabernacle and the ark of the covenant.</p></li></ul><p>(See also: How to Translate Unknowns)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">ark of the covenant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26278\" data-resourceType=\"UWTranslationWords\">tabernacle</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut10:3-Deut10:4\">Deuteronomy 10:3–4</a></p></li><li><p><a href=\"https://ref.ly/Exod25:3-Exod25:7\">Exodus 25:3–7</a></p></li><li><p><a href=\"https://ref.ly/Exod38:6-Exod38:7\">Exodus 38:6–7</a></p></li><li><p><a href=\"https://ref.ly/Isa41:19-Isa41:20\">Isaiah 41:19–20</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7848</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05010003",
+          "start_ref_usfm": "DEU 10:3",
+          "end_ref": "05010004",
+          "end_ref_usfm": "DEU 10:4"
+        },
+        {
+          "start_ref": "02025003",
+          "start_ref_usfm": "EXO 25:3",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
+        },
+        {
+          "start_ref": "02038006",
+          "start_ref_usfm": "EXO 38:6",
+          "end_ref": "02038007",
+          "end_ref_usfm": "EXO 38:7"
+        },
+        {
+          "start_ref": "23041019",
+          "start_ref_usfm": "ISA 41:19",
+          "end_ref": "23041020",
+          "end_ref_usfm": "ISA 41:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 26333,
+          "label": "Ark of the Covenant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 27136,
+          "label": "Tabernacle",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

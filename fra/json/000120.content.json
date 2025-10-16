@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466704,
+    "reference_id": 25531,
+    "title": "Beth_Sémès",
+    "media_type": "Text",
+    "index_reference": "beth_sémès",
+    "language": "fra",
+    "content": "<h1>Beth_Sémès</h1><h2>Définition :</h2><p>Beth-Sémès était le nom d&apos;une ville cananéenne environ 30 kilomètres à l&apos;ouest de Jérusalem.</p><ul><li><p>Les Israélites ont capturé Beth-Sémès pendant le temps de la direction de Josué.</p></li><li><p>Beth-Sémès était une ville qui a été mise à part comme un lieu de résidence des prêtres lévites.</p></li><li><p>Lorsque les Philistins prenaient l&apos;arche de l&apos;alliance capturée à Jérusalem, Beth-Sémès a été la première ville où ils se sont arrêtés avec.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/arkofthecovenant.md), (../names/canaan.md), (../names/jerusalem.md), (../names/joshua.md), (../names/levite.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "09006009",
+          "start_ref_usfm": "1SA 6:9",
+          "end_ref": "09006009",
+          "end_ref_usfm": "1SA 6:9"
+        },
+        {
+          "start_ref": "11004009",
+          "start_ref_usfm": "1KI 4:9",
+          "end_ref": "11004009",
+          "end_ref_usfm": "1KI 4:9"
+        },
+        {
+          "start_ref": "06019020",
+          "start_ref_usfm": "JOS 19:20",
+          "end_ref": "06019022",
+          "end_ref_usfm": "JOS 19:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 466654,
+          "label": "L'arche de l'alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 467065,
+          "label": "Josué",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

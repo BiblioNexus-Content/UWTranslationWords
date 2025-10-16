@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179989,
+    "reference_id": 25922,
+    "title": "योताम",
+    "media_type": "Text",
+    "index_reference": "योताम",
+    "language": "hin",
+    "content": "<h1>योताम</h1><h2>परिभाषा:</h2><p>पुराने नियम में योताम नाम के तीन पुरुष हुए हैं।</p><ul><li><p>एक योताम गिदोन का सबसे छोटा पुत्र था। योताम ने अपने बड़े भाई अबीमेलेक को पराजित करने में सहायता की जिसने अपने अन्य सभी भाइयों को मार डाला था।</p></li><li><p>यहूदा के राजा का नाम भी योताम था, उसने अपने पिता उज्जिय्याह(अजर्याह) के मरणोपरान्त सोलह वर्ष राज किया था।</p></li><li><p>अपने पिता के समान योताम भी परमेश्वर का आज्ञाकारी था और एक अच्छा राजा हुआ था।</p></li><li><p>तथापि उसने मूर्तियों के स्थानों को नष्ट नहीं किया था जिसका परिणाम यह हुआ कि बाद में यहूदावासी फिर मूर्ति-पूजा करने लगे थे।</p></li><li><p>यीशु की वंशावली में भी एक योतान है, मत्ती रचित सुसमाचार में।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25421\" data-resourceType=\"UWTranslationWords\">अबीमेलेक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25440\" data-resourceType=\"UWTranslationWords\">आहाज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25780\" data-resourceType=\"UWTranslationWords\">गिदोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">उज्जियाह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 26:21</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 15:4–5</a></p></li><li><p><a href=\"https://ref.ly/Isa1:1\">यशायाह 01:1</a></p></li><li><p><a href=\"https://ref.ly/Judg9:5-Judg9:6\">न्यायियों 09:5–6</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3147</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015005",
+          "start_ref_usfm": "2KI 15:5",
+          "end_ref": "12015005",
+          "end_ref_usfm": "2KI 15:5"
+        },
+        {
+          "start_ref": "14026021",
+          "start_ref_usfm": "2CH 26:21",
+          "end_ref": "14026021",
+          "end_ref_usfm": "2CH 26:21"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "07009005",
+          "start_ref_usfm": "JDG 9:5",
+          "end_ref": "07009006",
+          "end_ref_usfm": "JDG 9:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25421,
+          "content_id": 179511,
+          "label": "अबीमेलेक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25440,
+          "content_id": 179529,
+          "label": "अहाज",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 180384,
+          "label": "उज्जियाह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 179851,
+          "label": "गिदोन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

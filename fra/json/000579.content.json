@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467166,
+    "reference_id": 26029,
+    "title": "Moloch",
+    "media_type": "Text",
+    "index_reference": "moloch",
+    "language": "fra",
+    "content": "<h1>Moloch, Molek</h1><h2>Définition :</h2><p>Moloch était le nom de l&apos;un des faux dieux que les Cananéens adoraient* Autres orthographes sont &quot;Moloch&quot; et &quot;Molek*&quot;</p><ul><li><p>Les gens qui adoraient Moloch lui sacrifiaient leurs enfants par le moyen du feu.</p></li><li><p>Certains des Israélites aussi adoraient Moloch au lieu du seul vrai Dieu, l&apos;Eternel.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../kt/evil.md), (../kt/falsegod.md), (../kt/god.md), (../kt/falsegod.md), (../other/sacrifice.md), (../kt/true.md), (../kt/worship.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018021",
+          "start_ref_usfm": "LEV 18:21",
+          "end_ref": "03018021",
+          "end_ref_usfm": "LEV 18:21"
+        },
+        {
+          "start_ref": "11011007",
+          "start_ref_usfm": "1KI 11:7",
+          "end_ref": "11011007",
+          "end_ref_usfm": "1KI 11:7"
+        },
+        {
+          "start_ref": "12023010",
+          "start_ref_usfm": "2KI 23:10",
+          "end_ref": "12023010",
+          "end_ref_usfm": "2KI 23:10"
+        },
+        {
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        },
+        {
+          "start_ref": "24032033",
+          "start_ref_usfm": "JER 32:33",
+          "end_ref": "24032035",
+          "end_ref_usfm": "JER 32:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25718,
+          "content_id": 466877,
+          "label": "Le mal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 467465,
+          "label": "Adorer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

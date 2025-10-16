@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467295,
+    "reference_id": 26175,
+    "title": "Révérence",
+    "media_type": "Text",
+    "index_reference": "révérence",
+    "language": "fra",
+    "content": "<h1>révérence, respect, vénérer</h1><h2>Définition :</h2><p>Le terme &quot;révérence&quot; se rapporte à des sentiments de &quot;respect&quot; profond pour quelqu’un ou quelque chose. &quot;Vénérer&quot; quelqu’un ou quelque chose, c’est faire preuve de &quot;respect&quot; envers cette personne ou cette chose.</p><ul><li><p>Les sentiments de &quot;respect profond&quot; peuvent être vus dans les actions qui honorent la personne qui est &quot;vénérée&quot;.</p></li><li><p>La crainte du Seigneur est une &quot;révérence&quot; intérieure qui se manifeste dans l&apos;obéissance aux commandements de Dieu.</p></li><li><p>Le terme &quot;révérence&quot; pourrait aussi être traduit par &quot;le respect profond mêlé de crainte&quot; ou &quot;respect sincère&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">crainte</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honneur</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_obey\" data-resourceType=\"UWTranslationWords\">obéir</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23044017",
+          "start_ref_usfm": "ISA 44:17",
+          "end_ref": "23044017",
+          "end_ref_usfm": "ISA 44:17"
+        },
+        {
+          "start_ref": "45001025",
+          "start_ref_usfm": "ROM 1:25",
+          "end_ref": "45001025",
+          "end_ref_usfm": "ROM 1:25"
+        },
+        {
+          "start_ref": "49005021",
+          "start_ref_usfm": "EPH 5:21",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
+        },
+        {
+          "start_ref": "56002003",
+          "start_ref_usfm": "TIT 2:3",
+          "end_ref": "56002003",
+          "end_ref_usfm": "TIT 2:3"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "60003002",
+          "start_ref_usfm": "1PE 3:2",
+          "end_ref": "60003002",
+          "end_ref_usfm": "1PE 3:2"
+        },
+        {
+          "start_ref": "60001015",
+          "start_ref_usfm": "1PE 1:15",
+          "end_ref": "60001017",
+          "end_ref_usfm": "1PE 1:17"
+        },
+        {
+          "start_ref": "19005007",
+          "start_ref_usfm": "PSA 5:7",
+          "end_ref": "19005008",
+          "end_ref_usfm": "PSA 5:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 466889,
+          "label": "Peur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25846,
+          "content_id": 466993,
+          "label": "Honneur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

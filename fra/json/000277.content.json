@@ -1,0 +1,22 @@
+[
+  {
+    "content_id": 466860,
+    "reference_id": 25700,
+    "title": "Encourager",
+    "media_type": "Text",
+    "index_reference": "encourager",
+    "language": "fra",
+    "content": "<h1>encourager ,encouragement</h1><h2>Définition :</h2><p>Les termes &quot;encourager&quot; et &quot;encouragement&quot;signifient dire et faire des choses pour quelqu&apos;un afin de le reconforter, lui donner espoir,confiance,et courage.</p><ul><li><p>Il signifie aussi &quot;exhorter&quot;,qui veut dire encourager quelqu&apos;un à rejeter une mauvaise action.</p></li><li><p>L&apos;apôtre Paul et d&apos;autres auteurs du Nouveau Testament ont enseigné les chrétiens à s&apos;encourager les uns les autres, à aimer et à servir les autres.</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25720,
+          "content_id": 466879,
+          "label": "Exhorter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

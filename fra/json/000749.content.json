@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466843,
+    "reference_id": 25683,
+    "title": "Sacrifice de boisson",
+    "media_type": "Text",
+    "index_reference": "sacrifice de boisson",
+    "language": "fra",
+    "content": "<h1>sacrifice de boisson</h1><h2>Définition :</h2><p>Un sacrifice de boisson était un sacrifice à Dieu qui comprend le versement de vin sur un autel*Il était souvent offert ensemble avec un sacrifice brûlé et un sacrifice de céréales.</p><ul><li><p>Paul fait allusion à sa vie comme avoir été déversée comme un sacrifice de boisson*Cela veut dire qu&apos;il était totalement dévoué à servir Dieu en parlant aux gens sur Jésus,bien qu&apos;il savait qu&apos;il allait souffrir et probablement être tué à cause de cela.</p></li><li><p>La mort de Jésus sur la croix était le sacrifice de boisson définitif c&apos;est à dire son sang versé sur la croix pour notre péché*.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Another way to translate this term could be “offering of grape wine.”</p></li><li><p>When Paul says he is being “poured out like an offering” this could also be translated as “I am completely committed to teaching God’s message to people, just like an offering of wine is poured out completely on the altar.”</p></li></ul><p>(Voir aussi : (../other/burntoffering.md), (../other/grainoffering.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035014",
+          "start_ref_usfm": "GEN 35:14",
+          "end_ref": "01035014",
+          "end_ref_usfm": "GEN 35:14"
+        },
+        {
+          "start_ref": "02025029",
+          "start_ref_usfm": "EXO 25:29",
+          "end_ref": "02025029",
+          "end_ref_usfm": "EXO 25:29"
+        },
+        {
+          "start_ref": "02029040",
+          "start_ref_usfm": "EXO 29:40",
+          "end_ref": "02029040",
+          "end_ref_usfm": "EXO 29:40"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "26045016",
+          "start_ref_usfm": "EZK 45:16",
+          "end_ref": "26045017",
+          "end_ref_usfm": "EZK 45:17"
+        },
+        {
+          "start_ref": "24007016",
+          "start_ref_usfm": "JER 7:16",
+          "end_ref": "24007018",
+          "end_ref_usfm": "JER 7:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 466951,
+          "label": "Offrande de grain",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

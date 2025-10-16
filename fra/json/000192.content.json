@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466776,
+    "reference_id": 25609,
+    "title": "Consacrer",
+    "media_type": "Text",
+    "index_reference": "consacrer",
+    "language": "fra",
+    "content": "<h1>consacrer, consécration, sanctifier, purifier</h1><h2>Définition :</h2><p>Consacrer signifie mettre quelque chose ou quelqu’un à part pour servir Dieu. Les personnes ou les objets qui sont consacrés sont considérés comme saint et mis à part pour Dieu.</p><ul><li><p>La signification de ce terme est similaire à &quot;sanctifier&quot; ou &quot;rendre saint&quot;, mais avec le sens supplémentaire d’une mise formelle à l&apos;écart au service de Dieu.</p></li><li><p>Les choses qui ont été consacrées à Dieu comprennent les animaux à sacrifier, l&apos;autel des holocaustes, et le tabernacle.</p></li><li><p>Les gens qui étaient consacrés à Dieu comprennent les prêtres, le peuple d&apos;Israël, et l&apos;aîné des enfants de sexe masculin.</p></li><li><p>Parfois, le mot &quot;consacrer&quot; a un sens semblable à &quot;purifier&quot;, surtout quand il se rapporte à la préparation des personnes ou des choses au service de Dieu pour qu’elles soient rendues plus pures et acceptables à ses yeux.</p></li></ul><h2>Traduction suggestions</h2><ul><li><p>Des façons de traduire le terme &quot;consacrer&quot; pourraient inclure, &quot;mis à part pour le service de Dieu&quot; ou &quot;purifié pour le service de Dieu&quot;.</p></li><li><p>Voir également la façon dont les termes &quot;saints&quot; et &quot;sanctifier&quot; sont traduits.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">saint</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26142\" data-resourceType=\"UWTranslationWords\">purifier</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26195\" data-resourceType=\"UWTranslationWords\">sanctifier</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028038",
+          "start_ref_usfm": "EXO 28:38",
+          "end_ref": "02028038",
+          "end_ref_usfm": "EXO 28:38"
+        },
+        {
+          "start_ref": "02029022",
+          "start_ref_usfm": "EXO 29:22",
+          "end_ref": "02029022",
+          "end_ref_usfm": "EXO 29:22"
+        },
+        {
+          "start_ref": "02029026",
+          "start_ref_usfm": "EXO 29:26",
+          "end_ref": "02029026",
+          "end_ref_usfm": "EXO 29:26"
+        },
+        {
+          "start_ref": "02029027",
+          "start_ref_usfm": "EXO 29:27",
+          "end_ref": "02029027",
+          "end_ref_usfm": "EXO 29:27"
+        },
+        {
+          "start_ref": "02029031",
+          "start_ref_usfm": "EXO 29:31",
+          "end_ref": "02029031",
+          "end_ref_usfm": "EXO 29:31"
+        },
+        {
+          "start_ref": "02029034",
+          "start_ref_usfm": "EXO 29:34",
+          "end_ref": "02029034",
+          "end_ref_usfm": "EXO 29:34"
+        },
+        {
+          "start_ref": "15003005",
+          "start_ref_usfm": "EZR 3:5",
+          "end_ref": "15003005",
+          "end_ref_usfm": "EZR 3:5"
+        },
+        {
+          "start_ref": "16003001",
+          "start_ref_usfm": "NEH 3:1",
+          "end_ref": "16003001",
+          "end_ref_usfm": "NEH 3:1"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "16013022",
+          "start_ref_usfm": "NEH 13:22",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "26044019",
+          "start_ref_usfm": "EZK 44:19",
+          "end_ref": "26044019",
+          "end_ref_usfm": "EZK 44:19"
+        },
+        {
+          "start_ref": "36001007",
+          "start_ref_usfm": "ZEP 1:7",
+          "end_ref": "36001007",
+          "end_ref_usfm": "ZEP 1:7"
+        },
+        {
+          "start_ref": "54004003",
+          "start_ref_usfm": "1TI 4:3",
+          "end_ref": "54004005",
+          "end_ref_usfm": "1TI 4:5"
+        },
+        {
+          "start_ref": "14013008",
+          "start_ref_usfm": "2CH 13:8",
+          "end_ref": "14013009",
+          "end_ref_usfm": "2CH 13:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26142,
+          "content_id": 467263,
+          "label": "Purifier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26195,
+          "content_id": 467314,
+          "label": "Sanctifier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

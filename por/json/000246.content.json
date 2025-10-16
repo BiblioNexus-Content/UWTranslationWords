@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 237773,
+    "reference_id": 25640,
+    "title": "Damasco",
+    "media_type": "Text",
+    "index_reference": "damasco",
+    "language": "por",
+    "content": "<h1>Damasco</h1><h2>Fatos:</h2><p>Damasco é a capital do país Síria. Ainda está na mesma localização que estava nos tempos bíblicos.</p><ul><li><p>Damasco é uma das cidades mais antigas continuamente habitadas do mundo.</p></li><li><p>Durante o tempo de Abraão, Damasco era a capital do reino de Arã (localizado no que agora é a Síria).</p></li><li><p>Ao longo do Antigo Testamento, há muitas referências às interações entre os habitantes de Damasco e o povo de Israel.</p></li><li><p>Várias profecias bíblicas preveem a destruição de Damasco. Essas profecias podem ter sido cumpridas quando a Assíria destruiu a cidade durante os tempos do Antigo Testamento, ou pode haver também uma futura destruição mais completa desta cidade.</p></li><li><p>No Novo Testamento, o fariseu Saulo (mais tarde conhecido como Paulo) estava a caminho de prender cristãos na cidade de Damasco quando Jesus o confrontou e o fez se tornar um crente.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Arã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assíria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">crer</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr24:23-2Chr24:24\">2 Crônicas 24.23–24</a></p></li><li><p><a href=\"https://ref.ly/Acts9:1-Acts9:2\">Atos 9.1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts9:3\">Atos 9.3</a></p></li><li><p><a href=\"https://ref.ly/Acts26:12\">Atos 26.12</a></p></li><li><p><a href=\"https://ref.ly/Gal1:15-Gal1:17\">Gálatas 1.15–17</a></p></li><li><p><a href=\"https://ref.ly/Gen14:15-Gen14:16\">Gênesis 14.15–16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1834, G11540</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014015",
+          "start_ref_usfm": "GEN 14:15",
+          "end_ref": "01014015",
+          "end_ref_usfm": "GEN 14:15"
+        },
+        {
+          "start_ref": "01015002",
+          "start_ref_usfm": "GEN 15:2",
+          "end_ref": "01015002",
+          "end_ref_usfm": "GEN 15:2"
+        },
+        {
+          "start_ref": "44009002",
+          "start_ref_usfm": "ACT 9:2",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44009003",
+          "start_ref_usfm": "ACT 9:3",
+          "end_ref": "44009003",
+          "end_ref_usfm": "ACT 9:3"
+        },
+        {
+          "start_ref": "44009008",
+          "start_ref_usfm": "ACT 9:8",
+          "end_ref": "44009008",
+          "end_ref_usfm": "ACT 9:8"
+        },
+        {
+          "start_ref": "44009010",
+          "start_ref_usfm": "ACT 9:10",
+          "end_ref": "44009010",
+          "end_ref_usfm": "ACT 9:10"
+        },
+        {
+          "start_ref": "44009019",
+          "start_ref_usfm": "ACT 9:19",
+          "end_ref": "44009019",
+          "end_ref_usfm": "ACT 9:19"
+        },
+        {
+          "start_ref": "44009022",
+          "start_ref_usfm": "ACT 9:22",
+          "end_ref": "44009022",
+          "end_ref_usfm": "ACT 9:22"
+        },
+        {
+          "start_ref": "44009027",
+          "start_ref_usfm": "ACT 9:27",
+          "end_ref": "44009027",
+          "end_ref_usfm": "ACT 9:27"
+        },
+        {
+          "start_ref": "44022005",
+          "start_ref_usfm": "ACT 22:5",
+          "end_ref": "44022005",
+          "end_ref_usfm": "ACT 22:5"
+        },
+        {
+          "start_ref": "44022006",
+          "start_ref_usfm": "ACT 22:6",
+          "end_ref": "44022006",
+          "end_ref_usfm": "ACT 22:6"
+        },
+        {
+          "start_ref": "44022010",
+          "start_ref_usfm": "ACT 22:10",
+          "end_ref": "44022010",
+          "end_ref_usfm": "ACT 22:10"
+        },
+        {
+          "start_ref": "44022011",
+          "start_ref_usfm": "ACT 22:11",
+          "end_ref": "44022011",
+          "end_ref_usfm": "ACT 22:11"
+        },
+        {
+          "start_ref": "44026012",
+          "start_ref_usfm": "ACT 26:12",
+          "end_ref": "44026012",
+          "end_ref_usfm": "ACT 26:12"
+        },
+        {
+          "start_ref": "44026020",
+          "start_ref_usfm": "ACT 26:20",
+          "end_ref": "44026020",
+          "end_ref_usfm": "ACT 26:20"
+        },
+        {
+          "start_ref": "47011032",
+          "start_ref_usfm": "2CO 11:32",
+          "end_ref": "47011032",
+          "end_ref_usfm": "2CO 11:32"
+        },
+        {
+          "start_ref": "14024023",
+          "start_ref_usfm": "2CH 24:23",
+          "end_ref": "14024024",
+          "end_ref_usfm": "2CH 24:24"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "48001015",
+          "start_ref_usfm": "GAL 1:15",
+          "end_ref": "48001017",
+          "end_ref_usfm": "GAL 1:17"
+        },
+        {
+          "start_ref": "01014015",
+          "start_ref_usfm": "GEN 14:15",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 237608,
+          "label": "Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25488,
+          "content_id": 237625,
+          "label": "Assíria",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 237659,
+          "label": "Acreditar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

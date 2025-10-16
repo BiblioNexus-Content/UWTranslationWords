@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180400,
+    "reference_id": 26348,
+    "title": "दाखरस के कुण्ड",
+    "media_type": "Text",
+    "index_reference": "दाखरस के कुण्ड",
+    "language": "hin",
+    "content": "<h1>दाखरस के कुण्ड</h1><h2>परिभाषा:</h2><p>बाइबल के युग में दाखरस के कुण्ड वे वृहत कुंड या खुले स्थान थे जहाँ दाख का रस निकाला जाता था कि दाखरस तैयार किया जाए।</p><ul><li><p>इस्राएल में दाखरस के ये कुण्ड बहुत बड़े होते थे जिनको कठोर चट्टानों में खोद कर बनाया जाता था। दाख के गुच्छे इन गड्ढों के समतल तल पर डाल कर मनुष्यों द्वारा पांवों से रौंदा जाता था कि दाख रस बहकर बाहर निकले।</p></li><li><p>आमतौर पर एक दाखरस के कुंड का दो स्तर होता है, शीर्ष स्तर पर अंगूरों को कुचल दिया जाता है, जिससे कि रस निचले स्तर पर चला जाएगा जहां वह एकत्र होगा।</p></li><li><p>&quot;दाखरस का कुंड&quot; बाईबल में लाक्षणिक रूप में परमेश्वर के प्रकोप के लिए काम में लिया गया है जो दुष्टों पर उंडेला जाएगा|</p></li></ul><p>(देखें: रूपक)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">अंगूर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26358\" data-resourceType=\"UWTranslationWords\">प्रकोप</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Isa63:2\">यशायाह 63:2</a></p></li><li><p><a href=\"https://ref.ly/Mark12:1\">मरकुस 12:1</a></p></li><li><p><a href=\"https://ref.ly/Matt21:33\">मत्ती 21:33</a></p></li><li><p><a href=\"https://ref.ly/Rev14:20\">प्रकाशितवाक्य 14:20</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1660, H3342, H6333, G3025, G5276</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "23063002",
+          "start_ref_usfm": "ISA 63:2",
+          "end_ref": "23063002",
+          "end_ref_usfm": "ISA 63:2"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "66014019",
+          "start_ref_usfm": "REV 14:19",
+          "end_ref": "66014019",
+          "end_ref_usfm": "REV 14:19"
+        },
+        {
+          "start_ref": "66014020",
+          "start_ref_usfm": "REV 14:20",
+          "end_ref": "66014020",
+          "end_ref_usfm": "REV 14:20"
+        },
+        {
+          "start_ref": "66019015",
+          "start_ref_usfm": "REV 19:15",
+          "end_ref": "66019015",
+          "end_ref_usfm": "REV 19:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 179874,
+          "label": "अंगूर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26358,
+          "content_id": 180410,
+          "label": "क्रोध",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

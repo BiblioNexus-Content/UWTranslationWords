@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467335,
+    "reference_id": 26218,
+    "title": "Seth",
+    "media_type": "Text",
+    "index_reference": "seth",
+    "language": "fra",
+    "content": "<h1>Seth</h1><h2>Définition :</h2><p>Seth était le troisième fils d&apos;Adam et Eve mentionné dans la Bible.</p><ul><li><p>Eve dit que Seth lui a été donné à la place d&apos;Abel, qui a été assassiné par son frère Caïn.</p></li><li><p>Seth est l&apos;ancêtre de Noé et de tout ce monde qui a vécu depuis lors.</p></li><li><p>Les descendants de Seth furent les premiers à &quot;invoquer le nom du Seigneur*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abel.md), (../names/cain.md), (../kt/call.md), (../other/descendant.md), (../other/father.md), (../other/flood.md), (../names/noah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "01004026",
+          "start_ref_usfm": "GEN 4:26",
+          "end_ref": "01004026",
+          "end_ref_usfm": "GEN 4:26"
+        },
+        {
+          "start_ref": "01005003",
+          "start_ref_usfm": "GEN 5:3",
+          "end_ref": "01005003",
+          "end_ref_usfm": "GEN 5:3"
+        },
+        {
+          "start_ref": "01005004",
+          "start_ref_usfm": "GEN 5:4",
+          "end_ref": "01005004",
+          "end_ref_usfm": "GEN 5:4"
+        },
+        {
+          "start_ref": "01005006",
+          "start_ref_usfm": "GEN 5:6",
+          "end_ref": "01005006",
+          "end_ref_usfm": "GEN 5:6"
+        },
+        {
+          "start_ref": "01005007",
+          "start_ref_usfm": "GEN 5:7",
+          "end_ref": "01005007",
+          "end_ref_usfm": "GEN 5:7"
+        },
+        {
+          "start_ref": "01005008",
+          "start_ref_usfm": "GEN 5:8",
+          "end_ref": "01005008",
+          "end_ref_usfm": "GEN 5:8"
+        },
+        {
+          "start_ref": "04024017",
+          "start_ref_usfm": "NUM 24:17",
+          "end_ref": "04024017",
+          "end_ref_usfm": "NUM 24:17"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        },
+        {
+          "start_ref": "42003038",
+          "start_ref_usfm": "LUK 3:38",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25418,
+          "content_id": 466600,
+          "label": "Abel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25565,
+          "content_id": 466736,
+          "label": "Caïn",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 466898,
+          "label": "Inondation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

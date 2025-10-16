@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 467139,
+    "reference_id": 26002,
+    "title": "Offrande de repas",
+    "media_type": "Text",
+    "index_reference": "offrande de repas",
+    "language": "fra",
+    "content": "<h1>Offrande de repas</h1><h2>Définition :</h2><p>Une « offrande de repas» était un sacrifice à Dieu sous la forme de grains ou de pain fait de farine de céréales.</p><ul><li><p>Un autre nom pour ce type de sacrifices est «offrande».</p></li><li><p>Les &quot;offres de repas&quot; sont généralement sacrifiés aux côtés des holocaustes.</p></li></ul><p>(Voir aussi : (../other/burntoffering.md), (../other/grain.md), (../other/sacrifice.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29002014",
+          "start_ref_usfm": "JOL 2:14",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "26044030",
+          "start_ref_usfm": "EZK 44:30",
+          "end_ref": "26044031",
+          "end_ref_usfm": "EZK 44:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

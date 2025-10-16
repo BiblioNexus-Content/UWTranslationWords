@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467273,
+    "reference_id": 26152,
+    "title": "Rama",
+    "media_type": "Text",
+    "index_reference": "rama",
+    "language": "fra",
+    "content": "<h1>Rama</h1><h2>Définition :</h2><p>Rama était une ville antique Israélite située à environ 8 km au nord de Jérusalem*C&apos;était une ville de Benjamin près de Gabaon.</p><ul><li><p>Ramah était situé dans la zone où les descendants de la femme de Jacob, Rachel, vivaient.</p></li><li><p>Quand les Israélites ont été emmenés captifs à Babylone, ils ont d&apos;abord été déportés à Rama avant de passer à Babylone.</p></li><li><p>Rama était la maison de la mère et du père de Samuel.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/benjamin.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09002011",
+          "end_ref_usfm": "1SA 2:11"
+        },
+        {
+          "start_ref": "13027027",
+          "start_ref_usfm": "1CH 27:27",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "14016001",
+          "start_ref_usfm": "2CH 16:1",
+          "end_ref": "14016001",
+          "end_ref_usfm": "2CH 16:1"
+        },
+        {
+          "start_ref": "15002026",
+          "start_ref_usfm": "EZR 2:26",
+          "end_ref": "15002026",
+          "end_ref_usfm": "EZR 2:26"
+        },
+        {
+          "start_ref": "16007030",
+          "start_ref_usfm": "NEH 7:30",
+          "end_ref": "16007030",
+          "end_ref_usfm": "NEH 7:30"
+        },
+        {
+          "start_ref": "16011033",
+          "start_ref_usfm": "NEH 11:33",
+          "end_ref": "16011033",
+          "end_ref_usfm": "NEH 11:33"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "06018025",
+          "start_ref_usfm": "JOS 18:25",
+          "end_ref": "06018028",
+          "end_ref_usfm": "JOS 18:28"
+        },
+        {
+          "start_ref": "40002017",
+          "start_ref_usfm": "MAT 2:17",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

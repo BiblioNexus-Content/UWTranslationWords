@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 466727,
+    "reference_id": 25556,
+    "title": "Soudoyer",
+    "media_type": "Text",
+    "index_reference": "soudoyer",
+    "language": "fra",
+    "content": "<h1>soudoyer</h1><h2>Définition :</h2><p>«Soudoyer» signifie donner à quelqu&apos;un quelque chose de valeur, tels que l&apos;argent, pour influencer cette personne à faire quelque chose de malhonnête.</p><ul><li><p>Les soldats qui gardaient la tombe vide de Jésus avaient été soudoyés avec de l&apos;argent pour mentir au sujet de ce qui est arrivé.</p></li><li><p>Parfois, un fonctionnaire du gouvernement sera soudoyé pour négliger un crime ou de voter d&apos;une certaine façon.</p></li><li><p>La Bible interdit de donner ou de prendre des pots de vin.</p></li><li><p>Le terme, &quot;pot de vin&quot; peut être traduit par «paiement malhonnête» ou «paiement pour le mensonge» ou «prix pour avoir enfreint les règles*&quot;</p></li><li><p>&quot;Soudoyer&quot; pourrait être traduit par un mot ou une expression qui signifie «payer pour influencer (quelqu&apos;un)&quot; ou &quot;payer pour avoir fait une faveur malhonnête&quot; ou &quot;payer pour une faveur*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02023008",
+          "start_ref_usfm": "EXO 23:8",
+          "end_ref": "02023008",
+          "end_ref_usfm": "EXO 23:8"
+        },
+        {
+          "start_ref": "20006035",
+          "start_ref_usfm": "PRO 6:35",
+          "end_ref": "20006035",
+          "end_ref_usfm": "PRO 6:35"
+        },
+        {
+          "start_ref": "20015027",
+          "start_ref_usfm": "PRO 15:27",
+          "end_ref": "20015027",
+          "end_ref_usfm": "PRO 15:27"
+        },
+        {
+          "start_ref": "20017008",
+          "start_ref_usfm": "PRO 17:8",
+          "end_ref": "20017008",
+          "end_ref_usfm": "PRO 17:8"
+        },
+        {
+          "start_ref": "20017023",
+          "start_ref_usfm": "PRO 17:23",
+          "end_ref": "20017023",
+          "end_ref_usfm": "PRO 17:23"
+        },
+        {
+          "start_ref": "20021014",
+          "start_ref_usfm": "PRO 21:14",
+          "end_ref": "20021014",
+          "end_ref_usfm": "PRO 21:14"
+        },
+        {
+          "start_ref": "21007007",
+          "start_ref_usfm": "ECC 7:7",
+          "end_ref": "21007007",
+          "end_ref_usfm": "ECC 7:7"
+        },
+        {
+          "start_ref": "23001023",
+          "start_ref_usfm": "ISA 1:23",
+          "end_ref": "23001023",
+          "end_ref_usfm": "ISA 1:23"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008003",
+          "end_ref_usfm": "1SA 8:3"
+        },
+        {
+          "start_ref": "33003009",
+          "start_ref_usfm": "MIC 3:9",
+          "end_ref": "33003011",
+          "end_ref_usfm": "MIC 3:11"
+        },
+        {
+          "start_ref": "20015027",
+          "start_ref_usfm": "PRO 15:27",
+          "end_ref": "20015028",
+          "end_ref_usfm": "PRO 15:28"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

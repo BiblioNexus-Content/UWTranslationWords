@@ -1,0 +1,221 @@
+[
+  {
+    "content_id": 238499,
+    "reference_id": 26373,
+    "title": "Zorobabel",
+    "media_type": "Text",
+    "index_reference": "zorobabel",
+    "language": "por",
+    "content": "<h1>Zorobabel</h1><h2>Fatos:</h2><p>Zorobabel era o nome de dois homens israelitas no Antigo Testamento.</p><ul><li><p>Um deles era descendente de Jeoaquim e Zedequias.</p></li><li><p>Um diferente Zorobabel, filho de Sealtiel, era o chefe da tribo de Judá durante o tempo de Esdras e Neemias, quando Ciro, rei da Pérsia, libertou os israelitas de seu cativeiro na Babilônia.</p></li><li><p>Zorobabel e o sumo sacerdote Josué estavam entre aqueles que ajudaram a reconstruir o templo e o altar de Deus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25574\" data-resourceType=\"UWTranslationWords\">cativo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25639\" data-resourceType=\"UWTranslationWords\">Ciro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Esdras</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sumo sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">Jeoaquim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Josué</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Neemias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Pérsia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">Zedequias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:19-1Chr3:21\">1 Crônicas 3.19–21</a></p></li><li><p><a href=\"https://ref.ly/Ezra2:1-Ezra2:2\">Esdras 2.1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra3:8-Ezra3:9\">Esdras 3.8–9</a></p></li><li><p><a href=\"https://ref.ly/Luke3:27-Luke3:29\">Lucas 3.27–29</a></p></li><li><p><a href=\"https://ref.ly/Matt1:12\">Mateus 1.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2216, H2217, G22160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "15003002",
+          "start_ref_usfm": "EZR 3:2",
+          "end_ref": "15003002",
+          "end_ref_usfm": "EZR 3:2"
+        },
+        {
+          "start_ref": "15003008",
+          "start_ref_usfm": "EZR 3:8",
+          "end_ref": "15003008",
+          "end_ref_usfm": "EZR 3:8"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15004003",
+          "start_ref_usfm": "EZR 4:3",
+          "end_ref": "15004003",
+          "end_ref_usfm": "EZR 4:3"
+        },
+        {
+          "start_ref": "15005002",
+          "start_ref_usfm": "EZR 5:2",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "16012001",
+          "start_ref_usfm": "NEH 12:1",
+          "end_ref": "16012001",
+          "end_ref_usfm": "NEH 12:1"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001014",
+          "start_ref_usfm": "HAG 1:14",
+          "end_ref": "37001014",
+          "end_ref_usfm": "HAG 1:14"
+        },
+        {
+          "start_ref": "37002002",
+          "start_ref_usfm": "HAG 2:2",
+          "end_ref": "37002002",
+          "end_ref_usfm": "HAG 2:2"
+        },
+        {
+          "start_ref": "37002004",
+          "start_ref_usfm": "HAG 2:4",
+          "end_ref": "37002004",
+          "end_ref_usfm": "HAG 2:4"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002021",
+          "end_ref_usfm": "HAG 2:21"
+        },
+        {
+          "start_ref": "37002023",
+          "start_ref_usfm": "HAG 2:23",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "40001013",
+          "start_ref_usfm": "MAT 1:13",
+          "end_ref": "40001013",
+          "end_ref_usfm": "MAT 1:13"
+        },
+        {
+          "start_ref": "42003027",
+          "start_ref_usfm": "LUK 3:27",
+          "end_ref": "42003027",
+          "end_ref_usfm": "LUK 3:27"
+        },
+        {
+          "start_ref": "15003008",
+          "start_ref_usfm": "EZR 3:8",
+          "end_ref": "15003009",
+          "end_ref_usfm": "EZR 3:9"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "13003019",
+          "start_ref_usfm": "1CH 3:19",
+          "end_ref": "13003021",
+          "end_ref_usfm": "1CH 3:21"
+        },
+        {
+          "start_ref": "42003027",
+          "start_ref_usfm": "LUK 3:27",
+          "end_ref": "42003029",
+          "end_ref_usfm": "LUK 3:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 237709,
+          "label": "Cativo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25639,
+          "content_id": 237772,
+          "label": "Ciro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 237857,
+          "label": "Esdras",
+          "language": "por"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 237969,
+          "label": "Sumo Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 238023,
+          "label": "Jeoiaquim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 238053,
+          "label": "Josué",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 238179,
+          "label": "Neemias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 238221,
+          "label": "Pérsia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 238497,
+          "label": "Zedequias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

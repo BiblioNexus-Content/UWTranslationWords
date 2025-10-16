@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 27080,
+    "reference_id": 26222,
+    "title": "Sheba",
+    "media_type": "Text",
+    "index_reference": "sheba",
+    "language": "eng",
+    "content": "<h1>Sheba</h1><h2>Facts:</h2><p>In ancient times, Sheba was an ancient civilization or region of land that was located somewhere in southern Arabia.</p><ul><li><p>The region or country of Sheba was probably located near what are now the present-day countries of Yemen and Ethiopia.</p></li><li><p>Its inhabitants were probably descendants of Ham.</p></li><li><p>The Queen of Sheba came to visit King Solomon when she heard the fame of his riches and wisdom.</p></li><li><p>There were also several men named “Sheba” listed in genealogies in the Old Testament. It is possible that the name of the region of Sheba came from one of these men.</p></li><li><p>The city of Beersheba was shortened to Sheba one time in the Old Testament.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arabia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">Beersheba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Ethiopia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:8-1Chr1:10\">1 Chronicles 1:8–10</a></p></li><li><p><a href=\"https://ref.ly/1Kgs10:1-1Kgs10:2\">1 Kings 10:1–2</a></p></li><li><p><a href=\"https://ref.ly/Isa60:6-Isa60:7\">Isaiah 60:6–7</a></p></li><li><p><a href=\"https://ref.ly/Ps72:10\">Psalms 72:10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5434, H7614</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "01010028",
+          "start_ref_usfm": "GEN 10:28",
+          "end_ref": "01010028",
+          "end_ref_usfm": "GEN 10:28"
+        },
+        {
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
+        },
+        {
+          "start_ref": "19072010",
+          "start_ref_usfm": "PSA 72:10",
+          "end_ref": "19072010",
+          "end_ref_usfm": "PSA 72:10"
+        },
+        {
+          "start_ref": "13001008",
+          "start_ref_usfm": "1CH 1:8",
+          "end_ref": "13001010",
+          "end_ref_usfm": "1CH 1:10"
+        },
+        {
+          "start_ref": "11010001",
+          "start_ref_usfm": "1KI 10:1",
+          "end_ref": "11010002",
+          "end_ref_usfm": "1KI 10:2"
+        },
+        {
+          "start_ref": "23060006",
+          "start_ref_usfm": "ISA 60:6",
+          "end_ref": "23060007",
+          "end_ref_usfm": "ISA 60:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 26328,
+          "label": "Arabia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25519,
+          "content_id": 26377,
+          "label": "Beersheba",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 26571,
+          "label": "Ethiopia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238394,
+    "reference_id": 26265,
+    "title": "Bebida Forte",
+    "media_type": "Text",
+    "index_reference": "bebida forte",
+    "language": "por",
+    "content": "<h1>bebida forte</h1><h2>Definição:</h2><p>O termo “bebida forte” refere-se a bebidas que foram fermentadas e contêm álcool.</p><ul><li><p>Bebidas alcoólicas são feitas de grãos ou frutas e passaram por fermentação.</p></li><li><p>Tipos de “bebida forte” incluem vinho de uva, vinho de palma, cerveja e cidra de maçã. Na Bíblia, o vinho de uva era a bebida forte mais frequentemente mencionada.</p></li><li><p>Os sacerdotes e qualquer pessoa que fizesse um voto especial, como o “voto de Nazireu”, não podiam beber bebidas fermentadas.</p></li><li><p>Este termo também pode ser traduzido como “bebida fermentada” ou “bebida alcoólica”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">uva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26046\" data-resourceType=\"UWTranslationWords\">Nazireu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">voto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">vinho</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Isa5:11-Isa5:12\">Isaías 5.11–12</a></p></li><li><p><a href=\"https://ref.ly/Lev10:9\">Levítico 10.9</a></p></li><li><p><a href=\"https://ref.ly/Luke1:14-Luke1:15\">Lucas 1.14–15</a></p></li><li><p><a href=\"https://ref.ly/Num6:3\">Números 6.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5435, H7941, G46080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03010009",
+          "start_ref_usfm": "LEV 10:9",
+          "end_ref": "03010009",
+          "end_ref_usfm": "LEV 10:9"
+        },
+        {
+          "start_ref": "04006003",
+          "start_ref_usfm": "NUM 6:3",
+          "end_ref": "04006003",
+          "end_ref_usfm": "NUM 6:3"
+        },
+        {
+          "start_ref": "20020001",
+          "start_ref_usfm": "PRO 20:1",
+          "end_ref": "20020001",
+          "end_ref_usfm": "PRO 20:1"
+        },
+        {
+          "start_ref": "20031004",
+          "start_ref_usfm": "PRO 31:4",
+          "end_ref": "20031004",
+          "end_ref_usfm": "PRO 31:4"
+        },
+        {
+          "start_ref": "20031006",
+          "start_ref_usfm": "PRO 31:6",
+          "end_ref": "20031006",
+          "end_ref_usfm": "PRO 31:6"
+        },
+        {
+          "start_ref": "42001015",
+          "start_ref_usfm": "LUK 1:15",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42001014",
+          "start_ref_usfm": "LUK 1:14",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 237936,
+          "label": "Uva",
+          "language": "por"
+        },
+        {
+          "reference_id": 26046,
+          "content_id": 238176,
+          "label": "Nazireu",
+          "language": "por"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 238473,
+          "label": "Vinho",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

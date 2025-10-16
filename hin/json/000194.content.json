@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 179646,
+    "reference_id": 25564,
+    "title": "कैफा",
+    "media_type": "Text",
+    "index_reference": "कैफा",
+    "language": "hin",
+    "content": "<h1>कैफा</h1><h2>तथ्य:</h2><p>कैफा यीशु और यूहन्ना बपतिस्मा देनेवाले के समय में इस्राएल का महायाजक था।</p><ul><li><p>यीशु के अभियोग और दण्ड में कैफा ने प्रमुख भूमिका निभाई थी।</p></li><li><p>महायाजक हन्ना और कैफा पतरस और यूहन्ना के अभियोग में उपस्थित थे जब उन्हें एक लंगड़े मनुष्य को चंगा करने के लिए बन्दी बनाया गया था।</p></li><li><p>कैफा ही था जिसने कहा था कि संपूर्ण देश के विनाश की अपेक्षा, उसके स्थान में एक मनुष्य का मरना उचित है। परमेश्वर ने उससे यह भविष्यद्वाणी करवाई थी कि यीशु अपनी प्रजा के उद्धार के निमित्त जान देगा।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25461\" data-resourceType=\"UWTranslationWords\">हन्ना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">महा-याजक</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:7\">प्रे.का. 4:7</a></p></li><li><p><a href=\"https://ref.ly/John18:12\">यूहन्ना 18:12</a></p></li><li><p><a href=\"https://ref.ly/Luke3:2\">लूका 3:2</a></p></li><li><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">मत्ती 26:3–5</a></p></li><li><p><a href=\"https://ref.ly/Matt26:57-Matt26:58\">मत्ती 26:57–58</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G25330</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026003",
+          "end_ref_usfm": "MAT 26:3"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026057",
+          "end_ref_usfm": "MAT 26:57"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011049",
+          "end_ref_usfm": "JHN 11:49"
+        },
+        {
+          "start_ref": "43018012",
+          "start_ref_usfm": "JHN 18:12",
+          "end_ref": "43018012",
+          "end_ref_usfm": "JHN 18:12"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018013",
+          "end_ref_usfm": "JHN 18:13"
+        },
+        {
+          "start_ref": "43018014",
+          "start_ref_usfm": "JHN 18:14",
+          "end_ref": "43018014",
+          "end_ref_usfm": "JHN 18:14"
+        },
+        {
+          "start_ref": "43018024",
+          "start_ref_usfm": "JHN 18:24",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43018028",
+          "start_ref_usfm": "JHN 18:28",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026058",
+          "end_ref_usfm": "MAT 26:58"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25461,
+          "content_id": 179549,
+          "label": "हन्ना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 179905,
+          "label": "महायाजक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

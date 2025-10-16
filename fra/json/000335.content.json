@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466928,
+    "reference_id": 25779,
+    "title": "Gabaon",
+    "media_type": "Text",
+    "index_reference": "gabaon",
+    "language": "fra",
+    "content": "<h1>Gabaon, Gabaonite</h1><h2>Définition :</h2><p>Gabaon était une ville située à environ 13 kilomètres au nord-ouest de Jérusalem. Les habitants de Gabaon étaient les Gabaonites.</p><ul><li><p>Le mot « Gabaonite » se réfère à « un habitant de la région de Canaan appelée la Judée ».</p></li><li><p>Lorsque les Gabaonites ont appris comment les Israélites avaient détruit les villes de Jéricho et Ai, ils ont pris peur. Alors les Gabaonites sont venus vers les dirigeants d&apos;Israël et ont fait semblant d&apos;être des gens d&apos;un pays lointain.</p></li><li><p>Les dirigeants israélites ont été trompés et ont conclu un accord avec les Gabaonites promettant de ne pas les détruire et de les protéger.</p></li></ul><p>(Voir aussi : (../names/gilgal.md), (../names/jericho.md), (../names/jerusalem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008029",
+          "end_ref_usfm": "1CH 8:29"
+        },
+        {
+          "start_ref": "16003007",
+          "start_ref_usfm": "NEH 3:7",
+          "end_ref": "16003007",
+          "end_ref_usfm": "NEH 3:7"
+        },
+        {
+          "start_ref": "11003004",
+          "start_ref_usfm": "1KI 3:4",
+          "end_ref": "11003005",
+          "end_ref_usfm": "1KI 3:5"
+        },
+        {
+          "start_ref": "10002012",
+          "start_ref_usfm": "2SA 2:12",
+          "end_ref": "10002013",
+          "end_ref_usfm": "2SA 2:13"
+        },
+        {
+          "start_ref": "06009003",
+          "start_ref_usfm": "JOS 9:3",
+          "end_ref": "06009005",
+          "end_ref_usfm": "JOS 9:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25782,
+          "content_id": 466931,
+          "label": "Guilgal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

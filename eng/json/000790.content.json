@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 27063,
+    "reference_id": 26205,
+    "title": "Scroll",
+    "media_type": "Text",
+    "index_reference": "scroll",
+    "language": "eng",
+    "content": "<h1>scroll</h1><h2>Definition:</h2><p>In ancient times, a scroll was a type of book made of one long, rolled-up sheet of papyrus or leather.</p><ul><li><p>After writing on a scroll or reading from it, people rolled it up by using the rods attached to its ends.</p></li><li><p>Scrolls were used for legal documents and scripture.</p></li><li><p>Sometimes scrolls that were delivered by a messenger were sealed with wax. If the wax was still present when the scroll was received, then the receiver knew that no one had opened the scroll to read it or write on it since it had been sealed.</p></li><li><p>Scrolls containing the Hebrew Scriptures were read aloud in the synagogues.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26206\" data-resourceType=\"UWTranslationWords\">seal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26276\" data-resourceType=\"UWTranslationWords\">synagogue</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26355\" data-resourceType=\"UWTranslationWords\">word of God</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Jer29:3\">Jeremiah 29:3</a></p></li><li><p><a href=\"https://ref.ly/Luke4:17\">Luke 4:17</a></p></li><li><p><a href=\"https://ref.ly/Num21:14-Num21:15\">Numbers 21:14–15</a></p></li><li><p><a href=\"https://ref.ly/Rev5:2\">Revelation 5:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4039, H4040, H5612, G09740, G09750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15006002",
+          "start_ref_usfm": "EZR 6:2",
+          "end_ref": "15006002",
+          "end_ref_usfm": "EZR 6:2"
+        },
+        {
+          "start_ref": "24029003",
+          "start_ref_usfm": "JER 29:3",
+          "end_ref": "24029003",
+          "end_ref_usfm": "JER 29:3"
+        },
+        {
+          "start_ref": "42004017",
+          "start_ref_usfm": "LUK 4:17",
+          "end_ref": "42004017",
+          "end_ref_usfm": "LUK 4:17"
+        },
+        {
+          "start_ref": "42004020",
+          "start_ref_usfm": "LUK 4:20",
+          "end_ref": "42004020",
+          "end_ref_usfm": "LUK 4:20"
+        },
+        {
+          "start_ref": "55004013",
+          "start_ref_usfm": "2TI 4:13",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "58010007",
+          "start_ref_usfm": "HEB 10:7",
+          "end_ref": "58010007",
+          "end_ref_usfm": "HEB 10:7"
+        },
+        {
+          "start_ref": "66001011",
+          "start_ref_usfm": "REV 1:11",
+          "end_ref": "66001011",
+          "end_ref_usfm": "REV 1:11"
+        },
+        {
+          "start_ref": "66005001",
+          "start_ref_usfm": "REV 5:1",
+          "end_ref": "66005001",
+          "end_ref_usfm": "REV 5:1"
+        },
+        {
+          "start_ref": "66005002",
+          "start_ref_usfm": "REV 5:2",
+          "end_ref": "66005002",
+          "end_ref_usfm": "REV 5:2"
+        },
+        {
+          "start_ref": "66005003",
+          "start_ref_usfm": "REV 5:3",
+          "end_ref": "66005003",
+          "end_ref_usfm": "REV 5:3"
+        },
+        {
+          "start_ref": "66005004",
+          "start_ref_usfm": "REV 5:4",
+          "end_ref": "66005004",
+          "end_ref_usfm": "REV 5:4"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66005008",
+          "start_ref_usfm": "REV 5:8",
+          "end_ref": "66005008",
+          "end_ref_usfm": "REV 5:8"
+        },
+        {
+          "start_ref": "66005009",
+          "start_ref_usfm": "REV 5:9",
+          "end_ref": "66005009",
+          "end_ref_usfm": "REV 5:9"
+        },
+        {
+          "start_ref": "66006014",
+          "start_ref_usfm": "REV 6:14",
+          "end_ref": "66006014",
+          "end_ref_usfm": "REV 6:14"
+        },
+        {
+          "start_ref": "66010008",
+          "start_ref_usfm": "REV 10:8",
+          "end_ref": "66010008",
+          "end_ref_usfm": "REV 10:8"
+        },
+        {
+          "start_ref": "66010009",
+          "start_ref_usfm": "REV 10:9",
+          "end_ref": "66010009",
+          "end_ref_usfm": "REV 10:9"
+        },
+        {
+          "start_ref": "66010010",
+          "start_ref_usfm": "REV 10:10",
+          "end_ref": "66010010",
+          "end_ref_usfm": "REV 10:10"
+        },
+        {
+          "start_ref": "66013008",
+          "start_ref_usfm": "REV 13:8",
+          "end_ref": "66013008",
+          "end_ref_usfm": "REV 13:8"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66020012",
+          "start_ref_usfm": "REV 20:12",
+          "end_ref": "66020012",
+          "end_ref_usfm": "REV 20:12"
+        },
+        {
+          "start_ref": "66021027",
+          "start_ref_usfm": "REV 21:27",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        },
+        {
+          "start_ref": "04021014",
+          "start_ref_usfm": "NUM 21:14",
+          "end_ref": "04021015",
+          "end_ref_usfm": "NUM 21:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26206,
+          "content_id": 27064,
+          "label": "Seal",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26276,
+          "content_id": 27134,
+          "label": "Synagogue",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26355,
+          "content_id": 27213,
+          "label": "Word of God",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

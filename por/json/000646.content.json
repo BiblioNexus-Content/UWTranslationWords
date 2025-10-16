@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 238132,
+    "reference_id": 26002,
+    "title": "Oferta de alimento",
+    "media_type": "Text",
+    "index_reference": "oferta de alimento",
+    "language": "por",
+    "content": "<h1>ofertas de cereal, ofertas de alimento</h1><h2>Definição:</h2><p>Uma &quot;oferta de alimento&quot; ou &quot;oferta de cereais&quot; era um sacrifício a Deus na forma de grãos ou pão feito de farinha de grãos.</p><ul><li><p>O termo &quot;alimento&quot; refere-se a grãos que foram moídos até virar farinha.</p></li><li><p>A farinha era misturada com água ou óleo para fazer um pão uniforme. Às vezes, o óleo era espalhado sobre o pão.</p></li><li><p>Esse tipo de oferta era geralmente oferecido com um holocausto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">holocausto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezek44:30-Ezek44:31\">Ezequiel 44.30–31</a></p></li><li><p><a href=\"https://ref.ly/Joel2:14\">Joel 2.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4503, H8641</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29002014",
+          "start_ref_usfm": "JOL 2:14",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "26044030",
+          "start_ref_usfm": "EZK 44:30",
+          "end_ref": "26044031",
+          "end_ref_usfm": "EZK 44:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 237695,
+          "label": "Holocausto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 237934,
+          "label": "Grão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 467383,
+    "reference_id": 26269,
+    "title": "Sujet",
+    "media_type": "Text",
+    "index_reference": "sujet",
+    "language": "fra",
+    "content": "<h1>sujet, assujettir, se soumettre, être soumis,</h1><h2>Définition :</h2><p>Une personne est le &quot;sujet&quot; de quelqu&apos;un d&apos;autre si elle est sous son autorité. &quot;Être soumis à&quot; Dieu, c&apos;est &quot;obéir&quot; ou &quot;se soumettre à l&apos;autorité de Dieu&quot;.</p><ul><li><p>L&apos;expression, &quot;assujettir&quot;, fait référence à l’action de placer des gens sous l&apos;autorité d&apos;un chef ou d&apos;un dirigeant.</p></li><li><p>&quot;Soumettre quelqu&apos;un à quelque chose&quot; signifie lui faire endurer une expérience pour l&apos;éprouver.</p></li><li><p>Parfois, le terme, &quot;être le sujet de&quot;, est utilisé pour représenter l&apos;état d&apos;être le sujet ou l&apos;objet de quelque chose, comme dans &quot;vous serez le sujet du ridicule&quot;.</p></li><li><p>L&apos;expression, &quot;être soumis à&quot;, signifie la même chose que &quot;se soumettre à&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"26270\" data-resourceType=\"UWTranslationWords\">soumettre</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002051",
+          "start_ref_usfm": "LUK 2:51",
+          "end_ref": "42002051",
+          "end_ref_usfm": "LUK 2:51"
+        },
+        {
+          "start_ref": "42010017",
+          "start_ref_usfm": "LUK 10:17",
+          "end_ref": "42010017",
+          "end_ref_usfm": "LUK 10:17"
+        },
+        {
+          "start_ref": "42010020",
+          "start_ref_usfm": "LUK 10:20",
+          "end_ref": "42010020",
+          "end_ref_usfm": "LUK 10:20"
+        },
+        {
+          "start_ref": "45008007",
+          "start_ref_usfm": "ROM 8:7",
+          "end_ref": "45008007",
+          "end_ref_usfm": "ROM 8:7"
+        },
+        {
+          "start_ref": "45008020",
+          "start_ref_usfm": "ROM 8:20",
+          "end_ref": "45008020",
+          "end_ref_usfm": "ROM 8:20"
+        },
+        {
+          "start_ref": "45013001",
+          "start_ref_usfm": "ROM 13:1",
+          "end_ref": "45013001",
+          "end_ref_usfm": "ROM 13:1"
+        },
+        {
+          "start_ref": "45013005",
+          "start_ref_usfm": "ROM 13:5",
+          "end_ref": "45013005",
+          "end_ref_usfm": "ROM 13:5"
+        },
+        {
+          "start_ref": "46014032",
+          "start_ref_usfm": "1CO 14:32",
+          "end_ref": "46014032",
+          "end_ref_usfm": "1CO 14:32"
+        },
+        {
+          "start_ref": "46015027",
+          "start_ref_usfm": "1CO 15:27",
+          "end_ref": "46015027",
+          "end_ref_usfm": "1CO 15:27"
+        },
+        {
+          "start_ref": "46015028",
+          "start_ref_usfm": "1CO 15:28",
+          "end_ref": "46015028",
+          "end_ref_usfm": "1CO 15:28"
+        },
+        {
+          "start_ref": "46016016",
+          "start_ref_usfm": "1CO 16:16",
+          "end_ref": "46016016",
+          "end_ref_usfm": "1CO 16:16"
+        },
+        {
+          "start_ref": "49005021",
+          "start_ref_usfm": "EPH 5:21",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
+        },
+        {
+          "start_ref": "49005024",
+          "start_ref_usfm": "EPH 5:24",
+          "end_ref": "49005024",
+          "end_ref_usfm": "EPH 5:24"
+        },
+        {
+          "start_ref": "50003021",
+          "start_ref_usfm": "PHP 3:21",
+          "end_ref": "50003021",
+          "end_ref_usfm": "PHP 3:21"
+        },
+        {
+          "start_ref": "56002005",
+          "start_ref_usfm": "TIT 2:5",
+          "end_ref": "56002005",
+          "end_ref_usfm": "TIT 2:5"
+        },
+        {
+          "start_ref": "56002009",
+          "start_ref_usfm": "TIT 2:9",
+          "end_ref": "56002009",
+          "end_ref_usfm": "TIT 2:9"
+        },
+        {
+          "start_ref": "56003001",
+          "start_ref_usfm": "TIT 3:1",
+          "end_ref": "56003001",
+          "end_ref_usfm": "TIT 3:1"
+        },
+        {
+          "start_ref": "58002005",
+          "start_ref_usfm": "HEB 2:5",
+          "end_ref": "58002005",
+          "end_ref_usfm": "HEB 2:5"
+        },
+        {
+          "start_ref": "58002008",
+          "start_ref_usfm": "HEB 2:8",
+          "end_ref": "58002008",
+          "end_ref_usfm": "HEB 2:8"
+        },
+        {
+          "start_ref": "60002013",
+          "start_ref_usfm": "1PE 2:13",
+          "end_ref": "60002013",
+          "end_ref_usfm": "1PE 2:13"
+        },
+        {
+          "start_ref": "60002018",
+          "start_ref_usfm": "1PE 2:18",
+          "end_ref": "60002018",
+          "end_ref_usfm": "1PE 2:18"
+        },
+        {
+          "start_ref": "60003005",
+          "start_ref_usfm": "1PE 3:5",
+          "end_ref": "60003005",
+          "end_ref_usfm": "1PE 3:5"
+        },
+        {
+          "start_ref": "60003022",
+          "start_ref_usfm": "1PE 3:22",
+          "end_ref": "60003022",
+          "end_ref_usfm": "1PE 3:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26270,
+          "content_id": 467384,
+          "label": "Présenter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466757,
+    "reference_id": 25589,
+    "title": "chroniques",
+    "media_type": "Text",
+    "index_reference": "chroniques",
+    "language": "fra",
+    "content": "<h1>CHRONIQUES</h1><p>Le terme «&nbsp;chroniques&nbsp;» désigne une inscription ou un enregistrement écrit des événements qui se déroulent sur une période de temps.</p><ul><li><p>Deux livres de l&apos;Ancien Testament sont appelés Chroniques&nbsp;: «&nbsp;Le Premier Livre des Chroniques&nbsp;» ou 1&nbsp;Chroniques et «&nbsp;Le Deuxième Livre des Chroniques&nbsp;» ou 2&nbsp;Chroniques.</p></li><li><p>Ces deux livres enregistrent une partie de l&apos;histoire du peuple d&apos;Israël, en commençant par une liste de personnes de chaque génération depuis Adam.</p></li><li><p>Le livre de 1&nbsp;Chroniques s&apos;intéresse à la fin de la vie du roi Saül et aux événements du règne du roi David.</p></li><li><p>Le livre de 2 Chroniques parle des règnes du roi Salomon et de plusieurs autres rois. Ce livre parle de la construction du Temple et de la séparation du royaume du Nord (ou royaume d&apos;Israël) d&apos;avec le royaume du Sud (ou royaume de Juda).</p></li><li><p>La fin de 2 Chroniques décrit le début de l&apos;exil à Babylone.</p></li></ul><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylone</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exil</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">royaume d&apos;Israël</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Juda</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomon</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:24\">1 Chroniques 27.24</a></p></li><li><p><a href=\"https://ref.ly/2Chr33:19\">2 Chroniques 33.19</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Esther 10.1–2</a></p></li></ul><h2>Données sur le mot</h2><ul><li><p>Numéro Strong&nbsp;: H1697</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13027024",
+          "start_ref_usfm": "1CH 27:24",
+          "end_ref": "13027024",
+          "end_ref_usfm": "1CH 27:24"
+        },
+        {
+          "start_ref": "14033019",
+          "start_ref_usfm": "2CH 33:19",
+          "end_ref": "14033019",
+          "end_ref_usfm": "2CH 33:19"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 559324,
+          "label": "Exil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

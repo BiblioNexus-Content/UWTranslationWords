@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 466957,
+    "reference_id": 25808,
+    "title": "Habacuc",
+    "media_type": "Text",
+    "index_reference": "habacuc",
+    "language": "fra",
+    "content": "<h1>Habacuc</h1><h2>Définition :</h2><p>&quot;Habacuc était un prophète de l&apos;Ancien Testament qui a vécu probablement pendant le règne du roi Jojakim de Juda.</p><ul><li><p>Ce prophète a écrit le livre d&apos;Habacuc avant la prise de Jérusalem par les Babyloniens vers six cent av*JC</p></li><li><p>Habacuc a prophétisé surtout sur les Chaldéens (Babyloniens) et a été un contemporain du prophète Jérémie.</p></li><li><p>L&apos;une des déclarations les plus influentes de Habacuc est: &quot;le juste vivra par sa foi*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/babylon.md), (../names/jehoiakim.md), (../names/jeremiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001002",
+          "start_ref_usfm": "HAB 1:2",
+          "end_ref": "35001002",
+          "end_ref_usfm": "HAB 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 467035,
+          "label": "Jojakim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 467040,
+          "label": "Jérémie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

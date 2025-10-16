@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 26372,
+    "reference_id": 25514,
+    "title": "Bear-witness_testify",
+    "media_type": "Text",
+    "index_reference": "bear-witness_testify",
+    "language": "eng",
+    "content": "<h1>bear, bear witness, bear false witness, bore witness, borne witness</h1><h2>Facts:</h2><p>Used in this sense, the phrase “bear witness” means to testify about something or give a report about something.</p><ul><li><p>The expression “bear witness” means “testify” or “report what one has seen or experienced.”</p></li><li><p>The expression “bear false witness” means “testify falsely” or “report falsely what one has seen or experienced.”</p></li><li><p>Depending on context, the phrase “bear witness” could be translated as “testify” or “report.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26171\" data-resourceType=\"UWTranslationWords\">report</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">testimony</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26171,
+          "content_id": 27029,
+          "label": "Report",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 27151,
+          "label": "Testimony",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467132,
+    "reference_id": 25994,
+    "title": "Manne",
+    "media_type": "Text",
+    "index_reference": "manne",
+    "language": "fra",
+    "content": "<h1>manne</h1><h2>Définition :</h2><p>La manne était un aliment blanc, semblable à du grain, que Dieu a fourni aux Israélites pendant les 40 années passées dans le désert après leur sortie d&apos;Égypte.</p><ul><li><p>La manne ressemblait à des flocons blancs qui apparaissaient chaque matin sur le sol sous la rosée. Elle avait un goût sucré, comme du miel.</p></li><li><p>Les Israélites ramassaient la manne tous les jours sauf le jour du Sabbat.</p></li><li><p>Concernant la veille du sabbat, Dieu avait dit aux Israélites de ramasser le double de la quantité de manne afin qu&apos;ils n&apos;aient pas à le faire durant leur jour de repos.</p></li><li><p>Le mot « manne » signifie « qu&apos;est-ce que c&apos;est ? » Dans la Bible, la manne est aussi appelée « pain du ciel » et « grain du ciel ».</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>D&apos;autres façons de traduire manne pourraient inclure, « nourriture blanche » ou « la nourriture du ciel ». *Considérez également comment ce terme est traduit dans une traduction de la Bible dans une langue locale ou nationale. (See: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p></li></ul><p>(Voir aussi : (../other/bread.md), (../other/desert.md), (../other/grain.md), (../kt/heaven.md), (../kt/sabbath.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02016027",
+          "start_ref_usfm": "EXO 16:27",
+          "end_ref": "02016027",
+          "end_ref_usfm": "EXO 16:27"
+        },
+        {
+          "start_ref": "02016031",
+          "start_ref_usfm": "EXO 16:31",
+          "end_ref": "02016031",
+          "end_ref_usfm": "EXO 16:31"
+        },
+        {
+          "start_ref": "02016033",
+          "start_ref_usfm": "EXO 16:33",
+          "end_ref": "02016033",
+          "end_ref_usfm": "EXO 16:33"
+        },
+        {
+          "start_ref": "02016035",
+          "start_ref_usfm": "EXO 16:35",
+          "end_ref": "02016035",
+          "end_ref_usfm": "EXO 16:35"
+        },
+        {
+          "start_ref": "05008003",
+          "start_ref_usfm": "DEU 8:3",
+          "end_ref": "05008003",
+          "end_ref_usfm": "DEU 8:3"
+        },
+        {
+          "start_ref": "06005012",
+          "start_ref_usfm": "JOS 5:12",
+          "end_ref": "06005012",
+          "end_ref_usfm": "JOS 5:12"
+        },
+        {
+          "start_ref": "16009020",
+          "start_ref_usfm": "NEH 9:20",
+          "end_ref": "16009020",
+          "end_ref_usfm": "NEH 9:20"
+        },
+        {
+          "start_ref": "43006031",
+          "start_ref_usfm": "JHN 6:31",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        },
+        {
+          "start_ref": "43006049",
+          "start_ref_usfm": "JHN 6:49",
+          "end_ref": "43006049",
+          "end_ref_usfm": "JHN 6:49"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009004",
+          "end_ref_usfm": "HEB 9:4"
+        },
+        {
+          "start_ref": "66002017",
+          "start_ref_usfm": "REV 2:17",
+          "end_ref": "66002017",
+          "end_ref_usfm": "REV 2:17"
+        },
+        {
+          "start_ref": "58009003",
+          "start_ref_usfm": "HEB 9:3",
+          "end_ref": "58009005",
+          "end_ref_usfm": "HEB 9:5"
+        },
+        {
+          "start_ref": "43006030",
+          "start_ref_usfm": "JHN 6:30",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25554,
+          "content_id": 466725,
+          "label": "Pain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140900,
+          "content_id": 357532,
+          "label": "Jean 6.31 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25825,
+          "content_id": 466973,
+          "label": "Ciel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26186,
+          "content_id": 467305,
+          "label": "Sabbat",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

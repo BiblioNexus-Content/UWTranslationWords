@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238263,
+    "reference_id": 26133,
+    "title": "Prostrado",
+    "media_type": "Text",
+    "index_reference": "prostrado",
+    "language": "por",
+    "content": "<h1>prostrado</h1><h2>Definição:</h2><p>O termo “prostrado” significa estar deitado de bruços, esticado no chão.</p><ul><li><p>“Cair prostrado” ou “prostrar-se” diante de alguém significa inclinar-se subitamente de forma extrema ou na frente dessa pessoa.</p></li><li><p>Geralmente, essa posição de estar prostrado é uma resposta que mostra choque, espanto e admiração por algo milagroso que aconteceu. Também mostra honra e respeito pela pessoa a quem se está se inclinando.</p></li><li><p>Estar prostrado também era uma forma de adorar a Deus. As pessoas frequentemente respondiam dessa maneira a Jesus em agradecimento e adoração quando ele fazia um milagre ou para honrá-lo como um grande mestre.</p></li><li><p>Dependendo do contexto, maneiras de traduzir “prostrado” poderiam incluir “inclinou-se baixo com o rosto no chão” ou “adorou-o deitando-se de bruços na frente dele” ou “inclinou-se baixo ao chão em espanto” ou “adorou”.</p></li><li><p>A frase “não nos prostraremos” poderia ser traduzida como “não adoraremos” ou “não nos deitaremos de bruços em adoração” ou “não nos inclinaremos e adoraremos”.</p></li><li><p>“Prostrar-se a” também poderia ser traduzido como “adorar” ou “inclinar-se na frente de”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25494\" data-resourceType=\"UWTranslationWords\">admiração</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25552\" data-resourceType=\"UWTranslationWords\">curvar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs17:36-2Kgs17:38\">2 Reis 17.36–38</a></p></li><li><p><a href=\"https://ref.ly/Gen43:28\">Gênesis 43.28</a></p></li><li><p><a href=\"https://ref.ly/Rev19:3-Rev19:4\">Apocalipse 19.3–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5307, H5457, H6440, H6915, H7812</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043028",
+          "start_ref_usfm": "GEN 43:28",
+          "end_ref": "01043028",
+          "end_ref_usfm": "GEN 43:28"
+        },
+        {
+          "start_ref": "02034008",
+          "start_ref_usfm": "EXO 34:8",
+          "end_ref": "02034008",
+          "end_ref_usfm": "EXO 34:8"
+        },
+        {
+          "start_ref": "12017036",
+          "start_ref_usfm": "2KI 17:36",
+          "end_ref": "12017038",
+          "end_ref_usfm": "2KI 17:38"
+        },
+        {
+          "start_ref": "66019003",
+          "start_ref_usfm": "REV 19:3",
+          "end_ref": "66019004",
+          "end_ref_usfm": "REV 19:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25494,
+          "content_id": 237630,
+          "label": "Admiração",
+          "language": "por"
+        },
+        {
+          "reference_id": 25552,
+          "content_id": 237687,
+          "label": "Curvar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

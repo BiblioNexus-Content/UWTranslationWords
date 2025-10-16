@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466641,
+    "reference_id": 25461,
+    "title": "Anne",
+    "media_type": "Text",
+    "index_reference": "anne",
+    "language": "fra",
+    "content": "<h1>Anne</h1><h2>Définition :</h2><p>Anne était souverain sacrificateur Juif à Jérusalem pendant 10 ans, approximativement de l&apos;an 6 après Jésus-Christ à l&apos;an 15 après Jésus-Christ* Il fut après démis de ses fonctions par le gouvernement Romain, bien qu&apos;il continua d&apos;être un leader infuent parmi les Juifs.</p><ul><li><p>Anne était le beau-père de Caïphe, le souverain sacrificateur officiel pendant le ministère de Jésus.</p></li><li><p>Après leurs retraites, les souverains sacrificateurs gardaient ce titre, avec quelques responsabilités liées à leurs fonctions* Pour cette raison, Anne était toujours appelé souverain sacrificateur pendant que Caïphe et les autres étaient en fonction.</p></li><li><p>Lors de son procès devant les responsables Juifs, on amena Jésus premièrement devant Anne pour être interroger.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/highpriest.md), (../kt/priest.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018013",
+          "end_ref_usfm": "JHN 18:13"
+        },
+        {
+          "start_ref": "43018024",
+          "start_ref_usfm": "JHN 18:24",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "43018022",
+          "start_ref_usfm": "JHN 18:22",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

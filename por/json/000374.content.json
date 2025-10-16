@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237931,
+    "reference_id": 25798,
+    "title": "Fofoca",
+    "media_type": "Text",
+    "index_reference": "fofoca",
+    "language": "por",
+    "content": "<h1>fofoca, fofocas, falar bobagem</h1><h2>Definição:</h2><p>O termo “fofoca” refere-se a falar com alguém sobre os assuntos pessoais de outra pessoa, geralmente de uma maneira negativa e improdutiva. Muitas vezes, o que é falado não foi nem mesmo confirmado como verdadeiro.</p><ul><li><p>A Bíblia diz que espalhar informações negativas sobre as pessoas é errado. Fofoca e calúnia são exemplos desse tipo de discurso negativo.</p></li><li><p>A fofoca é prejudicial para a pessoa de quem se fala, pois muitas vezes prejudica os relacionamentos dessa pessoa com outras pessoas.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26244\" data-resourceType=\"UWTranslationWords\">calúnia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Tim5:13\">1 Timóteo 5.13</a></p></li><li><p><a href=\"https://ref.ly/2Cor12:20\">2 Coríntios 12.20</a></p></li><li><p><a href=\"https://ref.ly/Lev19:15-Lev19:16\">Levítico 19.15–16</a></p></li><li><p><a href=\"https://ref.ly/Prov16:28\">Provérbios 16.28</a></p></li><li><p><a href=\"https://ref.ly/Rom1:29-Rom1:31\">Romanos 1.29–31</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5372, G26360, G53970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20016028",
+          "start_ref_usfm": "PRO 16:28",
+          "end_ref": "20016028",
+          "end_ref_usfm": "PRO 16:28"
+        },
+        {
+          "start_ref": "45001029",
+          "start_ref_usfm": "ROM 1:29",
+          "end_ref": "45001029",
+          "end_ref_usfm": "ROM 1:29"
+        },
+        {
+          "start_ref": "47012020",
+          "start_ref_usfm": "2CO 12:20",
+          "end_ref": "47012020",
+          "end_ref_usfm": "2CO 12:20"
+        },
+        {
+          "start_ref": "54005013",
+          "start_ref_usfm": "1TI 5:13",
+          "end_ref": "54005013",
+          "end_ref_usfm": "1TI 5:13"
+        },
+        {
+          "start_ref": "45001029",
+          "start_ref_usfm": "ROM 1:29",
+          "end_ref": "45001031",
+          "end_ref_usfm": "ROM 1:31"
+        },
+        {
+          "start_ref": "03019015",
+          "start_ref_usfm": "LEV 19:15",
+          "end_ref": "03019016",
+          "end_ref_usfm": "LEV 19:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26244,
+          "content_id": 238373,
+          "label": "Calúnia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

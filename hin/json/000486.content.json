@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179620,
+    "reference_id": 25537,
+    "title": "पहर(बाइबल का समय)",
+    "media_type": "Text",
+    "index_reference": "पहर(बाइबल का समय)",
+    "language": "hin",
+    "content": "<h1>पहर(बाइबल का समय)</h1><h2>परिभाषा:</h2><p>बाइबल के युग में “पहर” रात का एक समय था जिस समय नगर का पहरूआ या सुरक्षाकर्मी बैरी के संकट की चौकसी करता था।</p><ul><li><p>पुराने नियम में इस्राएल के लिए तीन पहर होते थे, पहला, सूर्यास्त से रात्रि 10 बजे तक, दूसरा रात्रि दस बजे से 2 बजे तक, और भोर, 2 बजे से सूर्योदय तक।</p></li><li><p>नये नियम में यहूदी रोमी पद्धति पर चलने लगे थे जिसमें रात चार पहरों में विभाजित थी, पहला (सूर्यास्त से रात्रि 9 बजे तक), दूसरा (रात्रि 9 बजे से मध्यरात्रि 12 बजे तक), तीसरा (मध्यरात्रि 12 बजे से सुबह 3 बजे तक) और चौथा (3 बजे से सूर्योदय तक)।</p></li><li><p>इसका अनुवाद अधिक सामान्य रूप में “उत्तरकालीन संध्या&quot; या &quot;मध्यरात्रि&quot; या &quot;भोर के समय” जो निर्भर करता है कि किस पहर की चर्चा की जा रही है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26342\" data-resourceType=\"UWTranslationWords\">पहर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke12:37-Luke12:38\">लूका 12:37–38</a></p></li><li><p><a href=\"https://ref.ly/Mark6:48-Mark6:50\">मरकुस 6:48–50</a></p></li><li><p><a href=\"https://ref.ly/Matt14:25-Matt14:27\">मत्ती 14:25–27</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 90:3–4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H0821, G54380</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006048",
+          "end_ref_usfm": "MRK 6:48"
+        },
+        {
+          "start_ref": "42012038",
+          "start_ref_usfm": "LUK 12:38",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "42012037",
+          "start_ref_usfm": "LUK 12:37",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006050",
+          "end_ref_usfm": "MRK 6:50"
+        },
+        {
+          "start_ref": "40014025",
+          "start_ref_usfm": "MAT 14:25",
+          "end_ref": "40014027",
+          "end_ref_usfm": "MAT 14:27"
+        },
+        {
+          "start_ref": "19090003",
+          "start_ref_usfm": "PSA 90:3",
+          "end_ref": "19090004",
+          "end_ref_usfm": "PSA 90:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26342,
+          "content_id": 180394,
+          "label": "चौकस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

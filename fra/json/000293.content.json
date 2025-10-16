@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 466901,
+    "reference_id": 25749,
+    "title": "Escabeau",
+    "media_type": "Text",
+    "index_reference": "escabeau",
+    "language": "fra",
+    "content": "<h1>escabeau</h1><h2>Définition :</h2><p>&quot;Le terme «escabeau» fait référence à un objet sur lequel une personne met ses pieds, le plus souvent pour les reposer en position assise* Ce terme a aussi des sens figurés comme la soumission ou le statut inférieur.</p><ul><li><p>Les gens dans les temps bibliques considéraient les pieds comme les parties les moins honorables du corps* Ainsi, un «marchepied» avait encore moins d&apos;honneur, car les pieds reposaient sur lui.</p></li><li><p>Quand Dieu dit: «Je vais faire de mes ennemis mon marchepied», il déclare avoir le pouvoir, le contrôle, et la victoire sur les gens qui se rebellent contre lui* Ils seront humiliés et conquis afin de se soumettre à la volonté de Dieu.</p></li><li><p>Pour &quot;Rendre un culte aux pieds Dieu» signifie se prosterner devant lui quand il est assis sur son trône* Cela traduit à nouveau l&apos;humilité et la soumission à Dieu.</p></li><li><p>David se réfère au temple comme &quot;marchepied&quot; de Dieu* Cela pourrait se référer à son autorité absolue sur son peuple* Cela pourrait aussi être l&apos;image de Dieu le roi assis sur son trône, avec ses pieds reposant sur son marchepied, ce qui signifie que tout lui est soumis.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19110001",
+          "start_ref_usfm": "PSA 110:1",
+          "end_ref": "19110001",
+          "end_ref_usfm": "PSA 110:1"
+        },
+        {
+          "start_ref": "23066001",
+          "start_ref_usfm": "ISA 66:1",
+          "end_ref": "23066001",
+          "end_ref_usfm": "ISA 66:1"
+        },
+        {
+          "start_ref": "40005035",
+          "start_ref_usfm": "MAT 5:35",
+          "end_ref": "40005035",
+          "end_ref_usfm": "MAT 5:35"
+        },
+        {
+          "start_ref": "40022044",
+          "start_ref_usfm": "MAT 22:44",
+          "end_ref": "40022044",
+          "end_ref_usfm": "MAT 22:44"
+        },
+        {
+          "start_ref": "42020043",
+          "start_ref_usfm": "LUK 20:43",
+          "end_ref": "42020043",
+          "end_ref_usfm": "LUK 20:43"
+        },
+        {
+          "start_ref": "44002035",
+          "start_ref_usfm": "ACT 2:35",
+          "end_ref": "44002035",
+          "end_ref_usfm": "ACT 2:35"
+        },
+        {
+          "start_ref": "44007049",
+          "start_ref_usfm": "ACT 7:49",
+          "end_ref": "44007049",
+          "end_ref_usfm": "ACT 7:49"
+        },
+        {
+          "start_ref": "58001013",
+          "start_ref_usfm": "HEB 1:13",
+          "end_ref": "58001013",
+          "end_ref_usfm": "HEB 1:13"
+        },
+        {
+          "start_ref": "58010013",
+          "start_ref_usfm": "HEB 10:13",
+          "end_ref": "58010013",
+          "end_ref_usfm": "HEB 10:13"
+        },
+        {
+          "start_ref": "59002003",
+          "start_ref_usfm": "JAS 2:3",
+          "end_ref": "59002003",
+          "end_ref_usfm": "JAS 2:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

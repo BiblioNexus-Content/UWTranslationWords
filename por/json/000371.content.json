@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238229,
+    "reference_id": 26099,
+    "title": "Filístia",
+    "media_type": "Text",
+    "index_reference": "filístia",
+    "language": "por",
+    "content": "<h1>Filístia</h1><h2>Definição: </h2><p>Filístia é o nome de uma grande região na terra de Canaã, localizada ao longo da costa do Mar Mediterrâneo.</p><ul><li><p>A região estava localizada ao longo da planície costeira muito fértil que se estendia de Jope, no norte, até Gaza, no sul. Tinha cerca de 64 km de comprimento e 16 km de largura.</p></li><li><p>Filístia era ocupada pelos &quot;filisteus&quot;, um grupo poderoso que eram inimigos frequentes dos israelitas.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">filisteus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25769\" data-resourceType=\"UWTranslationWords\">Gaza</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25915\" data-resourceType=\"UWTranslationWords\">Jope</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr10:9-1Chr10:10\">1 Crônicas 10.9–10</a></p></li><li><p><a href=\"https://ref.ly/Joel3:4\">Joel 3.4</a></p></li><li><p><a href=\"https://ref.ly/Ps60:8-Ps60:9\">Salmos 60.8–9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0776 H6429 H6430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015014",
+          "start_ref_usfm": "EXO 15:14",
+          "end_ref": "02015014",
+          "end_ref_usfm": "EXO 15:14"
+        },
+        {
+          "start_ref": "29003004",
+          "start_ref_usfm": "JOL 3:4",
+          "end_ref": "29003004",
+          "end_ref_usfm": "JOL 3:4"
+        },
+        {
+          "start_ref": "13010009",
+          "start_ref_usfm": "1CH 10:9",
+          "end_ref": "13010010",
+          "end_ref_usfm": "1CH 10:10"
+        },
+        {
+          "start_ref": "19060008",
+          "start_ref_usfm": "PSA 60:8",
+          "end_ref": "19060009",
+          "end_ref_usfm": "PSA 60:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25769,
+          "content_id": 237902,
+          "label": "Gaza",
+          "language": "por"
+        },
+        {
+          "reference_id": 25915,
+          "content_id": 238048,
+          "label": "Jope",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466947,
+    "reference_id": 25798,
+    "title": "Calomnie",
+    "media_type": "Text",
+    "index_reference": "calomnie",
+    "language": "fra",
+    "content": "<h1>Calomnie</h1><h2>Définition :</h2><p>&quot;Le terme «calomnie» fait référence au fait de parler des affaires personnelles des gens derrière leur dos d&apos;une manière négative et improductive* Souvent, ce qui est dit n&apos;a pas été confirmé comme vrai.</p><ul><li><p>Le Nouveau Testament dit que la diffusion des informations négatives sur les gens est une mauvaise chose*La calomnie est un exemple de ce genre de discours négatif.</p></li><li><p>la calomnie est nocive pour la personne ou les personnes,étant donné que l&apos;information partagée doit être personnelle et confidentielle.</p></li></ul><p>(Voir aussi : (../other/slander.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20016028",
+          "start_ref_usfm": "PRO 16:28",
+          "end_ref": "20016028",
+          "end_ref_usfm": "PRO 16:28"
+        },
+        {
+          "start_ref": "45001029",
+          "start_ref_usfm": "ROM 1:29",
+          "end_ref": "45001029",
+          "end_ref_usfm": "ROM 1:29"
+        },
+        {
+          "start_ref": "47012020",
+          "start_ref_usfm": "2CO 12:20",
+          "end_ref": "47012020",
+          "end_ref_usfm": "2CO 12:20"
+        },
+        {
+          "start_ref": "54005013",
+          "start_ref_usfm": "1TI 5:13",
+          "end_ref": "54005013",
+          "end_ref_usfm": "1TI 5:13"
+        },
+        {
+          "start_ref": "45001029",
+          "start_ref_usfm": "ROM 1:29",
+          "end_ref": "45001031",
+          "end_ref_usfm": "ROM 1:31"
+        },
+        {
+          "start_ref": "03019015",
+          "start_ref_usfm": "LEV 19:15",
+          "end_ref": "03019016",
+          "end_ref_usfm": "LEV 19:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26244,
+          "content_id": 467359,
+          "label": "Calomnie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467443,
+    "reference_id": 26334,
+    "title": "Voile",
+    "media_type": "Text",
+    "index_reference": "voile",
+    "language": "fra",
+    "content": "<h1>voile, voiles, voilé, dévoilé</h1><h2>Définition :</h2><p>Le terme «voile» fait généralement référence à un morceau de tissu utilisé comme couvre-tête.</p><ul><li><p>couvrir la tête ou le visage pour qu&apos;il ne soit pas visible.</p></li><li><p>Moïse a couvert son visage d&apos;un voile après avoir été en présence de Yahvé, afin que la luminosité de son visage soit cachée aux gens* Dans la Bible, les femmes portaient un voile pour se couvrir la tête et souvent aussi leur visage quand elles étaient en public ou en présence d&apos;hommes.</p></li><li><p>Le verbe &quot;voiler&quot; signifie recouvrir quelque chose d&apos;un voile.</p></li><li><p>Dans certaines versions anglaises, le mot &quot;voile&quot; désigne le rideau épais</p></li><li><p>cela couvrait l&apos;entrée dans le lieu le très saint* Mais &quot;rideau&quot; est un meilleur terme dans ce contexte, car il se réfère à un morceau de tissu lourd et épais.</p></li></ul><h2>Suggestions de traduction</h2><ul><li><p>Le terme &quot;voile&quot; pourrait aussi être traduit par &quot;tissu mince recouvrant&quot; ou &quot;tissu&quot;</p></li><li><p>couvrant &quot;ou&quot; couvre la tête* &quot;</p></li><li><p>Dans certaines cultures, il existe peut-être déjà un terme pour un voile pour les femmes* C&apos;est nécessaire de trouver un mot différent quand il est utilisé pour Moïse.</p></li></ul><p>(Voir aussi : (../names/moses.md))</p><h2>Références bibliques:</h2><ul><li><p>2 Corinthiens 03: 12–13</p></li><li><p>2 Corinthiens 03: 14–16</p></li><li><p>Ézéchiel 13: 17–18</p></li><li><p>Esaïe 47: 1–2</p></li><li><p>Chant de Salomon 04: 3</p></li><li><p>Données Word:</p></li><li><p>Strong &apos;s: H7289, G2665</p></li><li><p>1243</p></li><li><p>Autre</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024065",
+          "start_ref_usfm": "GEN 24:65",
+          "end_ref": "01024065",
+          "end_ref_usfm": "GEN 24:65"
+        },
+        {
+          "start_ref": "01038014",
+          "start_ref_usfm": "GEN 38:14",
+          "end_ref": "01038014",
+          "end_ref_usfm": "GEN 38:14"
+        },
+        {
+          "start_ref": "01038019",
+          "start_ref_usfm": "GEN 38:19",
+          "end_ref": "01038019",
+          "end_ref_usfm": "GEN 38:19"
+        },
+        {
+          "start_ref": "02034033",
+          "start_ref_usfm": "EXO 34:33",
+          "end_ref": "02034033",
+          "end_ref_usfm": "EXO 34:33"
+        },
+        {
+          "start_ref": "22004003",
+          "start_ref_usfm": "SNG 4:3",
+          "end_ref": "22004003",
+          "end_ref_usfm": "SNG 4:3"
+        },
+        {
+          "start_ref": "26013018",
+          "start_ref_usfm": "EZK 13:18",
+          "end_ref": "26013018",
+          "end_ref_usfm": "EZK 13:18"
+        },
+        {
+          "start_ref": "47003013",
+          "start_ref_usfm": "2CO 3:13",
+          "end_ref": "47003013",
+          "end_ref_usfm": "2CO 3:13"
+        },
+        {
+          "start_ref": "47003014",
+          "start_ref_usfm": "2CO 3:14",
+          "end_ref": "47003014",
+          "end_ref_usfm": "2CO 3:14"
+        },
+        {
+          "start_ref": "47003015",
+          "start_ref_usfm": "2CO 3:15",
+          "end_ref": "47003015",
+          "end_ref_usfm": "2CO 3:15"
+        },
+        {
+          "start_ref": "47003016",
+          "start_ref_usfm": "2CO 3:16",
+          "end_ref": "47003016",
+          "end_ref_usfm": "2CO 3:16"
+        },
+        {
+          "start_ref": "47003012",
+          "start_ref_usfm": "2CO 3:12",
+          "end_ref": "47003013",
+          "end_ref_usfm": "2CO 3:13"
+        },
+        {
+          "start_ref": "23047001",
+          "start_ref_usfm": "ISA 47:1",
+          "end_ref": "23047002",
+          "end_ref_usfm": "ISA 47:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179926,
+    "reference_id": 25858,
+    "title": "दाऊद का घराना",
+    "media_type": "Text",
+    "index_reference": "दाऊद का घराना",
+    "language": "hin",
+    "content": "<h1>दाऊद का घराना</h1><h2>तथ्य:</h2><p>“दाऊद के घराने” का अर्थ है राजा दाऊद के वंशज या उसका परिवार।</p><ul><li><p>इसका अनुवाद “दाऊद के वंशज” या “दाऊद का परिवार” या “राजा दाऊद का कुल” हो सकता है</p></li><li><p>क्योंकि यीशु दाऊद का वंशज था वह “दाऊद के घराने” का था।</p></li><li><p>कभी-कभी “दाऊद का घराना” या “दाऊद का वंश” दाऊद के जीवित वंशजों के संदर्भ में भी है।</p></li><li><p>अन्यथा यह उक्ति सामान्यतः उसके सब वंशजों के संदर्भ मे है, जो मर गए उनके भी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">वंशज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25856\" data-resourceType=\"UWTranslationWords\">घराना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">यीशु</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">राजा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 10:19</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 3:6</a></p></li><li><p><a href=\"https://ref.ly/Luke1:69-Luke1:71\">लूका 1:69–71</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 122:5</a></p></li><li><p><a href=\"https://ref.ly/Zech12:7\">जकर्याह 12:7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H1004, H1732, G11380, G36240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003006",
+          "end_ref_usfm": "2SA 3:6"
+        },
+        {
+          "start_ref": "14010019",
+          "start_ref_usfm": "2CH 10:19",
+          "end_ref": "14010019",
+          "end_ref_usfm": "2CH 10:19"
+        },
+        {
+          "start_ref": "19122005",
+          "start_ref_usfm": "PSA 122:5",
+          "end_ref": "19122005",
+          "end_ref_usfm": "PSA 122:5"
+        },
+        {
+          "start_ref": "38012007",
+          "start_ref_usfm": "ZEC 12:7",
+          "end_ref": "38012007",
+          "end_ref_usfm": "ZEC 12:7"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42001069",
+          "start_ref_usfm": "LUK 1:69",
+          "end_ref": "42001071",
+          "end_ref_usfm": "LUK 1:71"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 179736,
+          "label": "अवतरण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25856,
+          "content_id": 179924,
+          "label": "घर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 179967,
+          "label": "यीशु",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 180005,
+          "label": "राजा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

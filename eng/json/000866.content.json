@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 27139,
+    "reference_id": 26281,
+    "title": "Tarsus",
+    "media_type": "Text",
+    "index_reference": "tarsus",
+    "language": "eng",
+    "content": "<h1>Tarsus</h1><h2>Facts:</h2><p>Tarsus was a prosperous city in the Roman province of Cilicia, in what is now south central Turkey.</p><ul><li><p>Tarsus was located along a major river and near the Mediterranean Sea, so it was part of an important trade route.</p></li><li><p>At one time it was the capital of Cilicia.</p></li><li><p>In the New Testament, Tarsus was best known as the hometown of Paul the apostle.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25591\" data-resourceType=\"UWTranslationWords\">Cilicia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">province</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">the sea</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts9:11\">Acts 9:11</a></p></li><li><p><a href=\"https://ref.ly/Acts9:30\">Acts 9:30</a></p></li><li><p><a href=\"https://ref.ly/Acts11:25\">Acts 11:25</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G50180, G50190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009011",
+          "start_ref_usfm": "ACT 9:11",
+          "end_ref": "44009011",
+          "end_ref_usfm": "ACT 9:11"
+        },
+        {
+          "start_ref": "44009030",
+          "start_ref_usfm": "ACT 9:30",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25591,
+          "content_id": 26449,
+          "label": "Cilicia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 26995,
+          "label": "Province",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

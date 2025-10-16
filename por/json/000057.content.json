@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237599,
+    "reference_id": 25461,
+    "title": "Anás",
+    "media_type": "Text",
+    "index_reference": "anás",
+    "language": "por",
+    "content": "<h1>Anás</h1><h2>Fatos:</h2><p>Anás foi o sumo sacerdote judeu em Jerusalém por 10 anos, aproximadamente de 6 d.C. a 15 d.C. Depois ele foi removido do sumo sacerdócio pelo governo romano, embora continuasse a ser um líder influente entre os judeus.</p><ul><li><p>Anás era sogro de Caifás, o sumo sacerdote oficial durante o ministério de Jesus.</p></li><li><p>Quando Jesus estava sendo preso, o genro de Anás, Caifás, era o sumo sacerdote vigente. Anás também é mencionado como sumo sacerdote, no entanto, porque ele era um ex-sumo sacerdote que ainda tinha poder e autoridade sobre o povo.</p></li><li><p>Durante seu julgamento perante os líderes judeus, Jesus foi primeiro levado a Anás para ser interrogado.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sumo sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:5-Acts4:7\">Atos 4.5–7</a></p></li><li><p><a href=\"https://ref.ly/John18:22-John18:24\">João 18.22–24</a></p></li><li><p><a href=\"https://ref.ly/Luke3:2\">Lucas 3.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G04520</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018013",
+          "end_ref_usfm": "JHN 18:13"
+        },
+        {
+          "start_ref": "43018024",
+          "start_ref_usfm": "JHN 18:24",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "43018022",
+          "start_ref_usfm": "JHN 18:22",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25836,
+          "content_id": 237969,
+          "label": "Sumo Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

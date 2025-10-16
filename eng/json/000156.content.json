@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26429,
+    "reference_id": 25571,
+    "title": "Cana",
+    "media_type": "Text",
+    "index_reference": "cana",
+    "language": "eng",
+    "content": "<h1>Cana</h1><h2>Definition:</h2><p>Cana was a village or town in the province of Galilee, located about nine miles north of Nazareth.</p><ul><li><p>Cana was the hometown of Nathanael, one of the Twelve.</p></li><li><p>Jesus attended a wedding feast in Cana and performed his first miracle there when he turned water into wine.</p></li><li><p>Some time after that, Jesus came back to Cana and met an official there from Capernaum who requested healing for his son.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25573\" data-resourceType=\"UWTranslationWords\">Capernaum</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25766\" data-resourceType=\"UWTranslationWords\">Galilee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">the twelve</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John2:1-John2:2\">John 2:1–2</a></p></li><li><p><a href=\"https://ref.ly/John4:46-John4:47\">John 4:46–47</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G25800</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002001",
+          "end_ref_usfm": "JHN 2:1"
+        },
+        {
+          "start_ref": "43002011",
+          "start_ref_usfm": "JHN 2:11",
+          "end_ref": "43002011",
+          "end_ref_usfm": "JHN 2:11"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002002",
+          "end_ref_usfm": "JHN 2:2"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004047",
+          "end_ref_usfm": "JHN 4:47"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25573,
+          "content_id": 26431,
+          "label": "Capernaum",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25766,
+          "content_id": 26624,
+          "label": "Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 27154,
+          "label": "The Twelve",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

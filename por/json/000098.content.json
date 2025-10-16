@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 237625,
+    "reference_id": 25488,
+    "title": "Assíria",
+    "media_type": "Text",
+    "index_reference": "assíria",
+    "language": "por",
+    "content": "<h1>Assíria, Assírio, Império Assírio</h1><h2>Fatos:</h2><p>A Assíria foi uma nação poderosa durante o tempo em que os israelitas viviam na terra de Canaã. O Império Assírio era um grupo de nações governadas por um rei assírio.</p><ul><li><p>A nação da Assíria estava localizada em uma região que atualmente é a parte norte do Iraque.</p></li><li><p>Os assírios lutaram contra Israel em diferentes momentos de sua história.</p></li><li><p>No ano 722 a.C., os assírios conquistaram completamente o reino de Israel e forçaram muitos dos israelitas a se mudarem para a Assíria.</p></li><li><p>Os israelitas restantes casaram-se com estrangeiros que os assírios trouxeram para Israel de Samaria. Os descendentes dessas pessoas que se casaram mais tarde foram chamados de samaritanos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:11\">Gênesis 10.11</a></p></li><li><p><a href=\"https://ref.ly/Gen25:17-Gen25:18\">Gênesis 25.17–18</a></p></li><li><p><a href=\"https://ref.ly/Isa7:16-Isa7:17\">Isaías 7.16–17</a></p></li><li><p><a href=\"https://ref.ly/Jer50:17\">Jeremias 50.17</a></p></li><li><p><a href=\"https://ref.ly/Mic7:11-Mic7:13\">Miqueias 7.11–13</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>20:2</strong> Então Deus puniu ambos os reinos permitindo que seus inimigos os destruíssem. O reino de Israel foi destruído pelo <strong>Império Assírio</strong>, uma nação poderosa e cruel. Os <strong>assírios</strong> mataram muitas pessoas no reino de Israel, levaram tudo de valor e queimaram grande parte do país.</p></li><li><p><strong>20:3</strong> Os <strong>assírios</strong> reuniram todos os líderes, os ricos e as pessoas com habilidades e os levaram para a <strong>Assíria</strong>.</p></li><li><p><strong>20:4</strong> Então os <strong>assírios</strong> trouxeram estrangeiros para viver na terra onde havia sido o reino de Israel.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0804, H1121</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002014",
+          "start_ref_usfm": "GEN 2:14",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
+        },
+        {
+          "start_ref": "01010011",
+          "start_ref_usfm": "GEN 10:11",
+          "end_ref": "01010011",
+          "end_ref_usfm": "GEN 10:11"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
+        },
+        {
+          "start_ref": "01025018",
+          "start_ref_usfm": "GEN 25:18",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15006022",
+          "start_ref_usfm": "EZR 6:22",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "16009032",
+          "start_ref_usfm": "NEH 9:32",
+          "end_ref": "16009032",
+          "end_ref_usfm": "NEH 9:32"
+        },
+        {
+          "start_ref": "24050017",
+          "start_ref_usfm": "JER 50:17",
+          "end_ref": "24050017",
+          "end_ref_usfm": "JER 50:17"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "33007011",
+          "start_ref_usfm": "MIC 7:11",
+          "end_ref": "33007013",
+          "end_ref_usfm": "MIC 7:13"
+        },
+        {
+          "start_ref": "01025017",
+          "start_ref_usfm": "GEN 25:17",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "23007016",
+          "start_ref_usfm": "ISA 7:16",
+          "end_ref": "23007017",
+          "end_ref_usfm": "ISA 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26192,
+          "content_id": 238321,
+          "label": "Samaria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

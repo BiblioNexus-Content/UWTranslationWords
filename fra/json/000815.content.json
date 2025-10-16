@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 467385,
+    "reference_id": 26271,
+    "title": "Succoth",
+    "media_type": "Text",
+    "index_reference": "succoth",
+    "language": "fra",
+    "content": "<h1>Succoth</h1><h2>Définition :</h2><p>Succoth est le nom de deux villes de l&apos;Ancien Testament* Le mot, &quot;Sukkot&quot; (ou &quot;Souccot&quot;) signifie «abri».</p><ul><li><p>La première ville appelée Succoth était située sur le côté est de la rivière du Jourdain.</p></li><li><p>Jacob est resté à Succoth avec sa famille et ses troupeaux*Il y a construit des abris pour eux là-bas.</p></li><li><p>Des centaines d&apos;années plus tard, Gédéon et ses hommes épuisés, se sont arrêtés à Succoth lorsqu&apos;ils chassaient les Madianites,mais les gens là-bas ont refusé de leur donner de la nourriture.</p></li><li><p>Le second Succoth est situé à la frontière nord de l&apos;Egypte et est le premier campement ou les Israélites se sont arrêtés après avoir traversé la Mer Rouge quand ils fuyaient l&apos;esclavage en Egypte.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01033017",
+          "start_ref_usfm": "GEN 33:17",
+          "end_ref": "01033017",
+          "end_ref_usfm": "GEN 33:17"
+        },
+        {
+          "start_ref": "02012037",
+          "start_ref_usfm": "EXO 12:37",
+          "end_ref": "02012037",
+          "end_ref_usfm": "EXO 12:37"
+        },
+        {
+          "start_ref": "02013020",
+          "start_ref_usfm": "EXO 13:20",
+          "end_ref": "02013020",
+          "end_ref_usfm": "EXO 13:20"
+        },
+        {
+          "start_ref": "11007046",
+          "start_ref_usfm": "1KI 7:46",
+          "end_ref": "11007046",
+          "end_ref_usfm": "1KI 7:46"
+        },
+        {
+          "start_ref": "02012037",
+          "start_ref_usfm": "EXO 12:37",
+          "end_ref": "02012040",
+          "end_ref_usfm": "EXO 12:40"
+        },
+        {
+          "start_ref": "06013027",
+          "start_ref_usfm": "JOS 13:27",
+          "end_ref": "06013028",
+          "end_ref_usfm": "JOS 13:28"
+        },
+        {
+          "start_ref": "07008004",
+          "start_ref_usfm": "JDG 8:4",
+          "end_ref": "07008005",
+          "end_ref_usfm": "JDG 8:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

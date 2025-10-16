@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26467,
+    "reference_id": 25609,
+    "title": "Consecrate",
+    "media_type": "Text",
+    "index_reference": "consecrate",
+    "language": "eng",
+    "content": "<h1>consecrate, consecrated, consecration</h1><h2>Definition:</h2><p>To consecrate means to dedicate something or someone to serve God. The person or object that is consecrated is considered holy and set apart for God.</p><ul><li><p>The meaning of this term is similar to “sanctify” or to “make holy,” but with the added meaning of formally setting apart someone for service to God.</p></li><li><p>Things that were consecrated to God included animals to be sacrificed, the altar of burnt offering, and the tabernacle.</p></li><li><p>People who were consecrated to God included the priests, the people of Israel, and the oldest male child.</p></li><li><p>Sometimes the word “consecrate” has a meaning that is similar to “purify,” especially when it pertains to preparing people or things for God’s service so that they will be cleansed and acceptable to him.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Ways to translate “consecrate” could include, “set apart for God’s service” or “purify for service to God.”</p></li><li><p>Also consider how the terms “holy” and “sanctify” are translated.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">holy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">pure</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26195\" data-resourceType=\"UWTranslationWords\">sanctify</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Tim4:3-1Tim4:5\">1 Timothy 4:3–5</a></p></li><li><p><a href=\"https://ref.ly/2Chr13:8-2Chr13:9\">2 Chronicles 13:8–9</a></p></li><li><p><a href=\"https://ref.ly/Ezek44:19\">Ezekiel 44:19</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2763, H3027, H4390, H4394, H5144, H5145, H6942, H6944, G14570, G50480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028038",
+          "start_ref_usfm": "EXO 28:38",
+          "end_ref": "02028038",
+          "end_ref_usfm": "EXO 28:38"
+        },
+        {
+          "start_ref": "02029022",
+          "start_ref_usfm": "EXO 29:22",
+          "end_ref": "02029022",
+          "end_ref_usfm": "EXO 29:22"
+        },
+        {
+          "start_ref": "02029026",
+          "start_ref_usfm": "EXO 29:26",
+          "end_ref": "02029026",
+          "end_ref_usfm": "EXO 29:26"
+        },
+        {
+          "start_ref": "02029027",
+          "start_ref_usfm": "EXO 29:27",
+          "end_ref": "02029027",
+          "end_ref_usfm": "EXO 29:27"
+        },
+        {
+          "start_ref": "02029031",
+          "start_ref_usfm": "EXO 29:31",
+          "end_ref": "02029031",
+          "end_ref_usfm": "EXO 29:31"
+        },
+        {
+          "start_ref": "02029034",
+          "start_ref_usfm": "EXO 29:34",
+          "end_ref": "02029034",
+          "end_ref_usfm": "EXO 29:34"
+        },
+        {
+          "start_ref": "15003005",
+          "start_ref_usfm": "EZR 3:5",
+          "end_ref": "15003005",
+          "end_ref_usfm": "EZR 3:5"
+        },
+        {
+          "start_ref": "16003001",
+          "start_ref_usfm": "NEH 3:1",
+          "end_ref": "16003001",
+          "end_ref_usfm": "NEH 3:1"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "16013022",
+          "start_ref_usfm": "NEH 13:22",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "26044019",
+          "start_ref_usfm": "EZK 44:19",
+          "end_ref": "26044019",
+          "end_ref_usfm": "EZK 44:19"
+        },
+        {
+          "start_ref": "36001007",
+          "start_ref_usfm": "ZEP 1:7",
+          "end_ref": "36001007",
+          "end_ref_usfm": "ZEP 1:7"
+        },
+        {
+          "start_ref": "54004003",
+          "start_ref_usfm": "1TI 4:3",
+          "end_ref": "54004005",
+          "end_ref_usfm": "1TI 4:5"
+        },
+        {
+          "start_ref": "14013008",
+          "start_ref_usfm": "2CH 13:8",
+          "end_ref": "14013009",
+          "end_ref_usfm": "2CH 13:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 26698,
+          "label": "Holy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26142,
+          "content_id": 27000,
+          "label": "Purify",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26195,
+          "content_id": 27053,
+          "label": "Sanctify",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

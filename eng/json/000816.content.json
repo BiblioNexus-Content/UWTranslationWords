@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 27089,
+    "reference_id": 26231,
+    "title": "Shrewd",
+    "media_type": "Text",
+    "index_reference": "shrewd",
+    "language": "eng",
+    "content": "<h1>shrewd, cunning</h1><h2>Definition:</h2><p>The term “shrewd” describes a person who is intelligent and clever, especially in practical matters.</p><ul><li><p>Often the term “shrewd” has a meaning that is partly negative since it usually also involves being selfish.</p></li><li><p>A shrewd person is usually focused on helping himself, not others.</p></li><li><p>Other ways to translate this term could include “cunning” or “crafty” or “smart” or “clever,” depending on the context.</p></li></ul><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H2450, H6175, G54290</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003001",
+          "end_ref_usfm": "GEN 3:1"
+        },
+        {
+          "start_ref": "02021014",
+          "start_ref_usfm": "EXO 21:14",
+          "end_ref": "02021014",
+          "end_ref_usfm": "EXO 21:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

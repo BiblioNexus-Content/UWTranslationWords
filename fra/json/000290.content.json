@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 467413,
+    "reference_id": 26299,
+    "title": "Épine",
+    "media_type": "Text",
+    "index_reference": "épine",
+    "language": "fra",
+    "content": "<h1>épine, chardon</h1><h2>Définition :</h2><p>&quot;Buissons d&apos;épines et chardons sont des plantes qui ont des branches ou des fleurs épineuses* Ces plantes ne produisent pas de fruits ou toute autre chose qui est utile.</p><ul><li><p>Une épine est une croissance dure sur la branche ou la tige d&apos;une plante et qui pique* Un &quot;buisson d&apos;épines&quot; est un type de petits arbres ou arbustes qui ont de nombreuses épines sur leurs branches.</p></li><li><p>Un chardon est une plante avec des tiges et des feuilles épineuses* Souvent, les fleurs sont de couleur pourpre.</p></li><li><p>les buissons d&apos;épines et les chardons se multiplient rapidement et peuvent gener la croissance des autres plantes ou cultures* Ceci est une image de la façon dont le péché empêche une personne de produire de bons fruits spirituels.</p></li><li><p>Une couronne faite de branches d&apos;épineux torsadées a été placée sur la tête de Jésus avant qu&apos;il ait été crucifié.</p></li></ul><p>(Voir aussi : (../other/crown.md), (../other/fruit.md), (../kt/spirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003018",
+          "start_ref_usfm": "GEN 3:18",
+          "end_ref": "01003018",
+          "end_ref_usfm": "GEN 3:18"
+        },
+        {
+          "start_ref": "04033055",
+          "start_ref_usfm": "NUM 33:55",
+          "end_ref": "04033055",
+          "end_ref_usfm": "NUM 33:55"
+        },
+        {
+          "start_ref": "20015019",
+          "start_ref_usfm": "PRO 15:19",
+          "end_ref": "20015019",
+          "end_ref_usfm": "PRO 15:19"
+        },
+        {
+          "start_ref": "20022005",
+          "start_ref_usfm": "PRO 22:5",
+          "end_ref": "20022005",
+          "end_ref_usfm": "PRO 22:5"
+        },
+        {
+          "start_ref": "20024031",
+          "start_ref_usfm": "PRO 24:31",
+          "end_ref": "20024031",
+          "end_ref_usfm": "PRO 24:31"
+        },
+        {
+          "start_ref": "20026009",
+          "start_ref_usfm": "PRO 26:9",
+          "end_ref": "20026009",
+          "end_ref_usfm": "PRO 26:9"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40013007",
+          "start_ref_usfm": "MAT 13:7",
+          "end_ref": "40013007",
+          "end_ref_usfm": "MAT 13:7"
+        },
+        {
+          "start_ref": "40013022",
+          "start_ref_usfm": "MAT 13:22",
+          "end_ref": "40013022",
+          "end_ref_usfm": "MAT 13:22"
+        },
+        {
+          "start_ref": "40027029",
+          "start_ref_usfm": "MAT 27:29",
+          "end_ref": "40027029",
+          "end_ref_usfm": "MAT 27:29"
+        },
+        {
+          "start_ref": "41004007",
+          "start_ref_usfm": "MRK 4:7",
+          "end_ref": "41004007",
+          "end_ref_usfm": "MRK 4:7"
+        },
+        {
+          "start_ref": "41004018",
+          "start_ref_usfm": "MRK 4:18",
+          "end_ref": "41004018",
+          "end_ref_usfm": "MRK 4:18"
+        },
+        {
+          "start_ref": "41015017",
+          "start_ref_usfm": "MRK 15:17",
+          "end_ref": "41015017",
+          "end_ref_usfm": "MRK 15:17"
+        },
+        {
+          "start_ref": "42006044",
+          "start_ref_usfm": "LUK 6:44",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "42008007",
+          "start_ref_usfm": "LUK 8:7",
+          "end_ref": "42008007",
+          "end_ref_usfm": "LUK 8:7"
+        },
+        {
+          "start_ref": "42008014",
+          "start_ref_usfm": "LUK 8:14",
+          "end_ref": "42008014",
+          "end_ref_usfm": "LUK 8:14"
+        },
+        {
+          "start_ref": "43019002",
+          "start_ref_usfm": "JHN 19:2",
+          "end_ref": "43019002",
+          "end_ref_usfm": "JHN 19:2"
+        },
+        {
+          "start_ref": "43019005",
+          "start_ref_usfm": "JHN 19:5",
+          "end_ref": "43019005",
+          "end_ref_usfm": "JHN 19:5"
+        },
+        {
+          "start_ref": "47012007",
+          "start_ref_usfm": "2CO 12:7",
+          "end_ref": "47012007",
+          "end_ref_usfm": "2CO 12:7"
+        },
+        {
+          "start_ref": "58006008",
+          "start_ref_usfm": "HEB 6:8",
+          "end_ref": "58006008",
+          "end_ref_usfm": "HEB 6:8"
+        },
+        {
+          "start_ref": "58006007",
+          "start_ref_usfm": "HEB 6:7",
+          "end_ref": "58006008",
+          "end_ref_usfm": "HEB 6:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25628,
+          "content_id": 466792,
+          "label": "Couronne ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25760,
+          "content_id": 466911,
+          "label": "Fruits",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

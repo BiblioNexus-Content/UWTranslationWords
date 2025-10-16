@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466679,
+    "reference_id": 25501,
+    "title": "Balaam",
+    "media_type": "Text",
+    "index_reference": "balaam",
+    "language": "fra",
+    "content": "<h1>Balaam</h1><h2>Définition :</h2><p>Balaam était un prophète païen que le roi Balak a engagé pour maudire Israël pendant qu&apos;il campait au fleuve Jourdain, dans le Nord de Moab, se préparant à entrer dans le pays de Canaan.</p><ul><li><p>Balaam était de la ville de Peor, qui était située dans la région autour de l&apos;Euphrate, à environ neuf cent kilomètres de la terre de Moab.</p></li><li><p>Le roi Madianite, Balak, avait peur de la force et le nombre des Israélites, donc il a embauché Balaam pour les maudire.</p></li><li><p>Comme Balaam se déplaçait vers Israël, un ange de Dieu se trouvait sur son chemin pour arrêter l&apos;âne de Balaam* Dieu a aussi donné à l&apos;âne la capacité de parler à Balaam.</p></li><li><p>Dieu n&apos;a pas permis à Balaam de maudire les Israélites, il ordonna plutôt de les bénir.</p></li><li><p>Plus tard cependant, Balaam fit encore du mal aux Israélites quand il les a poussés à adorer le faux dieu Baal-peor.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/bless.md), (../names/canaan.md), (../kt/curse.md), (../other/donkey.md), (../names/euphrates.md), (../names/jordanriver.md), (../names/midian.md), (../names/moab.md), (../names/peor.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022005",
+          "start_ref_usfm": "NUM 22:5",
+          "end_ref": "04022005",
+          "end_ref_usfm": "NUM 22:5"
+        },
+        {
+          "start_ref": "16013002",
+          "start_ref_usfm": "NEH 13:2",
+          "end_ref": "16013002",
+          "end_ref_usfm": "NEH 13:2"
+        },
+        {
+          "start_ref": "61002015",
+          "start_ref_usfm": "2PE 2:15",
+          "end_ref": "61002015",
+          "end_ref_usfm": "2PE 2:15"
+        },
+        {
+          "start_ref": "61002016",
+          "start_ref_usfm": "2PE 2:16",
+          "end_ref": "61002016",
+          "end_ref_usfm": "2PE 2:16"
+        },
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "66002014",
+          "start_ref_usfm": "REV 2:14",
+          "end_ref": "66002014",
+          "end_ref_usfm": "REV 2:14"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023004",
+          "end_ref_usfm": "DEU 23:4"
+        },
+        {
+          "start_ref": "06013022",
+          "start_ref_usfm": "JOS 13:22",
+          "end_ref": "06013023",
+          "end_ref_usfm": "JOS 13:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25545,
+          "content_id": 466717,
+          "label": "Bénir",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25632,
+          "content_id": 466796,
+          "label": "Maudire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25678,
+          "content_id": 466838,
+          "label": "Âne ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 466874,
+          "label": "L'Euphrate",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 467155,
+          "label": "Madian",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 467163,
+          "label": "Moab",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

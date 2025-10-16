@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 180206,
+    "reference_id": 26147,
+    "title": "रब्बा",
+    "media_type": "Text",
+    "index_reference": "रब्बा",
+    "language": "hin",
+    "content": "<h1>रब्बा</h1><h2>परिभाषा:</h2><p>रब्बा अम्मोनियों का एक अत्यधिक महत्वपूर्ण नगर था।</p><ul><li><p>अम्मोनियों के साथ युद्ध करते समय इस्राएली अधिकतर रब्बा नगर पर आक्रमण करते थे।</p></li><li><p>इस्राएल के राजा दाऊद ने अपने अन्तिम युद्ध अभियान में रब्बा नगर को जीत लिया था।</p></li><li><p>आज का अम्मान जॉर्डन वहाँ स्थित है जहाँ प्राचीन रब्बा नगर हुआ करता था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25452\" data-resourceType=\"UWTranslationWords\">अम्मोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 20:1</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 12:26–28</a></p></li><li><p><a href=\"https://ref.ly/Deut3:11\">व्यवस्थाविवरण 03:11</a></p></li><li><p><a href=\"https://ref.ly/Ezek25:3-Ezek25:5\">यहेजकेल 25:3–5</a></p></li><li><p><a href=\"https://ref.ly/Jer49:1-Jer49:2\">यिर्मयाह 49:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H7237</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003011",
+          "start_ref_usfm": "DEU 3:11",
+          "end_ref": "05003011",
+          "end_ref_usfm": "DEU 3:11"
+        },
+        {
+          "start_ref": "10012026",
+          "start_ref_usfm": "2SA 12:26",
+          "end_ref": "10012026",
+          "end_ref_usfm": "2SA 12:26"
+        },
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020001",
+          "end_ref_usfm": "1CH 20:1"
+        },
+        {
+          "start_ref": "26025003",
+          "start_ref_usfm": "EZK 25:3",
+          "end_ref": "26025005",
+          "end_ref_usfm": "EZK 25:5"
+        },
+        {
+          "start_ref": "24049001",
+          "start_ref_usfm": "JER 49:1",
+          "end_ref": "24049002",
+          "end_ref_usfm": "JER 49:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 179541,
+          "label": "अम्मोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

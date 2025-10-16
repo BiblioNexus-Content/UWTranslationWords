@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26569,
+    "reference_id": 25711,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "esther",
+    "language": "eng",
+    "content": "<h1>Esther, Hadasseh</h1><h2>Facts:</h2><p>Esther was a Jewish woman who became queen of the Persian kingdom after the Israelites were taken to Babylon as captives. “Esther” was her Persian name, and her Hebrew name was “Hadasseh.”</p><ul><li><p>The book of Esther tells the story of how Esther became the wife of the Persian King Ahasuerus and how God used her to save her people.</p></li><li><p>Esther was an orphan who was raised by her godly older cousin, Mordecai.</p></li><li><p>Her obedience to her adoptive father helped her to be obedient to God.</p></li><li><p>Esther obeyed God and risked her life in order to save her people, the Jews.</p></li><li><p>The story of Esther illustrates God’s sovereign control over the events of history, especially how he protects his people and works through those who obey him.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Ahasuerus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26030\" data-resourceType=\"UWTranslationWords\">Mordecai</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Persia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Esth2:7\">Esther 2:7</a></p></li><li><p><a href=\"https://ref.ly/Esth2:15\">Esther 2:15</a></p></li><li><p><a href=\"https://ref.ly/Esth7:1\">Esther 7:1</a></p></li><li><p><a href=\"https://ref.ly/Esth8:2\">Esther 8:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0635</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002007",
+          "end_ref_usfm": "EST 2:7"
+        },
+        {
+          "start_ref": "17002015",
+          "start_ref_usfm": "EST 2:15",
+          "end_ref": "17002015",
+          "end_ref_usfm": "EST 2:15"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17007001",
+          "end_ref_usfm": "EST 7:1"
+        },
+        {
+          "start_ref": "17008002",
+          "start_ref_usfm": "EST 8:2",
+          "end_ref": "17008002",
+          "end_ref_usfm": "EST 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 26297,
+          "label": "Ahasuerus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26030,
+          "content_id": 26888,
+          "label": "Mordecai",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 26949,
+          "label": "Persia",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467354,
+    "reference_id": 26239,
+    "title": "Simon le Zélote",
+    "media_type": "Text",
+    "index_reference": "simon le zélote",
+    "language": "fra",
+    "content": "<h1>Simon le Zélote</h1><h2>Définition :</h2><p>Simon le Zélote a été l&apos;un des plus proches disciples de Jésus.</p><ul><li><p>On sait peu de choses sur Simon le Zélote* Il est mentionné trois fois dans la liste des disciples de Jésus.</p></li><li><p>Simon était l&apos;un des onze qui se sont réunis après que Jésus soit retourné au ciel.</p></li><li><p>Certains spéculent que le terme «zélote» signifie que Simon était un membre des «zélotes»*&quot;Les zélotes&quot; étaient un parti religieux juif qui était très zélé pour son engagement à faire respecter la loi de Moïse en s&apos;opposant vivement au gouvernement romain.</p></li><li><p>D&apos;autres pensent que le terme «zélote» décrit simplement le zèle religieux de Simon.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../kt/disciple.md), (../kt/thetwelve.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010004",
+          "start_ref_usfm": "MAT 10:4",
+          "end_ref": "40010004",
+          "end_ref_usfm": "MAT 10:4"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 466831,
+          "label": "Disciple",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 467410,
+          "label": "Douze",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26967,
+    "reference_id": 26109,
+    "title": "Pledge",
+    "media_type": "Text",
+    "index_reference": "pledge",
+    "language": "eng",
+    "content": "<h1>pledge, pledged, pledging, pledges</h1><h2>Definition:</h2><p>The term “pledge” refers to formally and solemnly promising to do something or give something.</p><ul><li><p>In the Old Testament the officials of Israel pledged to be loyal to King David.</p></li><li><p>To “pledge” could be translate as to “formally commit to” or to “strongly promise.”</p></li><li><p>The term “pledge” can also refer to an object given as a guarantee or promise that a debt will be paid.</p></li><li><p>The object given as a pledge would be returned to its owner when the promise was fulfilled.</p></li><li><p>Ways to translate “a pledge” could include “a solemn promise” or “a formal commitment” or “a guarantee” or “a formal assurance,” depending on the context.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26127\" data-resourceType=\"UWTranslationWords\">promise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26058\" data-resourceType=\"UWTranslationWords\">oath</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">vow</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Cor5:4-2Cor5:5\">2 Corinthians 5:4–5</a></p></li><li><p><a href=\"https://ref.ly/Exod22:26\">Exodus 22:26</a></p></li><li><p><a href=\"https://ref.ly/Gen38:17-Gen38:18\">Genesis 38:17–18</a></p></li><li><p><a href=\"https://ref.ly/Neh10:28-Neh10:29\">Nehemiah 10:28–29</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0781, H2254, H2258, H5667, H5671, H6148, H6161, H6162</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038017",
+          "start_ref_usfm": "GEN 38:17",
+          "end_ref": "01038017",
+          "end_ref_usfm": "GEN 38:17"
+        },
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038020",
+          "start_ref_usfm": "GEN 38:20",
+          "end_ref": "01038020",
+          "end_ref_usfm": "GEN 38:20"
+        },
+        {
+          "start_ref": "01043009",
+          "start_ref_usfm": "GEN 43:9",
+          "end_ref": "01043009",
+          "end_ref_usfm": "GEN 43:9"
+        },
+        {
+          "start_ref": "01044032",
+          "start_ref_usfm": "GEN 44:32",
+          "end_ref": "01044032",
+          "end_ref_usfm": "GEN 44:32"
+        },
+        {
+          "start_ref": "02022026",
+          "start_ref_usfm": "EXO 22:26",
+          "end_ref": "02022026",
+          "end_ref_usfm": "EXO 22:26"
+        },
+        {
+          "start_ref": "20006001",
+          "start_ref_usfm": "PRO 6:1",
+          "end_ref": "20006001",
+          "end_ref_usfm": "PRO 6:1"
+        },
+        {
+          "start_ref": "20011015",
+          "start_ref_usfm": "PRO 11:15",
+          "end_ref": "20011015",
+          "end_ref_usfm": "PRO 11:15"
+        },
+        {
+          "start_ref": "20013013",
+          "start_ref_usfm": "PRO 13:13",
+          "end_ref": "20013013",
+          "end_ref_usfm": "PRO 13:13"
+        },
+        {
+          "start_ref": "20017018",
+          "start_ref_usfm": "PRO 17:18",
+          "end_ref": "20017018",
+          "end_ref_usfm": "PRO 17:18"
+        },
+        {
+          "start_ref": "20020016",
+          "start_ref_usfm": "PRO 20:16",
+          "end_ref": "20020016",
+          "end_ref_usfm": "PRO 20:16"
+        },
+        {
+          "start_ref": "20022026",
+          "start_ref_usfm": "PRO 22:26",
+          "end_ref": "20022026",
+          "end_ref_usfm": "PRO 22:26"
+        },
+        {
+          "start_ref": "20027013",
+          "start_ref_usfm": "PRO 27:13",
+          "end_ref": "20027013",
+          "end_ref_usfm": "PRO 27:13"
+        },
+        {
+          "start_ref": "47001022",
+          "start_ref_usfm": "2CO 1:22",
+          "end_ref": "47001022",
+          "end_ref_usfm": "2CO 1:22"
+        },
+        {
+          "start_ref": "47005005",
+          "start_ref_usfm": "2CO 5:5",
+          "end_ref": "47005005",
+          "end_ref_usfm": "2CO 5:5"
+        },
+        {
+          "start_ref": "49001014",
+          "start_ref_usfm": "EPH 1:14",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "47005004",
+          "start_ref_usfm": "2CO 5:4",
+          "end_ref": "47005005",
+          "end_ref_usfm": "2CO 5:5"
+        },
+        {
+          "start_ref": "01038017",
+          "start_ref_usfm": "GEN 38:17",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "16010028",
+          "start_ref_usfm": "NEH 10:28",
+          "end_ref": "16010029",
+          "end_ref_usfm": "NEH 10:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26058,
+          "content_id": 26916,
+          "label": "Oath",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 26985,
+          "label": "Promise",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

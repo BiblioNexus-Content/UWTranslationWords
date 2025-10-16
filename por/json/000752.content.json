@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238066,
+    "reference_id": 25934,
+    "title": "Quedar",
+    "media_type": "Text",
+    "index_reference": "quedar",
+    "language": "por",
+    "content": "<h1>Quedar</h1><h2>Fatos:</h2><p>Quedar foi o segundo filho de Ismael. Também era uma cidade importante, que foi provavelmente nomeada em homenagem ao homem.</p><ul><li><p>A cidade de Quedar está localizada na parte norte da Arábia, perto da fronteira sul da Palestina. Nos tempos bíblicos, era conhecida por sua grandeza e beleza.</p></li><li><p>Os descendentes de Quedar formaram um grande grupo de pessoas que também é chamado de “Quedar”.</p></li><li><p>A frase “tendas escuras de Quedar” refere-se às tendas de pelo de cabra preto em que o povo de Quedar vivia.</p></li><li><p>Essas pessoas criavam ovelhas e cabras. Eles também usavam camelos para transportar coisas.</p></li><li><p>Na Bíblia, a frase “a glória de Quedar” refere-se à grandeza dessa cidade e de seu povo.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arábia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25787\" data-resourceType=\"UWTranslationWords\">cabra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">Ismael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Song1:5\">Cânticos 1.5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6938</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
+        },
+        {
+          "start_ref": "22001005",
+          "start_ref_usfm": "SNG 1:5",
+          "end_ref": "22001005",
+          "end_ref_usfm": "SNG 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 237607,
+          "label": "Arábia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25787,
+          "content_id": 237920,
+          "label": "Bode",
+          "language": "por"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 238011,
+          "label": "Ismael",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

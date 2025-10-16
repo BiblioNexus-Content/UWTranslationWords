@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179897,
+    "reference_id": 25827,
+    "title": "हेब्रोन",
+    "media_type": "Text",
+    "index_reference": "हेब्रोन",
+    "language": "hin",
+    "content": "<h1>हेब्रोन</h1><h2>तथ्य:</h2><p>हेब्रौन यरूशलेम के दक्षिण में लगभग 20 मील दूर ऊंचे चट्टानी पहाड़ों में बसा था।</p><ul><li><p>यह नगर अब्राहम के युग में 2000 ई.पू. में बनाया था। पुराने नियम के ऐतिहासिक वृत्तान्त में इस नगर का नाम अनेक बार आता है।</p></li><li><p>हेब्रोन ने राजा दाऊद के जीवन में महत्वपूर्ण भूमिका निभाई थी। उसके कई पुत्र, अबशालोम का भी जन्म वहां हुआ था।</p></li><li><p>लगभग सन् 70 में रोमी सेना ने इस नगर को नष्ट कर दिया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">अबशालोम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 02:10–11</a></p></li><li><p><a href=\"https://ref.ly/Gen13:16-Gen13:18\">उत्पत्ति 13:16–18</a></p></li><li><p><a href=\"https://ref.ly/Gen23:1-Gen23:2\">उत्पत्ति 23:1–2</a></p></li><li><p><a href=\"https://ref.ly/Gen35:26-Gen35:27\">उत्पत्ति 35:26–27</a></p></li><li><p><a href=\"https://ref.ly/Gen37:12-Gen37:14\">उत्पत्ति 37:12–14</a></p></li><li><p><a href=\"https://ref.ly/Judg1:8-Judg1:10\">न्यायियों 01:8–10</a></p></li><li><p><a href=\"https://ref.ly/Num13:21-Num13:22\">गिनती 13:21–22</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2275, H2276, H5683</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01023002",
+          "start_ref_usfm": "GEN 23:2",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01023019",
+          "start_ref_usfm": "GEN 23:19",
+          "end_ref": "01023019",
+          "end_ref_usfm": "GEN 23:19"
+        },
+        {
+          "start_ref": "01035027",
+          "start_ref_usfm": "GEN 35:27",
+          "end_ref": "01035027",
+          "end_ref_usfm": "GEN 35:27"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "04013022",
+          "start_ref_usfm": "NUM 13:22",
+          "end_ref": "04013022",
+          "end_ref_usfm": "NUM 13:22"
+        },
+        {
+          "start_ref": "07001010",
+          "start_ref_usfm": "JDG 1:10",
+          "end_ref": "07001010",
+          "end_ref_usfm": "JDG 1:10"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "10002010",
+          "start_ref_usfm": "2SA 2:10",
+          "end_ref": "10002011",
+          "end_ref_usfm": "2SA 2:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 179515,
+          "label": "अबशालोम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25457,
+          "content_id": 182401,
+          "label": "अनाक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

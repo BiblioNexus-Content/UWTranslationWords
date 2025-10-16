@@ -1,0 +1,197 @@
+[
+  {
+    "content_id": 191641,
+    "reference_id": 25992,
+    "title": "Gerente",
+    "media_type": "Text",
+    "index_reference": "gerente",
+    "language": "por",
+    "content": "<h1>gerente, mordomo, mordomia</h1><h2>Definição:</h2><p>O termo “gerente” ou “mordomo” na Bíblia refere-se a um servo que foi encarregado de cuidar da propriedade e dos negócios de seu mestre.</p><ul><li><p>Um mordomo recebia muita responsabilidade, que incluía supervisionar o trabalho de outros servos.</p></li><li><p>O termo “gerente” é um termo mais moderno para um mordomo. Ambos os termos referem-se a alguém que gerencia assuntos práticos para outra pessoa.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Isso também pode ser traduzido como “supervisor” ou “organizador doméstico” ou “servo que gerencia” ou “pessoa que organiza.”</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26217\" data-resourceType=\"UWTranslationWords\">servo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Tim3:4-1Tim3:5\">1 Timóteo 3.4–5</a></p></li><li><p><a href=\"https://ref.ly/Gen39:4\">Gênesis 39.4</a></p></li><li><p><a href=\"https://ref.ly/Gen43:16\">Gênesis 43.16</a></p></li><li><p><a href=\"https://ref.ly/Isa55:10-Isa55:11\">Isaías 55.10–11</a></p></li><li><p><a href=\"https://ref.ly/Luke8:3\">Lucas 8.3</a></p></li><li><p><a href=\"https://ref.ly/Luke16:2\">Lucas 16.2</a></p></li><li><p><a href=\"https://ref.ly/Matt20:8-Matt20:10\">Mateus 20.8–10</a></p></li><li><p><a href=\"https://ref.ly/Titus1:7\">Tito 1.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong: H0376, H4453, H5057, H6485, G20120, G36210, G36230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01039004",
+          "start_ref_usfm": "GEN 39:4",
+          "end_ref": "01039004",
+          "end_ref_usfm": "GEN 39:4"
+        },
+        {
+          "start_ref": "01043016",
+          "start_ref_usfm": "GEN 43:16",
+          "end_ref": "01043016",
+          "end_ref_usfm": "GEN 43:16"
+        },
+        {
+          "start_ref": "40020008",
+          "start_ref_usfm": "MAT 20:8",
+          "end_ref": "40020008",
+          "end_ref_usfm": "MAT 20:8"
+        },
+        {
+          "start_ref": "42008003",
+          "start_ref_usfm": "LUK 8:3",
+          "end_ref": "42008003",
+          "end_ref_usfm": "LUK 8:3"
+        },
+        {
+          "start_ref": "42012042",
+          "start_ref_usfm": "LUK 12:42",
+          "end_ref": "42012042",
+          "end_ref_usfm": "LUK 12:42"
+        },
+        {
+          "start_ref": "42016001",
+          "start_ref_usfm": "LUK 16:1",
+          "end_ref": "42016001",
+          "end_ref_usfm": "LUK 16:1"
+        },
+        {
+          "start_ref": "42016002",
+          "start_ref_usfm": "LUK 16:2",
+          "end_ref": "42016002",
+          "end_ref_usfm": "LUK 16:2"
+        },
+        {
+          "start_ref": "42016003",
+          "start_ref_usfm": "LUK 16:3",
+          "end_ref": "42016003",
+          "end_ref_usfm": "LUK 16:3"
+        },
+        {
+          "start_ref": "42016004",
+          "start_ref_usfm": "LUK 16:4",
+          "end_ref": "42016004",
+          "end_ref_usfm": "LUK 16:4"
+        },
+        {
+          "start_ref": "42016008",
+          "start_ref_usfm": "LUK 16:8",
+          "end_ref": "42016008",
+          "end_ref_usfm": "LUK 16:8"
+        },
+        {
+          "start_ref": "45012008",
+          "start_ref_usfm": "ROM 12:8",
+          "end_ref": "45012008",
+          "end_ref_usfm": "ROM 12:8"
+        },
+        {
+          "start_ref": "45016023",
+          "start_ref_usfm": "ROM 16:23",
+          "end_ref": "45016023",
+          "end_ref_usfm": "ROM 16:23"
+        },
+        {
+          "start_ref": "46004001",
+          "start_ref_usfm": "1CO 4:1",
+          "end_ref": "46004001",
+          "end_ref_usfm": "1CO 4:1"
+        },
+        {
+          "start_ref": "46004002",
+          "start_ref_usfm": "1CO 4:2",
+          "end_ref": "46004002",
+          "end_ref_usfm": "1CO 4:2"
+        },
+        {
+          "start_ref": "46009017",
+          "start_ref_usfm": "1CO 9:17",
+          "end_ref": "46009017",
+          "end_ref_usfm": "1CO 9:17"
+        },
+        {
+          "start_ref": "49001010",
+          "start_ref_usfm": "EPH 1:10",
+          "end_ref": "49001010",
+          "end_ref_usfm": "EPH 1:10"
+        },
+        {
+          "start_ref": "49003002",
+          "start_ref_usfm": "EPH 3:2",
+          "end_ref": "49003002",
+          "end_ref_usfm": "EPH 3:2"
+        },
+        {
+          "start_ref": "49003009",
+          "start_ref_usfm": "EPH 3:9",
+          "end_ref": "49003009",
+          "end_ref_usfm": "EPH 3:9"
+        },
+        {
+          "start_ref": "51001025",
+          "start_ref_usfm": "COL 1:25",
+          "end_ref": "51001025",
+          "end_ref_usfm": "COL 1:25"
+        },
+        {
+          "start_ref": "54001004",
+          "start_ref_usfm": "1TI 1:4",
+          "end_ref": "54001004",
+          "end_ref_usfm": "1TI 1:4"
+        },
+        {
+          "start_ref": "54003004",
+          "start_ref_usfm": "1TI 3:4",
+          "end_ref": "54003004",
+          "end_ref_usfm": "1TI 3:4"
+        },
+        {
+          "start_ref": "54003005",
+          "start_ref_usfm": "1TI 3:5",
+          "end_ref": "54003005",
+          "end_ref_usfm": "1TI 3:5"
+        },
+        {
+          "start_ref": "54003012",
+          "start_ref_usfm": "1TI 3:12",
+          "end_ref": "54003012",
+          "end_ref_usfm": "1TI 3:12"
+        },
+        {
+          "start_ref": "54005014",
+          "start_ref_usfm": "1TI 5:14",
+          "end_ref": "54005014",
+          "end_ref_usfm": "1TI 5:14"
+        },
+        {
+          "start_ref": "56001007",
+          "start_ref_usfm": "TIT 1:7",
+          "end_ref": "56001007",
+          "end_ref_usfm": "TIT 1:7"
+        },
+        {
+          "start_ref": "60004010",
+          "start_ref_usfm": "1PE 4:10",
+          "end_ref": "60004010",
+          "end_ref_usfm": "1PE 4:10"
+        },
+        {
+          "start_ref": "54003004",
+          "start_ref_usfm": "1TI 3:4",
+          "end_ref": "54003005",
+          "end_ref_usfm": "1TI 3:5"
+        },
+        {
+          "start_ref": "23055010",
+          "start_ref_usfm": "ISA 55:10",
+          "end_ref": "23055011",
+          "end_ref_usfm": "ISA 55:11"
+        },
+        {
+          "start_ref": "40020008",
+          "start_ref_usfm": "MAT 20:8",
+          "end_ref": "40020010",
+          "end_ref_usfm": "MAT 20:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26217,
+          "content_id": 238346,
+          "label": "Servo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

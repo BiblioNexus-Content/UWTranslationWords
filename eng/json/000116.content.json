@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26389,
+    "reference_id": 25531,
+    "title": "Bethshemesh",
+    "media_type": "Text",
+    "index_reference": "bethshemesh",
+    "language": "eng",
+    "content": "<h1>Beth Shemesh</h1><h2>Facts:</h2><p>Beth Shemesh was the name of a Canaanite city approximately 30 kilometers west of Jerusalem.</p><ul><li><p>The Israelites captured Beth Shemesh during the time of Joshua’s leadership.</p></li><li><p>Beth Shemesh was a city that was set aside as a place for the Levite priests to live.</p></li><li><p>When the Philistines were taking the captured ark of the covenant back to Jerusalem, Beth Shemesh was the first city where they stopped with it.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">ark of the covenant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Joshua</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Philistines</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:9\">1 Kings 4:9</a></p></li><li><p><a href=\"https://ref.ly/1Sam6:9\">1 Samuel 6:9</a></p></li><li><p><a href=\"https://ref.ly/Josh19:20-Josh19:22\">Joshua 19:20–22</a></p></li><li><p><a href=\"https://ref.ly/Judg1:33\">Judges 1:33</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1053</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "09006009",
+          "start_ref_usfm": "1SA 6:9",
+          "end_ref": "09006009",
+          "end_ref_usfm": "1SA 6:9"
+        },
+        {
+          "start_ref": "11004009",
+          "start_ref_usfm": "1KI 4:9",
+          "end_ref": "11004009",
+          "end_ref_usfm": "1KI 4:9"
+        },
+        {
+          "start_ref": "06019020",
+          "start_ref_usfm": "JOS 19:20",
+          "end_ref": "06019022",
+          "end_ref_usfm": "JOS 19:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 26333,
+          "label": "Ark of the Covenant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 26778,
+          "label": "Joshua",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 26958,
+          "label": "Philistines",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

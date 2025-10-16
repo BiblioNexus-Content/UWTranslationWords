@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180205,
+    "reference_id": 26146,
+    "title": "बुझाना",
+    "media_type": "Text",
+    "index_reference": "बुझाना",
+    "language": "hin",
+    "content": "<h1>बुझाना, बुझेगी, नहीं बुझती</h1><h2>परिभाषा:</h2><p>“बुझाना” शब्द का अर्थ है आग बुझाना या सन्तोष की अभिलाषा को त्यागना।</p><ul><li><p>इस शब्द का उपयोग सामान्यतः प्यास बुझाने के संदर्भ में किया जाता है, पेय पदार्थ पीकर प्यास को शान्त करना।</p></li><li><p>इसका संदर्भ अग्निदमन से भी है।</p></li><li><p>आग और प्यास दोनों ही पानी से बुझते हैं।</p></li><li><p>पौलुस “बुझाने” शब्द को प्रतीकात्मक रूप में काम में लेता है, जब वह विश्वासियों को कहता है, “पवित्र आत्मा को न बुझाओ”। इसका अर्थ है कि मनुष्यों में पवित्र आत्मा के फल तथा वरदानों से मनुष्यों को निरूत्साह न करें। पवित्र आत्मा को बुझाने का अर्थ है ऐसे काम करना कि पवित्र आत्मा मनुष्यों में अपना सामर्थ्य एवं कार्य प्रकट न कर पाए।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25760\" data-resourceType=\"UWTranslationWords\">फल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">वरदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">पवित्र आत्मा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Thess0:0\">1 थिस्सलुनीकियों 05:19–22</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:45-Ezek20:47\">यहेजकेल 20:45–47</a></p></li><li><p><a href=\"https://ref.ly/Isa1:31\">यशायाह 01:31</a></p></li><li><p><a href=\"https://ref.ly/Jer21:11-Jer21:12\">यिर्मयाह 21:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1846, H3518, H7665, H8257, G762, G4570</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23001031",
+          "start_ref_usfm": "ISA 1:31",
+          "end_ref": "23001031",
+          "end_ref_usfm": "ISA 1:31"
+        },
+        {
+          "start_ref": "24021012",
+          "start_ref_usfm": "JER 21:12",
+          "end_ref": "24021012",
+          "end_ref_usfm": "JER 21:12"
+        },
+        {
+          "start_ref": "26020047",
+          "start_ref_usfm": "EZK 20:47",
+          "end_ref": "26020047",
+          "end_ref_usfm": "EZK 20:47"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "41009048",
+          "start_ref_usfm": "MRK 9:48",
+          "end_ref": "41009048",
+          "end_ref_usfm": "MRK 9:48"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "52005019",
+          "start_ref_usfm": "1TH 5:19",
+          "end_ref": "52005019",
+          "end_ref_usfm": "1TH 5:19"
+        },
+        {
+          "start_ref": "58011034",
+          "start_ref_usfm": "HEB 11:34",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25760,
+          "content_id": 179833,
+          "label": "फल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 179913,
+          "label": "पवित्र आत्मा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

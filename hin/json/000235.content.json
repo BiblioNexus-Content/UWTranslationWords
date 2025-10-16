@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 179850,
+    "reference_id": 25779,
+    "title": "गिबोन",
+    "media_type": "Text",
+    "index_reference": "गिबोन",
+    "language": "hin",
+    "content": "<h1>गिबोन, गिबोनी, गिबोनियों</h1><h2>तथ्य:</h2><p>गिबोन एक नगर था जो यरूशलेम के उत्तर-पश्चिम में 13 किलोमीटर दूर था। गिबोन के निवासी गिबोनी कहलाते थे।</p><ul><li><p>गिबोनियों ने सुना कि इस्राएलियों ने यरीहो और ऐ नगर का विनाश कर दिया है तो वे डर गए थे।</p></li><li><p>अतः गिबोनी इस्त्राएलियों के अगुओं के पास गिलगाल आए और ऐसा स्वांग रचा कि वे दूर देश के हैं।</p></li><li><p>इस्राएल के अगुओं ने धोखा खाकर गिबोनियों के साथ समझौता कर लिया था कि वे उनकी रक्षा करेंगे और उन्हें नष्ट नहीं करेंगे।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25782\" data-resourceType=\"UWTranslationWords\">गिलगाल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">यरीहो</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">यरूशलेम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 8:29</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 3:4–5</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 2:12–13</a></p></li><li><p><a href=\"https://ref.ly/Josh9:3-Josh9:5\">यहोशू 9:3–5</a></p></li></ul><h2>बाइबल की कहानियों के उदाहरण:</h2><ul><li><p><strong>15:6</strong> परन्तु कनान निवासियों का एक समूह, जो <strong>गिबोनी</strong> कहलाता है, उन्होंने यहोशू के साथ छल किया और कहा, हम कनान से दूर एक देश से आए है।</p></li><li><p><strong>15:7</strong> कुछ समय बाद, कनान में एक अन्य जाति, एमोरियों के राजा, ने जब यह सुना कि <strong>गिबोन के निवासियों</strong> ने इस्राएलियों से मेल किया और उनके बीच रहने लगे है, तब सब ने अपनी अपनी सेना इकट्ठी करके एक विशाल सेना तैयार की और <strong>गिबोन</strong> के सामने डेरे डालकर उस से युद्ध छेड़ दिया।</p></li><li><p><strong>15:8</strong> तब यहोशू सारे योद्धाओं और शुरवीरों को संग लेकर रातों रात <strong>गिबोनियों</strong> तक पहुँचने के लिए चल पड़े।</p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1391, H1393</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008029",
+          "end_ref_usfm": "1CH 8:29"
+        },
+        {
+          "start_ref": "16003007",
+          "start_ref_usfm": "NEH 3:7",
+          "end_ref": "16003007",
+          "end_ref_usfm": "NEH 3:7"
+        },
+        {
+          "start_ref": "11003004",
+          "start_ref_usfm": "1KI 3:4",
+          "end_ref": "11003005",
+          "end_ref_usfm": "1KI 3:5"
+        },
+        {
+          "start_ref": "10002012",
+          "start_ref_usfm": "2SA 2:12",
+          "end_ref": "10002013",
+          "end_ref_usfm": "2SA 2:13"
+        },
+        {
+          "start_ref": "06009003",
+          "start_ref_usfm": "JOS 9:3",
+          "end_ref": "06009005",
+          "end_ref_usfm": "JOS 9:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25782,
+          "content_id": 179853,
+          "label": "गिलगाल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 179963,
+          "label": "यरीहो",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 179965,
+          "label": "यरूशलेम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

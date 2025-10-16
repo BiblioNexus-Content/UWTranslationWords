@@ -1,0 +1,329 @@
+[
+  {
+    "content_id": 467270,
+    "reference_id": 26149,
+    "title": "Rachel",
+    "media_type": "Text",
+    "index_reference": "rachel",
+    "language": "fra",
+    "content": "<h1>Rachel</h1><h2>Définition :</h2><p>Rachel était l&apos;une des épouses de Jacob* Elle et sa sœur Léa étaient les filles de Laban, oncle de Jacob.</p><ul><li><p>Rachel était la mère de Joseph et Benjamin, dont les descendants sont devenus deux des tribus d&apos;Israël.</p></li><li><p>Dans un premier temps, Rachel n&apos;a pas été en mesure d&apos;avoir des enfants* Alors Dieu lui a permis de donner naissance à Joseph.</p></li><li><p>Des années plus tard, quand elle donnait naissance à Benjamin, Rachel est morte et Jacob l&apos;a enterrée près de Bethléem.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/bethlehem.md), (../names/jacob.md), (../names/laban.md), (../names/leah.md), (../names/josephot.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029006",
+          "start_ref_usfm": "GEN 29:6",
+          "end_ref": "01029006",
+          "end_ref_usfm": "GEN 29:6"
+        },
+        {
+          "start_ref": "01029009",
+          "start_ref_usfm": "GEN 29:9",
+          "end_ref": "01029009",
+          "end_ref_usfm": "GEN 29:9"
+        },
+        {
+          "start_ref": "01029010",
+          "start_ref_usfm": "GEN 29:10",
+          "end_ref": "01029010",
+          "end_ref_usfm": "GEN 29:10"
+        },
+        {
+          "start_ref": "01029011",
+          "start_ref_usfm": "GEN 29:11",
+          "end_ref": "01029011",
+          "end_ref_usfm": "GEN 29:11"
+        },
+        {
+          "start_ref": "01029012",
+          "start_ref_usfm": "GEN 29:12",
+          "end_ref": "01029012",
+          "end_ref_usfm": "GEN 29:12"
+        },
+        {
+          "start_ref": "01029016",
+          "start_ref_usfm": "GEN 29:16",
+          "end_ref": "01029016",
+          "end_ref_usfm": "GEN 29:16"
+        },
+        {
+          "start_ref": "01029017",
+          "start_ref_usfm": "GEN 29:17",
+          "end_ref": "01029017",
+          "end_ref_usfm": "GEN 29:17"
+        },
+        {
+          "start_ref": "01029018",
+          "start_ref_usfm": "GEN 29:18",
+          "end_ref": "01029018",
+          "end_ref_usfm": "GEN 29:18"
+        },
+        {
+          "start_ref": "01029020",
+          "start_ref_usfm": "GEN 29:20",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        },
+        {
+          "start_ref": "01029025",
+          "start_ref_usfm": "GEN 29:25",
+          "end_ref": "01029025",
+          "end_ref_usfm": "GEN 29:25"
+        },
+        {
+          "start_ref": "01029028",
+          "start_ref_usfm": "GEN 29:28",
+          "end_ref": "01029028",
+          "end_ref_usfm": "GEN 29:28"
+        },
+        {
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
+        },
+        {
+          "start_ref": "01029030",
+          "start_ref_usfm": "GEN 29:30",
+          "end_ref": "01029030",
+          "end_ref_usfm": "GEN 29:30"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "01030002",
+          "start_ref_usfm": "GEN 30:2",
+          "end_ref": "01030002",
+          "end_ref_usfm": "GEN 30:2"
+        },
+        {
+          "start_ref": "01030006",
+          "start_ref_usfm": "GEN 30:6",
+          "end_ref": "01030006",
+          "end_ref_usfm": "GEN 30:6"
+        },
+        {
+          "start_ref": "01030007",
+          "start_ref_usfm": "GEN 30:7",
+          "end_ref": "01030007",
+          "end_ref_usfm": "GEN 30:7"
+        },
+        {
+          "start_ref": "01030008",
+          "start_ref_usfm": "GEN 30:8",
+          "end_ref": "01030008",
+          "end_ref_usfm": "GEN 30:8"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030014",
+          "end_ref_usfm": "GEN 30:14"
+        },
+        {
+          "start_ref": "01030015",
+          "start_ref_usfm": "GEN 30:15",
+          "end_ref": "01030015",
+          "end_ref_usfm": "GEN 30:15"
+        },
+        {
+          "start_ref": "01030022",
+          "start_ref_usfm": "GEN 30:22",
+          "end_ref": "01030022",
+          "end_ref_usfm": "GEN 30:22"
+        },
+        {
+          "start_ref": "01030025",
+          "start_ref_usfm": "GEN 30:25",
+          "end_ref": "01030025",
+          "end_ref_usfm": "GEN 30:25"
+        },
+        {
+          "start_ref": "01031004",
+          "start_ref_usfm": "GEN 31:4",
+          "end_ref": "01031004",
+          "end_ref_usfm": "GEN 31:4"
+        },
+        {
+          "start_ref": "01031006",
+          "start_ref_usfm": "GEN 31:6",
+          "end_ref": "01031006",
+          "end_ref_usfm": "GEN 31:6"
+        },
+        {
+          "start_ref": "01031014",
+          "start_ref_usfm": "GEN 31:14",
+          "end_ref": "01031014",
+          "end_ref_usfm": "GEN 31:14"
+        },
+        {
+          "start_ref": "01031019",
+          "start_ref_usfm": "GEN 31:19",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031032",
+          "start_ref_usfm": "GEN 31:32",
+          "end_ref": "01031032",
+          "end_ref_usfm": "GEN 31:32"
+        },
+        {
+          "start_ref": "01031033",
+          "start_ref_usfm": "GEN 31:33",
+          "end_ref": "01031033",
+          "end_ref_usfm": "GEN 31:33"
+        },
+        {
+          "start_ref": "01031034",
+          "start_ref_usfm": "GEN 31:34",
+          "end_ref": "01031034",
+          "end_ref_usfm": "GEN 31:34"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033001",
+          "end_ref_usfm": "GEN 33:1"
+        },
+        {
+          "start_ref": "01033002",
+          "start_ref_usfm": "GEN 33:2",
+          "end_ref": "01033002",
+          "end_ref_usfm": "GEN 33:2"
+        },
+        {
+          "start_ref": "01033007",
+          "start_ref_usfm": "GEN 33:7",
+          "end_ref": "01033007",
+          "end_ref_usfm": "GEN 33:7"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "01035020",
+          "start_ref_usfm": "GEN 35:20",
+          "end_ref": "01035020",
+          "end_ref_usfm": "GEN 35:20"
+        },
+        {
+          "start_ref": "01035024",
+          "start_ref_usfm": "GEN 35:24",
+          "end_ref": "01035024",
+          "end_ref_usfm": "GEN 35:24"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046019",
+          "start_ref_usfm": "GEN 46:19",
+          "end_ref": "01046019",
+          "end_ref_usfm": "GEN 46:19"
+        },
+        {
+          "start_ref": "01046022",
+          "start_ref_usfm": "GEN 46:22",
+          "end_ref": "01046022",
+          "end_ref_usfm": "GEN 46:22"
+        },
+        {
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "01033001",
+          "start_ref_usfm": "GEN 33:1",
+          "end_ref": "01033003",
+          "end_ref_usfm": "GEN 33:3"
+        },
+        {
+          "start_ref": "01029019",
+          "start_ref_usfm": "GEN 29:19",
+          "end_ref": "01029020",
+          "end_ref_usfm": "GEN 29:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 467090,
+          "label": "Laban",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 467101,
+          "label": "Lea",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

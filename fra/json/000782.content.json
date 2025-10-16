@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467115,
+    "reference_id": 25975,
+    "title": "Seigneur",
+    "media_type": "Text",
+    "index_reference": "seigneur",
+    "language": "fra",
+    "content": "<h1>Seigneur, l&apos;Éternel, l&apos;Éternel Dieu</h1><h2>Définition :</h2><p>Dans l&apos;Ancien Testament, ces termes sont utilisés à plusieurs reprises pour se référer au seul vrai Dieu.</p><ul><li><p>Le terme « Seigneur » est un titre et « Yahvé » est le nom personnel de Dieu.</p></li><li><p>Le nom personnel de Dieu « Yahvé » est également souvent combiné avec le terme « Dieu » pour former « Yahvé Dieu ».</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Si vous utilisez une certaine forme de « Yahvé » pour son nom personnel, vous pouvez traduire ces termes littéralement comme « Seigneur Yahvé » et « Yahvé Dieu ». Considérez également comment le terme « Seigneur » est traduit dans d&apos;autres contextes lorsque vous vous référez à Dieu.</p></li><li><p>Certaines langues ont mis les titres après le nom et se traduisent comme « Yahvé Seigneur ». Considérez ce qui est naturel dans la langue du projet : si le titre de « Seigneur » viens avant ou après « Yahvé ».</p></li><li><p>« Yahvé Dieu » pourrait être rendu en tant que « Dieu qui est appelé Yahvé » ou « Dieu qui est vivant » ou « Je suis, qui est Dieu ».</p></li><li><p>Si la traduction rend « Yahvé » comme « Seigneur », le terme « Seigneur Yahvé » pourrait être traduit par « l&apos;Eternel » ou « Dieu qui est le Seigneur ». D&apos;autres traductions possibles pourraient être, « Maître Éternel » ou « Dieu, l&apos;Éternel ».</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/god.md), (../kt/lord.md), (../kt/lord.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006022",
+          "start_ref_usfm": "JDG 6:22",
+          "end_ref": "07006022",
+          "end_ref_usfm": "JDG 6:22"
+        },
+        {
+          "start_ref": "24044026",
+          "start_ref_usfm": "JER 44:26",
+          "end_ref": "24044026",
+          "end_ref_usfm": "JER 44:26"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045018",
+          "end_ref_usfm": "EZK 45:18"
+        },
+        {
+          "start_ref": "26039025",
+          "start_ref_usfm": "EZK 39:25",
+          "end_ref": "26039027",
+          "end_ref_usfm": "EZK 39:27"
+        },
+        {
+          "start_ref": "33001002",
+          "start_ref_usfm": "MIC 1:2",
+          "end_ref": "33001004",
+          "end_ref_usfm": "MIC 1:4"
+        },
+        {
+          "start_ref": "46004003",
+          "start_ref_usfm": "1CO 4:3",
+          "end_ref": "46004004",
+          "end_ref_usfm": "1CO 4:4"
+        },
+        {
+          "start_ref": "10007021",
+          "start_ref_usfm": "2SA 7:21",
+          "end_ref": "10007023",
+          "end_ref_usfm": "2SA 7:23"
+        },
+        {
+          "start_ref": "05003023",
+          "start_ref_usfm": "DEU 3:23",
+          "end_ref": "05003025",
+          "end_ref_usfm": "DEU 3:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 467113,
+          "label": "Seigneur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

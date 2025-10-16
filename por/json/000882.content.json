@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 238258,
+    "reference_id": 26128,
+    "title": "Terra Prometida",
+    "media_type": "Text",
+    "index_reference": "terra prometida",
+    "language": "por",
+    "content": "<h1>Terra Prometida</h1><h2>Fatos:</h2><p>O termo &quot;Terra Prometida&quot; ocorre apenas nas histórias da Bíblia, não no texto bíblico. É uma maneira alternativa de se referir à terra de Canaã que Deus prometeu dar a Abraão e seus descendentes.</p><ul><li><p>Quando Abrão estava vivendo na cidade de Ur, Deus ordenou que ele fosse viver na terra de Canaã. Ele e seus descendentes, os israelitas, viveram lá por muitos anos.</p></li><li><p>Quando uma fome severa fez com que não houvesse comida em Canaã, os israelitas se mudaram para o Egito.</p></li><li><p>Quatrocentos anos depois, Deus resgatou os israelitas da escravidão no Egito e os trouxe de volta a Canaã, a terra que Deus havia prometido dar a eles.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo &quot;Terra Prometida&quot; pode ser traduzido como &quot;terra que Deus disse que daria a Abraão&quot; ou &quot;terra que Deus prometeu a Abraão&quot; ou &quot;terra que Deus prometeu ao seu povo&quot; ou &quot;terra de Canaã&quot;.</p></li><li><p>No texto bíblico, este termo ocorre como alguma forma de &quot;a terra que Deus prometeu&quot;.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26127\" data-resourceType=\"UWTranslationWords\">promessa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut8:1-Deut8:2\">Deuteronômio 8.1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezek7:26-Ezek7:27\">Ezequiel 7.26–27</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>12:1</strong> Eles (os israelitas) não eram mais escravos e estavam indo para a <strong>Terra Prometida</strong>!</p></li><li><p><strong>14:1</strong> Depois que Deus disse aos israelitas as leis que queria que eles obedecessem como parte de sua aliança com eles, Deus começou a guiá-los do Monte Sinai em direção à <strong>Terra Prometida</strong>, que também era chamada de Canaã.</p></li><li><p><strong>14:2</strong> Deus havia prometido a Abraão, Isaque e Jacó que daria a <strong>Terra Prometida</strong> aos seus descendentes, mas agora havia muitos grupos de pessoas vivendo lá.</p></li><li><p><strong>14:14</strong> Então Deus guiou o povo até a borda da <strong>Terra Prometida</strong> novamente.</p></li><li><p><strong>15:2</strong> Os israelitas tiveram que atravessar o rio Jordão para entrar na <strong>Terra Prometida</strong>.</p></li><li><p><strong>15:12</strong> Após esta batalha, Deus deu a cada tribo de Israel sua própria seção da <strong>Terra Prometida</strong>.</p></li><li><p><strong>20:9</strong> Este período de tempo em que o povo de Deus foi forçado a deixar a <strong>Terra Prometida</strong> é chamado de Exílio.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0776, H3068, H3423, H5159, H5414, H7650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008002",
+          "end_ref_usfm": "DEU 8:2"
+        },
+        {
+          "start_ref": "26007026",
+          "start_ref_usfm": "EZK 7:26",
+          "end_ref": "26007027",
+          "end_ref_usfm": "EZK 7:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 238257,
+          "label": "Promessa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

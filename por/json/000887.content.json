@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 237650,
+    "reference_id": 25514,
+    "title": "Testificar",
+    "media_type": "Text",
+    "index_reference": "testificar",
+    "language": "por",
+    "content": "<h1>testificar, testemunhar, dar falso testemunho, testemunhou, testemunhado</h1><h2>Fatos:</h2><p>Usada neste sentido, a frase “dar testemunho” significa testemunhar sobre algo ou relatar algo.</p><ul><li><p>A expressão “dar testemunho” significa “testemunhar” ou “relatar o que se viu ou experimentou”.</p></li><li><p>A expressão “dar falso testemunho” significa “testemunhar falsamente” ou “relatar falsamente o que se viu ou experimentou”.</p></li><li><p>Dependendo do contexto, a frase “dar testemunho” pode ser traduzida como “testemunhar” ou “relatar”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26171\" data-resourceType=\"UWTranslationWords\">relatório</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">testemunho</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26171,
+          "content_id": 238301,
+          "label": "Relatar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 238422,
+          "label": "Testemunho",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

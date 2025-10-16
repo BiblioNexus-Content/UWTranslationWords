@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26436,
+    "reference_id": 25578,
+    "title": "Cedar",
+    "media_type": "Text",
+    "index_reference": "cedar",
+    "language": "eng",
+    "content": "<h1>cedar, cedarwood</h1><h2>Definition:</h2><p>The term “cedar” refers to a large fir tree which normally has reddish-brown wood. Like other firs, it has cones and needle-like leaves.</p><ul><li><p>The Old Testament often mentions cedar trees in connection with Lebanon, where they grew plentifully.</p></li><li><p>Cedar wood was used in the construction of the Jerusalem temple.</p></li><li><p>It was also used for sacrifices and purification offerings.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">fir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">pure</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">temple</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr14:1-1Chr14:2\">1 Chronicles 14:1–2</a></p></li><li><p><a href=\"https://ref.ly/1Kgs7:1-1Kgs7:2\">1 Kings 7:1–2</a></p></li><li><p><a href=\"https://ref.ly/Isa2:13\">Isaiah 2:13</a></p></li><li><p><a href=\"https://ref.ly/Zech11:2\">Zechariah 11:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0730</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "18040017",
+          "start_ref_usfm": "JOB 40:17",
+          "end_ref": "18040017",
+          "end_ref_usfm": "JOB 40:17"
+        },
+        {
+          "start_ref": "22001017",
+          "start_ref_usfm": "SNG 1:17",
+          "end_ref": "22001017",
+          "end_ref_usfm": "SNG 1:17"
+        },
+        {
+          "start_ref": "22008009",
+          "start_ref_usfm": "SNG 8:9",
+          "end_ref": "22008009",
+          "end_ref_usfm": "SNG 8:9"
+        },
+        {
+          "start_ref": "23002013",
+          "start_ref_usfm": "ISA 2:13",
+          "end_ref": "23002013",
+          "end_ref_usfm": "ISA 2:13"
+        },
+        {
+          "start_ref": "38011002",
+          "start_ref_usfm": "ZEC 11:2",
+          "end_ref": "38011002",
+          "end_ref_usfm": "ZEC 11:2"
+        },
+        {
+          "start_ref": "13014001",
+          "start_ref_usfm": "1CH 14:1",
+          "end_ref": "13014002",
+          "end_ref_usfm": "1CH 14:2"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007002",
+          "end_ref_usfm": "1KI 7:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25741,
+          "content_id": 26599,
+          "label": "Fir",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 27142,
+          "label": "Temple",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27221,
+    "reference_id": 26363,
+    "title": "Yoke",
+    "media_type": "Text",
+    "index_reference": "yoke",
+    "language": "eng",
+    "content": "<h1>yoke, yoked, tied</h1><h2>Definition:</h2><p>A yoke is a piece of wood or metal attached to two or more animals to connect them for the purpose of pulling a plow or a cart. There are also several figurative meanings for this term.</p><ul><li><p>The term “yoke” is used figuratively to refer to something that joins people for the purpose of working together, such as in serving Jesus.</p></li><li><p>Paul used the term “yokefellow” to refer to someone who was serving Christ as he was. This could also be translated as “fellow worker” or “fellow servant” or “coworker.”</p></li><li><p>The term “yoke” is also often used figuratively to refer to a heavy load that someone has to carry, such as when being oppressed by slavery or persecution.</p></li><li><p>In most contexts, it is best to translate this term literally, using the local term for a yoke that is used for farming.</p></li><li><p>Other ways to translate the figurative use of this term could be, “oppressive burden” or “heavy load” or “bond,” depending on the context.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_bind\" data-resourceType=\"UWTranslationWords\">bind</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25512\" data-resourceType=\"UWTranslationWords\">burden</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_oppress\" data-resourceType=\"UWTranslationWords\">oppress</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26089\" data-resourceType=\"UWTranslationWords\">persecute</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26217\" data-resourceType=\"UWTranslationWords\">servant</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts15:10\">Acts 15:10</a></p></li><li><p><a href=\"https://ref.ly/Gal5:1\">Galatians 5:1</a></p></li><li><p><a href=\"https://ref.ly/Gen27:40\">Genesis 27:40</a></p></li><li><p><a href=\"https://ref.ly/Isa9:4\">Isaiah 9:4</a></p></li><li><p><a href=\"https://ref.ly/Jer27:4\">Jeremiah 27:4</a></p></li><li><p><a href=\"https://ref.ly/Matt11:30\">Matthew 11:30</a></p></li><li><p><a href=\"https://ref.ly/Phil4:3\">Philippians 4:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3627, H4132, H4133, H5674, H5923, H6776, G20860, G22180</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01027040",
+          "start_ref_usfm": "GEN 27:40",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "23009004",
+          "start_ref_usfm": "ISA 9:4",
+          "end_ref": "23009004",
+          "end_ref_usfm": "ISA 9:4"
+        },
+        {
+          "start_ref": "24027004",
+          "start_ref_usfm": "JER 27:4",
+          "end_ref": "24027004",
+          "end_ref_usfm": "JER 27:4"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "40011030",
+          "start_ref_usfm": "MAT 11:30",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "44015010",
+          "start_ref_usfm": "ACT 15:10",
+          "end_ref": "44015010",
+          "end_ref_usfm": "ACT 15:10"
+        },
+        {
+          "start_ref": "47006014",
+          "start_ref_usfm": "2CO 6:14",
+          "end_ref": "47006014",
+          "end_ref_usfm": "2CO 6:14"
+        },
+        {
+          "start_ref": "48005001",
+          "start_ref_usfm": "GAL 5:1",
+          "end_ref": "48005001",
+          "end_ref_usfm": "GAL 5:1"
+        },
+        {
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006001",
+          "end_ref_usfm": "1TI 6:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25512,
+          "content_id": 26370,
+          "label": "Bear-Carry Burden",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25549,
+          "content_id": 26407,
+          "label": "Bond",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 26947,
+          "label": "Persecute",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26217,
+          "content_id": 27075,
+          "label": "Servant",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467362,
+    "reference_id": 26247,
+    "title": "Neige",
+    "media_type": "Text",
+    "index_reference": "neige",
+    "language": "fra",
+    "content": "<h1>neige</h1><h2>Définition :</h2><p>&quot;Le terme «neige» se réfère aux flocons glacés qui tombent dans les hauts lieux comme les montagnes ou dans les régions polaires.</p><ul><li><p>La neige tombe parfois à Jérusalem en hiver, mais generalement elle ne s&apos;accumule pas.</p></li><li><p>La neige est souvent utilisée comme un exemple de la couleur blanche.</p></li><li><p>La blancheur de la neige est le symbole de la pureté* l&apos;Ecriture déclare que «nos péchés *** seront blancs comme la neige»,ce qui signifie que Dieu purifie complètement son peuple de ses péchés.</p></li><li><p>les descriptions du Christ glorifié dans le livre de l&apos;Apocalypse mentionnent que ses cheveux étaient «blancs comme la neige*&quot;</p></li><li><p>Certaines langues peuvent se référer à la neige comme «pluie gelée» ou «flocons de glace&quot; ou &quot;flocons gelés*&quot;</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/lebanon.md), (../kt/purify.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004006",
+          "start_ref_usfm": "EXO 4:6",
+          "end_ref": "02004006",
+          "end_ref_usfm": "EXO 4:6"
+        },
+        {
+          "start_ref": "19147016",
+          "start_ref_usfm": "PSA 147:16",
+          "end_ref": "19147016",
+          "end_ref_usfm": "PSA 147:16"
+        },
+        {
+          "start_ref": "20025013",
+          "start_ref_usfm": "PRO 25:13",
+          "end_ref": "20025013",
+          "end_ref_usfm": "PRO 25:13"
+        },
+        {
+          "start_ref": "20026001",
+          "start_ref_usfm": "PRO 26:1",
+          "end_ref": "20026001",
+          "end_ref_usfm": "PRO 26:1"
+        },
+        {
+          "start_ref": "20031021",
+          "start_ref_usfm": "PRO 31:21",
+          "end_ref": "20031021",
+          "end_ref_usfm": "PRO 31:21"
+        },
+        {
+          "start_ref": "40028003",
+          "start_ref_usfm": "MAT 28:3",
+          "end_ref": "40028003",
+          "end_ref_usfm": "MAT 28:3"
+        },
+        {
+          "start_ref": "66001014",
+          "start_ref_usfm": "REV 1:14",
+          "end_ref": "66001014",
+          "end_ref_usfm": "REV 1:14"
+        },
+        {
+          "start_ref": "18037004",
+          "start_ref_usfm": "JOB 37:4",
+          "end_ref": "18037006",
+          "end_ref_usfm": "JOB 37:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25963,
+          "content_id": 467103,
+          "label": "Liban",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

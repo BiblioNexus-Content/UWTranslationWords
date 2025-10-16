@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237712,
+    "reference_id": 25577,
+    "title": "Arrebatado",
+    "media_type": "Text",
+    "index_reference": "arrebatado",
+    "language": "por",
+    "content": "<h1>Arrebatado</h1><h2>Definição:</h2><p>O termo “arrebatado” muitas vezes se refere a Deus levando uma pessoa ao céu de uma maneira súbita e milagrosa.</p><ul><li><p>A frase “chegar até alguém” refere-se a alcançar alguém após se apressar para alcançá-lo. Um termo com um significado semelhante é “ultrapassar.”</p></li><li><p>O apóstolo Paulo falou sobre ser “arrebatado” ao terceiro céu. Isso também poderia ser traduzido como “levado.”</p></li><li><p>Paulo disse que quando Cristo voltar, os cristãos serão “arrebatados” juntos para encontrá-lo no ar.</p></li><li><p>A expressão figurativa, “meus pecados me alcançaram” poderia ser traduzida como “estou recebendo as consequências do meu pecado” ou “por causa do meu pecado estou sofrendo” ou “meu pecado está me causando problemas.”</p></li></ul><p>(veja: <span data-bnType=\"resourceReference\" data-resourceId=\"26022\" data-resourceType=\"UWTranslationWords\">milagre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26068\" data-resourceType=\"UWTranslationWords\">ultrapassar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26272\" data-resourceType=\"UWTranslationWords\">sofrer</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26320\" data-resourceType=\"UWTranslationWords\">dificuldade</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Cor12:1-2Cor12:2\">2 Coríntios 12.1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts8:39-Acts8:40\">Atos 8.39–40</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1692, G07260</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "47012002",
+          "start_ref_usfm": "2CO 12:2",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        },
+        {
+          "start_ref": "47012004",
+          "start_ref_usfm": "2CO 12:4",
+          "end_ref": "47012004",
+          "end_ref_usfm": "2CO 12:4"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "47012001",
+          "start_ref_usfm": "2CO 12:1",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26022,
+          "content_id": 238152,
+          "label": "Milagre",
+          "language": "por"
+        },
+        {
+          "reference_id": 26068,
+          "content_id": 238198,
+          "label": "Atingir",
+          "language": "por"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 238401,
+          "label": "Sofrer",
+          "language": "por"
+        },
+        {
+          "reference_id": 26320,
+          "content_id": 238448,
+          "label": "Perturbação",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

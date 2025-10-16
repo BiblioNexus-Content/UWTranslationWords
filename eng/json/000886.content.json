@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 27159,
+    "reference_id": 26301,
+    "title": "Threshold",
+    "media_type": "Text",
+    "index_reference": "threshold",
+    "language": "eng",
+    "content": "<h1>threshold, doorway</h1><h2>Definition:</h2><p>The term “threshold” refers to the bottom part of a doorway or the part of a building that is just inside the door.</p><ul><li><p>Sometimes a threshold is a strip of wood or stone that must be stepped over in order to enter a room or building.</p></li><li><p>Both a gate and the opening to a tent can also have a threshold.</p></li><li><p>This term should be translated with a term in the project language that refers to the place at the very entrance to a home that a person steps across.</p></li><li><p>If there is no term for this, “threshold” could also be translated as “doorway” or “opening” or “entranceway,” depending on the context.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25767\" data-resourceType=\"UWTranslationWords\">gate</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26287\" data-resourceType=\"UWTranslationWords\">tent</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr9:17-1Chr9:19\">1 Chronicles 9:17–19</a></p></li><li><p><a href=\"https://ref.ly/Ezek9:3\">Ezekiel 9:3</a></p></li><li><p><a href=\"https://ref.ly/Isa6:4\">Isaiah 6:4</a></p></li><li><p><a href=\"https://ref.ly/Prov17:19\">Proverbs 17:19</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4670, H5592</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017019",
+          "start_ref_usfm": "PRO 17:19",
+          "end_ref": "20017019",
+          "end_ref_usfm": "PRO 17:19"
+        },
+        {
+          "start_ref": "23006004",
+          "start_ref_usfm": "ISA 6:4",
+          "end_ref": "23006004",
+          "end_ref_usfm": "ISA 6:4"
+        },
+        {
+          "start_ref": "26009003",
+          "start_ref_usfm": "EZK 9:3",
+          "end_ref": "26009003",
+          "end_ref_usfm": "EZK 9:3"
+        },
+        {
+          "start_ref": "13009017",
+          "start_ref_usfm": "1CH 9:17",
+          "end_ref": "13009019",
+          "end_ref_usfm": "1CH 9:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 26625,
+          "label": "Gate",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26287,
+          "content_id": 27145,
+          "label": "Tent",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466952,
+    "reference_id": 25803,
+    "title": "Grappe de raisin",
+    "media_type": "Text",
+    "index_reference": "grappe de raisin",
+    "language": "fra",
+    "content": "<h1>grappe de raisin</h1><h2>Définition :</h2><p>&quot;un raisin est un petit fruit rond de baie qui pousse en grappes sur la vigne* Leur jus est utilisé dans la fabrication du vin.</p><ul><li><p>Les gens plantent les raisins dans les jardins appelés vignobles* Ceux-ci consistent normalement en de longues rangées de vignes.</p></li><li><p>Parce que les raisins ne durent pas longtemps après qu&apos;ils sont devenus mûrs, les gens les font sécher pour les manger plus tard* En français, ces raisins secs sont appelés raisins* L&apos;Ancien Testament se réfère à des gâteaux de raisins secs.</p></li></ul><p>(Voir aussi : (../other/vine.md), (../other/vineyard.md), (../other/wine.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040010",
+          "start_ref_usfm": "GEN 40:10",
+          "end_ref": "01040010",
+          "end_ref_usfm": "GEN 40:10"
+        },
+        {
+          "start_ref": "01040011",
+          "start_ref_usfm": "GEN 40:11",
+          "end_ref": "01040011",
+          "end_ref_usfm": "GEN 40:11"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "05023024",
+          "start_ref_usfm": "DEU 23:24",
+          "end_ref": "05023024",
+          "end_ref_usfm": "DEU 23:24"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "18015033",
+          "start_ref_usfm": "JOB 15:33",
+          "end_ref": "18015033",
+          "end_ref_usfm": "JOB 15:33"
+        },
+        {
+          "start_ref": "28009010",
+          "start_ref_usfm": "HOS 9:10",
+          "end_ref": "28009010",
+          "end_ref_usfm": "HOS 9:10"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "42006044",
+          "start_ref_usfm": "LUK 6:44",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "66014018",
+          "start_ref_usfm": "REV 14:18",
+          "end_ref": "66014018",
+          "end_ref_usfm": "REV 14:18"
+        },
+        {
+          "start_ref": "42006043",
+          "start_ref_usfm": "LUK 6:43",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007017",
+          "end_ref_usfm": "MAT 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26335,
+          "content_id": 467444,
+          "label": "Vigne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 467445,
+          "label": "Vigne (cep)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 467455,
+          "label": "Vin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26348,
+    "reference_id": 25490,
+    "title": "Atonement",
+    "media_type": "Text",
+    "index_reference": "atonement",
+    "language": "eng",
+    "content": "<h1>atonement, atone, atoned</h1><h2>Definition:</h2><p>The terms “atone” and “atonement” refer to how God provided a sacrifice to pay for people’s sins and to appease his wrath for sin.</p><ul><li><p>In Old Testament times, God allowed temporary atonement to be made for the sins of the Israelites by the offering of a blood sacrifice, which involved killing an animal.</p></li><li><p>As recorded in the New Testament, Christ’s death on the cross is the only true and permanent atonement for sin.</p></li><li><p>When Jesus died, he took the punishment that people deserve because of their sin. He paid the atonement price with his sacrificial death.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “atone” could be translated by a word or phrase that means “pay for” or “provide payment for” or “cause someone’s sins to be forgiven” or “make amends for a crime.”</p></li><li><p>Ways to translate “atonement” could include “payment” or “sacrifice to pay for sin” or “providing the means of forgiveness.”</p></li><li><p>Make sure the translation of this term does not refer to payment of money.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25491\" data-resourceType=\"UWTranslationWords\">atonement lid</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">forgive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26130\" data-resourceType=\"UWTranslationWords\">propitiation</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">reconcile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">redeem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek43:25-Ezek43:27\">Ezekiel 43:25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:18-Ezek45:20\">Ezekiel 45:18–20</a></p></li><li><p><a href=\"https://ref.ly/Lev4:20\">Leviticus 4:20</a></p></li><li><p><a href=\"https://ref.ly/Num5:8\">Numbers 5:8</a></p></li><li><p><a href=\"https://ref.ly/Num28:22\">Numbers 28:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3722, H3725, G26430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029033",
+          "start_ref_usfm": "EXO 29:33",
+          "end_ref": "02029033",
+          "end_ref_usfm": "EXO 29:33"
+        },
+        {
+          "start_ref": "02029036",
+          "start_ref_usfm": "EXO 29:36",
+          "end_ref": "02029036",
+          "end_ref_usfm": "EXO 29:36"
+        },
+        {
+          "start_ref": "02030010",
+          "start_ref_usfm": "EXO 30:10",
+          "end_ref": "02030010",
+          "end_ref_usfm": "EXO 30:10"
+        },
+        {
+          "start_ref": "02030016",
+          "start_ref_usfm": "EXO 30:16",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "02032030",
+          "start_ref_usfm": "EXO 32:30",
+          "end_ref": "02032030",
+          "end_ref_usfm": "EXO 32:30"
+        },
+        {
+          "start_ref": "03004020",
+          "start_ref_usfm": "LEV 4:20",
+          "end_ref": "03004020",
+          "end_ref_usfm": "LEV 4:20"
+        },
+        {
+          "start_ref": "04005008",
+          "start_ref_usfm": "NUM 5:8",
+          "end_ref": "04005008",
+          "end_ref_usfm": "NUM 5:8"
+        },
+        {
+          "start_ref": "04028022",
+          "start_ref_usfm": "NUM 28:22",
+          "end_ref": "04028022",
+          "end_ref_usfm": "NUM 28:22"
+        },
+        {
+          "start_ref": "26043025",
+          "start_ref_usfm": "EZK 43:25",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045020",
+          "end_ref_usfm": "EZK 45:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25491,
+          "content_id": 26349,
+          "label": "Atonement Lid",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 26610,
+          "label": "Forgive",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26130,
+          "content_id": 26988,
+          "label": "Propitiation",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 27018,
+          "label": "Reconcile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 27019,
+          "label": "Redeem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238074,
+    "reference_id": 25942,
+    "title": "Reino de Judá",
+    "media_type": "Text",
+    "index_reference": "reino de judá",
+    "language": "por",
+    "content": "<h1>Judá, reino de Judá</h1><h2>Fatos:</h2><p>A tribo de Judá era a maior das doze tribos de Israel. O reino de Judá era composto pelas tribos de Judá e Benjamim.</p><ul><li><p>Após a morte do rei Salomão, a nação de Israel foi dividida em dois reinos: Israel e Judá. O reino de Judá era o reino do sul, localizado a oeste do Mar Salgado.</p></li><li><p>A cidade capital do reino de Judá era Jerusalém.</p></li><li><p>Oito reis de Judá obedeceram a Javé e levaram o povo a adorá-lo. Os outros reis de Judá eram maus e levaram o povo a adorar ídolos.</p></li><li><p>Mais de 120 anos após a Assíria derrotar Israel (o reino do norte), Judá foi conquistado pela nação da Babilônia. Os babilônios destruíram a cidade e o templo, e levaram a maioria do povo de Judá para a Babilônia como cativos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Mar Salgado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam30:26-1Sam30:28\">1 Samuel 30.26–28</a></p></li><li><p><a href=\"https://ref.ly/2Sam12:8\">2 Samuel 12.8</a></p></li><li><p><a href=\"https://ref.ly/Hos5:14\">Oséias 5.14</a></p></li><li><p><a href=\"https://ref.ly/Jer7:33\">Jeremias 7.33</a></p></li><li><p><a href=\"https://ref.ly/Judg1:16-Judg1:17\">Juízes 1.16–17</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>18:7</strong> Apenas duas tribos permaneceram fiéis a ele (Roboão). Essas duas tribos se tornaram o <strong>reino de Judá</strong>.</p></li><li><p><strong>18:10</strong> Os <strong>reinos de Judá</strong> e Israel se tornaram inimigos e lutavam frequentemente entre si.</p></li><li><p><strong>18:13</strong> Os <strong>reis de Judá</strong> eram descendentes de Davi. Alguns desses reis eram homens bons que governavam com justiça e adoravam a Deus. Mas a maioria dos reis de <strong>Judá</strong> eram maus, corruptos e adoravam ídolos.</p></li><li><p><strong>20:1</strong> Os <strong>reinos de Israel e Judá</strong> pecaram contra Deus.</p></li><li><p><strong>20:5</strong> O povo do <strong>reino de Judá</strong> viu como Deus havia punido o povo do reino de Israel por não acreditar e obedecê-lo. Mas eles ainda adoravam ídolos, incluindo os deuses dos cananeus.</p></li><li><p><strong>20:6</strong> Cerca de 100 anos após os assírios destruírem o reino de Israel, Deus enviou Nabucodonosor, rei dos babilônios, para atacar o <strong>reino de Judá</strong>.</p></li><li><p><strong>20:9</strong> Nabucodonosor e seu exército levaram quase todo o povo do <strong>reino de Judá</strong> para a Babilônia, deixando apenas os mais pobres para cultivar os campos.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4438, H3063</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10012008",
+          "start_ref_usfm": "2SA 12:8",
+          "end_ref": "10012008",
+          "end_ref_usfm": "2SA 12:8"
+        },
+        {
+          "start_ref": "24007033",
+          "start_ref_usfm": "JER 7:33",
+          "end_ref": "24007033",
+          "end_ref_usfm": "JER 7:33"
+        },
+        {
+          "start_ref": "28005014",
+          "start_ref_usfm": "HOS 5:14",
+          "end_ref": "28005014",
+          "end_ref_usfm": "HOS 5:14"
+        },
+        {
+          "start_ref": "09030026",
+          "start_ref_usfm": "1SA 30:26",
+          "end_ref": "09030028",
+          "end_ref_usfm": "1SA 30:28"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001017",
+          "end_ref_usfm": "JDG 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 238320,
+          "label": "Mar Salgado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

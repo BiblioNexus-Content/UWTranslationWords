@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466848,
+    "reference_id": 25688,
+    "title": "Eden",
+    "media_type": "Text",
+    "index_reference": "eden",
+    "language": "fra",
+    "content": "<h1>Eden ,jardin d&apos;eden</h1><h2>Définition :</h2><p>Dans les temps anciens&quot;Eden&quot;était une région qui avait un jardin où Dieu a mis le premier homme et la premiere femme pour qu&apos;ils y vivent.</p><ul><li><p>Le jardin où Adam et Eve vivaient était seulement une partie d&apos;Eden</p></li><li><p>L&apos;endroit exact de la région d&apos;Eden n&apos;est pas certain,mais les Fleuves Tigres et Fleuves de Mésopotamie le traversaient.</p></li><li><p>Le mot &quot;Eden&quot;vient du mot Hebreu qui veut dire &quot;prendre plaisir dans&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/adam.md), (../names/euphrates.md), (../names/eve.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002008",
+          "start_ref_usfm": "GEN 2:8",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01002010",
+          "start_ref_usfm": "GEN 2:10",
+          "end_ref": "01002010",
+          "end_ref_usfm": "GEN 2:10"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002015",
+          "end_ref_usfm": "GEN 2:15"
+        },
+        {
+          "start_ref": "01003023",
+          "start_ref_usfm": "GEN 3:23",
+          "end_ref": "01003023",
+          "end_ref_usfm": "GEN 3:23"
+        },
+        {
+          "start_ref": "01003024",
+          "start_ref_usfm": "GEN 3:24",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004016",
+          "end_ref_usfm": "GEN 4:16"
+        },
+        {
+          "start_ref": "29002003",
+          "start_ref_usfm": "JOL 2:3",
+          "end_ref": "29002003",
+          "end_ref_usfm": "JOL 2:3"
+        },
+        {
+          "start_ref": "26028011",
+          "start_ref_usfm": "EZK 28:11",
+          "end_ref": "26028013",
+          "end_ref_usfm": "EZK 28:13"
+        },
+        {
+          "start_ref": "01002007",
+          "start_ref_usfm": "GEN 2:7",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004017",
+          "end_ref_usfm": "GEN 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 466611,
+          "label": "Adam",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 466874,
+          "label": "L'Euphrate",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25717,
+          "content_id": 466876,
+          "label": "Eve",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

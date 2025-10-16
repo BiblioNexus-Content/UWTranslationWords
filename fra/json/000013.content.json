@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466601,
+    "reference_id": 25419,
+    "title": "Abiathar",
+    "media_type": "Text",
+    "index_reference": "abiathar",
+    "language": "fra",
+    "content": "<h1>Abiathar</h1><h2>Définition :</h2><p>Abiathar était souverain sacrificateur d&apos;Israël pendant le règne de David.</p><ul><li><p>Lorsque le Roi Saül tua les sacrificateurs, Abiathar s&apos;enfuit pour aller auprès de David dans le désert.</p></li><li><p>Abiathar et un autre sacrificateur du nom de Tsadok servirent fidèlement David pendant tout son règne.</p></li><li><p>Après la mort de David, Abiathar aida Adonija qui essaya de prendre la place de Salomon.</p></li><li><p>A cause de cela, le Roi Salomon le déchut de la sacrificature.</p></li></ul><p>(Voir aussi: (../names/saul.md), (../names/david.md), (../names/solomon.md), (../names/adonijah.md) )</p><p>(Voir aussi : (../names/zadok.md), (../names/saul.md), (../names/david.md), (../names/solomon.md), (../names/adonijah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11001007",
+          "start_ref_usfm": "1KI 1:7",
+          "end_ref": "11001007",
+          "end_ref_usfm": "1KI 1:7"
+        },
+        {
+          "start_ref": "41002026",
+          "start_ref_usfm": "MRK 2:26",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "41002025",
+          "start_ref_usfm": "MRK 2:25",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "13027032",
+          "start_ref_usfm": "1CH 27:32",
+          "end_ref": "13027034",
+          "end_ref_usfm": "1CH 27:34"
+        },
+        {
+          "start_ref": "11002022",
+          "start_ref_usfm": "1KI 2:22",
+          "end_ref": "11002023",
+          "end_ref_usfm": "1KI 2:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25431,
+          "content_id": 466613,
+          "label": "Adonija",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 467319,
+          "label": "Saül (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

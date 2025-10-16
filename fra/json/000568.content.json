@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467153,
+    "reference_id": 26016,
+    "title": "Miché",
+    "media_type": "Text",
+    "index_reference": "miché",
+    "language": "fra",
+    "content": "<h1>Miché</h1><h2>Définition :</h2><p>&quot;Miché était un prophète de Juda environ sept cent ans avant Jésus Christ, lorsque le prophète Isaïe exerçait également son ministère à Juda.</p><ul><li><p>Le livre de Miché est prèsqué à la fin de l&apos;Ancien Testament.</p></li><li><p>Miché a prophétisé la destruction de Samarie par les Assyriens.</p></li><li><p>Miché réprimanda le peuple de Juda pour avoir désobéi à Dieu et les a avertis que leurs ennemis allaient les attaquer.</p></li><li><p>Sa prophétie se termine par un message d&apos;espoir en Dieu, qui est fidèle et sauve son peuple.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/assyria.md), (../names/dan.md), (../names/ephraim.md), (../kt/falsegod.md), (../names/isaiah.md), (../names/kingdomofjudah.md), (../other/judgeposition.md), (../names/levite.md), (../kt/priest.md), (../kt/prophet.md), (../names/samaria.md), (../other/silver.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16011017",
+          "start_ref_usfm": "NEH 11:17",
+          "end_ref": "16011017",
+          "end_ref_usfm": "NEH 11:17"
+        },
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        },
+        {
+          "start_ref": "33006002",
+          "start_ref_usfm": "MIC 6:2",
+          "end_ref": "33006002",
+          "end_ref_usfm": "MIC 6:2"
+        },
+        {
+          "start_ref": "24026018",
+          "start_ref_usfm": "JER 26:18",
+          "end_ref": "24026019",
+          "end_ref_usfm": "JER 26:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25641,
+          "content_id": 466804,
+          "label": "Dan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 466868,
+          "label": "Ephraim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 467022,
+          "label": "Esaîe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 467075,
+          "label": "Juge",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 467311,
+          "label": "Samarie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 467352,
+          "label": "Argent",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

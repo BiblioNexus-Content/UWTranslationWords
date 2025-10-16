@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 26977,
+    "reference_id": 26119,
+    "title": "Predestine",
+    "media_type": "Text",
+    "index_reference": "predestine",
+    "language": "eng",
+    "content": "<h1>predestine, predestined</h1><h2>Definition:</h2><p>The terms “predestine” and “predestined” refer to deciding or planning beforehand that something will happen.</p><ul><li><p>This term especially refers to God predestining people to receive eternal life.</p></li><li><p>Sometimes the word “foreordain” is used, which also means to decide beforehand.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “predestine” could also be translated as “decide before” or “decide ahead of time.”</p></li><li><p>The term “predestined” could be translated as “decided long ago” or “planned ahead of time” or “decided beforehand.”</p></li><li><p>A phrase such as “predestined us” could be translated as “decided long ago that we” or “already decided ahead of time that we.”</p></li><li><p>Note that the translation of this term should be different from the translation of the term “foreknew.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_foreknew\" data-resourceType=\"UWTranslationWords\">foreknew</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor2:6-1Cor2:7\">1 Corinthians 2:6–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G43090</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004028",
+          "start_ref_usfm": "ACT 4:28",
+          "end_ref": "44004028",
+          "end_ref_usfm": "ACT 4:28"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "45008030",
+          "start_ref_usfm": "ROM 8:30",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "46002007",
+          "start_ref_usfm": "1CO 2:7",
+          "end_ref": "46002007",
+          "end_ref_usfm": "1CO 2:7"
+        },
+        {
+          "start_ref": "49001005",
+          "start_ref_usfm": "EPH 1:5",
+          "end_ref": "49001005",
+          "end_ref_usfm": "EPH 1:5"
+        },
+        {
+          "start_ref": "49001011",
+          "start_ref_usfm": "EPH 1:11",
+          "end_ref": "49001011",
+          "end_ref_usfm": "EPH 1:11"
+        },
+        {
+          "start_ref": "46002006",
+          "start_ref_usfm": "1CO 2:6",
+          "end_ref": "46002007",
+          "end_ref_usfm": "1CO 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

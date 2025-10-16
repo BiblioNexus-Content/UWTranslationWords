@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 466968,
+    "reference_id": 25819,
+    "title": "Haran",
+    "media_type": "Text",
+    "index_reference": "haran",
+    "language": "fra",
+    "content": "<h1>Haran</h1><h2>Définition :</h2><p>&quot;Haran était un jeune frère d&apos;Abraham et père de Lot.</p><ul><li><p>Haran était aussi le nom de la ville où Abram et sa famille se sont installés pendant un certain temps pendant leur voyage de la ville d&apos;Ur à la terre de Canaan.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../names/caleb.md), (../names/canaan.md), (../names/levite.md), (../names/lot.md), (../names/terah.md), (../names/ur.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011026",
+          "start_ref_usfm": "GEN 11:26",
+          "end_ref": "01011026",
+          "end_ref_usfm": "GEN 11:26"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011027",
+          "end_ref_usfm": "GEN 11:27"
+        },
+        {
+          "start_ref": "01011028",
+          "start_ref_usfm": "GEN 11:28",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        },
+        {
+          "start_ref": "01011029",
+          "start_ref_usfm": "GEN 11:29",
+          "end_ref": "01011029",
+          "end_ref_usfm": "GEN 11:29"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01011032",
+          "start_ref_usfm": "GEN 11:32",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "01012004",
+          "start_ref_usfm": "GEN 12:4",
+          "end_ref": "01012004",
+          "end_ref_usfm": "GEN 12:4"
+        },
+        {
+          "start_ref": "01012005",
+          "start_ref_usfm": "GEN 12:5",
+          "end_ref": "01012005",
+          "end_ref_usfm": "GEN 12:5"
+        },
+        {
+          "start_ref": "01027043",
+          "start_ref_usfm": "GEN 27:43",
+          "end_ref": "01027043",
+          "end_ref_usfm": "GEN 27:43"
+        },
+        {
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028010",
+          "end_ref_usfm": "GEN 28:10"
+        },
+        {
+          "start_ref": "01029004",
+          "start_ref_usfm": "GEN 29:4",
+          "end_ref": "01029004",
+          "end_ref_usfm": "GEN 29:4"
+        },
+        {
+          "start_ref": "12019012",
+          "start_ref_usfm": "2KI 19:12",
+          "end_ref": "12019012",
+          "end_ref_usfm": "2KI 19:12"
+        },
+        {
+          "start_ref": "44007002",
+          "start_ref_usfm": "ACT 7:2",
+          "end_ref": "44007002",
+          "end_ref_usfm": "ACT 7:2"
+        },
+        {
+          "start_ref": "44007004",
+          "start_ref_usfm": "ACT 7:4",
+          "end_ref": "44007004",
+          "end_ref_usfm": "ACT 7:4"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007003",
+          "end_ref_usfm": "ACT 7:3"
+        },
+        {
+          "start_ref": "01027043",
+          "start_ref_usfm": "GEN 27:43",
+          "end_ref": "01027045",
+          "end_ref_usfm": "GEN 27:45"
+        },
+        {
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028011",
+          "end_ref_usfm": "GEN 28:11"
+        },
+        {
+          "start_ref": "01029004",
+          "start_ref_usfm": "GEN 29:4",
+          "end_ref": "01029006",
+          "end_ref_usfm": "GEN 29:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25566,
+          "content_id": 466737,
+          "label": "Caleb",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 467116,
+          "label": "Lot",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26290,
+          "content_id": 467404,
+          "label": "Terah",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

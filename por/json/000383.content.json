@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237897,
+    "reference_id": 25764,
+    "title": "Gade",
+    "media_type": "Text",
+    "index_reference": "gade",
+    "language": "por",
+    "content": "<h1>Gade</h1><h2>Fatos:</h2><p>Gade foi o sétimo filho de Jacó. Ele foi o primeiro filho de Zilpa. Seus descendentes se tornaram uma das tribos de Israel.</p><ul><li><p>A tribo descendente dele era conhecida como a “tribo de Gade” ou “Gade”.</p></li><li><p>O nome Gade é semelhante à palavra hebraica para “boa sorte”.</p></li><li><p>A tribo de Gade se estabeleceu no lado leste do Rio Jordão, entre o Mar da Galileia e o Mar Morto. Isso ficava ao norte de Rúben e ao sul de metade da tribo de Manassés. Quando usado como o nome de uma região de terra, o termo “Gade” se refere à terra dada à tribo de Gade.</p></li><li><p>Outro homem na Bíblia chamado Gade foi um profeta que confrontou o Rei Davi por seu pecado de fazer um censo do povo israelita.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26374\" data-resourceType=\"UWTranslationWords\">Zilpa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:18\">1 Crônicas 5.18</a></p></li><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">Êxodo 1.1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen30:11\">Gênesis 30.11</a></p></li><li><p><a href=\"https://ref.ly/Josh1:12\">Josué 1.12</a></p></li><li><p><a href=\"https://ref.ly/Josh21:38\">Josué 21.38</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1410, H1425, G10450</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030011",
+          "start_ref_usfm": "GEN 30:11",
+          "end_ref": "01030011",
+          "end_ref_usfm": "GEN 30:11"
+        },
+        {
+          "start_ref": "01035026",
+          "start_ref_usfm": "GEN 35:26",
+          "end_ref": "01035026",
+          "end_ref_usfm": "GEN 35:26"
+        },
+        {
+          "start_ref": "01046016",
+          "start_ref_usfm": "GEN 46:16",
+          "end_ref": "01046016",
+          "end_ref_usfm": "GEN 46:16"
+        },
+        {
+          "start_ref": "01049019",
+          "start_ref_usfm": "GEN 49:19",
+          "end_ref": "01049019",
+          "end_ref_usfm": "GEN 49:19"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "06001012",
+          "start_ref_usfm": "JOS 1:12",
+          "end_ref": "06001012",
+          "end_ref_usfm": "JOS 1:12"
+        },
+        {
+          "start_ref": "06021038",
+          "start_ref_usfm": "JOS 21:38",
+          "end_ref": "06021038",
+          "end_ref_usfm": "JOS 21:38"
+        },
+        {
+          "start_ref": "13005018",
+          "start_ref_usfm": "1CH 5:18",
+          "end_ref": "13005018",
+          "end_ref_usfm": "1CH 5:18"
+        },
+        {
+          "start_ref": "66007005",
+          "start_ref_usfm": "REV 7:5",
+          "end_ref": "66007005",
+          "end_ref_usfm": "REV 7:5"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        },
+        {
+          "reference_id": 26374,
+          "content_id": 238500,
+          "label": "Zilpa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

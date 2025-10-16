@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238283,
+    "reference_id": 26153,
+    "title": "Ramote",
+    "media_type": "Text",
+    "index_reference": "ramote",
+    "language": "por",
+    "content": "<h1>Ramote</h1><h2>Fatos:</h2><p>Ramote era uma cidade importante nas montanhas de Gileade perto do Rio Jordão. Também era chamada de Ramote-Gileade.</p><ul><li><p>Ramote pertencia à tribo israelita de Gade e foi designada como uma cidade de refúgio.</p></li><li><p>O rei Acabe de Israel e o rei Josafá de Judá travaram guerra contra o rei de Arã em Ramote. Acabe foi morto nessa batalha.</p></li><li><p>Algum tempo depois, o rei Acazias e o rei Jorão tentaram tomar a cidade de Ramote do rei de Arã.</p></li><li><p>Ramote-Gileade foi onde Jeú foi ungido rei sobre Israel.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Acazias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Arã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">Gade</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Josafá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25893\" data-resourceType=\"UWTranslationWords\">Jeú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25916\" data-resourceType=\"UWTranslationWords\">Jorão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Rio Jordão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26164\" data-resourceType=\"UWTranslationWords\">refúgio</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:73\">1 Crônicas 6.73</a></p></li><li><p><a href=\"https://ref.ly/1Kgs22:3\">1 Reis 22.3</a></p></li><li><p><a href=\"https://ref.ly/2Chr18:3\">2 Crônicas 18.3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs8:28-2Kgs8:29\">2 Reis 8.28–29</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7216, H7418, H7433</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11022003",
+          "start_ref_usfm": "1KI 22:3",
+          "end_ref": "11022003",
+          "end_ref_usfm": "1KI 22:3"
+        },
+        {
+          "start_ref": "13006073",
+          "start_ref_usfm": "1CH 6:73",
+          "end_ref": "13006073",
+          "end_ref_usfm": "1CH 6:73"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018003",
+          "end_ref_usfm": "2CH 18:3"
+        },
+        {
+          "start_ref": "12008028",
+          "start_ref_usfm": "2KI 8:28",
+          "end_ref": "12008029",
+          "end_ref_usfm": "2KI 8:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25441,
+          "content_id": 237579,
+          "label": "Acazias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 237608,
+          "label": "Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 237897,
+          "label": "Gade",
+          "language": "por"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 238025,
+          "label": "Josafá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 238026,
+          "label": "Jeú",
+          "language": "por"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 238049,
+          "label": "Jorão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 238050,
+          "label": "Rio Jordão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26164,
+          "content_id": 238294,
+          "label": "Refúgio",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

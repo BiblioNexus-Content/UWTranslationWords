@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466856,
+    "reference_id": 25696,
+    "title": "Eliakim",
+    "media_type": "Text",
+    "index_reference": "eliakim",
+    "language": "fra",
+    "content": "<h1>Eliakim</h1><h2>Définition :</h2><p>Eliakim était le nom de deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un homme appelé Eliakim était dirigeant d&apos;un lieu sous le contrôle du roi Ezékias.</p></li><li><p>Un autre homme appelé Eliakim était un fils du roi Josias*Il a été fait roi de Juda par le pharaon égyptien,Néco.</p></li><li><p>Néco a changé le nom d&apos;Eliakim à Jojakim.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/hezekiah.md), (../names/jehoiakim.md), (../names/josiah.md), (../names/pharaoh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018018",
+          "start_ref_usfm": "2KI 18:18",
+          "end_ref": "12018018",
+          "end_ref_usfm": "2KI 18:18"
+        },
+        {
+          "start_ref": "12018026",
+          "start_ref_usfm": "2KI 18:26",
+          "end_ref": "12018026",
+          "end_ref_usfm": "2KI 18:26"
+        },
+        {
+          "start_ref": "12018037",
+          "start_ref_usfm": "2KI 18:37",
+          "end_ref": "12018037",
+          "end_ref_usfm": "2KI 18:37"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "40001013",
+          "start_ref_usfm": "MAT 1:13",
+          "end_ref": "40001013",
+          "end_ref_usfm": "MAT 1:13"
+        },
+        {
+          "start_ref": "42003030",
+          "start_ref_usfm": "LUK 3:30",
+          "end_ref": "42003030",
+          "end_ref_usfm": "LUK 3:30"
+        },
+        {
+          "start_ref": "12023034",
+          "start_ref_usfm": "2KI 23:34",
+          "end_ref": "12023035",
+          "end_ref_usfm": "2KI 23:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25834,
+          "content_id": 466981,
+          "label": "Ezéchias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 467035,
+          "label": "Jojakim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 467066,
+          "label": "Josias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 467218,
+          "label": "Pharaon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

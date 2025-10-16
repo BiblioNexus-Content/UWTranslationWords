@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26492,
+    "reference_id": 25634,
+    "title": "Cush",
+    "media_type": "Text",
+    "index_reference": "cush",
+    "language": "eng",
+    "content": "<h1>Cush</h1><h2>Facts:</h2><p>Cush was the oldest son of Noah’s son Ham. He was also the ancestor of Nimrod. Two of his brothers were named Egypt and Canaan.</p><ul><li><p>In Old Testament times, “Cush” was the name of a large region of land south of Israel. It is probable that the land was named after Ham’s son Cush.</p></li><li><p>The ancient region of Cush covered an area of land that may have, at different times, included parts of the modern-day countries of Sudan, Egypt, Ethiopia, and possibly, Saudi Arabia.</p></li><li><p>Another man named Cush is mentioned in the Psalms. He was a Benjamite.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arabia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Ethiopia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:8-1Chr1:10\">1 Chronicles 1:8–10</a></p></li><li><p><a href=\"https://ref.ly/Ezek29:10\">Ezekiel 29:10</a></p></li><li><p><a href=\"https://ref.ly/Gen2:13\">Genesis 2:13</a></p></li><li><p><a href=\"https://ref.ly/Gen10:6-Gen10:7\">Genesis 10:6–7</a></p></li><li><p><a href=\"https://ref.ly/Jer13:23\">Jeremiah 13:23</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3568, H3569, H3570, 3571</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002013",
+          "start_ref_usfm": "GEN 2:13",
+          "end_ref": "01002013",
+          "end_ref_usfm": "GEN 2:13"
+        },
+        {
+          "start_ref": "01010006",
+          "start_ref_usfm": "GEN 10:6",
+          "end_ref": "01010006",
+          "end_ref_usfm": "GEN 10:6"
+        },
+        {
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "01010008",
+          "start_ref_usfm": "GEN 10:8",
+          "end_ref": "01010008",
+          "end_ref_usfm": "GEN 10:8"
+        },
+        {
+          "start_ref": "24013023",
+          "start_ref_usfm": "JER 13:23",
+          "end_ref": "24013023",
+          "end_ref_usfm": "JER 13:23"
+        },
+        {
+          "start_ref": "26029010",
+          "start_ref_usfm": "EZK 29:10",
+          "end_ref": "26029010",
+          "end_ref_usfm": "EZK 29:10"
+        },
+        {
+          "start_ref": "01010006",
+          "start_ref_usfm": "GEN 10:6",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "13001008",
+          "start_ref_usfm": "1CH 1:8",
+          "end_ref": "13001010",
+          "end_ref_usfm": "1CH 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 26328,
+          "label": "Arabia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 26571,
+          "label": "Ethiopia",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

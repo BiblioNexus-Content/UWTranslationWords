@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467368,
+    "reference_id": 26253,
+    "title": "Sorcellerie",
+    "media_type": "Text",
+    "index_reference": "sorcellerie",
+    "language": "fra",
+    "content": "<h1>sorcellerie, sorcier, magie</h1><h2>Définition :</h2><p>&quot;«Sorcellerie» fait référence à l&apos;utilisation de la magie, ce qui implique faire des choses puissantes grâce à l&apos;aide des esprits mauvais* Un «sorcier» est quelqu&apos;un qui pratique la magie.</p><ul><li><p>L&apos;utilisation de la magie et de la sorcellerie peuvent procurer des choses bénéfiques (telles que la guérison de quelqu&apos;un), ou des choses nuisibles (comme mettre une malédiction sur quelqu&apos;un)* Mais toutes les formes de sorcellerie sont mauvaises, parce qu&apos;elles utilisent la puissance des mauvais esprits.</p></li><li><p>Dans la Bible, Dieu dit que l&apos;utilisation de la sorcellerie est aussi mauvaise que d&apos;autres péchés terribles ( l&apos;adultère, l&apos;adoration des idoles, et le sacrifice d&apos;enfant).</p></li><li><p>Les termes «sorcellerie» et «magie» pourraient également être traduits par «puissance maléfique de l&apos;esprit» ou «magie noire» ou «lancer des sorts*&quot;</p></li><li><p>Le terme «sorcier» pourrait se traduire par un mot ou une expression qui signifie «travailleur de la magie» ou «personne qui jette des sorts» ou «personne qui fait des miracles en utilisant la puissance de l&apos;esprit du mal*&quot;</p></li><li><p>Notez que la «sorcellerie» a un sens différent du terme «divination», qui est le fait de communiquer avec le monde des esprits* Divination est une autre mauvaise pratique que Dieu condamne.</p></li></ul><p>(Voir aussi : (../kt/adultery.md), (../kt/demon.md), (../other/divination.md), (../kt/falsegod.md), (../other/magic.md), (../other/sacrifice.md), (../kt/worship.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02007011",
+          "start_ref_usfm": "EXO 7:11",
+          "end_ref": "02007011",
+          "end_ref_usfm": "EXO 7:11"
+        },
+        {
+          "start_ref": "02022018",
+          "start_ref_usfm": "EXO 22:18",
+          "end_ref": "02022018",
+          "end_ref_usfm": "EXO 22:18"
+        },
+        {
+          "start_ref": "44008009",
+          "start_ref_usfm": "ACT 8:9",
+          "end_ref": "44008009",
+          "end_ref_usfm": "ACT 8:9"
+        },
+        {
+          "start_ref": "44008011",
+          "start_ref_usfm": "ACT 8:11",
+          "end_ref": "44008011",
+          "end_ref_usfm": "ACT 8:11"
+        },
+        {
+          "start_ref": "44019019",
+          "start_ref_usfm": "ACT 19:19",
+          "end_ref": "44019019",
+          "end_ref_usfm": "ACT 19:19"
+        },
+        {
+          "start_ref": "66009021",
+          "start_ref_usfm": "REV 9:21",
+          "end_ref": "66009021",
+          "end_ref_usfm": "REV 9:21"
+        },
+        {
+          "start_ref": "66018023",
+          "start_ref_usfm": "REV 18:23",
+          "end_ref": "66018023",
+          "end_ref_usfm": "REV 18:23"
+        },
+        {
+          "start_ref": "66021008",
+          "start_ref_usfm": "REV 21:8",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        },
+        {
+          "start_ref": "66022015",
+          "start_ref_usfm": "REV 22:15",
+          "end_ref": "66022015",
+          "end_ref_usfm": "REV 22:15"
+        },
+        {
+          "start_ref": "44008009",
+          "start_ref_usfm": "ACT 8:9",
+          "end_ref": "44008011",
+          "end_ref_usfm": "ACT 8:11"
+        },
+        {
+          "start_ref": "66009020",
+          "start_ref_usfm": "REV 9:20",
+          "end_ref": "66009021",
+          "end_ref_usfm": "REV 9:21"
+        },
+        {
+          "start_ref": "48005019",
+          "start_ref_usfm": "GAL 5:19",
+          "end_ref": "48005021",
+          "end_ref_usfm": "GAL 5:21"
+        },
+        {
+          "start_ref": "02007011",
+          "start_ref_usfm": "EXO 7:11",
+          "end_ref": "02007013",
+          "end_ref_usfm": "EXO 7:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25433,
+          "content_id": 466615,
+          "label": "L’adultère",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25658,
+          "content_id": 466820,
+          "label": "Démon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25674,
+          "content_id": 466834,
+          "label": "Devination ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25987,
+          "content_id": 467126,
+          "label": "Magie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 467465,
+          "label": "Adorer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

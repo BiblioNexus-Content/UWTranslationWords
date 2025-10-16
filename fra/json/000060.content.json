@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 32920,
+    "reference_id": 25465,
+    "title": "Apollos",
+    "media_type": "Text",
+    "index_reference": "apollos",
+    "language": "fra",
+    "content": "<h1>Apollos</h1><h1>Faits&nbsp;établis&nbsp;:</h1><p>Apollos est un Juif originaire de la ville d&apos;Alexandrie, en Égypte. Il avait la capacité particulière d&apos;enseigner à propos de Jésus.</p><ul><li><p>Il a une connaissance solide des Écritures hébraïques et est doué en tant qu&apos;orateur (quelqu&apos;un qui parle en public).</p></li><li><p>Il est instruit par deux chrétiens d&apos;Éphèse, Aquilas et Priscille.</p></li><li><p>Paul souligne qu&apos;Apollos et lui-même, ainsi que d&apos;autres évangélistes et enseignants, travaillent dans le même but : aider les gens à croire en Jésus.</p></li></ul><p>(Suggestions de traduction : comment traduire les noms propres)</p><p>(Voir également : <span data-bnType=\"resourceReference\" data-resourceId=\"25468\" data-resourceType=\"UWTranslationWords\">Aquilas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Éphèse</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26123\" data-resourceType=\"UWTranslationWords\">Priscille</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26355\" data-resourceType=\"UWTranslationWords\">parole de Dieu</span>)</p><h2>Références bibliques :</h2><ul><li><p><a href=\"https://ref.ly/1Cor1:12\">1 Corinthiens 1.12</a></p></li><li><p><a href=\"https://ref.ly/1Cor16:12\">1 Corinthiens 16.12</a></p></li><li><p><a href=\"https://ref.ly/Acts18:25\">Actes 18.25</a></p></li><li><p><a href=\"https://ref.ly/Titus3:13\">Tite 3.13</a></p></li></ul><h2>Données :</h2><ul><li><p>Concordance Strong: G06250</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018025",
+          "start_ref_usfm": "ACT 18:25",
+          "end_ref": "44018025",
+          "end_ref_usfm": "ACT 18:25"
+        },
+        {
+          "start_ref": "44019001",
+          "start_ref_usfm": "ACT 19:1",
+          "end_ref": "44019001",
+          "end_ref_usfm": "ACT 19:1"
+        },
+        {
+          "start_ref": "46001012",
+          "start_ref_usfm": "1CO 1:12",
+          "end_ref": "46001012",
+          "end_ref_usfm": "1CO 1:12"
+        },
+        {
+          "start_ref": "46001013",
+          "start_ref_usfm": "1CO 1:13",
+          "end_ref": "46001013",
+          "end_ref_usfm": "1CO 1:13"
+        },
+        {
+          "start_ref": "46003004",
+          "start_ref_usfm": "1CO 3:4",
+          "end_ref": "46003004",
+          "end_ref_usfm": "1CO 3:4"
+        },
+        {
+          "start_ref": "46003005",
+          "start_ref_usfm": "1CO 3:5",
+          "end_ref": "46003005",
+          "end_ref_usfm": "1CO 3:5"
+        },
+        {
+          "start_ref": "46003006",
+          "start_ref_usfm": "1CO 3:6",
+          "end_ref": "46003006",
+          "end_ref_usfm": "1CO 3:6"
+        },
+        {
+          "start_ref": "46003022",
+          "start_ref_usfm": "1CO 3:22",
+          "end_ref": "46003022",
+          "end_ref_usfm": "1CO 3:22"
+        },
+        {
+          "start_ref": "46004006",
+          "start_ref_usfm": "1CO 4:6",
+          "end_ref": "46004006",
+          "end_ref_usfm": "1CO 4:6"
+        },
+        {
+          "start_ref": "46016012",
+          "start_ref_usfm": "1CO 16:12",
+          "end_ref": "46016012",
+          "end_ref_usfm": "1CO 16:12"
+        },
+        {
+          "start_ref": "56003013",
+          "start_ref_usfm": "TIT 3:13",
+          "end_ref": "56003013",
+          "end_ref_usfm": "TIT 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25468,
+          "content_id": 466647,
+          "label": "Aquilas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 466866,
+          "label": "Ephèse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26123,
+          "content_id": 467246,
+          "label": "Priscille&quot;",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26355,
+          "content_id": 467463,
+          "label": "parole de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

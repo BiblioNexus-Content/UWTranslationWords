@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 238190,
+    "reference_id": 26060,
+    "title": "Ogue",
+    "media_type": "Text",
+    "index_reference": "ogue",
+    "language": "por",
+    "content": "<h1>Ogue</h1><h2>Fatos:</h2><p>Ogue é o nome de um homem que foi um rei amorreu que governou a terra de Basã.</p><ul><li><p>Os israelitas conquistaram Ogue, seu povo e sua terra.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25454\" data-resourceType=\"UWTranslationWords\">Amorreu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25510\" data-resourceType=\"UWTranslationWords\">Basã</span>)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25454,
+          "content_id": 237592,
+          "label": "Amorreu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25510,
+          "content_id": 237646,
+          "label": "Basã",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

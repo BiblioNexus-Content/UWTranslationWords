@@ -1,0 +1,203 @@
+[
+  {
+    "content_id": 466654,
+    "reference_id": 25475,
+    "title": "L'arche de l'alliance",
+    "media_type": "Text",
+    "index_reference": "l'arche de l'alliance",
+    "language": "fra",
+    "content": "<h1>l&apos;arche de l&apos;alliance, arche</h1><h2>Définition :</h2><p>Ces termes se réfèrent à une caisse spéciale en bois, recouverte d&apos;or, qui contenait les deux tables de pierre sur lesquelles étaient écrits les Dix Commandements. Elle contenait aussi le bâton d&apos;Aaron et un vase contenant de la manne.</p><ul><li><p>Ici, le terme &quot;arche&quot; pourrait être traduit par &quot;caisse&quot; ou &quot;boîte&quot; ou &quot;coffre&quot;.</p></li><li><p>Les objets placés dans cette caisse rappelaient aux Israélites l&apos;alliance que Dieu avait faite avec eux.</p></li><li><p>&quot;L&apos;arche de l&apos;alliance&quot; se trouvait dans le &quot;lieu très saint&quot;.</p></li><li><p>La présence de Dieu était au-dessus de &quot;l&apos;arche de l&apos;alliance&quot; dans le &quot;lieu très saint&quot; du tabernacle, où il donnait des instructions à Moïse pour le peuple d&apos;Israël.</p></li><li><p>Pendant le temps où &quot;l&apos;arche de l&apos;alliance&quot; était dans le &quot;lieu très saint&quot; du temple, le Souverain Sacrificateur était le seul à pouvoir y entrer, une fois par an, le jour des expiations.</p></li></ul><h2>Suggestions pour la traduction&nbsp;:</h2><ul><li><p>Plusieurs versions anglaises traduisent de façon littérale le terme &quot;les ordres de l&apos;alliance&quot; comme &quot;témoignage&quot;. C&apos;est en référence au fait que les Dix Commandements étaient un témoignage ou une preuve de l&apos;alliance de Dieu avec son peuple. C&apos;est aussi traduit par &quot;les lois de l&apos;alliance&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">arche</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25621\" data-resourceType=\"UWTranslationWords\">alliance</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25490\" data-resourceType=\"UWTranslationWords\">expiation</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25843\" data-resourceType=\"UWTranslationWords\">lieu saint</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">témoignage</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050026",
+          "start_ref_usfm": "GEN 50:26",
+          "end_ref": "01050026",
+          "end_ref_usfm": "GEN 50:26"
+        },
+        {
+          "start_ref": "02025010",
+          "start_ref_usfm": "EXO 25:10",
+          "end_ref": "02025010",
+          "end_ref_usfm": "EXO 25:10"
+        },
+        {
+          "start_ref": "02025014",
+          "start_ref_usfm": "EXO 25:14",
+          "end_ref": "02025014",
+          "end_ref_usfm": "EXO 25:14"
+        },
+        {
+          "start_ref": "02025015",
+          "start_ref_usfm": "EXO 25:15",
+          "end_ref": "02025015",
+          "end_ref_usfm": "EXO 25:15"
+        },
+        {
+          "start_ref": "02025016",
+          "start_ref_usfm": "EXO 25:16",
+          "end_ref": "02025016",
+          "end_ref_usfm": "EXO 25:16"
+        },
+        {
+          "start_ref": "02025021",
+          "start_ref_usfm": "EXO 25:21",
+          "end_ref": "02025021",
+          "end_ref_usfm": "EXO 25:21"
+        },
+        {
+          "start_ref": "02025022",
+          "start_ref_usfm": "EXO 25:22",
+          "end_ref": "02025022",
+          "end_ref_usfm": "EXO 25:22"
+        },
+        {
+          "start_ref": "02026033",
+          "start_ref_usfm": "EXO 26:33",
+          "end_ref": "02026033",
+          "end_ref_usfm": "EXO 26:33"
+        },
+        {
+          "start_ref": "02026034",
+          "start_ref_usfm": "EXO 26:34",
+          "end_ref": "02026034",
+          "end_ref_usfm": "EXO 26:34"
+        },
+        {
+          "start_ref": "02030006",
+          "start_ref_usfm": "EXO 30:6",
+          "end_ref": "02030006",
+          "end_ref_usfm": "EXO 30:6"
+        },
+        {
+          "start_ref": "02030026",
+          "start_ref_usfm": "EXO 30:26",
+          "end_ref": "02030026",
+          "end_ref_usfm": "EXO 30:26"
+        },
+        {
+          "start_ref": "02031007",
+          "start_ref_usfm": "EXO 31:7",
+          "end_ref": "02031007",
+          "end_ref_usfm": "EXO 31:7"
+        },
+        {
+          "start_ref": "02035012",
+          "start_ref_usfm": "EXO 35:12",
+          "end_ref": "02035012",
+          "end_ref_usfm": "EXO 35:12"
+        },
+        {
+          "start_ref": "02037001",
+          "start_ref_usfm": "EXO 37:1",
+          "end_ref": "02037001",
+          "end_ref_usfm": "EXO 37:1"
+        },
+        {
+          "start_ref": "02037005",
+          "start_ref_usfm": "EXO 37:5",
+          "end_ref": "02037005",
+          "end_ref_usfm": "EXO 37:5"
+        },
+        {
+          "start_ref": "02039035",
+          "start_ref_usfm": "EXO 39:35",
+          "end_ref": "02039035",
+          "end_ref_usfm": "EXO 39:35"
+        },
+        {
+          "start_ref": "02040003",
+          "start_ref_usfm": "EXO 40:3",
+          "end_ref": "02040003",
+          "end_ref_usfm": "EXO 40:3"
+        },
+        {
+          "start_ref": "02040005",
+          "start_ref_usfm": "EXO 40:5",
+          "end_ref": "02040005",
+          "end_ref_usfm": "EXO 40:5"
+        },
+        {
+          "start_ref": "02040020",
+          "start_ref_usfm": "EXO 40:20",
+          "end_ref": "02040020",
+          "end_ref_usfm": "EXO 40:20"
+        },
+        {
+          "start_ref": "02040021",
+          "start_ref_usfm": "EXO 40:21",
+          "end_ref": "02040021",
+          "end_ref_usfm": "EXO 40:21"
+        },
+        {
+          "start_ref": "04007089",
+          "start_ref_usfm": "NUM 7:89",
+          "end_ref": "04007089",
+          "end_ref_usfm": "NUM 7:89"
+        },
+        {
+          "start_ref": "07020027",
+          "start_ref_usfm": "JDG 20:27",
+          "end_ref": "07020027",
+          "end_ref_usfm": "JDG 20:27"
+        },
+        {
+          "start_ref": "09006015",
+          "start_ref_usfm": "1SA 6:15",
+          "end_ref": "09006015",
+          "end_ref_usfm": "1SA 6:15"
+        },
+        {
+          "start_ref": "58009005",
+          "start_ref_usfm": "HEB 9:5",
+          "end_ref": "58009005",
+          "end_ref_usfm": "HEB 9:5"
+        },
+        {
+          "start_ref": "66011019",
+          "start_ref_usfm": "REV 11:19",
+          "end_ref": "66011019",
+          "end_ref_usfm": "REV 11:19"
+        },
+        {
+          "start_ref": "02025010",
+          "start_ref_usfm": "EXO 25:10",
+          "end_ref": "02025011",
+          "end_ref_usfm": "EXO 25:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 466653,
+          "label": "Arche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25490,
+          "content_id": 466669,
+          "label": "Expier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25621,
+          "content_id": 466786,
+          "label": "Alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25843,
+          "content_id": 466990,
+          "label": "Le lieu saint",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 467407,
+          "label": "Témoignage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 27036,
+    "reference_id": 26178,
+    "title": "Rimmon",
+    "media_type": "Text",
+    "index_reference": "rimmon",
+    "language": "eng",
+    "content": "<h1>Rimmon</h1><h2>Facts:</h2><p>Rimmon was the name of a man and of several places mentioned in the Bible. It was also the name of a false god.</p><ul><li><p>A man named Rimmon was a Benjamite from the city of Beeroth in Zebulun. This man’s sons murdered Ishbosheth, the crippled son of Jonathan.</p></li><li><p>Rimmon was a town in the southern part of Judah, in the region occupied by the tribe of Benjamin.</p></li><li><p>The “rock of Rimmon” was a place of safety where the Benjamites went to escape from being killed in a battle.</p></li><li><p>Rimmon Perez was an unknown location in the Judean wilderness.</p></li><li><p>The Syrian commander Naaman spoke of the temple of the false god Rimmon, where the king of Syria worshiped.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26039\" data-resourceType=\"UWTranslationWords\">Naaman</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26368\" data-resourceType=\"UWTranslationWords\">Zebulun</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs5:18\">2 Kings 5:18</a></p></li><li><p><a href=\"https://ref.ly/2Sam4:5-2Sam4:7\">2 Samuel 4:5–7</a></p></li><li><p><a href=\"https://ref.ly/Judg20:45-Judg20:46\">Judges 20:45–46</a></p></li><li><p><a href=\"https://ref.ly/Judg21:13-Judg21:15\">Judges 21:13–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7417</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12005018",
+          "start_ref_usfm": "2KI 5:18",
+          "end_ref": "12005018",
+          "end_ref_usfm": "2KI 5:18"
+        },
+        {
+          "start_ref": "10004005",
+          "start_ref_usfm": "2SA 4:5",
+          "end_ref": "10004007",
+          "end_ref_usfm": "2SA 4:7"
+        },
+        {
+          "start_ref": "07020045",
+          "start_ref_usfm": "JDG 20:45",
+          "end_ref": "07020046",
+          "end_ref_usfm": "JDG 20:46"
+        },
+        {
+          "start_ref": "07021013",
+          "start_ref_usfm": "JDG 21:13",
+          "end_ref": "07021015",
+          "end_ref_usfm": "JDG 21:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25526,
+          "content_id": 26384,
+          "label": "Benjamin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 26786,
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 26897,
+          "label": "Naaman",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26368,
+          "content_id": 27226,
+          "label": "Zebulun",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

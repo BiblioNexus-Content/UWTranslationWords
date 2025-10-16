@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467050,
+    "reference_id": 25905,
+    "title": "Jizreel",
+    "media_type": "Text",
+    "index_reference": "jizreel",
+    "language": "fra",
+    "content": "<h1>Jizreel</h1><h2>Définition :</h2><p>&quot;Jizreel était le nom d&apos;une ville Israélite importante sur le territoire de la tribu d&apos;Issacar, située au sud-ouest de la mer Salée* Plusieurs rois d&apos;Israël avaient leurs palais là.</p><ul><li><p>La ville de Jizreel est l&apos;un des points occidentaux dans la plaine de Megiddo, qui est aussi appelé la vallée de Jizréel.</p></li><li><p>la vigne de Naboth était située à Jizreel, près du palais du roi Achab* Le prophète Élie a prophétisé contre Achab là.</p></li><li><p>La mauvaise femme d&apos;Achab,Jezabel, a été tuée dans Jizreel.</p></li><li><p>Beaucoup d&apos;autres événements importants se sont produits dans cette ville, y compris plusieurs combats.</p></li></ul><p>(Voir aussi : (../names/ahab.md), (../names/elijah.md), (../names/issachar.md), (../names/jezebel.md), (../other/palace.md), (../names/saltsea.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006033",
+          "start_ref_usfm": "JDG 6:33",
+          "end_ref": "07006033",
+          "end_ref_usfm": "JDG 6:33"
+        },
+        {
+          "start_ref": "11004012",
+          "start_ref_usfm": "1KI 4:12",
+          "end_ref": "11004012",
+          "end_ref_usfm": "1KI 4:12"
+        },
+        {
+          "start_ref": "09025043",
+          "start_ref_usfm": "1SA 25:43",
+          "end_ref": "09025044",
+          "end_ref_usfm": "1SA 25:44"
+        },
+        {
+          "start_ref": "12008028",
+          "start_ref_usfm": "2KI 8:28",
+          "end_ref": "12008029",
+          "end_ref_usfm": "2KI 8:29"
+        },
+        {
+          "start_ref": "10002001",
+          "start_ref_usfm": "2SA 2:1",
+          "end_ref": "10002003",
+          "end_ref_usfm": "2SA 2:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25880,
+          "content_id": 467025,
+          "label": "Issacar",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25904,
+          "content_id": 467049,
+          "label": "Jézabel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26071,
+          "content_id": 467201,
+          "label": "Palais",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

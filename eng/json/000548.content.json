@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26821,
+    "reference_id": 25963,
+    "title": "Lebanon",
+    "media_type": "Text",
+    "index_reference": "lebanon",
+    "language": "eng",
+    "content": "<h1>Lebanon</h1><h2>Facts:</h2><p>Lebanon is a beautiful mountainous region located along the coast of the Mediterranean Sea, north of Israel. In Bible times this region was thickly wooded with fir trees, such as cedar and cypress.</p><ul><li><p>King Solomon sent workers to Lebanon to harvest cedar trees for use in building God’s temple.</p></li><li><p>Ancient Lebanon was inhabited by Phoenician people, who were skilled builders of ships that were used for a successful trading industry.</p></li><li><p>The cities of Tyre and Sidon were located in Lebanon. It was in these cities that a valuable purple dye was first used.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">cedar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25636\" data-resourceType=\"UWTranslationWords\">cypress</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">fir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_phoenicia\" data-resourceType=\"UWTranslationWords\">Phoenicia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:32-1Kgs4:34\">1 Kings 4:32–34</a></p></li><li><p><a href=\"https://ref.ly/2Chr2:8-2Chr2:10\">2 Chronicles 2:8–10</a></p></li><li><p><a href=\"https://ref.ly/Deut1:7-Deut1:8\">Deuteronomy 1:7–8</a></p></li><li><p><a href=\"https://ref.ly/Ps29:3-Ps29:5\">Psalms 29:3–5</a></p></li><li><p><a href=\"https://ref.ly/Zech10:8-Zech10:10\">Zechariah 10:8–10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3844</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "22003009",
+          "start_ref_usfm": "SNG 3:9",
+          "end_ref": "22003009",
+          "end_ref_usfm": "SNG 3:9"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "22004011",
+          "start_ref_usfm": "SNG 4:11",
+          "end_ref": "22004011",
+          "end_ref_usfm": "SNG 4:11"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "22005015",
+          "start_ref_usfm": "SNG 5:15",
+          "end_ref": "22005015",
+          "end_ref_usfm": "SNG 5:15"
+        },
+        {
+          "start_ref": "22007004",
+          "start_ref_usfm": "SNG 7:4",
+          "end_ref": "22007004",
+          "end_ref_usfm": "SNG 7:4"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "14002008",
+          "start_ref_usfm": "2CH 2:8",
+          "end_ref": "14002010",
+          "end_ref_usfm": "2CH 2:10"
+        },
+        {
+          "start_ref": "05001007",
+          "start_ref_usfm": "DEU 1:7",
+          "end_ref": "05001008",
+          "end_ref_usfm": "DEU 1:8"
+        },
+        {
+          "start_ref": "19029003",
+          "start_ref_usfm": "PSA 29:3",
+          "end_ref": "19029005",
+          "end_ref_usfm": "PSA 29:5"
+        },
+        {
+          "start_ref": "38010008",
+          "start_ref_usfm": "ZEC 10:8",
+          "end_ref": "38010010",
+          "end_ref_usfm": "ZEC 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 26436,
+          "label": "Cedar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25636,
+          "content_id": 26494,
+          "label": "Cypress",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 26599,
+          "label": "Fir",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

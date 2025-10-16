@@ -1,0 +1,245 @@
+[
+  {
+    "content_id": 466954,
+    "reference_id": 25805,
+    "title": "Grecque",
+    "media_type": "Text",
+    "index_reference": "grecque",
+    "language": "fra",
+    "content": "<h1>Grecque, grec, hellénistique</h1><h2>Définition :</h2><p>&quot;Pendant l&apos;époque du Nouveau Testament, le grec était la langue parlée en Grèce et dans tout l&apos;Empire romain; les textes originaux du Nouveau Testament ont été écrits en grec.</p><ul><li><p>Le terme «grec» a également été utilisé dans la Bible parfois pour se référer de manière générale à une personne qui n&apos;est pas Juive* En effet, à cette époque, la plupart des gens non-juifs dans l&apos;Empire romain parlaient grec, même si elles êtait d&apos;une nationalité différente* Un exemple de ceci était la femme syro-phénicienne Marc 7.</p></li><li><p>Lorsqu&apos;il est utilisé de cette façon, pour quelqu&apos;un qui n&apos;est pas un Juif, d&apos;autres façons de traduire &quot;grec&quot; serait, &quot;Gentil&quot; ou &quot;non-Juifs*&quot;</p></li><li><p>Un &quot;grec&quot; Juif était un Juif qui parlait grec et qui avait grandi dans la culture grecque* Certaines versions françaises utilisent le terme «hellénistique» à la place, ce qui est une translittération du mot grec* [TA: translittération] Ceci est en contraste avec &quot;hébraïques&quot; Juifs qui ne parlaient que l&apos;hébreu.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/aram.md), (../kt/gentile.md), (../names/greece.md), (../kt/hebrew.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41007026",
+          "start_ref_usfm": "MRK 7:26",
+          "end_ref": "41007026",
+          "end_ref_usfm": "MRK 7:26"
+        },
+        {
+          "start_ref": "43007035",
+          "start_ref_usfm": "JHN 7:35",
+          "end_ref": "43007035",
+          "end_ref_usfm": "JHN 7:35"
+        },
+        {
+          "start_ref": "43012020",
+          "start_ref_usfm": "JHN 12:20",
+          "end_ref": "43012020",
+          "end_ref_usfm": "JHN 12:20"
+        },
+        {
+          "start_ref": "43019020",
+          "start_ref_usfm": "JHN 19:20",
+          "end_ref": "43019020",
+          "end_ref_usfm": "JHN 19:20"
+        },
+        {
+          "start_ref": "44006001",
+          "start_ref_usfm": "ACT 6:1",
+          "end_ref": "44006001",
+          "end_ref_usfm": "ACT 6:1"
+        },
+        {
+          "start_ref": "44009029",
+          "start_ref_usfm": "ACT 9:29",
+          "end_ref": "44009029",
+          "end_ref_usfm": "ACT 9:29"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014001",
+          "end_ref_usfm": "ACT 14:1"
+        },
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
+        },
+        {
+          "start_ref": "44016003",
+          "start_ref_usfm": "ACT 16:3",
+          "end_ref": "44016003",
+          "end_ref_usfm": "ACT 16:3"
+        },
+        {
+          "start_ref": "44017004",
+          "start_ref_usfm": "ACT 17:4",
+          "end_ref": "44017004",
+          "end_ref_usfm": "ACT 17:4"
+        },
+        {
+          "start_ref": "44017012",
+          "start_ref_usfm": "ACT 17:12",
+          "end_ref": "44017012",
+          "end_ref_usfm": "ACT 17:12"
+        },
+        {
+          "start_ref": "44018004",
+          "start_ref_usfm": "ACT 18:4",
+          "end_ref": "44018004",
+          "end_ref_usfm": "ACT 18:4"
+        },
+        {
+          "start_ref": "44019010",
+          "start_ref_usfm": "ACT 19:10",
+          "end_ref": "44019010",
+          "end_ref_usfm": "ACT 19:10"
+        },
+        {
+          "start_ref": "44019017",
+          "start_ref_usfm": "ACT 19:17",
+          "end_ref": "44019017",
+          "end_ref_usfm": "ACT 19:17"
+        },
+        {
+          "start_ref": "44020021",
+          "start_ref_usfm": "ACT 20:21",
+          "end_ref": "44020021",
+          "end_ref_usfm": "ACT 20:21"
+        },
+        {
+          "start_ref": "44021028",
+          "start_ref_usfm": "ACT 21:28",
+          "end_ref": "44021028",
+          "end_ref_usfm": "ACT 21:28"
+        },
+        {
+          "start_ref": "44021037",
+          "start_ref_usfm": "ACT 21:37",
+          "end_ref": "44021037",
+          "end_ref_usfm": "ACT 21:37"
+        },
+        {
+          "start_ref": "45001014",
+          "start_ref_usfm": "ROM 1:14",
+          "end_ref": "45001014",
+          "end_ref_usfm": "ROM 1:14"
+        },
+        {
+          "start_ref": "45001016",
+          "start_ref_usfm": "ROM 1:16",
+          "end_ref": "45001016",
+          "end_ref_usfm": "ROM 1:16"
+        },
+        {
+          "start_ref": "45002009",
+          "start_ref_usfm": "ROM 2:9",
+          "end_ref": "45002009",
+          "end_ref_usfm": "ROM 2:9"
+        },
+        {
+          "start_ref": "45002010",
+          "start_ref_usfm": "ROM 2:10",
+          "end_ref": "45002010",
+          "end_ref_usfm": "ROM 2:10"
+        },
+        {
+          "start_ref": "45003009",
+          "start_ref_usfm": "ROM 3:9",
+          "end_ref": "45003009",
+          "end_ref_usfm": "ROM 3:9"
+        },
+        {
+          "start_ref": "45010012",
+          "start_ref_usfm": "ROM 10:12",
+          "end_ref": "45010012",
+          "end_ref_usfm": "ROM 10:12"
+        },
+        {
+          "start_ref": "46001022",
+          "start_ref_usfm": "1CO 1:22",
+          "end_ref": "46001022",
+          "end_ref_usfm": "1CO 1:22"
+        },
+        {
+          "start_ref": "46001024",
+          "start_ref_usfm": "1CO 1:24",
+          "end_ref": "46001024",
+          "end_ref_usfm": "1CO 1:24"
+        },
+        {
+          "start_ref": "46010032",
+          "start_ref_usfm": "1CO 10:32",
+          "end_ref": "46010032",
+          "end_ref_usfm": "1CO 10:32"
+        },
+        {
+          "start_ref": "46012013",
+          "start_ref_usfm": "1CO 12:13",
+          "end_ref": "46012013",
+          "end_ref_usfm": "1CO 12:13"
+        },
+        {
+          "start_ref": "51003011",
+          "start_ref_usfm": "COL 3:11",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
+        },
+        {
+          "start_ref": "66009011",
+          "start_ref_usfm": "REV 9:11",
+          "end_ref": "66009011",
+          "end_ref_usfm": "REV 9:11"
+        },
+        {
+          "start_ref": "48002003",
+          "start_ref_usfm": "GAL 2:3",
+          "end_ref": "48002005",
+          "end_ref_usfm": "GAL 2:5"
+        },
+        {
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014002",
+          "end_ref_usfm": "ACT 14:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 466922,
+          "label": "Gentil (Païen)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141791,
+          "content_id": 358423,
+          "label": "Jean 12.20 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25804,
+          "content_id": 466953,
+          "label": "Grèce",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25826,
+          "content_id": 466974,
+          "label": "Hébreu(x), hébreu(x), hébraïque",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

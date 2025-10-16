@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179775,
+    "reference_id": 25702,
+    "title": "एनगदी",
+    "media_type": "Text",
+    "index_reference": "एनगदी",
+    "language": "hin",
+    "content": "<h1>एनगदी</h1><h2>परिभाषा:</h2><p>एनगदी नामक जंगल में यरूशलेम के दक्षिण पूर्व में एक नगर था।</p><p>एनगदी मृत सागर के पश्चिमी तट पर स्थित था।</p><ul><li><p>इसके नाम का आधा अर्थ है “सोता” जो उस नगर से बह कर सागर में गिरता है।</p></li><li><p>एनगदी दाख की बारियों और उपजाऊ भूमि के लिए प्रसिद्ध स्थान था जिसका कारण था उस सोते का सदाबहार जल प्रवाह।</p></li><li><p>एनगदी में अनेक गढ़ थे जहां दाऊद शाऊल राजा से बचने के लिए भाग गया था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">रेगिस्तान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25756\" data-resourceType=\"UWTranslationWords\">सोता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_rest\" data-resourceType=\"UWTranslationWords\">विश्राम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">खारे ताल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">शाऊल (पुराना नियम)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26266\" data-resourceType=\"UWTranslationWords\">गढ़</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">दाख की बारी</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 20:1–2</a></p></li><li><p><a href=\"https://ref.ly/Song1:12-Song1:14\">श्रेष्ठगीत 01:12–14</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5872</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14020002",
+          "start_ref_usfm": "2CH 20:2",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "22001014",
+          "start_ref_usfm": "SNG 1:14",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        },
+        {
+          "start_ref": "22001012",
+          "start_ref_usfm": "SNG 1:12",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 179738,
+          "label": "जंगल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25756,
+          "content_id": 179829,
+          "label": "सोता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 180249,
+          "label": "खारा ताल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 180258,
+          "label": "शाऊल (पुराना नियम)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26266,
+          "content_id": 180320,
+          "label": "दृढ़गढ़ ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 180389,
+          "label": "दाख की बारी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

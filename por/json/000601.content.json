@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238143,
+    "reference_id": 26013,
+    "title": "Meseque",
+    "media_type": "Text",
+    "index_reference": "meseque",
+    "language": "por",
+    "content": "<h1>Meseque</h1><h2>Fatos:</h2><p>Meseque é o nome de dois homens no Antigo Testamento.</p><ul><li><p>Um Meseque era filho de Jafé.</p></li><li><p>O outro Meseque era neto de Sem.</p></li><li><p>Meseque também era o nome de uma região de terra que, provavelmente, foi nomeada em homenagem a um desses homens.</p></li><li><p>A região de Meseque pode ter sido localizada em parte do que é, atualmente, o país da Turquia.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25885\" data-resourceType=\"UWTranslationWords\">Jafé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Sem</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:5-1Chr1:7\">1 Crônicas 1.5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:12-Ezek27:13\">Ezequiel 27.12–13</a></p></li><li><p><a href=\"https://ref.ly/Gen10:2-Gen10:5\">Gênesis 10.2–5</a></p></li><li><p><a href=\"https://ref.ly/Ps120:5\">Salmos 120.5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4851, H4902</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "19120005",
+          "start_ref_usfm": "PSA 120:5",
+          "end_ref": "19120005",
+          "end_ref_usfm": "PSA 120:5"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "13001005",
+          "start_ref_usfm": "1CH 1:5",
+          "end_ref": "13001007",
+          "end_ref_usfm": "1CH 1:7"
+        },
+        {
+          "start_ref": "26027012",
+          "start_ref_usfm": "EZK 27:12",
+          "end_ref": "26027013",
+          "end_ref_usfm": "EZK 27:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25885,
+          "content_id": 238018,
+          "label": "Jafé",
+          "language": "por"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 238354,
+          "label": "Sem",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "content_id": 467333,
+    "reference_id": 26216,
+    "title": "Serpent",
+    "media_type": "Text",
+    "index_reference": "serpent",
+    "language": "fra",
+    "content": "<h1>serpent</h1><h2>Définition :</h2><p>Le terme «serpent»désigne Satan depuis que le serpent a parlé à Eve dans le jardin d&apos;Eden.</p><ul><li><p>Après que le serpent tenta Eve à pécher, Dieu l&apos; a maudit en disant que des lors tous les serpents ramperaient sur le sol* Ce qui suppose que, les serpents possédaient des pattes.</p></li><li><p>Le terme un &quot;serpent venimeux&quot;, &quot;vipère&quot; se trouve également dans la Bible.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : (../kt/curse.md), (../other/deceive.md), (../other/disobey.md), (../names/eden.md), (../kt/evil.md), (../other/offspring.md), (../other/prey.md), (../kt/satan.md), (../kt/sin.md), (../kt/tempt.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003001",
+          "end_ref_usfm": "GEN 3:1"
+        },
+        {
+          "start_ref": "01003002",
+          "start_ref_usfm": "GEN 3:2",
+          "end_ref": "01003002",
+          "end_ref_usfm": "GEN 3:2"
+        },
+        {
+          "start_ref": "01003003",
+          "start_ref_usfm": "GEN 3:3",
+          "end_ref": "01003003",
+          "end_ref_usfm": "GEN 3:3"
+        },
+        {
+          "start_ref": "01003004",
+          "start_ref_usfm": "GEN 3:4",
+          "end_ref": "01003004",
+          "end_ref_usfm": "GEN 3:4"
+        },
+        {
+          "start_ref": "01003013",
+          "start_ref_usfm": "GEN 3:13",
+          "end_ref": "01003013",
+          "end_ref_usfm": "GEN 3:13"
+        },
+        {
+          "start_ref": "01003014",
+          "start_ref_usfm": "GEN 3:14",
+          "end_ref": "01003014",
+          "end_ref_usfm": "GEN 3:14"
+        },
+        {
+          "start_ref": "01049017",
+          "start_ref_usfm": "GEN 49:17",
+          "end_ref": "01049017",
+          "end_ref_usfm": "GEN 49:17"
+        },
+        {
+          "start_ref": "02004003",
+          "start_ref_usfm": "EXO 4:3",
+          "end_ref": "02004003",
+          "end_ref_usfm": "EXO 4:3"
+        },
+        {
+          "start_ref": "02007009",
+          "start_ref_usfm": "EXO 7:9",
+          "end_ref": "02007009",
+          "end_ref_usfm": "EXO 7:9"
+        },
+        {
+          "start_ref": "02007010",
+          "start_ref_usfm": "EXO 7:10",
+          "end_ref": "02007010",
+          "end_ref_usfm": "EXO 7:10"
+        },
+        {
+          "start_ref": "02007012",
+          "start_ref_usfm": "EXO 7:12",
+          "end_ref": "02007012",
+          "end_ref_usfm": "EXO 7:12"
+        },
+        {
+          "start_ref": "02007015",
+          "start_ref_usfm": "EXO 7:15",
+          "end_ref": "02007015",
+          "end_ref_usfm": "EXO 7:15"
+        },
+        {
+          "start_ref": "20030019",
+          "start_ref_usfm": "PRO 30:19",
+          "end_ref": "20030019",
+          "end_ref_usfm": "PRO 30:19"
+        },
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40007010",
+          "start_ref_usfm": "MAT 7:10",
+          "end_ref": "40007010",
+          "end_ref_usfm": "MAT 7:10"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010016",
+          "end_ref_usfm": "MAT 10:16"
+        },
+        {
+          "start_ref": "40012034",
+          "start_ref_usfm": "MAT 12:34",
+          "end_ref": "40012034",
+          "end_ref_usfm": "MAT 12:34"
+        },
+        {
+          "start_ref": "40023033",
+          "start_ref_usfm": "MAT 23:33",
+          "end_ref": "40023033",
+          "end_ref_usfm": "MAT 23:33"
+        },
+        {
+          "start_ref": "42003007",
+          "start_ref_usfm": "LUK 3:7",
+          "end_ref": "42003007",
+          "end_ref_usfm": "LUK 3:7"
+        },
+        {
+          "start_ref": "42010019",
+          "start_ref_usfm": "LUK 10:19",
+          "end_ref": "42010019",
+          "end_ref_usfm": "LUK 10:19"
+        },
+        {
+          "start_ref": "42011011",
+          "start_ref_usfm": "LUK 11:11",
+          "end_ref": "42011011",
+          "end_ref_usfm": "LUK 11:11"
+        },
+        {
+          "start_ref": "43003014",
+          "start_ref_usfm": "JHN 3:14",
+          "end_ref": "43003014",
+          "end_ref_usfm": "JHN 3:14"
+        },
+        {
+          "start_ref": "44028003",
+          "start_ref_usfm": "ACT 28:3",
+          "end_ref": "44028003",
+          "end_ref_usfm": "ACT 28:3"
+        },
+        {
+          "start_ref": "46010009",
+          "start_ref_usfm": "1CO 10:9",
+          "end_ref": "46010009",
+          "end_ref_usfm": "1CO 10:9"
+        },
+        {
+          "start_ref": "47011003",
+          "start_ref_usfm": "2CO 11:3",
+          "end_ref": "47011003",
+          "end_ref_usfm": "2CO 11:3"
+        },
+        {
+          "start_ref": "66009019",
+          "start_ref_usfm": "REV 9:19",
+          "end_ref": "66009019",
+          "end_ref_usfm": "REV 9:19"
+        },
+        {
+          "start_ref": "66012009",
+          "start_ref_usfm": "REV 12:9",
+          "end_ref": "66012009",
+          "end_ref_usfm": "REV 12:9"
+        },
+        {
+          "start_ref": "66012014",
+          "start_ref_usfm": "REV 12:14",
+          "end_ref": "66012014",
+          "end_ref_usfm": "REV 12:14"
+        },
+        {
+          "start_ref": "66012015",
+          "start_ref_usfm": "REV 12:15",
+          "end_ref": "66012015",
+          "end_ref_usfm": "REV 12:15"
+        },
+        {
+          "start_ref": "66020002",
+          "start_ref_usfm": "REV 20:2",
+          "end_ref": "66020002",
+          "end_ref_usfm": "REV 20:2"
+        },
+        {
+          "start_ref": "01003012",
+          "start_ref_usfm": "GEN 3:12",
+          "end_ref": "01003013",
+          "end_ref_usfm": "GEN 3:13"
+        },
+        {
+          "start_ref": "01003004",
+          "start_ref_usfm": "GEN 3:4",
+          "end_ref": "01003006",
+          "end_ref_usfm": "GEN 3:6"
+        },
+        {
+          "start_ref": "41016017",
+          "start_ref_usfm": "MRK 16:17",
+          "end_ref": "41016018",
+          "end_ref_usfm": "MRK 16:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25632,
+          "content_id": 466796,
+          "label": "Maudire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25648,
+          "content_id": 466811,
+          "label": "Tromper",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25688,
+          "content_id": 466848,
+          "label": "Eden ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25718,
+          "content_id": 466877,
+          "label": "Le mal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 467243,
+          "label": "Proies",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 467318,
+          "label": "Satan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 467355,
+          "label": "Péché",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26285,
+          "content_id": 467399,
+          "label": "Tenter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

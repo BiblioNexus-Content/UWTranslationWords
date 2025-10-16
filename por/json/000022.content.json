@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237630,
+    "reference_id": 25494,
+    "title": "Admiração",
+    "media_type": "Text",
+    "index_reference": "admiração",
+    "language": "por",
+    "content": "<h1>admiração, incrível</h1><h2>Definição:</h2><p>O termo “admiração” refere-se ao sentimento de temor e profundo respeito que surge ao ver algo grandioso, poderoso e magnífico.</p><ul><li><p>O termo “incrível” descreve alguém ou algo que inspira um sentimento de temor.</p></li><li><p>As visões da glória de Deus vistas pelo profeta Ezequiel eram “incríveis” ou “inspiradoras de admiração”.</p></li><li><p>Respostas humanas típicas mostrando admiração à presença de Deus incluem: medo, inclinar-se ou ajoelhar-se, cobrir o rosto e tremer.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">medo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25786\" data-resourceType=\"UWTranslationWords\">glória</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr17:21\">1 Crônicas 17.21</a></p></li><li><p><a href=\"https://ref.ly/Gen28:16-Gen28:17\">Gênesis 28.16–17</a></p></li><li><p><a href=\"https://ref.ly/Heb12:28\">Hebreus 12.28</a></p></li><li><p><a href=\"https://ref.ly/Ps22:23\">Salmo 22.23</a></p></li><li><p><a href=\"https://ref.ly/Ps147:4-Ps147:5\">Salmo 147.4–5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0366, H1481, H3372, H6206, H7227, G21240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017021",
+          "start_ref_usfm": "1CH 17:21",
+          "end_ref": "13017021",
+          "end_ref_usfm": "1CH 17:21"
+        },
+        {
+          "start_ref": "19022023",
+          "start_ref_usfm": "PSA 22:23",
+          "end_ref": "19022023",
+          "end_ref_usfm": "PSA 22:23"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "19147004",
+          "start_ref_usfm": "PSA 147:4",
+          "end_ref": "19147005",
+          "end_ref_usfm": "PSA 147:5"
+        },
+        {
+          "start_ref": "01028016",
+          "start_ref_usfm": "GEN 28:16",
+          "end_ref": "01028017",
+          "end_ref_usfm": "GEN 28:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 237868,
+          "label": "Temor",
+          "language": "por"
+        },
+        {
+          "reference_id": 25786,
+          "content_id": 237919,
+          "label": "Glória",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

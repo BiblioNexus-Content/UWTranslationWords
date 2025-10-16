@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466637,
+    "reference_id": 25456,
+    "title": "Amots",
+    "media_type": "Text",
+    "index_reference": "amots",
+    "language": "fra",
+    "content": "<h1>Amots</h1><h2>Définition :</h2><p>Amots était le père du prophète Esaïe.</p><ul><li><p>La seule fois qu&apos;il est mentionné dans la Bilbe c&apos;est pour identifier Esaïe comme &quot;fils d&apos;Amots*&quot;</p></li><li><p>Ce nom est différent de celui du prophète Amos d&apos;où la différence dans l&apos;orthographe.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/amos.md), (../names/isaiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12019002",
+          "start_ref_usfm": "2KI 19:2",
+          "end_ref": "12019002",
+          "end_ref_usfm": "2KI 19:2"
+        },
+        {
+          "start_ref": "23037001",
+          "start_ref_usfm": "ISA 37:1",
+          "end_ref": "23037002",
+          "end_ref_usfm": "ISA 37:2"
+        },
+        {
+          "start_ref": "23037021",
+          "start_ref_usfm": "ISA 37:21",
+          "end_ref": "23037023",
+          "end_ref_usfm": "ISA 37:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25455,
+          "content_id": 466636,
+          "label": "Amos",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 467022,
+          "label": "Esaîe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

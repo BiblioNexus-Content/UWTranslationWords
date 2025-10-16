@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467141,
+    "reference_id": 26004,
+    "title": "Médiateur",
+    "media_type": "Text",
+    "index_reference": "médiateur",
+    "language": "fra",
+    "content": "<h1>médiateur</h1><h2>Définition :</h2><p>&quot;Un médiateur est une personne qui aide deux parties à résoudre leurs différends ou se réconcilient.</p><ul><li><p>La colère de Dieu est le résultat du péché, et la punition pour le péché est la mort* A cause du péché, la relation entre Dieu et son peuple est cessée* Jésus est le médiateur entre Dieu le Père et son peuple, il a rétabli cette relation brisée par sa mort comme moyen de paiement pour leur péché.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Façons de traduire «médiateur» pourrait être, &quot;personne médiatrice» ou «réconciliateur» ou «personne qui apporte la paix*&quot;</p></li><li><p>Comparez ce terme avec la façon dont le terme «prêtre» est traduit* Il est préférable que le terme médiateur soit traduit différemment.</p></li></ul><p>(Voir aussi : (../kt/priest.md), (../kt/reconcile.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42012014",
+          "start_ref_usfm": "LUK 12:14",
+          "end_ref": "42012014",
+          "end_ref_usfm": "LUK 12:14"
+        },
+        {
+          "start_ref": "48003020",
+          "start_ref_usfm": "GAL 3:20",
+          "end_ref": "48003020",
+          "end_ref_usfm": "GAL 3:20"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002005",
+          "end_ref_usfm": "1TI 2:5"
+        },
+        {
+          "start_ref": "58008006",
+          "start_ref_usfm": "HEB 8:6",
+          "end_ref": "58008006",
+          "end_ref_usfm": "HEB 8:6"
+        },
+        {
+          "start_ref": "58009015",
+          "start_ref_usfm": "HEB 9:15",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 467280,
+          "label": "Réconcilier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

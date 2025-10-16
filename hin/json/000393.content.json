@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180152,
+    "reference_id": 26090,
+    "title": "धीरज धरना",
+    "media_type": "Text",
+    "index_reference": "धीरज धरना",
+    "language": "hin",
+    "content": "<h1>धीरज धरना, धीरज</h1><h2>परिभाषा:</h2><p>“धीरज धरना” और “धीरज” का अर्थ है किसी काम को करते रहना चाहे वह बहुत कठिन या लम्बा समय क्यों न लेनेवाला हो।</p><ul><li><p>धीरज धरने का अर्थ यह भी हो सकता है कि मसीह के जैसा व्यवहार करना चाहे कठिन परीक्षाओं या परिस्थितियों में हो।</p></li><li><p>“धीरज धरने वाला” मनुष्य वह है जो अपने अनिवार्य काम को करता रहता है जो उसे करना चाहिए चाहे वह कष्टकारी या दुःखदायी ही क्यों न हो।</p></li><li><p>परमेश्वर की शिक्षाओं पर चलते रहने में धीरज धरने की आवश्यकता होती है, विशेष करके तब जब झूठी शिक्षाओं का बोलबाला हो।</p></li><li><p>यहां सावधान रहें कि “हठ” शब्द का उपयोग न करें क्योंकि इसका अर्थ नकारात्मक है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26077\" data-resourceType=\"UWTranslationWords\">धीरज धरना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26315\" data-resourceType=\"UWTranslationWords\">परीक्षा</span>)</p><h2>बाइबल संदर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Col1:11\">कुलुस्सियों 1:11</a></p></li><li><p><a href=\"https://ref.ly/Eph6:18\">इफिसियों 6:18</a></p></li><li><p><a href=\"https://ref.ly/Jas5:9-Jas5:11\">याकूब 5:9–11</a></p></li><li><p><a href=\"https://ref.ly/Luke8:14-Luke8:15\">लूका 8:14–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G31150, G43430, G52810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008015",
+          "start_ref_usfm": "LUK 8:15",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005003",
+          "end_ref_usfm": "ROM 5:3"
+        },
+        {
+          "start_ref": "45005004",
+          "start_ref_usfm": "ROM 5:4",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "49006018",
+          "start_ref_usfm": "EPH 6:18",
+          "end_ref": "49006018",
+          "end_ref_usfm": "EPH 6:18"
+        },
+        {
+          "start_ref": "51001011",
+          "start_ref_usfm": "COL 1:11",
+          "end_ref": "51001011",
+          "end_ref_usfm": "COL 1:11"
+        },
+        {
+          "start_ref": "56002002",
+          "start_ref_usfm": "TIT 2:2",
+          "end_ref": "56002002",
+          "end_ref_usfm": "TIT 2:2"
+        },
+        {
+          "start_ref": "66002003",
+          "start_ref_usfm": "REV 2:3",
+          "end_ref": "66002003",
+          "end_ref_usfm": "REV 2:3"
+        },
+        {
+          "start_ref": "66002019",
+          "start_ref_usfm": "REV 2:19",
+          "end_ref": "66002019",
+          "end_ref_usfm": "REV 2:19"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "42008014",
+          "start_ref_usfm": "LUK 8:14",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26077,
+          "content_id": 180139,
+          "label": "धीरजवन्त",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26315,
+          "content_id": 180368,
+          "label": "परीक्षा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

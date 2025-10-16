@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467145,
+    "reference_id": 26008,
+    "title": "Melchisédek",
+    "media_type": "Text",
+    "index_reference": "melchisédek",
+    "language": "fra",
+    "content": "<h1>Melchisédek</h1><h2>Définition :</h2><p>&quot;Pendant le temps où Abram vivait, Melchisédek était le roi de la ville de Salem, qui a été appelé plus tard «Jérusalem».</p><ul><li><p>le nom de Melchisédek signifie «roi de justice» et son titre &quot;roi de Salem» signifie «roi de paix*&quot;</p></li><li><p>Il a également été appelé «sacrificateur du Dieu Très-Haut*&quot;</p></li><li><p>Melchisédek est d&apos;abord mentionné dans la Bible quand il a servi à Abram du pain et du vin après qu&apos;Abram ait sauvé son neveu Loth des rois puissants* Abram a donné à Melchisédek un dixième du butin de sa victoire.</p></li><li><p>Dans le Nouveau Testament, Melchisédek est décrit comme quelqu&apos;un qui n&apos;avait pas de père et de mère* Il était un prêtre et roi qui régnera pour toujours* Il est dit &quot;ressembler au Fils de Dieu*&quot;</p></li><li><p>Le Nouveau Testament dit aussi que Jésus est un prêtre selon l&apos; &quot;ordre de Melchisédek*&quot; Jésus n&apos;est pas descendu de Levi comme tous les prêtres israélites l&apos; étaient* Son sacerdoce vient directement de Dieu.</p></li><li><p>Sur la base de ces descriptions sur lui dans la Bible, Melchisédek était un prêtre humain qui a également été choisi par Dieu pour représenter Jésus, le Roi éternel de paix et de justice, et notre Grand Prêtre.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../kt/eternity.md), (../kt/highpriest.md), (../names/jerusalem.md), (../names/levite.md), (../kt/priest.md), (../kt/righteous.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "19110004",
+          "start_ref_usfm": "PSA 110:4",
+          "end_ref": "19110004",
+          "end_ref_usfm": "PSA 110:4"
+        },
+        {
+          "start_ref": "58005006",
+          "start_ref_usfm": "HEB 5:6",
+          "end_ref": "58005006",
+          "end_ref_usfm": "HEB 5:6"
+        },
+        {
+          "start_ref": "58005010",
+          "start_ref_usfm": "HEB 5:10",
+          "end_ref": "58005010",
+          "end_ref_usfm": "HEB 5:10"
+        },
+        {
+          "start_ref": "58006020",
+          "start_ref_usfm": "HEB 6:20",
+          "end_ref": "58006020",
+          "end_ref_usfm": "HEB 6:20"
+        },
+        {
+          "start_ref": "58007001",
+          "start_ref_usfm": "HEB 7:1",
+          "end_ref": "58007001",
+          "end_ref_usfm": "HEB 7:1"
+        },
+        {
+          "start_ref": "58007010",
+          "start_ref_usfm": "HEB 7:10",
+          "end_ref": "58007010",
+          "end_ref_usfm": "HEB 7:10"
+        },
+        {
+          "start_ref": "58007011",
+          "start_ref_usfm": "HEB 7:11",
+          "end_ref": "58007011",
+          "end_ref_usfm": "HEB 7:11"
+        },
+        {
+          "start_ref": "58007015",
+          "start_ref_usfm": "HEB 7:15",
+          "end_ref": "58007015",
+          "end_ref_usfm": "HEB 7:15"
+        },
+        {
+          "start_ref": "58007017",
+          "start_ref_usfm": "HEB 7:17",
+          "end_ref": "58007017",
+          "end_ref_usfm": "HEB 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25712,
+          "content_id": 466871,
+          "label": "Éternité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26177,
+          "content_id": 467297,
+          "label": "Juste",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

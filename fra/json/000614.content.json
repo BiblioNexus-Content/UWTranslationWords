@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 467198,
+    "reference_id": 26063,
+    "title": "Omri",
+    "media_type": "Text",
+    "index_reference": "omri",
+    "language": "fra",
+    "content": "<h1>Omri</h1><h2>Définition :</h2><p>Omri était un commandant de l&apos;armée qui est devenu le sixième roi d&apos;Israël.</p><ul><li><p>Omri régna pendant 12 ans dans la ville de Thirtsa.</p></li><li><p>Comme tous les rois d&apos;Israël avant lui, Omri était un très mauvais roi qui a conduit le peuple d&apos;Israël dans le culte des idoles.</p></li><li><p>Omri était aussi le père du mauvais roi Achab.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ahab.md), (../kt/israel.md), (../names/jeroboam.md), (../names/tirzah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14022001",
+          "start_ref_usfm": "2CH 22:1",
+          "end_ref": "14022003",
+          "end_ref_usfm": "2CH 22:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 467042,
+          "label": "Jéroboam",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26305,
+          "content_id": 467419,
+          "label": "Thirtsa",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

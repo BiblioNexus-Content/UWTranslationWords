@@ -1,0 +1,257 @@
+[
+  {
+    "content_id": 467182,
+    "reference_id": 26045,
+    "title": "Nazareth",
+    "media_type": "Text",
+    "index_reference": "nazareth",
+    "language": "fra",
+    "content": "<h1>Nazareth, Nazaréen</h1><h2>Données :</h2><p>Nazareth est une ville de la région de Galilée, dans le nord d&apos;Israël, à environ 100 kilomètres au nord de Jérusalem.</p><ul><li><p>Joseph et Marie étaient de Nazareth, et c&apos;est là qu&apos;ils ont élevé Jésus. C&apos;est pourquoi Jésus était connu comme « le Nazaréen ».</p></li><li><p>Beaucoup de gens à Nazareth ne respectaient pas l&apos;enseignement de Jésus, parce que Jésus avait grandi parmi eux, et ils pensaient qu&apos;il était juste une personne ordinaire de la région.</p></li><li><p>Une fois, alors que Jésus enseignait dans la synagogue de Nazareth, les Juifs ont essayé de le tuer parce qu&apos;il disait qu&apos;il était le Messie et parce qu&apos;il les avait réprimandés pour l&apos;avoir rejeté.</p></li><li><p>La remarque que Nathaniel a faite quand il a entendu que Jésus était de Nazareth indiquait que les gens n&apos;avait pas une haute opinion de cette ville.</p></li></ul><p>(Voir aussi : (../kt/christ.md), (../names/galilee.md), (../names/josephnt.md), (../names/mary.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002023",
+          "start_ref_usfm": "MAT 2:23",
+          "end_ref": "40002023",
+          "end_ref_usfm": "MAT 2:23"
+        },
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40021011",
+          "start_ref_usfm": "MAT 21:11",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "40026071",
+          "start_ref_usfm": "MAT 26:71",
+          "end_ref": "40026071",
+          "end_ref_usfm": "MAT 26:71"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        },
+        {
+          "start_ref": "41001024",
+          "start_ref_usfm": "MRK 1:24",
+          "end_ref": "41001024",
+          "end_ref_usfm": "MRK 1:24"
+        },
+        {
+          "start_ref": "41010047",
+          "start_ref_usfm": "MRK 10:47",
+          "end_ref": "41010047",
+          "end_ref_usfm": "MRK 10:47"
+        },
+        {
+          "start_ref": "41014067",
+          "start_ref_usfm": "MRK 14:67",
+          "end_ref": "41014067",
+          "end_ref_usfm": "MRK 14:67"
+        },
+        {
+          "start_ref": "41016006",
+          "start_ref_usfm": "MRK 16:6",
+          "end_ref": "41016006",
+          "end_ref_usfm": "MRK 16:6"
+        },
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001026",
+          "end_ref_usfm": "LUK 1:26"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002039",
+          "start_ref_usfm": "LUK 2:39",
+          "end_ref": "42002039",
+          "end_ref_usfm": "LUK 2:39"
+        },
+        {
+          "start_ref": "42002051",
+          "start_ref_usfm": "LUK 2:51",
+          "end_ref": "42002051",
+          "end_ref_usfm": "LUK 2:51"
+        },
+        {
+          "start_ref": "42004016",
+          "start_ref_usfm": "LUK 4:16",
+          "end_ref": "42004016",
+          "end_ref_usfm": "LUK 4:16"
+        },
+        {
+          "start_ref": "42004034",
+          "start_ref_usfm": "LUK 4:34",
+          "end_ref": "42004034",
+          "end_ref_usfm": "LUK 4:34"
+        },
+        {
+          "start_ref": "42018037",
+          "start_ref_usfm": "LUK 18:37",
+          "end_ref": "42018037",
+          "end_ref_usfm": "LUK 18:37"
+        },
+        {
+          "start_ref": "42024019",
+          "start_ref_usfm": "LUK 24:19",
+          "end_ref": "42024019",
+          "end_ref_usfm": "LUK 24:19"
+        },
+        {
+          "start_ref": "43001045",
+          "start_ref_usfm": "JHN 1:45",
+          "end_ref": "43001045",
+          "end_ref_usfm": "JHN 1:45"
+        },
+        {
+          "start_ref": "43001046",
+          "start_ref_usfm": "JHN 1:46",
+          "end_ref": "43001046",
+          "end_ref_usfm": "JHN 1:46"
+        },
+        {
+          "start_ref": "43018005",
+          "start_ref_usfm": "JHN 18:5",
+          "end_ref": "43018005",
+          "end_ref_usfm": "JHN 18:5"
+        },
+        {
+          "start_ref": "43018007",
+          "start_ref_usfm": "JHN 18:7",
+          "end_ref": "43018007",
+          "end_ref_usfm": "JHN 18:7"
+        },
+        {
+          "start_ref": "43019019",
+          "start_ref_usfm": "JHN 19:19",
+          "end_ref": "43019019",
+          "end_ref_usfm": "JHN 19:19"
+        },
+        {
+          "start_ref": "44002022",
+          "start_ref_usfm": "ACT 2:22",
+          "end_ref": "44002022",
+          "end_ref_usfm": "ACT 2:22"
+        },
+        {
+          "start_ref": "44003006",
+          "start_ref_usfm": "ACT 3:6",
+          "end_ref": "44003006",
+          "end_ref_usfm": "ACT 3:6"
+        },
+        {
+          "start_ref": "44004010",
+          "start_ref_usfm": "ACT 4:10",
+          "end_ref": "44004010",
+          "end_ref_usfm": "ACT 4:10"
+        },
+        {
+          "start_ref": "44006014",
+          "start_ref_usfm": "ACT 6:14",
+          "end_ref": "44006014",
+          "end_ref_usfm": "ACT 6:14"
+        },
+        {
+          "start_ref": "44010038",
+          "start_ref_usfm": "ACT 10:38",
+          "end_ref": "44010038",
+          "end_ref_usfm": "ACT 10:38"
+        },
+        {
+          "start_ref": "44022008",
+          "start_ref_usfm": "ACT 22:8",
+          "end_ref": "44022008",
+          "end_ref_usfm": "ACT 22:8"
+        },
+        {
+          "start_ref": "44024005",
+          "start_ref_usfm": "ACT 24:5",
+          "end_ref": "44024005",
+          "end_ref_usfm": "ACT 24:5"
+        },
+        {
+          "start_ref": "44026009",
+          "start_ref_usfm": "ACT 26:9",
+          "end_ref": "44026009",
+          "end_ref_usfm": "ACT 26:9"
+        },
+        {
+          "start_ref": "44026009",
+          "start_ref_usfm": "ACT 26:9",
+          "end_ref": "44026011",
+          "end_ref_usfm": "ACT 26:11"
+        },
+        {
+          "start_ref": "43001043",
+          "start_ref_usfm": "JHN 1:43",
+          "end_ref": "43001045",
+          "end_ref_usfm": "JHN 1:45"
+        },
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001029",
+          "end_ref_usfm": "LUK 1:29"
+        },
+        {
+          "start_ref": "41016005",
+          "start_ref_usfm": "MRK 16:5",
+          "end_ref": "41016007",
+          "end_ref_usfm": "MRK 16:7"
+        },
+        {
+          "start_ref": "40021009",
+          "start_ref_usfm": "MAT 21:9",
+          "end_ref": "40021011",
+          "end_ref_usfm": "MAT 21:11"
+        },
+        {
+          "start_ref": "40026071",
+          "start_ref_usfm": "MAT 26:71",
+          "end_ref": "40026072",
+          "end_ref_usfm": "MAT 26:72"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25766,
+          "content_id": 466917,
+          "label": "Galilée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25918,
+          "content_id": 467063,
+          "label": "Joseph (NT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25998,
+          "content_id": 467135,
+          "label": "Marie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

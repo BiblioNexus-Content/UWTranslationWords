@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237902,
+    "reference_id": 25769,
+    "title": "Gaza",
+    "media_type": "Text",
+    "index_reference": "gaza",
+    "language": "por",
+    "content": "<h1>Gaza</h1><h2>Fatos:</h2><p>Durante os tempos bíblicos, Gaza era uma próspera cidade filisteia localizada na costa do Mar Mediterrâneo, cerca de 38 quilômetros ao sul de Asdode. Era uma das cinco principais cidades dos filisteus.</p><ul><li><p>Devido à sua localização, Gaza era um importante porto onde atividades comerciais ocorriam entre muitos grupos de pessoas e nações diferentes.</p></li><li><p>Hoje, a cidade de Gaza ainda é um importante porto na Faixa de Gaza, que é uma região de terra localizada ao longo da costa do Mar Mediterrâneo, fazendo fronteira com Israel ao norte e leste, e com o Egito ao sul.</p></li><li><p>Gaza foi a cidade para onde os filisteus levaram Sansão após capturá-lo.</p></li><li><p>Filipe, o evangelista, estava caminhando pela estrada do deserto para Gaza quando encontrou um eunuco etíope.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25481\" data-resourceType=\"UWTranslationWords\">Asdode</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Filipe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Filisteus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Etiópia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25768\" data-resourceType=\"UWTranslationWords\">Gate</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:24-1Kgs4:25\">1 Reis 4.24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts8:26\">Atos 8.26</a></p></li><li><p><a href=\"https://ref.ly/Gen10:19\">Gênesis 10.19</a></p></li><li><p><a href=\"https://ref.ly/Josh10:40-Josh10:41\">Josué 10.40–41</a></p></li><li><p><a href=\"https://ref.ly/Judg6:3-Judg6:4\">Juízes 6.3–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5804, H5841, G10480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "11004024",
+          "start_ref_usfm": "1KI 4:24",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "07006003",
+          "start_ref_usfm": "JDG 6:3",
+          "end_ref": "07006004",
+          "end_ref_usfm": "JDG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 237618,
+          "label": "Asdode",
+          "language": "por"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 237846,
+          "label": "Etiópia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 237901,
+          "label": "Gate",
+          "language": "por"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 238226,
+          "label": "Filipe",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

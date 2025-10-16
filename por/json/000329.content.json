@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237844,
+    "reference_id": 25711,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "esther",
+    "language": "por",
+    "content": "<h1>Ester, Hadassa</h1><h2>Fatos:</h2><p>Ester era uma mulher judia que se tornou rainha do reino persa após os israelitas serem levados para a Babilônia como cativos. “Ester” era seu nome persa, e seu nome hebraico era “Hadassa.”</p><ul><li><p>O livro de Ester conta a história de como ela se tornou a esposa do rei persa Assuero e como Deus a usou para salvar seu povo.</p></li><li><p>Ester era órfã e foi criada por seu piedoso primo mais velho, Mardoqueu.</p></li><li><p>Sua obediência ao pai adotivo a ajudou a ser obediente a Deus.</p></li><li><p>Ester obedeceu a Deus e arriscou sua vida para salvar seu povo, os judeus.</p></li><li><p>A história de Ester ilustra o controle soberano de Deus sobre os eventos da história, especialmente como ele protege seu povo e trabalha através daqueles que o obedecem.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Assuero</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26030\" data-resourceType=\"UWTranslationWords\">Mardoqueu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Pérsia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Esth2:7\">Ester 2.7</a></p></li><li><p><a href=\"https://ref.ly/Esth2:15\">Ester 2.15</a></p></li><li><p><a href=\"https://ref.ly/Esth7:1\">Ester 7.1</a></p></li><li><p><a href=\"https://ref.ly/Esth8:2\">Ester 8.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0635</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002007",
+          "end_ref_usfm": "EST 2:7"
+        },
+        {
+          "start_ref": "17002015",
+          "start_ref_usfm": "EST 2:15",
+          "end_ref": "17002015",
+          "end_ref_usfm": "EST 2:15"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17007001",
+          "end_ref_usfm": "EST 7:1"
+        },
+        {
+          "start_ref": "17008002",
+          "start_ref_usfm": "EST 8:2",
+          "end_ref": "17008002",
+          "end_ref_usfm": "EST 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 237577,
+          "label": "Assuero",
+          "language": "por"
+        },
+        {
+          "reference_id": 26030,
+          "content_id": 238160,
+          "label": "Mordecai",
+          "language": "por"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 238221,
+          "label": "Pérsia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

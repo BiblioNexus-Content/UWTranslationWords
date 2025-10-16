@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26620,
+    "reference_id": 25762,
+    "title": "Furnace",
+    "media_type": "Text",
+    "index_reference": "furnace",
+    "language": "eng",
+    "content": "<h1>furnace</h1><h2>Facts:</h2><p>A furnace was a very large oven used for heating objects to a high temperature.</p><ul><li><p>In ancient times, most furnaces were used for melting metals to make objects such as cooking pots, jewelry, weapons, and idols.</p></li><li><p>Furnaces were also used in the making of clay pottery.</p></li><li><p>Sometimes a furnace is referred to figuratively to explain that something is very hot.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">image</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs8:51\">1 Kings 8:51</a></p></li><li><p><a href=\"https://ref.ly/Gen19:28\">Genesis 19:28</a></p></li><li><p><a href=\"https://ref.ly/Prov17:3\">Proverbs 17:3</a></p></li><li><p><a href=\"https://ref.ly/Ps21:9\">Psalms 21:9</a></p></li><li><p><a href=\"https://ref.ly/Rev9:2\">Revelation 9:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0861, H3536, H3564, H5948, H8574, G25750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019028",
+          "start_ref_usfm": "GEN 19:28",
+          "end_ref": "01019028",
+          "end_ref_usfm": "GEN 19:28"
+        },
+        {
+          "start_ref": "02009008",
+          "start_ref_usfm": "EXO 9:8",
+          "end_ref": "02009008",
+          "end_ref_usfm": "EXO 9:8"
+        },
+        {
+          "start_ref": "02009010",
+          "start_ref_usfm": "EXO 9:10",
+          "end_ref": "02009010",
+          "end_ref_usfm": "EXO 9:10"
+        },
+        {
+          "start_ref": "02019018",
+          "start_ref_usfm": "EXO 19:18",
+          "end_ref": "02019018",
+          "end_ref_usfm": "EXO 19:18"
+        },
+        {
+          "start_ref": "11008051",
+          "start_ref_usfm": "1KI 8:51",
+          "end_ref": "11008051",
+          "end_ref_usfm": "1KI 8:51"
+        },
+        {
+          "start_ref": "19021009",
+          "start_ref_usfm": "PSA 21:9",
+          "end_ref": "19021009",
+          "end_ref_usfm": "PSA 21:9"
+        },
+        {
+          "start_ref": "20017003",
+          "start_ref_usfm": "PRO 17:3",
+          "end_ref": "20017003",
+          "end_ref_usfm": "PRO 17:3"
+        },
+        {
+          "start_ref": "20027021",
+          "start_ref_usfm": "PRO 27:21",
+          "end_ref": "20027021",
+          "end_ref_usfm": "PRO 27:21"
+        },
+        {
+          "start_ref": "40013042",
+          "start_ref_usfm": "MAT 13:42",
+          "end_ref": "40013042",
+          "end_ref_usfm": "MAT 13:42"
+        },
+        {
+          "start_ref": "40013050",
+          "start_ref_usfm": "MAT 13:50",
+          "end_ref": "40013050",
+          "end_ref_usfm": "MAT 13:50"
+        },
+        {
+          "start_ref": "66001015",
+          "start_ref_usfm": "REV 1:15",
+          "end_ref": "66001015",
+          "end_ref_usfm": "REV 1:15"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25863,
+          "content_id": 26721,
+          "label": "Image",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

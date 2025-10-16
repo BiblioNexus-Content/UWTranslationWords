@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 466741,
+    "reference_id": 25573,
+    "title": "Capharnaüm",
+    "media_type": "Text",
+    "index_reference": "capharnaüm",
+    "language": "fra",
+    "content": "<h1>Capharnaüm</h1><h2>Définition :</h2><p>Capharnaüm était un village de pêcheurs sur la rive Nord-Ouest de la Mer de Galilée.</p><ul><li><p>Jésus a vécu à Capharnaüm quand il enseignait en Galilée.</p></li><li><p>Plusieurs de ses disciples étaient de Capharnaüm.</p></li><li><p>Jésus a aussi fait beaucoup de miracles dans cette ville, y compris ramener une fille morte à la vie.</p></li><li><p>Capharnaüm était l&apos;une des trois villes que Jésus a réprimandées publiquement parce que leurs peuples l&apos;ont rejeté et ne croyait pas son message* Il les avertit que Dieu les punirait pour leur incrédulité.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/galilee.md), (../names/seaofgalilee.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40008005",
+          "start_ref_usfm": "MAT 8:5",
+          "end_ref": "40008005",
+          "end_ref_usfm": "MAT 8:5"
+        },
+        {
+          "start_ref": "40011023",
+          "start_ref_usfm": "MAT 11:23",
+          "end_ref": "40011023",
+          "end_ref_usfm": "MAT 11:23"
+        },
+        {
+          "start_ref": "40017024",
+          "start_ref_usfm": "MAT 17:24",
+          "end_ref": "40017024",
+          "end_ref_usfm": "MAT 17:24"
+        },
+        {
+          "start_ref": "41001021",
+          "start_ref_usfm": "MRK 1:21",
+          "end_ref": "41001021",
+          "end_ref_usfm": "MRK 1:21"
+        },
+        {
+          "start_ref": "41002001",
+          "start_ref_usfm": "MRK 2:1",
+          "end_ref": "41002001",
+          "end_ref_usfm": "MRK 2:1"
+        },
+        {
+          "start_ref": "41002002",
+          "start_ref_usfm": "MRK 2:2",
+          "end_ref": "41002002",
+          "end_ref_usfm": "MRK 2:2"
+        },
+        {
+          "start_ref": "41009033",
+          "start_ref_usfm": "MRK 9:33",
+          "end_ref": "41009033",
+          "end_ref_usfm": "MRK 9:33"
+        },
+        {
+          "start_ref": "42004023",
+          "start_ref_usfm": "LUK 4:23",
+          "end_ref": "42004023",
+          "end_ref_usfm": "LUK 4:23"
+        },
+        {
+          "start_ref": "42004031",
+          "start_ref_usfm": "LUK 4:31",
+          "end_ref": "42004031",
+          "end_ref_usfm": "LUK 4:31"
+        },
+        {
+          "start_ref": "42007001",
+          "start_ref_usfm": "LUK 7:1",
+          "end_ref": "42007001",
+          "end_ref_usfm": "LUK 7:1"
+        },
+        {
+          "start_ref": "42010015",
+          "start_ref_usfm": "LUK 10:15",
+          "end_ref": "42010015",
+          "end_ref_usfm": "LUK 10:15"
+        },
+        {
+          "start_ref": "43002012",
+          "start_ref_usfm": "JHN 2:12",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43006017",
+          "start_ref_usfm": "JHN 6:17",
+          "end_ref": "43006017",
+          "end_ref_usfm": "JHN 6:17"
+        },
+        {
+          "start_ref": "43006024",
+          "start_ref_usfm": "JHN 6:24",
+          "end_ref": "43006024",
+          "end_ref_usfm": "JHN 6:24"
+        },
+        {
+          "start_ref": "43006059",
+          "start_ref_usfm": "JHN 6:59",
+          "end_ref": "43006059",
+          "end_ref_usfm": "JHN 6:59"
+        },
+        {
+          "start_ref": "40017024",
+          "start_ref_usfm": "MAT 17:24",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
+        },
+        {
+          "start_ref": "40004012",
+          "start_ref_usfm": "MAT 4:12",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25766,
+          "content_id": 466917,
+          "label": "Galilée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 467326,
+          "label": "Mer de Galilée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

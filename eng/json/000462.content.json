@@ -1,0 +1,677 @@
+[
+  {
+    "content_id": 26734,
+    "reference_id": 25876,
+    "title": "Isaac",
+    "media_type": "Text",
+    "index_reference": "isaac",
+    "language": "eng",
+    "content": "<h1>Isaac</h1><h2>Facts:</h2><p>Isaac was the only son of Abraham and Sarah. God had promised to give them a son even though they were very old.</p><ul><li><p>The name “Isaac” means “he laughs.” When God told Abraham that Sarah would give birth to a son, Abraham laughed because they were both very old. Some time later, Sarah also laughed when she heard this news.</p></li><li><p>But God fulfilled his promise and Isaac was born to Abraham and Sarah in their old age.</p></li><li><p>God told Abraham that the covenant he had made with Abraham would also be for Isaac and his descendants forever.</p></li><li><p>When Isaac was a youth, God tested Abraham’s faith by commanding him to sacrifice Isaac.</p></li><li><p>Isaac’s son Jacob had twelve sons whose descendants later became the twelve tribes of the nation of Israel.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25712\" data-resourceType=\"UWTranslationWords\">eternity</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25761\" data-resourceType=\"UWTranslationWords\">fulfill</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26198\" data-resourceType=\"UWTranslationWords\">Sarah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gal4:28-Gal4:29\">Galatians 4:28–29</a></p></li><li><p><a href=\"https://ref.ly/Gen25:9-Gen25:11\">Genesis 25:9–11</a></p></li><li><p><a href=\"https://ref.ly/Gen25:19\">Genesis 25:19</a></p></li><li><p><a href=\"https://ref.ly/Gen26:1\">Genesis 26:1</a></p></li><li><p><a href=\"https://ref.ly/Gen26:8\">Genesis 26:8</a></p></li><li><p><a href=\"https://ref.ly/Gen28:1-Gen28:2\">Genesis 28:1–2</a></p></li><li><p><a href=\"https://ref.ly/Gen31:18\">Genesis 31:18</a></p></li><li><p><a href=\"https://ref.ly/Matt8:11-Matt8:13\">Matthew 8:11–13</a></p></li><li><p><a href=\"https://ref.ly/Matt22:32\">Matthew 22:32</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>5:4</strong> “Your wife, Sarai, will have a son—he will be the son of promise. Name him <strong>Isaac</strong>.”</p></li><li><p><strong>5:6</strong> When <strong>Isaac</strong> was a young man, God tested Abraham’s faith by saying, “Take <strong>Isaac</strong>, your only son, and kill him as a sacrifice to me.”</p></li><li><p><strong>5:9</strong> God had provided the ram to be the sacrifice instead of <strong>Isaac</strong>.</p></li><li><p><strong>6:1</strong> When Abraham was very old and his son, <strong>Isaac</strong>, had grown to be a man, Abraham sent one of his servants back to the land where his relatives lived to find a wife for his son, <strong>Isaac.</strong></p></li><li><p><strong>6:5</strong> <strong>Isaac</strong> prayed for Rebekah, and God allowed her to get pregnant with twins.</p></li><li><p><strong>7:10</strong> Then <strong>Isaac</strong> died, and Jacob and Esau buried him. The covenant promises God had promised to Abraham and then to <strong>Isaac</strong> now passed on to Jacob.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3327, H3446, G24640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01017019",
+          "start_ref_usfm": "GEN 17:19",
+          "end_ref": "01017019",
+          "end_ref_usfm": "GEN 17:19"
+        },
+        {
+          "start_ref": "01017021",
+          "start_ref_usfm": "GEN 17:21",
+          "end_ref": "01017021",
+          "end_ref_usfm": "GEN 17:21"
+        },
+        {
+          "start_ref": "01021003",
+          "start_ref_usfm": "GEN 21:3",
+          "end_ref": "01021003",
+          "end_ref_usfm": "GEN 21:3"
+        },
+        {
+          "start_ref": "01021004",
+          "start_ref_usfm": "GEN 21:4",
+          "end_ref": "01021004",
+          "end_ref_usfm": "GEN 21:4"
+        },
+        {
+          "start_ref": "01021005",
+          "start_ref_usfm": "GEN 21:5",
+          "end_ref": "01021005",
+          "end_ref_usfm": "GEN 21:5"
+        },
+        {
+          "start_ref": "01021008",
+          "start_ref_usfm": "GEN 21:8",
+          "end_ref": "01021008",
+          "end_ref_usfm": "GEN 21:8"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021010",
+          "end_ref_usfm": "GEN 21:10"
+        },
+        {
+          "start_ref": "01021012",
+          "start_ref_usfm": "GEN 21:12",
+          "end_ref": "01021012",
+          "end_ref_usfm": "GEN 21:12"
+        },
+        {
+          "start_ref": "01022002",
+          "start_ref_usfm": "GEN 22:2",
+          "end_ref": "01022002",
+          "end_ref_usfm": "GEN 22:2"
+        },
+        {
+          "start_ref": "01022003",
+          "start_ref_usfm": "GEN 22:3",
+          "end_ref": "01022003",
+          "end_ref_usfm": "GEN 22:3"
+        },
+        {
+          "start_ref": "01022006",
+          "start_ref_usfm": "GEN 22:6",
+          "end_ref": "01022006",
+          "end_ref_usfm": "GEN 22:6"
+        },
+        {
+          "start_ref": "01022007",
+          "start_ref_usfm": "GEN 22:7",
+          "end_ref": "01022007",
+          "end_ref_usfm": "GEN 22:7"
+        },
+        {
+          "start_ref": "01022009",
+          "start_ref_usfm": "GEN 22:9",
+          "end_ref": "01022009",
+          "end_ref_usfm": "GEN 22:9"
+        },
+        {
+          "start_ref": "01024004",
+          "start_ref_usfm": "GEN 24:4",
+          "end_ref": "01024004",
+          "end_ref_usfm": "GEN 24:4"
+        },
+        {
+          "start_ref": "01024014",
+          "start_ref_usfm": "GEN 24:14",
+          "end_ref": "01024014",
+          "end_ref_usfm": "GEN 24:14"
+        },
+        {
+          "start_ref": "01024062",
+          "start_ref_usfm": "GEN 24:62",
+          "end_ref": "01024062",
+          "end_ref_usfm": "GEN 24:62"
+        },
+        {
+          "start_ref": "01024063",
+          "start_ref_usfm": "GEN 24:63",
+          "end_ref": "01024063",
+          "end_ref_usfm": "GEN 24:63"
+        },
+        {
+          "start_ref": "01024064",
+          "start_ref_usfm": "GEN 24:64",
+          "end_ref": "01024064",
+          "end_ref_usfm": "GEN 24:64"
+        },
+        {
+          "start_ref": "01024066",
+          "start_ref_usfm": "GEN 24:66",
+          "end_ref": "01024066",
+          "end_ref_usfm": "GEN 24:66"
+        },
+        {
+          "start_ref": "01024067",
+          "start_ref_usfm": "GEN 24:67",
+          "end_ref": "01024067",
+          "end_ref_usfm": "GEN 24:67"
+        },
+        {
+          "start_ref": "01025005",
+          "start_ref_usfm": "GEN 25:5",
+          "end_ref": "01025005",
+          "end_ref_usfm": "GEN 25:5"
+        },
+        {
+          "start_ref": "01025006",
+          "start_ref_usfm": "GEN 25:6",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025009",
+          "end_ref_usfm": "GEN 25:9"
+        },
+        {
+          "start_ref": "01025011",
+          "start_ref_usfm": "GEN 25:11",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        },
+        {
+          "start_ref": "01025019",
+          "start_ref_usfm": "GEN 25:19",
+          "end_ref": "01025019",
+          "end_ref_usfm": "GEN 25:19"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01025021",
+          "start_ref_usfm": "GEN 25:21",
+          "end_ref": "01025021",
+          "end_ref_usfm": "GEN 25:21"
+        },
+        {
+          "start_ref": "01025026",
+          "start_ref_usfm": "GEN 25:26",
+          "end_ref": "01025026",
+          "end_ref_usfm": "GEN 25:26"
+        },
+        {
+          "start_ref": "01025028",
+          "start_ref_usfm": "GEN 25:28",
+          "end_ref": "01025028",
+          "end_ref_usfm": "GEN 25:28"
+        },
+        {
+          "start_ref": "01026001",
+          "start_ref_usfm": "GEN 26:1",
+          "end_ref": "01026001",
+          "end_ref_usfm": "GEN 26:1"
+        },
+        {
+          "start_ref": "01026006",
+          "start_ref_usfm": "GEN 26:6",
+          "end_ref": "01026006",
+          "end_ref_usfm": "GEN 26:6"
+        },
+        {
+          "start_ref": "01026008",
+          "start_ref_usfm": "GEN 26:8",
+          "end_ref": "01026008",
+          "end_ref_usfm": "GEN 26:8"
+        },
+        {
+          "start_ref": "01026009",
+          "start_ref_usfm": "GEN 26:9",
+          "end_ref": "01026009",
+          "end_ref_usfm": "GEN 26:9"
+        },
+        {
+          "start_ref": "01026012",
+          "start_ref_usfm": "GEN 26:12",
+          "end_ref": "01026012",
+          "end_ref_usfm": "GEN 26:12"
+        },
+        {
+          "start_ref": "01026016",
+          "start_ref_usfm": "GEN 26:16",
+          "end_ref": "01026016",
+          "end_ref_usfm": "GEN 26:16"
+        },
+        {
+          "start_ref": "01026017",
+          "start_ref_usfm": "GEN 26:17",
+          "end_ref": "01026017",
+          "end_ref_usfm": "GEN 26:17"
+        },
+        {
+          "start_ref": "01026018",
+          "start_ref_usfm": "GEN 26:18",
+          "end_ref": "01026018",
+          "end_ref_usfm": "GEN 26:18"
+        },
+        {
+          "start_ref": "01026019",
+          "start_ref_usfm": "GEN 26:19",
+          "end_ref": "01026019",
+          "end_ref_usfm": "GEN 26:19"
+        },
+        {
+          "start_ref": "01026020",
+          "start_ref_usfm": "GEN 26:20",
+          "end_ref": "01026020",
+          "end_ref_usfm": "GEN 26:20"
+        },
+        {
+          "start_ref": "01026025",
+          "start_ref_usfm": "GEN 26:25",
+          "end_ref": "01026025",
+          "end_ref_usfm": "GEN 26:25"
+        },
+        {
+          "start_ref": "01026027",
+          "start_ref_usfm": "GEN 26:27",
+          "end_ref": "01026027",
+          "end_ref_usfm": "GEN 26:27"
+        },
+        {
+          "start_ref": "01026031",
+          "start_ref_usfm": "GEN 26:31",
+          "end_ref": "01026031",
+          "end_ref_usfm": "GEN 26:31"
+        },
+        {
+          "start_ref": "01026032",
+          "start_ref_usfm": "GEN 26:32",
+          "end_ref": "01026032",
+          "end_ref_usfm": "GEN 26:32"
+        },
+        {
+          "start_ref": "01026035",
+          "start_ref_usfm": "GEN 26:35",
+          "end_ref": "01026035",
+          "end_ref_usfm": "GEN 26:35"
+        },
+        {
+          "start_ref": "01027005",
+          "start_ref_usfm": "GEN 27:5",
+          "end_ref": "01027005",
+          "end_ref_usfm": "GEN 27:5"
+        },
+        {
+          "start_ref": "01027020",
+          "start_ref_usfm": "GEN 27:20",
+          "end_ref": "01027020",
+          "end_ref_usfm": "GEN 27:20"
+        },
+        {
+          "start_ref": "01027021",
+          "start_ref_usfm": "GEN 27:21",
+          "end_ref": "01027021",
+          "end_ref_usfm": "GEN 27:21"
+        },
+        {
+          "start_ref": "01027022",
+          "start_ref_usfm": "GEN 27:22",
+          "end_ref": "01027022",
+          "end_ref_usfm": "GEN 27:22"
+        },
+        {
+          "start_ref": "01027026",
+          "start_ref_usfm": "GEN 27:26",
+          "end_ref": "01027026",
+          "end_ref_usfm": "GEN 27:26"
+        },
+        {
+          "start_ref": "01027030",
+          "start_ref_usfm": "GEN 27:30",
+          "end_ref": "01027030",
+          "end_ref_usfm": "GEN 27:30"
+        },
+        {
+          "start_ref": "01027032",
+          "start_ref_usfm": "GEN 27:32",
+          "end_ref": "01027032",
+          "end_ref_usfm": "GEN 27:32"
+        },
+        {
+          "start_ref": "01027033",
+          "start_ref_usfm": "GEN 27:33",
+          "end_ref": "01027033",
+          "end_ref_usfm": "GEN 27:33"
+        },
+        {
+          "start_ref": "01027037",
+          "start_ref_usfm": "GEN 27:37",
+          "end_ref": "01027037",
+          "end_ref_usfm": "GEN 27:37"
+        },
+        {
+          "start_ref": "01027039",
+          "start_ref_usfm": "GEN 27:39",
+          "end_ref": "01027039",
+          "end_ref_usfm": "GEN 27:39"
+        },
+        {
+          "start_ref": "01027046",
+          "start_ref_usfm": "GEN 27:46",
+          "end_ref": "01027046",
+          "end_ref_usfm": "GEN 27:46"
+        },
+        {
+          "start_ref": "01028001",
+          "start_ref_usfm": "GEN 28:1",
+          "end_ref": "01028001",
+          "end_ref_usfm": "GEN 28:1"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01028006",
+          "start_ref_usfm": "GEN 28:6",
+          "end_ref": "01028006",
+          "end_ref_usfm": "GEN 28:6"
+        },
+        {
+          "start_ref": "01028008",
+          "start_ref_usfm": "GEN 28:8",
+          "end_ref": "01028008",
+          "end_ref_usfm": "GEN 28:8"
+        },
+        {
+          "start_ref": "01028013",
+          "start_ref_usfm": "GEN 28:13",
+          "end_ref": "01028013",
+          "end_ref_usfm": "GEN 28:13"
+        },
+        {
+          "start_ref": "01031018",
+          "start_ref_usfm": "GEN 31:18",
+          "end_ref": "01031018",
+          "end_ref_usfm": "GEN 31:18"
+        },
+        {
+          "start_ref": "01031042",
+          "start_ref_usfm": "GEN 31:42",
+          "end_ref": "01031042",
+          "end_ref_usfm": "GEN 31:42"
+        },
+        {
+          "start_ref": "01031053",
+          "start_ref_usfm": "GEN 31:53",
+          "end_ref": "01031053",
+          "end_ref_usfm": "GEN 31:53"
+        },
+        {
+          "start_ref": "01032009",
+          "start_ref_usfm": "GEN 32:9",
+          "end_ref": "01032009",
+          "end_ref_usfm": "GEN 32:9"
+        },
+        {
+          "start_ref": "01035012",
+          "start_ref_usfm": "GEN 35:12",
+          "end_ref": "01035012",
+          "end_ref_usfm": "GEN 35:12"
+        },
+        {
+          "start_ref": "01035027",
+          "start_ref_usfm": "GEN 35:27",
+          "end_ref": "01035027",
+          "end_ref_usfm": "GEN 35:27"
+        },
+        {
+          "start_ref": "01035028",
+          "start_ref_usfm": "GEN 35:28",
+          "end_ref": "01035028",
+          "end_ref_usfm": "GEN 35:28"
+        },
+        {
+          "start_ref": "01035029",
+          "start_ref_usfm": "GEN 35:29",
+          "end_ref": "01035029",
+          "end_ref_usfm": "GEN 35:29"
+        },
+        {
+          "start_ref": "01046001",
+          "start_ref_usfm": "GEN 46:1",
+          "end_ref": "01046001",
+          "end_ref_usfm": "GEN 46:1"
+        },
+        {
+          "start_ref": "01048015",
+          "start_ref_usfm": "GEN 48:15",
+          "end_ref": "01048015",
+          "end_ref_usfm": "GEN 48:15"
+        },
+        {
+          "start_ref": "01048016",
+          "start_ref_usfm": "GEN 48:16",
+          "end_ref": "01048016",
+          "end_ref_usfm": "GEN 48:16"
+        },
+        {
+          "start_ref": "01049031",
+          "start_ref_usfm": "GEN 49:31",
+          "end_ref": "01049031",
+          "end_ref_usfm": "GEN 49:31"
+        },
+        {
+          "start_ref": "01050024",
+          "start_ref_usfm": "GEN 50:24",
+          "end_ref": "01050024",
+          "end_ref_usfm": "GEN 50:24"
+        },
+        {
+          "start_ref": "02002024",
+          "start_ref_usfm": "EXO 2:24",
+          "end_ref": "02002024",
+          "end_ref_usfm": "EXO 2:24"
+        },
+        {
+          "start_ref": "02003006",
+          "start_ref_usfm": "EXO 3:6",
+          "end_ref": "02003006",
+          "end_ref_usfm": "EXO 3:6"
+        },
+        {
+          "start_ref": "02003015",
+          "start_ref_usfm": "EXO 3:15",
+          "end_ref": "02003015",
+          "end_ref_usfm": "EXO 3:15"
+        },
+        {
+          "start_ref": "02003016",
+          "start_ref_usfm": "EXO 3:16",
+          "end_ref": "02003016",
+          "end_ref_usfm": "EXO 3:16"
+        },
+        {
+          "start_ref": "02004005",
+          "start_ref_usfm": "EXO 4:5",
+          "end_ref": "02004005",
+          "end_ref_usfm": "EXO 4:5"
+        },
+        {
+          "start_ref": "02006003",
+          "start_ref_usfm": "EXO 6:3",
+          "end_ref": "02006003",
+          "end_ref_usfm": "EXO 6:3"
+        },
+        {
+          "start_ref": "02006008",
+          "start_ref_usfm": "EXO 6:8",
+          "end_ref": "02006008",
+          "end_ref_usfm": "EXO 6:8"
+        },
+        {
+          "start_ref": "02032013",
+          "start_ref_usfm": "EXO 32:13",
+          "end_ref": "02032013",
+          "end_ref_usfm": "EXO 32:13"
+        },
+        {
+          "start_ref": "02033001",
+          "start_ref_usfm": "EXO 33:1",
+          "end_ref": "02033001",
+          "end_ref_usfm": "EXO 33:1"
+        },
+        {
+          "start_ref": "40001002",
+          "start_ref_usfm": "MAT 1:2",
+          "end_ref": "40001002",
+          "end_ref_usfm": "MAT 1:2"
+        },
+        {
+          "start_ref": "40008011",
+          "start_ref_usfm": "MAT 8:11",
+          "end_ref": "40008011",
+          "end_ref_usfm": "MAT 8:11"
+        },
+        {
+          "start_ref": "40022032",
+          "start_ref_usfm": "MAT 22:32",
+          "end_ref": "40022032",
+          "end_ref_usfm": "MAT 22:32"
+        },
+        {
+          "start_ref": "41012026",
+          "start_ref_usfm": "MRK 12:26",
+          "end_ref": "41012026",
+          "end_ref_usfm": "MRK 12:26"
+        },
+        {
+          "start_ref": "42003034",
+          "start_ref_usfm": "LUK 3:34",
+          "end_ref": "42003034",
+          "end_ref_usfm": "LUK 3:34"
+        },
+        {
+          "start_ref": "42013028",
+          "start_ref_usfm": "LUK 13:28",
+          "end_ref": "42013028",
+          "end_ref_usfm": "LUK 13:28"
+        },
+        {
+          "start_ref": "42020037",
+          "start_ref_usfm": "LUK 20:37",
+          "end_ref": "42020037",
+          "end_ref_usfm": "LUK 20:37"
+        },
+        {
+          "start_ref": "44003013",
+          "start_ref_usfm": "ACT 3:13",
+          "end_ref": "44003013",
+          "end_ref_usfm": "ACT 3:13"
+        },
+        {
+          "start_ref": "44007008",
+          "start_ref_usfm": "ACT 7:8",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "44007032",
+          "start_ref_usfm": "ACT 7:32",
+          "end_ref": "44007032",
+          "end_ref_usfm": "ACT 7:32"
+        },
+        {
+          "start_ref": "45009007",
+          "start_ref_usfm": "ROM 9:7",
+          "end_ref": "45009007",
+          "end_ref_usfm": "ROM 9:7"
+        },
+        {
+          "start_ref": "45009010",
+          "start_ref_usfm": "ROM 9:10",
+          "end_ref": "45009010",
+          "end_ref_usfm": "ROM 9:10"
+        },
+        {
+          "start_ref": "58011009",
+          "start_ref_usfm": "HEB 11:9",
+          "end_ref": "58011009",
+          "end_ref_usfm": "HEB 11:9"
+        },
+        {
+          "start_ref": "58011017",
+          "start_ref_usfm": "HEB 11:17",
+          "end_ref": "58011017",
+          "end_ref_usfm": "HEB 11:17"
+        },
+        {
+          "start_ref": "58011018",
+          "start_ref_usfm": "HEB 11:18",
+          "end_ref": "58011018",
+          "end_ref_usfm": "HEB 11:18"
+        },
+        {
+          "start_ref": "58011020",
+          "start_ref_usfm": "HEB 11:20",
+          "end_ref": "58011020",
+          "end_ref_usfm": "HEB 11:20"
+        },
+        {
+          "start_ref": "59002021",
+          "start_ref_usfm": "JAS 2:21",
+          "end_ref": "59002021",
+          "end_ref_usfm": "JAS 2:21"
+        },
+        {
+          "start_ref": "01028001",
+          "start_ref_usfm": "GEN 28:1",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "48004028",
+          "start_ref_usfm": "GAL 4:28",
+          "end_ref": "48004029",
+          "end_ref_usfm": "GAL 4:29"
+        },
+        {
+          "start_ref": "01025009",
+          "start_ref_usfm": "GEN 25:9",
+          "end_ref": "01025011",
+          "end_ref_usfm": "GEN 25:11"
+        },
+        {
+          "start_ref": "40008011",
+          "start_ref_usfm": "MAT 8:11",
+          "end_ref": "40008013",
+          "end_ref_usfm": "MAT 8:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25424,
+          "content_id": 26282,
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25712,
+          "content_id": 26570,
+          "label": "Eternity",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25761,
+          "content_id": 26619,
+          "label": "Fulfill",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26198,
+          "content_id": 27056,
+          "label": "Sarah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

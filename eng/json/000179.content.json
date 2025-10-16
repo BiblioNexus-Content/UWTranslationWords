@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26452,
+    "reference_id": 25594,
+    "title": "City of David",
+    "media_type": "Text",
+    "index_reference": "city of david",
+    "language": "eng",
+    "content": "<h1>city of David</h1><h2>Facts:</h2><p>The term “city of David” is another name for both Jerusalem and Bethlehem.</p><ul><li><p>Jerusalem is where David lived while he ruled Israel.</p></li><li><p>Bethlehem is where David was born.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Bethlehem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs8:1-1Kgs8:2\">1 Kings 8:1–2</a></p></li><li><p><a href=\"https://ref.ly/2Sam5:6-2Sam5:7\">2 Samuel 5:6–7</a></p></li><li><p><a href=\"https://ref.ly/Isa22:8-Isa22:9\">Isaiah 22:8–9</a></p></li><li><p><a href=\"https://ref.ly/Luke2:4\">Luke 2:4</a></p></li><li><p><a href=\"https://ref.ly/Neh3:14-Neh3:15\">Nehemiah 3:14–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1732, H5892, G11380, G41720</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002011",
+          "start_ref_usfm": "LUK 2:11",
+          "end_ref": "42002011",
+          "end_ref_usfm": "LUK 2:11"
+        },
+        {
+          "start_ref": "16003014",
+          "start_ref_usfm": "NEH 3:14",
+          "end_ref": "16003015",
+          "end_ref_usfm": "NEH 3:15"
+        },
+        {
+          "start_ref": "11008001",
+          "start_ref_usfm": "1KI 8:1",
+          "end_ref": "11008002",
+          "end_ref_usfm": "1KI 8:2"
+        },
+        {
+          "start_ref": "10005006",
+          "start_ref_usfm": "2SA 5:6",
+          "end_ref": "10005007",
+          "end_ref_usfm": "2SA 5:7"
+        },
+        {
+          "start_ref": "23022008",
+          "start_ref_usfm": "ISA 22:8",
+          "end_ref": "23022009",
+          "end_ref_usfm": "ISA 22:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 26388,
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

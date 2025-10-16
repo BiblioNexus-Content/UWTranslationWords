@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26308,
+    "reference_id": 25450,
+    "title": "Amaziah",
+    "media_type": "Text",
+    "index_reference": "amaziah",
+    "language": "eng",
+    "content": "<h1>Amaziah</h1><h2>Facts:</h2><p>Amaziah became king over the kingdom of Judah when his father, King Joash, was murdered.</p><ul><li><p>King Amaziah reigned over Judah for twenty-nine years, from 796 BC to 767 BC.</p></li><li><p>He was a good king, but he did not destroy the high places where idols were worshiped.</p></li><li><p>Amaziah eventually put to death all the men who were responsible for the murder of his father.</p></li><li><p>He defeated the rebellious Edomites and brought them back under the control of the Kingdom of Judah.</p></li><li><p>He challenged King Jehoash of Israel to a battle, but lost. Part of the walls of Jerusalem were broken down and the silver and gold vessels of the temple were stolen.</p></li><li><p>Years later King Amaziah turned away from Yahweh and certain men in Jerusalem plotted together and killed him.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joash</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25689\" data-resourceType=\"UWTranslationWords\">Edom</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Chronicles 3:10–12</a></p></li><li><p><a href=\"https://ref.ly/1Chr4:34\">1 Chronicles 4:34</a></p></li><li><p><a href=\"https://ref.ly/2Chr25:9-2Chr25:10\">2 Chronicles 25:9–10</a></p></li><li><p><a href=\"https://ref.ly/2Kgs14:10\">2 Kings 14:10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0558</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12014010",
+          "start_ref_usfm": "2KI 14:10",
+          "end_ref": "12014010",
+          "end_ref_usfm": "2KI 14:10"
+        },
+        {
+          "start_ref": "13004034",
+          "start_ref_usfm": "1CH 4:34",
+          "end_ref": "13004034",
+          "end_ref_usfm": "1CH 4:34"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14025009",
+          "start_ref_usfm": "2CH 25:9",
+          "end_ref": "14025010",
+          "end_ref_usfm": "2CH 25:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25689,
+          "content_id": 26547,
+          "label": "Edom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 26765,
+          "label": "Joash",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

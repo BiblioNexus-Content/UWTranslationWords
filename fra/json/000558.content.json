@@ -1,0 +1,185 @@
+[
+  {
+    "content_id": 467146,
+    "reference_id": 26009,
+    "title": "Membre",
+    "media_type": "Text",
+    "index_reference": "membre",
+    "language": "fra",
+    "content": "<h1>membre</h1><h2>Définition :</h2><p>&quot;Le terme «membre» désigne une partie d&apos;un corps ou d&apos;un groupe complexe.</p><ul><li><p>Le Nouveau Testament décrit les chrétiens comme «membres» du Corps du Christ* Les croyants en Christ appartiennent à un groupe qui est composé de nombreux membres.</p></li><li><p>Jésus-Christ est la «tête» du corps et les croyants individuels les membres du corps* Le Saint-Esprit donne à chaque membre du corps un rôle spécial pour aider l&apos;ensemble du corps à bien fonctionner.</p></li><li><p>Les personnes qui participent à des groupes tels que le Conseil juif et les Pharisiens sont aussi appelés «membres» de ces groupes.</p></li></ul><p>(Voir aussi : (../kt/body.md), (../kt/pharisee.md), (../other/council.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04016002",
+          "start_ref_usfm": "NUM 16:2",
+          "end_ref": "04016002",
+          "end_ref_usfm": "NUM 16:2"
+        },
+        {
+          "start_ref": "40005029",
+          "start_ref_usfm": "MAT 5:29",
+          "end_ref": "40005029",
+          "end_ref_usfm": "MAT 5:29"
+        },
+        {
+          "start_ref": "40005030",
+          "start_ref_usfm": "MAT 5:30",
+          "end_ref": "40005030",
+          "end_ref_usfm": "MAT 5:30"
+        },
+        {
+          "start_ref": "45006013",
+          "start_ref_usfm": "ROM 6:13",
+          "end_ref": "45006013",
+          "end_ref_usfm": "ROM 6:13"
+        },
+        {
+          "start_ref": "45006019",
+          "start_ref_usfm": "ROM 6:19",
+          "end_ref": "45006019",
+          "end_ref_usfm": "ROM 6:19"
+        },
+        {
+          "start_ref": "45007005",
+          "start_ref_usfm": "ROM 7:5",
+          "end_ref": "45007005",
+          "end_ref_usfm": "ROM 7:5"
+        },
+        {
+          "start_ref": "45007023",
+          "start_ref_usfm": "ROM 7:23",
+          "end_ref": "45007023",
+          "end_ref_usfm": "ROM 7:23"
+        },
+        {
+          "start_ref": "45012004",
+          "start_ref_usfm": "ROM 12:4",
+          "end_ref": "45012004",
+          "end_ref_usfm": "ROM 12:4"
+        },
+        {
+          "start_ref": "45012005",
+          "start_ref_usfm": "ROM 12:5",
+          "end_ref": "45012005",
+          "end_ref_usfm": "ROM 12:5"
+        },
+        {
+          "start_ref": "46006015",
+          "start_ref_usfm": "1CO 6:15",
+          "end_ref": "46006015",
+          "end_ref_usfm": "1CO 6:15"
+        },
+        {
+          "start_ref": "46012012",
+          "start_ref_usfm": "1CO 12:12",
+          "end_ref": "46012012",
+          "end_ref_usfm": "1CO 12:12"
+        },
+        {
+          "start_ref": "46012014",
+          "start_ref_usfm": "1CO 12:14",
+          "end_ref": "46012014",
+          "end_ref_usfm": "1CO 12:14"
+        },
+        {
+          "start_ref": "46012018",
+          "start_ref_usfm": "1CO 12:18",
+          "end_ref": "46012018",
+          "end_ref_usfm": "1CO 12:18"
+        },
+        {
+          "start_ref": "46012019",
+          "start_ref_usfm": "1CO 12:19",
+          "end_ref": "46012019",
+          "end_ref_usfm": "1CO 12:19"
+        },
+        {
+          "start_ref": "46012020",
+          "start_ref_usfm": "1CO 12:20",
+          "end_ref": "46012020",
+          "end_ref_usfm": "1CO 12:20"
+        },
+        {
+          "start_ref": "46012022",
+          "start_ref_usfm": "1CO 12:22",
+          "end_ref": "46012022",
+          "end_ref_usfm": "1CO 12:22"
+        },
+        {
+          "start_ref": "46012025",
+          "start_ref_usfm": "1CO 12:25",
+          "end_ref": "46012025",
+          "end_ref_usfm": "1CO 12:25"
+        },
+        {
+          "start_ref": "46012026",
+          "start_ref_usfm": "1CO 12:26",
+          "end_ref": "46012026",
+          "end_ref_usfm": "1CO 12:26"
+        },
+        {
+          "start_ref": "46012027",
+          "start_ref_usfm": "1CO 12:27",
+          "end_ref": "46012027",
+          "end_ref_usfm": "1CO 12:27"
+        },
+        {
+          "start_ref": "49004025",
+          "start_ref_usfm": "EPH 4:25",
+          "end_ref": "49004025",
+          "end_ref_usfm": "EPH 4:25"
+        },
+        {
+          "start_ref": "49005030",
+          "start_ref_usfm": "EPH 5:30",
+          "end_ref": "49005030",
+          "end_ref_usfm": "EPH 5:30"
+        },
+        {
+          "start_ref": "51003005",
+          "start_ref_usfm": "COL 3:5",
+          "end_ref": "51003005",
+          "end_ref_usfm": "COL 3:5"
+        },
+        {
+          "start_ref": "59003005",
+          "start_ref_usfm": "JAS 3:5",
+          "end_ref": "59003005",
+          "end_ref_usfm": "JAS 3:5"
+        },
+        {
+          "start_ref": "59003006",
+          "start_ref_usfm": "JAS 3:6",
+          "end_ref": "59003006",
+          "end_ref_usfm": "JAS 3:6"
+        },
+        {
+          "start_ref": "59004001",
+          "start_ref_usfm": "JAS 4:1",
+          "end_ref": "59004001",
+          "end_ref_usfm": "JAS 4:1"
+        },
+        {
+          "start_ref": "46012014",
+          "start_ref_usfm": "1CO 12:14",
+          "end_ref": "46012017",
+          "end_ref_usfm": "1CO 12:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 466783,
+          "label": "Conseil",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 467219,
+          "label": "Pharisien",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

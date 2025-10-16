@@ -1,0 +1,233 @@
+[
+  {
+    "content_id": 467374,
+    "reference_id": 26259,
+    "title": "Une verge",
+    "media_type": "Text",
+    "index_reference": "une verge",
+    "language": "fra",
+    "content": "<h1>Une verge</h1><h2>Définition :</h2><p>Une verge est un long bâton en bois ou une tige souvent utilisée comme un bâton pour la marche .</p><ul><li><p>Quand Jacob était vieux, il a utilisé une verge pour l&apos;aider à marcher.</p></li><li><p>Dieu changea la verge de Moïse en serpent pour montrer son pouvoir sur Pharaon.</p></li><li><p>Les bergers ont également utilisé des verges pour aider à guider leurs moutons, ou pour sauver les moutons quand ils sont tombés ou erraient* La verge avait un crochet à son extremité, ce qui est différent de la tige du berger, qui était droit et utilisé pour les animaux sauvages qui tentaient d&apos;attaquer les moutons.</p></li></ul><p>(Voir aussi : (../names/pharaoh.md), (../kt/power.md), (../other/sheep.md), (../other/shepherd.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038025",
+          "start_ref_usfm": "GEN 38:25",
+          "end_ref": "01038025",
+          "end_ref_usfm": "GEN 38:25"
+        },
+        {
+          "start_ref": "02004002",
+          "start_ref_usfm": "EXO 4:2",
+          "end_ref": "02004002",
+          "end_ref_usfm": "EXO 4:2"
+        },
+        {
+          "start_ref": "02004004",
+          "start_ref_usfm": "EXO 4:4",
+          "end_ref": "02004004",
+          "end_ref_usfm": "EXO 4:4"
+        },
+        {
+          "start_ref": "02004017",
+          "start_ref_usfm": "EXO 4:17",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
+          "start_ref": "02004020",
+          "start_ref_usfm": "EXO 4:20",
+          "end_ref": "02004020",
+          "end_ref_usfm": "EXO 4:20"
+        },
+        {
+          "start_ref": "02007009",
+          "start_ref_usfm": "EXO 7:9",
+          "end_ref": "02007009",
+          "end_ref_usfm": "EXO 7:9"
+        },
+        {
+          "start_ref": "02007010",
+          "start_ref_usfm": "EXO 7:10",
+          "end_ref": "02007010",
+          "end_ref_usfm": "EXO 7:10"
+        },
+        {
+          "start_ref": "02007012",
+          "start_ref_usfm": "EXO 7:12",
+          "end_ref": "02007012",
+          "end_ref_usfm": "EXO 7:12"
+        },
+        {
+          "start_ref": "02007015",
+          "start_ref_usfm": "EXO 7:15",
+          "end_ref": "02007015",
+          "end_ref_usfm": "EXO 7:15"
+        },
+        {
+          "start_ref": "02007017",
+          "start_ref_usfm": "EXO 7:17",
+          "end_ref": "02007017",
+          "end_ref_usfm": "EXO 7:17"
+        },
+        {
+          "start_ref": "02007019",
+          "start_ref_usfm": "EXO 7:19",
+          "end_ref": "02007019",
+          "end_ref_usfm": "EXO 7:19"
+        },
+        {
+          "start_ref": "02007020",
+          "start_ref_usfm": "EXO 7:20",
+          "end_ref": "02007020",
+          "end_ref_usfm": "EXO 7:20"
+        },
+        {
+          "start_ref": "02008005",
+          "start_ref_usfm": "EXO 8:5",
+          "end_ref": "02008005",
+          "end_ref_usfm": "EXO 8:5"
+        },
+        {
+          "start_ref": "02008016",
+          "start_ref_usfm": "EXO 8:16",
+          "end_ref": "02008016",
+          "end_ref_usfm": "EXO 8:16"
+        },
+        {
+          "start_ref": "02008017",
+          "start_ref_usfm": "EXO 8:17",
+          "end_ref": "02008017",
+          "end_ref_usfm": "EXO 8:17"
+        },
+        {
+          "start_ref": "02009023",
+          "start_ref_usfm": "EXO 9:23",
+          "end_ref": "02009023",
+          "end_ref_usfm": "EXO 9:23"
+        },
+        {
+          "start_ref": "02010013",
+          "start_ref_usfm": "EXO 10:13",
+          "end_ref": "02010013",
+          "end_ref_usfm": "EXO 10:13"
+        },
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "02014016",
+          "start_ref_usfm": "EXO 14:16",
+          "end_ref": "02014016",
+          "end_ref_usfm": "EXO 14:16"
+        },
+        {
+          "start_ref": "02017005",
+          "start_ref_usfm": "EXO 17:5",
+          "end_ref": "02017005",
+          "end_ref_usfm": "EXO 17:5"
+        },
+        {
+          "start_ref": "02017009",
+          "start_ref_usfm": "EXO 17:9",
+          "end_ref": "02017009",
+          "end_ref_usfm": "EXO 17:9"
+        },
+        {
+          "start_ref": "02021019",
+          "start_ref_usfm": "EXO 21:19",
+          "end_ref": "02021019",
+          "end_ref_usfm": "EXO 21:19"
+        },
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "40027029",
+          "start_ref_usfm": "MAT 27:29",
+          "end_ref": "40027029",
+          "end_ref_usfm": "MAT 27:29"
+        },
+        {
+          "start_ref": "40027030",
+          "start_ref_usfm": "MAT 27:30",
+          "end_ref": "40027030",
+          "end_ref_usfm": "MAT 27:30"
+        },
+        {
+          "start_ref": "41006008",
+          "start_ref_usfm": "MRK 6:8",
+          "end_ref": "41006008",
+          "end_ref_usfm": "MRK 6:8"
+        },
+        {
+          "start_ref": "42009003",
+          "start_ref_usfm": "LUK 9:3",
+          "end_ref": "42009003",
+          "end_ref_usfm": "LUK 9:3"
+        },
+        {
+          "start_ref": "58011021",
+          "start_ref_usfm": "HEB 11:21",
+          "end_ref": "58011021",
+          "end_ref_usfm": "HEB 11:21"
+        },
+        {
+          "start_ref": "66011001",
+          "start_ref_usfm": "REV 11:1",
+          "end_ref": "66011001",
+          "end_ref_usfm": "REV 11:1"
+        },
+        {
+          "start_ref": "40010008",
+          "start_ref_usfm": "MAT 10:8",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "41006007",
+          "start_ref_usfm": "MRK 6:7",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004003",
+          "end_ref_usfm": "EXO 4:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26094,
+          "content_id": 467218,
+          "label": "Pharaon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 467340,
+          "label": "Moutons",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 467342,
+          "label": "Le berger",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

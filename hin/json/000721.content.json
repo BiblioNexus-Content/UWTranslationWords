@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179961,
+    "reference_id": 25894,
+    "title": "यिप्तह",
+    "media_type": "Text",
+    "index_reference": "यिप्तह",
+    "language": "hin",
+    "content": "<h1>यिप्तह</h1><h2>तथ्य:</h2><p>यिप्तह गिलाद का एक योद्धा था, वह इस्राएल का न्यायी था।</p><ul><li><p>इब्रानियों 11:32 में यिप्तह की प्रशंसा की गई है कि वह एक महत्वपूर्ण अगुआ था जिसमें अपने लोगों को शत्रुओं से रक्षा प्रदान की थी।</p></li><li><p>उसने अम्मोनियों को पराजित करने के लिए इस्राएलियों की अगुआई की थी और एप्रैमियों को भी हराया था।</p></li><li><p>तथापि, यिप्तह ने शीघ्रता में परमेश्वर से शपथ खाई जिसके परिणाम स्वरूप उसे अपनी पुत्री की बलि चढ़ानी पड़ी थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25452\" data-resourceType=\"UWTranslationWords\">अम्मोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25657\" data-resourceType=\"UWTranslationWords\">मुक्ति दिलाना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">एप्रैम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25930\" data-resourceType=\"UWTranslationWords\">न्या.</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">मन्नत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">इब्रानियों 11:32–34</a></p></li><li><p><a href=\"https://ref.ly/Judg11:1-Judg11:3\">न्यायियों 11:1–3</a></p></li><li><p><a href=\"https://ref.ly/Judg11:34-Judg11:35\">न्यायियों 11:34–35</a></p></li><li><p><a href=\"https://ref.ly/Judg12:1-Judg12:2\">न्यायियों 12:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07011035",
+          "start_ref_usfm": "JDG 11:35",
+          "end_ref": "07011035",
+          "end_ref_usfm": "JDG 11:35"
+        },
+        {
+          "start_ref": "07012002",
+          "start_ref_usfm": "JDG 12:2",
+          "end_ref": "07012002",
+          "end_ref_usfm": "JDG 12:2"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07011001",
+          "start_ref_usfm": "JDG 11:1",
+          "end_ref": "07011003",
+          "end_ref_usfm": "JDG 11:3"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 179541,
+          "label": "अम्मोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25657,
+          "content_id": 179733,
+          "label": "छुड़ाना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 179781,
+          "label": "एप्रैम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 179996,
+          "label": "न्यायी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 179997,
+          "label": "न्यायी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

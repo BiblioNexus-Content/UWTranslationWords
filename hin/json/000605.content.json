@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179614,
+    "reference_id": 25531,
+    "title": "बेतशेमेश",
+    "media_type": "Text",
+    "index_reference": "बेतशेमेश",
+    "language": "hin",
+    "content": "<h1>बेतशेमेश</h1><h2>तथ्य:</h2><p>बेतशेमेश एक कनानी नगर का नाम था, जो यरूशलेम के लगभग 30 कि.मी. पश्चिम में था।</p><ul><li><p>इस्राएलियों ने यहोशू के समय बेतशेमेश पर अधिकार कर लिया था।</p></li><li><p>बेतशेमेश नगर लेवी याजकों के निवास हेतु अलग कर दिया गया था।</p></li><li><p>जब पलिश्ती वाचा के सन्दूक को लौटाकर यरूशलेम जा रहे थे तब बेतशेमेश पहला नगर था, जहां वे रूके थे।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">वाचा का सन्दूक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">यरूशलेम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">यहोशू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">लेवी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">पलिश्ती</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 04:7–10</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 06:7–9</a></p></li><li><p><a href=\"https://ref.ly/Josh5:2-Josh5:3\">यहोशू 05:2–3</a></p></li><li><p><a href=\"https://ref.ly/Judg1:33\">न्यायियों 01:33</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1053</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "09006009",
+          "start_ref_usfm": "1SA 6:9",
+          "end_ref": "09006009",
+          "end_ref_usfm": "1SA 6:9"
+        },
+        {
+          "start_ref": "11004009",
+          "start_ref_usfm": "1KI 4:9",
+          "end_ref": "11004009",
+          "end_ref_usfm": "1KI 4:9"
+        },
+        {
+          "start_ref": "06019020",
+          "start_ref_usfm": "JOS 19:20",
+          "end_ref": "06019022",
+          "end_ref_usfm": "JOS 19:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 179563,
+          "label": "वाचा का सन्दूक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 179965,
+          "label": "यरूशलेम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 179987,
+          "label": "यहोशू",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 180032,
+          "label": "लेवी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 180162,
+          "label": "पलिश्तियों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

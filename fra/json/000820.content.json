@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467391,
+    "reference_id": 26277,
+    "title": "Syrie",
+    "media_type": "Text",
+    "index_reference": "syrie",
+    "language": "fra",
+    "content": "<h1>Syrie</h1><h2>Définition :</h2><p>La Syrie est un pays situé au nord-est d&apos;Israël* Au temps du Nouveau Testament, c&apos;était une province en vertu de la règle de l&apos;Empire romain.</p><ul><li><p>Dans la période de l&apos;Ancien Testament, les Syriens étaient des militaires forts, ennemis des Israélites.</p></li><li><p>Naaman était un commandant de l&apos;armée syrienne qui a été guéri de la lèpre par le prophète Elisée.</p></li><li><p>Beaucoup d&apos;habitants de la Syrie sont les descendants d&apos;Aram, qui descendait du fils de Noé, Shem.</p></li><li><p>Damas, la capitale de la Syrie, est mentionnée à plusieurs reprises dans la Bible.</p></li><li><p>Saul est allé à la ville de Damas avec des plans pour persécuter les chrétiens, mais Jésus l&apos;arrêta.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/aram.md), (../other/commander.md), (../names/damascus.md), (../other/descendant.md), (../names/elisha.md), (../other/leprosy.md), (../names/naaman.md), (../other/persecute.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004024",
+          "start_ref_usfm": "MAT 4:24",
+          "end_ref": "40004024",
+          "end_ref_usfm": "MAT 4:24"
+        },
+        {
+          "start_ref": "42002002",
+          "start_ref_usfm": "LUK 2:2",
+          "end_ref": "42002002",
+          "end_ref_usfm": "LUK 2:2"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "44015023",
+          "start_ref_usfm": "ACT 15:23",
+          "end_ref": "44015023",
+          "end_ref_usfm": "ACT 15:23"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44020003",
+          "start_ref_usfm": "ACT 20:3",
+          "end_ref": "44020003",
+          "end_ref_usfm": "ACT 20:3"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "40004023",
+          "start_ref_usfm": "MAT 4:23",
+          "end_ref": "40004025",
+          "end_ref_usfm": "MAT 4:25"
+        },
+        {
+          "start_ref": "48001021",
+          "start_ref_usfm": "GAL 1:21",
+          "end_ref": "48001024",
+          "end_ref_usfm": "GAL 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25599,
+          "content_id": 466767,
+          "label": "Commander ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25640,
+          "content_id": 466803,
+          "label": "Damas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 466858,
+          "label": "Elisée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25965,
+          "content_id": 467105,
+          "label": "Lèpre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 467176,
+          "label": "Naaman",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 467214,
+          "label": "Persécuter",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

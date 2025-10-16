@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 466874,
+    "reference_id": 25715,
+    "title": "L'Euphrate",
+    "media_type": "Text",
+    "index_reference": "l'euphrate",
+    "language": "fra",
+    "content": "<h1>L&apos;Euphrate</h1><h2>Définition :</h2><p>L&apos;Euphrate est le nom de l&apos;un des quatre fleuves qui coulaient à travers le jardin d&apos;Eden<em>C&apos;est le fleuve qui est très souvent mentionné dans la Bible</em>Souvent il est simplement appelé&quot;le fleuve&quot;</p><ul><li><p>Le fleuve Euphrate du temps moderne est situé au Proche Orient et est le plus long et important fleuve d&apos;Asie.</p></li><li><p>Ensemble avec le fleuve Tigre ,l&apos;Euphrate limite une région connue comme la Mésopotamie.</p></li><li><p>L&apos;ancienne ville de Ur d&apos;où Abraham est venu était au seuil du fleuve Euphrate.</p></li><li><p>Ce fleuve était l&apos;une des limites de la terre que Dieu a promise de donner à Abraham(Genese 15:18)</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002014",
+          "start_ref_usfm": "GEN 2:14",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
+        },
+        {
+          "start_ref": "01015018",
+          "start_ref_usfm": "GEN 15:18",
+          "end_ref": "01015018",
+          "end_ref_usfm": "GEN 15:18"
+        },
+        {
+          "start_ref": "02023031",
+          "start_ref_usfm": "EXO 23:31",
+          "end_ref": "02023031",
+          "end_ref_usfm": "EXO 23:31"
+        },
+        {
+          "start_ref": "23007020",
+          "start_ref_usfm": "ISA 7:20",
+          "end_ref": "23007020",
+          "end_ref_usfm": "ISA 7:20"
+        },
+        {
+          "start_ref": "66009014",
+          "start_ref_usfm": "REV 9:14",
+          "end_ref": "66009014",
+          "end_ref_usfm": "REV 9:14"
+        },
+        {
+          "start_ref": "66016012",
+          "start_ref_usfm": "REV 16:12",
+          "end_ref": "66016012",
+          "end_ref_usfm": "REV 16:12"
+        },
+        {
+          "start_ref": "13005007",
+          "start_ref_usfm": "1CH 5:7",
+          "end_ref": "13005009",
+          "end_ref_usfm": "1CH 5:9"
+        },
+        {
+          "start_ref": "14009025",
+          "start_ref_usfm": "2CH 9:25",
+          "end_ref": "14009026",
+          "end_ref_usfm": "2CH 9:26"
+        },
+        {
+          "start_ref": "02023030",
+          "start_ref_usfm": "EXO 23:30",
+          "end_ref": "02023033",
+          "end_ref_usfm": "EXO 23:33"
+        },
+        {
+          "start_ref": "01002013",
+          "start_ref_usfm": "GEN 2:13",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

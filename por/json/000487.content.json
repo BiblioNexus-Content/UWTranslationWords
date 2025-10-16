@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238030,
+    "reference_id": 25897,
+    "title": "Jeroboão",
+    "media_type": "Text",
+    "index_reference": "jeroboão",
+    "language": "por",
+    "content": "<h1>Jeroboão</h1><h2>Fatos:</h2><p>Jeroboão, filho de Nebate, foi o primeiro rei do reino do norte de Israel por volta de 900–910 a.C. Outro Jeroboão, filho do rei Jeoás, governou Israel cerca de 120 anos depois.</p><ul><li><p>Javé deu a Jeroboão, filho de Nebate, uma profecia de que ele se tornaria rei após Salomão e que governaria dez tribos de Israel.</p></li><li><p>Quando Salomão morreu, as dez tribos do norte de Israel se rebelaram contra o filho de Salomão, Roboão, e em vez disso fizeram de Jeroboão seu rei, deixando Roboão como rei apenas das duas tribos do sul, Judá e Benjamim.</p></li><li><p>Jeroboão se tornou um rei perverso que afastou o povo da adoração a Javé e, em vez disso, estabeleceu ídolos para eles adorarem. Todos os outros reis de Israel seguiram o exemplo de Jeroboão e foram maus como ele.</p></li><li><p>Quase 120 anos depois, outro rei Jeroboão começou a governar o reino do norte de Israel. Este Jeroboão era filho do rei Jeoás e era perverso como todos os reis anteriores de Israel tinham sido.</p></li><li><p>Apesar da maldade dos israelitas, Deus teve misericórdia deles e ajudou este rei Jeroboão a ganhar terras e estabelecer limites para seu território.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:16-1Chr5:17\">1 Crônicas 5.16–17</a></p></li><li><p><a href=\"https://ref.ly/1Kgs12:2\">1 Reis 12.2</a></p></li><li><p><a href=\"https://ref.ly/2Chr9:29\">2 Crônicas 9.29</a></p></li><li><p><a href=\"https://ref.ly/2Kgs3:1-2Kgs3:3\">2 Reis 3.1–3</a></p></li><li><p><a href=\"https://ref.ly/Amos1:1\">Amós 1.1</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>18:8</strong> As outras dez tribos da nação de Israel que se rebelaram contra Roboão nomearam um homem chamado <strong>Jeroboão</strong> para ser seu rei.</p></li><li><p><strong>18:9</strong> <strong>Jeroboão</strong> se rebelou contra Deus e fez o povo pecar. Ele construiu dois ídolos para seu povo adorar, em vez de adorar a Deus no Templo no reino de Judá.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3379</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012002",
+          "start_ref_usfm": "1KI 12:2",
+          "end_ref": "11012002",
+          "end_ref_usfm": "1KI 12:2"
+        },
+        {
+          "start_ref": "14009029",
+          "start_ref_usfm": "2CH 9:29",
+          "end_ref": "14009029",
+          "end_ref_usfm": "2CH 9:29"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "13005016",
+          "start_ref_usfm": "1CH 5:16",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003003",
+          "end_ref_usfm": "2KI 3:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

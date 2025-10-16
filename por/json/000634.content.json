@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238179,
+    "reference_id": 26049,
+    "title": "Neemias",
+    "media_type": "Text",
+    "index_reference": "neemias",
+    "language": "por",
+    "content": "<h1>Neemias</h1><h2>Fatos:</h2><p>Neemias era um israelita forçado a se mudar para o império babilônico quando o povo de Israel e Judá foi levado cativo pelos babilônios.</p><ul><li><p>Enquanto era o copeiro do rei persa, Artaxerxes, Neemias pediu permissão ao rei para retornar a Jerusalém.</p></li><li><p>Neemias liderou os israelitas na reconstrução dos muros de Jerusalém, que haviam sido destruídos pelos babilônios.</p></li><li><p>Por doze anos, Neemias foi o governador de Jerusalém, antes de retornar ao palácio do rei.</p></li><li><p>O livro do Antigo Testamento de Neemias conta a história do trabalho de Neemias na reconstrução dos muros e seu governo sobre o povo em Jerusalém.</p></li><li><p>Havia também outros homens chamados Neemias no Antigo Testamento. Geralmente o nome do pai era adicionado para distinguir qual Neemias estava sendo mencionado.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25478\" data-resourceType=\"UWTranslationWords\">Artaxerxes</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_son\" data-resourceType=\"UWTranslationWords\">filho</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezra2:1-Ezra2:2\">Esdras 2.1–2</a></p></li><li><p><a href=\"https://ref.ly/Neh1:2\">Neemias 1.2</a></p></li><li><p><a href=\"https://ref.ly/Neh10:3\">Neemias 10.3</a></p></li><li><p><a href=\"https://ref.ly/Neh12:46\">Neemias 12.46</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5166</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        },
+        {
+          "start_ref": "16001002",
+          "start_ref_usfm": "NEH 1:2",
+          "end_ref": "16001002",
+          "end_ref_usfm": "NEH 1:2"
+        },
+        {
+          "start_ref": "16003016",
+          "start_ref_usfm": "NEH 3:16",
+          "end_ref": "16003016",
+          "end_ref_usfm": "NEH 3:16"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008009",
+          "end_ref_usfm": "NEH 8:9"
+        },
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16010001",
+          "end_ref_usfm": "NEH 10:1"
+        },
+        {
+          "start_ref": "16010003",
+          "start_ref_usfm": "NEH 10:3",
+          "end_ref": "16010003",
+          "end_ref_usfm": "NEH 10:3"
+        },
+        {
+          "start_ref": "16012026",
+          "start_ref_usfm": "NEH 12:26",
+          "end_ref": "16012026",
+          "end_ref_usfm": "NEH 12:26"
+        },
+        {
+          "start_ref": "16012046",
+          "start_ref_usfm": "NEH 12:46",
+          "end_ref": "16012046",
+          "end_ref_usfm": "NEH 12:46"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25478,
+          "content_id": 237615,
+          "label": "Artaxerxes",
+          "language": "por"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

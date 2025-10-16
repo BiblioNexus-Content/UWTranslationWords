@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467252,
+    "reference_id": 26130,
+    "title": "Propitiation",
+    "media_type": "Text",
+    "index_reference": "propitiation",
+    "language": "fra",
+    "content": "<h1>propitiation</h1><h2>Définition :</h2><p>Le terme « propitiation » fait référence à un sacrifice qui est fait pour satisfaire ou accomplir la justice de Dieu et pour apaiser sa colère.</p><ul><li><p>L&apos;offrande du sang sacrificiel de Jésus-Christ est la propitiation à Dieu pour les péchés de l&apos;humanité.</p></li><li><p>La mort de Jésus sur la croix a apaisé la colère de Dieu contre le péché. Cela a fourni un moyen pour Dieu de regarder les gens avec faveur et de leur offrir la vie éternelle.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Ce terme peut être traduit par « apaisement » ou « amener Dieu à pardonner les péchés et à accorder sa faveur aux hommes ».</p></li><li><p>Le mot « expiation » a un sens proche du mot « propitiation ». Il est important de comparer la façon dont ces deux termes sont utilisés.</p></li></ul><p>(Voir aussi : (../kt/atonement.md), (../kt/eternity.md), (../kt/forgive.md), (../other/sacrifice.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003025",
+          "end_ref_usfm": "ROM 3:25"
+        },
+        {
+          "start_ref": "58002017",
+          "start_ref_usfm": "HEB 2:17",
+          "end_ref": "58002017",
+          "end_ref_usfm": "HEB 2:17"
+        },
+        {
+          "start_ref": "62002002",
+          "start_ref_usfm": "1JN 2:2",
+          "end_ref": "62002002",
+          "end_ref_usfm": "1JN 2:2"
+        },
+        {
+          "start_ref": "62004010",
+          "start_ref_usfm": "1JN 4:10",
+          "end_ref": "62004010",
+          "end_ref_usfm": "1JN 4:10"
+        },
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003026",
+          "end_ref_usfm": "ROM 3:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25490,
+          "content_id": 466669,
+          "label": "Expier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25712,
+          "content_id": 466871,
+          "label": "Éternité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 466903,
+          "label": "Pardonner",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 237613,
+    "reference_id": 25476,
+    "title": "Armadura",
+    "media_type": "Text",
+    "index_reference": "armadura",
+    "language": "por",
+    "content": "<h1>armadura, arsenal</h1><h2>Definição:</h2><p>O termo “armadura” refere-se ao equipamento que um soldado usa para lutar em uma batalha e se proteger dos ataques inimigos. Também é usado de forma figurada para se referir à armadura espiritual.</p><ul><li><p>Partes da armadura de um soldado incluem um capacete, um escudo, uma couraça, coberturas para as pernas e uma espada.</p></li><li><p>Usando o termo figurativamente, o apóstolo Paulo compara a armadura física à armadura espiritual que Deus dá ao crente para ajudá-lo a lutar batalhas espirituais.</p></li><li><p>A armadura espiritual que Deus dá ao seu povo para lutar contra o pecado e Satanás inclui verdade, justiça, o evangelho da paz, fé, salvação e o Espírito Santo.</p></li><li><p>Isso poderia ser traduzido com um termo que significa “equipamento de soldado” ou “traje de proteção para combate” ou “cobertura protetora” ou “armas”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">fé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26080\" data-resourceType=\"UWTranslationWords\">paz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26201\" data-resourceType=\"UWTranslationWords\">salvar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">espírito</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam31:9-1Sam31:10\">1 Samuel 31.9–10</a></p></li><li><p><a href=\"https://ref.ly/2Sam20:8\">2 Samuel 20.8</a></p></li><li><p><a href=\"https://ref.ly/Eph6:11\">Efésios 6.11</a></p></li><li><p><a href=\"https://ref.ly/Jer51:3-Jer51:4\">Jeremias 51.3–4</a></p></li><li><p><a href=\"https://ref.ly/Luke11:22\">Lucas 11.22</a></p></li><li><p><a href=\"https://ref.ly/Neh4:15-Neh4:16\">Neemias 4.15–16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2290, H2488, H3627, H4055, H5402, G36960, G38330</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10020008",
+          "start_ref_usfm": "2SA 20:8",
+          "end_ref": "10020008",
+          "end_ref_usfm": "2SA 20:8"
+        },
+        {
+          "start_ref": "42011022",
+          "start_ref_usfm": "LUK 11:22",
+          "end_ref": "42011022",
+          "end_ref_usfm": "LUK 11:22"
+        },
+        {
+          "start_ref": "45006013",
+          "start_ref_usfm": "ROM 6:13",
+          "end_ref": "45006013",
+          "end_ref_usfm": "ROM 6:13"
+        },
+        {
+          "start_ref": "45013012",
+          "start_ref_usfm": "ROM 13:12",
+          "end_ref": "45013012",
+          "end_ref_usfm": "ROM 13:12"
+        },
+        {
+          "start_ref": "47006007",
+          "start_ref_usfm": "2CO 6:7",
+          "end_ref": "47006007",
+          "end_ref_usfm": "2CO 6:7"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "49006011",
+          "start_ref_usfm": "EPH 6:11",
+          "end_ref": "49006011",
+          "end_ref_usfm": "EPH 6:11"
+        },
+        {
+          "start_ref": "49006013",
+          "start_ref_usfm": "EPH 6:13",
+          "end_ref": "49006013",
+          "end_ref_usfm": "EPH 6:13"
+        },
+        {
+          "start_ref": "09031009",
+          "start_ref_usfm": "1SA 31:9",
+          "end_ref": "09031010",
+          "end_ref_usfm": "1SA 31:10"
+        },
+        {
+          "start_ref": "24051003",
+          "start_ref_usfm": "JER 51:3",
+          "end_ref": "24051004",
+          "end_ref_usfm": "JER 51:4"
+        },
+        {
+          "start_ref": "16004015",
+          "start_ref_usfm": "NEH 4:15",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 237858,
+          "label": "Fé",
+          "language": "por"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 238210,
+          "label": "Paz",
+          "language": "por"
+        },
+        {
+          "reference_id": 26201,
+          "content_id": 238330,
+          "label": "Salvar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 238386,
+          "label": "Espírito",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

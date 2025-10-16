@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466852,
+    "reference_id": 25692,
+    "title": "Elam",
+    "media_type": "Text",
+    "index_reference": "elam",
+    "language": "fra",
+    "content": "<h1>Elam</h1><h2>Définition :</h2><p>Elam était un fils de Shem et un petit fils de Noé.</p><ul><li><p>Les descendants d&apos;Elam étaient appelés &quot;Elamites&quot; et ils ont vécu dans une région appelée &quot;Elam&quot;.</p></li><li><p>La région d&apos;Elam était située au Sud -Est du Fleuve Tigre ,dans l&apos;actuel Ouest de l&apos;Iran.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/noah.md), (../names/shem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014001",
+          "end_ref_usfm": "GEN 14:1"
+        },
+        {
+          "start_ref": "01014009",
+          "start_ref_usfm": "GEN 14:9",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
+        },
+        {
+          "start_ref": "23022006",
+          "start_ref_usfm": "ISA 22:6",
+          "end_ref": "23022006",
+          "end_ref_usfm": "ISA 22:6"
+        },
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001019",
+          "end_ref_usfm": "1CH 1:19"
+        },
+        {
+          "start_ref": "15008004",
+          "start_ref_usfm": "EZR 8:4",
+          "end_ref": "15008007",
+          "end_ref_usfm": "EZR 8:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 467341,
+          "label": "Sem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

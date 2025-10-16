@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 467245,
+    "reference_id": 26122,
+    "title": "Prince",
+    "media_type": "Text",
+    "index_reference": "prince",
+    "language": "fra",
+    "content": "<h1>Prince, Princesse</h1><h2>Définition :</h2><p>&quot;Un &quot;prince&quot; est le fils d&apos;un roi* Ce terme est également utilisé au sens figuré pour désigner d&apos;autres types de leaders* Une &quot;princesse&quot; est une fille d&apos;un roi.</p><ul><li><p>Le terme «prince» est souvent utilisé comme une référence générale à un chef de file, à un dirigeant ou à toute autre personne puissante.</p></li><li><p>En raison de la richesse et de l&apos;importance d&apos;Abraham, il a été désigné comme un «prince» par les Hittites au milieu desquels il vivait .</p></li><li><p>Jésus est appelé le «Prince de la paix» et le «Prince de la vie*&quot;</p></li><li><p>Dans Actes 2:36, Jésus est appelé «Seigneur et Christ», et dans Actes 5:31, il est appelé &quot;Prince et Sauveur», montrant le sens parallèle de «Seigneur» et «Prince».</p></li><li><p>Dans le livre de Daniel, le terme «prince» est utilisé dans les expressions &quot;Prince de Perse&quot; et &quot;prince de la Grèce», qui peut se référer aux mauvais esprits qui avaient autorité ou le pouvoir sur ces régions.</p></li><li><p>L&apos;archange Michael est également considéré comme un «prince» dans le livre de Daniel.</p></li><li><p>Parfois, dans la Bible Satan est appelé «le prince de ce monde*&quot;</p></li></ul><h2>Traduction Suggestions</h2><ul><li><p>Selon le contexte, les expressions possibles pour traduire ce terme pourraient être, &quot;fils de roi» ou «règle» ou «chef de file» ou «chef» ou «capitaine».</p></li><li><p>Lorsqu&apos;on se réfère à des anges ou des mauvais esprits, cela pourrait aussi être traduit par «esprit souverain» ou «ange» ou «mauvais esprit souverain» ou «esprit puissant seigneur,&quot; en fonction du contexte.</p></li></ul><p>(Voir aussi : (../kt/angel.md), (../kt/authority.md), (../kt/christ.md), (../kt/demon.md), (../kt/lord.md), (../kt/power.md), (../other/ruler.md), (../kt/satan.md), (../kt/savior.md), (../kt/spirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012015",
+          "start_ref_usfm": "GEN 12:15",
+          "end_ref": "01012015",
+          "end_ref_usfm": "GEN 12:15"
+        },
+        {
+          "start_ref": "01017020",
+          "start_ref_usfm": "GEN 17:20",
+          "end_ref": "01017020",
+          "end_ref_usfm": "GEN 17:20"
+        },
+        {
+          "start_ref": "01049026",
+          "start_ref_usfm": "GEN 49:26",
+          "end_ref": "01049026",
+          "end_ref_usfm": "GEN 49:26"
+        },
+        {
+          "start_ref": "18003015",
+          "start_ref_usfm": "JOB 3:15",
+          "end_ref": "18003015",
+          "end_ref_usfm": "JOB 3:15"
+        },
+        {
+          "start_ref": "18029009",
+          "start_ref_usfm": "JOB 29:9",
+          "end_ref": "18029009",
+          "end_ref_usfm": "JOB 29:9"
+        },
+        {
+          "start_ref": "18034019",
+          "start_ref_usfm": "JOB 34:19",
+          "end_ref": "18034019",
+          "end_ref_usfm": "JOB 34:19"
+        },
+        {
+          "start_ref": "18039025",
+          "start_ref_usfm": "JOB 39:25",
+          "end_ref": "18039025",
+          "end_ref_usfm": "JOB 39:25"
+        },
+        {
+          "start_ref": "36003003",
+          "start_ref_usfm": "ZEP 3:3",
+          "end_ref": "36003003",
+          "end_ref_usfm": "ZEP 3:3"
+        },
+        {
+          "start_ref": "42001052",
+          "start_ref_usfm": "LUK 1:52",
+          "end_ref": "42001052",
+          "end_ref_usfm": "LUK 1:52"
+        },
+        {
+          "start_ref": "44005031",
+          "start_ref_usfm": "ACT 5:31",
+          "end_ref": "44005031",
+          "end_ref_usfm": "ACT 5:31"
+        },
+        {
+          "start_ref": "58002010",
+          "start_ref_usfm": "HEB 2:10",
+          "end_ref": "58002010",
+          "end_ref_usfm": "HEB 2:10"
+        },
+        {
+          "start_ref": "58012002",
+          "start_ref_usfm": "HEB 12:2",
+          "end_ref": "58012002",
+          "end_ref_usfm": "HEB 12:2"
+        },
+        {
+          "start_ref": "44005029",
+          "start_ref_usfm": "ACT 5:29",
+          "end_ref": "44005032",
+          "end_ref_usfm": "ACT 5:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 466639,
+          "label": "Ange",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25492,
+          "content_id": 32921,
+          "label": "autorité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 32928,
+          "label": "dirigeant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25658,
+          "content_id": 466820,
+          "label": "Démon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 467113,
+          "label": "Seigneur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 467318,
+          "label": "Satan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26202,
+          "content_id": 467321,
+          "label": "Sauveur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

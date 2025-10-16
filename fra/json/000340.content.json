@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466916,
+    "reference_id": 25765,
+    "title": "Galatie",
+    "media_type": "Text",
+    "index_reference": "galatie",
+    "language": "fra",
+    "content": "<h1>Galatie</h1><h2>Définition :</h2><p>&quot;Dans le Nouveau Testament, la Galatie était une province romaine située dans la partie centrale de ce qui est maintenant le pays actuel de la Turquie.</p><ul><li><p>L&apos;apôtre Paul a écrit une lettre aux chrétiens qui vivaient dans la province de Galatie* Cette lettre est le livre du Nouveau Testament appelé Galates.</p></li><li><p>Les Chrétiens Gentils en Galatie y ont été influencés par les judéo-chrétiens à garder quelques-unes des lois juives.</p></li><li><p>Une raison pour laquelle Paul a écrit sa lettre aux Galates était de souligner à nouveau l&apos;évangile du salut par la grâce, et non par les œuvres.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/asia.md), (../kt/believe.md), (../names/cilicia.md), (../kt/goodnews.md), (../names/paul.md), (../kt/works.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016006",
+          "end_ref_usfm": "ACT 16:6"
+        },
+        {
+          "start_ref": "44018023",
+          "start_ref_usfm": "ACT 18:23",
+          "end_ref": "44018023",
+          "end_ref_usfm": "ACT 18:23"
+        },
+        {
+          "start_ref": "46016001",
+          "start_ref_usfm": "1CO 16:1",
+          "end_ref": "46016001",
+          "end_ref_usfm": "1CO 16:1"
+        },
+        {
+          "start_ref": "48001001",
+          "start_ref_usfm": "GAL 1:1",
+          "end_ref": "48001001",
+          "end_ref_usfm": "GAL 1:1"
+        },
+        {
+          "start_ref": "55004010",
+          "start_ref_usfm": "2TI 4:10",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        },
+        {
+          "start_ref": "44016006",
+          "start_ref_usfm": "ACT 16:6",
+          "end_ref": "44016008",
+          "end_ref_usfm": "ACT 16:8"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        },
+        {
+          "start_ref": "46016001",
+          "start_ref_usfm": "1CO 16:1",
+          "end_ref": "46016002",
+          "end_ref_usfm": "1CO 16:2"
+        },
+        {
+          "start_ref": "55004009",
+          "start_ref_usfm": "2TI 4:9",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 466664,
+          "label": "Asie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25591,
+          "content_id": 466759,
+          "label": "Cilicie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 466945,
+          "label": "La bonnes nouvelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

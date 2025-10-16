@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26532,
+    "reference_id": 25674,
+    "title": "Divination",
+    "media_type": "Text",
+    "index_reference": "divination",
+    "language": "eng",
+    "content": "<h1>divination, diviner, soothsaying, soothsayer</h1><h2>Definition:</h2><p>The terms “divination” and “soothsaying” refer to the practice of trying to get information from spirits in the supernatural world. A person who does this is sometimes called a “diviner” or “soothsayer.”</p><ul><li><p>In Old Testament times, God commanded the Israelites to not practice divination or soothsaying.</p></li><li><p>God did permit his people to seek information from him using the Urim and Thummim, which were stones that he had designated to be used by the high priest for that purpose. But he did not allow his people to seek information through the help of evil spirits.</p></li><li><p>Pagan diviners used different methods of trying to find out information from the spirit world. Sometimes they would examine the inside parts of a dead animal or throw animal bones on the ground, looking for patterns that they would interpret as messages from their false gods.</p></li><li><p>In the New Testament, Jesus and the apostles also rejected divination, sorcery, witchcraft, and magic. All these practices involve using the power of evil spirits and are condemned by God.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apostle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25987\" data-resourceType=\"UWTranslationWords\">magic</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26253\" data-resourceType=\"UWTranslationWords\">sorcery</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam6:1-1Sam6:2\">1 Samuel 6:1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts16:16\">Acts 16:16</a></p></li><li><p><a href=\"https://ref.ly/Ezek12:24-Ezek12:25\">Ezekiel 12:24–25</a></p></li><li><p><a href=\"https://ref.ly/Gen44:5\">Genesis 44:5</a></p></li><li><p><a href=\"https://ref.ly/Jer27:9-Jer27:11\">Jeremiah 27:9–11</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1870, H4738, H5172, H6049, H7080, H7081, G44360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030027",
+          "start_ref_usfm": "GEN 30:27",
+          "end_ref": "01030027",
+          "end_ref_usfm": "GEN 30:27"
+        },
+        {
+          "start_ref": "01044005",
+          "start_ref_usfm": "GEN 44:5",
+          "end_ref": "01044005",
+          "end_ref_usfm": "GEN 44:5"
+        },
+        {
+          "start_ref": "01044015",
+          "start_ref_usfm": "GEN 44:15",
+          "end_ref": "01044015",
+          "end_ref_usfm": "GEN 44:15"
+        },
+        {
+          "start_ref": "20016010",
+          "start_ref_usfm": "PRO 16:10",
+          "end_ref": "20016010",
+          "end_ref_usfm": "PRO 16:10"
+        },
+        {
+          "start_ref": "44016016",
+          "start_ref_usfm": "ACT 16:16",
+          "end_ref": "44016016",
+          "end_ref_usfm": "ACT 16:16"
+        },
+        {
+          "start_ref": "09006001",
+          "start_ref_usfm": "1SA 6:1",
+          "end_ref": "09006002",
+          "end_ref_usfm": "1SA 6:2"
+        },
+        {
+          "start_ref": "26012024",
+          "start_ref_usfm": "EZK 12:24",
+          "end_ref": "26012025",
+          "end_ref_usfm": "EZK 12:25"
+        },
+        {
+          "start_ref": "24027009",
+          "start_ref_usfm": "JER 27:9",
+          "end_ref": "24027011",
+          "end_ref_usfm": "JER 27:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 26324,
+          "label": "Apostle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25987,
+          "content_id": 26845,
+          "label": "Magic",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26253,
+          "content_id": 27111,
+          "label": "Sorcery",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

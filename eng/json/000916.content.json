@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 27189,
+    "reference_id": 26331,
+    "title": "Uzziah",
+    "media_type": "Text",
+    "index_reference": "uzziah",
+    "language": "eng",
+    "content": "<h1>Uzziah, Azariah</h1><h2>Facts:</h2><p>Uzziah became king of Judah at the age of 16 and reigned 52 years, which was an unusually long reign. Uzziah was also known as “Azariah.”</p><ul><li><p>King Uzziah was well-known for his organized and skilled military. He had towers built to protect the city and had specially-designed weapons of war mounted on them to hurl arrows and large stones.</p></li><li><p>As long as Uzziah served the Lord, he prospered. Toward the end of his reign, however, he became proud and he disobeyed the Lord by burning incense in the temple, which only the priest was permitted to do.</p></li><li><p>Because of this sin, Uzziah became sick with leprosy and had to live separately from other people until the end of his reign.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25965\" data-resourceType=\"UWTranslationWords\">leprosy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26166\" data-resourceType=\"UWTranslationWords\">reign</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26343\" data-resourceType=\"UWTranslationWords\">watchtower</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs14:21\">2 Kings 14:21</a></p></li><li><p><a href=\"https://ref.ly/Amos1:1\">Amos 1:1</a></p></li><li><p><a href=\"https://ref.ly/Hos1:1\">Hosea 1:1</a></p></li><li><p><a href=\"https://ref.ly/Isa6:1-Isa6:2\">Isaiah 6:1–2</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7-Matt1:8\">Matthew 1:7–8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5818, H5838, H5839</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014021",
+          "end_ref_usfm": "2KI 14:21"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006002",
+          "end_ref_usfm": "ISA 6:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25965,
+          "content_id": 26823,
+          "label": "Leprosy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26166,
+          "content_id": 27024,
+          "label": "Reign",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26343,
+          "content_id": 27201,
+          "label": "Watchtower",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

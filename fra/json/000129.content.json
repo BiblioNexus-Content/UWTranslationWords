@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467380,
+    "reference_id": 26265,
+    "title": "Boisson forte",
+    "media_type": "Text",
+    "index_reference": "boisson forte",
+    "language": "fra",
+    "content": "<h1>boisson forte</h1><h2>Définition :</h2><p>Le terme «boisson forte» fait référence à des boissons qui ont été fermentées, appelées aussi des boissons alcoolisées &quot;&quot;.</p><ul><li><p>Les boissons alcoolisées sont fabriquées à partir soit de céréales ou de fruits soit ont subi un processus de fermentation* Types de boissons fortes sont le vin (à partir de raisins), la bière, le cidre et le vin de palme.</p></li><li><p>Les prêtres et tous ceux qui ont fait un vœu spécial tel que le «vœu nazaréen» étaient interdits de boire des boissons fermentées.</p></li></ul><p>(Voir aussi : (../other/grape.md), (../kt/nazirite.md), (../kt/vow.md), (../other/wine.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03010009",
+          "start_ref_usfm": "LEV 10:9",
+          "end_ref": "03010009",
+          "end_ref_usfm": "LEV 10:9"
+        },
+        {
+          "start_ref": "04006003",
+          "start_ref_usfm": "NUM 6:3",
+          "end_ref": "04006003",
+          "end_ref_usfm": "NUM 6:3"
+        },
+        {
+          "start_ref": "20020001",
+          "start_ref_usfm": "PRO 20:1",
+          "end_ref": "20020001",
+          "end_ref_usfm": "PRO 20:1"
+        },
+        {
+          "start_ref": "20031004",
+          "start_ref_usfm": "PRO 31:4",
+          "end_ref": "20031004",
+          "end_ref_usfm": "PRO 31:4"
+        },
+        {
+          "start_ref": "20031006",
+          "start_ref_usfm": "PRO 31:6",
+          "end_ref": "20031006",
+          "end_ref_usfm": "PRO 31:6"
+        },
+        {
+          "start_ref": "42001015",
+          "start_ref_usfm": "LUK 1:15",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42001014",
+          "start_ref_usfm": "LUK 1:14",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 466952,
+          "label": "Grappe de raisin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26046,
+          "content_id": 467183,
+          "label": "Nazaréen",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 467455,
+          "label": "Vin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

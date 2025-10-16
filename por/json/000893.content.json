@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 191645,
+    "reference_id": 26325,
+    "title": "Tíquico",
+    "media_type": "Text",
+    "index_reference": "tíquico",
+    "language": "por",
+    "content": "<h1>Tíquico</h1><h2>Fatos:</h2><p>Tíquico foi um dos companheiros de Paulo no ministério do evangelho.</p><ul><li><p>Tíquico acompanhou Paulo em pelo menos uma de suas viagens missionárias à Ásia.</p></li><li><p>Paulo o descreveu como “amado” e “fiel”.</p></li><li><p>Tíquico levou as cartas de Paulo para Éfeso e Colossos.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">Ásia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25524\" data-resourceType=\"UWTranslationWords\">amado</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">Colossos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Éfeso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25726\" data-resourceType=\"UWTranslationWords\">fiel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">boas novas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">ministro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timóteo 4.11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:9\">Colossenses 4.9</a></p></li><li><p><a href=\"https://ref.ly/Titus3:12\">Tito 3.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong: G51900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "49006021",
+          "start_ref_usfm": "EPH 6:21",
+          "end_ref": "49006021",
+          "end_ref_usfm": "EPH 6:21"
+        },
+        {
+          "start_ref": "51004007",
+          "start_ref_usfm": "COL 4:7",
+          "end_ref": "51004007",
+          "end_ref_usfm": "COL 4:7"
+        },
+        {
+          "start_ref": "51004009",
+          "start_ref_usfm": "COL 4:9",
+          "end_ref": "51004009",
+          "end_ref_usfm": "COL 4:9"
+        },
+        {
+          "start_ref": "55004012",
+          "start_ref_usfm": "2TI 4:12",
+          "end_ref": "55004012",
+          "end_ref_usfm": "2TI 4:12"
+        },
+        {
+          "start_ref": "56003012",
+          "start_ref_usfm": "TIT 3:12",
+          "end_ref": "56003012",
+          "end_ref_usfm": "TIT 3:12"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 237622,
+          "label": "Ásia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25524,
+          "content_id": 237660,
+          "label": "Amado",
+          "language": "por"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 237732,
+          "label": "Colossos",
+          "language": "por"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 237839,
+          "label": "Éfeso",
+          "language": "por"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 237859,
+          "label": "Fiel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 237929,
+          "label": "Boas Notícias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 238151,
+          "label": "Ministrar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

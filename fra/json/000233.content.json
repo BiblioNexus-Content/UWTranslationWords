@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466832,
+    "reference_id": 25672,
+    "title": "Deshonneur",
+    "media_type": "Text",
+    "index_reference": "deshonneur",
+    "language": "fra",
+    "content": "<h1>deshonneur ,deshonnorable</h1><h2>Définition :</h2><p>Le terme\\déshonorer&quot;veut dire faire quelque chose d&apos;irrespectueux à quelqu&apos;un*Ceci peut causer à cette personne une honte ou une disgrâce.</p><ul><li><p>Le terme &quot;déshonorable&quot;décrit une action qui est honteuse ou qui cause un déshonneur à quelqu&apos;un.</p></li><li><p>Quelque fois &quot;déshorable&quot; se refère à des objets qui ne sont pas utiles .</p></li><li><p>On ordonne aux enfants à honorer et à obéir à leurs parents<em>Quand les enfants désobéissent ,ils déshonorent leurs parents</em>Ils considèrent leurs parents d&apos;une manière qui ne les honore pas.</p></li><li><p>Les israélites ont déshonoré Dieu quand ils ont adoré les faux dieux et ont pratiqué un comportement immoral.</p></li><li><p>Les Juifs ont déshonoré Jésus en disant qu&apos;il est animé d&apos;un esprit mauvais.</p></li><li><p>Ceci pourrait être traduit comme&quot;ne pas honorer&quot;ne pas respecter*&quot;</p></li><li><p>Le nom&quot;déshonneur &quot;pourrait être traduit comme&quot;irrespectueux&quot;ou&quot;une perte d&apos; honneur&quot;</p></li><li><p>Selon le contexte,&quot;déshonorable&quot;pourrait être traduit comme &quot;ne pas être hororable&quot;ou&quot;honteux&quot;ou &quot;ne pas être louable&quot;ou &quot;sans valeur&quot;</p></li></ul><p>(Voir aussi : (../other/disgrace.md), (../kt/honor.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018008",
+          "start_ref_usfm": "LEV 18:8",
+          "end_ref": "03018008",
+          "end_ref_usfm": "LEV 18:8"
+        },
+        {
+          "start_ref": "09020034",
+          "start_ref_usfm": "1SA 20:34",
+          "end_ref": "09020034",
+          "end_ref_usfm": "1SA 20:34"
+        },
+        {
+          "start_ref": "15004014",
+          "start_ref_usfm": "EZR 4:14",
+          "end_ref": "15004014",
+          "end_ref_usfm": "EZR 4:14"
+        },
+        {
+          "start_ref": "20003035",
+          "start_ref_usfm": "PRO 3:35",
+          "end_ref": "20003035",
+          "end_ref_usfm": "PRO 3:35"
+        },
+        {
+          "start_ref": "20006033",
+          "start_ref_usfm": "PRO 6:33",
+          "end_ref": "20006033",
+          "end_ref_usfm": "PRO 6:33"
+        },
+        {
+          "start_ref": "20012016",
+          "start_ref_usfm": "PRO 12:16",
+          "end_ref": "20012016",
+          "end_ref_usfm": "PRO 12:16"
+        },
+        {
+          "start_ref": "26022007",
+          "start_ref_usfm": "EZK 22:7",
+          "end_ref": "26022007",
+          "end_ref_usfm": "EZK 22:7"
+        },
+        {
+          "start_ref": "43008048",
+          "start_ref_usfm": "JHN 8:48",
+          "end_ref": "43008048",
+          "end_ref_usfm": "JHN 8:48"
+        },
+        {
+          "start_ref": "45001026",
+          "start_ref_usfm": "ROM 1:26",
+          "end_ref": "45001026",
+          "end_ref_usfm": "ROM 1:26"
+        },
+        {
+          "start_ref": "45009021",
+          "start_ref_usfm": "ROM 9:21",
+          "end_ref": "45009021",
+          "end_ref_usfm": "ROM 9:21"
+        },
+        {
+          "start_ref": "46004010",
+          "start_ref_usfm": "1CO 4:10",
+          "end_ref": "46004010",
+          "end_ref_usfm": "1CO 4:10"
+        },
+        {
+          "start_ref": "46011014",
+          "start_ref_usfm": "1CO 11:14",
+          "end_ref": "46011014",
+          "end_ref_usfm": "1CO 11:14"
+        },
+        {
+          "start_ref": "46015043",
+          "start_ref_usfm": "1CO 15:43",
+          "end_ref": "46015043",
+          "end_ref_usfm": "1CO 15:43"
+        },
+        {
+          "start_ref": "47006008",
+          "start_ref_usfm": "2CO 6:8",
+          "end_ref": "47006008",
+          "end_ref_usfm": "2CO 6:8"
+        },
+        {
+          "start_ref": "47011021",
+          "start_ref_usfm": "2CO 11:21",
+          "end_ref": "47011021",
+          "end_ref_usfm": "2CO 11:21"
+        },
+        {
+          "start_ref": "55002020",
+          "start_ref_usfm": "2TI 2:20",
+          "end_ref": "55002020",
+          "end_ref_usfm": "2TI 2:20"
+        },
+        {
+          "start_ref": "47006008",
+          "start_ref_usfm": "2CO 6:8",
+          "end_ref": "47006010",
+          "end_ref_usfm": "2CO 6:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25846,
+          "content_id": 466993,
+          "label": "Honneur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

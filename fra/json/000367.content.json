@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466927,
+    "reference_id": 25778,
+    "title": "Guibea",
+    "media_type": "Text",
+    "index_reference": "guibea",
+    "language": "fra",
+    "content": "<h1>Guibea</h1><h2>Définition :</h2><p>&quot;Guibea est le nom d&apos;une ville qui se trouvait au nord de Jérusalem et au sud de Bethel.</p><ul><li><p>Guibea était sur le territoire de la tribu de Benjamin.</p></li><li><p>Elle a été le site d&apos;une grande bataille entre les Benjamites et Israël.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/benjamin.md), (../names/bethel.md), (../names/jerusalem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10021006",
+          "start_ref_usfm": "2SA 21:6",
+          "end_ref": "10021006",
+          "end_ref_usfm": "2SA 21:6"
+        },
+        {
+          "start_ref": "28009009",
+          "start_ref_usfm": "HOS 9:9",
+          "end_ref": "28009009",
+          "end_ref_usfm": "HOS 9:9"
+        },
+        {
+          "start_ref": "09010026",
+          "start_ref_usfm": "1SA 10:26",
+          "end_ref": "09010027",
+          "end_ref_usfm": "1SA 10:27"
+        },
+        {
+          "start_ref": "07019012",
+          "start_ref_usfm": "JDG 19:12",
+          "end_ref": "07019013",
+          "end_ref_usfm": "JDG 19:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25529,
+          "content_id": 466702,
+          "label": "Béthel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26871,
+    "reference_id": 26013,
+    "title": "Meshech",
+    "media_type": "Text",
+    "index_reference": "meshech",
+    "language": "eng",
+    "content": "<h1>Meshech</h1><h2>Facts:</h2><p>Meshech is the name of two men in the Old Testament.</p><ul><li><p>One Meshech was a son of Japheth.</p></li><li><p>The other Meshech was a grandson of Shem.</p></li><li><p>Meshech was also the name of a region of land, which was probably named after one of these men.</p></li><li><p>The region of Meshech may have been located in part of what is now the country of Turkey.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25885\" data-resourceType=\"UWTranslationWords\">Japheth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Shem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:5-1Chr1:7\">1 Chronicles 1:5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:12-Ezek27:13\">Ezekiel 27:12–13</a></p></li><li><p><a href=\"https://ref.ly/Gen10:2-Gen10:5\">Genesis 10:2–5</a></p></li><li><p><a href=\"https://ref.ly/Ps120:5\">Psalms 120:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4851, H4902</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "19120005",
+          "start_ref_usfm": "PSA 120:5",
+          "end_ref": "19120005",
+          "end_ref_usfm": "PSA 120:5"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "13001005",
+          "start_ref_usfm": "1CH 1:5",
+          "end_ref": "13001007",
+          "end_ref_usfm": "1CH 1:7"
+        },
+        {
+          "start_ref": "26027012",
+          "start_ref_usfm": "EZK 27:12",
+          "end_ref": "26027013",
+          "end_ref_usfm": "EZK 27:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25885,
+          "content_id": 26743,
+          "label": "Japheth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 27083,
+          "label": "Shem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

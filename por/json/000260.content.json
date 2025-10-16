@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 237803,
+    "reference_id": 25670,
+    "title": "Desencorajar",
+    "media_type": "Text",
+    "index_reference": "desencorajar",
+    "language": "por",
+    "content": "<h1>desencorajar, desencorajado, desencorajamento</h1><h2>Fatos:</h2><p>O termo “desencorajar” refere-se a dizer e fazer coisas que fazem as pessoas perderem esperança, confiança e coragem, de modo que elas tenham menos desejo de continuar trabalhando duro para fazer o que sabem que devem fazer. O termo “desencorajado” refere-se a levar (ou ser levado) a não ter esperança, confiança ou coragem em relação a algo.</p><ul><li><p>O termo “desencorajamento” tem o significado oposto de “encorajamento”.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Dependendo do contexto, maneiras de traduzir “desencorajar” podem incluir “desmoralizar” ou “causar desânimo” ou “causar perda de confiança” ou “causar perda de esperança” ou “privar de coragem”.</p></li><li><p>Dependendo do contexto, você pode traduzir “desencorajado” como “desanimado” ou usar alguma outra palavra ou frase equivalente.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25700\" data-resourceType=\"UWTranslationWords\">encorajar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_confidence\" data-resourceType=\"UWTranslationWords\">confiança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">medo</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25700,
+          "content_id": 237833,
+          "label": "Encorajar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25735,
+          "content_id": 237868,
+          "label": "Temor",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

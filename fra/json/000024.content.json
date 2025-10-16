@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466622,
+    "reference_id": 25441,
+    "title": "Achazia",
+    "media_type": "Text",
+    "index_reference": "achazia",
+    "language": "fra",
+    "content": "<h1>Achazia</h1><h2>Définition :</h2><p>Achazia était le nom de deux rois: l&apos;un régna sur le royaume d&apos;Israël, et l&apos;autre régna sur le royaume de Juda.</p><ul><li><p>Achazia, roi de Juda, était fils du roi Joram* Après un an de règne (841 Avant* Jésus-Christ*), il fut tué par Jéhu* Joas, frère cadet d&apos;Achazia devint roi à sa place.</p></li><li><p>Achazia, roi d&apos;Israël était le fils du roi Achab* Il régna pendant deux ans (de 850 à 849 Avant Jésus-Christ*)* Il mourut suite à des blessures qu&apos;il eut après une chute dans son palais et Joram son frère lui succéda*&quot;</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/jehu.md), (../names/ahab.md), (../names/jeroboam.md), (../names/joash.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011002",
+          "start_ref_usfm": "2KI 11:2",
+          "end_ref": "12011002",
+          "end_ref_usfm": "2KI 11:2"
+        },
+        {
+          "start_ref": "14022002",
+          "start_ref_usfm": "2CH 22:2",
+          "end_ref": "14022002",
+          "end_ref_usfm": "2CH 22:2"
+        },
+        {
+          "start_ref": "11022039",
+          "start_ref_usfm": "1KI 22:39",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "14025023",
+          "start_ref_usfm": "2CH 25:23",
+          "end_ref": "14025024",
+          "end_ref_usfm": "2CH 25:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 467038,
+          "label": "Jéhu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 467042,
+          "label": "Jéroboam",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 467052,
+          "label": "Joas",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

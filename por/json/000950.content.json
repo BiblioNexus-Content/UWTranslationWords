@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 238495,
+    "reference_id": 26369,
+    "title": "Zacarias NT",
+    "media_type": "Text",
+    "index_reference": "zacarias nt",
+    "language": "por",
+    "content": "<h1>Zacarias (NT)</h1><h2>Fatos:</h2><p>No Novo Testamento, Zacarias era um sacerdote judeu que se tornou o pai de João Batista.</p><ul><li><p>Zacarias amava a Deus e obedecia a Ele.</p></li><li><p>Por muitos anos, Zacarias e sua esposa, Isabel, oraram fervorosamente para ter um filho, mas não tiveram um. Então, quando já eram muito velhos, Deus respondeu às suas orações e lhes deu um filho.</p></li><li><p>Zacarias profetizou que seu filho João seria o profeta que anunciaria e prepararia o caminho para o Messias.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Cristo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25699\" data-resourceType=\"UWTranslationWords\">Isabel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:5-Luke1:7\">Lucas 1.5–7</a></p></li><li><p><a href=\"https://ref.ly/Luke1:21-Luke1:23\">Lucas 1.21–23</a></p></li><li><p><a href=\"https://ref.ly/Luke1:39-Luke1:41\">Lucas 1.39–41</a></p></li><li><p><a href=\"https://ref.ly/Luke3:1-Luke3:2\">Lucas 3.1–2</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>22:1</strong> De repente, um anjo veio com uma mensagem de Deus para um velho sacerdote chamado <strong>Zacarias</strong>. Ele e sua esposa, Isabel, eram pessoas piedosas, mas ela não conseguia ter filhos.</p></li><li><p><strong>22:2</strong> O anjo disse a <strong>Zacarias</strong>: “A sua esposa vai ter um filho, e você porá nele o nome de João”.</p></li><li><p><strong>22:3</strong> Imediatamente, <strong>Zacarias</strong> ficou incapaz de falar.</p></li><li><p><strong>22:7</strong> Então Deus permitiu que <strong>Zacarias</strong> falasse novamente.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G21970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "42001012",
+          "start_ref_usfm": "LUK 1:12",
+          "end_ref": "42001012",
+          "end_ref_usfm": "LUK 1:12"
+        },
+        {
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42001018",
+          "start_ref_usfm": "LUK 1:18",
+          "end_ref": "42001018",
+          "end_ref_usfm": "LUK 1:18"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001021",
+          "end_ref_usfm": "LUK 1:21"
+        },
+        {
+          "start_ref": "42001040",
+          "start_ref_usfm": "LUK 1:40",
+          "end_ref": "42001040",
+          "end_ref_usfm": "LUK 1:40"
+        },
+        {
+          "start_ref": "42001059",
+          "start_ref_usfm": "LUK 1:59",
+          "end_ref": "42001059",
+          "end_ref_usfm": "LUK 1:59"
+        },
+        {
+          "start_ref": "42001067",
+          "start_ref_usfm": "LUK 1:67",
+          "end_ref": "42001067",
+          "end_ref_usfm": "LUK 1:67"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001023",
+          "end_ref_usfm": "LUK 1:23"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 237722,
+          "label": "Cristo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25699,
+          "content_id": 237832,
+          "label": "Isabel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

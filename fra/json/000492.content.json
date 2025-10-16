@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467093,
+    "reference_id": 25952,
+    "title": "Lamech",
+    "media_type": "Text",
+    "index_reference": "lamech",
+    "language": "fra",
+    "content": "<h1>Lamech</h1><h2>Définition :</h2><p>&quot;Lamech était le nom de deux hommes mentionnés dans le livre de la Genèse.</p><ul><li><p>Le premier Lamech mentionné était un descendant de Caïn* Il se vantait auprès de ses deux femmes qu&apos;il avait tué un homme.</p></li><li><p>Le second Lamech était un descendant de Seth* Il était aussi le père de Noé.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cain.md), (../names/noah.md), (../names/seth.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
+        },
+        {
+          "start_ref": "01004019",
+          "start_ref_usfm": "GEN 4:19",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        },
+        {
+          "start_ref": "01004023",
+          "start_ref_usfm": "GEN 4:23",
+          "end_ref": "01004023",
+          "end_ref_usfm": "GEN 4:23"
+        },
+        {
+          "start_ref": "01004024",
+          "start_ref_usfm": "GEN 4:24",
+          "end_ref": "01004024",
+          "end_ref_usfm": "GEN 4:24"
+        },
+        {
+          "start_ref": "01005025",
+          "start_ref_usfm": "GEN 5:25",
+          "end_ref": "01005025",
+          "end_ref_usfm": "GEN 5:25"
+        },
+        {
+          "start_ref": "01005026",
+          "start_ref_usfm": "GEN 5:26",
+          "end_ref": "01005026",
+          "end_ref_usfm": "GEN 5:26"
+        },
+        {
+          "start_ref": "01005028",
+          "start_ref_usfm": "GEN 5:28",
+          "end_ref": "01005028",
+          "end_ref_usfm": "GEN 5:28"
+        },
+        {
+          "start_ref": "01005029",
+          "start_ref_usfm": "GEN 5:29",
+          "end_ref": "01005029",
+          "end_ref_usfm": "GEN 5:29"
+        },
+        {
+          "start_ref": "01005030",
+          "start_ref_usfm": "GEN 5:30",
+          "end_ref": "01005030",
+          "end_ref_usfm": "GEN 5:30"
+        },
+        {
+          "start_ref": "01005031",
+          "start_ref_usfm": "GEN 5:31",
+          "end_ref": "01005031",
+          "end_ref_usfm": "GEN 5:31"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 466736,
+          "label": "Caïn",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26218,
+          "content_id": 467335,
+          "label": "Seth",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

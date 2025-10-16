@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179626,
+    "reference_id": 25544,
+    "title": "दोष",
+    "media_type": "Text",
+    "index_reference": "दोष",
+    "language": "hin",
+    "content": "<h1>दोष, निर्दोष, कलंक</h1><h2>तथ्य</h2><p>“दोष” अर्थात पशु या मनुष्य में शारीरिक दोष या विकलांगता। इसका संदर्भ मनुष्यों में आत्मिक असिद्धता एवं दोष से भी है।</p><ul><li><p>कुछ बलियों में परमेश्वर की आज्ञा थी कि बलि पशु निर्दोष एवं निष्कलंक हो।</p></li><li><p>यह मसीह यीशु की निष्पाप एवं सिद्ध बलि का चित्रण है।</p></li><li><p>मसीह के विश्वासी यीशु के लहू द्वारा पापों से शुद्ध किए गए हैं और निष्कलंक माने गए हैं।</p></li><li><p>प्रकरण के अनुसार इस शब्द के अनुवाद हो सकते हैं, “दोष” या “असिद्धता” या “पाप”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_believer\" data-resourceType=\"UWTranslationWords\">विश्वास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">शुद्ध</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">पाप</span>)</p><h2>बाइबल सन्दर्भ</h2><ul><li><p><a href=\"https://ref.ly/1Pet0:0\">1 पतरस 1:19</a></p></li><li><p><a href=\"https://ref.ly/2Pet0:0\">2 पतरस 2:13</a></p></li><li><p><a href=\"https://ref.ly/Deut15:19-Deut15:21\">व्यवस्थाविवरण 15:19–21</a></p></li><li><p><a href=\"https://ref.ly/Num6:13-Num6:15\">गिनती 6:13–15</a></p></li><li><p><a href=\"https://ref.ly/Song4:7\">श्रेष्ठगीत 4:7</a></p></li></ul><h2>शब्द तथ्य</h2><ul><li><p>स्ट्रोंग्स: H3971, H8400, H8549, G34700</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029001",
+          "start_ref_usfm": "EXO 29:1",
+          "end_ref": "02029001",
+          "end_ref_usfm": "EXO 29:1"
+        },
+        {
+          "start_ref": "22004007",
+          "start_ref_usfm": "SNG 4:7",
+          "end_ref": "22004007",
+          "end_ref_usfm": "SNG 4:7"
+        },
+        {
+          "start_ref": "60001019",
+          "start_ref_usfm": "1PE 1:19",
+          "end_ref": "60001019",
+          "end_ref_usfm": "1PE 1:19"
+        },
+        {
+          "start_ref": "61002013",
+          "start_ref_usfm": "2PE 2:13",
+          "end_ref": "61002013",
+          "end_ref_usfm": "2PE 2:13"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "05015019",
+          "start_ref_usfm": "DEU 15:19",
+          "end_ref": "05015021",
+          "end_ref_usfm": "DEU 15:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 179606,
+          "label": "विश्वास करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25596,
+          "content_id": 179675,
+          "label": "शुद्ध",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 180294,
+          "label": "पाप",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

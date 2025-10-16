@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237609,
+    "reference_id": 25472,
+    "title": "Ararate",
+    "media_type": "Text",
+    "index_reference": "ararate",
+    "language": "por",
+    "content": "<h1>Ararate</h1><h2>Fatos:</h2><p>Na Bíblia, “Ararate” é o nome dado a uma terra, um reino e uma cadeia de montanhas.</p><ul><li><p>A “terra de Ararate” provavelmente estava localizada no que hoje é a parte nordeste do país da Turquia.</p></li><li><p>Ararate é mais conhecido como o nome da montanha onde a arca de Noé repousou após as águas do grande dilúvio começarem a recuar.</p></li><li><p>Nos tempos modernos, uma montanha chamada “Monte Ararate” é frequentemente considerada o local das “montanhas de Ararate” na Bíblia.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">arca</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs19:35-2Kgs19:37\">2 Reis 19.35–37</a></p></li><li><p><a href=\"https://ref.ly/Gen8:4-Gen8:5\">Gênesis 8.4–5</a></p></li><li><p><a href=\"https://ref.ly/Isa37:38\">Isaías 37.38</a></p></li><li><p><a href=\"https://ref.ly/Jer51:27\">Jeremias 51.27</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0780</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008004",
+          "end_ref_usfm": "GEN 8:4"
+        },
+        {
+          "start_ref": "23037038",
+          "start_ref_usfm": "ISA 37:38",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "24051027",
+          "start_ref_usfm": "JER 51:27",
+          "end_ref": "24051027",
+          "end_ref_usfm": "JER 51:27"
+        },
+        {
+          "start_ref": "12019035",
+          "start_ref_usfm": "2KI 19:35",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008005",
+          "end_ref_usfm": "GEN 8:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 237611,
+          "label": "Arca",
+          "language": "por"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

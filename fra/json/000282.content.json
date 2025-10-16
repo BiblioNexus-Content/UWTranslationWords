@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467271,
+    "reference_id": 26150,
+    "title": "Enragé",
+    "media_type": "Text",
+    "index_reference": "enragé",
+    "language": "fra",
+    "content": "<h1>Enragé</h1><h2>Définition :</h2><p>l&apos;enragement est la colère qui est hors de contrôle* Quand quelqu&apos;un est enragé, cela signifie que la personne exprime sa colère d&apos;une manière destructrice.</p><ul><li><p>Rage se produit lorsque l&apos;émotion de la colère l&apos;emporte sur la maîtrise de soi.</p></li><li><p>Sous le contrôle de la rage, les gens commettent des actes et disent des choses qui sont destructrices.</p></li><li><p>Le terme «enrager» peut également se référer à des mouvements puissants, comme une tempête &quot;rage&quot; ou les vagues de la mer qui «ragent».</p></li></ul><p>(Voir aussi : (../other/angry.md), (../other/selfcontrol.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04025011",
+          "start_ref_usfm": "NUM 25:11",
+          "end_ref": "04025011",
+          "end_ref_usfm": "NUM 25:11"
+        },
+        {
+          "start_ref": "20019003",
+          "start_ref_usfm": "PRO 19:3",
+          "end_ref": "20019003",
+          "end_ref_usfm": "PRO 19:3"
+        },
+        {
+          "start_ref": "20019012",
+          "start_ref_usfm": "PRO 19:12",
+          "end_ref": "20019012",
+          "end_ref_usfm": "PRO 19:12"
+        },
+        {
+          "start_ref": "27003013",
+          "start_ref_usfm": "DAN 3:13",
+          "end_ref": "27003013",
+          "end_ref_usfm": "DAN 3:13"
+        },
+        {
+          "start_ref": "42004028",
+          "start_ref_usfm": "LUK 4:28",
+          "end_ref": "42004028",
+          "end_ref_usfm": "LUK 4:28"
+        },
+        {
+          "start_ref": "44004025",
+          "start_ref_usfm": "ACT 4:25",
+          "end_ref": "44004025",
+          "end_ref_usfm": "ACT 4:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26213,
+          "content_id": 467331,
+          "label": "Maîtrise de soi",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

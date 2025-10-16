@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 466724,
+    "reference_id": 25553,
+    "title": "Arc et flèche",
+    "media_type": "Text",
+    "index_reference": "arc et flèche",
+    "language": "fra",
+    "content": "<h1>arc et flèche</h1><h2>Définition :</h2><p>Ceci est un type d&apos;arme qui consiste à lancer des flèches d&apos;un arc à cordes* Dans les temps bibliques, il a été utilisé pour lutter contre les ennemis et pour tuer des animaux pour la nourriture.</p><ul><li><p>L&apos;arc est faite de bois, d&apos;os, de métal ou d&apos;autres matériaux durs, comme le bois de cerf* Il a une forme incurvée et est tendue étroitement avec une ficelle, corde, ou vigne.</p></li><li><p>Une flèche est un arbre mince avec une tête pointue à une extrémité* Dans les temps anciens, les flèches pouvaient être faites d&apos;une variété de matériaux tels que le bois, l&apos;os, la pierre, ou en métal.</p></li><li><p>Les arcs et les flèches sont couramment utilisés par les chasseurs et guerriers.</p></li></ul><p>Le terme «flèche» est aussi parfois utilisé au sens figuré dans la Bible pour désigner les attaques ennemies ou le jugement divin.</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009013",
+          "start_ref_usfm": "GEN 9:13",
+          "end_ref": "01009013",
+          "end_ref_usfm": "GEN 9:13"
+        },
+        {
+          "start_ref": "01009014",
+          "start_ref_usfm": "GEN 9:14",
+          "end_ref": "01009014",
+          "end_ref_usfm": "GEN 9:14"
+        },
+        {
+          "start_ref": "01009016",
+          "start_ref_usfm": "GEN 9:16",
+          "end_ref": "01009016",
+          "end_ref_usfm": "GEN 9:16"
+        },
+        {
+          "start_ref": "01021016",
+          "start_ref_usfm": "GEN 21:16",
+          "end_ref": "01021016",
+          "end_ref_usfm": "GEN 21:16"
+        },
+        {
+          "start_ref": "01027003",
+          "start_ref_usfm": "GEN 27:3",
+          "end_ref": "01027003",
+          "end_ref_usfm": "GEN 27:3"
+        },
+        {
+          "start_ref": "01048022",
+          "start_ref_usfm": "GEN 48:22",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "01049023",
+          "start_ref_usfm": "GEN 49:23",
+          "end_ref": "01049023",
+          "end_ref_usfm": "GEN 49:23"
+        },
+        {
+          "start_ref": "01049024",
+          "start_ref_usfm": "GEN 49:24",
+          "end_ref": "01049024",
+          "end_ref_usfm": "GEN 49:24"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029020",
+          "end_ref_usfm": "JOB 29:20"
+        },
+        {
+          "start_ref": "20007023",
+          "start_ref_usfm": "PRO 7:23",
+          "end_ref": "20007023",
+          "end_ref_usfm": "PRO 7:23"
+        },
+        {
+          "start_ref": "20025018",
+          "start_ref_usfm": "PRO 25:18",
+          "end_ref": "20025018",
+          "end_ref_usfm": "PRO 25:18"
+        },
+        {
+          "start_ref": "20026018",
+          "start_ref_usfm": "PRO 26:18",
+          "end_ref": "20026018",
+          "end_ref_usfm": "PRO 26:18"
+        },
+        {
+          "start_ref": "25002004",
+          "start_ref_usfm": "LAM 2:4",
+          "end_ref": "25002004",
+          "end_ref_usfm": "LAM 2:4"
+        },
+        {
+          "start_ref": "66006002",
+          "start_ref_usfm": "REV 6:2",
+          "end_ref": "66006002",
+          "end_ref_usfm": "REV 6:2"
+        },
+        {
+          "start_ref": "35003009",
+          "start_ref_usfm": "HAB 3:9",
+          "end_ref": "35003010",
+          "end_ref_usfm": "HAB 3:10"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029022",
+          "end_ref_usfm": "JOB 29:22"
+        },
+        {
+          "start_ref": "19058006",
+          "start_ref_usfm": "PSA 58:6",
+          "end_ref": "19058008",
+          "end_ref_usfm": "PSA 58:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

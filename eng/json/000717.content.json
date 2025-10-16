@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26991,
+    "reference_id": 26133,
+    "title": "Prostrate",
+    "media_type": "Text",
+    "index_reference": "prostrate",
+    "language": "eng",
+    "content": "<h1>prostrate</h1><h2>Definition:</h2><p>The term “prostrate” means to be lying face down, stretched out on the ground.</p><ul><li><p>To “fall prostrate” or to “prostrate oneself” before someone means to suddenly bow down very low or in front of that person.</p></li><li><p>Usually this position of being prostrate is a response that shows shock, amazement, and awe because of something miraculous that happened. It also shows honor and respect for the person being bowed to.</p></li><li><p>Being prostrate also was a way to worship God. People often responded this way to Jesus in thanksgiving and worship when he did a miracle or to honor him as a great teacher.</p></li><li><p>Depending on the context, ways to translate “prostrated” could include “bowed down low with the face to the ground” or “worshiped him by lying face down in front of him” or “bowed down low to the ground in amazement” or “worshiped.”</p></li><li><p>The phrase “will not prostrate ourselves” could be translated as “will not worship” or “will not lie face down in worship” or “will not bow down and worship.”</p></li><li><p>“Prostrate himself to” could also be translated as “worship” or “bow down in front of.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25494\" data-resourceType=\"UWTranslationWords\">awe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25552\" data-resourceType=\"UWTranslationWords\">bow</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs17:36-2Kgs17:38\">2 Kings 17:36–38</a></p></li><li><p><a href=\"https://ref.ly/Gen43:28\">Genesis 43:28</a></p></li><li><p><a href=\"https://ref.ly/Rev19:3-Rev19:4\">Revelation 19:3–4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5307, H5457, H6440, H6915, H7812</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01043028",
+          "start_ref_usfm": "GEN 43:28",
+          "end_ref": "01043028",
+          "end_ref_usfm": "GEN 43:28"
+        },
+        {
+          "start_ref": "02034008",
+          "start_ref_usfm": "EXO 34:8",
+          "end_ref": "02034008",
+          "end_ref_usfm": "EXO 34:8"
+        },
+        {
+          "start_ref": "12017036",
+          "start_ref_usfm": "2KI 17:36",
+          "end_ref": "12017038",
+          "end_ref_usfm": "2KI 17:38"
+        },
+        {
+          "start_ref": "66019003",
+          "start_ref_usfm": "REV 19:3",
+          "end_ref": "66019004",
+          "end_ref_usfm": "REV 19:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25494,
+          "content_id": 26352,
+          "label": "Awe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25552,
+          "content_id": 26410,
+          "label": "Bow",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

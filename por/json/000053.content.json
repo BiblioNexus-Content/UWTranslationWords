@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237593,
+    "reference_id": 25455,
+    "title": "Amós",
+    "media_type": "Text",
+    "index_reference": "amós",
+    "language": "por",
+    "content": "<h1>Amós</h1><h2>Fatos:</h2><p>Amós foi um profeta israelita que viveu durante o reinado de Uzias de Judá.</p><ul><li><p>Antes de ser chamado como profeta, Amós era originalmente um pastor e agricultor de figos vivendo no reino de Judá.</p></li><li><p>Amós profetizou contra o próspero reino do norte de Israel a respeito de seu tratamento injusto das pessoas.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25740\" data-resourceType=\"UWTranslationWords\">figo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">pastor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">Uzias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Amos1:1\">Amós 1.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5986</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25740,
+          "content_id": 237873,
+          "label": "Figo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 238355,
+          "label": "Pastor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 238457,
+          "label": "Uzias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

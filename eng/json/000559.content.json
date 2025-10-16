@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26833,
+    "reference_id": 25975,
+    "title": "Lord Yahweh",
+    "media_type": "Text",
+    "index_reference": "lord yahweh",
+    "language": "eng",
+    "content": "<h1>Lord Yahweh, Yahweh God</h1><h2>Facts:</h2><p>In the Old Testament, “Lord Yahweh” is frequently used to refer to the one true God.</p><ul><li><p>The term “Lord” is a divine title and “Yahweh” is God’s personal name.</p></li><li><p>“Yahweh” is also often combined with the term “God” to form “Yahweh God.”</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>If some form of “Yahweh” is used for the translation of God’s personal name, the terms “Lord Yahweh” and “Yahweh God” can be translated literally. Also consider how the term “Lord” is translated in other contexts when referring to God.</p></li><li><p>Some languages put titles after the name and would translate this as “Yahweh Lord.” Consider what is natural in the project language: should the title “Lord” come before or after “Yahweh”?</p></li><li><p>“Yahweh God” could also be rendered as “God who is called Yahweh” or “God who is the Living One” or “I am, who is God.”</p></li><li><p>If the translation follows the tradition of rendering “Yahweh” as “Lord” or “LORD,” the term “Lord Yahweh” could be translated as “Lord God” or “God who is the Lord.” Other possible translations could be, “Master LORD” or “God the LORD.”</p></li><li><p>The term “Lord Yahweh” <em>should not</em> be rendered as “Lord LORD” because readers may not notice the difference in letter size that has traditionally been used to distinguish these two words and it would look very strange.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">God</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">lord</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">Lord</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:3-1Cor4:4\">1 Corinthians 4:3–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam7:21-2Sam7:23\">2 Samuel 7:21–23</a></p></li><li><p><a href=\"https://ref.ly/Deut3:23-Deut3:25\">Deuteronomy 3:23–25</a></p></li><li><p><a href=\"https://ref.ly/Ezek39:25-Ezek39:27\">Ezekiel 39:25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:18\">Ezekiel 45:18</a></p></li><li><p><a href=\"https://ref.ly/Jer44:26\">Jeremiah 44:26</a></p></li><li><p><a href=\"https://ref.ly/Judg6:22\">Judges 6:22</a></p></li><li><p><a href=\"https://ref.ly/Mic1:2-Mic1:4\">Micah 1:2–4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0136, H0430, H3068, G23160, G29620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006022",
+          "start_ref_usfm": "JDG 6:22",
+          "end_ref": "07006022",
+          "end_ref_usfm": "JDG 6:22"
+        },
+        {
+          "start_ref": "24044026",
+          "start_ref_usfm": "JER 44:26",
+          "end_ref": "24044026",
+          "end_ref_usfm": "JER 44:26"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045018",
+          "end_ref_usfm": "EZK 45:18"
+        },
+        {
+          "start_ref": "26039025",
+          "start_ref_usfm": "EZK 39:25",
+          "end_ref": "26039027",
+          "end_ref_usfm": "EZK 39:27"
+        },
+        {
+          "start_ref": "33001002",
+          "start_ref_usfm": "MIC 1:2",
+          "end_ref": "33001004",
+          "end_ref_usfm": "MIC 1:4"
+        },
+        {
+          "start_ref": "46004003",
+          "start_ref_usfm": "1CO 4:3",
+          "end_ref": "46004004",
+          "end_ref_usfm": "1CO 4:4"
+        },
+        {
+          "start_ref": "10007021",
+          "start_ref_usfm": "2SA 7:21",
+          "end_ref": "10007023",
+          "end_ref_usfm": "2SA 7:23"
+        },
+        {
+          "start_ref": "05003023",
+          "start_ref_usfm": "DEU 3:23",
+          "end_ref": "05003025",
+          "end_ref_usfm": "DEU 3:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 26646,
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 26831,
+          "label": "Lord",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 27218,
+          "label": "Yahweh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

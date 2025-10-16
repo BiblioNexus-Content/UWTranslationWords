@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467089,
+    "reference_id": 25947,
+    "title": "Koré",
+    "media_type": "Text",
+    "index_reference": "koré",
+    "language": "fra",
+    "content": "<h1>Koré</h1><h2>Définition :</h2><p>&quot;Koré était le nom d&apos;au moins deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un des fils d&apos;Esaü a été nommé Coré* Il est devenu un chef de file dans sa communauté.</p></li><li><p>Koré était aussi un descendant de Lévi et a ainsi servi dans le tabernacle en tant que prêtre* Il est devenu jaloux de la position et de l&apos;autorité donnée à Moïse et Aaron par Dieu.</p></li><li><p>Il a conspiré avec Dathan et Abiram pour amener le peuple d&apos;Israël à se rebeller contre leurs dirigeants donnés par Dieu.</p></li></ul><p>(Voir aussi : (../names/aaron.md), (../kt/authority.md), (../names/caleb.md), (../other/descendant.md), (../names/esau.md), (../names/judah.md), (../kt/priest.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036005",
+          "start_ref_usfm": "GEN 36:5",
+          "end_ref": "01036005",
+          "end_ref_usfm": "GEN 36:5"
+        },
+        {
+          "start_ref": "01036014",
+          "start_ref_usfm": "GEN 36:14",
+          "end_ref": "01036014",
+          "end_ref_usfm": "GEN 36:14"
+        },
+        {
+          "start_ref": "01036016",
+          "start_ref_usfm": "GEN 36:16",
+          "end_ref": "01036016",
+          "end_ref_usfm": "GEN 36:16"
+        },
+        {
+          "start_ref": "01036018",
+          "start_ref_usfm": "GEN 36:18",
+          "end_ref": "01036018",
+          "end_ref_usfm": "GEN 36:18"
+        },
+        {
+          "start_ref": "02006021",
+          "start_ref_usfm": "EXO 6:21",
+          "end_ref": "02006021",
+          "end_ref_usfm": "EXO 6:21"
+        },
+        {
+          "start_ref": "02006024",
+          "start_ref_usfm": "EXO 6:24",
+          "end_ref": "02006024",
+          "end_ref_usfm": "EXO 6:24"
+        },
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "04016001",
+          "start_ref_usfm": "NUM 16:1",
+          "end_ref": "04016003",
+          "end_ref_usfm": "NUM 16:3"
+        },
+        {
+          "start_ref": "19042001",
+          "start_ref_usfm": "PSA 42:1",
+          "end_ref": "19042002",
+          "end_ref_usfm": "PSA 42:2"
+        },
+        {
+          "start_ref": "13001034",
+          "start_ref_usfm": "1CH 1:34",
+          "end_ref": "13001037",
+          "end_ref_usfm": "1CH 1:37"
+        },
+        {
+          "start_ref": "04016025",
+          "start_ref_usfm": "NUM 16:25",
+          "end_ref": "04016027",
+          "end_ref_usfm": "NUM 16:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 466599,
+          "label": "Aaron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25492,
+          "content_id": 32921,
+          "label": "autorité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25566,
+          "content_id": 466737,
+          "label": "Caleb",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

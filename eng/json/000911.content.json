@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 27184,
+    "reference_id": 26326,
+    "title": "Tyre",
+    "media_type": "Text",
+    "index_reference": "tyre",
+    "language": "eng",
+    "content": "<h1>Tyre, Tyrians</h1><h2>Facts:</h2><p>Tyre was an ancient Canaanite city located on the coast of the Mediterranean Sea in a region that is now part of the modern-day country of Lebanon. Its people were called “Tyrians.”</p><ul><li><p>Part of the city was located on an island in the sea, about one kilometer from the mainland.</p></li><li><p>Because of its location and its valuable natural resources, such as cedar trees, Tyre had a prosperous trading industry and was very wealthy.</p></li><li><p>King Hiram of Tyre sent wood from cedar trees and skilled laborers to help build a palace for King David.</p></li><li><p>Years later, Hiram also sent King Solomon wood and skilled laborers to help build the temple. Solomon paid him with large amounts of wheat and olive oil.</p></li><li><p>Tyre was often associated with the nearby ancient city of Sidon. These were the most important cities of the region of Canaan called Phoenicia.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">cedar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">the sea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_phoenicia\" data-resourceType=\"UWTranslationWords\">Phoenicia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26232\" data-resourceType=\"UWTranslationWords\">Sidon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts12:20\">Acts 12:20</a></p></li><li><p><a href=\"https://ref.ly/Mark3:7-Mark3:8\">Mark 3:7–8</a></p></li><li><p><a href=\"https://ref.ly/Matt11:22\">Matthew 11:22</a></p></li><li><p><a href=\"https://ref.ly/Matt15:22\">Matthew 15:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6865, H6876, G51830, G51840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "40011022",
+          "start_ref_usfm": "MAT 11:22",
+          "end_ref": "40011022",
+          "end_ref_usfm": "MAT 11:22"
+        },
+        {
+          "start_ref": "40015021",
+          "start_ref_usfm": "MAT 15:21",
+          "end_ref": "40015021",
+          "end_ref_usfm": "MAT 15:21"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015022",
+          "end_ref_usfm": "MAT 15:22"
+        },
+        {
+          "start_ref": "41003008",
+          "start_ref_usfm": "MRK 3:8",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        },
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007024",
+          "end_ref_usfm": "MRK 7:24"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007031",
+          "end_ref_usfm": "MRK 7:31"
+        },
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006017",
+          "end_ref_usfm": "LUK 6:17"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "42010014",
+          "start_ref_usfm": "LUK 10:14",
+          "end_ref": "42010014",
+          "end_ref_usfm": "LUK 10:14"
+        },
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012020",
+          "end_ref_usfm": "ACT 12:20"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021007",
+          "start_ref_usfm": "ACT 21:7",
+          "end_ref": "44021007",
+          "end_ref_usfm": "ACT 21:7"
+        },
+        {
+          "start_ref": "41003007",
+          "start_ref_usfm": "MRK 3:7",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25578,
+          "content_id": 26436,
+          "label": "Cedar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26232,
+          "content_id": 27090,
+          "label": "Sidon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

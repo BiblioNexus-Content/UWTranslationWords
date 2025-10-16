@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467304,
+    "reference_id": 26185,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "ruth",
+    "language": "fra",
+    "content": "<h1>Ruth</h1><h2>Définition :</h2><p>Ruth était une femme Moabite qui a vécu pendant le temps où les juges dirigeaient Israël* Elle était une ancêtre de Jésus-Christ.</p><ul><li><p>Ruth est mieux connue pour sa loyauté envers sa belle mère, Naomi* Ruth a voyagé avec Naomi lors de son retour en Israël et a contribué à pourvoir à ses besoins *nElle s&apos;engage également à servir le seul vrai Dieu d&apos;Israël.</p></li><li><p>Ruth a épousé un homme Israélite et a donné naissance à un fils qui est devenu le grand-père du roi David.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/bethlehem.md), (../names/boaz.md), (../names/david.md), (../other/judgeposition.md)])</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08001004",
+          "end_ref_usfm": "RUT 1:4"
+        },
+        {
+          "start_ref": "08001014",
+          "start_ref_usfm": "RUT 1:14",
+          "end_ref": "08001014",
+          "end_ref_usfm": "RUT 1:14"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001016",
+          "end_ref_usfm": "RUT 1:16"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08002008",
+          "start_ref_usfm": "RUT 2:8",
+          "end_ref": "08002008",
+          "end_ref_usfm": "RUT 2:8"
+        },
+        {
+          "start_ref": "08002021",
+          "start_ref_usfm": "RUT 2:21",
+          "end_ref": "08002021",
+          "end_ref_usfm": "RUT 2:21"
+        },
+        {
+          "start_ref": "08002022",
+          "start_ref_usfm": "RUT 2:22",
+          "end_ref": "08002022",
+          "end_ref_usfm": "RUT 2:22"
+        },
+        {
+          "start_ref": "08003009",
+          "start_ref_usfm": "RUT 3:9",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004006",
+          "start_ref_usfm": "RUT 4:6",
+          "end_ref": "08004006",
+          "end_ref_usfm": "RUT 4:6"
+        },
+        {
+          "start_ref": "08004010",
+          "start_ref_usfm": "RUT 4:10",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        },
+        {
+          "start_ref": "08004013",
+          "start_ref_usfm": "RUT 4:13",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "08001003",
+          "start_ref_usfm": "RUT 1:3",
+          "end_ref": "08001005",
+          "end_ref_usfm": "RUT 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 466720,
+          "label": "Boaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 467075,
+          "label": "Juge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 26537,
+    "reference_id": 25679,
+    "title": "Doom",
+    "media_type": "Text",
+    "index_reference": "doom",
+    "language": "eng",
+    "content": "<h1>doom</h1><h2>Definition:</h2><p>The term “doom” refers to a judgment of condemnation with no possibility of appeal or escape.</p><ul><li><p>As the nation of Israel was being taken captive into Babylon, the prophet Ezekiel said, “doom has come upon them.”</p></li><li><p>Depending on the context, this term could be translated as “disaster” or “punishment” or “hopeless ruin.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek7:5-Ezek7:7\">Ezekiel 7:5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek30:9\">Ezekiel 30:9</a></p></li><li><p><a href=\"https://ref.ly/Isa6:5\">Isaiah 6:5</a></p></li><li><p><a href=\"https://ref.ly/Ps92:6-Ps92:7\">Psalms 92:6–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1820, H3117, H6256, H6843, H8045</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23006005",
+          "start_ref_usfm": "ISA 6:5",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "26030009",
+          "start_ref_usfm": "EZK 30:9",
+          "end_ref": "26030009",
+          "end_ref_usfm": "EZK 30:9"
+        },
+        {
+          "start_ref": "26007005",
+          "start_ref_usfm": "EZK 7:5",
+          "end_ref": "26007007",
+          "end_ref_usfm": "EZK 7:7"
+        },
+        {
+          "start_ref": "19092006",
+          "start_ref_usfm": "PSA 92:6",
+          "end_ref": "19092007",
+          "end_ref_usfm": "PSA 92:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

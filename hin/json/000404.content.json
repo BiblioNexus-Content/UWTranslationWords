@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180071,
+    "reference_id": 26007,
+    "title": "नम्र",
+    "media_type": "Text",
+    "index_reference": "नम्र",
+    "language": "hin",
+    "content": "<h1>नम्र, नम्रता</h1><h2>परिभाषा:</h2><p>“नम्र” शब्द उस मनुष्य को दर्शाता है जो विनम्र, आज्ञाकारी और अन्याय का सहनेवाला है। नम्रता दीनता की क्षमता है जब कठोरता और बल प्रयोग किया जाए।</p><ul><li><p>नम्रता प्रायः दीनता के साथ जुड़ी रहती है।</p></li><li><p>इस शब्द का अनुवाद “उदार” या “विनीत” या “मृदुस्वभाव” किया जा सकता है।</p></li><li><p>“नम्रता” का अनुवाद “सौम्यता” या “विनम्रता” किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25860\" data-resourceType=\"UWTranslationWords\">दीन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Pet0:0\">1 पतरस 3:15–17</a></p></li><li><p><a href=\"https://ref.ly/2Cor0:0\">2 कुरिन्थियों 10:1–2</a></p></li><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमुथियुस 2:25</a></p></li><li><p><a href=\"https://ref.ly/Matt5:5\">मत्ती 5:5</a></p></li><li><p><a href=\"https://ref.ly/Matt11:29\">मत्ती 11:29</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 37:11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H6035, H6037, G4235, G4236, G4239, G4240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19037011",
+          "start_ref_usfm": "PSA 37:11",
+          "end_ref": "19037011",
+          "end_ref_usfm": "PSA 37:11"
+        },
+        {
+          "start_ref": "40005005",
+          "start_ref_usfm": "MAT 5:5",
+          "end_ref": "40005005",
+          "end_ref_usfm": "MAT 5:5"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010001",
+          "end_ref_usfm": "2CO 10:1"
+        },
+        {
+          "start_ref": "55002025",
+          "start_ref_usfm": "2TI 2:25",
+          "end_ref": "55002025",
+          "end_ref_usfm": "2TI 2:25"
+        },
+        {
+          "start_ref": "59001010",
+          "start_ref_usfm": "JAS 1:10",
+          "end_ref": "59001010",
+          "end_ref_usfm": "JAS 1:10"
+        },
+        {
+          "start_ref": "59003013",
+          "start_ref_usfm": "JAS 3:13",
+          "end_ref": "59003013",
+          "end_ref_usfm": "JAS 3:13"
+        },
+        {
+          "start_ref": "60003015",
+          "start_ref_usfm": "1PE 3:15",
+          "end_ref": "60003017",
+          "end_ref_usfm": "1PE 3:17"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010002",
+          "end_ref_usfm": "2CO 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25860,
+          "content_id": 179928,
+          "label": "दीन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26761,
+    "reference_id": 25903,
+    "title": "Jewish Leaders",
+    "media_type": "Text",
+    "index_reference": "jewish leaders",
+    "language": "eng",
+    "content": "<h1>Jewish authorities, Jewish leader</h1><h2>Facts:</h2><p>The term “Jewish leader” or “Jewish authority” refers to religious leaders such as the priests and teachers of God’s laws. They also had the authority to make judgments about non-religious matters as well.</p><ul><li><p>The Jewish leaders were the high priests, chief priests, and scribes (teachers of God’s laws).</p></li><li><p>Two main groups of Jewish leaders were the Pharisees and Saduccees.</p></li><li><p>Seventy Jewish leaders met together in the Jewish Council in Jerusalem to make judgments about matters of law.</p></li><li><p>Many Jewish leaders were proud and thought they were righteous. They were jealous of Jesus and wanted to harm him. They claimed to know God but did not obey him.</p></li><li><p>Often the phrase “the Jews” referred to the Jewish leaders, especially in contexts where they were angry at Jesus and were trying to trick or harm him.</p></li><li><p>These terms could also be translated as “Jewish rulers” or “men who ruled over the Jewish people” or “Jewish religious leaders.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25902\" data-resourceType=\"UWTranslationWords\">Jew</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25616\" data-resourceType=\"UWTranslationWords\">council</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">high priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26095\" data-resourceType=\"UWTranslationWords\">Pharisee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26189\" data-resourceType=\"UWTranslationWords\">Sadducee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26204\" data-resourceType=\"UWTranslationWords\">scribe</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Exod16:22-Exod16:23\">Exodus 16:22–23</a></p></li><li><p><a href=\"https://ref.ly/John2:19\">John 2:19</a></p></li><li><p><a href=\"https://ref.ly/John5:10-John5:11\">John 5:10–11</a></p></li><li><p><a href=\"https://ref.ly/John5:16\">John 5:16</a></p></li><li><p><a href=\"https://ref.ly/Luke19:47-Luke19:48\">Luke 19:47–48</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>24:3</strong> Many <strong>religious leaders</strong> also came to be baptized by John, but they did not repent or confess their sins.</p></li><li><p><strong>37:11</strong> But the <strong>religious leaders of the Jews</strong> were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.</p></li><li><p><strong>38:2</strong> He (Judas) knew that the <strong>Jewish leaders</strong> denied that Jesus was the Messiah and that they were plotting to kill him.</p></li><li><p><strong>38:3</strong> The <strong>Jewish leaders</strong>, led by the high priest, paid Judas thirty silver coins to betray Jesus.</p></li><li><p><strong>39:5</strong> The <strong>Jewish leaders</strong> all answered the high priest, “He (Jesus) deserves to die!”</p></li><li><p><strong>39:9</strong> Early the next morning, the <strong>Jewish leaders</strong> brought Jesus to Pilate, the Roman governor.</p></li><li><p><strong>39:11</strong> But the <strong>Jewish leaders</strong> and the crowd shouted, “Crucify him!”</p></li><li><p><strong>40:9</strong> Then Joseph and Nicodemus, two <strong>Jewish leaders</strong> who believed Jesus was the Messiah, asked Pilate for Jesus’ body.</p></li><li><p><strong>44:7</strong> The next day, the <strong>Jewish leaders</strong> brought Peter and John to the high priest and the other <strong>religious leaders</strong>.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G24530</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43005016",
+          "start_ref_usfm": "JHN 5:16",
+          "end_ref": "43005016",
+          "end_ref_usfm": "JHN 5:16"
+        },
+        {
+          "start_ref": "02016022",
+          "start_ref_usfm": "EXO 16:22",
+          "end_ref": "02016023",
+          "end_ref_usfm": "EXO 16:23"
+        },
+        {
+          "start_ref": "43005010",
+          "start_ref_usfm": "JHN 5:10",
+          "end_ref": "43005011",
+          "end_ref_usfm": "JHN 5:11"
+        },
+        {
+          "start_ref": "42019047",
+          "start_ref_usfm": "LUK 19:47",
+          "end_ref": "42019048",
+          "end_ref_usfm": "LUK 19:48"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 26474,
+          "label": "Council",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 26694,
+          "label": "High Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25902,
+          "content_id": 26760,
+          "label": "Jew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 26953,
+          "label": "Pharisee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26189,
+          "content_id": 27047,
+          "label": "Sadducee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26204,
+          "content_id": 27062,
+          "label": "Scribe",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26752,
+    "reference_id": 25894,
+    "title": "Jephthah",
+    "media_type": "Text",
+    "index_reference": "jephthah",
+    "language": "eng",
+    "content": "<h1>Jephthah</h1><h2>Facts:</h2><p>Jephthah was a warrior from Gilead who served as a judge over Israel.</p><ul><li><p>In Hebrews 11:32, Jephthah is praised as an important leader who delivered his people from their enemies.</p></li><li><p>He rescued the Israelites from the Ammonites and led his people to defeat the Ephraimites.</p></li><li><p>Jepthah however, made a foolish, hasty vow to God which resulted in the sacrifice of his daughter.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25452\" data-resourceType=\"UWTranslationWords\">Ammon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_deliver\" data-resourceType=\"UWTranslationWords\">deliver</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">Ephraim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">judge</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">vow</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">Hebrews 11:32–34</a></p></li><li><p><a href=\"https://ref.ly/Judg11:1-Judg11:3\">Judges 11:1–3</a></p></li><li><p><a href=\"https://ref.ly/Judg11:35\">Judges 11:35</a></p></li><li><p><a href=\"https://ref.ly/Judg12:2\">Judges 12:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07011035",
+          "start_ref_usfm": "JDG 11:35",
+          "end_ref": "07011035",
+          "end_ref_usfm": "JDG 11:35"
+        },
+        {
+          "start_ref": "07012002",
+          "start_ref_usfm": "JDG 12:2",
+          "end_ref": "07012002",
+          "end_ref_usfm": "JDG 12:2"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07011001",
+          "start_ref_usfm": "JDG 11:1",
+          "end_ref": "07011003",
+          "end_ref_usfm": "JDG 11:3"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 26310,
+          "label": "Ammon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25657,
+          "content_id": 26515,
+          "label": "Deliverer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 26566,
+          "label": "Ephraim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 26787,
+          "label": "Judge",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 26788,
+          "label": "Judge Position",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

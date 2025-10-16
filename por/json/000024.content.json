@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237570,
+    "reference_id": 25432,
+    "title": "Adoção",
+    "media_type": "Text",
+    "index_reference": "adoção",
+    "language": "por",
+    "content": "<h1>adoção, adotar, adotado</h1><h2>Definição:</h2><p>Os termos “adotar” e “adoção” referem-se ao processo de alguém se tornar legalmente filho de pessoas que não são seus pais biológicos.</p><ul><li><p>A Bíblia usa “adoção” e “adotar” de maneira figurativa para descrever como Deus faz com que as pessoas façam parte de sua família, tornando-as seus filhos e filhas espirituais.</p></li><li><p>Como filhos adotivos, Deus faz com que os crentes sejam co-herdeiros com Jesus Cristo, dando-lhes todos os privilégios de filhos e filhas de Deus.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Este termo poderia ser traduzido com um termo que a língua de tradução usa para descrever esse relacionamento especial entre pais e filhos. Certifique-se de que seja entendido que isso tem um significado figurativo ou espiritual.</p></li><li><p>A frase “experimentar a adoção como filhos” poderia ser traduzida como “ser adotado por Deus como seus filhos” ou “tornar-se filhos (espirituais) de Deus”.</p></li><li><p>“Esperar pela adoção de filhos” poderia ser traduzido como “aguardar ansiosamente para se tornar filhos de Deus” ou “esperar ansiosamente que Deus os receba como filhos”.</p></li><li><p>A frase “adotá-los” poderia ser traduzida como “recebê-los como seus próprios filhos” ou “fazer deles seus próprios filhos (espirituais)”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25828\" data-resourceType=\"UWTranslationWords\">herdeiro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">herdar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">espírito</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Eph1:5\">Efésios 1.5</a></p></li><li><p><a href=\"https://ref.ly/Gal4:3-Gal4:5\">Gálatas 4.3–5</a></p></li><li><p><a href=\"https://ref.ly/Rom8:14-Rom8:15\">Romanos 8.14–15</a></p></li><li><p><a href=\"https://ref.ly/Rom8:23\">Romanos 8.23</a></p></li><li><p><a href=\"https://ref.ly/Rom9:4\">Romanos 9.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G52060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45008015",
+          "start_ref_usfm": "ROM 8:15",
+          "end_ref": "45008015",
+          "end_ref_usfm": "ROM 8:15"
+        },
+        {
+          "start_ref": "45008023",
+          "start_ref_usfm": "ROM 8:23",
+          "end_ref": "45008023",
+          "end_ref_usfm": "ROM 8:23"
+        },
+        {
+          "start_ref": "45009004",
+          "start_ref_usfm": "ROM 9:4",
+          "end_ref": "45009004",
+          "end_ref_usfm": "ROM 9:4"
+        },
+        {
+          "start_ref": "49001005",
+          "start_ref_usfm": "EPH 1:5",
+          "end_ref": "49001005",
+          "end_ref_usfm": "EPH 1:5"
+        },
+        {
+          "start_ref": "48004003",
+          "start_ref_usfm": "GAL 4:3",
+          "end_ref": "48004005",
+          "end_ref_usfm": "GAL 4:5"
+        },
+        {
+          "start_ref": "45008014",
+          "start_ref_usfm": "ROM 8:14",
+          "end_ref": "45008015",
+          "end_ref_usfm": "ROM 8:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25828,
+          "content_id": 237961,
+          "label": "Herdeiro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 238000,
+          "label": "Herdar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 238386,
+          "label": "Espírito",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

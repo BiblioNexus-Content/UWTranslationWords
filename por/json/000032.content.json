@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237581,
+    "reference_id": 25443,
+    "title": "Ai",
+    "media_type": "Text",
+    "index_reference": "ai",
+    "language": "por",
+    "content": "<h1>Ai</h1><h2>Fatos:</h2><p>Nos tempos do Antigo Testamento, Ai era o nome de uma cidade cananeia localizada ao sul de Betel e cerca de 8 km a noroeste de Jericó.</p><ul><li><p>Depois de derrotar Jericó, Josué liderou os israelitas em um ataque a Ai. Mas eles foram facilmente derrotados porque Deus não estava satisfeito com eles.</p></li><li><p>Um israelita chamado Acã havia roubado despojos de Jericó, e Deus ordenou que ele e sua família fossem mortos. Então Deus ajudou os israelitas a derrotar o povo de Ai.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25529\" data-resourceType=\"UWTranslationWords\">Betel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericó</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezra2:27-Ezra2:30\">Esdras 2.27–30</a></p></li><li><p><a href=\"https://ref.ly/Gen12:8-Gen12:9\">Gênesis 12.8–9</a></p></li><li><p><a href=\"https://ref.ly/Gen13:3-Gen13:4\">Gênesis 13.3–4</a></p></li><li><p><a href=\"https://ref.ly/Josh7:3\">Josué 7.3</a></p></li><li><p><a href=\"https://ref.ly/Josh8:12\">Josué 8.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5857</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012008",
+          "end_ref_usfm": "GEN 12:8"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013003",
+          "end_ref_usfm": "GEN 13:3"
+        },
+        {
+          "start_ref": "06007003",
+          "start_ref_usfm": "JOS 7:3",
+          "end_ref": "06007003",
+          "end_ref_usfm": "JOS 7:3"
+        },
+        {
+          "start_ref": "06008012",
+          "start_ref_usfm": "JOS 8:12",
+          "end_ref": "06008012",
+          "end_ref_usfm": "JOS 8:12"
+        },
+        {
+          "start_ref": "15002028",
+          "start_ref_usfm": "EZR 2:28",
+          "end_ref": "15002028",
+          "end_ref_usfm": "EZR 2:28"
+        },
+        {
+          "start_ref": "16007032",
+          "start_ref_usfm": "NEH 7:32",
+          "end_ref": "16007032",
+          "end_ref_usfm": "NEH 7:32"
+        },
+        {
+          "start_ref": "16011031",
+          "start_ref_usfm": "NEH 11:31",
+          "end_ref": "16011031",
+          "end_ref_usfm": "NEH 11:31"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013004",
+          "end_ref_usfm": "GEN 13:4"
+        },
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "15002027",
+          "start_ref_usfm": "EZR 2:27",
+          "end_ref": "15002030",
+          "end_ref_usfm": "EZR 2:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25529,
+          "content_id": 237665,
+          "label": "Betel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 238029,
+          "label": "Jericó",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

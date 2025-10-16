@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 237916,
+    "reference_id": 25783,
+    "title": "Cingir",
+    "media_type": "Text",
+    "index_reference": "cingir",
+    "language": "por",
+    "content": "<h1>cingir, cingido, envolto, amarrado, cinto, prender o cinto, colocar o cinto ao redor</h1><h2>Definição:</h2><p>O termo “cingir” significa prender algo ao redor de outra coisa. Muitas vezes se refere ao uso de um cinto ou faixa ao redor da cintura para manter uma túnica ou veste no lugar.</p><ul><li><p>A frase bíblica comum, “cingir os lombos” refere-se a enfiar a parte inferior de uma vestimenta no cinto para permitir que a pessoa se mova mais livremente, geralmente para trabalhar.</p></li><li><p>Essa frase também pode significar “preparar-se para trabalhar” ou estar preparado para fazer algo difícil.</p></li><li><p>A expressão “cingir os lombos” poderia ser traduzida usando uma expressão na língua alvo que tenha o mesmo significado. Ou poderia ser traduzida figurativamente como “prepare-se para a ação” ou “prepare-se”.</p></li><li><p>O termo “cingido com” poderia ser traduzido como “cercado por” ou “envolto com” ou “amarrado com”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25972\" data-resourceType=\"UWTranslationWords\">lombos</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:13\">1 Pedro 1.13</a></p></li><li><p><a href=\"https://ref.ly/Job38:3\">Jó 38.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0640, H0247, H2290, H2296, H8151, G03280, G12410, G40240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "16004018",
+          "start_ref_usfm": "NEH 4:18",
+          "end_ref": "16004018",
+          "end_ref_usfm": "NEH 4:18"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036008",
+          "end_ref_usfm": "JOB 36:8"
+        },
+        {
+          "start_ref": "18036013",
+          "start_ref_usfm": "JOB 36:13",
+          "end_ref": "18036013",
+          "end_ref_usfm": "JOB 36:13"
+        },
+        {
+          "start_ref": "18038003",
+          "start_ref_usfm": "JOB 38:3",
+          "end_ref": "18038003",
+          "end_ref_usfm": "JOB 38:3"
+        },
+        {
+          "start_ref": "20030031",
+          "start_ref_usfm": "PRO 30:31",
+          "end_ref": "20030031",
+          "end_ref_usfm": "PRO 30:31"
+        },
+        {
+          "start_ref": "20031017",
+          "start_ref_usfm": "PRO 31:17",
+          "end_ref": "20031017",
+          "end_ref_usfm": "PRO 31:17"
+        },
+        {
+          "start_ref": "22007005",
+          "start_ref_usfm": "SNG 7:5",
+          "end_ref": "22007005",
+          "end_ref_usfm": "SNG 7:5"
+        },
+        {
+          "start_ref": "43013004",
+          "start_ref_usfm": "JHN 13:4",
+          "end_ref": "43013004",
+          "end_ref_usfm": "JHN 13:4"
+        },
+        {
+          "start_ref": "43013005",
+          "start_ref_usfm": "JHN 13:5",
+          "end_ref": "43013005",
+          "end_ref_usfm": "JHN 13:5"
+        },
+        {
+          "start_ref": "43021007",
+          "start_ref_usfm": "JHN 21:7",
+          "end_ref": "43021007",
+          "end_ref_usfm": "JHN 21:7"
+        },
+        {
+          "start_ref": "43021018",
+          "start_ref_usfm": "JHN 21:18",
+          "end_ref": "43021018",
+          "end_ref_usfm": "JHN 21:18"
+        },
+        {
+          "start_ref": "44012008",
+          "start_ref_usfm": "ACT 12:8",
+          "end_ref": "44012008",
+          "end_ref_usfm": "ACT 12:8"
+        },
+        {
+          "start_ref": "60001013",
+          "start_ref_usfm": "1PE 1:13",
+          "end_ref": "60001013",
+          "end_ref_usfm": "1PE 1:13"
+        },
+        {
+          "start_ref": "66001013",
+          "start_ref_usfm": "REV 1:13",
+          "end_ref": "66001013",
+          "end_ref_usfm": "REV 1:13"
+        },
+        {
+          "start_ref": "66015006",
+          "start_ref_usfm": "REV 15:6",
+          "end_ref": "66015006",
+          "end_ref_usfm": "REV 15:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25972,
+          "content_id": 238103,
+          "label": "Lombos",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

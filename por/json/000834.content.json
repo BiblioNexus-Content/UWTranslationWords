@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238343,
+    "reference_id": 26214,
+    "title": "Senaqueribe",
+    "media_type": "Text",
+    "index_reference": "senaqueribe",
+    "language": "por",
+    "content": "<h1>Senaqueribe</h1><h2>Fatos:</h2><p>Senaqueribe foi um poderoso rei da Assíria que fez Nínive se tornar uma cidade rica e importante.</p><ul><li><p>O rei Senaqueribe é conhecido por suas guerras contra a Babilônia e o reino de Judá.</p></li><li><p>Ele era um rei muito arrogante e ridicularizou Javé.</p></li><li><p>Senaqueribe atacou Jerusalém durante o reinado do rei Ezequias.</p></li><li><p>Javé fez com que o exército de Senaqueribe fosse destruído.</p></li><li><p>Os livros do Antigo Testamento de Reis e Crônicas registram alguns dos eventos do reinado de Senaqueribe.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assíria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Ezequias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26027\" data-resourceType=\"UWTranslationWords\">ridicularizar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">Nínive</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr32:1\">2 Crônicas 32.1</a></p></li><li><p><a href=\"https://ref.ly/2Chr32:16-2Chr32:17\">2 Crônicas 32.16–17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs18:13\">2 Reis 18.13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5576, H5623</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12018013",
+          "end_ref_usfm": "2KI 18:13"
+        },
+        {
+          "start_ref": "14032001",
+          "start_ref_usfm": "2CH 32:1",
+          "end_ref": "14032001",
+          "end_ref_usfm": "2CH 32:1"
+        },
+        {
+          "start_ref": "14032016",
+          "start_ref_usfm": "2CH 32:16",
+          "end_ref": "14032017",
+          "end_ref_usfm": "2CH 32:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 237625,
+          "label": "Assíria",
+          "language": "por"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 237967,
+          "label": "Ezequias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26027,
+          "content_id": 238157,
+          "label": "Zombar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 238184,
+          "label": "Nínive",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

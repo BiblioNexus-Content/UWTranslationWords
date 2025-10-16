@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466805,
+    "reference_id": 25642,
+    "title": "Daniel",
+    "media_type": "Text",
+    "index_reference": "daniel",
+    "language": "fra",
+    "content": "<h1>Daniel</h1><h2>Définition :</h2><p>Daniel était un prophète Israélite qui comme un jeune homme avait été fait prisonnier par le roi babylonien Nebucadnetsar autour de six cent avant Jésus-Christ.</p><ul><li><p>Ce fut pendant ce temps que beaucoup d&apos;autres Israélites de Juda ont été tenus en captivité à Babylone pendant 70 ans.</p></li><li><p>On donna à Daniel le nom Babylonien Beltschatsar.</p></li><li><p>Daniel était un jeune homme honorable et juste qui a obéi à Dieu.</p></li><li><p>Dieu a permis à Daniel d&apos;interpréter plusieurs rêves ou de visions pour les rois babyloniens.</p></li><li><p>En raison de cette capacité et à cause de son caractère honorable, Daniel a reçu une position haute de leadership dans l&apos;empire babylonien.</p></li><li><p>Plusieurs années plus tard, le roi babylonien Darius fit une loi interdisant le culte de personne, sauf le roi* Daniel continua à prier son Dieu, il fut arrêté et jeté dans la fosse aux lions* Mais Dieu le sauva et il n&apos;a pas été blessé du tout.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/babylon.md), (../names/nebuchadnezzar.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27005029",
+          "start_ref_usfm": "DAN 5:29",
+          "end_ref": "27005029",
+          "end_ref_usfm": "DAN 5:29"
+        },
+        {
+          "start_ref": "27007028",
+          "start_ref_usfm": "DAN 7:28",
+          "end_ref": "27007028",
+          "end_ref_usfm": "DAN 7:28"
+        },
+        {
+          "start_ref": "40024015",
+          "start_ref_usfm": "MAT 24:15",
+          "end_ref": "40024015",
+          "end_ref_usfm": "MAT 24:15"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "26014012",
+          "start_ref_usfm": "EZK 14:12",
+          "end_ref": "26014014",
+          "end_ref_usfm": "EZK 14:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 467184,
+          "label": "Nébucadnetsar",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

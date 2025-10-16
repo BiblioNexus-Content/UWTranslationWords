@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180284,
+    "reference_id": 26229,
+    "title": "शिमी",
+    "media_type": "Text",
+    "index_reference": "शिमी",
+    "language": "hin",
+    "content": "<h1>शिमी</h1><h2>परिभाषा:</h2><p>पुराने नियम में शिमी नामक अनेक पुरूष हुए है।</p><ul><li><p>गेरा का पुत्र शिमी एक बिन्यामीनी था जिसने दाऊद को श्राप दिया और उस पर पत्थर फेंके थे जब वह अपने पुत्र अबशालोम से बच कर यरूशलेम से भाग रहा था।</p></li><li><p>पुराने नियम में शिमी नामक अनेक लेवी याजक भी हुए हैं।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">अबशालोम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">बिन्यामीन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">लेवी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">याजक</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 06:16–18</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 01:7–8</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 16:13–14</a></p></li><li><p><a href=\"https://ref.ly/Zech12:12-Zech12:14\">जकर्याह 12:12–14</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8096, H8097</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10016013",
+          "start_ref_usfm": "2SA 16:13",
+          "end_ref": "10016013",
+          "end_ref_usfm": "2SA 16:13"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "13006017",
+          "start_ref_usfm": "1CH 6:17",
+          "end_ref": "13006017",
+          "end_ref_usfm": "1CH 6:17"
+        },
+        {
+          "start_ref": "38012012",
+          "start_ref_usfm": "ZEC 12:12",
+          "end_ref": "38012014",
+          "end_ref_usfm": "ZEC 12:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 179515,
+          "label": "अबशालोम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 179609,
+          "label": "बिन्यामीन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 180032,
+          "label": "लेवी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 180182,
+          "label": "याजक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

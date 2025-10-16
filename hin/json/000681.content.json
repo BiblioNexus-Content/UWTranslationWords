@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179811,
+    "reference_id": 25738,
+    "title": "मेलबलि",
+    "media_type": "Text",
+    "index_reference": "मेलबलि",
+    "language": "hin",
+    "content": "<h1>मेलबलि, मेलबलियों</h1><h2>तथ्य:</h2><p>पुराने नियम में “मेलबलि” एक ऐसा बलिदान था जो अनेक कारणों से चढ़ाया जाता था जैसे परमेश्वर को धन्यवाद देने के लिए या मन्नत पूरी करने के लिए।</p><ul><li><p>इस बलि में पशुबलि किया जाता था, नर पशु या मादा पशु। यह बलि होमबलि से भिन्न था जिसमें नर पशु की बलि दी जाती थी।</p></li><li><p>बलि का एक भाग परमेश्वर को चढ़ाने के बाद, बलि चढ़ाने वाला शेष मांस पुरोहितों तथा अन्य इस्राएलियों के साथ बाँटता था।</p></li><li><p>इस बलि से जुड़ा भोजन होता था जिसमें अखमीरी रोटी खाई जाती थी।</p></li><li><p>इसे कभी-कभी “मेलबलि” भी कहा जाता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">होमबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25761\" data-resourceType=\"UWTranslationWords\">पूर्ति</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">अन्नबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25807\" data-resourceType=\"UWTranslationWords\">दोषबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26081\" data-resourceType=\"UWTranslationWords\">मेलबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">याजक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26328\" data-resourceType=\"UWTranslationWords\">अखमीरी रोटी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">शपथ</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 21:25–27</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 29:35–36</a></p></li><li><p><a href=\"https://ref.ly/Exod24:5-Exod24:6\">निर्गमन 24:5–6</a></p></li><li><p><a href=\"https://ref.ly/Lev11:9-Lev11:10\">लैव्यव्यवस्था 11:9–10</a></p></li><li><p><a href=\"https://ref.ly/Num6:13-Num6:15\">गिनती 06:13–15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8002</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14029035",
+          "start_ref_usfm": "2CH 29:35",
+          "end_ref": "14029035",
+          "end_ref_usfm": "2CH 29:35"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "03003003",
+          "start_ref_usfm": "LEV 3:3",
+          "end_ref": "03003005",
+          "end_ref_usfm": "LEV 3:5"
+        },
+        {
+          "start_ref": "02024005",
+          "start_ref_usfm": "EXO 24:5",
+          "end_ref": "02024006",
+          "end_ref_usfm": "EXO 24:6"
+        },
+        {
+          "start_ref": "13021025",
+          "start_ref_usfm": "1CH 21:25",
+          "end_ref": "13021027",
+          "end_ref_usfm": "1CH 21:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 179642,
+          "label": "होमबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25761,
+          "content_id": 179834,
+          "label": "पूरा करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 179873,
+          "label": "अन्नबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 179878,
+          "label": "दोषबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26081,
+          "content_id": 180143,
+          "label": "मेलबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 180182,
+          "label": "याजक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26328,
+          "content_id": 180381,
+          "label": "अख़मीरी रोटी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 467347,
+    "reference_id": 26231,
+    "title": "Astucieux",
+    "media_type": "Text",
+    "index_reference": "astucieux",
+    "language": "fra",
+    "content": "<h1>astucieux</h1><h2>Définition :</h2><p>Le terme «rusé» désigne une personne qui est intelligente et habile, en particulier dans les questions pratiques.</p><ul><li><p>Une personne habile se concentre généralement sur elle-même et n&apos; aide pas les autres.</p></li><li><p>Souvent, le terme «astucieux» a un sens qui est en partie négative car elle implique généralement aussi être égoïste.</p></li><li><p>D&apos;autres façons de traduire ce terme pourraient être «ruse» ou «rusé» ou «intelligent» ou «habile».</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003001",
+          "end_ref_usfm": "GEN 3:1"
+        },
+        {
+          "start_ref": "02021014",
+          "start_ref_usfm": "EXO 21:14",
+          "end_ref": "02021014",
+          "end_ref_usfm": "EXO 21:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

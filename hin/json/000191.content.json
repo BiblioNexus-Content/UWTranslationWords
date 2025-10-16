@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 180001,
+    "reference_id": 25934,
+    "title": "केदार",
+    "media_type": "Text",
+    "index_reference": "केदार",
+    "language": "hin",
+    "content": "<h1>केदार</h1><h2>तथ्य:</h2><p>केदार इश्माएल के दूसरे पुत्र का नाम था। केदार नाम का एक महत्वपूर्ण नगर भी था, संभवतः इसी पुरुष के नाम पर।</p><ul><li><p>केदार नगर अरब के उत्तरी भाग में पलिश्तीन की दक्षिणी सीमा पर स्थित था। बाइबल के युग में यह नगर अपने वैभव और सौदंर्य के लिए प्रसिद्ध था।</p></li><li><p>केदार के वंशज एक बड़ी जाति हुए जिन्हें “केदार” के नाम से ही जाना जाता था।</p></li><li><p>“केदार के काले तम्बू” इसलिए कहा गया है कि केदार जाति बकरी के काले बालों से बने तम्बुओं में रहते थे।</p></li><li><p>यह जाति भेड़ बकरियां पालती थी। वे ऊंट को भी सामान लाने ले जाने में उपयोग करते थे।</p></li><li><p>बाइबल में “केदार का वैभव” उस नगर एवं वहां के लोगों के बड़प्पन के संदर्भ में है।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">अरब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25787\" data-resourceType=\"UWTranslationWords\">बकरी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">इश्माएल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Song1:5-Song1:6\">श्रेष्ठगीत 01:5–6</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H6938</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025013",
+          "start_ref_usfm": "GEN 25:13",
+          "end_ref": "01025013",
+          "end_ref_usfm": "GEN 25:13"
+        },
+        {
+          "start_ref": "22001005",
+          "start_ref_usfm": "SNG 1:5",
+          "end_ref": "22001005",
+          "end_ref_usfm": "SNG 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 179558,
+          "label": "अरब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25787,
+          "content_id": 179858,
+          "label": "बकरा-बकरियाँ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 179945,
+          "label": "इश्माएल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

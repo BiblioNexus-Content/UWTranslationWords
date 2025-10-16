@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237726,
+    "reference_id": 25591,
+    "title": "Cilícia",
+    "media_type": "Text",
+    "index_reference": "cilícia",
+    "language": "por",
+    "content": "<h1>Cilícia</h1><h2>Fatos:</h2><p>Cilícia era uma pequena província romana localizada na parte sudeste do que hoje é o país moderno da Turquia. Faz fronteira com o Mar Egeu.</p><ul><li><p>O apóstolo Paulo era cidadão da cidade de Tarso, localizada na Cilícia.</p></li><li><p>Paulo passou vários anos na Cilícia após seu encontro com Jesus na estrada para Damasco.</p></li><li><p>Alguns dos judeus da Cilícia estavam entre aqueles que confrontaram Estêvão e influenciaram o povo a apedrejá-lo até a morte.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26261\" data-resourceType=\"UWTranslationWords\">Estêvão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26281\" data-resourceType=\"UWTranslationWords\">Tarso</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:8-Acts6:9\">Atos 6.8–9</a></p></li><li><p><a href=\"https://ref.ly/Acts15:41\">Atos 15.41</a></p></li><li><p><a href=\"https://ref.ly/Acts27:3-Acts27:6\">Atos 27.3–6</a></p></li><li><p><a href=\"https://ref.ly/Gal1:21-Gal1:24\">Gálatas 1.21–24</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G27910</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        },
+        {
+          "start_ref": "44023034",
+          "start_ref_usfm": "ACT 23:34",
+          "end_ref": "44023034",
+          "end_ref_usfm": "ACT 23:34"
+        },
+        {
+          "start_ref": "44027005",
+          "start_ref_usfm": "ACT 27:5",
+          "end_ref": "44027005",
+          "end_ref_usfm": "ACT 27:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
+        },
+        {
+          "start_ref": "48001021",
+          "start_ref_usfm": "GAL 1:21",
+          "end_ref": "48001024",
+          "end_ref_usfm": "GAL 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26261,
+          "content_id": 238390,
+          "label": "Estêvão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26281,
+          "content_id": 238410,
+          "label": "Tarso",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

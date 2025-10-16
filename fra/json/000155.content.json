@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467234,
+    "reference_id": 26110,
+    "title": "Charrue",
+    "media_type": "Text",
+    "index_reference": "charrue",
+    "language": "fra",
+    "content": "<h1>charrue</h1><h2>Définition :</h2><p>Une &quot;charrue&quot; est un outil agricole qui est utilisé pour labourer le sol pour préparer un terrain pour la plantation.</p><ul><li><p>Les charrues ont des lames pointues qui creusent le sol* Elles ont généralement des poignées que l&apos;agriculteur utilise pour les guider .</p></li><li><p>Dans les temps bibliques, les charrues étaient généralement tirées par une paire de bœufs, ou d&apos;autres animaux de travail.</p></li><li><p>La plupart des charrues ont été faites de bois dur, sauf les pointes qui ont été faites d&apos;un métal tel que le bronze ou le fer.</p></li></ul><p>(Voir aussi : (../other/bronze.md), (../other/cow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01045006",
+          "start_ref_usfm": "GEN 45:6",
+          "end_ref": "01045006",
+          "end_ref_usfm": "GEN 45:6"
+        },
+        {
+          "start_ref": "02034021",
+          "start_ref_usfm": "EXO 34:21",
+          "end_ref": "02034021",
+          "end_ref_usfm": "EXO 34:21"
+        },
+        {
+          "start_ref": "05021004",
+          "start_ref_usfm": "DEU 21:4",
+          "end_ref": "05021004",
+          "end_ref_usfm": "DEU 21:4"
+        },
+        {
+          "start_ref": "20013023",
+          "start_ref_usfm": "PRO 13:23",
+          "end_ref": "20013023",
+          "end_ref_usfm": "PRO 13:23"
+        },
+        {
+          "start_ref": "20020004",
+          "start_ref_usfm": "PRO 20:4",
+          "end_ref": "20020004",
+          "end_ref_usfm": "PRO 20:4"
+        },
+        {
+          "start_ref": "42009062",
+          "start_ref_usfm": "LUK 9:62",
+          "end_ref": "42009062",
+          "end_ref_usfm": "LUK 9:62"
+        },
+        {
+          "start_ref": "42017007",
+          "start_ref_usfm": "LUK 17:7",
+          "end_ref": "42017007",
+          "end_ref_usfm": "LUK 17:7"
+        },
+        {
+          "start_ref": "46009010",
+          "start_ref_usfm": "1CO 9:10",
+          "end_ref": "46009010",
+          "end_ref_usfm": "1CO 9:10"
+        },
+        {
+          "start_ref": "09008010",
+          "start_ref_usfm": "1SA 8:10",
+          "end_ref": "09008012",
+          "end_ref_usfm": "1SA 8:12"
+        },
+        {
+          "start_ref": "19141005",
+          "start_ref_usfm": "PSA 141:5",
+          "end_ref": "19141007",
+          "end_ref_usfm": "PSA 141:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25559,
+          "content_id": 466730,
+          "label": "Bronze",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25623,
+          "content_id": 466788,
+          "label": "Vache ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

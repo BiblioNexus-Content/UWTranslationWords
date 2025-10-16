@@ -1,0 +1,203 @@
+[
+  {
+    "content_id": 26856,
+    "reference_id": 25998,
+    "title": "Mary",
+    "media_type": "Text",
+    "index_reference": "mary",
+    "language": "eng",
+    "content": "<h1>Mary, the mother of Jesus</h1><h2>Facts:</h2><p>Mary was a young woman living in the city of Nazareth who was pledged to be married to a man named Joseph. God chose Mary to be the mother of Jesus the Messiah, the Son of God.</p><ul><li><p>The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin.</p></li><li><p>An angel told Mary that the baby to be born to her was the Son of God and that she must name him Jesus.</p></li><li><p>Mary loved God and praised him for being gracious to her.</p></li><li><p>Joseph married Mary, but she remained a virgin until after the baby was born.</p></li><li><p>Mary thought deeply about the amazing things that the shepherds and wise men said about the baby Jesus.</p></li><li><p>Mary and Joseph took the baby Jesus to be dedicated at the temple. Later they took him to Egypt to escape King Herod’s plot to kill the baby. Eventually they moved back to Nazareth.</p></li><li><p>When Jesus was an adult, Mary was with him when he changed water to wine at a wedding in Cana.</p></li><li><p>The gospels also mention that Mary was at the cross when Jesus was dying. He told his disciple John to take care of her like his own mother.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25571\" data-resourceType=\"UWTranslationWords\">Cana</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25832\" data-resourceType=\"UWTranslationWords\">Herod the Great</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">Jesus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25918\" data-resourceType=\"UWTranslationWords\">Joseph (NT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Son of God</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26337\" data-resourceType=\"UWTranslationWords\">virgin</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John2:4\">John 2:4</a></p></li><li><p><a href=\"https://ref.ly/John2:12\">John 2:12</a></p></li><li><p><a href=\"https://ref.ly/Luke1:29\">Luke 1:29</a></p></li><li><p><a href=\"https://ref.ly/Luke1:35\">Luke 1:35</a></p></li><li><p><a href=\"https://ref.ly/Mark6:3\">Mark 6:3</a></p></li><li><p><a href=\"https://ref.ly/Matt1:16\">Matthew 1:16</a></p></li><li><p><a href=\"https://ref.ly/Matt1:19\">Matthew 1:19</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>22:4</strong> When Elizabeth was six months pregnant, the same angel appeared to Elizabeth’s relative, whose name was <strong>Mary</strong>. She was a virgin and was engaged to be married to a man named Joseph. The angel said, “You will become pregnant and give birth to a son. You are to name him Jesus and he will be the Messiah.”</p></li><li><p><strong>22:5</strong> The angel explained, “The Holy Spirit will come to you, and the power of God will overshadow you. So the baby will be holy, the Son of God.” <strong>Mary</strong> believed and accepted what the angel said.</p></li><li><p><strong>22:6</strong> Soon after the angel spoke to <strong>Mary</strong>, she went and visited Elizabeth. As soon as Elizabeth heard <strong>Mary’s</strong> greeting, Elizabeth’s baby jumped inside her.</p></li><li><p><strong>23:2</strong> The angel said, “Joseph, do not be afraid to take <strong>Mary</strong> as your wife. The baby in her body is from the Holy Spirit.”</p></li><li><p><strong>23:4</strong> Joseph and <strong>Mary</strong> had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.</p></li><li><p><strong>49:1</strong> An angel told a virgin named <strong>Mary</strong> that she would give birth to God’s Son. So while she was still a virgin, she gave birth to a son and named him Jesus.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G31370</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001016",
+          "start_ref_usfm": "MAT 1:16",
+          "end_ref": "40001016",
+          "end_ref_usfm": "MAT 1:16"
+        },
+        {
+          "start_ref": "40001018",
+          "start_ref_usfm": "MAT 1:18",
+          "end_ref": "40001018",
+          "end_ref_usfm": "MAT 1:18"
+        },
+        {
+          "start_ref": "40001019",
+          "start_ref_usfm": "MAT 1:19",
+          "end_ref": "40001019",
+          "end_ref_usfm": "MAT 1:19"
+        },
+        {
+          "start_ref": "40001020",
+          "start_ref_usfm": "MAT 1:20",
+          "end_ref": "40001020",
+          "end_ref_usfm": "MAT 1:20"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "41006003",
+          "start_ref_usfm": "MRK 6:3",
+          "end_ref": "41006003",
+          "end_ref_usfm": "MRK 6:3"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42001029",
+          "start_ref_usfm": "LUK 1:29",
+          "end_ref": "42001029",
+          "end_ref_usfm": "LUK 1:29"
+        },
+        {
+          "start_ref": "42001030",
+          "start_ref_usfm": "LUK 1:30",
+          "end_ref": "42001030",
+          "end_ref_usfm": "LUK 1:30"
+        },
+        {
+          "start_ref": "42001034",
+          "start_ref_usfm": "LUK 1:34",
+          "end_ref": "42001034",
+          "end_ref_usfm": "LUK 1:34"
+        },
+        {
+          "start_ref": "42001035",
+          "start_ref_usfm": "LUK 1:35",
+          "end_ref": "42001035",
+          "end_ref_usfm": "LUK 1:35"
+        },
+        {
+          "start_ref": "42001038",
+          "start_ref_usfm": "LUK 1:38",
+          "end_ref": "42001038",
+          "end_ref_usfm": "LUK 1:38"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001039",
+          "end_ref_usfm": "LUK 1:39"
+        },
+        {
+          "start_ref": "42001041",
+          "start_ref_usfm": "LUK 1:41",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        },
+        {
+          "start_ref": "42001046",
+          "start_ref_usfm": "LUK 1:46",
+          "end_ref": "42001046",
+          "end_ref_usfm": "LUK 1:46"
+        },
+        {
+          "start_ref": "42001056",
+          "start_ref_usfm": "LUK 1:56",
+          "end_ref": "42001056",
+          "end_ref_usfm": "LUK 1:56"
+        },
+        {
+          "start_ref": "42002005",
+          "start_ref_usfm": "LUK 2:5",
+          "end_ref": "42002005",
+          "end_ref_usfm": "LUK 2:5"
+        },
+        {
+          "start_ref": "42002016",
+          "start_ref_usfm": "LUK 2:16",
+          "end_ref": "42002016",
+          "end_ref_usfm": "LUK 2:16"
+        },
+        {
+          "start_ref": "42002019",
+          "start_ref_usfm": "LUK 2:19",
+          "end_ref": "42002019",
+          "end_ref_usfm": "LUK 2:19"
+        },
+        {
+          "start_ref": "42002034",
+          "start_ref_usfm": "LUK 2:34",
+          "end_ref": "42002034",
+          "end_ref_usfm": "LUK 2:34"
+        },
+        {
+          "start_ref": "43002004",
+          "start_ref_usfm": "JHN 2:4",
+          "end_ref": "43002004",
+          "end_ref_usfm": "JHN 2:4"
+        },
+        {
+          "start_ref": "43002012",
+          "start_ref_usfm": "JHN 2:12",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        },
+        {
+          "start_ref": "44001014",
+          "start_ref_usfm": "ACT 1:14",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25571,
+          "content_id": 26429,
+          "label": "Cana",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25832,
+          "content_id": 26690,
+          "label": "Herod the Great",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 26758,
+          "label": "Jesus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25918,
+          "content_id": 26776,
+          "label": "Joseph NT",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 27108,
+          "label": "Son of God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26337,
+          "content_id": 27195,
+          "label": "Virgin",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

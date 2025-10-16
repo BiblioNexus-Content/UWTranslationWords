@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467378,
+    "reference_id": 26263,
+    "title": "Entrepôt",
+    "media_type": "Text",
+    "index_reference": "entrepôt",
+    "language": "fra",
+    "content": "<h1>entrepôt</h1><h2>Définition :</h2><p>Un &quot;entrepôt&quot; est un grand bâtiment qui est utilisé pour stocker de la nourriture ou d&apos;autres choses.</p><ul><li><p>Dans la Bible, un «entrepôt» a été généralement utilisé pour stocker le grain supplémentaire et d&apos;autres aliments pour être utilisé plus tard, quand il y avait une pénurie de nourriture en raison de la famine.</p></li><li><p>Un «entrepôt» a parfois été utilisé comme un moyen de création de richesse dans une famille.</p></li><li><p>Ce terme est également utilisé au sens figuré pour désigner toutes les bonnes choses que Dieu veut donner à son peuple.</p></li><li><p>Les greniers de la maison de l&apos;Éternel contenaient les choses précieuses qui avaient été prises par les ennemis et consacrées à l&apos;Eternel* Ces choses ont été gardées pour aider à réparer le temple* Parfois, cela se traduit par «trésors».</p></li><li><p>D&apos;autres façons de traduire &quot;entrepôt&quot; pourrait inclure, &quot;la construction pour le stockage du grain» ou «lieu pour garder les aliments» ou «chambre pour garder des choses précieuses en toute sécurité*&quot;</p></li></ul><p>(Voir aussi : (../kt/consecrate.md), (../other/dedicate.md), (../other/famine.md), (../other/gold.md), (../other/grain.md), (../other/silver.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16012044",
+          "start_ref_usfm": "NEH 12:44",
+          "end_ref": "16012044",
+          "end_ref_usfm": "NEH 12:44"
+        },
+        {
+          "start_ref": "18038022",
+          "start_ref_usfm": "JOB 38:22",
+          "end_ref": "18038022",
+          "end_ref_usfm": "JOB 38:22"
+        },
+        {
+          "start_ref": "19033007",
+          "start_ref_usfm": "PSA 33:7",
+          "end_ref": "19033007",
+          "end_ref_usfm": "PSA 33:7"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "20010002",
+          "start_ref_usfm": "PRO 10:2",
+          "end_ref": "20010002",
+          "end_ref_usfm": "PRO 10:2"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        },
+        {
+          "start_ref": "14016002",
+          "start_ref_usfm": "2CH 16:2",
+          "end_ref": "14016003",
+          "end_ref_usfm": "2CH 16:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25609,
+          "content_id": 466776,
+          "label": "Consacrer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25651,
+          "content_id": 466814,
+          "label": "Dédier ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25732,
+          "content_id": 466886,
+          "label": "Famine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25791,
+          "content_id": 466940,
+          "label": "Or",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 467352,
+          "label": "Argent",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

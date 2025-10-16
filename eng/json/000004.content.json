@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26277,
+    "reference_id": 25419,
+    "title": "Abiathar",
+    "media_type": "Text",
+    "index_reference": "abiathar",
+    "language": "eng",
+    "content": "<h1>Abiathar</h1><h2>Definition:</h2><p>Abiathar was a high priest for the nation of Israel during the time of King David.</p><ul><li><p>When King Saul killed the priests, Abiathar escaped and went to David in the wilderness.</p></li><li><p>Abiathar and another high priest named Zadok served David faithfully throughout his reign.</p></li><li><p>After David’s death, Abiathar helped Adonijah try to become king instead of Solomon.</p></li><li><p>Because of this, King Solomon removed Abiathar from the priesthood.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26365\" data-resourceType=\"UWTranslationWords\">Zadok</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (OT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25431\" data-resourceType=\"UWTranslationWords\">Adonijah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:32-1Chr27:34\">1 Chronicles 27:32–34</a></p></li><li><p><a href=\"https://ref.ly/1Kgs1:7\">1 Kings 1:7</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:22-1Kgs2:23\">1 Kings 2:22–23</a></p></li><li><p><a href=\"https://ref.ly/2Sam17:15\">2 Samuel 17:15</a></p></li><li><p><a href=\"https://ref.ly/Mark2:25-Mark2:26\">Mark 2:25–26</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0054, G00080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11001007",
+          "start_ref_usfm": "1KI 1:7",
+          "end_ref": "11001007",
+          "end_ref_usfm": "1KI 1:7"
+        },
+        {
+          "start_ref": "41002026",
+          "start_ref_usfm": "MRK 2:26",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "41002025",
+          "start_ref_usfm": "MRK 2:25",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "13027032",
+          "start_ref_usfm": "1CH 27:32",
+          "end_ref": "13027034",
+          "end_ref_usfm": "1CH 27:34"
+        },
+        {
+          "start_ref": "11002022",
+          "start_ref_usfm": "1KI 2:22",
+          "end_ref": "11002023",
+          "end_ref_usfm": "1KI 2:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25431,
+          "content_id": 26289,
+          "label": "Adonijah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 27058,
+          "label": "Saul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26365,
+          "content_id": 27223,
+          "label": "Zadok",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

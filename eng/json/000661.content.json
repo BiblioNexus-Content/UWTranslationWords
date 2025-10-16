@@ -1,0 +1,203 @@
+[
+  {
+    "content_id": 26935,
+    "reference_id": 26077,
+    "title": "Patient",
+    "media_type": "Text",
+    "index_reference": "patient",
+    "language": "eng",
+    "content": "<h1>patient, patience, impatient</h1><h2>Definition:</h2><p>The terms “patient” and “patience” refer to persevering through difficult circumstances. Often patience involves waiting.</p><ul><li><p>When people are patient with someone, it means they are loving that person and forgiving whatever faults that person has.</p></li><li><p>The Bible teaches God’s people to be patient when facing difficulties and to be patient with each other.</p></li><li><p>Because of his mercy, God is patient with people, even though they are sinners who deserve to be punished.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25701\" data-resourceType=\"UWTranslationWords\">endure</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">forgive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_persevere\" data-resourceType=\"UWTranslationWords\">persevere</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Pet3:20\">1 Peter 3:20</a></p></li><li><p><a href=\"https://ref.ly/2Pet3:8-2Pet3:9\">2 Peter 3:8–9</a></p></li><li><p><a href=\"https://ref.ly/Heb6:11-Heb6:12\">Hebrews 6:11–12</a></p></li><li><p><a href=\"https://ref.ly/Matt18:28-Matt18:29\">Matthew 18:28–29</a></p></li><li><p><a href=\"https://ref.ly/Ps37:7\">Psalms 37:7</a></p></li><li><p><a href=\"https://ref.ly/Rev2:2\">Revelation 2:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0750, H0753, H2342, H3811, H6960, H7114, G04200, G04630, G19330, G31140, G31150, G31160, G52780, G52810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18024022",
+          "start_ref_usfm": "JOB 24:22",
+          "end_ref": "18024022",
+          "end_ref_usfm": "JOB 24:22"
+        },
+        {
+          "start_ref": "19037007",
+          "start_ref_usfm": "PSA 37:7",
+          "end_ref": "19037007",
+          "end_ref_usfm": "PSA 37:7"
+        },
+        {
+          "start_ref": "40018026",
+          "start_ref_usfm": "MAT 18:26",
+          "end_ref": "40018026",
+          "end_ref_usfm": "MAT 18:26"
+        },
+        {
+          "start_ref": "40018029",
+          "start_ref_usfm": "MAT 18:29",
+          "end_ref": "40018029",
+          "end_ref_usfm": "MAT 18:29"
+        },
+        {
+          "start_ref": "45002004",
+          "start_ref_usfm": "ROM 2:4",
+          "end_ref": "45002004",
+          "end_ref_usfm": "ROM 2:4"
+        },
+        {
+          "start_ref": "45008025",
+          "start_ref_usfm": "ROM 8:25",
+          "end_ref": "45008025",
+          "end_ref_usfm": "ROM 8:25"
+        },
+        {
+          "start_ref": "45009022",
+          "start_ref_usfm": "ROM 9:22",
+          "end_ref": "45009022",
+          "end_ref_usfm": "ROM 9:22"
+        },
+        {
+          "start_ref": "46013004",
+          "start_ref_usfm": "1CO 13:4",
+          "end_ref": "46013004",
+          "end_ref_usfm": "1CO 13:4"
+        },
+        {
+          "start_ref": "47006006",
+          "start_ref_usfm": "2CO 6:6",
+          "end_ref": "47006006",
+          "end_ref_usfm": "2CO 6:6"
+        },
+        {
+          "start_ref": "49004002",
+          "start_ref_usfm": "EPH 4:2",
+          "end_ref": "49004002",
+          "end_ref_usfm": "EPH 4:2"
+        },
+        {
+          "start_ref": "51001011",
+          "start_ref_usfm": "COL 1:11",
+          "end_ref": "51001011",
+          "end_ref_usfm": "COL 1:11"
+        },
+        {
+          "start_ref": "51003012",
+          "start_ref_usfm": "COL 3:12",
+          "end_ref": "51003012",
+          "end_ref_usfm": "COL 3:12"
+        },
+        {
+          "start_ref": "52005014",
+          "start_ref_usfm": "1TH 5:14",
+          "end_ref": "52005014",
+          "end_ref_usfm": "1TH 5:14"
+        },
+        {
+          "start_ref": "54001016",
+          "start_ref_usfm": "1TI 1:16",
+          "end_ref": "54001016",
+          "end_ref_usfm": "1TI 1:16"
+        },
+        {
+          "start_ref": "55002024",
+          "start_ref_usfm": "2TI 2:24",
+          "end_ref": "55002024",
+          "end_ref_usfm": "2TI 2:24"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003010",
+          "end_ref_usfm": "2TI 3:10"
+        },
+        {
+          "start_ref": "55004002",
+          "start_ref_usfm": "2TI 4:2",
+          "end_ref": "55004002",
+          "end_ref_usfm": "2TI 4:2"
+        },
+        {
+          "start_ref": "58006012",
+          "start_ref_usfm": "HEB 6:12",
+          "end_ref": "58006012",
+          "end_ref_usfm": "HEB 6:12"
+        },
+        {
+          "start_ref": "59005007",
+          "start_ref_usfm": "JAS 5:7",
+          "end_ref": "59005007",
+          "end_ref_usfm": "JAS 5:7"
+        },
+        {
+          "start_ref": "59005008",
+          "start_ref_usfm": "JAS 5:8",
+          "end_ref": "59005008",
+          "end_ref_usfm": "JAS 5:8"
+        },
+        {
+          "start_ref": "59005010",
+          "start_ref_usfm": "JAS 5:10",
+          "end_ref": "59005010",
+          "end_ref_usfm": "JAS 5:10"
+        },
+        {
+          "start_ref": "60003020",
+          "start_ref_usfm": "1PE 3:20",
+          "end_ref": "60003020",
+          "end_ref_usfm": "1PE 3:20"
+        },
+        {
+          "start_ref": "61003009",
+          "start_ref_usfm": "2PE 3:9",
+          "end_ref": "61003009",
+          "end_ref_usfm": "2PE 3:9"
+        },
+        {
+          "start_ref": "61003015",
+          "start_ref_usfm": "2PE 3:15",
+          "end_ref": "61003015",
+          "end_ref_usfm": "2PE 3:15"
+        },
+        {
+          "start_ref": "66002002",
+          "start_ref_usfm": "REV 2:2",
+          "end_ref": "66002002",
+          "end_ref_usfm": "REV 2:2"
+        },
+        {
+          "start_ref": "61003008",
+          "start_ref_usfm": "2PE 3:8",
+          "end_ref": "61003009",
+          "end_ref_usfm": "2PE 3:9"
+        },
+        {
+          "start_ref": "58006011",
+          "start_ref_usfm": "HEB 6:11",
+          "end_ref": "58006012",
+          "end_ref_usfm": "HEB 6:12"
+        },
+        {
+          "start_ref": "40018028",
+          "start_ref_usfm": "MAT 18:28",
+          "end_ref": "40018029",
+          "end_ref_usfm": "MAT 18:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25701,
+          "content_id": 26559,
+          "label": "Endure",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 26610,
+          "label": "Forgive",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26090,
+          "content_id": 26948,
+          "label": "Perseverance",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

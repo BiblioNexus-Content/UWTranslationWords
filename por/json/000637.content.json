@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 238184,
+    "reference_id": 26054,
+    "title": "Nínive",
+    "media_type": "Text",
+    "index_reference": "nínive",
+    "language": "por",
+    "content": "<h1>Nínive, Nínivita</h1><h2>Fatos:</h2><p>Nínive foi a capital do império assírio. Um &quot;nínivita&quot; era uma pessoa que vivia em Nínive.</p><ul><li><p>Deus enviou o profeta Jonas para avisar os ninivitas a se afastarem de seus caminhos perversos. As pessoas pararam de agir tão violentamente e Deus não os destruiu naquela época.</p></li><li><p>Os profetas Naum e Sofonias profetizaram que Deus destruiria Nínive como julgamento por seus pecados.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assíria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25913\" data-resourceType=\"UWTranslationWords\">Jonas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">arrependa-se</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_turn\" data-resourceType=\"UWTranslationWords\">virar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:11-Gen10:14\">Gênesis 10.11–14</a></p></li><li><p><a href=\"https://ref.ly/Jonah1:3\">Jonas 1.3</a></p></li><li><p><a href=\"https://ref.ly/Jonah3:3\">Jonas 3.3</a></p></li><li><p><a href=\"https://ref.ly/Luke11:32\">Lucas 11.32</a></p></li><li><p><a href=\"https://ref.ly/Matt12:41\">Mateus 12.41</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5210, G35350, G35360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010011",
+          "start_ref_usfm": "GEN 10:11",
+          "end_ref": "01010011",
+          "end_ref_usfm": "GEN 10:11"
+        },
+        {
+          "start_ref": "01010012",
+          "start_ref_usfm": "GEN 10:12",
+          "end_ref": "01010012",
+          "end_ref_usfm": "GEN 10:12"
+        },
+        {
+          "start_ref": "32001002",
+          "start_ref_usfm": "JON 1:2",
+          "end_ref": "32001002",
+          "end_ref_usfm": "JON 1:2"
+        },
+        {
+          "start_ref": "32001003",
+          "start_ref_usfm": "JON 1:3",
+          "end_ref": "32001003",
+          "end_ref_usfm": "JON 1:3"
+        },
+        {
+          "start_ref": "32003002",
+          "start_ref_usfm": "JON 3:2",
+          "end_ref": "32003002",
+          "end_ref_usfm": "JON 3:2"
+        },
+        {
+          "start_ref": "32003003",
+          "start_ref_usfm": "JON 3:3",
+          "end_ref": "32003003",
+          "end_ref_usfm": "JON 3:3"
+        },
+        {
+          "start_ref": "32003004",
+          "start_ref_usfm": "JON 3:4",
+          "end_ref": "32003004",
+          "end_ref_usfm": "JON 3:4"
+        },
+        {
+          "start_ref": "32003005",
+          "start_ref_usfm": "JON 3:5",
+          "end_ref": "32003005",
+          "end_ref_usfm": "JON 3:5"
+        },
+        {
+          "start_ref": "32003006",
+          "start_ref_usfm": "JON 3:6",
+          "end_ref": "32003006",
+          "end_ref_usfm": "JON 3:6"
+        },
+        {
+          "start_ref": "32003007",
+          "start_ref_usfm": "JON 3:7",
+          "end_ref": "32003007",
+          "end_ref_usfm": "JON 3:7"
+        },
+        {
+          "start_ref": "32004011",
+          "start_ref_usfm": "JON 4:11",
+          "end_ref": "32004011",
+          "end_ref_usfm": "JON 4:11"
+        },
+        {
+          "start_ref": "40012041",
+          "start_ref_usfm": "MAT 12:41",
+          "end_ref": "40012041",
+          "end_ref_usfm": "MAT 12:41"
+        },
+        {
+          "start_ref": "42011030",
+          "start_ref_usfm": "LUK 11:30",
+          "end_ref": "42011030",
+          "end_ref_usfm": "LUK 11:30"
+        },
+        {
+          "start_ref": "42011032",
+          "start_ref_usfm": "LUK 11:32",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        },
+        {
+          "start_ref": "01010011",
+          "start_ref_usfm": "GEN 10:11",
+          "end_ref": "01010014",
+          "end_ref_usfm": "GEN 10:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 237625,
+          "label": "Assíria",
+          "language": "por"
+        },
+        {
+          "reference_id": 25913,
+          "content_id": 238046,
+          "label": "Jonas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 238300,
+          "label": "Arrepender",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466693,
+    "reference_id": 25518,
+    "title": "Beelzébul",
+    "media_type": "Text",
+    "index_reference": "beelzébul",
+    "language": "fra",
+    "content": "<h1>Beelzébul</h1><h2>Définition :</h2><p>Béelzébul est le prince des démons et un autre nom pour Satan, ou le diable.</p><ul><li><p>Béelzébul est également orthographié Belzébub dans certaines versions de la Bible.</p></li><li><p>Il signifie littéralement «seigneur des mouches», qui signifie «règle sur les démons*&quot;</p></li><li><p>Puisque c&apos;est un nom, il devrait être traduit comme un nom.</p></li><li><p>Il pourrait aussi être traduit par «Béelzébul le diable» pour qu&apos;il soit clair que c&apos;est à lui qu&apos;on fait référence.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/demon.md), (../names/ekron.md), (../kt/satan.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010025",
+          "start_ref_usfm": "MAT 10:25",
+          "end_ref": "40010025",
+          "end_ref_usfm": "MAT 10:25"
+        },
+        {
+          "start_ref": "40012024",
+          "start_ref_usfm": "MAT 12:24",
+          "end_ref": "40012024",
+          "end_ref_usfm": "MAT 12:24"
+        },
+        {
+          "start_ref": "40012025",
+          "start_ref_usfm": "MAT 12:25",
+          "end_ref": "40012025",
+          "end_ref_usfm": "MAT 12:25"
+        },
+        {
+          "start_ref": "40012027",
+          "start_ref_usfm": "MAT 12:27",
+          "end_ref": "40012027",
+          "end_ref_usfm": "MAT 12:27"
+        },
+        {
+          "start_ref": "41003022",
+          "start_ref_usfm": "MRK 3:22",
+          "end_ref": "41003022",
+          "end_ref_usfm": "MRK 3:22"
+        },
+        {
+          "start_ref": "42011015",
+          "start_ref_usfm": "LUK 11:15",
+          "end_ref": "42011015",
+          "end_ref_usfm": "LUK 11:15"
+        },
+        {
+          "start_ref": "42011018",
+          "start_ref_usfm": "LUK 11:18",
+          "end_ref": "42011018",
+          "end_ref_usfm": "LUK 11:18"
+        },
+        {
+          "start_ref": "42011019",
+          "start_ref_usfm": "LUK 11:19",
+          "end_ref": "42011019",
+          "end_ref_usfm": "LUK 11:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25658,
+          "content_id": 466820,
+          "label": "Démon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25691,
+          "content_id": 466851,
+          "label": "Ekron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 467318,
+          "label": "Satan",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

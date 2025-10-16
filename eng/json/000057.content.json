@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26330,
+    "reference_id": 25472,
+    "title": "Ararat",
+    "media_type": "Text",
+    "index_reference": "ararat",
+    "language": "eng",
+    "content": "<h1>Ararat</h1><h2>Facts:</h2><p>In the Bible, “Ararat” is the name given to a land, a kingdom, and a mountain range.</p><ul><li><p>The “land of Ararat” was probably located in what is now the northeastern part of the country of Turkey.</p></li><li><p>Ararat is best known as the name of the mountain that Noah’s ark came to rest on after the waters of the great flood began to recede.</p></li><li><p>In modern times, a mountain called “Mount Ararat” is often thought to be the location of the “mountains of Ararat” in the Bible.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">ark</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs19:35-2Kgs19:37\">2 Kings 19:35–37</a></p></li><li><p><a href=\"https://ref.ly/Gen8:4-Gen8:5\">Genesis 8:4–5</a></p></li><li><p><a href=\"https://ref.ly/Isa37:38\">Isaiah 37:38</a></p></li><li><p><a href=\"https://ref.ly/Jer51:27\">Jeremiah 51:27</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0780</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008004",
+          "end_ref_usfm": "GEN 8:4"
+        },
+        {
+          "start_ref": "23037038",
+          "start_ref_usfm": "ISA 37:38",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "24051027",
+          "start_ref_usfm": "JER 51:27",
+          "end_ref": "24051027",
+          "end_ref_usfm": "JER 51:27"
+        },
+        {
+          "start_ref": "12019035",
+          "start_ref_usfm": "2KI 19:35",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008005",
+          "end_ref_usfm": "GEN 8:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 26332,
+          "label": "Ark",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

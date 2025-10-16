@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 179720,
+    "reference_id": 25643,
+    "title": "दारा",
+    "media_type": "Text",
+    "index_reference": "दारा",
+    "language": "hin",
+    "content": "<h1>दारा</h1><h2>तथ्य:</h2><p>दारा नाम फारस के अनेक राजाओं का था। संभव है कि “दारा” नाम की अपेक्षा एक उपाधि थी।</p><ul><li><p>“मादी दारा” को जाल में फंसा कर दानिय्येल विरोधियों ने दानिय्येल को यहोवा की उपासना के कारण सिंहों की मान्द में डलवा दिया था।</p></li><li><p>“फारसी दारा” ने एज्रा और नहेम्याह के समय यरूशलेम के मन्दिर के पुनः निर्माण हेतु प्रबन्ध किया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">एज्रा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">नहेम्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezra4:4-Ezra4:6\">एज्रा 4:4–6</a></p></li><li><p><a href=\"https://ref.ly/Hag1:1\">हाग्गै 1:1</a></p></li><li><p><a href=\"https://ref.ly/Neh12:22\">नहेम्याह 12:22</a></p></li><li><p><a href=\"https://ref.ly/Zech1:1\">जकर्याह 1:1</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1867, H1868</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15004024",
+          "start_ref_usfm": "EZR 4:24",
+          "end_ref": "15004024",
+          "end_ref_usfm": "EZR 4:24"
+        },
+        {
+          "start_ref": "15005005",
+          "start_ref_usfm": "EZR 5:5",
+          "end_ref": "15005005",
+          "end_ref_usfm": "EZR 5:5"
+        },
+        {
+          "start_ref": "15005006",
+          "start_ref_usfm": "EZR 5:6",
+          "end_ref": "15005006",
+          "end_ref_usfm": "EZR 5:6"
+        },
+        {
+          "start_ref": "15005007",
+          "start_ref_usfm": "EZR 5:7",
+          "end_ref": "15005007",
+          "end_ref_usfm": "EZR 5:7"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006001",
+          "end_ref_usfm": "EZR 6:1"
+        },
+        {
+          "start_ref": "15006012",
+          "start_ref_usfm": "EZR 6:12",
+          "end_ref": "15006012",
+          "end_ref_usfm": "EZR 6:12"
+        },
+        {
+          "start_ref": "15006013",
+          "start_ref_usfm": "EZR 6:13",
+          "end_ref": "15006013",
+          "end_ref_usfm": "EZR 6:13"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "15006015",
+          "start_ref_usfm": "EZR 6:15",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        },
+        {
+          "start_ref": "16012022",
+          "start_ref_usfm": "NEH 12:22",
+          "end_ref": "16012022",
+          "end_ref_usfm": "NEH 12:22"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001001",
+          "end_ref_usfm": "ZEC 1:1"
+        },
+        {
+          "start_ref": "15004004",
+          "start_ref_usfm": "EZR 4:4",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 179797,
+          "label": "एज्रा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 180113,
+          "label": "नहेम्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

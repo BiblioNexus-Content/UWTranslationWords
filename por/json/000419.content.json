@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 237941,
+    "reference_id": 25808,
+    "title": "Habacuque",
+    "media_type": "Text",
+    "index_reference": "habacuque",
+    "language": "por",
+    "content": "<h1>Habacuque</h1><h2>Fatos:</h2><p>Habacuque foi um profeta do Antigo Testamento que viveu na época em que o rei Jeoaquim reinava sobre Judá. O profeta Jeremias também estava vivo durante parte desse período.</p><ul><li><p>Este profeta escreveu o livro de Habacuque por volta de 600 a.C., período em que os babilônios haviam conquistado Jerusalém e levaram muitos do povo de Judá para o exílio.</p></li><li><p>Yahweh deu a Habacuque a profecia sobre como os “caldeus” (babilônios) viriam e conquistariam o povo de Judá.</p></li><li><p>Uma das declarações mais conhecidas de Habacuque é: “o justo viverá pela sua fé”.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">Jeoaquim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Hab1:2\">Habacuque 1.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2265</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001002",
+          "start_ref_usfm": "HAB 1:2",
+          "end_ref": "35001002",
+          "end_ref_usfm": "HAB 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 238023,
+          "label": "Jeoiaquim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 238028,
+          "label": "Jeremias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

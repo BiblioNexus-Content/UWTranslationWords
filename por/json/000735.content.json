@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 238253,
+    "reference_id": 26123,
+    "title": "Priscila",
+    "media_type": "Text",
+    "index_reference": "priscila",
+    "language": "por",
+    "content": "<h1>Priscila, Prisca</h1><h2>Fatos:</h2><p>Priscila e seu marido Áquila eram judeus cristãos que trabalharam com o apóstolo Paulo em seu trabalho missionário.</p><ul><li><p>Priscila e Áquila deixaram Roma porque o imperador havia forçado os cristãos a saírem de lá.</p></li><li><p>Paulo conheceu Áquila e Priscila em Corinto. Eles eram fabricantes de tendas e Paulo se juntou a eles nesse trabalho.</p></li><li><p>Quando Paulo deixou Corinto para ir à Síria, Priscila e Áquila foram com ele.</p></li><li><p>Da Síria, os três foram para Éfeso. Quando Paulo deixou Éfeso, Priscila e Áquila ficaram e lá continuaram o trabalho de pregação do evangelho.</p></li><li><p>Eles ensinaram especialmente um homem chamado Apolo em Éfeso, que acreditava em Jesus e era um orador e professor talentoso.</p></li><li><p>O nome de Priscila é abreviado para “Prisca” em Romanos 16.3.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">acreditar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25588\" data-resourceType=\"UWTranslationWords\">cristão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">Corinto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Éfeso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor16:19-1Cor16:20\">1 Coríntios 16.19–20</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:19-2Tim4:22\">2 Timóteo 4.19–22</a></p></li><li><p><a href=\"https://ref.ly/Acts18:1\">Atos 18.1</a></p></li><li><p><a href=\"https://ref.ly/Acts18:24\">Atos 18.24</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G42520, G42510</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018001",
+          "end_ref_usfm": "ACT 18:1"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018026",
+          "start_ref_usfm": "ACT 18:26",
+          "end_ref": "44018026",
+          "end_ref_usfm": "ACT 18:26"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016003",
+          "end_ref_usfm": "ROM 16:3"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 237659,
+          "label": "Acreditar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 237723,
+          "label": "Cristão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25612,
+          "content_id": 237746,
+          "label": "Corinto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 237839,
+          "label": "Éfeso",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

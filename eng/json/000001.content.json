@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 26274,
+    "reference_id": 25416,
+    "title": "12 Tribes of Israel",
+    "media_type": "Text",
+    "index_reference": "12 tribes of israel",
+    "language": "eng",
+    "content": "<h1>twelve tribes of Israel, twelve tribes</h1><h2>Definition: </h2><p>The term “twelve tribes of Israel” refers to the twelve sons of Jacob and their descendants.</p><ul><li><p>These are the names of Jacob’s twelve sons: Reuben, Simeon, Levi, Judah, Dan, Naphtali, Gad, Asher, Issachar, Zebulun, Joseph and Benjamin.</p></li><li><p>There are several places in the Bible where the list of the twelve tribes is slightly different. Sometimes Levi, Joseph, or Dan is left out of the list and sometimes Joseph’s two sons Ephraim and Manasseh are included in the list.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26174\" data-resourceType=\"UWTranslationWords\">Reuben</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26238\" data-resourceType=\"UWTranslationWords\">Simeon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">Dan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">Naphtali</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">Gad</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25482\" data-resourceType=\"UWTranslationWords\">Asher</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25880\" data-resourceType=\"UWTranslationWords\">Issachar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26368\" data-resourceType=\"UWTranslationWords\">Zebulun</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">Joseph</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">Ephraim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manasseh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26316\" data-resourceType=\"UWTranslationWords\">tribe</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts26:7\">Acts 26:7</a></p></li><li><p><a href=\"https://ref.ly/Gen49:28\">Genesis 49:28</a></p></li><li><p><a href=\"https://ref.ly/Luke22:28-Luke22:30\">Luke 22:28–30</a></p></li><li><p><a href=\"https://ref.ly/Matt19:28\">Matthew 19:28</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3478, H7626, H8147, G14270, G24740, G54430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049028",
+          "start_ref_usfm": "GEN 49:28",
+          "end_ref": "01049028",
+          "end_ref_usfm": "GEN 49:28"
+        },
+        {
+          "start_ref": "40019028",
+          "start_ref_usfm": "MAT 19:28",
+          "end_ref": "40019028",
+          "end_ref_usfm": "MAT 19:28"
+        },
+        {
+          "start_ref": "42022030",
+          "start_ref_usfm": "LUK 22:30",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        },
+        {
+          "start_ref": "44026007",
+          "start_ref_usfm": "ACT 26:7",
+          "end_ref": "44026007",
+          "end_ref_usfm": "ACT 26:7"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "66021012",
+          "start_ref_usfm": "REV 21:12",
+          "end_ref": "66021012",
+          "end_ref_usfm": "REV 21:12"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022030",
+          "end_ref_usfm": "LUK 22:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25482,
+          "content_id": 26340,
+          "label": "Asher",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 26384,
+          "label": "Benjamin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25641,
+          "content_id": 26499,
+          "label": "Dan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 26566,
+          "label": "Ephraim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 26622,
+          "label": "Gad",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25880,
+          "content_id": 26738,
+          "label": "Issachar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 26777,
+          "label": "Joseph OT",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 26851,
+          "label": "Manasseh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 26900,
+          "label": "Naphtali",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26174,
+          "content_id": 27032,
+          "label": "Reuben",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26238,
+          "content_id": 27096,
+          "label": "Simeon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26316,
+          "content_id": 27174,
+          "label": "Tribe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26368,
+          "content_id": 27226,
+          "label": "Zebulun",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

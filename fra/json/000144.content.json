@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466746,
+    "reference_id": 25578,
+    "title": "Cèdre",
+    "media_type": "Text",
+    "index_reference": "cèdre",
+    "language": "fra",
+    "content": "<h1>cèdre</h1><h2>Définition :</h2><p>Le terme «cèdre» fait référence à un grand sapin qui a normalement du bois brun rougeâtre* Comme d&apos;autres sapins, il a des cônes et des feuilles en forme d&apos;aiguilles.</p><ul><li><p>L&apos;Ancien Testament parle souvent du bois de cèdre en relation avec le Liban, où ils ont grandi en abondance.</p></li><li><p>Le bois de cèdre a été utilisé dans la construction du temple de Jérusalem.</p></li><li><p>Il a également été utilisé dans la fabrication des sacrifices et des rituels pour purifier les gens.</p></li></ul><p>(Voir aussi : (../other/fir.md), (../kt/purify.md), (../other/sacrifice.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "18040017",
+          "start_ref_usfm": "JOB 40:17",
+          "end_ref": "18040017",
+          "end_ref_usfm": "JOB 40:17"
+        },
+        {
+          "start_ref": "22001017",
+          "start_ref_usfm": "SNG 1:17",
+          "end_ref": "22001017",
+          "end_ref_usfm": "SNG 1:17"
+        },
+        {
+          "start_ref": "22008009",
+          "start_ref_usfm": "SNG 8:9",
+          "end_ref": "22008009",
+          "end_ref_usfm": "SNG 8:9"
+        },
+        {
+          "start_ref": "23002013",
+          "start_ref_usfm": "ISA 2:13",
+          "end_ref": "23002013",
+          "end_ref_usfm": "ISA 2:13"
+        },
+        {
+          "start_ref": "38011002",
+          "start_ref_usfm": "ZEC 11:2",
+          "end_ref": "38011002",
+          "end_ref_usfm": "ZEC 11:2"
+        },
+        {
+          "start_ref": "13014001",
+          "start_ref_usfm": "1CH 14:1",
+          "end_ref": "13014002",
+          "end_ref_usfm": "1CH 14:2"
+        },
+        {
+          "start_ref": "11007001",
+          "start_ref_usfm": "1KI 7:1",
+          "end_ref": "11007002",
+          "end_ref_usfm": "1KI 7:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25741,
+          "content_id": 466894,
+          "label": "Sapin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

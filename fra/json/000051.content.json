@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467119,
+    "reference_id": 25979,
+    "title": "Amoureux",
+    "media_type": "Text",
+    "index_reference": "amoureux",
+    "language": "fra",
+    "content": "<h1>amoureux</h1><h2>Définition :</h2><p>&quot;Le terme «amoureux» signifie littéralement «personne qui aime*&quot; Habituellement, cela se réfère à des gens qui sont dans une relation sexuelle entre eux.</p><ul><li><p>Il est dans la volonté de Dieu que les relations sexuelles soient entre un mari et une femme seulement.</p></li><li><p>Lorsque le terme «amant» est utilisé dans la Bible, il se réfère généralement à une personne célibataire qui est impliquée dans des relations sexuelles avec d&apos;autres personnes non mariées.</p></li><li><p>Cette mauvaise relation sexuelle est souvent utilisée dans la Bible pour se référer à la désobéissance d&apos;Israël à Dieu dans l&apos;adoration des idoles* Ainsi, le terme «amants» est également utilisé dans un sens figuré pour désigner les idoles que le peuple d&apos;Israël adoraient* Dans ces contextes, ce terme pourrait être traduit par &quot;partenaires immoraux&quot; ou &quot;partenaires dans l&apos;adultère» ou «idoles»* [Voir Metaphore]</p></li><li><p>Un «amant» de l&apos;argent est quelqu&apos;un qui met trop d&apos;importance à obtenir de l&apos;argent et à être riche.</p></li><li><p>Dans le livre de l&apos;Ancien Testament, le Cantique des Cantiques, le terme «amant» est utilisé d&apos;une manière positive.</p></li></ul><p>(Voir aussi : (../kt/adultery.md), (../kt/falsegod.md), (../kt/falsegod.md), (../kt/love.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24003002",
+          "start_ref_usfm": "JER 3:2",
+          "end_ref": "24003002",
+          "end_ref_usfm": "JER 3:2"
+        },
+        {
+          "start_ref": "25001002",
+          "start_ref_usfm": "LAM 1:2",
+          "end_ref": "25001002",
+          "end_ref_usfm": "LAM 1:2"
+        },
+        {
+          "start_ref": "28002005",
+          "start_ref_usfm": "HOS 2:5",
+          "end_ref": "28002005",
+          "end_ref_usfm": "HOS 2:5"
+        },
+        {
+          "start_ref": "42016014",
+          "start_ref_usfm": "LUK 16:14",
+          "end_ref": "42016014",
+          "end_ref_usfm": "LUK 16:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25433,
+          "content_id": 466615,
+          "label": "L’adultère",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25978,
+          "content_id": 467118,
+          "label": "Amour",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

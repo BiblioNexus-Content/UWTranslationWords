@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26959,
+    "reference_id": 26101,
+    "title": "Phinehas",
+    "media_type": "Text",
+    "index_reference": "phinehas",
+    "language": "eng",
+    "content": "<h1>Phinehas</h1><h2>Facts:</h2><p>Phineas was the name of two men in the Old Testament.</p><ul><li><p>One of Aaron’s grandsons was a priest named Phinehas, who strongly opposed the worship of false gods in Israel.</p></li><li><p>Phineas saved the Israelites from a plague that Yahweh had sent to punish them for marrying Midianite women and worshiping their false gods.</p></li><li><p>On several occasions Phinehas went with the Israelite army to destroy the Midianites.</p></li><li><p>The other Phinehas mentioned in the Old Testament was one of the evil sons of Eli the priest during the time of the prophet Samuel.</p></li><li><p>Phinehas and his brother Hophni were both killed when the Philistines attacked Israel and stole the Ark of the Covenant.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">ark of the covenant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Jordan River</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26018\" data-resourceType=\"UWTranslationWords\">Midian</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Philistines</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26194\" data-resourceType=\"UWTranslationWords\">Samuel</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam4:4\">1 Samuel 4:4</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:2\">Ezra 8:2</a></p></li><li><p><a href=\"https://ref.ly/Josh22:13-Josh22:14\">Joshua 22:13–14</a></p></li><li><p><a href=\"https://ref.ly/Num25:6-Num25:7\">Numbers 25:6–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6372</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006025",
+          "start_ref_usfm": "EXO 6:25",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "09004004",
+          "start_ref_usfm": "1SA 4:4",
+          "end_ref": "09004004",
+          "end_ref_usfm": "1SA 4:4"
+        },
+        {
+          "start_ref": "15007005",
+          "start_ref_usfm": "EZR 7:5",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "15008002",
+          "start_ref_usfm": "EZR 8:2",
+          "end_ref": "15008002",
+          "end_ref_usfm": "EZR 8:2"
+        },
+        {
+          "start_ref": "15008033",
+          "start_ref_usfm": "EZR 8:33",
+          "end_ref": "15008033",
+          "end_ref_usfm": "EZR 8:33"
+        },
+        {
+          "start_ref": "06022013",
+          "start_ref_usfm": "JOS 22:13",
+          "end_ref": "06022014",
+          "end_ref_usfm": "JOS 22:14"
+        },
+        {
+          "start_ref": "04025006",
+          "start_ref_usfm": "NUM 25:6",
+          "end_ref": "04025007",
+          "end_ref_usfm": "NUM 25:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 26333,
+          "label": "Ark of the Covenant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 26775,
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 26876,
+          "label": "Midian",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 26958,
+          "label": "Philistines",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 27052,
+          "label": "Samuel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

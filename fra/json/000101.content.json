@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466749,
+    "reference_id": 25581,
+    "title": "Balle",
+    "media_type": "Text",
+    "index_reference": "balle",
+    "language": "fra",
+    "content": "<h1>balle</h1><h2>Définition :</h2><p>La balle est un revêtement protecteur sec d&apos;une graine de grain* La balle n&apos;est pas bonne pour la consommation c&apos;est pourquoi les gens la séparent de la graine et la jettent.</p><ul><li><p>Souvent,on jette les épis en l&apos;air pour séparer la blalle de la graine* Le vent souffle la balle loin et la graine tombe sur le sol* Ce processus est appelé &quot;vanner&quot;.</p></li><li><p>Dans la Bible, ce terme est également utilisé au sens figuré pour désigner les mauvaises personnes et le mal, les choses sans valeur.</p></li></ul><p>(Voir aussi : (../other/grain.md), (../other/wheat.md), (../other/winnow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18021018",
+          "start_ref_usfm": "JOB 21:18",
+          "end_ref": "18021018",
+          "end_ref_usfm": "JOB 21:18"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26345,
+          "content_id": 467453,
+          "label": "Blé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 467457,
+          "label": "Vanner",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

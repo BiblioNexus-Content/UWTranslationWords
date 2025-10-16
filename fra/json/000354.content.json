@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 466946,
+    "reference_id": 25797,
+    "title": "Goshen",
+    "media_type": "Text",
+    "index_reference": "goshen",
+    "language": "fra",
+    "content": "<h1>Goshen</h1><h2>Définition :</h2><p>&quot;Goshen est le nom d&apos;une région de la terre qui était située dans la partie nord du pays d&apos;Egypte.</p><ul><li><p>Quand Joseph était un souverain en Egypte, son père et ses frères et leurs familles sont venus vivre à Goshen pour échapper à la famine en Canaan.</p></li><li><p>Eux et leurs descendants vivaient à Goshen depuis plus de quatre cent ans, puis ont été contraints à l&apos;esclavage par le pharaon d&apos;Egypte.</p></li><li><p>Finalement Dieu a envoyé Moïse pour aider le peuple d&apos;Israël à échapper à cet esclavage des Egyptiens.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/egypt.md), (../other/famine.md), (../names/moses.md), (../names/nileriver.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01045010",
+          "start_ref_usfm": "GEN 45:10",
+          "end_ref": "01045010",
+          "end_ref_usfm": "GEN 45:10"
+        },
+        {
+          "start_ref": "01045011",
+          "start_ref_usfm": "GEN 45:11",
+          "end_ref": "01045011",
+          "end_ref_usfm": "GEN 45:11"
+        },
+        {
+          "start_ref": "01046028",
+          "start_ref_usfm": "GEN 46:28",
+          "end_ref": "01046028",
+          "end_ref_usfm": "GEN 46:28"
+        },
+        {
+          "start_ref": "01046029",
+          "start_ref_usfm": "GEN 46:29",
+          "end_ref": "01046029",
+          "end_ref_usfm": "GEN 46:29"
+        },
+        {
+          "start_ref": "01046034",
+          "start_ref_usfm": "GEN 46:34",
+          "end_ref": "01046034",
+          "end_ref_usfm": "GEN 46:34"
+        },
+        {
+          "start_ref": "01047001",
+          "start_ref_usfm": "GEN 47:1",
+          "end_ref": "01047001",
+          "end_ref_usfm": "GEN 47:1"
+        },
+        {
+          "start_ref": "01047002",
+          "start_ref_usfm": "GEN 47:2",
+          "end_ref": "01047002",
+          "end_ref_usfm": "GEN 47:2"
+        },
+        {
+          "start_ref": "01047004",
+          "start_ref_usfm": "GEN 47:4",
+          "end_ref": "01047004",
+          "end_ref_usfm": "GEN 47:4"
+        },
+        {
+          "start_ref": "01047006",
+          "start_ref_usfm": "GEN 47:6",
+          "end_ref": "01047006",
+          "end_ref_usfm": "GEN 47:6"
+        },
+        {
+          "start_ref": "01047027",
+          "start_ref_usfm": "GEN 47:27",
+          "end_ref": "01047027",
+          "end_ref_usfm": "GEN 47:27"
+        },
+        {
+          "start_ref": "01050008",
+          "start_ref_usfm": "GEN 50:8",
+          "end_ref": "01050008",
+          "end_ref_usfm": "GEN 50:8"
+        },
+        {
+          "start_ref": "02008022",
+          "start_ref_usfm": "EXO 8:22",
+          "end_ref": "02008022",
+          "end_ref_usfm": "EXO 8:22"
+        },
+        {
+          "start_ref": "02009026",
+          "start_ref_usfm": "EXO 9:26",
+          "end_ref": "02009026",
+          "end_ref_usfm": "EXO 9:26"
+        },
+        {
+          "start_ref": "01050007",
+          "start_ref_usfm": "GEN 50:7",
+          "end_ref": "01050009",
+          "end_ref_usfm": "GEN 50:9"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "02008022",
+          "start_ref_usfm": "EXO 8:22",
+          "end_ref": "02008024",
+          "end_ref_usfm": "EXO 8:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25732,
+          "content_id": 466886,
+          "label": "Famine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 467189,
+          "label": "Nil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

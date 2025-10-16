@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466743,
+    "reference_id": 25575,
+    "title": "Carmel",
+    "media_type": "Text",
+    "index_reference": "carmel",
+    "language": "fra",
+    "content": "<h1>Carmel ,Mont Carmel</h1><h2>Définition :</h2><p>&quot;body&quot;:le &quot;&quot;Mont Carmel&quot; se réfère à une chaîne de montagnes qui se trouvait le long de la côte de la Mer Méditerranée, juste au nord de la plaine de Sharon* Son point culminant est de 546 mètres de haut.</p><ul><li><p>Il y avait aussi une ville appelée &quot;Carmel&quot; située en Juda, au Sud de la Mer Salée.</p></li><li><p>Le riche propriétaire terrien Nabal et sa femme Abigail ont vécu près de la ville de Carmel où David et ses hommes ont aidé à garder les tondeurs de moutons de Nabal.</p></li><li><p>Sur le ]Mont Carmel, Elie défia les prophètes de Baal à un concours afin de prouver que l&apos;Eternel est le seul vrai Dieu.</p></li><li><p>Pour qu&apos;il soit clair que ce ne fut pas une seule montagne, &quot;Mont Carmel&quot; pourrait être traduit comme «montagne sur la chaîne de montagnes Carmel&quot; ou &quot;chaîne de montagnes Carmel*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/baal.md), (../names/elijah.md), (../names/judah.md), (../names/saltsea.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09015012",
+          "start_ref_usfm": "1SA 15:12",
+          "end_ref": "09015012",
+          "end_ref_usfm": "1SA 15:12"
+        },
+        {
+          "start_ref": "24046018",
+          "start_ref_usfm": "JER 46:18",
+          "end_ref": "24046018",
+          "end_ref_usfm": "JER 46:18"
+        },
+        {
+          "start_ref": "11018018",
+          "start_ref_usfm": "1KI 18:18",
+          "end_ref": "11018019",
+          "end_ref_usfm": "1KI 18:19"
+        },
+        {
+          "start_ref": "33007014",
+          "start_ref_usfm": "MIC 7:14",
+          "end_ref": "33007015",
+          "end_ref_usfm": "MIC 7:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

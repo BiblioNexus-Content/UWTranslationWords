@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467319,
+    "reference_id": 26200,
+    "title": "Saül (AT)",
+    "media_type": "Text",
+    "index_reference": "saül (at)",
+    "language": "fra",
+    "content": "<h1>Saül (AT)</h1><h2>Information :</h2><p>Saül était un Israélite que Dieu avait choisi pour devenir le premier roi d&apos;Israël.</p><ul><li><p>Saul était grand, beau et un puissant soldat. Il était le genre d&apos;homme que les Israélites voulaient pour roi.</p></li><li><p>Au début, Saul a servi Dieu, mais plus tard, Saul est devenu fier et a désobéi à Dieu. Alors, Dieu a nommé David pour prendre la place de Saül en tant que roi et a permis à Saül d&apos;être tué au combat.</p></li><li><p>Dans le Nouveau Testament, il y avait un Juif nommé Saul qui était aussi connu par le nom de Paul et qui est devenu un apôtre de Jésus-Christ.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">comment traduire les noms propres</a>)</p><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">roi</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01036037",
+          "start_ref_usfm": "GEN 36:37",
+          "end_ref": "01036037",
+          "end_ref_usfm": "GEN 36:37"
+        },
+        {
+          "start_ref": "01036038",
+          "start_ref_usfm": "GEN 36:38",
+          "end_ref": "01036038",
+          "end_ref_usfm": "GEN 36:38"
+        },
+        {
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
+        },
+        {
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
+        },
+        {
+          "start_ref": "09009001",
+          "start_ref_usfm": "1SA 9:1",
+          "end_ref": "09009001",
+          "end_ref_usfm": "1SA 9:1"
+        },
+        {
+          "start_ref": "19018001",
+          "start_ref_usfm": "PSA 18:1",
+          "end_ref": "19018001",
+          "end_ref_usfm": "PSA 18:1"
+        },
+        {
+          "start_ref": "44013021",
+          "start_ref_usfm": "ACT 13:21",
+          "end_ref": "44013021",
+          "end_ref_usfm": "ACT 13:21"
+        },
+        {
+          "start_ref": "44013022",
+          "start_ref_usfm": "ACT 13:22",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "13010001",
+          "start_ref_usfm": "1CH 10:1",
+          "end_ref": "13010003",
+          "end_ref_usfm": "1CH 10:3"
+        },
+        {
+          "start_ref": "10001001",
+          "start_ref_usfm": "2SA 1:1",
+          "end_ref": "10001002",
+          "end_ref_usfm": "2SA 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

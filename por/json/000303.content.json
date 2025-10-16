@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237831,
+    "reference_id": 25698,
+    "title": "Eliseu",
+    "media_type": "Text",
+    "index_reference": "eliseu",
+    "language": "por",
+    "content": "<h1>Eliseu</h1><h2>Fatos:</h2><p>Eliseu foi um profeta em Israel durante os reinados de vários reis de Israel: Acabe, Acazias, Jorão, Jeú, Jeoacaz e Jeoás.</p><ul><li><p>Deus disse ao profeta Elias para ungir Eliseu como profeta.</p></li><li><p>Quando Elias foi levado ao céu em uma carruagem de fogo, Eliseu se tornou o profeta de Deus para os reis de Israel.</p></li><li><p>Eliseu fez muitos milagres, incluindo curar um homem da Síria que tinha lepra e ressuscitar o filho de uma mulher de Suném.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26039\" data-resourceType=\"UWTranslationWords\">Naamã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs19:15-1Kgs19:16\">1 Reis 19.15–16</a></p></li><li><p><a href=\"https://ref.ly/2Kgs3:15\">2 Reis 3.15</a></p></li><li><p><a href=\"https://ref.ly/2Kgs5:8\">2 Reis 5.8</a></p></li><li><p><a href=\"https://ref.ly/Luke4:25\">Lucas 4.25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0477</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12003015",
+          "start_ref_usfm": "2KI 3:15",
+          "end_ref": "12003015",
+          "end_ref_usfm": "2KI 3:15"
+        },
+        {
+          "start_ref": "12005008",
+          "start_ref_usfm": "2KI 5:8",
+          "end_ref": "12005008",
+          "end_ref_usfm": "2KI 5:8"
+        },
+        {
+          "start_ref": "42004025",
+          "start_ref_usfm": "LUK 4:25",
+          "end_ref": "42004025",
+          "end_ref_usfm": "LUK 4:25"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "11019015",
+          "start_ref_usfm": "1KI 19:15",
+          "end_ref": "11019016",
+          "end_ref_usfm": "1KI 19:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 238169,
+          "label": "Naamã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26338,
+    "reference_id": 25480,
+    "title": "Asaph",
+    "media_type": "Text",
+    "index_reference": "asaph",
+    "language": "eng",
+    "content": "<h1>Asaph</h1><h2>Facts:</h2><p>Asaph was a Levite priest and gifted musician who composed the music for the psalms of King David. He also wrote his own psalms.</p><ul><li><p>Asaph was appointed by King David to be one of three musicians who were responsible for providing songs for worship in the temple. Some of these songs were also prophecies.</p></li><li><p>Asaph trained his sons and they carried on this responsibility, playing musical instruments and prophesying in the temple.</p></li><li><p>Some of the musical instruments included the lute, harp, trumpet, and cymbals.</p></li><li><p>Psalms 50 and 73–83 are said to be from Asaph. It may be that some of these psalms were written by his family members.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25822\" data-resourceType=\"UWTranslationWords\">harp</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25983\" data-resourceType=\"UWTranslationWords\">lute</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26140\" data-resourceType=\"UWTranslationWords\">psalm</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26321\" data-resourceType=\"UWTranslationWords\">trumpet</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:39-1Chr6:43\">1 Chronicles 6:39–43</a></p></li><li><p><a href=\"https://ref.ly/2Chr35:15\">2 Chronicles 35:15</a></p></li><li><p><a href=\"https://ref.ly/Neh2:8\">Nehemiah 2:8</a></p></li><li><p><a href=\"https://ref.ly/Ps50:1-Ps50:2\">Psalm 50:1–2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0623</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035015",
+          "start_ref_usfm": "2CH 35:15",
+          "end_ref": "14035015",
+          "end_ref_usfm": "2CH 35:15"
+        },
+        {
+          "start_ref": "15002041",
+          "start_ref_usfm": "EZR 2:41",
+          "end_ref": "15002041",
+          "end_ref_usfm": "EZR 2:41"
+        },
+        {
+          "start_ref": "15003010",
+          "start_ref_usfm": "EZR 3:10",
+          "end_ref": "15003010",
+          "end_ref_usfm": "EZR 3:10"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16007044",
+          "start_ref_usfm": "NEH 7:44",
+          "end_ref": "16007044",
+          "end_ref_usfm": "NEH 7:44"
+        },
+        {
+          "start_ref": "16011017",
+          "start_ref_usfm": "NEH 11:17",
+          "end_ref": "16011017",
+          "end_ref_usfm": "NEH 11:17"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011022",
+          "end_ref_usfm": "NEH 11:22"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012046",
+          "start_ref_usfm": "NEH 12:46",
+          "end_ref": "16012046",
+          "end_ref_usfm": "NEH 12:46"
+        },
+        {
+          "start_ref": "19050001",
+          "start_ref_usfm": "PSA 50:1",
+          "end_ref": "19050002",
+          "end_ref_usfm": "PSA 50:2"
+        },
+        {
+          "start_ref": "13006039",
+          "start_ref_usfm": "1CH 6:39",
+          "end_ref": "13006043",
+          "end_ref_usfm": "1CH 6:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25822,
+          "content_id": 26680,
+          "label": "Harp",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25983,
+          "content_id": 26841,
+          "label": "Lute",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26140,
+          "content_id": 26998,
+          "label": "Psalm",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26321,
+          "content_id": 27179,
+          "label": "Trumpet",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

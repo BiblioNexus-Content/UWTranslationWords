@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180212,
+    "reference_id": 26153,
+    "title": "रामोत",
+    "media_type": "Text",
+    "index_reference": "रामोत",
+    "language": "hin",
+    "content": "<h1>रामोत</h1><h2>तथ्य:</h2><p>रामोत यरदन नदी के निकट गिलाद के पहाड़ों में एक महत्वपूर्ण नगर था। उसे रामोत गिलाद भी कहते थे।</p><ul><li><p>रामोत इस्राएली गोत्र गाद के क्षेत्र में था और वह शरण नगर था।</p></li><li><p>इस्राएल के राजा आहाब और यहूदा के राजा यहोशापात ने रामोत में अराम से युद्ध किया था। उस युद्ध में आहाब मारा गया था।</p></li><li><p>कुछ समय बाद राजा अहज्याह और राजा योराम ने अराम के राजा से वह नगर पुनः प्राप्त करने का प्रयास किया था।</p></li><li><p>रामोत गिलाद नगर ही में येहू को इस्राएल का राजा होने के लिए अभिषेक किया गया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">अहाब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">अहज्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">अराम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">गाद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">यहोशापात</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25893\" data-resourceType=\"UWTranslationWords\">येहू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25916\" data-resourceType=\"UWTranslationWords\">योराम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">यरदन नदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26164\" data-resourceType=\"UWTranslationWords\">शरण</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 06:71–73</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 22:3–4</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 18:1–3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 08:28–29</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H7216, H7418, H7433</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11022003",
+          "start_ref_usfm": "1KI 22:3",
+          "end_ref": "11022003",
+          "end_ref_usfm": "1KI 22:3"
+        },
+        {
+          "start_ref": "13006073",
+          "start_ref_usfm": "1CH 6:73",
+          "end_ref": "13006073",
+          "end_ref_usfm": "1CH 6:73"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018003",
+          "end_ref_usfm": "2CH 18:3"
+        },
+        {
+          "start_ref": "12008028",
+          "start_ref_usfm": "2KI 8:28",
+          "end_ref": "12008029",
+          "end_ref_usfm": "2KI 8:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 179527,
+          "label": "आहाब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25441,
+          "content_id": 179530,
+          "label": "अहज्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 179559,
+          "label": "अराम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 179837,
+          "label": "गाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 179959,
+          "label": "यहोशापात",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 179960,
+          "label": "येहू",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 179983,
+          "label": "योराम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 179984,
+          "label": "यरदन नदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 180009,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26164,
+          "content_id": 180222,
+          "label": "शरण",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

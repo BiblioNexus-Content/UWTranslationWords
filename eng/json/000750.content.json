@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 27023,
+    "reference_id": 26165,
+    "title": "Rehoboam",
+    "media_type": "Text",
+    "index_reference": "rehoboam",
+    "language": "eng",
+    "content": "<h1>Rehoboam</h1><h2>Facts:</h2><p>Rehoboam was one of the sons of King Solomon, and he became the king of the nation of Israel after Solomon died.</p><ul><li><p>At the beginning of his reign, Rehoboam was severe with his people, so ten of the tribes of Israel rebelled against him and formed the “kingdom of Israel” in the north.</p></li><li><p>Rehoboam continued as king of the southern kingdom of Judah, which consisted of the remaining two tribes, Judah and Benjamin.</p></li><li><p>Rehoboam was a wicked king who did not obey Yahweh, but worshiped false gods.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10\">1 Chronicles 3:10</a></p></li><li><p><a href=\"https://ref.ly/1Kgs11:41-1Kgs11:43\">1 Kings 11:41–43</a></p></li><li><p><a href=\"https://ref.ly/1Kgs14:21\">1 Kings 14:21</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7\">Matthew 1:7</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>18:5</strong> After Solomon died, his son, <strong>Rehoboam</strong>, became king. <strong>Rehoboam</strong> was a foolish man.</p></li><li><p><strong>18:6</strong> <strong>Rehoboam</strong> answered foolishly and told them, “You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you more harshly than he did.”</p></li><li><p><strong>18:7</strong> Ten of the tribes of the nation of Israel rebelled against <strong>Rehoboam</strong>. Only two tribes remained faithful to him.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7346, G44970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014021",
+          "start_ref_usfm": "1KI 14:21",
+          "end_ref": "11014021",
+          "end_ref_usfm": "1KI 14:21"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003010",
+          "end_ref_usfm": "1CH 3:10"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "11011041",
+          "start_ref_usfm": "1KI 11:41",
+          "end_ref": "11011043",
+          "end_ref_usfm": "1KI 11:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466873,
+    "reference_id": 25714,
+    "title": "Ennuque",
+    "media_type": "Text",
+    "index_reference": "ennuque",
+    "language": "fra",
+    "content": "<h1>ennuque</h1><h2>Définition :</h2><p>Généralement, le terme &quot;eunuque&quot; faisait référence à un homme castré chargé de fonctions administratives et militaires importantes, ainsi que de la garde des harems d&apos;un royaume ou d’un empire. En Israël le terme s&apos;appliquait&nbsp;à des officiers des rois juifs qui gardaient la chambre du roi, bien que pas castrés.</p><ul><li><p>Jésus a dit que certains eunuques étaient nés de cette façon, peut-être à cause d&apos;organes sexuels endommagés ou parce qu&apos;ils ne pouvaient pas fonctionner sexuellement. D&apos;autres ont choisi de vivre comme des eunuques dans un style de vie célibataire.</p></li><li><p>Dans les temps anciens, les eunuques étaient souvent les serviteurs de rois qui étaient placés comme gardiens dans les quartiers des femmes.</p></li><li><p>Certains eunuques étaient des représentants importants du gouvernement, comme l&apos;eunuque éthiopien qui a rencontré l&apos;apôtre Philippe dans le désert.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Philippe</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40019012",
+          "start_ref_usfm": "MAT 19:12",
+          "end_ref": "40019012",
+          "end_ref_usfm": "MAT 19:12"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "44008034",
+          "start_ref_usfm": "ACT 8:34",
+          "end_ref": "44008034",
+          "end_ref_usfm": "ACT 8:34"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008036",
+          "end_ref_usfm": "ACT 8:36"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "23039007",
+          "start_ref_usfm": "ISA 39:7",
+          "end_ref": "23039008",
+          "end_ref_usfm": "ISA 39:8"
+        },
+        {
+          "start_ref": "24034017",
+          "start_ref_usfm": "JER 34:17",
+          "end_ref": "24034019",
+          "end_ref_usfm": "JER 34:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26096,
+          "content_id": 467220,
+          "label": "Philippe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

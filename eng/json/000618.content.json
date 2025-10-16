@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26891,
+    "reference_id": 26033,
+    "title": "Mount Hermon",
+    "media_type": "Text",
+    "index_reference": "mount hermon",
+    "language": "eng",
+    "content": "<h1>Mount Hermon</h1><h2>Facts:</h2><p>Mount Hermon is the name of the tallest mountain in Israel at the southern tip of the Lebanon mountain range.</p><ul><li><p>It is located north of the Sea of Galilee, at the northern border between Israel and Syria.</p></li><li><p>Other names given to Mount Hermon by other people groups were “Mount Sirion” and “Mount Senir.”</p></li><li><p>Mount Hermon has three major peaks. The tallest peak is around 2,800 meters high.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Sea of Galilee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:23-1Chr5:24\">1 Chronicles 5:23–24</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:4-Ezek27:5\">Ezekiel 27:4–5</a></p></li><li><p><a href=\"https://ref.ly/Josh11:16-Josh11:17\">Joshua 11:16–17</a></p></li><li><p><a href=\"https://ref.ly/Ps42:6\">Psalms 42:6</a></p></li><li><p><a href=\"https://ref.ly/Song4:8\">Song of Songs 4:8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2022, H2768, H2769, H8149</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19042006",
+          "start_ref_usfm": "PSA 42:6",
+          "end_ref": "19042006",
+          "end_ref_usfm": "PSA 42:6"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "06011016",
+          "start_ref_usfm": "JOS 11:16",
+          "end_ref": "06011017",
+          "end_ref_usfm": "JOS 11:17"
+        },
+        {
+          "start_ref": "26027004",
+          "start_ref_usfm": "EZK 27:4",
+          "end_ref": "26027005",
+          "end_ref_usfm": "EZK 27:5"
+        },
+        {
+          "start_ref": "13005023",
+          "start_ref_usfm": "1CH 5:23",
+          "end_ref": "13005024",
+          "end_ref_usfm": "1CH 5:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 27065,
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

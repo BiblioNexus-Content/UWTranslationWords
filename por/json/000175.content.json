@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 237785,
+    "reference_id": 25652,
+    "title": "Cervo",
+    "media_type": "Text",
+    "index_reference": "cervo",
+    "language": "por",
+    "content": "<h1>cervo, corça, corças, filhotes, corço</h1><h2>Definição:</h2><p>Um cervo é um animal grande, gracioso, de quatro patas que vive em florestas ou montanhas. O macho tem grandes chifres ou galhadas na cabeça.</p><ul><li><p>O termo “corça” refere-se a uma cervo fêmea e “filhote” é o nome de um cervo bebê.</p></li><li><p>O termo “cervo” refere-se a um cervo macho.</p></li><li><p>Um “corço” é o macho da variedade específica chamada “corço-europeu”.</p></li><li><p>Cervos têm pernas fortes e finas que os ajudam a pular alto e correr rápido.</p></li><li><p>Seus pés têm cascos fendidos que os ajudam a caminhar ou escalar facilmente em quase qualquer terreno.</p></li></ul><p>(Veja também: Como traduzir desconhecidos)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Sam22:34\">2 Samuel 22.34</a></p></li><li><p><a href=\"https://ref.ly/Gen49:21\">Gênesis 49.21</a></p></li><li><p><a href=\"https://ref.ly/Job39:2\">Jó 39.2</a></p></li><li><p><a href=\"https://ref.ly/Ps18:33\">Salmos 18.33</a></p></li><li><p><a href=\"https://ref.ly/Song2:7\">Cânticos 2.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0354, H0355, H0365, H3180, H3280, H6643, H6646</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049021",
+          "start_ref_usfm": "GEN 49:21",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        },
+        {
+          "start_ref": "10022034",
+          "start_ref_usfm": "2SA 22:34",
+          "end_ref": "10022034",
+          "end_ref_usfm": "2SA 22:34"
+        },
+        {
+          "start_ref": "18039002",
+          "start_ref_usfm": "JOB 39:2",
+          "end_ref": "18039002",
+          "end_ref_usfm": "JOB 39:2"
+        },
+        {
+          "start_ref": "19018033",
+          "start_ref_usfm": "PSA 18:33",
+          "end_ref": "19018033",
+          "end_ref_usfm": "PSA 18:33"
+        },
+        {
+          "start_ref": "20005019",
+          "start_ref_usfm": "PRO 5:19",
+          "end_ref": "20005019",
+          "end_ref_usfm": "PRO 5:19"
+        },
+        {
+          "start_ref": "22002007",
+          "start_ref_usfm": "SNG 2:7",
+          "end_ref": "22002007",
+          "end_ref_usfm": "SNG 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

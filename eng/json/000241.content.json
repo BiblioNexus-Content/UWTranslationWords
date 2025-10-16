@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26513,
+    "reference_id": 25655,
+    "title": "Delilah",
+    "media_type": "Text",
+    "index_reference": "delilah",
+    "language": "eng",
+    "content": "<h1>Delilah</h1><h2>Facts:</h2><p>Delilah was a Philistine woman who was loved by Samson, but was not his wife.</p><ul><li><p>Delilah loved money more than she loved Samson.</p></li><li><p>The Philistines bribed Delilah to trick Samson into telling her how he could be made weak. When his strength was gone, the Philistines captured him.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25556\" data-resourceType=\"UWTranslationWords\">bribe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Philistines</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26193\" data-resourceType=\"UWTranslationWords\">Samson</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Judg16:4-Judg16:5\">Judges 16:4–5</a></p></li><li><p><a href=\"https://ref.ly/Judg16:6-Judg16:7\">Judges 16:6–7</a></p></li><li><p><a href=\"https://ref.ly/Judg16:10\">Judges 16:10</a></p></li><li><p><a href=\"https://ref.ly/Judg16:18\">Judges 16:18</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1807</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07016010",
+          "start_ref_usfm": "JDG 16:10",
+          "end_ref": "07016010",
+          "end_ref_usfm": "JDG 16:10"
+        },
+        {
+          "start_ref": "07016018",
+          "start_ref_usfm": "JDG 16:18",
+          "end_ref": "07016018",
+          "end_ref_usfm": "JDG 16:18"
+        },
+        {
+          "start_ref": "07016004",
+          "start_ref_usfm": "JDG 16:4",
+          "end_ref": "07016005",
+          "end_ref_usfm": "JDG 16:5"
+        },
+        {
+          "start_ref": "07016006",
+          "start_ref_usfm": "JDG 16:6",
+          "end_ref": "07016007",
+          "end_ref_usfm": "JDG 16:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25556,
+          "content_id": 26414,
+          "label": "Bribe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 26958,
+          "label": "Philistines",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 27051,
+          "label": "Samson",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

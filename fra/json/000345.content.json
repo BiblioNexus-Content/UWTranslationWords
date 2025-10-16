@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466929,
+    "reference_id": 25780,
+    "title": "Gédéon",
+    "media_type": "Text",
+    "index_reference": "gédéon",
+    "language": "fra",
+    "content": "<h1>Gédéon</h1><h2>Données :</h2><p>Gédéon était un Israélite que Dieu a appelé pour délivrer Israël de ses ennemis.</p><ul><li><p>Pendant la période où Gédéon vivait, un peuple appelé les Madianites attaquait les Israélites et détruisait leurs récoltes continuellement.</p></li><li><p>Gédéon avait peur des Madianites, mais Dieu l&apos;a utilisé pour impulser les Israélites à lutter contre les Madianites et à les vaincre.</p></li><li><p>Gédéon a aussi obéi à Dieu quand il a abattu les autels dédiés aux faux dieux Baal et Asherah.</p></li><li><p>Il a non seulement conduit le peuple à vaincre ses ennemis, mais les a aussi encouragés à obéir et à adorer Yahvé, le seul vrai Dieu.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/baal.md), (../names/asherim.md), (../other/deliverer.md), (../names/midian.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006011",
+          "end_ref_usfm": "JDG 6:11"
+        },
+        {
+          "start_ref": "07006023",
+          "start_ref_usfm": "JDG 6:23",
+          "end_ref": "07006023",
+          "end_ref_usfm": "JDG 6:23"
+        },
+        {
+          "start_ref": "07008017",
+          "start_ref_usfm": "JDG 8:17",
+          "end_ref": "07008017",
+          "end_ref_usfm": "JDG 8:17"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25483,
+          "content_id": 466662,
+          "label": "Astarté",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25657,
+          "content_id": 466819,
+          "label": "Livrer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 467155,
+          "label": "Madian",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

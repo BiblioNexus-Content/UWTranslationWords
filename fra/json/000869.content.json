@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467435,
+    "reference_id": 26323,
+    "title": "Tubal",
+    "media_type": "Text",
+    "index_reference": "tubal",
+    "language": "fra",
+    "content": "<h1>Tubal</h1><h2>Définition :</h2><p>Tubal était un fils du fils de Noé, Japhet.</p><ul><li><p>Tubal est aussi le nom d&apos;un groupe de personnes mentionné par Isaïe et Ezéchiel.</p></li><li><p>Cet homme était différent de Tubal-Caïn, qui était le fils de Lémec.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cain.md), (../other/descendant.md), (../names/ezekiel.md), (../names/isaiah.md), (../names/japheth.md), (../names/lamech.md), (../other/peoplegroup.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004022",
+          "start_ref_usfm": "GEN 4:22",
+          "end_ref": "01004022",
+          "end_ref_usfm": "GEN 4:22"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "13001005",
+          "start_ref_usfm": "1CH 1:5",
+          "end_ref": "13001005",
+          "end_ref_usfm": "1CH 1:5"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "26027012",
+          "start_ref_usfm": "EZK 27:12",
+          "end_ref": "26027013",
+          "end_ref_usfm": "EZK 27:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 466736,
+          "label": "Caïn",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 467022,
+          "label": "Esaîe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25885,
+          "content_id": 467030,
+          "label": "Japhet",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25952,
+          "content_id": 467093,
+          "label": "Lamech",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25723,
+          "content_id": 559325,
+          "label": "Ézéchiel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26083,
+          "content_id": 467210,
+          "label": "Groupe de personnes",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

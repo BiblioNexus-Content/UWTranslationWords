@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 27135,
+    "reference_id": 26277,
+    "title": "Syria",
+    "media_type": "Text",
+    "index_reference": "syria",
+    "language": "eng",
+    "content": "<h1>Syria, Ashur</h1><h2>Facts:</h2><p>Syria is a country located northeast of Israel. During the time of the New Testament, it was a province under the rule of the Roman Empire.</p><ul><li><p>In the Old Testament time period, the Syrians were strong military enemies of the Israelites.</p></li><li><p>Naaman was a commander of the Syrian army who was cured of leprosy by the prophet Elisha.</p></li><li><p>Many inhabitants of Syria are descendants of Aram, who was descended from Noah’s son Shem.</p></li><li><p>Damascus, the capital city of Syria, was mentioned many times in the Bible.</p></li><li><p>Saul went to the city of Damascus with plans to persecute Christians there, but Jesus stopped him.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Aram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25599\" data-resourceType=\"UWTranslationWords\">commander</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25640\" data-resourceType=\"UWTranslationWords\">Damascus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">Elisha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25965\" data-resourceType=\"UWTranslationWords\">leprosy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26039\" data-resourceType=\"UWTranslationWords\">Naaman</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26089\" data-resourceType=\"UWTranslationWords\">persecute</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts15:23\">Acts 15:23</a></p></li><li><p><a href=\"https://ref.ly/Acts15:41\">Acts 15:41</a></p></li><li><p><a href=\"https://ref.ly/Acts20:3\">Acts 20:3</a></p></li><li><p><a href=\"https://ref.ly/Gal1:21-Gal1:24\">Galatians 1:21–24</a></p></li><li><p><a href=\"https://ref.ly/Matt4:23-Matt4:25\">Matthew 4:23–25</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0758, H0804, G49470, G49480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004024",
+          "start_ref_usfm": "MAT 4:24",
+          "end_ref": "40004024",
+          "end_ref_usfm": "MAT 4:24"
+        },
+        {
+          "start_ref": "42002002",
+          "start_ref_usfm": "LUK 2:2",
+          "end_ref": "42002002",
+          "end_ref_usfm": "LUK 2:2"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "44015023",
+          "start_ref_usfm": "ACT 15:23",
+          "end_ref": "44015023",
+          "end_ref_usfm": "ACT 15:23"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44020003",
+          "start_ref_usfm": "ACT 20:3",
+          "end_ref": "44020003",
+          "end_ref_usfm": "ACT 20:3"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "40004023",
+          "start_ref_usfm": "MAT 4:23",
+          "end_ref": "40004025",
+          "end_ref_usfm": "MAT 4:25"
+        },
+        {
+          "start_ref": "48001021",
+          "start_ref_usfm": "GAL 1:21",
+          "end_ref": "48001024",
+          "end_ref_usfm": "GAL 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 26329,
+          "label": "Aram",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25599,
+          "content_id": 26457,
+          "label": "Commander",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25640,
+          "content_id": 26498,
+          "label": "Damascus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 26556,
+          "label": "Elisha",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25965,
+          "content_id": 26823,
+          "label": "Leprosy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 26897,
+          "label": "Naaman",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 26947,
+          "label": "Persecute",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

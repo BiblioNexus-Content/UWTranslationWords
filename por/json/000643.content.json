@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237975,
+    "reference_id": 25842,
+    "title": "O Santo",
+    "media_type": "Text",
+    "index_reference": "o santo",
+    "language": "por",
+    "content": "<h1>o Santo</h1><h2>Definição:</h2><p>O termo “o Santo” é um título na Bíblia que quase sempre se refere a Deus.</p><ul><li><p>No Antigo Testamento, este título frequentemente aparece na frase “o Santo de Israel”.</p></li><li><p>No Novo Testamento, Jesus também é referido como &quot;o Santo”.</p></li><li><p>O termo “santo” às vezes é usado na Bíblia para se referir a um anjo.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo literal é “o Santo”. Muitas línguas (como o português) traduzirão isso com o substantivo implícito incluído, expressando &quot;aquele que é Santo&quot; ou &quot;aquele que é o Santo&quot;.</p></li><li><p>Este termo também poderia ser traduzido como “Deus, que é santo” ou “o Separado”.</p></li><li><p>A frase “o Santo de Israel” poderia ser traduzida como “o Deus Santo que Israel adora” ou “o Santo que governa Israel”.</p></li><li><p>É melhor traduzir este termo usando a mesma palavra ou frase que é usada para traduzir “santo”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">Deus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1John2:20\">1 João 2.20</a></p></li><li><p><a href=\"https://ref.ly/2Kgs19:22\">2 Reis 19.22</a></p></li><li><p><a href=\"https://ref.ly/Acts2:27\">Atos 2.27</a></p></li><li><p><a href=\"https://ref.ly/Acts3:13-Acts3:14\">Atos 3.13–14</a></p></li><li><p><a href=\"https://ref.ly/Isa5:15-Isa5:17\">Isaías 5.15–17</a></p></li><li><p><a href=\"https://ref.ly/Isa41:14\">Isaías 41.14</a></p></li><li><p><a href=\"https://ref.ly/Luke4:33-Luke4:34\">Lucas 4.33–34</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2623, H0376, H6918, G00400, G37410</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12019022",
+          "start_ref_usfm": "2KI 19:22",
+          "end_ref": "12019022",
+          "end_ref_usfm": "2KI 19:22"
+        },
+        {
+          "start_ref": "20009010",
+          "start_ref_usfm": "PRO 9:10",
+          "end_ref": "20009010",
+          "end_ref_usfm": "PRO 9:10"
+        },
+        {
+          "start_ref": "20030003",
+          "start_ref_usfm": "PRO 30:3",
+          "end_ref": "20030003",
+          "end_ref_usfm": "PRO 30:3"
+        },
+        {
+          "start_ref": "23041014",
+          "start_ref_usfm": "ISA 41:14",
+          "end_ref": "23041014",
+          "end_ref_usfm": "ISA 41:14"
+        },
+        {
+          "start_ref": "44002027",
+          "start_ref_usfm": "ACT 2:27",
+          "end_ref": "44002027",
+          "end_ref_usfm": "ACT 2:27"
+        },
+        {
+          "start_ref": "44013035",
+          "start_ref_usfm": "ACT 13:35",
+          "end_ref": "44013035",
+          "end_ref_usfm": "ACT 13:35"
+        },
+        {
+          "start_ref": "62002020",
+          "start_ref_usfm": "1JN 2:20",
+          "end_ref": "62002020",
+          "end_ref_usfm": "1JN 2:20"
+        },
+        {
+          "start_ref": "66016005",
+          "start_ref_usfm": "REV 16:5",
+          "end_ref": "66016005",
+          "end_ref_usfm": "REV 16:5"
+        },
+        {
+          "start_ref": "44003013",
+          "start_ref_usfm": "ACT 3:13",
+          "end_ref": "44003014",
+          "end_ref_usfm": "ACT 3:14"
+        },
+        {
+          "start_ref": "23005015",
+          "start_ref_usfm": "ISA 5:15",
+          "end_ref": "23005017",
+          "end_ref_usfm": "ISA 5:17"
+        },
+        {
+          "start_ref": "42004033",
+          "start_ref_usfm": "LUK 4:33",
+          "end_ref": "42004034",
+          "end_ref_usfm": "LUK 4:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 237921,
+          "label": "Deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 237973,
+          "label": "Santo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

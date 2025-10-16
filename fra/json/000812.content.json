@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467373,
+    "reference_id": 26258,
+    "title": "Splendeur",
+    "media_type": "Text",
+    "index_reference": "splendeur",
+    "language": "fra",
+    "content": "<h1>splendeur</h1><h2>Définition :</h2><p>Le terme «splendeur» fait référence à une extrême beauté et élégance* Splendeur est souvent associée à la richesse et à une apparence magnifique.</p><ul><li><p>le mot splendeur est aussi utilisé pour décrire la richesse d&apos;un roi ou comment ce dernier se presente dans toute sa belle parure de grand.</p></li><li><p>Splendeur peut également être utilisé pour décrire la beauté des arbres, des montagnes, et beaucoup d&apos;autres choses que Dieu a créés.</p></li><li><p>Certaines villes sont dites villes de splendeur, en référence à leurs ressources naturelles, leurs bâtiments complexes leurs routes, et la richesse des Hommes, les vêtements de grands prix, or et argent.</p></li><li><p>Selon le contexte, ce mot peut être traduit par «beauté magnifique» ou «majesté étonnante» ou «la grandeur royale*&quot;</p></li></ul><p>(Voir aussi : (../kt/glory.md), (../other/king.md), (../kt/majesty.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028002",
+          "start_ref_usfm": "EXO 28:2",
+          "end_ref": "02028002",
+          "end_ref_usfm": "EXO 28:2"
+        },
+        {
+          "start_ref": "02028040",
+          "start_ref_usfm": "EXO 28:40",
+          "end_ref": "02028040",
+          "end_ref_usfm": "EXO 28:40"
+        },
+        {
+          "start_ref": "13016027",
+          "start_ref_usfm": "1CH 16:27",
+          "end_ref": "13016027",
+          "end_ref_usfm": "1CH 16:27"
+        },
+        {
+          "start_ref": "18028010",
+          "start_ref_usfm": "JOB 28:10",
+          "end_ref": "18028010",
+          "end_ref_usfm": "JOB 28:10"
+        },
+        {
+          "start_ref": "20004009",
+          "start_ref_usfm": "PRO 4:9",
+          "end_ref": "20004009",
+          "end_ref_usfm": "PRO 4:9"
+        },
+        {
+          "start_ref": "20005009",
+          "start_ref_usfm": "PRO 5:9",
+          "end_ref": "20005009",
+          "end_ref_usfm": "PRO 5:9"
+        },
+        {
+          "start_ref": "20014028",
+          "start_ref_usfm": "PRO 14:28",
+          "end_ref": "20014028",
+          "end_ref_usfm": "PRO 14:28"
+        },
+        {
+          "start_ref": "20016031",
+          "start_ref_usfm": "PRO 16:31",
+          "end_ref": "20016031",
+          "end_ref_usfm": "PRO 16:31"
+        },
+        {
+          "start_ref": "20017006",
+          "start_ref_usfm": "PRO 17:6",
+          "end_ref": "20017006",
+          "end_ref_usfm": "PRO 17:6"
+        },
+        {
+          "start_ref": "20019011",
+          "start_ref_usfm": "PRO 19:11",
+          "end_ref": "20019011",
+          "end_ref_usfm": "PRO 19:11"
+        },
+        {
+          "start_ref": "20020029",
+          "start_ref_usfm": "PRO 20:29",
+          "end_ref": "20020029",
+          "end_ref_usfm": "PRO 20:29"
+        },
+        {
+          "start_ref": "20028012",
+          "start_ref_usfm": "PRO 28:12",
+          "end_ref": "20028012",
+          "end_ref_usfm": "PRO 28:12"
+        },
+        {
+          "start_ref": "20031025",
+          "start_ref_usfm": "PRO 31:25",
+          "end_ref": "20031025",
+          "end_ref_usfm": "PRO 31:25"
+        },
+        {
+          "start_ref": "26028007",
+          "start_ref_usfm": "EZK 28:7",
+          "end_ref": "26028007",
+          "end_ref_usfm": "EZK 28:7"
+        },
+        {
+          "start_ref": "42004007",
+          "start_ref_usfm": "LUK 4:7",
+          "end_ref": "42004007",
+          "end_ref_usfm": "LUK 4:7"
+        },
+        {
+          "start_ref": "02028001",
+          "start_ref_usfm": "EXO 28:1",
+          "end_ref": "02028003",
+          "end_ref_usfm": "EXO 28:3"
+        },
+        {
+          "start_ref": "19089044",
+          "start_ref_usfm": "PSA 89:44",
+          "end_ref": "19089045",
+          "end_ref_usfm": "PSA 89:45"
+        },
+        {
+          "start_ref": "66021026",
+          "start_ref_usfm": "REV 21:26",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25786,
+          "content_id": 466935,
+          "label": "Gloire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25989,
+          "content_id": 467128,
+          "label": "Majesté",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

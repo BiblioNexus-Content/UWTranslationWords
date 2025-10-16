@@ -1,0 +1,167 @@
+[
+  {
+    "content_id": 467065,
+    "reference_id": 25920,
+    "title": "Josué",
+    "media_type": "Text",
+    "index_reference": "josué",
+    "language": "fra",
+    "content": "<h1>Josué</h1><h2>Données :</h2><p>Il y a plusieurs israélites nommés Josué dans la Bible. Le plus connu est Josué, fils de Nun, qui était l’assistant de Moïse et qui est devenu plus tard un chef important du peuple de Dieu.</p><ul><li><p>Josué était l&apos;un des douze espions que Moïse a envoyés pour explorer la Terre Promise.</p></li><li><p>Avec Caleb, Josué a montré son courage et sa confiance en Dieu quand il a encouragé les Israélites à obéir au commandement de Dieu d&apos;entrer dans la Terre Promise et de battre les Cananéens.</p></li><li><p>Plusieurs années plus tard, après la mort de Moïse, Dieu a choisi Josué pour conduire le peuple d&apos;Israël dans la Terre Promise.</p></li><li><p>Dans la première et la plus célèbre bataille contre les Cananéens, Josué a conduit les Israélites à la défaite de la ville de Jéricho.</p></li><li><p>Le livre de Josué, dans l&apos;Ancien Testament, raconte comment Josué a conduit les Israélites à la conquête de la Terre promise et comment il a transféré à chaque tribu d&apos;Israël une partie de la Terre Promise.</p></li><li><p>Un autre homme nommé Josué est mentionné dans les livres d&apos;Aggée et de Zacharie. Ce Josué était un grand prêtre qui a aidé à reconstruire les murs de Jérusalem. Il était le fils de Jotsadak.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../names/haggai.md), (../names/jericho.md), (../names/moses.md), (../kt/promisedland.md), (../names/zechariahot.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02017009",
+          "start_ref_usfm": "EXO 17:9",
+          "end_ref": "02017009",
+          "end_ref_usfm": "EXO 17:9"
+        },
+        {
+          "start_ref": "02017010",
+          "start_ref_usfm": "EXO 17:10",
+          "end_ref": "02017010",
+          "end_ref_usfm": "EXO 17:10"
+        },
+        {
+          "start_ref": "02017013",
+          "start_ref_usfm": "EXO 17:13",
+          "end_ref": "02017013",
+          "end_ref_usfm": "EXO 17:13"
+        },
+        {
+          "start_ref": "02017014",
+          "start_ref_usfm": "EXO 17:14",
+          "end_ref": "02017014",
+          "end_ref_usfm": "EXO 17:14"
+        },
+        {
+          "start_ref": "02024013",
+          "start_ref_usfm": "EXO 24:13",
+          "end_ref": "02024013",
+          "end_ref_usfm": "EXO 24:13"
+        },
+        {
+          "start_ref": "02032017",
+          "start_ref_usfm": "EXO 32:17",
+          "end_ref": "02032017",
+          "end_ref_usfm": "EXO 32:17"
+        },
+        {
+          "start_ref": "02033011",
+          "start_ref_usfm": "EXO 33:11",
+          "end_ref": "02033011",
+          "end_ref_usfm": "EXO 33:11"
+        },
+        {
+          "start_ref": "04027019",
+          "start_ref_usfm": "NUM 27:19",
+          "end_ref": "04027019",
+          "end_ref_usfm": "NUM 27:19"
+        },
+        {
+          "start_ref": "05003021",
+          "start_ref_usfm": "DEU 3:21",
+          "end_ref": "05003021",
+          "end_ref_usfm": "DEU 3:21"
+        },
+        {
+          "start_ref": "06001003",
+          "start_ref_usfm": "JOS 1:3",
+          "end_ref": "06001003",
+          "end_ref_usfm": "JOS 1:3"
+        },
+        {
+          "start_ref": "16008017",
+          "start_ref_usfm": "NEH 8:17",
+          "end_ref": "16008017",
+          "end_ref_usfm": "NEH 8:17"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001014",
+          "start_ref_usfm": "HAG 1:14",
+          "end_ref": "37001014",
+          "end_ref_usfm": "HAG 1:14"
+        },
+        {
+          "start_ref": "37002002",
+          "start_ref_usfm": "HAG 2:2",
+          "end_ref": "37002002",
+          "end_ref_usfm": "HAG 2:2"
+        },
+        {
+          "start_ref": "37002004",
+          "start_ref_usfm": "HAG 2:4",
+          "end_ref": "37002004",
+          "end_ref_usfm": "HAG 2:4"
+        },
+        {
+          "start_ref": "44007045",
+          "start_ref_usfm": "ACT 7:45",
+          "end_ref": "44007045",
+          "end_ref_usfm": "ACT 7:45"
+        },
+        {
+          "start_ref": "58004008",
+          "start_ref_usfm": "HEB 4:8",
+          "end_ref": "58004008",
+          "end_ref_usfm": "HEB 4:8"
+        },
+        {
+          "start_ref": "13007025",
+          "start_ref_usfm": "1CH 7:25",
+          "end_ref": "13007027",
+          "end_ref_usfm": "1CH 7:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25811,
+          "content_id": 466960,
+          "label": "Aggée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26128,
+          "content_id": 467250,
+          "label": "Terre promise",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 467475,
+          "label": "Zacharie (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

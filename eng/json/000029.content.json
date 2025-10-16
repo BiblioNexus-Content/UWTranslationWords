@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26302,
+    "reference_id": 25444,
+    "title": "Alarm",
+    "media_type": "Text",
+    "index_reference": "alarm",
+    "language": "eng",
+    "content": "<h1>alarm, alarmed</h1><h2>Facts:</h2><p>An alarm is something that warns people about something that could harm them. To “be alarmed” is to be very worried and frightened about something dangerous or threatening.</p><ul><li><p>King Jehoshapat was alarmed when he heard that the Moabites were planning to attack the kingdom of Judah.</p></li><li><p>Jesus told his disciples not to be alarmed when they hear about disasters happening in the last days.</p></li><li><p>The expression “sound an alarm” means to give a warning. In ancient times, a person could sound an alarm by making a noise.</p></li></ul><h2>Translation Suggestions</h2><ul><li><p>To “alarm someone” means to “cause someone to worry” or to “worry someone.”</p></li><li><p>To “be alarmed” could be translated as “be worried” or “be frightened” or “be very concerned.”</p></li><li><p>The expression “sound an alarm” could be translated by “publicly warn” or “announce that danger is coming” or “blow a trumpet to warn about danger.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Jehoshaphat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moab</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Dan11:44-Dan11:45\">Daniel 11:44–45</a></p></li><li><p><a href=\"https://ref.ly/Jer4:19-Jer4:20\">Jeremiah 4:19–20</a></p></li><li><p><a href=\"https://ref.ly/Num10:9\">Numbers 10:9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7321, H8643</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04010009",
+          "start_ref_usfm": "NUM 10:9",
+          "end_ref": "04010009",
+          "end_ref_usfm": "NUM 10:9"
+        },
+        {
+          "start_ref": "18038007",
+          "start_ref_usfm": "JOB 38:7",
+          "end_ref": "18038007",
+          "end_ref_usfm": "JOB 38:7"
+        },
+        {
+          "start_ref": "27011044",
+          "start_ref_usfm": "DAN 11:44",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "24004019",
+          "start_ref_usfm": "JER 4:19",
+          "end_ref": "24004020",
+          "end_ref_usfm": "JER 4:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25892,
+          "content_id": 26750,
+          "label": "Jehoshaphat",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 26884,
+          "label": "Moab",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

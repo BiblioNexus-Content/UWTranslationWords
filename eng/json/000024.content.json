@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26297,
+    "reference_id": 25439,
+    "title": "Ahasuerus",
+    "media_type": "Text",
+    "index_reference": "ahasuerus",
+    "language": "eng",
+    "content": "<h1>Ahasuerus</h1><h2>Facts:</h2><p>Ahasuerus was a king who ruled over the ancient kingdom of Persia for twenty years.</p><ul><li><p>This was during the time the exiled Jews were living in Babylonia, which had come under Persian rule.</p></li><li><p>Another name for this king may have been Xerxes.</p></li><li><p>After sending away his queen in a fit of anger, King Ahasuerus later chose a Jewish woman named Esther to be his new wife and queen.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Esther</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Ethiopia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Persia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Dan9:1\">Daniel 9:1</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Esther 10:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra4:7-Ezra4:8\">Ezra 4:7–8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0325</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "27009001",
+          "start_ref_usfm": "DAN 9:1",
+          "end_ref": "27009001",
+          "end_ref_usfm": "DAN 9:1"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        },
+        {
+          "start_ref": "15004007",
+          "start_ref_usfm": "EZR 4:7",
+          "end_ref": "15004008",
+          "end_ref_usfm": "EZR 4:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 26569,
+          "label": "Esther",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 26571,
+          "label": "Ethiopia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 26579,
+          "label": "Exile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 26949,
+          "label": "Persia",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

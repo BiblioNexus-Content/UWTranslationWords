@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 237965,
+    "reference_id": 25832,
+    "title": "Herodes, o Grande",
+    "media_type": "Text",
+    "index_reference": "herodes, o grande",
+    "language": "por",
+    "content": "<h1>Herodes, Herodes o Grande</h1><h2>Fatos:</h2><p>Herodes o Grande estava governando a Judeia na época em que Jesus nasceu. Ele foi o primeiro de vários governantes edomitas chamados Herodes que governaram partes do Império Romano.</p><ul><li><p>Seus ancestrais se converteram ao judaísmo e ele foi criado como judeu.</p></li><li><p>César Augusto o nomeou “Rei Herodes” embora ele não fosse um verdadeiro rei. Ele governou os judeus na Judeia por 33 anos.</p></li><li><p>Herodes o Grande era conhecido pelos belos edifícios que mandou construir e pela reconstrução do templo judaico em Jerusalém.</p></li><li><p>Este Herodes era muito cruel e mandou matar muitas pessoas. Quando ouviu que um “rei dos judeus” havia nascido em Belém, mandou matar todos os bebês meninos daquela cidade.</p></li><li><p>Seus filhos Herodes Antipas e Herodes Filipe e seu neto Herodes Agripa também se tornaram governantes romanos. Seu bisneto Herodes Agripa II (chamado “Rei Agripa”) governou toda a área da Judeia.</p></li></ul><p>(Veja como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herodes Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judeia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">rei</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Matt2:3\">Mateus 2.3</a></p></li><li><p><a href=\"https://ref.ly/Matt2:12\">Mateus 2.12</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Mateus 2.16</a></p></li><li><p><a href=\"https://ref.ly/Matt2:20\">Mateus 2.20</a></p></li><li><p><a href=\"https://ref.ly/Matt2:22\">Mateus 2.22</a></p></li></ul><h2>Dados de Palavras:</h2><ul><li><p>Strong’s: G22640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002003",
+          "start_ref_usfm": "MAT 2:3",
+          "end_ref": "40002003",
+          "end_ref_usfm": "MAT 2:3"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002012",
+          "start_ref_usfm": "MAT 2:12",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002013",
+          "end_ref_usfm": "MAT 2:13"
+        },
+        {
+          "start_ref": "40002015",
+          "start_ref_usfm": "MAT 2:15",
+          "end_ref": "40002015",
+          "end_ref_usfm": "MAT 2:15"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        },
+        {
+          "start_ref": "40002019",
+          "start_ref_usfm": "MAT 2:19",
+          "end_ref": "40002019",
+          "end_ref_usfm": "MAT 2:19"
+        },
+        {
+          "start_ref": "40002020",
+          "start_ref_usfm": "MAT 2:20",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        },
+        {
+          "start_ref": "40002022",
+          "start_ref_usfm": "MAT 2:22",
+          "end_ref": "40002022",
+          "end_ref_usfm": "MAT 2:22"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 237963,
+          "label": "Herodes Antipas",
+          "language": "por"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 238061,
+          "label": "Judeia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 238070,
+          "label": "Rei",
+          "language": "por"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 238413,
+          "label": "Templo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

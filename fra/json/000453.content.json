@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467036,
+    "reference_id": 25891,
+    "title": "Joram",
+    "media_type": "Text",
+    "index_reference": "joram",
+    "language": "fra",
+    "content": "<h1>Joram</h1><h2>Définition :</h2><p>&quot;Joram était le nom de deux rois différents dans l&apos;Ancien Testament.</p><ul><li><p>L&apos;un était le fils de Josaphat et devint roi de Juda.</p></li><li><p>L&apos;autre Joram était le fils d&apos;Achab et fut roi sur Israël* Ce roi était aussi connu comme &quot;Joram*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ahab.md), (../names/jehoshaphat.md), (../names/joram.md), (../names/judah.md), (../names/kingdomofisrael.md), (../names/obadiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12012018",
+          "start_ref_usfm": "2KI 12:18",
+          "end_ref": "12012018",
+          "end_ref_usfm": "2KI 12:18"
+        },
+        {
+          "start_ref": "14021003",
+          "start_ref_usfm": "2CH 21:3",
+          "end_ref": "14021003",
+          "end_ref_usfm": "2CH 21:3"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "12011001",
+          "start_ref_usfm": "2KI 11:1",
+          "end_ref": "12011003",
+          "end_ref_usfm": "2KI 11:3"
+        },
+        {
+          "start_ref": "11022048",
+          "start_ref_usfm": "1KI 22:48",
+          "end_ref": "11022050",
+          "end_ref_usfm": "1KI 22:50"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 467061,
+          "label": "Joram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 467195,
+          "label": "Abdias",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

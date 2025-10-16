@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 467070,
+    "reference_id": 25925,
+    "title": "Le judaïsme",
+    "media_type": "Text",
+    "index_reference": "le judaïsme",
+    "language": "fra",
+    "content": "<h1>Le judaïsme, la religion juive</h1><h2>Définition :</h2><p>&quot;Le terme «judaïsme» a été utilisé à partir du Nouveau Testament jusqu&apos;à nos jours pour se référer à la religion pratiquée par les Juifs, ce qui est, la «religion juive».</p><ul><li><p>Pendant le temps de l&apos;Ancien Testament, le terme «judaïsme» n&apos;était pas encore utilisé* Au contraire, à cette époque, la religion des Juifs (ou Israélites) a été désignée comme la «religion juive».</p></li><li><p>La religion juive (le judaïsme) comprend toutes les lois et les instructions que Dieu a données aux Israélites d&apos;obéir à l&apos;Ancien Testament* Il comprend également les coutumes et traditions qui ont été ajoutées à la religion juive au fil du temps.</p></li><li><p>Lors de la traduction, le terme «religion juive» ou «religion des Juifs&quot; peut être utilisé à la fois dans l&apos;Ancien et le Nouveau Testament* Le terme «judaïsme» ne doit pas être utilisé dans le Nouveau Testament puisque ce terme n&apos;existait pas auparavant.</p></li></ul><p>(Voir aussi : (../kt/jew.md), (../kt/lawofmoses.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "48001013",
+          "start_ref_usfm": "GAL 1:13",
+          "end_ref": "48001014",
+          "end_ref_usfm": "GAL 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25902,
+          "content_id": 467047,
+          "label": "Juif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25959,
+          "content_id": 467099,
+          "label": "Loi",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466778,
+    "reference_id": 25611,
+    "title": "Mepriser",
+    "media_type": "Text",
+    "index_reference": "mepriser",
+    "language": "fra",
+    "content": "<h1>mepriser ,meprisable</h1><h2>Définition :</h2><p>Le terme «mépris» se réfère à un manque de respect profond et un déshonneur à l&apos;égard de quelque chose ou de quelqu&apos;un* Quelque chose qui est très déshonorante est appelée «méprisable».</p><ul><li><p>Une personne ou un comportement qui montre un manque de respect ouvert à Dieu est aussi appelé &quot;méprisable&quot; et pourrait être traduit par «grandement irrespectueux» ou «tout à fait déshonorant» ou «digne de mépris*&quot;</p></li><li><p>Le mot outrage» signifie considérer quelqu&apos;un comme ayant moins de valeur ou juger quelqu&apos;un comme moins digne que soi-même.</p></li><li><p>Les expressions suivantes ont une signification similaire: «mépriser» ou «montrer du mépris pour&quot; ou &quot;outrage à&quot; ou &quot;traiter avec mépris*&quot; Tous ces termes signifient &quot;manque de respect» ou «fortement déshonorer» quelque chose ou quelqu&apos;un par ce qui est dit ou fait.</p></li><li><p>Lorsque le roi David a péché en commettant l&apos;adultère et en assassinant, Dieu a dit que David l&apos;avait &quot; méprisé &quot;* Cela signifie qu&apos;il avait grandement manqué de respect et déshonoré Dieu en faisant cela.</p></li></ul><p>(Voir aussi : (../other/dishonor.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012003",
+          "start_ref_usfm": "GEN 12:3",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01025034",
+          "start_ref_usfm": "GEN 25:34",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        },
+        {
+          "start_ref": "01038023",
+          "start_ref_usfm": "GEN 38:23",
+          "end_ref": "01038023",
+          "end_ref_usfm": "GEN 38:23"
+        },
+        {
+          "start_ref": "02021017",
+          "start_ref_usfm": "EXO 21:17",
+          "end_ref": "02021017",
+          "end_ref_usfm": "EXO 21:17"
+        },
+        {
+          "start_ref": "02022028",
+          "start_ref_usfm": "EXO 22:28",
+          "end_ref": "02022028",
+          "end_ref_usfm": "EXO 22:28"
+        },
+        {
+          "start_ref": "19031018",
+          "start_ref_usfm": "PSA 31:18",
+          "end_ref": "19031018",
+          "end_ref_usfm": "PSA 31:18"
+        },
+        {
+          "start_ref": "20012008",
+          "start_ref_usfm": "PRO 12:8",
+          "end_ref": "20012008",
+          "end_ref_usfm": "PRO 12:8"
+        },
+        {
+          "start_ref": "20018003",
+          "start_ref_usfm": "PRO 18:3",
+          "end_ref": "20018003",
+          "end_ref_usfm": "PRO 18:3"
+        },
+        {
+          "start_ref": "27012001",
+          "start_ref_usfm": "DAN 12:1",
+          "end_ref": "27012002",
+          "end_ref_usfm": "DAN 12:2"
+        },
+        {
+          "start_ref": "20015005",
+          "start_ref_usfm": "PRO 15:5",
+          "end_ref": "20015006",
+          "end_ref_usfm": "PRO 15:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25672,
+          "content_id": 466832,
+          "label": "Deshonneur ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

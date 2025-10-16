@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 180209,
+    "reference_id": 26150,
+    "title": "क्रोध",
+    "media_type": "Text",
+    "index_reference": "क्रोध",
+    "language": "hin",
+    "content": "<h1>क्रोध, क्रोधित, भड़का, क्रोध भड़काता +</h1><h2>तथ्य:</h2><p>“क्रोध” अर्थात नियंत्रण से परे प्रकोप करना। यह शब्द किसी कुपित मनुष्य का सन्दर्भ देता है जो किसी प्रकार नियंत्रण से परे है।</p><ul><li><p>क्रिया रूप में इस शब्द, &quot;क्रोध&quot; का उपयोग प्रबल भावना का अभिप्राय रखता है जैसे &quot;प्रचंड&quot; वायु या &quot;उफनती&quot; हुई समुद्र की लहरें।</p></li><li><p>क्रोध से भर जाना&quot; का अर्थ होता है, भयानक क्रोध की भावना से अभिभूत हो जाना।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_angry\" data-resourceType=\"UWTranslationWords\">क्रोध</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26213\" data-resourceType=\"UWTranslationWords\">संयम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:25\">प्रे.का. 04:25</a></p></li><li><p><a href=\"https://ref.ly/Dan3:13\">दानिय्येल 03:13</a></p></li><li><p><a href=\"https://ref.ly/Luke4:28\">लूका 04:28</a></p></li><li><p><a href=\"https://ref.ly/Num25:11\">गिनती 25:11</a></p></li><li><p><a href=\"https://ref.ly/Prov19:3\">नीतिवचन 19:03</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H398, H1348, H1984, H1993, H2121, H2195, H2196, H2197, H2534, H2734, H2740, H3491, H3820, H5590, H5678, H7264, H7265, H7266, H7267, H7283, H7857, G1693, G2830, G3710, G5433</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04025011",
+          "start_ref_usfm": "NUM 25:11",
+          "end_ref": "04025011",
+          "end_ref_usfm": "NUM 25:11"
+        },
+        {
+          "start_ref": "20019003",
+          "start_ref_usfm": "PRO 19:3",
+          "end_ref": "20019003",
+          "end_ref_usfm": "PRO 19:3"
+        },
+        {
+          "start_ref": "20019012",
+          "start_ref_usfm": "PRO 19:12",
+          "end_ref": "20019012",
+          "end_ref_usfm": "PRO 19:12"
+        },
+        {
+          "start_ref": "27003013",
+          "start_ref_usfm": "DAN 3:13",
+          "end_ref": "27003013",
+          "end_ref_usfm": "DAN 3:13"
+        },
+        {
+          "start_ref": "42004028",
+          "start_ref_usfm": "LUK 4:28",
+          "end_ref": "42004028",
+          "end_ref_usfm": "LUK 4:28"
+        },
+        {
+          "start_ref": "44004025",
+          "start_ref_usfm": "ACT 4:25",
+          "end_ref": "44004025",
+          "end_ref_usfm": "ACT 4:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26213,
+          "content_id": 180270,
+          "label": "संयम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

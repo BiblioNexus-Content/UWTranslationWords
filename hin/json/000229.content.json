@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179842,
+    "reference_id": 25769,
+    "title": "गाज़ा",
+    "media_type": "Text",
+    "index_reference": "गाज़ा",
+    "language": "hin",
+    "content": "<h1>गाज़ा</h1><h2>तथ्य:</h2><p>बाइबल के युग में गाज़ा एक समृद्ध पलिश्ती नगर था, भूमध्य-सागर के तट पर, अश्दोद से लगभग 38 किलोमीटर दक्षिण में। यह नगर पलिश्तियों के पांच प्रमुख नगरों में से एक था।</p><ul><li><p>भौगोलिक स्थिति के कारण गाज़ा एक मुख्य बन्दरगाह था, जहां अनेक जातियों एवं देशों के मध्य व्यापार किया जाता था।</p></li><li><p>आज भी गाज़ा नगर गाज़ा पट्टी का एक महत्त्वपूर्ण बन्दरगाह है वह भूमध्यसागर के तट पर और उत्तर तथा पूर्व में इस्राएल की सीमा तथा दक्षिण में मिस्र से घिरा हुआ है।</p></li><li><p>पलिश्ती शिमशोन को बन्दी बनाने के बाद गाज़ा ले गए थे।</p></li><li><p>प्रचारक फिलिप्पुस गाज़ा जाने वाले रेगिस्तानी मार्ग पर चल रहा था जब उसकी भेंट कूश के खोजे से हुई थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25481\" data-resourceType=\"UWTranslationWords\">अश्दोद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">फिलिप्पुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">पलिश्ती</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">कूश</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25768\" data-resourceType=\"UWTranslationWords\">गत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 04:24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts8:26-Acts8:28\">प्रे.का. 08:26–28</a></p></li><li><p><a href=\"https://ref.ly/Gen10:19-Gen10:20\">उत्पत्ति 10:19–20</a></p></li><li><p><a href=\"https://ref.ly/Josh10:40-Josh10:41\">यहोशू 10:40–41</a></p></li><li><p><a href=\"https://ref.ly/Judg6:3-Judg6:4\">न्यायियों 06:3–4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5804, H5841, G1048</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "11004024",
+          "start_ref_usfm": "1KI 4:24",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "07006003",
+          "start_ref_usfm": "JDG 6:3",
+          "end_ref": "07006004",
+          "end_ref_usfm": "JDG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 179569,
+          "label": "अश्दोद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 179786,
+          "label": "कूश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 179841,
+          "label": "गत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 180158,
+          "label": "फिलिप्पुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 180162,
+          "label": "पलिश्तियों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

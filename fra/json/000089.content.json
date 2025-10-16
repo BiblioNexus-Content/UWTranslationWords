@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466629,
+    "reference_id": 25448,
+    "title": "Autel des parfums",
+    "media_type": "Text",
+    "index_reference": "autel des parfums",
+    "language": "fra",
+    "content": "<h1>Autel des parfums</h1><h2>Définition :</h2><p>L&apos;autel des parfums était un meuble sur lequel un sacrificateur faisait brûler les parfums en offrande à Dieu* C&apos;était aussi appelé autel d&apos;or.</p><ul><li><p>L&apos;autel des parfums était fait en bois, ayant le dessus et les côtés recouverts d&apos;or* Il avait un demi mètre de long, un demi mètre de large, et un mètre de haut.</p></li><li><p>Il était premièrement gardé dans le tabernacle, puis après dans le temple.</p></li><li><p>Chaque matin et chaque soir un sacrificateur y brûlait des parfums.</p></li><li><p>Ceci peut aussi être traduit par &quot;autel pour brûler des parfums&quot; ou &quot;autel d&apos;or&quot; ou &quot;encensoir ou &quot;table des parfums&quot;*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/incense.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02035015",
+          "start_ref_usfm": "EXO 35:15",
+          "end_ref": "02035015",
+          "end_ref_usfm": "EXO 35:15"
+        },
+        {
+          "start_ref": "02039038",
+          "start_ref_usfm": "EXO 39:38",
+          "end_ref": "02039038",
+          "end_ref_usfm": "EXO 39:38"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001011",
+          "end_ref_usfm": "LUK 1:11"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25865,
+          "content_id": 467011,
+          "label": "Encens",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

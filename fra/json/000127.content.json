@@ -1,0 +1,197 @@
+[
+  {
+    "content_id": 467453,
+    "reference_id": 26345,
+    "title": "Blé",
+    "media_type": "Text",
+    "index_reference": "blé",
+    "language": "fra",
+    "content": "<h1>blé</h1><h2>Définition :</h2><p>Le blé est un type de grain que les gens cultivent pour se nourrir* Quand la Bible mentionne &quot;grain&quot; ou &quot;graines&quot;, on parle souvent de grains de blé ou de graines.</p><ul><li><p>Les graines de blé ou les grains poussent au sommet de la tige de blé.</p></li><li><p>Après avoir récolté le blé, le grain est séparé de la tige de la plante en le battant* La tige du blé est aussi appelée &quot;paille&quot; et est souvent placé sur le sol pour que les animaux puissent se coucher là dessus.</p></li><li><p>Après le battage, la balle qui entoure la graine est séparée du grain par vannage et est jetée.</p></li><li><p>Les gens broient le grain de blé en farine et l&apos;utilisent pour faire du pain.</p></li></ul><p>(Voir aussi : (../other/barley.md), (../other/chaff.md), (../other/grain.md), (../other/seed.md), (../other/thresh.md), (../other/winnow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030014",
+          "end_ref_usfm": "GEN 30:14"
+        },
+        {
+          "start_ref": "02009032",
+          "start_ref_usfm": "EXO 9:32",
+          "end_ref": "02009032",
+          "end_ref_usfm": "EXO 9:32"
+        },
+        {
+          "start_ref": "02029002",
+          "start_ref_usfm": "EXO 29:2",
+          "end_ref": "02029002",
+          "end_ref_usfm": "EXO 29:2"
+        },
+        {
+          "start_ref": "02034022",
+          "start_ref_usfm": "EXO 34:22",
+          "end_ref": "02034022",
+          "end_ref_usfm": "EXO 34:22"
+        },
+        {
+          "start_ref": "08002023",
+          "start_ref_usfm": "RUT 2:23",
+          "end_ref": "08002023",
+          "end_ref_usfm": "RUT 2:23"
+        },
+        {
+          "start_ref": "15006009",
+          "start_ref_usfm": "EZR 6:9",
+          "end_ref": "15006009",
+          "end_ref_usfm": "EZR 6:9"
+        },
+        {
+          "start_ref": "15007022",
+          "start_ref_usfm": "EZR 7:22",
+          "end_ref": "15007022",
+          "end_ref_usfm": "EZR 7:22"
+        },
+        {
+          "start_ref": "18031040",
+          "start_ref_usfm": "JOB 31:40",
+          "end_ref": "18031040",
+          "end_ref_usfm": "JOB 31:40"
+        },
+        {
+          "start_ref": "22007002",
+          "start_ref_usfm": "SNG 7:2",
+          "end_ref": "22007002",
+          "end_ref_usfm": "SNG 7:2"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "40013025",
+          "start_ref_usfm": "MAT 13:25",
+          "end_ref": "40013025",
+          "end_ref_usfm": "MAT 13:25"
+        },
+        {
+          "start_ref": "40013026",
+          "start_ref_usfm": "MAT 13:26",
+          "end_ref": "40013026",
+          "end_ref_usfm": "MAT 13:26"
+        },
+        {
+          "start_ref": "40013029",
+          "start_ref_usfm": "MAT 13:29",
+          "end_ref": "40013029",
+          "end_ref_usfm": "MAT 13:29"
+        },
+        {
+          "start_ref": "40013030",
+          "start_ref_usfm": "MAT 13:30",
+          "end_ref": "40013030",
+          "end_ref_usfm": "MAT 13:30"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        },
+        {
+          "start_ref": "42016007",
+          "start_ref_usfm": "LUK 16:7",
+          "end_ref": "42016007",
+          "end_ref_usfm": "LUK 16:7"
+        },
+        {
+          "start_ref": "42022031",
+          "start_ref_usfm": "LUK 22:31",
+          "end_ref": "42022031",
+          "end_ref_usfm": "LUK 22:31"
+        },
+        {
+          "start_ref": "43012024",
+          "start_ref_usfm": "JHN 12:24",
+          "end_ref": "43012024",
+          "end_ref_usfm": "JHN 12:24"
+        },
+        {
+          "start_ref": "44027038",
+          "start_ref_usfm": "ACT 27:38",
+          "end_ref": "44027038",
+          "end_ref_usfm": "ACT 27:38"
+        },
+        {
+          "start_ref": "46015037",
+          "start_ref_usfm": "1CO 15:37",
+          "end_ref": "46015037",
+          "end_ref_usfm": "1CO 15:37"
+        },
+        {
+          "start_ref": "66006006",
+          "start_ref_usfm": "REV 6:6",
+          "end_ref": "66006006",
+          "end_ref_usfm": "REV 6:6"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "44027036",
+          "start_ref_usfm": "ACT 27:36",
+          "end_ref": "44027038",
+          "end_ref_usfm": "ACT 27:38"
+        },
+        {
+          "start_ref": "02034021",
+          "start_ref_usfm": "EXO 34:21",
+          "end_ref": "02034022",
+          "end_ref_usfm": "EXO 34:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25505,
+          "content_id": 466683,
+          "label": "Orge",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25581,
+          "content_id": 466749,
+          "label": "Balle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26208,
+          "content_id": 467327,
+          "label": "La graine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26300,
+          "content_id": 467414,
+          "label": "Battre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 467457,
+          "label": "Vanner",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

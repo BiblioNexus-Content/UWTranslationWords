@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237586,
+    "reference_id": 25448,
+    "title": "Altar de Incenso",
+    "media_type": "Text",
+    "index_reference": "altar de incenso",
+    "language": "por",
+    "content": "<h1>altar de incenso, altar para incenso</h1><h2>Fatos:</h2><p>O altar de incenso era um móvel no qual um sacerdote queimava incenso como oferta a Deus. Também era chamado de altar de ouro.</p><ul><li><p>O altar de incenso era feito de madeira, e seu topo e lados eram cobertos com ouro. Tinha cerca de meio metro de comprimento, meio metro de largura e um metro de altura.</p></li><li><p>No início, ele era mantido no tabernáculo. Depois, foi mantido no templo.</p></li><li><p>Todos os dias, de manhã e à noite, um sacerdote queimava incenso nele.</p></li><li><p>Isso também pode ser traduzido como “altar para queimar incenso” ou “altar de ouro” ou “incensário” ou “mesa de incenso”.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25865\" data-resourceType=\"UWTranslationWords\">incenso</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:11-Luke1:13\">Lucas 1.11–13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4196, H7004, G23680, G23790</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02035015",
+          "start_ref_usfm": "EXO 35:15",
+          "end_ref": "02035015",
+          "end_ref_usfm": "EXO 35:15"
+        },
+        {
+          "start_ref": "02039038",
+          "start_ref_usfm": "EXO 39:38",
+          "end_ref": "02039038",
+          "end_ref_usfm": "EXO 39:38"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001011",
+          "end_ref_usfm": "LUK 1:11"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25865,
+          "content_id": 237998,
+          "label": "Incenso",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

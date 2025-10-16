@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466710,
+    "reference_id": 25537,
+    "title": "Temps biblique",
+    "media_type": "Text",
+    "index_reference": "temps biblique",
+    "language": "fra",
+    "content": "<h1>temps biblique ,montre</h1><h2>Définition :</h2><p>Dans les temps bibliques, une «veille» est une période de temps pendant la nuit au cours de laquelle un gardien ou un garde d&apos;une ville serait en service veillant pour tout danger d&apos;un ennemi.</p><ul><li><p>Dans l&apos;Ancien Testament, les Israélites avaient trois montres qui ont été appelés montres: «commencement» (coucher de soleil à 22 heures), «milieu» (22 heures-2 heures), et «matin» (2 heures au lever du soleil) .</p></li><li><p>Dans le Nouveau Testament, les Juifs ont suivi le système romain et avait quatre montres, nommé tout simplement &quot;d&apos;abord&quot; (coucher de soleil à 9 heures), «deuxième» (9 h à 12 minuit), «troisième» (12 à minuit à 3 heures du matin), et «quatrième» (3 h à lever).</p></li><li><p>Celles-ci pourraient également être traduites avec des expressions plus générales telles que «en fin de soirée» ou «milieu de la nuit» ou «très tôt le matin,&quot; en fonction de la montre à laquelle allusion est faite.</p></li></ul><p>(Voir aussi : (../other/watch.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006048",
+          "end_ref_usfm": "MRK 6:48"
+        },
+        {
+          "start_ref": "42012038",
+          "start_ref_usfm": "LUK 12:38",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "42012037",
+          "start_ref_usfm": "LUK 12:37",
+          "end_ref": "42012038",
+          "end_ref_usfm": "LUK 12:38"
+        },
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006050",
+          "end_ref_usfm": "MRK 6:50"
+        },
+        {
+          "start_ref": "40014025",
+          "start_ref_usfm": "MAT 14:25",
+          "end_ref": "40014027",
+          "end_ref_usfm": "MAT 14:27"
+        },
+        {
+          "start_ref": "19090003",
+          "start_ref_usfm": "PSA 90:3",
+          "end_ref": "19090004",
+          "end_ref_usfm": "PSA 90:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26342,
+          "content_id": 467450,
+          "label": "Veiller",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

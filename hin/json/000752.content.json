@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180261,
+    "reference_id": 26203,
+    "title": "राजदण्ड",
+    "media_type": "Text",
+    "index_reference": "राजदण्ड",
+    "language": "hin",
+    "content": "<h1>राजदण्ड, राजदण्डों</h1><h2>परिभाषा:</h2><p>&quot;राजदण्ड&quot; शब्द राजा जैसे शासक द्वारा पकड़े जानेवाले एक सजावटी डंडा को सूचित करता हैं।</p><ul><li><p>राजदण्ड नक्काशी की हुई पेड़ की एक लकड़ी होता था। बाद में सोने जैसी मूल्यवान धातुओं के भी राजदण्ड बनाए गए थे।</p></li><li><p>राजदण्ड राजसी शैली और अधिकार का प्रतीक होता था जो राजा के सम्मान एवं मर्यादा को दर्शाता था।</p></li><li><p>पुराने नियम में, परमेश्वर को हाथ में धार्मिकता का राजदण्ड पकड़े दर्शया गया है क्योंकि परमेश्वर अपने लोगों पर राजा होकर शासन करता हैं।</p></li><li><p>पुराने नियम की एक भविष्यवाणी में मसीह को प्रतीकात्मक रूप में राजदण्ड कहा गया है जो इस्राएल से निकलकर सब जातियों पर राज करेगा।</p></li><li><p>इसका अनुवाद &quot;शासन करने का दण्ड&quot; या &apos;शासक का दंड&quot; या &quot;राजा का दण्ड&quot; के रूप में भी किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">अधिकार</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">मसीह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">राजा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26177\" data-resourceType=\"UWTranslationWords\">rधर्मी</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Amos1:5\">आमोस 01:5</a></p></li><li><p><a href=\"https://ref.ly/Esth4:11\">एस्तेर 04:11</a></p></li><li><p><a href=\"https://ref.ly/Gen49:10\">उत्पत्ति 49:10</a></p></li><li><p><a href=\"https://ref.ly/Heb1:8\">इब्रानियों 01:08</a></p></li><li><p><a href=\"https://ref.ly/Num21:18\">गिनती 21:18</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 045:06</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2710, H4294, H7626, H8275, G4464</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "04021018",
+          "start_ref_usfm": "NUM 21:18",
+          "end_ref": "04021018",
+          "end_ref_usfm": "NUM 21:18"
+        },
+        {
+          "start_ref": "17004011",
+          "start_ref_usfm": "EST 4:11",
+          "end_ref": "17004011",
+          "end_ref_usfm": "EST 4:11"
+        },
+        {
+          "start_ref": "19045006",
+          "start_ref_usfm": "PSA 45:6",
+          "end_ref": "19045006",
+          "end_ref_usfm": "PSA 45:6"
+        },
+        {
+          "start_ref": "30001005",
+          "start_ref_usfm": "AMO 1:5",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "58001008",
+          "start_ref_usfm": "HEB 1:8",
+          "end_ref": "58001008",
+          "end_ref_usfm": "HEB 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 179580,
+          "label": "अधिकारी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 179666,
+          "label": "ख्रीस्त",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 180005,
+          "label": "राजा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26177,
+          "content_id": 180235,
+          "label": "धर्मी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

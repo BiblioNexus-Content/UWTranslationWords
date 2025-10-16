@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467042,
+    "reference_id": 25897,
+    "title": "Jéroboam",
+    "media_type": "Text",
+    "index_reference": "jéroboam",
+    "language": "fra",
+    "content": "<h1>Jéroboam</h1><h2>Données :</h2><p>Jéroboam, fils de Nebath, a été le premier roi du royaume du nord d&apos;Israël vers 900–910 avant Jésus Christ. Un autre Jéroboam, fils du roi Joas, a régné sur Israël environ 120 ans plus tard.</p><ul><li><p>Yahvé a donné à Jéroboam, fils de Nebath, une prophétie selon laquelle il deviendrait roi après Salomon et qu&apos;il gouvernerait dix tribus d&apos;Israël.</p></li><li><p>Après la mort de Salomon, les dix tribus du nord d&apos;Israël se sont rebellées contre Roboam, fils de Salomon, et ont fait de Jéroboam leur roi, laissant Roboam comme roi des deux tribus du sud, Juda et Benjamin.</p></li><li><p>les dix tribus du nord d&apos;Israël se sont séparées du reste d&apos;Israël et ont suivi leur souverain. Il était un roi très méchant qui a encouragé le peuple du royaume du Nord d&apos;Israël à adorer des idoles au lieu d&apos;adorer l&apos;Éternel.</p></li><li><p>Les rois qui ont gouverné Israël après Jéroboam ont suivi son exemple mauvais.</p></li><li><p>Près de 120 ans plus tard, un autre roi nommé Jéroboam est monté au pouvoir sur le royaume du nord d&apos;Israël. Ce Jéroboam était le fils du roi Joas et était mauvais comme tous les rois précédents d&apos;Israël.</p></li><li><p>En dépit de cela, Dieu a eu pitié d&apos;Israël et a aidé ce roi Jéroboam à rétablir les frontières d&apos;Israel.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/falsegod.md), (../names/kingdomofisrael.md), (../names/kingdomofjudah.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012002",
+          "start_ref_usfm": "1KI 12:2",
+          "end_ref": "11012002",
+          "end_ref_usfm": "1KI 12:2"
+        },
+        {
+          "start_ref": "14009029",
+          "start_ref_usfm": "2CH 9:29",
+          "end_ref": "14009029",
+          "end_ref_usfm": "2CH 9:29"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "13005016",
+          "start_ref_usfm": "1CH 5:16",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        },
+        {
+          "start_ref": "12003001",
+          "start_ref_usfm": "2KI 3:1",
+          "end_ref": "12003003",
+          "end_ref_usfm": "2KI 3:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

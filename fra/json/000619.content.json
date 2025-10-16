@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467000,
+    "reference_id": 25853,
+    "title": "Osée",
+    "media_type": "Text",
+    "index_reference": "osée",
+    "language": "fra",
+    "content": "<h1>Osée</h1><h2>Définition :</h2><p>&quot;Osée a règné pendant neuf ans en Israel quand Achaz et Ezechias ont regné successivement en Juda.</p><ul><li><p>Osée était aussi le fils de Nun de la tribu d&apos;Ephraim.</p></li><li><p>Moise a changé le nom de Osée en Josué après l&apos;avoir envoyé avec les onze hommes pour espionner la terre des Cananéens.</p></li><li><p>Après la mort de Moise, Josué conduisit le peuple d&apos;Israel pour prendre possession de la terre de Canaan.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahaz.md), (../names/canaan.md), (../names/ephraim.md), (../names/hezekiah.md), (../names/joshua.md), (../names/moses.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015030",
+          "start_ref_usfm": "2KI 15:30",
+          "end_ref": "12015030",
+          "end_ref_usfm": "2KI 15:30"
+        },
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018001",
+          "end_ref_usfm": "2KI 18:1"
+        },
+        {
+          "start_ref": "12018009",
+          "start_ref_usfm": "2KI 18:9",
+          "end_ref": "12018009",
+          "end_ref_usfm": "2KI 18:9"
+        },
+        {
+          "start_ref": "13027020",
+          "start_ref_usfm": "1CH 27:20",
+          "end_ref": "13027020",
+          "end_ref_usfm": "1CH 27:20"
+        },
+        {
+          "start_ref": "16010023",
+          "start_ref_usfm": "NEH 10:23",
+          "end_ref": "16010023",
+          "end_ref_usfm": "NEH 10:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 466621,
+          "label": "Achaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 466868,
+          "label": "Ephraim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 466981,
+          "label": "Ezéchias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 467065,
+          "label": "Josué",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

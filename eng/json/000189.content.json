@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 26462,
+    "reference_id": 25604,
+    "title": "Concubine",
+    "media_type": "Text",
+    "index_reference": "concubine",
+    "language": "eng",
+    "content": "<h1>concubine</h1><h2>Definition:</h2><p>A concubine is a woman who is a secondary wife for a man who already has a wife. Usually a concubine is not legally married to the man.</p><ul><li><p>In the Old Testament, concubines were often female slaves.</p></li><li><p>A concubine could be acquired by purchase, through military conquest, or in payment of a debt.</p></li><li><p>For a king, having many concubines was a sign of power.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Sam3:7\">2 Samuel 3:7</a></p></li><li><p><a href=\"https://ref.ly/Gen22:24\">Genesis 22:24</a></p></li><li><p><a href=\"https://ref.ly/Gen25:5-Gen25:6\">Genesis 25:5–6</a></p></li><li><p><a href=\"https://ref.ly/Gen35:21-Gen35:22\">Genesis 35:21–22</a></p></li><li><p><a href=\"https://ref.ly/Gen36:12\">Genesis 36:12</a></p></li><li><p><a href=\"https://ref.ly/Judg19:1-Judg19:2\">Judges 19:1–2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3904, H6370</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
+        },
+        {
+          "start_ref": "01025006",
+          "start_ref_usfm": "GEN 25:6",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "10003007",
+          "start_ref_usfm": "2SA 3:7",
+          "end_ref": "10003007",
+          "end_ref_usfm": "2SA 3:7"
+        },
+        {
+          "start_ref": "01025005",
+          "start_ref_usfm": "GEN 25:5",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "07019001",
+          "start_ref_usfm": "JDG 19:1",
+          "end_ref": "07019002",
+          "end_ref_usfm": "JDG 19:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

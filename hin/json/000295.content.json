@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 182438,
+    "reference_id": 26374,
+    "title": "जिल्पा",
+    "media_type": "Text",
+    "index_reference": "जिल्पा",
+    "language": "hin",
+    "content": "<h1>जिल्पा</h1><h2>तथ्य:</h2><p>जिल्पा याकूब की पत्नियों में से एक थी। वह याकूब के दो बेटों गाद और अशेर की माँ थी।</p><ul><li><p>जब लिआ ने याकूब से विवाह किया, तो लाबान ने जिल्पा को लिआ को एक सेविका के रूप में दिया।</p></li><li><p>जब लिआ के बच्चे होने बंद हो गए, तो उसने जिल्पा को याकूब को पत्नी के रूप में दे दिया ताकि वह उसके लिए और बच्चे पैदा करे।</p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">याकूब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25961\" data-resourceType=\"UWTranslationWords\">लिआ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">गाद</span>,<span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">अशेर</span>)</p><h2><span>बाइबल संदर्भ</span>:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:23\">उत्पत्ति 29:23</a></p></li><li><p><a href=\"https://ref.ly/Gen30:9\">उत्पत्ति 30:9</a></p></li></ul><h2><span>शब्द सूची</span>:</h2><ul><li><p><span>मजबूत का</span>: H2153</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029023",
+          "start_ref_usfm": "GEN 29:23",
+          "end_ref": "01029023",
+          "end_ref_usfm": "GEN 29:23"
+        },
+        {
+          "start_ref": "01029024",
+          "start_ref_usfm": "GEN 29:24",
+          "end_ref": "01029024",
+          "end_ref_usfm": "GEN 29:24"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030009",
+          "end_ref_usfm": "GEN 30:9"
+        },
+        {
+          "start_ref": "01030010",
+          "start_ref_usfm": "GEN 30:10",
+          "end_ref": "01030010",
+          "end_ref_usfm": "GEN 30:10"
+        },
+        {
+          "start_ref": "01030012",
+          "start_ref_usfm": "GEN 30:12",
+          "end_ref": "01030012",
+          "end_ref_usfm": "GEN 30:12"
+        },
+        {
+          "start_ref": "01035026",
+          "start_ref_usfm": "GEN 35:26",
+          "end_ref": "01035026",
+          "end_ref_usfm": "GEN 35:26"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037002",
+          "end_ref_usfm": "GEN 37:2"
+        },
+        {
+          "start_ref": "01046018",
+          "start_ref_usfm": "GEN 46:18",
+          "end_ref": "01046018",
+          "end_ref_usfm": "GEN 46:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25482,
+          "content_id": 179570,
+          "label": "आशेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 179837,
+          "label": "गाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 180026,
+          "label": "लिआ:",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237807,
+    "reference_id": 25674,
+    "title": "Adivinhação",
+    "media_type": "Text",
+    "index_reference": "adivinhação",
+    "language": "por",
+    "content": "<h1>adivinhação, adivinho, previsão, vidente</h1><h2>Definição:</h2><p>Os termos “adivinhação” e “previsão” referem-se à prática de tentar obter informações de espíritos no mundo sobrenatural. Uma pessoa que faz isso é às vezes chamada de “adivinho” ou “vidente”.</p><ul><li><p>Nos tempos do Antigo Testamento, Deus ordenou aos israelitas que não praticassem adivinhação ou previsão.</p></li><li><p>Deus permitiu que seu povo buscasse informações dele usando o Urim e Tumim, que eram pedras designadas por ele para serem usadas pelo sumo sacerdote para esse propósito. Mas ele não permitiu que seu povo buscasse informações com a ajuda de espíritos malignos.</p></li><li><p>Os adivinhos pagãos usavam diferentes métodos para tentar obter informações do mundo espiritual. Às vezes, examinavam as partes internas de um animal morto ou jogavam ossos de animais no chão, procurando padrões que interpretavam como mensagens de seus falsos deuses.</p></li><li><p>No Novo Testamento, Jesus e os apóstolos também rejeitaram a adivinhação, feitiçaria, bruxaria e magia. Todas essas práticas envolvem o uso do poder de espíritos malignos e são condenadas por Deus.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apóstolo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25987\" data-resourceType=\"UWTranslationWords\">magia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26253\" data-resourceType=\"UWTranslationWords\">feitiçaria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam6:1-1Sam6:2\">1 Samuel 6.1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts16:16\">Atos 16.16</a></p></li><li><p><a href=\"https://ref.ly/Ezek12:24-Ezek12:25\">Ezequiel 12.24–25</a></p></li><li><p><a href=\"https://ref.ly/Gen44:5\">Gênesis 44.5</a></p></li><li><p><a href=\"https://ref.ly/Jer27:9-Jer27:11\">Jeremias 27.9–11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1870, H4738, H5172, H6049, H7080, H7081, G44360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030027",
+          "start_ref_usfm": "GEN 30:27",
+          "end_ref": "01030027",
+          "end_ref_usfm": "GEN 30:27"
+        },
+        {
+          "start_ref": "01044005",
+          "start_ref_usfm": "GEN 44:5",
+          "end_ref": "01044005",
+          "end_ref_usfm": "GEN 44:5"
+        },
+        {
+          "start_ref": "01044015",
+          "start_ref_usfm": "GEN 44:15",
+          "end_ref": "01044015",
+          "end_ref_usfm": "GEN 44:15"
+        },
+        {
+          "start_ref": "20016010",
+          "start_ref_usfm": "PRO 16:10",
+          "end_ref": "20016010",
+          "end_ref_usfm": "PRO 16:10"
+        },
+        {
+          "start_ref": "44016016",
+          "start_ref_usfm": "ACT 16:16",
+          "end_ref": "44016016",
+          "end_ref_usfm": "ACT 16:16"
+        },
+        {
+          "start_ref": "09006001",
+          "start_ref_usfm": "1SA 6:1",
+          "end_ref": "09006002",
+          "end_ref_usfm": "1SA 6:2"
+        },
+        {
+          "start_ref": "26012024",
+          "start_ref_usfm": "EZK 12:24",
+          "end_ref": "26012025",
+          "end_ref_usfm": "EZK 12:25"
+        },
+        {
+          "start_ref": "24027009",
+          "start_ref_usfm": "JER 27:9",
+          "end_ref": "24027011",
+          "end_ref_usfm": "JER 27:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 237603,
+          "label": "Apóstolo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25987,
+          "content_id": 238118,
+          "label": "Magia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26253,
+          "content_id": 238382,
+          "label": "Feitiçaria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237588,
+    "reference_id": 25450,
+    "title": "Amazias",
+    "media_type": "Text",
+    "index_reference": "amazias",
+    "language": "por",
+    "content": "<h1>Amazias</h1><h2>Fatos:</h2><p>Amazias tornou-se rei do reino de Judá quando seu pai, o rei Joás, foi assassinado.</p><ul><li><p>O rei Amazias reinou sobre Judá por vinte e nove anos, de 796 a.C. a 767 a.C.</p></li><li><p>Ele foi um bom rei, mas não destruiu os altares onde ídolos eram adorados.</p></li><li><p>Amazias eventualmente matou todos os homens responsáveis pelo assassinato de seu pai.</p></li><li><p>Ele derrotou os edomitas rebeldes e os trouxe de volta sob o controle do Reino de Judá.</p></li><li><p>Ele desafiou o rei Jeoás de Israel para uma batalha, mas perdeu. Parte dos muros de Jerusalém foram derrubados e os vasos de prata e ouro do templo foram roubados.</p></li><li><p>Anos depois, o rei Amazias afastou-se de Javé e certos homens em Jerusalém conspiraram e o mataram.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joás</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25689\" data-resourceType=\"UWTranslationWords\">Edom</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Crônicas 3.10–12</a></p></li><li><p><a href=\"https://ref.ly/1Chr4:34\">1 Crônicas 4.34</a></p></li><li><p><a href=\"https://ref.ly/2Chr25:9-2Chr25:10\">2 Crônicas 25.9–10</a></p></li><li><p><a href=\"https://ref.ly/2Kgs14:10\">2 Reis 14.10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0558</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12014010",
+          "start_ref_usfm": "2KI 14:10",
+          "end_ref": "12014010",
+          "end_ref_usfm": "2KI 14:10"
+        },
+        {
+          "start_ref": "13004034",
+          "start_ref_usfm": "1CH 4:34",
+          "end_ref": "13004034",
+          "end_ref_usfm": "1CH 4:34"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14025009",
+          "start_ref_usfm": "2CH 25:9",
+          "end_ref": "14025010",
+          "end_ref_usfm": "2CH 25:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25689,
+          "content_id": 237822,
+          "label": "Edom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 238040,
+          "label": "Joás",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

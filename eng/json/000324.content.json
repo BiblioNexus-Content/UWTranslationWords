@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26596,
+    "reference_id": 25738,
+    "title": "Fellowship Offering",
+    "media_type": "Text",
+    "index_reference": "fellowship offering",
+    "language": "eng",
+    "content": "<h1>fellowship offering</h1><h2>Facts:</h2><p>In the Old Testament, the “fellowship offering” was a kind of sacrifice that was offered for different reasons, such as to give thanks to God or to fulfill a vow.</p><ul><li><p>This offering required the sacrifice of an animal that could be male or female. This was different from the burnt offering, which required a male animal.</p></li><li><p>After giving a portion of the sacrifice to God, the person who brought the fellowship offering shared the meat with the priests and other Israelites.</p></li><li><p>There was a meal associated with this offering which included unleavened bread.</p></li><li><p>This is sometimes called the “peace offering.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">burnt offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25761\" data-resourceType=\"UWTranslationWords\">fulfill</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">grain offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25807\" data-resourceType=\"UWTranslationWords\">guilt offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26081\" data-resourceType=\"UWTranslationWords\">peace offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26328\" data-resourceType=\"UWTranslationWords\">unleavened bread</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">vow</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr21:25-1Chr21:27\">1 Chronicles 21:25–27</a></p></li><li><p><a href=\"https://ref.ly/2Chr29:35\">2 Chronicles 29:35</a></p></li><li><p><a href=\"https://ref.ly/Exod24:5-Exod24:6\">Exodus 24:5–6</a></p></li><li><p><a href=\"https://ref.ly/Lev3:3-Lev3:5\">Leviticus 3:3–5</a></p></li><li><p><a href=\"https://ref.ly/Num6:13-Num6:15\">Numbers 6:13–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H8002</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14029035",
+          "start_ref_usfm": "2CH 29:35",
+          "end_ref": "14029035",
+          "end_ref_usfm": "2CH 29:35"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "03003003",
+          "start_ref_usfm": "LEV 3:3",
+          "end_ref": "03003005",
+          "end_ref_usfm": "LEV 3:5"
+        },
+        {
+          "start_ref": "02024005",
+          "start_ref_usfm": "EXO 24:5",
+          "end_ref": "02024006",
+          "end_ref_usfm": "EXO 24:6"
+        },
+        {
+          "start_ref": "13021025",
+          "start_ref_usfm": "1CH 21:25",
+          "end_ref": "13021027",
+          "end_ref_usfm": "1CH 21:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 26418,
+          "label": "Burnt Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25761,
+          "content_id": 26619,
+          "label": "Fulfill",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 26660,
+          "label": "Grain Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 26665,
+          "label": "Guilt Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26081,
+          "content_id": 26939,
+          "label": "Peace Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26328,
+          "content_id": 27186,
+          "label": "Unleavened Bread",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

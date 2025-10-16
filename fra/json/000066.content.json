@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466651,
+    "reference_id": 25472,
+    "title": "Ararat",
+    "media_type": "Text",
+    "index_reference": "ararat",
+    "language": "fra",
+    "content": "<h1>Ararat</h1><h2>Définition :</h2><p>Dans la Bible, &quot;Ararat&quot; est le nom donné à une région, un royaume et une chaîne de montagnes.</p><ul><li><p>Le &quot;territoire d&apos;Ararat&quot; était probablement situé dans la région qui est actuellement le Nord-Est de la Turquie.</p></li><li><p>Ararat est plus connu comme étant le nom des montagnes sur lesquelles l&apos;arche de Noé se posa après que les eaux du déluge n&apos;eurent commencé à baisser.</p></li><li><p>\\Le&quot;Mont Ararat&quot; d&apos;aujourd&apos;hui est considéré comme étant la situation géographique actuelle des &quot;montagnes d&apos;Ararat&quot; de la Bible.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/ark.md), (../names/noah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008004",
+          "end_ref_usfm": "GEN 8:4"
+        },
+        {
+          "start_ref": "23037038",
+          "start_ref_usfm": "ISA 37:38",
+          "end_ref": "23037038",
+          "end_ref_usfm": "ISA 37:38"
+        },
+        {
+          "start_ref": "24051027",
+          "start_ref_usfm": "JER 51:27",
+          "end_ref": "24051027",
+          "end_ref_usfm": "JER 51:27"
+        },
+        {
+          "start_ref": "12019035",
+          "start_ref_usfm": "2KI 19:35",
+          "end_ref": "12019037",
+          "end_ref_usfm": "2KI 19:37"
+        },
+        {
+          "start_ref": "01008004",
+          "start_ref_usfm": "GEN 8:4",
+          "end_ref": "01008005",
+          "end_ref_usfm": "GEN 8:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 466653,
+          "label": "Arche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

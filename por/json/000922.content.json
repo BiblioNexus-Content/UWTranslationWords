@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237813,
+    "reference_id": 25680,
+    "title": "Umbral",
+    "media_type": "Text",
+    "index_reference": "umbral",
+    "language": "por",
+    "content": "<h1>Umbral</h1><h2>Definition:</h2><p>O &quot;umbral&quot; é uma viga vertical em cada lado de uma porta, que sustenta a parte superior do batente da porta.</p><ul><li><p>Pouco antes de Deus ajudar os israelitas a escaparem do Egito, Ele os instruiu a matar um cordeiro e colocar seu sangue nos umbrais das portas.</p></li><li><p>No Antigo Testamento, um escravo que desejava servir ao seu mestre pelo resto da vida colocava sua orelha no umbral da casa do seu mestre para que um prego fosse cravado através de sua orelha no umbral.</p></li><li><p>Isso também pode ser traduzido como &quot;poste de madeira em cada lado de uma porta&quot; ou &quot;lados de um batente de porta de madeira&quot; ou &quot;vigas de madeira nas laterais de uma entrada&quot;.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">Páscoa</span>)</p><h2>Referências bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs6:31-1Kgs6:32\">1 Reis 6.31–32</a></p></li><li><p><a href=\"https://ref.ly/Deut11:20\">Deuteronômio 11.20</a></p></li><li><p><a href=\"https://ref.ly/Exod12:7\">Êxodo 12.7</a></p></li><li><p><a href=\"https://ref.ly/Isa57:7-Isa57:8\">Isaías 57.7–8</a></p></li></ul><h2>Dados da palavra:</h2><ul><li><p>Strong’s: H0352, H4201</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012007",
+          "start_ref_usfm": "EXO 12:7",
+          "end_ref": "02012007",
+          "end_ref_usfm": "EXO 12:7"
+        },
+        {
+          "start_ref": "02012022",
+          "start_ref_usfm": "EXO 12:22",
+          "end_ref": "02012022",
+          "end_ref_usfm": "EXO 12:22"
+        },
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "05011020",
+          "start_ref_usfm": "DEU 11:20",
+          "end_ref": "05011020",
+          "end_ref_usfm": "DEU 11:20"
+        },
+        {
+          "start_ref": "20008034",
+          "start_ref_usfm": "PRO 8:34",
+          "end_ref": "20008034",
+          "end_ref_usfm": "PRO 8:34"
+        },
+        {
+          "start_ref": "23057007",
+          "start_ref_usfm": "ISA 57:7",
+          "end_ref": "23057008",
+          "end_ref_usfm": "ISA 57:8"
+        },
+        {
+          "start_ref": "11006031",
+          "start_ref_usfm": "1KI 6:31",
+          "end_ref": "11006032",
+          "end_ref_usfm": "1KI 6:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 26076,
+          "content_id": 238206,
+          "label": "Páscoa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

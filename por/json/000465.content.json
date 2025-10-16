@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238006,
+    "reference_id": 25873,
+    "title": "Interceder",
+    "media_type": "Text",
+    "index_reference": "interceder",
+    "language": "por",
+    "content": "<h1>interceder, intercessão</h1><h2>Definição:</h2><p>Os termos “interceder” e “intercessão” referem-se a fazer pedidos a alguém em nome de outra pessoa. Na Bíblia, isso geralmente se refere a orar por outras pessoas.</p><ul><li><p>As expressões “fazer intercessão por” e “interceder por” significam fazer pedidos a Deus em benefício de outras pessoas.</p></li><li><p>A Bíblia ensina que o Espírito Santo intercede por nós, ou seja, ele ora a Deus por nós.</p></li><li><p>Uma pessoa intercede por outras pessoas fazendo pedidos por elas a alguém em autoridade.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Outras maneiras de traduzir “interceder” poderiam incluir “pleitear por” ou “instar (alguém) a fazer algo (por outra pessoa)”.</p></li><li><p>O substantivo “intercessões” poderia ser traduzido como “apelos” ou “pedidos” ou “orações urgentes”.</p></li><li><p>A frase “fazer intercessão por” poderia ser traduzida como “fazer pedidos em benefício de” ou “fazer um apelo em nome de” ou “pedir a Deus para ajudar” ou “apelar a Deus para abençoar (alguém)”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26117\" data-resourceType=\"UWTranslationWords\">orar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Heb7:25-Heb7:26\">Hebreus 7.25–26</a></p></li><li><p><a href=\"https://ref.ly/Isa53:12\">Isaías 53.12</a></p></li><li><p><a href=\"https://ref.ly/Jer29:6-Jer29:7\">Jeremias 29.6–7</a></p></li><li><p><a href=\"https://ref.ly/Rom8:26-Rom8:27\">Romanos 8.26–27</a></p></li><li><p><a href=\"https://ref.ly/Rom8:33-Rom8:34\">Romanos 8.33–34</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6293, G17830, G17930, G52410</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23053012",
+          "start_ref_usfm": "ISA 53:12",
+          "end_ref": "23053012",
+          "end_ref_usfm": "ISA 53:12"
+        },
+        {
+          "start_ref": "45008027",
+          "start_ref_usfm": "ROM 8:27",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008034",
+          "start_ref_usfm": "ROM 8:34",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007025",
+          "end_ref_usfm": "HEB 7:25"
+        },
+        {
+          "start_ref": "45008026",
+          "start_ref_usfm": "ROM 8:26",
+          "end_ref": "45008027",
+          "end_ref_usfm": "ROM 8:27"
+        },
+        {
+          "start_ref": "45008033",
+          "start_ref_usfm": "ROM 8:33",
+          "end_ref": "45008034",
+          "end_ref_usfm": "ROM 8:34"
+        },
+        {
+          "start_ref": "58007025",
+          "start_ref_usfm": "HEB 7:25",
+          "end_ref": "58007026",
+          "end_ref_usfm": "HEB 7:26"
+        },
+        {
+          "start_ref": "24029006",
+          "start_ref_usfm": "JER 29:6",
+          "end_ref": "24029007",
+          "end_ref_usfm": "JER 29:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26117,
+          "content_id": 238247,
+          "label": "Orar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

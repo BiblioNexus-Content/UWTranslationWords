@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467337,
+    "reference_id": 26221,
+    "title": "Le Saron, la plaine de Saron",
+    "media_type": "Text",
+    "index_reference": "le saron, la plaine de saron",
+    "language": "fra",
+    "content": "<h1>Le Saron, la plaine de Saron</h1><h2>Définition</h2><p>Le Saron est le nom d&apos;une plaine fertile le long de la côte méditerranéenne, au sud du mont Carmel. Le Saron est également connu sous le nom de&nbsp;«&nbsp;plaine de Saron&nbsp;». </p><ul><li><p>Plusieurs villes mentionnées dans la Bible étaient situées dans la plaine de Saron, y compris Joppé (Japho dans l&apos;Ancien Testament), Lydde et Césarée.</p></li><li><p>Le nom de cette plaine pourrait être traduit par&nbsp;:&nbsp;«&nbsp;Saron&nbsp;», «&nbsp;le Saron&nbsp;», «&nbsp;la plaine de Saron&nbsp;» ou «&nbsp;la plaine appelée Saron&nbsp;».</p></li></ul><p>Voir&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">Comment traduire les noms</span></p><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25563\" data-resourceType=\"UWTranslationWords\">Césarée</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25575\" data-resourceType=\"UWTranslationWords\">Carmel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25915\" data-resourceType=\"UWTranslationWords\">Joppé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">mer</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:16-1Chr5:17\">1 Chroniques 5.16–17</a></p></li><li><p><a href=\"https://ref.ly/Acts9:35\">Actes 9.35</a></p></li><li><p><a href=\"https://ref.ly/Isa33:9\">Ésaïe 33.9</a></p></li></ul><h2>Données sur le mot</h2><ul><li><p>Strong’s: H8289, H8290</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23033009",
+          "start_ref_usfm": "ISA 33:9",
+          "end_ref": "23033009",
+          "end_ref_usfm": "ISA 33:9"
+        },
+        {
+          "start_ref": "44009035",
+          "start_ref_usfm": "ACT 9:35",
+          "end_ref": "44009035",
+          "end_ref_usfm": "ACT 9:35"
+        },
+        {
+          "start_ref": "13005016",
+          "start_ref_usfm": "1CH 5:16",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25563,
+          "content_id": 466734,
+          "label": "Cesaréé ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25575,
+          "content_id": 466743,
+          "label": "Carmel ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 467143,
+          "label": "La mer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25915,
+          "content_id": 467060,
+          "label": "Joppé (Japho)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

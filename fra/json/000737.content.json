@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467283,
+    "reference_id": 26163,
+    "title": "Roseau",
+    "media_type": "Text",
+    "index_reference": "roseau",
+    "language": "fra",
+    "content": "<h1>roseau, roseaux</h1><h2>Définition :</h2><p>Le terme «roseau» fait référence à une plante avec une longue tige qui pousse dans l&apos;eau, généralement le long du bord d&apos;une rivière ou d&apos;un ruisseau.</p><ul><li><p>Les roseaux dans la rivière du Nil où Moïse était caché quand il était un bébé ont également été appelés &quot;joncs*&quot; C&apos; étaient de grandes tiges creuses qui poussaient en touffes denses dans l&apos;eau de la rivière.</p></li><li><p>Ces plantes fibreuses ont été utilisés dans l&apos;Egypte ancienne pour la fabrication de papier, des paniers et des bateaux.</p></li><li><p>La tige de la plante roseau est flexible et est facilement pliable par le vent.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/egypt.md), (../names/moses.md), (../names/nileriver.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041002",
+          "start_ref_usfm": "GEN 41:2",
+          "end_ref": "01041002",
+          "end_ref_usfm": "GEN 41:2"
+        },
+        {
+          "start_ref": "01041005",
+          "start_ref_usfm": "GEN 41:5",
+          "end_ref": "01041005",
+          "end_ref_usfm": "GEN 41:5"
+        },
+        {
+          "start_ref": "01041018",
+          "start_ref_usfm": "GEN 41:18",
+          "end_ref": "01041018",
+          "end_ref_usfm": "GEN 41:18"
+        },
+        {
+          "start_ref": "01041022",
+          "start_ref_usfm": "GEN 41:22",
+          "end_ref": "01041022",
+          "end_ref_usfm": "GEN 41:22"
+        },
+        {
+          "start_ref": "02002003",
+          "start_ref_usfm": "EXO 2:3",
+          "end_ref": "02002003",
+          "end_ref_usfm": "EXO 2:3"
+        },
+        {
+          "start_ref": "02002005",
+          "start_ref_usfm": "EXO 2:5",
+          "end_ref": "02002005",
+          "end_ref_usfm": "EXO 2:5"
+        },
+        {
+          "start_ref": "11014015",
+          "start_ref_usfm": "1KI 14:15",
+          "end_ref": "11014015",
+          "end_ref_usfm": "1KI 14:15"
+        },
+        {
+          "start_ref": "19068030",
+          "start_ref_usfm": "PSA 68:30",
+          "end_ref": "19068030",
+          "end_ref_usfm": "PSA 68:30"
+        },
+        {
+          "start_ref": "40011007",
+          "start_ref_usfm": "MAT 11:7",
+          "end_ref": "40011007",
+          "end_ref_usfm": "MAT 11:7"
+        },
+        {
+          "start_ref": "40012020",
+          "start_ref_usfm": "MAT 12:20",
+          "end_ref": "40012020",
+          "end_ref_usfm": "MAT 12:20"
+        },
+        {
+          "start_ref": "40027048",
+          "start_ref_usfm": "MAT 27:48",
+          "end_ref": "40027048",
+          "end_ref_usfm": "MAT 27:48"
+        },
+        {
+          "start_ref": "41015019",
+          "start_ref_usfm": "MRK 15:19",
+          "end_ref": "41015019",
+          "end_ref_usfm": "MRK 15:19"
+        },
+        {
+          "start_ref": "41015036",
+          "start_ref_usfm": "MRK 15:36",
+          "end_ref": "41015036",
+          "end_ref_usfm": "MRK 15:36"
+        },
+        {
+          "start_ref": "42007024",
+          "start_ref_usfm": "LUK 7:24",
+          "end_ref": "42007024",
+          "end_ref_usfm": "LUK 7:24"
+        },
+        {
+          "start_ref": "44007036",
+          "start_ref_usfm": "ACT 7:36",
+          "end_ref": "44007036",
+          "end_ref_usfm": "ACT 7:36"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011029",
+          "end_ref_usfm": "HEB 11:29"
+        },
+        {
+          "start_ref": "66021015",
+          "start_ref_usfm": "REV 21:15",
+          "end_ref": "66021015",
+          "end_ref_usfm": "REV 21:15"
+        },
+        {
+          "start_ref": "66021016",
+          "start_ref_usfm": "REV 21:16",
+          "end_ref": "66021016",
+          "end_ref_usfm": "REV 21:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 467189,
+          "label": "Nil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

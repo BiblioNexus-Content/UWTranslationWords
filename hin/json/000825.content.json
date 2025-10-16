@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180252,
+    "reference_id": 26194,
+    "title": "शमूएल",
+    "media_type": "Text",
+    "index_reference": "शमूएल",
+    "language": "hin",
+    "content": "<h1>शमूएल</h1><h2>तथ्य:</h2><p>शमूएल एक भविष्यद्वक्ता था और इस्राएल का अन्तिम न्यायी था। उसने शाऊल और उसके बाद दाऊद दोनों को इस्राएल का राजा होने के लिए अभिषेक किया था।</p><ul><li><p>शमूएल रामा नगर में एल्काना और हन्ना से उत्पन्न हुआ था।</p></li><li><p>हन्ना बांझ थी, उसने परमेश्वर से रो-रोकर प्रार्थना की कि उसे पुत्र दे। उसकी प्रार्थना सुन कर परमेश्वर ने उसे शमूएल दिया।</p></li><li><p>हन्ना ने प्रतिज्ञा की थी कि, यदि परमेश्वर उसे पुत्र देगा तो वह उसे यहोवा की सेवा में अर्पित कर देगी।</p></li><li><p>जब शमूएल बालक ही था, तब हन्ना ने उस याजक एली के पास दे दिया और परमेश्वर से की गई अपनी प्रतिज्ञा पूरी की।</p></li><li><p>परमेश्वर ने शमूएल को अपना एक महान भविष्यद्वक्ता बनाया।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25818\" data-resourceType=\"UWTranslationWords\">हन्ना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">न्यायी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">यहोवा</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 01:19–20</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 09:23–24</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 12:16–18</a></p></li><li><p><a href=\"https://ref.ly/Acts3:24-Acts3:26\">प्रे.का. 03:24–26</a></p></li><li><p><a href=\"https://ref.ly/Acts13:19-Acts13:20\">प्रे.का. 13:19–20</a></p></li><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">इब्रानियों 11:32–34</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8050, G4545</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09001019",
+          "start_ref_usfm": "1SA 1:19",
+          "end_ref": "09001019",
+          "end_ref_usfm": "1SA 1:19"
+        },
+        {
+          "start_ref": "09009024",
+          "start_ref_usfm": "1SA 9:24",
+          "end_ref": "09009024",
+          "end_ref_usfm": "1SA 9:24"
+        },
+        {
+          "start_ref": "09012017",
+          "start_ref_usfm": "1SA 12:17",
+          "end_ref": "09012017",
+          "end_ref_usfm": "1SA 12:17"
+        },
+        {
+          "start_ref": "44003024",
+          "start_ref_usfm": "ACT 3:24",
+          "end_ref": "44003024",
+          "end_ref_usfm": "ACT 3:24"
+        },
+        {
+          "start_ref": "44013020",
+          "start_ref_usfm": "ACT 13:20",
+          "end_ref": "44013020",
+          "end_ref_usfm": "ACT 13:20"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25818,
+          "content_id": 179889,
+          "label": "हन्ना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 179996,
+          "label": "न्यायी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 180412,
+          "label": "यहोवा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

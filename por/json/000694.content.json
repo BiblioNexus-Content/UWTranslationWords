@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 237950,
+    "reference_id": 25817,
+    "title": "Pendurar",
+    "media_type": "Text",
+    "index_reference": "pendurar",
+    "language": "por",
+    "content": "<h1>pendurar, pendurado</h1><h2>Definição:</h2><p>O termo “pendurar” significa suspender algo ou alguém acima do chão.</p><ul><li><p>Nos tempos modernos, a morte por enforcamento geralmente é feita amarrando uma corda ao redor do pescoço de uma pessoa e suspendendo-a de um objeto elevado até que ela morra. Esse objeto elevado pode ser várias coisas, como um madeiro ou um palanque, ou seja, uma plataforma construída especificamente com o propósito de enforcar uma pessoa com o propósito de matá-la.</p></li><li><p>Nos tempos bíblicos, no entanto, as culturas antigas provavelmente não matavam pessoas por enforcamento exatamente da mesma maneira. Por exemplo, Jesus morreu enquanto estava pendurado em uma cruz de madeira (às vezes chamada de “madeiro”), mas não havia nada ao redor de seu pescoço. Os soldados o suspenderam pregando suas mãos (ou pulsos) e seus pés na cruz.</p></li><li><p>Algumas culturas antigas “penduravam” uma pessoa empalando-a em um poste de madeira de tal forma que ela ficava suspensa acima do chão para que não pudesse escapar. A pessoa era deixada lá até morrer.</p></li><li><p>Em muitas referências à morte por “enforcamento” na Bíblia o meio específico de morte é desconhecido.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Sam17:23\">2 Samuel 17.23</a></p></li><li><p><a href=\"https://ref.ly/Acts10:39\">Atos 10.39</a></p></li><li><p><a href=\"https://ref.ly/Gal3:13\">Gálatas 3.13</a></p></li><li><p><a href=\"https://ref.ly/Gen40:22\">Gênesis 40.22</a></p></li><li><p><a href=\"https://ref.ly/Matt27:3-Matt27:5\">Mateus 27.3–5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2614, H3363, H8518, G05190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040019",
+          "start_ref_usfm": "GEN 40:19",
+          "end_ref": "01040019",
+          "end_ref_usfm": "GEN 40:19"
+        },
+        {
+          "start_ref": "01040022",
+          "start_ref_usfm": "GEN 40:22",
+          "end_ref": "01040022",
+          "end_ref_usfm": "GEN 40:22"
+        },
+        {
+          "start_ref": "01041013",
+          "start_ref_usfm": "GEN 41:13",
+          "end_ref": "01041013",
+          "end_ref_usfm": "GEN 41:13"
+        },
+        {
+          "start_ref": "10017023",
+          "start_ref_usfm": "2SA 17:23",
+          "end_ref": "10017023",
+          "end_ref_usfm": "2SA 17:23"
+        },
+        {
+          "start_ref": "15006011",
+          "start_ref_usfm": "EZR 6:11",
+          "end_ref": "15006011",
+          "end_ref_usfm": "EZR 6:11"
+        },
+        {
+          "start_ref": "18026007",
+          "start_ref_usfm": "JOB 26:7",
+          "end_ref": "18026007",
+          "end_ref_usfm": "JOB 26:7"
+        },
+        {
+          "start_ref": "22004004",
+          "start_ref_usfm": "SNG 4:4",
+          "end_ref": "22004004",
+          "end_ref_usfm": "SNG 4:4"
+        },
+        {
+          "start_ref": "40027005",
+          "start_ref_usfm": "MAT 27:5",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        },
+        {
+          "start_ref": "44010039",
+          "start_ref_usfm": "ACT 10:39",
+          "end_ref": "44010039",
+          "end_ref_usfm": "ACT 10:39"
+        },
+        {
+          "start_ref": "48003013",
+          "start_ref_usfm": "GAL 3:13",
+          "end_ref": "48003013",
+          "end_ref_usfm": "GAL 3:13"
+        },
+        {
+          "start_ref": "40027003",
+          "start_ref_usfm": "MAT 27:3",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 238002,
+    "reference_id": 25869,
+    "title": "Inocente",
+    "media_type": "Text",
+    "index_reference": "inocente",
+    "language": "por",
+    "content": "<h1>inocente</h1><h2>Definição:</h2><p>O termo “inocente” significa não ser culpado de um crime ou outra transgressão. Também pode se referir de forma mais geral a pessoas que não estão envolvidas em coisas malignas.</p><ul><li><p>Uma pessoa acusada de fazer algo errado é inocente se não cometeu esse erro.</p></li><li><p>Às vezes, o termo “inocente” é usado para se referir a pessoas que não fizeram nada de errado para merecer o tratamento ruim que estão recebendo, como em um exército inimigo atacando “pessoas inocentes”.</p></li><li><p>Na Bíblia, “sangue” pode representar “matar”, então “sangue inocente” se refere a “matar pessoas que não mereciam morrer”.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Na maioria dos contextos, o termo “inocente” pode ser traduzido como “não culpado” ou “não responsável” ou “não culpado” por algo.</p></li><li><p>Ao se referir de forma geral a pessoas inocentes, este termo pode ser traduzido como “que não fizeram nada de errado” ou “que não estão envolvidas em coisas malignas”.</p></li><li><p>“Derramar sangue inocente” pode ser traduzido como “matar pessoas que não mereciam morrer”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25806\" data-resourceType=\"UWTranslationWords\">culpa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:4\">1 Coríntios 4.4</a></p></li><li><p><a href=\"https://ref.ly/1Sam19:5\">1 Samuel 19.5</a></p></li><li><p><a href=\"https://ref.ly/Acts20:26\">Atos 20.26</a></p></li><li><p><a href=\"https://ref.ly/Exod23:7\">Êxodo 23.7</a></p></li><li><p><a href=\"https://ref.ly/Jer22:17\">Jeremias 22.17</a></p></li><li><p><a href=\"https://ref.ly/Job9:23\">Jó 9.23</a></p></li><li><p><a href=\"https://ref.ly/Rom16:18\">Romanos 16.18</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>8.6</strong> Após dois anos, José ainda estava na prisão, embora fosse <strong>inocente</strong>.</p></li><li><p><strong>40.4</strong> Um deles zombou de Jesus, mas o outro disse: “Você não tem medo de Deus? Nós somos culpados, mas este homem é <strong>inocente</strong>”.</p></li><li><p><strong>40.8</strong> Quando o soldado que guardava Jesus viu tudo o que aconteceu, ele disse: “Certamente, este homem era <strong>inocente</strong>. Ele era o Filho de Deus”.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2136, H2600, H2643, H5352, H5355, H5356, G01210</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01020005",
+          "start_ref_usfm": "GEN 20:5",
+          "end_ref": "01020005",
+          "end_ref_usfm": "GEN 20:5"
+        },
+        {
+          "start_ref": "01044010",
+          "start_ref_usfm": "GEN 44:10",
+          "end_ref": "01044010",
+          "end_ref_usfm": "GEN 44:10"
+        },
+        {
+          "start_ref": "02021028",
+          "start_ref_usfm": "EXO 21:28",
+          "end_ref": "02021028",
+          "end_ref_usfm": "EXO 21:28"
+        },
+        {
+          "start_ref": "02023007",
+          "start_ref_usfm": "EXO 23:7",
+          "end_ref": "02023007",
+          "end_ref_usfm": "EXO 23:7"
+        },
+        {
+          "start_ref": "09019005",
+          "start_ref_usfm": "1SA 19:5",
+          "end_ref": "09019005",
+          "end_ref_usfm": "1SA 19:5"
+        },
+        {
+          "start_ref": "18004007",
+          "start_ref_usfm": "JOB 4:7",
+          "end_ref": "18004007",
+          "end_ref_usfm": "JOB 4:7"
+        },
+        {
+          "start_ref": "18009023",
+          "start_ref_usfm": "JOB 9:23",
+          "end_ref": "18009023",
+          "end_ref_usfm": "JOB 9:23"
+        },
+        {
+          "start_ref": "18022030",
+          "start_ref_usfm": "JOB 22:30",
+          "end_ref": "18022030",
+          "end_ref_usfm": "JOB 22:30"
+        },
+        {
+          "start_ref": "18027017",
+          "start_ref_usfm": "JOB 27:17",
+          "end_ref": "18027017",
+          "end_ref_usfm": "JOB 27:17"
+        },
+        {
+          "start_ref": "20001011",
+          "start_ref_usfm": "PRO 1:11",
+          "end_ref": "20001011",
+          "end_ref_usfm": "PRO 1:11"
+        },
+        {
+          "start_ref": "20006017",
+          "start_ref_usfm": "PRO 6:17",
+          "end_ref": "20006017",
+          "end_ref_usfm": "PRO 6:17"
+        },
+        {
+          "start_ref": "24022017",
+          "start_ref_usfm": "JER 22:17",
+          "end_ref": "24022017",
+          "end_ref_usfm": "JER 22:17"
+        },
+        {
+          "start_ref": "32001014",
+          "start_ref_usfm": "JON 1:14",
+          "end_ref": "32001014",
+          "end_ref_usfm": "JON 1:14"
+        },
+        {
+          "start_ref": "40012005",
+          "start_ref_usfm": "MAT 12:5",
+          "end_ref": "40012005",
+          "end_ref_usfm": "MAT 12:5"
+        },
+        {
+          "start_ref": "40012007",
+          "start_ref_usfm": "MAT 12:7",
+          "end_ref": "40012007",
+          "end_ref_usfm": "MAT 12:7"
+        },
+        {
+          "start_ref": "40027004",
+          "start_ref_usfm": "MAT 27:4",
+          "end_ref": "40027004",
+          "end_ref_usfm": "MAT 27:4"
+        },
+        {
+          "start_ref": "40027024",
+          "start_ref_usfm": "MAT 27:24",
+          "end_ref": "40027024",
+          "end_ref_usfm": "MAT 27:24"
+        },
+        {
+          "start_ref": "44020026",
+          "start_ref_usfm": "ACT 20:26",
+          "end_ref": "44020026",
+          "end_ref_usfm": "ACT 20:26"
+        },
+        {
+          "start_ref": "45016018",
+          "start_ref_usfm": "ROM 16:18",
+          "end_ref": "45016018",
+          "end_ref_usfm": "ROM 16:18"
+        },
+        {
+          "start_ref": "45016019",
+          "start_ref_usfm": "ROM 16:19",
+          "end_ref": "45016019",
+          "end_ref_usfm": "ROM 16:19"
+        },
+        {
+          "start_ref": "46004004",
+          "start_ref_usfm": "1CO 4:4",
+          "end_ref": "46004004",
+          "end_ref_usfm": "1CO 4:4"
+        },
+        {
+          "start_ref": "58007026",
+          "start_ref_usfm": "HEB 7:26",
+          "end_ref": "58007026",
+          "end_ref_usfm": "HEB 7:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25806,
+          "content_id": 237939,
+          "label": "Culpa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

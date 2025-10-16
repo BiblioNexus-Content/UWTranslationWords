@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238024,
+    "reference_id": 25891,
+    "title": "Jeorão",
+    "media_type": "Text",
+    "index_reference": "jeorão",
+    "language": "por",
+    "content": "<h1>Jeorão, Jorão</h1><h2>Fatos:</h2><p>“Jeorão” era o nome de dois reis no Antigo Testamento. Ambos os reis também eram conhecidos como “Jorão”.</p><ul><li><p>Um rei Jeorão governou o reino de Judá por oito anos. Ele era filho do rei Josafá. Este é o rei que é mais comumente conhecido como Jeorão.</p></li><li><p>O outro rei Jeorão governou o reino de Israel por doze anos. Ele era filho do rei Acabe.</p></li><li><p>O rei Jeorão de Judá reinou durante o tempo em que os profetas Jeremias, Daniel, Obadias e Ezequiel estavam profetizando no reino de Judá.</p></li><li><p>O rei Jeorão também reinou durante parte do tempo em que seu pai, o rei Josafá, estava reinando sobre Judá.</p></li><li><p>Algumas traduções podem optar por usar consistentemente o nome “Jeorão” quando este rei de Israel é mencionado e o nome “Jorão” para o rei de Judá.</p></li><li><p>Outra maneira de identificar claramente cada um seria incluir o nome de seu pai.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Josafá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25916\" data-resourceType=\"UWTranslationWords\">Jorão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26059\" data-resourceType=\"UWTranslationWords\">Obadias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs22:48-1Kgs22:50\">1 Reis 22.48–50</a></p></li><li><p><a href=\"https://ref.ly/2Chr21:3\">2 Crônicas 21.3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs11:1-2Kgs11:3\">2 Reis 11.1–3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs12:18\">2 Reis 12.18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3088, H3141, G24960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12012018",
+          "start_ref_usfm": "2KI 12:18",
+          "end_ref": "12012018",
+          "end_ref_usfm": "2KI 12:18"
+        },
+        {
+          "start_ref": "14021003",
+          "start_ref_usfm": "2CH 21:3",
+          "end_ref": "14021003",
+          "end_ref_usfm": "2CH 21:3"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "12011001",
+          "start_ref_usfm": "2KI 11:1",
+          "end_ref": "12011003",
+          "end_ref_usfm": "2KI 11:3"
+        },
+        {
+          "start_ref": "11022048",
+          "start_ref_usfm": "1KI 22:48",
+          "end_ref": "11022050",
+          "end_ref_usfm": "1KI 22:50"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 238025,
+          "label": "Josafá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 238049,
+          "label": "Jorão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 238189,
+          "label": "Obadias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

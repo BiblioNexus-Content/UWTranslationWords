@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180358,
+    "reference_id": 26305,
+    "title": "तिर्सा",
+    "media_type": "Text",
+    "index_reference": "तिर्सा",
+    "language": "hin",
+    "content": "<h1>तिर्सा</h1><h2>तथ्य:</h2><p>तिर्सा एक महत्त्वपूर्ण कनानी नगर था जिसे इस्राएल ने जीत लिया था। यह गिलाद की बेटी का नाम भी था, जो मनश्शे के वंशज थे।</p><ul><li><p>तिर्सा नगर मनश्शे के गोत्र के भू-भाग में था। माना जाता है कि यह नगर शकेम के उत्तर में लगभग 10 मील दूर था।</p></li><li><p>साल बाद, इस्राएल के चार राजाओं के शासनकाल के दौरान, तिर्सा , इस्राएल के उत्तरी राज्य का एक अस्थायी राजधानी बन गया।</p></li><li><p>तिर्सा मनश्शे की पोतियों में से एक का नाम था। उनके पिता की मृत्यु के बाद से जमीन का एक हिस्सा देने के लिए कहा और क्योंकि उनके पिता का कोई बेटा नहीं था जैसा सामान्य रिवाज था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">अधिकारी होना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">इस्राएल का राज्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">मनश्शे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26223\" data-resourceType=\"UWTranslationWords\">शेकेम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Num27:1\">गिनती 27:1</a></p></li><li><p><a href=\"https://ref.ly/Num36:10-Num36:12\">गिनती 36:10–12</a></p></li><li><p><a href=\"https://ref.ly/Song6:4\">श्रेष्ठगीत 06:4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8656</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04027001",
+          "start_ref_usfm": "NUM 27:1",
+          "end_ref": "04027001",
+          "end_ref_usfm": "NUM 27:1"
+        },
+        {
+          "start_ref": "04036011",
+          "start_ref_usfm": "NUM 36:11",
+          "end_ref": "04036011",
+          "end_ref_usfm": "NUM 36:11"
+        },
+        {
+          "start_ref": "22006004",
+          "start_ref_usfm": "SNG 6:4",
+          "end_ref": "22006004",
+          "end_ref_usfm": "SNG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 179935,
+          "label": "अधिकारी होना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 180008,
+          "label": "इस्राएल के राज्य",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 180058,
+          "label": "मनश्शे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26223,
+          "content_id": 180278,
+          "label": "शेकेम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

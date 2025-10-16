@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238280,
+    "reference_id": 26150,
+    "title": "Raiva",
+    "media_type": "Text",
+    "index_reference": "raiva",
+    "language": "por",
+    "content": "<h1>raiva</h1><h2>Fatos:</h2><p>O termo “raiva” refere-se a uma intensa ira. Frequentemente, o termo é usado para descrever uma pessoa zangada que está fora de controle de alguma forma.</p><ul><li><p>Quando usado como verbo, o termo “raiva” pode significar mover-se poderosamente, como em descrições de uma tempestade “furiosa” ou ondas do mar que “rugem”.</p></li><li><p>Estar “cheio de raiva” significa ter um sentimento avassalador de extrema ira.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26213\" data-resourceType=\"UWTranslationWords\">autocontrole</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:25\">Atos 4.25</a></p></li><li><p><a href=\"https://ref.ly/Dan3:13\">Daniel 3.13</a></p></li><li><p><a href=\"https://ref.ly/Luke4:28\">Lucas 4.28</a></p></li><li><p><a href=\"https://ref.ly/Num25:11\">Números 25.11</a></p></li><li><p><a href=\"https://ref.ly/Prov19:3\">Provérbios 19.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0398, H1348, H1984, H1993, H2121, H2195, H2196, H2197, H2534, H2734, H2740, H3491, H3820, H5590, H5678, H7264, H7265, H7266, H7267, H7283, H7857, G16930, G28300, G37100, G54330</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04025011",
+          "start_ref_usfm": "NUM 25:11",
+          "end_ref": "04025011",
+          "end_ref_usfm": "NUM 25:11"
+        },
+        {
+          "start_ref": "20019003",
+          "start_ref_usfm": "PRO 19:3",
+          "end_ref": "20019003",
+          "end_ref_usfm": "PRO 19:3"
+        },
+        {
+          "start_ref": "20019012",
+          "start_ref_usfm": "PRO 19:12",
+          "end_ref": "20019012",
+          "end_ref_usfm": "PRO 19:12"
+        },
+        {
+          "start_ref": "27003013",
+          "start_ref_usfm": "DAN 3:13",
+          "end_ref": "27003013",
+          "end_ref_usfm": "DAN 3:13"
+        },
+        {
+          "start_ref": "42004028",
+          "start_ref_usfm": "LUK 4:28",
+          "end_ref": "42004028",
+          "end_ref_usfm": "LUK 4:28"
+        },
+        {
+          "start_ref": "44004025",
+          "start_ref_usfm": "ACT 4:25",
+          "end_ref": "44004025",
+          "end_ref_usfm": "ACT 4:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26213,
+          "content_id": 238342,
+          "label": "Autocontrole",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

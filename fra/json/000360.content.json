@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466953,
+    "reference_id": 25804,
+    "title": "Grèce",
+    "media_type": "Text",
+    "index_reference": "grèce",
+    "language": "fra",
+    "content": "<h1>Grèce</h1><h2>Définition :</h2><p>&quot;Au cours de l&apos;époque du Nouveau Testament, la Grèce était une province de l&apos;Empire romain.</p><ul><li><p>Comme le pays moderne de la Grèce, il était situé sur une péninsule qui est bordée par la Méditerranée, la mer Egée et la mer Ionienne.</p></li><li><p>Beaucoup d&apos;églises ont été établies en Grèce au cours du premier siècle; parmi celles-ci il y avaient des églises que l&apos;apôtre Paul avait commencé dans les villes de Corinthe, Thessalonique et Phillipe.</p></li><li><p>Les gens qui sont de la Grèce sont appelés Grecs* Il y avait aussi beaucoup de gens d&apos;autres provinces romaines qui parlaient grec, y compris certains Juifs.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/corinth.md), (../kt/gentile.md), (../names/greek.md), (../kt/hebrew.md), (../names/philippi.md), (../names/thessalonica.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "27008021",
+          "start_ref_usfm": "DAN 8:21",
+          "end_ref": "27008021",
+          "end_ref_usfm": "DAN 8:21"
+        },
+        {
+          "start_ref": "38009013",
+          "start_ref_usfm": "ZEC 9:13",
+          "end_ref": "38009013",
+          "end_ref_usfm": "ZEC 9:13"
+        },
+        {
+          "start_ref": "44020002",
+          "start_ref_usfm": "ACT 20:2",
+          "end_ref": "44020002",
+          "end_ref_usfm": "ACT 20:2"
+        },
+        {
+          "start_ref": "27010020",
+          "start_ref_usfm": "DAN 10:20",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "27011001",
+          "start_ref_usfm": "DAN 11:1",
+          "end_ref": "27011002",
+          "end_ref_usfm": "DAN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25612,
+          "content_id": 466779,
+          "label": "Corinthe ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 466922,
+          "label": "Gentil (Païen)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 466954,
+          "label": "Grecque",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26097,
+          "content_id": 467221,
+          "label": "Philippes",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 467409,
+          "label": "Thessalonique",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25826,
+          "content_id": 466974,
+          "label": "Hébreu(x), hébreu(x), hébraïque",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

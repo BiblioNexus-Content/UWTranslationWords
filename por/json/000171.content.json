@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 238105,
+    "reference_id": 25974,
+    "title": "Ceia do Senhor",
+    "media_type": "Text",
+    "index_reference": "ceia do senhor",
+    "language": "por",
+    "content": "<h1>Ceia do Senhor</h1><h2>Definição:</h2><p>O termo “Ceia do Senhor” foi usado pelo apóstolo Paulo para se referir à refeição da Páscoa que Jesus comeu com seus discípulos na noite em que foi preso pelos líderes judeus.</p><ul><li><p>Durante esta refeição, Jesus partiu o pão da Páscoa em pedaços e chamou-o de seu corpo, que em breve seria açoitado e morto.</p></li><li><p>Ele chamou o cálice de vinho de seu sangue, que em breve seria derramado quando ele morresse como sacrifício pelo pecado.</p></li><li><p>Jesus ordenou que, sempre que seus seguidores compartilhassem esta refeição juntos, eles deveriam lembrar de sua morte e ressurreição.</p></li><li><p>Em sua carta aos Coríntios, o apóstolo Paulo também estabeleceu a Ceia do Senhor como uma prática regular para os crentes em Jesus.</p></li><li><p>As igrejas hoje frequentemente usam o termo “comunhão” para se referir à Ceia do Senhor. O termo “Última Ceia” também é às vezes usado.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Este termo também poderia ser traduzido como “a refeição do Senhor” ou “a refeição de nosso Senhor Jesus” ou “a refeição em memória do Senhor Jesus”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">Páscoa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor11:20\">1 Coríntios 11.20</a></p></li><li><p><a href=\"https://ref.ly/1Cor11:25-1Cor11:26\">1 Coríntios 11.25–26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G11730, G29600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46011020",
+          "start_ref_usfm": "1CO 11:20",
+          "end_ref": "46011020",
+          "end_ref_usfm": "1CO 11:20"
+        },
+        {
+          "start_ref": "46011025",
+          "start_ref_usfm": "1CO 11:25",
+          "end_ref": "46011026",
+          "end_ref_usfm": "1CO 11:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26076,
+          "content_id": 238206,
+          "label": "Páscoa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

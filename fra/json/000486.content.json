@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467143,
+    "reference_id": 26006,
+    "title": "La mer",
+    "media_type": "Text",
+    "index_reference": "la mer",
+    "language": "fra",
+    "content": "<h1>la mer, la grande mer, la mer occidentale</h1><h2>Définition :</h2><p>&quot;Dans la Bible, la «Grande mer» ou «mer de l&apos;Ouest» se réfère à ce qu&apos;on appelle aujourd&apos;hui la «Méditerranée», mer qui était la plus grande masse d&apos;eau connue des gens des temps bibliques.</p><ul><li><p>La Grande (Méditerranée) mer est bordée par: Israël (est), Europe (nord et ouest), et Afrique (sud).</p></li><li><p>Cette mer était très importante dans les temps anciens pour le commerce et le Voyage car elle était entourée par de nombreux pays* Les villes et groupes de personnes situées sur la côte de cette mer étaient très prospères en raison de la façon dont ils avaient facilement accès aux biens d&apos;autres pays par bateau.</p></li><li><p>Comme la Grande Mer est situé à l&apos;ouest d&apos;Israël, elle a été parfois appelé la «mer de l&apos;Ouest*&quot;</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/israel.md), (../other/peoplegroup.md), (../other/prosper.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02023031",
+          "start_ref_usfm": "EXO 23:31",
+          "end_ref": "02023031",
+          "end_ref_usfm": "EXO 23:31"
+        },
+        {
+          "start_ref": "44010006",
+          "start_ref_usfm": "ACT 10:6",
+          "end_ref": "44010006",
+          "end_ref_usfm": "ACT 10:6"
+        },
+        {
+          "start_ref": "44010032",
+          "start_ref_usfm": "ACT 10:32",
+          "end_ref": "44010032",
+          "end_ref_usfm": "ACT 10:32"
+        },
+        {
+          "start_ref": "44017014",
+          "start_ref_usfm": "ACT 17:14",
+          "end_ref": "44017014",
+          "end_ref_usfm": "ACT 17:14"
+        },
+        {
+          "start_ref": "44027030",
+          "start_ref_usfm": "ACT 27:30",
+          "end_ref": "44027030",
+          "end_ref_usfm": "ACT 27:30"
+        },
+        {
+          "start_ref": "44027038",
+          "start_ref_usfm": "ACT 27:38",
+          "end_ref": "44027038",
+          "end_ref_usfm": "ACT 27:38"
+        },
+        {
+          "start_ref": "44027040",
+          "start_ref_usfm": "ACT 27:40",
+          "end_ref": "44027040",
+          "end_ref_usfm": "ACT 27:40"
+        },
+        {
+          "start_ref": "44028004",
+          "start_ref_usfm": "ACT 28:4",
+          "end_ref": "44028004",
+          "end_ref_usfm": "ACT 28:4"
+        },
+        {
+          "start_ref": "06015003",
+          "start_ref_usfm": "JOS 15:3",
+          "end_ref": "06015004",
+          "end_ref_usfm": "JOS 15:4"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        },
+        {
+          "start_ref": "04013027",
+          "start_ref_usfm": "NUM 13:27",
+          "end_ref": "04013029",
+          "end_ref_usfm": "NUM 13:29"
+        },
+        {
+          "start_ref": "26047018",
+          "start_ref_usfm": "EZK 47:18",
+          "end_ref": "26047020",
+          "end_ref_usfm": "EZK 47:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26083,
+          "content_id": 467210,
+          "label": "Groupe de personnes",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26131,
+          "content_id": 467253,
+          "label": "Prospérer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 179714,
+    "reference_id": 25637,
+    "title": "साइप्रस",
+    "media_type": "Text",
+    "index_reference": "साइप्रस",
+    "language": "hin",
+    "content": "<h1>साइप्रस</h1><h2>तथ्य:</h2><p>साइप्रस भूमध्य-सागर का अन्तर्देशीय भाग है जो आज के तुर्किस्तान से 64 किलोमीटर दक्षिण में था।</p><ul><li><p>बरनबास साइप्रस का निवासी था, अतः संभव है कि यूहन्ना मरकुस भी वहीं रहा होगा क्योंकि दोनों रिश्ते में भाई थे।</p></li><li><p>पौलुस और बरनबास ने अपनी प्रथम प्रचार यात्रा के आरंभ में साइप्रस में सुसमाचार सुनाया था। उस यात्रा में यूहन्ना मरकुस उनकी सेवा में था।</p></li><li><p>बाद में बरनबास और यूहन्ना मरकुस ने साइप्रस का पुनः भ्रमण किया था।</p></li><li><p>पुराने नियम में साइप्रस सरू के वृक्षों की बहुतायत के लिए प्रसिद्ध था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">बरनबास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25910\" data-resourceType=\"UWTranslationWords\">यूहन्ना मरकुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26006\" data-resourceType=\"UWTranslationWords\">समुद्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">प्रे.का. 04:36–37</a></p></li><li><p><a href=\"https://ref.ly/Acts13:4-Acts13:5\">प्रे.का. 13:4–5</a></p></li><li><p><a href=\"https://ref.ly/Acts15:39-Acts15:41\">प्रे.का. 15:39–41</a></p></li><li><p><a href=\"https://ref.ly/Acts27:3-Acts27:6\">प्रे.का. 27:3–6</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:6-Ezek27:7\">यहेजकेल 27:6–7</a></p></li><li><p><a href=\"https://ref.ly/Isa23:10-Isa23:12\">यशायाह 23:10–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2953, G2954</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013004",
+          "end_ref_usfm": "ACT 13:4"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44027004",
+          "start_ref_usfm": "ACT 27:4",
+          "end_ref": "44027004",
+          "end_ref_usfm": "ACT 27:4"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "26027006",
+          "start_ref_usfm": "EZK 27:6",
+          "end_ref": "26027007",
+          "end_ref_usfm": "EZK 27:7"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 179594,
+          "label": "बरनबास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 179977,
+          "label": "यूहन्ना मरकुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 180070,
+          "label": "समुद्र",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26707,
+    "reference_id": 25849,
+    "title": "Horror",
+    "media_type": "Text",
+    "index_reference": "horror",
+    "language": "eng",
+    "content": "<h1>horror, horrible, object of horror</h1><h2>Definition:</h2><p>The term “horror” refers to a very intense feeling of fear or terror. The person who is feeling horror is said to be “horrified.”</p><ul><li><p>Horror is more dramatic and intense than ordinary fear.</p></li><li><p>Usually when someone is horrified they are also in shock or stunned.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">fear</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26291\" data-resourceType=\"UWTranslationWords\">terror</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut28:37\">Deuteronomy 28:37</a></p></li><li><p><a href=\"https://ref.ly/Ezek23:33\">Ezekiel 23:33</a></p></li><li><p><a href=\"https://ref.ly/Jer2:12-Jer2:13\">Jeremiah 2:12–13</a></p></li><li><p><a href=\"https://ref.ly/Job21:4-Job21:6\">Job 21:4–6</a></p></li><li><p><a href=\"https://ref.ly/Ps55:5\">Psalms 55:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1091, H1763, H2189, H4032, H4923, H5892, H6343, H6427, H7588, H8047, H8074, H8175, H8178, H8186</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05028037",
+          "start_ref_usfm": "DEU 28:37",
+          "end_ref": "05028037",
+          "end_ref_usfm": "DEU 28:37"
+        },
+        {
+          "start_ref": "19055005",
+          "start_ref_usfm": "PSA 55:5",
+          "end_ref": "19055005",
+          "end_ref_usfm": "PSA 55:5"
+        },
+        {
+          "start_ref": "26023033",
+          "start_ref_usfm": "EZK 23:33",
+          "end_ref": "26023033",
+          "end_ref_usfm": "EZK 23:33"
+        },
+        {
+          "start_ref": "24002012",
+          "start_ref_usfm": "JER 2:12",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "18021004",
+          "start_ref_usfm": "JOB 21:4",
+          "end_ref": "18021006",
+          "end_ref_usfm": "JOB 21:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 26593,
+          "label": "Fear",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26291,
+          "content_id": 27149,
+          "label": "Terror",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

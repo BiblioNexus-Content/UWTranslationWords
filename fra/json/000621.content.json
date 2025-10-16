@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467441,
+    "reference_id": 26331,
+    "title": "Ozias",
+    "media_type": "Text",
+    "index_reference": "ozias",
+    "language": "fra",
+    "content": "<h1>Ozias, Azaria</h1><h2>Données :</h2><p>Ozias est devenu roi de Juda à l&apos;âge de 16 ans et a régné 52 ans, ce qui a été un règne inhabituellement long. Ozias était aussi connu comme « Azaria ».</p><ul><li><p>Le roi Ozias était bien connu pour ses armées organisées et qualifiées. Il a fait construire des tours pour protéger la ville et a y fait monter des armes de guerre spécialement conçues pour lancer des flèches et de grosses pierres.</p></li><li><p>Aussi longtemps qu&apos;Ozias a servi le Seigneur, il a prospéré. Vers la fin de son règne, cependant, il est devenu fier et il a désobéi au Seigneur en brûlant de l&apos;encens dans le temple, ce que seul un prêtre était autorisé à faire.</p></li><li><p>À cause de ce péché, Ozias a été frappé par la lèpre et a dû vivre isolé des autres jusqu&apos;à la fin de son règne.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25965\" data-resourceType=\"UWTranslationWords\">leprosy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26166\" data-resourceType=\"UWTranslationWords\">reign</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26343\" data-resourceType=\"UWTranslationWords\">watchtower</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12014021",
+          "start_ref_usfm": "2KI 14:21",
+          "end_ref": "12014021",
+          "end_ref_usfm": "2KI 14:21"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "23006001",
+          "start_ref_usfm": "ISA 6:1",
+          "end_ref": "23006002",
+          "end_ref_usfm": "ISA 6:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25965,
+          "content_id": 467105,
+          "label": "Lèpre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26166,
+          "content_id": 467286,
+          "label": "Règne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26343,
+          "content_id": 467451,
+          "label": "Tour de garde",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

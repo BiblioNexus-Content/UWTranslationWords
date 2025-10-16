@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26571,
+    "reference_id": 25713,
+    "title": "Ethiopia",
+    "media_type": "Text",
+    "index_reference": "ethiopia",
+    "language": "eng",
+    "content": "<h1>Ethiopia, Ethiopian</h1><h2>Facts:</h2><p>Ethiopia is a country in Africa located just south of Egypt, bordered by the Nile River to the west and by the Red Sea to the east. A person from Ethiopia is an “Ethiopian.”</p><ul><li><p>Ancient Ethiopia was located south of Egypt and included land that is now part of several modern-day African countries, such as Sudan, modern Ethiopia, Somalia, Kenya, Uganda, Central African Republic, and Chad.</p></li><li><p>In the Bible, Ethiopia is sometimes called “Cush” or “Nubia.”</p></li><li><p>The countries of Ethiopia (“Cush”) and Egypt are often mentioned together in the Bible, perhaps because they were located next to each other and their people may have had some of the same ancestors.</p></li><li><p>God sent Philip the evangelist to a desert where he shared the good news about Jesus with an Ethiopian eunuch.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25634\" data-resourceType=\"UWTranslationWords\">Cush</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25714\" data-resourceType=\"UWTranslationWords\">eunuch</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Philip</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts8:27\">Acts 8:27</a></p></li><li><p><a href=\"https://ref.ly/Acts8:30\">Acts 8:30</a></p></li><li><p><a href=\"https://ref.ly/Acts8:32-Acts8:33\">Acts 8:32–33</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36-Acts8:38\">Acts 8:36–38</a></p></li><li><p><a href=\"https://ref.ly/Isa18:1-Isa18:2\">Isaiah 18:1–2</a></p></li><li><p><a href=\"https://ref.ly/Nah3:9\">Nahum 3:9</a></p></li><li><p><a href=\"https://ref.ly/Zeph3:9-Zeph3:11\">Zephaniah 3:9–11</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G01280</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18028019",
+          "start_ref_usfm": "JOB 28:19",
+          "end_ref": "18028019",
+          "end_ref_usfm": "JOB 28:19"
+        },
+        {
+          "start_ref": "34003009",
+          "start_ref_usfm": "NAM 3:9",
+          "end_ref": "34003009",
+          "end_ref_usfm": "NAM 3:9"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44008032",
+          "start_ref_usfm": "ACT 8:32",
+          "end_ref": "44008033",
+          "end_ref_usfm": "ACT 8:33"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "23018001",
+          "start_ref_usfm": "ISA 18:1",
+          "end_ref": "23018002",
+          "end_ref_usfm": "ISA 18:2"
+        },
+        {
+          "start_ref": "36003009",
+          "start_ref_usfm": "ZEP 3:9",
+          "end_ref": "36003011",
+          "end_ref_usfm": "ZEP 3:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25634,
+          "content_id": 26492,
+          "label": "Cush",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25714,
+          "content_id": 26572,
+          "label": "Eunuch",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 26954,
+          "label": "Philip",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

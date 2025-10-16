@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 466772,
+    "reference_id": 25604,
+    "title": "Concubine",
+    "media_type": "Text",
+    "index_reference": "concubine",
+    "language": "fra",
+    "content": "<h1>concubine</h1><h2>Définition :</h2><p>Une concubine est une femme qui est une épouse secondaire pour un homme qui a déjà une femme* Habituellement, une concubine n&apos;est pas légalement mariée à l&apos;homme.</p><ul><li><p>Dans l&apos;Ancien Testament, les concubines étaient souvent des femmes esclaves.</p></li><li><p>Une concubine pourrait être acquise par achat, par la conquête militaire, ou en paiement d&apos;une dette.</p></li><li><p>Lorsqu&apos;un roi avait de nombreuses concubines, c&apos;était un signe de puissance*Souvent</p></li><li><p>Le Nouveau Testament enseigne qu&apos;avoir une concubine est contre la volonté de Dieu.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
+        },
+        {
+          "start_ref": "01025006",
+          "start_ref_usfm": "GEN 25:6",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "10003007",
+          "start_ref_usfm": "2SA 3:7",
+          "end_ref": "10003007",
+          "end_ref_usfm": "2SA 3:7"
+        },
+        {
+          "start_ref": "01025005",
+          "start_ref_usfm": "GEN 25:5",
+          "end_ref": "01025006",
+          "end_ref_usfm": "GEN 25:6"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "07019001",
+          "start_ref_usfm": "JDG 19:1",
+          "end_ref": "07019002",
+          "end_ref_usfm": "JDG 19:2"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "content_id": 466695,
+    "reference_id": 25521,
+    "title": "Mendier",
+    "media_type": "Text",
+    "index_reference": "mendier",
+    "language": "fra",
+    "content": "<h1>mendier ,mendiant</h1><h2>Définition :</h2><p>&quot;Mendier&quot; est demander quelque chose de toute urgence* Souvent, il se réfère à demander de l&apos;argent.</p><ul><li><p>Un &quot;mendiant&quot; est quelqu&apos;un qui est assis ou débout dans un lieu public pour demander aux gens de l&apos;argent régulièrement.</p></li><li><p>Souvent, les gens quemandent quand ils ont besoin fortement de quelque chose, mais ne savent pas si l&apos;autre personne va leur donner ce qu&apos;ils demandent* Cela pourrait aussi être traduit par &quot;plaider&quot; ou &quot;demander de toute urgence *&quot;</p></li></ul><p>Lorsqu&apos;on se réfère à demander de l&apos;argent, «mendier» pourrait aussi être traduit par « demander de l&apos;argent &quot; ou &quot;demander régulièrement de l&apos;argent*&quot;</p><p>(Voir aussi : (../other/plead.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20020004",
+          "start_ref_usfm": "PRO 20:4",
+          "end_ref": "20020004",
+          "end_ref_usfm": "PRO 20:4"
+        },
+        {
+          "start_ref": "40008005",
+          "start_ref_usfm": "MAT 8:5",
+          "end_ref": "40008005",
+          "end_ref_usfm": "MAT 8:5"
+        },
+        {
+          "start_ref": "40008031",
+          "start_ref_usfm": "MAT 8:31",
+          "end_ref": "40008031",
+          "end_ref_usfm": "MAT 8:31"
+        },
+        {
+          "start_ref": "40008034",
+          "start_ref_usfm": "MAT 8:34",
+          "end_ref": "40008034",
+          "end_ref_usfm": "MAT 8:34"
+        },
+        {
+          "start_ref": "40009038",
+          "start_ref_usfm": "MAT 9:38",
+          "end_ref": "40009038",
+          "end_ref_usfm": "MAT 9:38"
+        },
+        {
+          "start_ref": "40014036",
+          "start_ref_usfm": "MAT 14:36",
+          "end_ref": "40014036",
+          "end_ref_usfm": "MAT 14:36"
+        },
+        {
+          "start_ref": "40018029",
+          "start_ref_usfm": "MAT 18:29",
+          "end_ref": "40018029",
+          "end_ref_usfm": "MAT 18:29"
+        },
+        {
+          "start_ref": "40018032",
+          "start_ref_usfm": "MAT 18:32",
+          "end_ref": "40018032",
+          "end_ref_usfm": "MAT 18:32"
+        },
+        {
+          "start_ref": "41001040",
+          "start_ref_usfm": "MRK 1:40",
+          "end_ref": "41001040",
+          "end_ref_usfm": "MRK 1:40"
+        },
+        {
+          "start_ref": "41005010",
+          "start_ref_usfm": "MRK 5:10",
+          "end_ref": "41005010",
+          "end_ref_usfm": "MRK 5:10"
+        },
+        {
+          "start_ref": "41005012",
+          "start_ref_usfm": "MRK 5:12",
+          "end_ref": "41005012",
+          "end_ref_usfm": "MRK 5:12"
+        },
+        {
+          "start_ref": "41005017",
+          "start_ref_usfm": "MRK 5:17",
+          "end_ref": "41005017",
+          "end_ref_usfm": "MRK 5:17"
+        },
+        {
+          "start_ref": "41005018",
+          "start_ref_usfm": "MRK 5:18",
+          "end_ref": "41005018",
+          "end_ref_usfm": "MRK 5:18"
+        },
+        {
+          "start_ref": "41005023",
+          "start_ref_usfm": "MRK 5:23",
+          "end_ref": "41005023",
+          "end_ref_usfm": "MRK 5:23"
+        },
+        {
+          "start_ref": "41006056",
+          "start_ref_usfm": "MRK 6:56",
+          "end_ref": "41006056",
+          "end_ref_usfm": "MRK 6:56"
+        },
+        {
+          "start_ref": "41007032",
+          "start_ref_usfm": "MRK 7:32",
+          "end_ref": "41007032",
+          "end_ref_usfm": "MRK 7:32"
+        },
+        {
+          "start_ref": "41008022",
+          "start_ref_usfm": "MRK 8:22",
+          "end_ref": "41008022",
+          "end_ref_usfm": "MRK 8:22"
+        },
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010046",
+          "end_ref_usfm": "MRK 10:46"
+        },
+        {
+          "start_ref": "42005012",
+          "start_ref_usfm": "LUK 5:12",
+          "end_ref": "42005012",
+          "end_ref_usfm": "LUK 5:12"
+        },
+        {
+          "start_ref": "42007003",
+          "start_ref_usfm": "LUK 7:3",
+          "end_ref": "42007003",
+          "end_ref_usfm": "LUK 7:3"
+        },
+        {
+          "start_ref": "42007004",
+          "start_ref_usfm": "LUK 7:4",
+          "end_ref": "42007004",
+          "end_ref_usfm": "LUK 7:4"
+        },
+        {
+          "start_ref": "42008028",
+          "start_ref_usfm": "LUK 8:28",
+          "end_ref": "42008028",
+          "end_ref_usfm": "LUK 8:28"
+        },
+        {
+          "start_ref": "42008031",
+          "start_ref_usfm": "LUK 8:31",
+          "end_ref": "42008031",
+          "end_ref_usfm": "LUK 8:31"
+        },
+        {
+          "start_ref": "42008032",
+          "start_ref_usfm": "LUK 8:32",
+          "end_ref": "42008032",
+          "end_ref_usfm": "LUK 8:32"
+        },
+        {
+          "start_ref": "42008038",
+          "start_ref_usfm": "LUK 8:38",
+          "end_ref": "42008038",
+          "end_ref_usfm": "LUK 8:38"
+        },
+        {
+          "start_ref": "42008041",
+          "start_ref_usfm": "LUK 8:41",
+          "end_ref": "42008041",
+          "end_ref_usfm": "LUK 8:41"
+        },
+        {
+          "start_ref": "42009038",
+          "start_ref_usfm": "LUK 9:38",
+          "end_ref": "42009038",
+          "end_ref_usfm": "LUK 9:38"
+        },
+        {
+          "start_ref": "42009040",
+          "start_ref_usfm": "LUK 9:40",
+          "end_ref": "42009040",
+          "end_ref_usfm": "LUK 9:40"
+        },
+        {
+          "start_ref": "42016003",
+          "start_ref_usfm": "LUK 16:3",
+          "end_ref": "42016003",
+          "end_ref_usfm": "LUK 16:3"
+        },
+        {
+          "start_ref": "42018035",
+          "start_ref_usfm": "LUK 18:35",
+          "end_ref": "42018035",
+          "end_ref_usfm": "LUK 18:35"
+        },
+        {
+          "start_ref": "43009008",
+          "start_ref_usfm": "JHN 9:8",
+          "end_ref": "43009008",
+          "end_ref_usfm": "JHN 9:8"
+        },
+        {
+          "start_ref": "44013042",
+          "start_ref_usfm": "ACT 13:42",
+          "end_ref": "44013042",
+          "end_ref_usfm": "ACT 13:42"
+        },
+        {
+          "start_ref": "44016015",
+          "start_ref_usfm": "ACT 16:15",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016039",
+          "start_ref_usfm": "ACT 16:39",
+          "end_ref": "44016039",
+          "end_ref_usfm": "ACT 16:39"
+        },
+        {
+          "start_ref": "44021012",
+          "start_ref_usfm": "ACT 21:12",
+          "end_ref": "44021012",
+          "end_ref_usfm": "ACT 21:12"
+        },
+        {
+          "start_ref": "44024004",
+          "start_ref_usfm": "ACT 24:4",
+          "end_ref": "44024004",
+          "end_ref_usfm": "ACT 24:4"
+        },
+        {
+          "start_ref": "44025002",
+          "start_ref_usfm": "ACT 25:2",
+          "end_ref": "44025002",
+          "end_ref_usfm": "ACT 25:2"
+        },
+        {
+          "start_ref": "44028014",
+          "start_ref_usfm": "ACT 28:14",
+          "end_ref": "44028014",
+          "end_ref_usfm": "ACT 28:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26108,
+          "content_id": 467232,
+          "label": "Plaider",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

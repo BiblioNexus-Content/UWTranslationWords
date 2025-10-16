@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 467308,
+    "reference_id": 26189,
+    "title": "Sadducéen",
+    "media_type": "Text",
+    "index_reference": "sadducéen",
+    "language": "fra",
+    "content": "<h1>sadducéen</h1><h2>Définition :</h2><p>Les sadducéens étaient un groupe politique de prêtres juifs à l&apos;époque de Jésus-Christ. Ils soutenaient la domination romaine et ne croyaient pas à la résurrection.</p><ul><li><p>De nombreux sadducéens étaient des Juifs riches de la classe supérieure qui occupaient des postes de direction puissants tels que grand prêtre et souverain sacrificateur.</p></li><li><p>Les fonctions des Sadducéens comprenaient l&apos;entretien du complexe du temple et les tâches sacerdotales telles que l&apos;offrande des sacrifices.</p></li><li><p>Les Sadducéens et les Pharisiens ont joué un rôle majeur dans la crucifixion de Jésus-Christ.</p></li><li><p>Jésus a parlé contre ces deux groupes religieux en raison de leur égoïsme et de leur hypocrisie.</p></li></ul><p>(Voir aussi : (../other/chiefpriests.md), (../other/council.md), (../kt/highpriest.md), (../kt/hypocrite.md), (../other/jewishleaders.md), (../kt/pharisee.md), (../kt/priest.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016001",
+          "end_ref_usfm": "MAT 16:1"
+        },
+        {
+          "start_ref": "40016006",
+          "start_ref_usfm": "MAT 16:6",
+          "end_ref": "40016006",
+          "end_ref_usfm": "MAT 16:6"
+        },
+        {
+          "start_ref": "40016011",
+          "start_ref_usfm": "MAT 16:11",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40016012",
+          "start_ref_usfm": "MAT 16:12",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022023",
+          "end_ref_usfm": "MAT 22:23"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022034",
+          "end_ref_usfm": "MAT 22:34"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012018",
+          "end_ref_usfm": "MRK 12:18"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020027",
+          "end_ref_usfm": "LUK 20:27"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004001",
+          "end_ref_usfm": "ACT 4:1"
+        },
+        {
+          "start_ref": "44004003",
+          "start_ref_usfm": "ACT 4:3",
+          "end_ref": "44004003",
+          "end_ref_usfm": "ACT 4:3"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023006",
+          "end_ref_usfm": "ACT 23:6"
+        },
+        {
+          "start_ref": "44023007",
+          "start_ref_usfm": "ACT 23:7",
+          "end_ref": "44023007",
+          "end_ref_usfm": "ACT 23:7"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 466783,
+          "label": "Conseil",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25861,
+          "content_id": 467007,
+          "label": "Hypocrite",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25903,
+          "content_id": 467048,
+          "label": "Chefs des juifs",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 467219,
+          "label": "Pharisien",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

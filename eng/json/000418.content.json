@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26689,
+    "reference_id": 25831,
+    "title": "Herodias",
+    "media_type": "Text",
+    "index_reference": "herodias",
+    "language": "eng",
+    "content": "<h1>Herodias</h1><h2>Facts:</h2><p>Herodias was the wife of Herod Antipas in Judea during the time of John the Baptist.</p><ul><li><p>Herodias was originally the wife of Herod Antipas’s brother Philip, but later she unlawfully married Herod Antipas.</p></li><li><p>John the Baptist rebuked Herod and Herodias for their unlawful marriage. Because of this, Herod put John in prison and because of Herodias eventually was beheaded.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herod Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">John (the Baptist)</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke3:19\">Luke 3:19</a></p></li><li><p><a href=\"https://ref.ly/Mark6:17\">Mark 6:17</a></p></li><li><p><a href=\"https://ref.ly/Mark6:22\">Mark 6:22</a></p></li><li><p><a href=\"https://ref.ly/Matt14:4\">Matthew 14:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G22660</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014003",
+          "start_ref_usfm": "MAT 14:3",
+          "end_ref": "40014003",
+          "end_ref_usfm": "MAT 14:3"
+        },
+        {
+          "start_ref": "40014004",
+          "start_ref_usfm": "MAT 14:4",
+          "end_ref": "40014004",
+          "end_ref_usfm": "MAT 14:4"
+        },
+        {
+          "start_ref": "40014006",
+          "start_ref_usfm": "MAT 14:6",
+          "end_ref": "40014006",
+          "end_ref_usfm": "MAT 14:6"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006017",
+          "end_ref_usfm": "MRK 6:17"
+        },
+        {
+          "start_ref": "41006019",
+          "start_ref_usfm": "MRK 6:19",
+          "end_ref": "41006019",
+          "end_ref_usfm": "MRK 6:19"
+        },
+        {
+          "start_ref": "41006022",
+          "start_ref_usfm": "MRK 6:22",
+          "end_ref": "41006022",
+          "end_ref_usfm": "MRK 6:22"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 26688,
+          "label": "Herodantipas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 26770,
+          "label": "John the Baptist",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

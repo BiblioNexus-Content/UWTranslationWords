@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238153,
+    "reference_id": 26023,
+    "title": "Míriam",
+    "media_type": "Text",
+    "index_reference": "míriam",
+    "language": "por",
+    "content": "<h1>Míriam (Miriã)</h1><h2>Fatos:</h2><p>Míriam era a irmã mais velha de Arão e Moisés.</p><ul><li><p>Quando era jovem, Míriam foi instruída por sua mãe a cuidar de seu irmãozinho Moisés, que estava em um cesto entre os juncos do Rio Nilo. Quando a filha do faraó encontrou o bebê e precisava de alguém para cuidar dele, Míriam trouxe sua mãe para fazê-lo.</p></li><li><p>Míriam liderou os israelitas em uma dança de alegria e agradecimento depois que eles escaparam dos egípcios atravessando o Mar Vermelho.</p></li><li><p>Anos depois, enquanto os israelitas vagavam pelo deserto, Míriam e Arão começaram a falar mal de Moisés porque ele havia se casado com uma mulher cuxita.</p></li><li><p>Por causa de sua rebelião ao falar contra Moisés, Deus fez com que Míriam ficasse doente com lepra. Porém, depois Deus a curou quando Moisés intercedeu por ela.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25417\" data-resourceType=\"UWTranslationWords\">Arão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25634\" data-resourceType=\"UWTranslationWords\">Cuxe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25873\" data-resourceType=\"UWTranslationWords\">interceder</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moisés</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26053\" data-resourceType=\"UWTranslationWords\">Rio Nilo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">Faraó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26157\" data-resourceType=\"UWTranslationWords\">rebelde</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:1-1Chr6:3\">1 Crônicas 6.1–3</a></p></li><li><p><a href=\"https://ref.ly/Deut24:8-Deut24:9\">Deuteronômio 24.8–9</a></p></li><li><p><a href=\"https://ref.ly/Mic6:4\">Miquéias 6.4</a></p></li><li><p><a href=\"https://ref.ly/Num12:2\">Números 12.2</a></p></li><li><p><a href=\"https://ref.ly/Num20:1\">Números 20.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4813</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015020",
+          "start_ref_usfm": "EXO 15:20",
+          "end_ref": "02015020",
+          "end_ref_usfm": "EXO 15:20"
+        },
+        {
+          "start_ref": "02015021",
+          "start_ref_usfm": "EXO 15:21",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "04012002",
+          "start_ref_usfm": "NUM 12:2",
+          "end_ref": "04012002",
+          "end_ref_usfm": "NUM 12:2"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020001",
+          "end_ref_usfm": "NUM 20:1"
+        },
+        {
+          "start_ref": "33006004",
+          "start_ref_usfm": "MIC 6:4",
+          "end_ref": "33006004",
+          "end_ref_usfm": "MIC 6:4"
+        },
+        {
+          "start_ref": "13006001",
+          "start_ref_usfm": "1CH 6:1",
+          "end_ref": "13006003",
+          "end_ref_usfm": "1CH 6:3"
+        },
+        {
+          "start_ref": "05024008",
+          "start_ref_usfm": "DEU 24:8",
+          "end_ref": "05024009",
+          "end_ref_usfm": "DEU 24:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 237555,
+          "label": "Arão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25634,
+          "content_id": 237767,
+          "label": "Cuxe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25873,
+          "content_id": 238006,
+          "label": "Interceder",
+          "language": "por"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 238161,
+          "label": "Moisés",
+          "language": "por"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 238183,
+          "label": "Rio Nilo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 238224,
+          "label": "Faraó",
+          "language": "por"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 238287,
+          "label": "Rebelar-se",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

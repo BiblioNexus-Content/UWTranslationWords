@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 466976,
+    "reference_id": 25828,
+    "title": "Héritier",
+    "media_type": "Text",
+    "index_reference": "héritier",
+    "language": "fra",
+    "content": "<h1>héritier, cohéritier, héritage, hériter</h1><h2>Définition :</h2><p>Un &quot;héritier&quot; est une personne qui reçoit légalement des biens ou de l&apos;argent qui appartient à une personne qui est décédée.</p><ul><li><p>Dans les temps bibliques, l&apos;héritier principal était le fils aîné qui recevait généralement la plupart des biens et de l&apos;argent de son père.</p></li><li><p>La Bible utilise aussi le terme &quot;héritier&quot; dans un sens figuré en ce qui concerne les chrétiens qui reçoivent des dons spirituels de Dieu comme leur père.</p></li><li><p>En tant qu&apos;enfants de Dieu, les Chrétiens sont des &quot;cohéritiers&quot; avec Jésus-Christ. Ce terme peut aussi être traduit par, &quot;copartageant&quot;, &quot;héritier en commun ou &quot;héritier avec&quot;.</p></li><li><p>Le terme &quot;héritier&quot; pourrait être traduit par &quot;personne recevant un héritage&quot;, ou toute autre expression utilisée dans la langue cible pour communiquer le sens de quelqu&apos;un qui reçoit les biens d&apos;un parent décédé.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25742\" data-resourceType=\"UWTranslationWords\">premier né</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">hériter</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015001",
+          "end_ref_usfm": "GEN 15:1"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021010",
+          "end_ref_usfm": "GEN 21:10"
+        },
+        {
+          "start_ref": "40021038",
+          "start_ref_usfm": "MAT 21:38",
+          "end_ref": "40021038",
+          "end_ref_usfm": "MAT 21:38"
+        },
+        {
+          "start_ref": "41012007",
+          "start_ref_usfm": "MRK 12:7",
+          "end_ref": "41012007",
+          "end_ref_usfm": "MRK 12:7"
+        },
+        {
+          "start_ref": "42020014",
+          "start_ref_usfm": "LUK 20:14",
+          "end_ref": "42020014",
+          "end_ref_usfm": "LUK 20:14"
+        },
+        {
+          "start_ref": "45004013",
+          "start_ref_usfm": "ROM 4:13",
+          "end_ref": "45004013",
+          "end_ref_usfm": "ROM 4:13"
+        },
+        {
+          "start_ref": "45004014",
+          "start_ref_usfm": "ROM 4:14",
+          "end_ref": "45004014",
+          "end_ref_usfm": "ROM 4:14"
+        },
+        {
+          "start_ref": "45008017",
+          "start_ref_usfm": "ROM 8:17",
+          "end_ref": "45008017",
+          "end_ref_usfm": "ROM 8:17"
+        },
+        {
+          "start_ref": "48004007",
+          "start_ref_usfm": "GAL 4:7",
+          "end_ref": "48004007",
+          "end_ref_usfm": "GAL 4:7"
+        },
+        {
+          "start_ref": "49003006",
+          "start_ref_usfm": "EPH 3:6",
+          "end_ref": "49003006",
+          "end_ref_usfm": "EPH 3:6"
+        },
+        {
+          "start_ref": "56003007",
+          "start_ref_usfm": "TIT 3:7",
+          "end_ref": "56003007",
+          "end_ref_usfm": "TIT 3:7"
+        },
+        {
+          "start_ref": "58001002",
+          "start_ref_usfm": "HEB 1:2",
+          "end_ref": "58001002",
+          "end_ref_usfm": "HEB 1:2"
+        },
+        {
+          "start_ref": "58006017",
+          "start_ref_usfm": "HEB 6:17",
+          "end_ref": "58006017",
+          "end_ref_usfm": "HEB 6:17"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "59002005",
+          "start_ref_usfm": "JAS 2:5",
+          "end_ref": "59002005",
+          "end_ref_usfm": "JAS 2:5"
+        },
+        {
+          "start_ref": "60003007",
+          "start_ref_usfm": "1PE 3:7",
+          "end_ref": "60003007",
+          "end_ref_usfm": "1PE 3:7"
+        },
+        {
+          "start_ref": "48004001",
+          "start_ref_usfm": "GAL 4:1",
+          "end_ref": "48004002",
+          "end_ref_usfm": "GAL 4:2"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021011",
+          "end_ref_usfm": "GEN 21:11"
+        },
+        {
+          "start_ref": "40021038",
+          "start_ref_usfm": "MAT 21:38",
+          "end_ref": "40021039",
+          "end_ref_usfm": "MAT 21:39"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25742,
+          "content_id": 466895,
+          "label": "Premier-né",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 467013,
+          "label": "Hériter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

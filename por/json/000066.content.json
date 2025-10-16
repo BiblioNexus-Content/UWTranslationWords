@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 237683,
+    "reference_id": 25547,
+    "title": "Apagar",
+    "media_type": "Text",
+    "index_reference": "apagar",
+    "language": "por",
+    "content": "<h1>apagar, eliminar</h1><h2>Definição:</h2><p>Os termos “apagar” e “eliminar” são expressões que significam remover ou destruir completamente algo ou alguém.</p><ul><li><p>Essas expressões podem ser usadas em um sentido positivo, como quando Deus “apaga” pecados perdoando-os e escolhendo não se lembrar deles.</p></li><li><p>Também é frequentemente usado em um sentido negativo, como quando Deus “apaga” ou “elimina” um grupo de pessoas, destruindo-os por causa de seus pecados.</p></li><li><p>A Bíblia fala sobre o nome de uma pessoa sendo “apagado” ou “eliminado” do Livro da Vida de Deus, o que significa que a pessoa não receberá a vida eterna.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Dependendo do contexto, essas expressões podem ser traduzidas como “livrar-se de” ou “remover” ou “destruir completamente” ou “remover completamente”.</p></li><li><p>Quando se refere a apagar o nome de alguém do Livro da Vida, isso pode ser traduzido como “removido de” ou “apagado”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut29:20\">Deuteronômio 29.20</a></p></li><li><p><a href=\"https://ref.ly/Exod32:30-Exod32:32\">Êxodo 32.30–32</a></p></li><li><p><a href=\"https://ref.ly/Gen7:23\">Gênesis 7.23</a></p></li><li><p><a href=\"https://ref.ly/Ps51:1\">Salmo 51.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4229, H8045, G18130</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006007",
+          "start_ref_usfm": "GEN 6:7",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "01007004",
+          "start_ref_usfm": "GEN 7:4",
+          "end_ref": "01007004",
+          "end_ref_usfm": "GEN 7:4"
+        },
+        {
+          "start_ref": "01007023",
+          "start_ref_usfm": "GEN 7:23",
+          "end_ref": "01007023",
+          "end_ref_usfm": "GEN 7:23"
+        },
+        {
+          "start_ref": "02017014",
+          "start_ref_usfm": "EXO 17:14",
+          "end_ref": "02017014",
+          "end_ref_usfm": "EXO 17:14"
+        },
+        {
+          "start_ref": "02032032",
+          "start_ref_usfm": "EXO 32:32",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        },
+        {
+          "start_ref": "02032033",
+          "start_ref_usfm": "EXO 32:33",
+          "end_ref": "02032033",
+          "end_ref_usfm": "EXO 32:33"
+        },
+        {
+          "start_ref": "05029020",
+          "start_ref_usfm": "DEU 29:20",
+          "end_ref": "05029020",
+          "end_ref_usfm": "DEU 29:20"
+        },
+        {
+          "start_ref": "16004005",
+          "start_ref_usfm": "NEH 4:5",
+          "end_ref": "16004005",
+          "end_ref_usfm": "NEH 4:5"
+        },
+        {
+          "start_ref": "16013014",
+          "start_ref_usfm": "NEH 13:14",
+          "end_ref": "16013014",
+          "end_ref_usfm": "NEH 13:14"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051001",
+          "end_ref_usfm": "PSA 51:1"
+        },
+        {
+          "start_ref": "20006033",
+          "start_ref_usfm": "PRO 6:33",
+          "end_ref": "20006033",
+          "end_ref_usfm": "PRO 6:33"
+        },
+        {
+          "start_ref": "20031003",
+          "start_ref_usfm": "PRO 31:3",
+          "end_ref": "20031003",
+          "end_ref_usfm": "PRO 31:3"
+        },
+        {
+          "start_ref": "02032030",
+          "start_ref_usfm": "EXO 32:30",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

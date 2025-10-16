@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 180204,
+    "reference_id": 26145,
+    "title": "रानी",
+    "media_type": "Text",
+    "index_reference": "रानी",
+    "language": "hin",
+    "content": "<h1>रानी, रानियाँ</h1><h2>परिभाषा:</h2><p>रानी अर्थात् राजा की पत्नी या किसी देश की शासक।</p><ul><li><p>राजा क्षयर्ष से विवाह करके एस्तेर फारस साम्राज्य की रानी बन गई थी।</p></li><li><p>रानी ईज़ेबेल दुष्ट राजा अहाब की पत्नी थी।</p></li><li><p>शीबा की रानी एक प्रसिद्ध शासक थी जो सुलैमान से भेंट करने आई थी।</p></li><li><p>“राज माता” राज करने वाले राजा की माता या दादी को कहते है या दिवंगत राजा की पत्नी को कहते हैं। “राज माता” का बहुत प्रभाव होता है जैसा अतल्याह में देखा गया है जिसने मूर्तिपूजा को बढ़ावा दिया था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">क्षयर्ष</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25489\" data-resourceType=\"UWTranslationWords\">अतल्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">एस्तेर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">राजा</span>. <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">शासक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26222\" data-resourceType=\"UWTranslationWords\">शीबा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 10:10</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 11:18–19</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 10:12–14</a></p></li><li><p><a href=\"https://ref.ly/Acts8:27\">प्रे.का. 08:27</a></p></li><li><p><a href=\"https://ref.ly/Esth1:17\">एस्तेर 01:17</a></p></li><li><p><a href=\"https://ref.ly/Luke11:31\">लूका 11:31</a></p></li><li><p><a href=\"https://ref.ly/Matt12:42\">मत्ती 12:42</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H1404, H1377, H4410, H4427, H4433, H4436, H4438, H4446, H7694, H8282, G938</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11010010",
+          "start_ref_usfm": "1KI 10:10",
+          "end_ref": "11010010",
+          "end_ref_usfm": "1KI 10:10"
+        },
+        {
+          "start_ref": "16002006",
+          "start_ref_usfm": "NEH 2:6",
+          "end_ref": "16002006",
+          "end_ref_usfm": "NEH 2:6"
+        },
+        {
+          "start_ref": "17001017",
+          "start_ref_usfm": "EST 1:17",
+          "end_ref": "17001017",
+          "end_ref_usfm": "EST 1:17"
+        },
+        {
+          "start_ref": "40012042",
+          "start_ref_usfm": "MAT 12:42",
+          "end_ref": "40012042",
+          "end_ref_usfm": "MAT 12:42"
+        },
+        {
+          "start_ref": "42011031",
+          "start_ref_usfm": "LUK 11:31",
+          "end_ref": "42011031",
+          "end_ref_usfm": "LUK 11:31"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "66018007",
+          "start_ref_usfm": "REV 18:7",
+          "end_ref": "66018007",
+          "end_ref_usfm": "REV 18:7"
+        },
+        {
+          "start_ref": "12010012",
+          "start_ref_usfm": "2KI 10:12",
+          "end_ref": "12010014",
+          "end_ref_usfm": "2KI 10:14"
+        },
+        {
+          "start_ref": "11011018",
+          "start_ref_usfm": "1KI 11:18",
+          "end_ref": "11011019",
+          "end_ref_usfm": "1KI 11:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 179528,
+          "label": "क्षयर्ष",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25489,
+          "content_id": 179577,
+          "label": "अतल्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 179784,
+          "label": "एस्तेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 180005,
+          "label": "राजा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 180242,
+          "label": "शासन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26222,
+          "content_id": 180277,
+          "label": "शीबा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

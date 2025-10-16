@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467456,
+    "reference_id": 26348,
+    "title": "Pressoir",
+    "media_type": "Text",
+    "index_reference": "pressoir",
+    "language": "fra",
+    "content": "<h1>pressoir</h1><h2>Définition :</h2><p>À l’époque de la Bible, un «pressoir» était un grand endroit ou un lieu ouvert où le jus de raisin était extrait afin de fabriquer du vin.</p><ul><li><p>En Israël, les caves à vin étaient généralement de grands bassins larges creusés dans des roches solides* Des grappes de raisin sont placées sur le fond plat du trou et les gens</p></li><li><p>piétinaient les raisins avec leurs pieds pour faire sortir le jus du raisin.</p></li><li><p>Habituellement, un pressoir avait deux niveaux, les raisins étant piétinés au niveau supérieur, de sorte que le jus descendait au niveau inférieur où il pouvait être collecté.</p></li><li><p>Le terme «pressoir» est également utilisé au sens figuré dans la Bible, comme une image de la colère de Dieu répandue sur les méchants.(See: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Metaphor</a>)</p></li></ul><p>(Voir aussi : (../other/grape.md), (../kt/wrath.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "23063002",
+          "start_ref_usfm": "ISA 63:2",
+          "end_ref": "23063002",
+          "end_ref_usfm": "ISA 63:2"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "66014019",
+          "start_ref_usfm": "REV 14:19",
+          "end_ref": "66014019",
+          "end_ref_usfm": "REV 14:19"
+        },
+        {
+          "start_ref": "66014020",
+          "start_ref_usfm": "REV 14:20",
+          "end_ref": "66014020",
+          "end_ref_usfm": "REV 14:20"
+        },
+        {
+          "start_ref": "66019015",
+          "start_ref_usfm": "REV 19:15",
+          "end_ref": "66019015",
+          "end_ref_usfm": "REV 19:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 466952,
+          "label": "Grappe de raisin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26358,
+          "content_id": 467466,
+          "label": "Colère",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

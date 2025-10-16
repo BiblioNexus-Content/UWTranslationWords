@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 179568,
+    "reference_id": 25480,
+    "title": "आसाप",
+    "media_type": "Text",
+    "index_reference": "आसाप",
+    "language": "hin",
+    "content": "<h1>आसाप</h1><h2>तथ्य:</h2><p>आसाप एक लेवीय याजक था साथ ही वह एक प्रतिभाशाली संगीतज्ञ था, उसने राजा दाऊद के भजनों को संगीत से संवारा था। उसने स्वयं भी भजन लिखे थे।</p><ul><li><p>राजा दाऊद ने आसाप को और दो संगीतज्ञों के साथ मन्दिर की आराधना के लिए भजन तैयार करने का उत्तरदायित्व सौंपा था। इनमें से कुछ भजन भविष्यद्वाणियां थी।</p></li><li><p>आसाप ने अपने पुत्रों को भी प्रशिक्षण दिया था कि इस दायित्व को निभाएं, मन्दिर में संगीत वाद्य बजाना तथा भविष्यद्वाणी करना।</p></li><li><p>उनके संगीत वाद्य थे, सारंगी, बीणा, नरसींगा और झांझ।</p></li><li><p>भजन 50, 73–83 आसाप के भजन माने जाते हैं। संभव है कि इनमें से कुछ भजन उसके परिवार के सदस्यों ने लिखे थे।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">वंशज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25822\" data-resourceType=\"UWTranslationWords\">वीणा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25983\" data-resourceType=\"UWTranslationWords\">वीणा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26140\" data-resourceType=\"UWTranslationWords\">भजन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26321\" data-resourceType=\"UWTranslationWords\">तुरही</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 6:39–43</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 35:15</a></p></li><li><p><a href=\"https://ref.ly/Neh2:8\">नहेम्याह 2:8</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन 50:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H623</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035015",
+          "start_ref_usfm": "2CH 35:15",
+          "end_ref": "14035015",
+          "end_ref_usfm": "2CH 35:15"
+        },
+        {
+          "start_ref": "15002041",
+          "start_ref_usfm": "EZR 2:41",
+          "end_ref": "15002041",
+          "end_ref_usfm": "EZR 2:41"
+        },
+        {
+          "start_ref": "15003010",
+          "start_ref_usfm": "EZR 3:10",
+          "end_ref": "15003010",
+          "end_ref_usfm": "EZR 3:10"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16007044",
+          "start_ref_usfm": "NEH 7:44",
+          "end_ref": "16007044",
+          "end_ref_usfm": "NEH 7:44"
+        },
+        {
+          "start_ref": "16011017",
+          "start_ref_usfm": "NEH 11:17",
+          "end_ref": "16011017",
+          "end_ref_usfm": "NEH 11:17"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011022",
+          "end_ref_usfm": "NEH 11:22"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012046",
+          "start_ref_usfm": "NEH 12:46",
+          "end_ref": "16012046",
+          "end_ref_usfm": "NEH 12:46"
+        },
+        {
+          "start_ref": "19050001",
+          "start_ref_usfm": "PSA 50:1",
+          "end_ref": "19050002",
+          "end_ref_usfm": "PSA 50:2"
+        },
+        {
+          "start_ref": "13006039",
+          "start_ref_usfm": "1CH 6:39",
+          "end_ref": "13006043",
+          "end_ref_usfm": "1CH 6:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 179736,
+          "label": "अवतरण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25822,
+          "content_id": 179892,
+          "label": "वीणा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25983,
+          "content_id": 180048,
+          "label": "वीणा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26140,
+          "content_id": 180199,
+          "label": "भजन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26321,
+          "content_id": 180374,
+          "label": "तुरही",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

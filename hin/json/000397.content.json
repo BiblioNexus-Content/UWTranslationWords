@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179537,
+    "reference_id": 25448,
+    "title": "धूप जलाने की वेदी",
+    "media_type": "Text",
+    "index_reference": "धूप जलाने की वेदी",
+    "language": "hin",
+    "content": "<h1>धूप जलाने की वेदी, धूप वेदी</h1><h2>तथ्य:</h2><p>धूप जलाने की वेदी वह स्थान था जहां याजक परमेश्वर को भेंट चढ़ाने के लिए धूप जलाता था। उसे सोने की वेदी भी कहते थे।</p><p>धूप जलाने की वेदी लकड़ी की बनी हुई थी और उस पर सोना चढ़ा हुआ था। उसकी लम्बाई और चौड़ाई आधा-आधा मीटर की थी तथा ऊंचाई एक मीटर की थी।</p><ul><li><p>पहले वह मिलापवाले तम्बू के भीतर थी। उसके बाद उसे मन्दिर में लाया गया था।</p></li><li><p>याजक प्रतिदिन सुबह-शाम उस पर धूप जलाता था।</p></li><li><p>इसका अनुवाद “धूप जलाने की वेदी” या सोने की वेदी” या “धूप जलाने वाली” या “धूप की मेज” किया जा सकता है।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25865\" data-resourceType=\"UWTranslationWords\">धूप</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:11-Luke1:13\">लूका 1:11–13</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H4196, H7004, G23680, G23790</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02035015",
+          "start_ref_usfm": "EXO 35:15",
+          "end_ref": "02035015",
+          "end_ref_usfm": "EXO 35:15"
+        },
+        {
+          "start_ref": "02039038",
+          "start_ref_usfm": "EXO 39:38",
+          "end_ref": "02039038",
+          "end_ref_usfm": "EXO 39:38"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001011",
+          "end_ref_usfm": "LUK 1:11"
+        },
+        {
+          "start_ref": "42001011",
+          "start_ref_usfm": "LUK 1:11",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25865,
+          "content_id": 179933,
+          "label": "धूप",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

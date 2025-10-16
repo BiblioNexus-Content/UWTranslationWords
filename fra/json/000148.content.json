@@ -1,0 +1,191 @@
+[
+  {
+    "content_id": 466733,
+    "reference_id": 25562,
+    "title": "César",
+    "media_type": "Text",
+    "index_reference": "césar",
+    "language": "fra",
+    "content": "<h1>César</h1><h2>Information :</h2><p>Le terme &quot;César&quot; était le nom ou le titre utilisé par la plupart des dirigeants de l&apos;Empire romain. Dans la Bible, ce nom fait référence à trois dirigeants romains différents.</p><ul><li><p>Le premier souverain romain nommé César était &quot;César Auguste&quot;, qui régnait à l&apos;époque de la naissance de Jésus.</p></li><li><p>Environ trente ans plus tard, à l&apos;époque où Jean le Baptiste prêchait, &quot;Tibère César&quot; était le souverain de l&apos;Empire romain.</p></li><li><p>&quot;Tibère César&quot; était encore au pouvoir à Rome lorsque Jésus a dit au peuple de payer à César ce qui lui était dû et de donner à Dieu ce qui lui était dû.</p></li><li><p>Lorsque Paul a fait appel à César, cela faisait référence à l&apos;empereur romain, Néron, qui portait également le titre de &quot;César&quot;.</p></li><li><p>Lorsque &quot;César&quot; est utilisé seul comme titre, il peut aussi être traduit par : &quot;l&apos;empereur&quot; ou &quot; le souverain romain&quot;.</p></li><li><p>Dans des noms tels que Caesar Augustus ou Tiberius Caesar, le mot &quot;Caesar&quot; peut être épelé de manière proche de la façon dont la langue nationale l&apos;écrit.</p></li></ul><p>(Pour plus d’information, voir : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/king.md), (../names/paul.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40022017",
+          "start_ref_usfm": "MAT 22:17",
+          "end_ref": "40022017",
+          "end_ref_usfm": "MAT 22:17"
+        },
+        {
+          "start_ref": "40022021",
+          "start_ref_usfm": "MAT 22:21",
+          "end_ref": "40022021",
+          "end_ref_usfm": "MAT 22:21"
+        },
+        {
+          "start_ref": "41012014",
+          "start_ref_usfm": "MRK 12:14",
+          "end_ref": "41012014",
+          "end_ref_usfm": "MRK 12:14"
+        },
+        {
+          "start_ref": "41012016",
+          "start_ref_usfm": "MRK 12:16",
+          "end_ref": "41012016",
+          "end_ref_usfm": "MRK 12:16"
+        },
+        {
+          "start_ref": "41012017",
+          "start_ref_usfm": "MRK 12:17",
+          "end_ref": "41012017",
+          "end_ref_usfm": "MRK 12:17"
+        },
+        {
+          "start_ref": "42002001",
+          "start_ref_usfm": "LUK 2:1",
+          "end_ref": "42002001",
+          "end_ref_usfm": "LUK 2:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42020022",
+          "start_ref_usfm": "LUK 20:22",
+          "end_ref": "42020022",
+          "end_ref_usfm": "LUK 20:22"
+        },
+        {
+          "start_ref": "42020024",
+          "start_ref_usfm": "LUK 20:24",
+          "end_ref": "42020024",
+          "end_ref_usfm": "LUK 20:24"
+        },
+        {
+          "start_ref": "42020025",
+          "start_ref_usfm": "LUK 20:25",
+          "end_ref": "42020025",
+          "end_ref_usfm": "LUK 20:25"
+        },
+        {
+          "start_ref": "42023002",
+          "start_ref_usfm": "LUK 23:2",
+          "end_ref": "42023002",
+          "end_ref_usfm": "LUK 23:2"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "43019015",
+          "start_ref_usfm": "JHN 19:15",
+          "end_ref": "43019015",
+          "end_ref_usfm": "JHN 19:15"
+        },
+        {
+          "start_ref": "44017007",
+          "start_ref_usfm": "ACT 17:7",
+          "end_ref": "44017007",
+          "end_ref_usfm": "ACT 17:7"
+        },
+        {
+          "start_ref": "44025006",
+          "start_ref_usfm": "ACT 25:6",
+          "end_ref": "44025006",
+          "end_ref_usfm": "ACT 25:6"
+        },
+        {
+          "start_ref": "44025008",
+          "start_ref_usfm": "ACT 25:8",
+          "end_ref": "44025008",
+          "end_ref_usfm": "ACT 25:8"
+        },
+        {
+          "start_ref": "44025010",
+          "start_ref_usfm": "ACT 25:10",
+          "end_ref": "44025010",
+          "end_ref_usfm": "ACT 25:10"
+        },
+        {
+          "start_ref": "44025011",
+          "start_ref_usfm": "ACT 25:11",
+          "end_ref": "44025011",
+          "end_ref_usfm": "ACT 25:11"
+        },
+        {
+          "start_ref": "44025012",
+          "start_ref_usfm": "ACT 25:12",
+          "end_ref": "44025012",
+          "end_ref_usfm": "ACT 25:12"
+        },
+        {
+          "start_ref": "44025021",
+          "start_ref_usfm": "ACT 25:21",
+          "end_ref": "44025021",
+          "end_ref_usfm": "ACT 25:21"
+        },
+        {
+          "start_ref": "44026032",
+          "start_ref_usfm": "ACT 26:32",
+          "end_ref": "44026032",
+          "end_ref_usfm": "ACT 26:32"
+        },
+        {
+          "start_ref": "44027024",
+          "start_ref_usfm": "ACT 27:24",
+          "end_ref": "44027024",
+          "end_ref_usfm": "ACT 27:24"
+        },
+        {
+          "start_ref": "44028019",
+          "start_ref_usfm": "ACT 28:19",
+          "end_ref": "44028019",
+          "end_ref_usfm": "ACT 28:19"
+        },
+        {
+          "start_ref": "50004022",
+          "start_ref_usfm": "PHP 4:22",
+          "end_ref": "50004022",
+          "end_ref_usfm": "PHP 4:22"
+        },
+        {
+          "start_ref": "42020023",
+          "start_ref_usfm": "LUK 20:23",
+          "end_ref": "42020024",
+          "end_ref_usfm": "LUK 20:24"
+        },
+        {
+          "start_ref": "41012013",
+          "start_ref_usfm": "MRK 12:13",
+          "end_ref": "41012015",
+          "end_ref_usfm": "MRK 12:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

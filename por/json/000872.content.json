@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238410,
+    "reference_id": 26281,
+    "title": "Tarso",
+    "media_type": "Text",
+    "index_reference": "tarso",
+    "language": "por",
+    "content": "<h1>Tarso</h1><h2>Fatos:</h2><p>Tarso era uma cidade próspera na província romana da Cilícia, no que é agora o centro-sul da Turquia.</p><ul><li><p>Tarso estava localizada ao longo de um grande rio e perto do Mar Mediterrâneo, então fazia parte de uma importante rota comercial.</p></li><li><p>Em um momento, foi a capital da Cilícia.</p></li><li><p>No Novo Testamento, Tarso era mais conhecida como a cidade natal de Paulo, o apóstolo.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25591\" data-resourceType=\"UWTranslationWords\">Cilícia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">província</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">o mar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts9:11\">Atos 9.11</a></p></li><li><p><a href=\"https://ref.ly/Acts9:30\">Atos 9.30</a></p></li><li><p><a href=\"https://ref.ly/Acts11:25\">Atos 11.25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G50180, G50190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009011",
+          "start_ref_usfm": "ACT 9:11",
+          "end_ref": "44009011",
+          "end_ref_usfm": "ACT 9:11"
+        },
+        {
+          "start_ref": "44009030",
+          "start_ref_usfm": "ACT 9:30",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25591,
+          "content_id": 237726,
+          "label": "Cilícia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 238267,
+          "label": "Província",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

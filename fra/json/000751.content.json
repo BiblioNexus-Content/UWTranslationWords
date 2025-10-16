@@ -1,0 +1,659 @@
+[
+  {
+    "content_id": 467307,
+    "reference_id": 26188,
+    "title": "Sacrificer",
+    "media_type": "Text",
+    "index_reference": "sacrificer",
+    "language": "fra",
+    "content": "<h1>sacrificer, sacrificee, offrande</h1><h2>Définition :</h2><p>Dans la Bible, les termes &quot;sacrifice&quot; et &quot;offrande&quot; désignent des dons spéciaux offerts à Dieu pour l&apos;adorer. Les gens offraient aussi des sacrifices et des offrndes à de faux dieux.</p><h3>sacrifice</h3><ul><li><p>Les sacrifices à Dieu impliquaient souvent la mise à mort d&apos;un animal.</p></li><li><p>Seul le sacrifice de Jésus, le Fils parfait et sans péché de Dieu, peut purifier complètement les gens du péché ; les sacrifices d&apos;animaux n&apos;ont jamais pu le faire.</p></li><li><p>Dieu a commandé aux Israélites de faire plusieurs sortes de sacrifices pour demander à Dieu de pardonner les péchés.</p></li></ul><h3>offrande</h3><ul><li><p>Le mot &quot;offrande&quot; fait généralement référence à tout ce qui est offert ou donné.</p></li><li><p>Les offrandes à Dieu étaient des choses spécifiques qu&apos;il ordonnait aux Israélites de lui donner afin d&apos;exprimer leur dévotion et leur obéissance envers lui.</p></li><li><p>Les noms des différentes offrandes, tels que &quot;holocauste&quot; et &quot;offrande de paix&quot;, indiquaient quel type d&apos;offrande était offert.</p></li></ul><h2>Suggestions pour la traduction</h2><ul><li><p>&quot;Sacrifice&quot; peut être traduit comme &quot;un don à Dieu&quot; ou &quot;quelque chose offert à Dieu&quot; ou &quot;quelque chose de précieux qui est présenté à Dieu&quot;.</p></li><li><p>&quot;Sacrifice&quot; peut être traduit comme &quot; tuer un animal et donner à Dieu» ou «viande présentée à Dieu&quot; ou &quot;viande présentée à une idole*&quot;</p></li><li><p>Selon le contexte, le terme &quot;sacrifice&quot; pourrait également être traduit par &quot;quelque chose de précieux offert en guise de culte&quot; ou &quot;un animal spécial tué et présenté à Dieu&quot;.</p></li><li><p>L&apos;action de &quot;sacrifier&quot; pourrait être traduite par &quot;abandonner quelque chose de précieux&quot; ou &quot;tuer un animal et le donner à Dieu&quot;.</p></li><li><p>Une autre façon de traduire &quot;présentez-vous comme un sacrifice vivant&quot; pourrait être &quot;en vivant votre vie, offrez-vous à Dieu aussi complètement qu&apos;un animal est offert sur un autel.&quot;</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">autel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">libation</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25683\" data-resourceType=\"UWTranslationWords\">boisson</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">faux dieu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25738\" data-resourceType=\"UWTranslationWords\">offrande de fraternité</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25759\" data-resourceType=\"UWTranslationWords\">offrande volontaire</span> <span data-bnType=\"resourceReference\" data-resourceId=\"26081\" data-resourceType=\"UWTranslationWords\">offrande de la paix</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">prêtre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26242\" data-resourceType=\"UWTranslationWords\">offrande du péché</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">culte</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031054",
+          "start_ref_usfm": "GEN 31:54",
+          "end_ref": "01031054",
+          "end_ref_usfm": "GEN 31:54"
+        },
+        {
+          "start_ref": "01046001",
+          "start_ref_usfm": "GEN 46:1",
+          "end_ref": "01046001",
+          "end_ref_usfm": "GEN 46:1"
+        },
+        {
+          "start_ref": "02003018",
+          "start_ref_usfm": "EXO 3:18",
+          "end_ref": "02003018",
+          "end_ref_usfm": "EXO 3:18"
+        },
+        {
+          "start_ref": "02005003",
+          "start_ref_usfm": "EXO 5:3",
+          "end_ref": "02005003",
+          "end_ref_usfm": "EXO 5:3"
+        },
+        {
+          "start_ref": "02005008",
+          "start_ref_usfm": "EXO 5:8",
+          "end_ref": "02005008",
+          "end_ref_usfm": "EXO 5:8"
+        },
+        {
+          "start_ref": "02005017",
+          "start_ref_usfm": "EXO 5:17",
+          "end_ref": "02005017",
+          "end_ref_usfm": "EXO 5:17"
+        },
+        {
+          "start_ref": "02008008",
+          "start_ref_usfm": "EXO 8:8",
+          "end_ref": "02008008",
+          "end_ref_usfm": "EXO 8:8"
+        },
+        {
+          "start_ref": "02008025",
+          "start_ref_usfm": "EXO 8:25",
+          "end_ref": "02008025",
+          "end_ref_usfm": "EXO 8:25"
+        },
+        {
+          "start_ref": "02008026",
+          "start_ref_usfm": "EXO 8:26",
+          "end_ref": "02008026",
+          "end_ref_usfm": "EXO 8:26"
+        },
+        {
+          "start_ref": "02008027",
+          "start_ref_usfm": "EXO 8:27",
+          "end_ref": "02008027",
+          "end_ref_usfm": "EXO 8:27"
+        },
+        {
+          "start_ref": "02008028",
+          "start_ref_usfm": "EXO 8:28",
+          "end_ref": "02008028",
+          "end_ref_usfm": "EXO 8:28"
+        },
+        {
+          "start_ref": "02008029",
+          "start_ref_usfm": "EXO 8:29",
+          "end_ref": "02008029",
+          "end_ref_usfm": "EXO 8:29"
+        },
+        {
+          "start_ref": "02010025",
+          "start_ref_usfm": "EXO 10:25",
+          "end_ref": "02010025",
+          "end_ref_usfm": "EXO 10:25"
+        },
+        {
+          "start_ref": "02012027",
+          "start_ref_usfm": "EXO 12:27",
+          "end_ref": "02012027",
+          "end_ref_usfm": "EXO 12:27"
+        },
+        {
+          "start_ref": "02013015",
+          "start_ref_usfm": "EXO 13:15",
+          "end_ref": "02013015",
+          "end_ref_usfm": "EXO 13:15"
+        },
+        {
+          "start_ref": "02018012",
+          "start_ref_usfm": "EXO 18:12",
+          "end_ref": "02018012",
+          "end_ref_usfm": "EXO 18:12"
+        },
+        {
+          "start_ref": "02020024",
+          "start_ref_usfm": "EXO 20:24",
+          "end_ref": "02020024",
+          "end_ref_usfm": "EXO 20:24"
+        },
+        {
+          "start_ref": "02022020",
+          "start_ref_usfm": "EXO 22:20",
+          "end_ref": "02022020",
+          "end_ref_usfm": "EXO 22:20"
+        },
+        {
+          "start_ref": "02023018",
+          "start_ref_usfm": "EXO 23:18",
+          "end_ref": "02023018",
+          "end_ref_usfm": "EXO 23:18"
+        },
+        {
+          "start_ref": "02024005",
+          "start_ref_usfm": "EXO 24:5",
+          "end_ref": "02024005",
+          "end_ref_usfm": "EXO 24:5"
+        },
+        {
+          "start_ref": "02029018",
+          "start_ref_usfm": "EXO 29:18",
+          "end_ref": "02029018",
+          "end_ref_usfm": "EXO 29:18"
+        },
+        {
+          "start_ref": "02029024",
+          "start_ref_usfm": "EXO 29:24",
+          "end_ref": "02029024",
+          "end_ref_usfm": "EXO 29:24"
+        },
+        {
+          "start_ref": "02029025",
+          "start_ref_usfm": "EXO 29:25",
+          "end_ref": "02029025",
+          "end_ref_usfm": "EXO 29:25"
+        },
+        {
+          "start_ref": "02029026",
+          "start_ref_usfm": "EXO 29:26",
+          "end_ref": "02029026",
+          "end_ref_usfm": "EXO 29:26"
+        },
+        {
+          "start_ref": "02029027",
+          "start_ref_usfm": "EXO 29:27",
+          "end_ref": "02029027",
+          "end_ref_usfm": "EXO 29:27"
+        },
+        {
+          "start_ref": "02029028",
+          "start_ref_usfm": "EXO 29:28",
+          "end_ref": "02029028",
+          "end_ref_usfm": "EXO 29:28"
+        },
+        {
+          "start_ref": "02029036",
+          "start_ref_usfm": "EXO 29:36",
+          "end_ref": "02029036",
+          "end_ref_usfm": "EXO 29:36"
+        },
+        {
+          "start_ref": "02029038",
+          "start_ref_usfm": "EXO 29:38",
+          "end_ref": "02029038",
+          "end_ref_usfm": "EXO 29:38"
+        },
+        {
+          "start_ref": "02029039",
+          "start_ref_usfm": "EXO 29:39",
+          "end_ref": "02029039",
+          "end_ref_usfm": "EXO 29:39"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "02030013",
+          "start_ref_usfm": "EXO 30:13",
+          "end_ref": "02030013",
+          "end_ref_usfm": "EXO 30:13"
+        },
+        {
+          "start_ref": "02030014",
+          "start_ref_usfm": "EXO 30:14",
+          "end_ref": "02030014",
+          "end_ref_usfm": "EXO 30:14"
+        },
+        {
+          "start_ref": "02030020",
+          "start_ref_usfm": "EXO 30:20",
+          "end_ref": "02030020",
+          "end_ref_usfm": "EXO 30:20"
+        },
+        {
+          "start_ref": "02032008",
+          "start_ref_usfm": "EXO 32:8",
+          "end_ref": "02032008",
+          "end_ref_usfm": "EXO 32:8"
+        },
+        {
+          "start_ref": "02034015",
+          "start_ref_usfm": "EXO 34:15",
+          "end_ref": "02034015",
+          "end_ref_usfm": "EXO 34:15"
+        },
+        {
+          "start_ref": "02034025",
+          "start_ref_usfm": "EXO 34:25",
+          "end_ref": "02034025",
+          "end_ref_usfm": "EXO 34:25"
+        },
+        {
+          "start_ref": "02035005",
+          "start_ref_usfm": "EXO 35:5",
+          "end_ref": "02035005",
+          "end_ref_usfm": "EXO 35:5"
+        },
+        {
+          "start_ref": "02035022",
+          "start_ref_usfm": "EXO 35:22",
+          "end_ref": "02035022",
+          "end_ref_usfm": "EXO 35:22"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15006003",
+          "start_ref_usfm": "EZR 6:3",
+          "end_ref": "15006003",
+          "end_ref_usfm": "EZR 6:3"
+        },
+        {
+          "start_ref": "15006010",
+          "start_ref_usfm": "EZR 6:10",
+          "end_ref": "15006010",
+          "end_ref_usfm": "EZR 6:10"
+        },
+        {
+          "start_ref": "16004002",
+          "start_ref_usfm": "NEH 4:2",
+          "end_ref": "16004002",
+          "end_ref_usfm": "NEH 4:2"
+        },
+        {
+          "start_ref": "16012043",
+          "start_ref_usfm": "NEH 12:43",
+          "end_ref": "16012043",
+          "end_ref_usfm": "NEH 12:43"
+        },
+        {
+          "start_ref": "20007014",
+          "start_ref_usfm": "PRO 7:14",
+          "end_ref": "20007014",
+          "end_ref_usfm": "PRO 7:14"
+        },
+        {
+          "start_ref": "20015008",
+          "start_ref_usfm": "PRO 15:8",
+          "end_ref": "20015008",
+          "end_ref_usfm": "PRO 15:8"
+        },
+        {
+          "start_ref": "20017001",
+          "start_ref_usfm": "PRO 17:1",
+          "end_ref": "20017001",
+          "end_ref_usfm": "PRO 17:1"
+        },
+        {
+          "start_ref": "20021027",
+          "start_ref_usfm": "PRO 21:27",
+          "end_ref": "20021027",
+          "end_ref_usfm": "PRO 21:27"
+        },
+        {
+          "start_ref": "32001016",
+          "start_ref_usfm": "JON 1:16",
+          "end_ref": "32001016",
+          "end_ref_usfm": "JON 1:16"
+        },
+        {
+          "start_ref": "32002009",
+          "start_ref_usfm": "JON 2:9",
+          "end_ref": "32002009",
+          "end_ref_usfm": "JON 2:9"
+        },
+        {
+          "start_ref": "36001007",
+          "start_ref_usfm": "ZEP 1:7",
+          "end_ref": "36001007",
+          "end_ref_usfm": "ZEP 1:7"
+        },
+        {
+          "start_ref": "36001008",
+          "start_ref_usfm": "ZEP 1:8",
+          "end_ref": "36001008",
+          "end_ref_usfm": "ZEP 1:8"
+        },
+        {
+          "start_ref": "40005023",
+          "start_ref_usfm": "MAT 5:23",
+          "end_ref": "40005023",
+          "end_ref_usfm": "MAT 5:23"
+        },
+        {
+          "start_ref": "40009013",
+          "start_ref_usfm": "MAT 9:13",
+          "end_ref": "40009013",
+          "end_ref_usfm": "MAT 9:13"
+        },
+        {
+          "start_ref": "40012007",
+          "start_ref_usfm": "MAT 12:7",
+          "end_ref": "40012007",
+          "end_ref_usfm": "MAT 12:7"
+        },
+        {
+          "start_ref": "41012033",
+          "start_ref_usfm": "MRK 12:33",
+          "end_ref": "41012033",
+          "end_ref_usfm": "MRK 12:33"
+        },
+        {
+          "start_ref": "41014012",
+          "start_ref_usfm": "MRK 14:12",
+          "end_ref": "41014012",
+          "end_ref_usfm": "MRK 14:12"
+        },
+        {
+          "start_ref": "42002024",
+          "start_ref_usfm": "LUK 2:24",
+          "end_ref": "42002024",
+          "end_ref_usfm": "LUK 2:24"
+        },
+        {
+          "start_ref": "42013001",
+          "start_ref_usfm": "LUK 13:1",
+          "end_ref": "42013001",
+          "end_ref_usfm": "LUK 13:1"
+        },
+        {
+          "start_ref": "44007041",
+          "start_ref_usfm": "ACT 7:41",
+          "end_ref": "44007041",
+          "end_ref_usfm": "ACT 7:41"
+        },
+        {
+          "start_ref": "44007042",
+          "start_ref_usfm": "ACT 7:42",
+          "end_ref": "44007042",
+          "end_ref_usfm": "ACT 7:42"
+        },
+        {
+          "start_ref": "44014013",
+          "start_ref_usfm": "ACT 14:13",
+          "end_ref": "44014013",
+          "end_ref_usfm": "ACT 14:13"
+        },
+        {
+          "start_ref": "44014018",
+          "start_ref_usfm": "ACT 14:18",
+          "end_ref": "44014018",
+          "end_ref_usfm": "ACT 14:18"
+        },
+        {
+          "start_ref": "44021025",
+          "start_ref_usfm": "ACT 21:25",
+          "end_ref": "44021025",
+          "end_ref_usfm": "ACT 21:25"
+        },
+        {
+          "start_ref": "44021026",
+          "start_ref_usfm": "ACT 21:26",
+          "end_ref": "44021026",
+          "end_ref_usfm": "ACT 21:26"
+        },
+        {
+          "start_ref": "44024017",
+          "start_ref_usfm": "ACT 24:17",
+          "end_ref": "44024017",
+          "end_ref_usfm": "ACT 24:17"
+        },
+        {
+          "start_ref": "45012001",
+          "start_ref_usfm": "ROM 12:1",
+          "end_ref": "45012001",
+          "end_ref_usfm": "ROM 12:1"
+        },
+        {
+          "start_ref": "45015016",
+          "start_ref_usfm": "ROM 15:16",
+          "end_ref": "45015016",
+          "end_ref_usfm": "ROM 15:16"
+        },
+        {
+          "start_ref": "46005007",
+          "start_ref_usfm": "1CO 5:7",
+          "end_ref": "46005007",
+          "end_ref_usfm": "1CO 5:7"
+        },
+        {
+          "start_ref": "46010018",
+          "start_ref_usfm": "1CO 10:18",
+          "end_ref": "46010018",
+          "end_ref_usfm": "1CO 10:18"
+        },
+        {
+          "start_ref": "46010020",
+          "start_ref_usfm": "1CO 10:20",
+          "end_ref": "46010020",
+          "end_ref_usfm": "1CO 10:20"
+        },
+        {
+          "start_ref": "49005002",
+          "start_ref_usfm": "EPH 5:2",
+          "end_ref": "49005002",
+          "end_ref_usfm": "EPH 5:2"
+        },
+        {
+          "start_ref": "50002017",
+          "start_ref_usfm": "PHP 2:17",
+          "end_ref": "50002017",
+          "end_ref_usfm": "PHP 2:17"
+        },
+        {
+          "start_ref": "50004018",
+          "start_ref_usfm": "PHP 4:18",
+          "end_ref": "50004018",
+          "end_ref_usfm": "PHP 4:18"
+        },
+        {
+          "start_ref": "55004006",
+          "start_ref_usfm": "2TI 4:6",
+          "end_ref": "55004006",
+          "end_ref_usfm": "2TI 4:6"
+        },
+        {
+          "start_ref": "58005001",
+          "start_ref_usfm": "HEB 5:1",
+          "end_ref": "58005001",
+          "end_ref_usfm": "HEB 5:1"
+        },
+        {
+          "start_ref": "58007027",
+          "start_ref_usfm": "HEB 7:27",
+          "end_ref": "58007027",
+          "end_ref_usfm": "HEB 7:27"
+        },
+        {
+          "start_ref": "58008003",
+          "start_ref_usfm": "HEB 8:3",
+          "end_ref": "58008003",
+          "end_ref_usfm": "HEB 8:3"
+        },
+        {
+          "start_ref": "58009009",
+          "start_ref_usfm": "HEB 9:9",
+          "end_ref": "58009009",
+          "end_ref_usfm": "HEB 9:9"
+        },
+        {
+          "start_ref": "58009023",
+          "start_ref_usfm": "HEB 9:23",
+          "end_ref": "58009023",
+          "end_ref_usfm": "HEB 9:23"
+        },
+        {
+          "start_ref": "58009026",
+          "start_ref_usfm": "HEB 9:26",
+          "end_ref": "58009026",
+          "end_ref_usfm": "HEB 9:26"
+        },
+        {
+          "start_ref": "58010001",
+          "start_ref_usfm": "HEB 10:1",
+          "end_ref": "58010001",
+          "end_ref_usfm": "HEB 10:1"
+        },
+        {
+          "start_ref": "58010005",
+          "start_ref_usfm": "HEB 10:5",
+          "end_ref": "58010005",
+          "end_ref_usfm": "HEB 10:5"
+        },
+        {
+          "start_ref": "58010008",
+          "start_ref_usfm": "HEB 10:8",
+          "end_ref": "58010008",
+          "end_ref_usfm": "HEB 10:8"
+        },
+        {
+          "start_ref": "58010010",
+          "start_ref_usfm": "HEB 10:10",
+          "end_ref": "58010010",
+          "end_ref_usfm": "HEB 10:10"
+        },
+        {
+          "start_ref": "58010011",
+          "start_ref_usfm": "HEB 10:11",
+          "end_ref": "58010011",
+          "end_ref_usfm": "HEB 10:11"
+        },
+        {
+          "start_ref": "58010012",
+          "start_ref_usfm": "HEB 10:12",
+          "end_ref": "58010012",
+          "end_ref_usfm": "HEB 10:12"
+        },
+        {
+          "start_ref": "58010014",
+          "start_ref_usfm": "HEB 10:14",
+          "end_ref": "58010014",
+          "end_ref_usfm": "HEB 10:14"
+        },
+        {
+          "start_ref": "58010018",
+          "start_ref_usfm": "HEB 10:18",
+          "end_ref": "58010018",
+          "end_ref_usfm": "HEB 10:18"
+        },
+        {
+          "start_ref": "58010026",
+          "start_ref_usfm": "HEB 10:26",
+          "end_ref": "58010026",
+          "end_ref_usfm": "HEB 10:26"
+        },
+        {
+          "start_ref": "58011004",
+          "start_ref_usfm": "HEB 11:4",
+          "end_ref": "58011004",
+          "end_ref_usfm": "HEB 11:4"
+        },
+        {
+          "start_ref": "58013015",
+          "start_ref_usfm": "HEB 13:15",
+          "end_ref": "58013015",
+          "end_ref_usfm": "HEB 13:15"
+        },
+        {
+          "start_ref": "58013016",
+          "start_ref_usfm": "HEB 13:16",
+          "end_ref": "58013016",
+          "end_ref_usfm": "HEB 13:16"
+        },
+        {
+          "start_ref": "60002005",
+          "start_ref_usfm": "1PE 2:5",
+          "end_ref": "60002005",
+          "end_ref_usfm": "1PE 2:5"
+        },
+        {
+          "start_ref": "59002021",
+          "start_ref_usfm": "JAS 2:21",
+          "end_ref": "59002024",
+          "end_ref_usfm": "JAS 2:24"
+        },
+        {
+          "start_ref": "01004003",
+          "start_ref_usfm": "GEN 4:3",
+          "end_ref": "01004005",
+          "end_ref_usfm": "GEN 4:5"
+        },
+        {
+          "start_ref": "41001043",
+          "start_ref_usfm": "MRK 1:43",
+          "end_ref": "41001044",
+          "end_ref_usfm": "MRK 1:44"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 466628,
+          "label": "Autel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25683,
+          "content_id": 466843,
+          "label": "Sacrifice de boisson",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25738,
+          "content_id": 466892,
+          "label": "Offre de bourse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25759,
+          "content_id": 466910,
+          "label": "Offrande volontaire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26081,
+          "content_id": 467208,
+          "label": "Sacrifice d’actions de grâces",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 467357,
+          "label": "Sacrifice de péché",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 467465,
+          "label": "Adorer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

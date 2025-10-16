@@ -1,0 +1,352 @@
+[
+  {
+    "content_id": 27030,
+    "reference_id": 26172,
+    "title": "Restore",
+    "media_type": "Text",
+    "index_reference": "restore",
+    "language": "eng",
+    "content": "<h1>restore, restoration</h1><h2>Definition:</h2><p>The terms “restore” and “restoration” refer to causing something to return to its original place or condition.</p><ul><li><p>When a diseased body part is restored, this means it has been “healed.”</p></li><li><p>A broken relationship that is restored has been “reconciled.” God restores sinful people and brings them back to himself.</p></li><li><p>If people have been restored to their home country, they have been “brought back” or “returned” to that country.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, ways to translate “restore” could include “renew” or “repay” or “return” or “heal” or “bring back.”</p></li><li><p>Other expressions for this term could be “make new” or “make like new again.”</p></li><li><p>When property is “restored,” it has been “repaired” or “replaced” or “given back” to its owner.</p></li><li><p>Depending on the context, “restoration” could be translated as “renewal” or “healing” or “reconciliation.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs5:10\">2 Kings 5:10</a></p></li><li><p><a href=\"https://ref.ly/Acts3:21\">Acts 3:21</a></p></li><li><p><a href=\"https://ref.ly/Acts15:15-Acts15:18\">Acts 15:15–18</a></p></li><li><p><a href=\"https://ref.ly/Isa49:5-Isa49:6\">Isaiah 49:5–6</a></p></li><li><p><a href=\"https://ref.ly/Jer15:19-Jer15:21\">Jeremiah 15:19–21</a></p></li><li><p><a href=\"https://ref.ly/Lam5:22\">Lamentations 5:22</a></p></li><li><p><a href=\"https://ref.ly/Lev6:5-Lev6:7\">Leviticus 6:5–7</a></p></li><li><p><a href=\"https://ref.ly/Luke19:8\">Luke 19:8</a></p></li><li><p><a href=\"https://ref.ly/Matt12:13\">Matthew 12:13</a></p></li><li><p><a href=\"https://ref.ly/Ps80:1-Ps80:3\">Psalm 80:1–3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7725, H7999, H8421, G06000, G26750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037022",
+          "start_ref_usfm": "GEN 37:22",
+          "end_ref": "01037022",
+          "end_ref_usfm": "GEN 37:22"
+        },
+        {
+          "start_ref": "02004007",
+          "start_ref_usfm": "EXO 4:7",
+          "end_ref": "02004007",
+          "end_ref_usfm": "EXO 4:7"
+        },
+        {
+          "start_ref": "02022026",
+          "start_ref_usfm": "EXO 22:26",
+          "end_ref": "02022026",
+          "end_ref_usfm": "EXO 22:26"
+        },
+        {
+          "start_ref": "02023004",
+          "start_ref_usfm": "EXO 23:4",
+          "end_ref": "02023004",
+          "end_ref_usfm": "EXO 23:4"
+        },
+        {
+          "start_ref": "08004015",
+          "start_ref_usfm": "RUT 4:15",
+          "end_ref": "08004015",
+          "end_ref_usfm": "RUT 4:15"
+        },
+        {
+          "start_ref": "12005010",
+          "start_ref_usfm": "2KI 5:10",
+          "end_ref": "12005010",
+          "end_ref_usfm": "2KI 5:10"
+        },
+        {
+          "start_ref": "16003008",
+          "start_ref_usfm": "NEH 3:8",
+          "end_ref": "16003008",
+          "end_ref_usfm": "NEH 3:8"
+        },
+        {
+          "start_ref": "16004002",
+          "start_ref_usfm": "NEH 4:2",
+          "end_ref": "16004002",
+          "end_ref_usfm": "NEH 4:2"
+        },
+        {
+          "start_ref": "18001021",
+          "start_ref_usfm": "JOB 1:21",
+          "end_ref": "18001021",
+          "end_ref_usfm": "JOB 1:21"
+        },
+        {
+          "start_ref": "18006029",
+          "start_ref_usfm": "JOB 6:29",
+          "end_ref": "18006029",
+          "end_ref_usfm": "JOB 6:29"
+        },
+        {
+          "start_ref": "18007007",
+          "start_ref_usfm": "JOB 7:7",
+          "end_ref": "18007007",
+          "end_ref_usfm": "JOB 7:7"
+        },
+        {
+          "start_ref": "18007010",
+          "start_ref_usfm": "JOB 7:10",
+          "end_ref": "18007010",
+          "end_ref_usfm": "JOB 7:10"
+        },
+        {
+          "start_ref": "18009012",
+          "start_ref_usfm": "JOB 9:12",
+          "end_ref": "18009012",
+          "end_ref_usfm": "JOB 9:12"
+        },
+        {
+          "start_ref": "18009013",
+          "start_ref_usfm": "JOB 9:13",
+          "end_ref": "18009013",
+          "end_ref_usfm": "JOB 9:13"
+        },
+        {
+          "start_ref": "18009018",
+          "start_ref_usfm": "JOB 9:18",
+          "end_ref": "18009018",
+          "end_ref_usfm": "JOB 9:18"
+        },
+        {
+          "start_ref": "18010009",
+          "start_ref_usfm": "JOB 10:9",
+          "end_ref": "18010009",
+          "end_ref_usfm": "JOB 10:9"
+        },
+        {
+          "start_ref": "18010021",
+          "start_ref_usfm": "JOB 10:21",
+          "end_ref": "18010021",
+          "end_ref_usfm": "JOB 10:21"
+        },
+        {
+          "start_ref": "18011010",
+          "start_ref_usfm": "JOB 11:10",
+          "end_ref": "18011010",
+          "end_ref_usfm": "JOB 11:10"
+        },
+        {
+          "start_ref": "18014013",
+          "start_ref_usfm": "JOB 14:13",
+          "end_ref": "18014013",
+          "end_ref_usfm": "JOB 14:13"
+        },
+        {
+          "start_ref": "18015013",
+          "start_ref_usfm": "JOB 15:13",
+          "end_ref": "18015013",
+          "end_ref_usfm": "JOB 15:13"
+        },
+        {
+          "start_ref": "18015022",
+          "start_ref_usfm": "JOB 15:22",
+          "end_ref": "18015022",
+          "end_ref_usfm": "JOB 15:22"
+        },
+        {
+          "start_ref": "18016022",
+          "start_ref_usfm": "JOB 16:22",
+          "end_ref": "18016022",
+          "end_ref_usfm": "JOB 16:22"
+        },
+        {
+          "start_ref": "18017010",
+          "start_ref_usfm": "JOB 17:10",
+          "end_ref": "18017010",
+          "end_ref_usfm": "JOB 17:10"
+        },
+        {
+          "start_ref": "18020002",
+          "start_ref_usfm": "JOB 20:2",
+          "end_ref": "18020002",
+          "end_ref_usfm": "JOB 20:2"
+        },
+        {
+          "start_ref": "18020010",
+          "start_ref_usfm": "JOB 20:10",
+          "end_ref": "18020010",
+          "end_ref_usfm": "JOB 20:10"
+        },
+        {
+          "start_ref": "18020018",
+          "start_ref_usfm": "JOB 20:18",
+          "end_ref": "18020018",
+          "end_ref_usfm": "JOB 20:18"
+        },
+        {
+          "start_ref": "18022023",
+          "start_ref_usfm": "JOB 22:23",
+          "end_ref": "18022023",
+          "end_ref_usfm": "JOB 22:23"
+        },
+        {
+          "start_ref": "18023013",
+          "start_ref_usfm": "JOB 23:13",
+          "end_ref": "18023013",
+          "end_ref_usfm": "JOB 23:13"
+        },
+        {
+          "start_ref": "18030023",
+          "start_ref_usfm": "JOB 30:23",
+          "end_ref": "18030023",
+          "end_ref_usfm": "JOB 30:23"
+        },
+        {
+          "start_ref": "18031014",
+          "start_ref_usfm": "JOB 31:14",
+          "end_ref": "18031014",
+          "end_ref_usfm": "JOB 31:14"
+        },
+        {
+          "start_ref": "18032014",
+          "start_ref_usfm": "JOB 32:14",
+          "end_ref": "18032014",
+          "end_ref_usfm": "JOB 32:14"
+        },
+        {
+          "start_ref": "18033005",
+          "start_ref_usfm": "JOB 33:5",
+          "end_ref": "18033005",
+          "end_ref_usfm": "JOB 33:5"
+        },
+        {
+          "start_ref": "18033025",
+          "start_ref_usfm": "JOB 33:25",
+          "end_ref": "18033025",
+          "end_ref_usfm": "JOB 33:25"
+        },
+        {
+          "start_ref": "18033030",
+          "start_ref_usfm": "JOB 33:30",
+          "end_ref": "18033030",
+          "end_ref_usfm": "JOB 33:30"
+        },
+        {
+          "start_ref": "18033032",
+          "start_ref_usfm": "JOB 33:32",
+          "end_ref": "18033032",
+          "end_ref_usfm": "JOB 33:32"
+        },
+        {
+          "start_ref": "18034015",
+          "start_ref_usfm": "JOB 34:15",
+          "end_ref": "18034015",
+          "end_ref_usfm": "JOB 34:15"
+        },
+        {
+          "start_ref": "18035004",
+          "start_ref_usfm": "JOB 35:4",
+          "end_ref": "18035004",
+          "end_ref_usfm": "JOB 35:4"
+        },
+        {
+          "start_ref": "18036010",
+          "start_ref_usfm": "JOB 36:10",
+          "end_ref": "18036010",
+          "end_ref_usfm": "JOB 36:10"
+        },
+        {
+          "start_ref": "18039004",
+          "start_ref_usfm": "JOB 39:4",
+          "end_ref": "18039004",
+          "end_ref_usfm": "JOB 39:4"
+        },
+        {
+          "start_ref": "18039012",
+          "start_ref_usfm": "JOB 39:12",
+          "end_ref": "18039012",
+          "end_ref_usfm": "JOB 39:12"
+        },
+        {
+          "start_ref": "18039022",
+          "start_ref_usfm": "JOB 39:22",
+          "end_ref": "18039022",
+          "end_ref_usfm": "JOB 39:22"
+        },
+        {
+          "start_ref": "18040004",
+          "start_ref_usfm": "JOB 40:4",
+          "end_ref": "18040004",
+          "end_ref_usfm": "JOB 40:4"
+        },
+        {
+          "start_ref": "18042010",
+          "start_ref_usfm": "JOB 42:10",
+          "end_ref": "18042010",
+          "end_ref_usfm": "JOB 42:10"
+        },
+        {
+          "start_ref": "20006031",
+          "start_ref_usfm": "PRO 6:31",
+          "end_ref": "20006031",
+          "end_ref_usfm": "PRO 6:31"
+        },
+        {
+          "start_ref": "20024029",
+          "start_ref_usfm": "PRO 24:29",
+          "end_ref": "20024029",
+          "end_ref_usfm": "PRO 24:29"
+        },
+        {
+          "start_ref": "20025013",
+          "start_ref_usfm": "PRO 25:13",
+          "end_ref": "20025013",
+          "end_ref_usfm": "PRO 25:13"
+        },
+        {
+          "start_ref": "22006013",
+          "start_ref_usfm": "SNG 6:13",
+          "end_ref": "22006013",
+          "end_ref_usfm": "SNG 6:13"
+        },
+        {
+          "start_ref": "25005022",
+          "start_ref_usfm": "LAM 5:22",
+          "end_ref": "25005022",
+          "end_ref_usfm": "LAM 5:22"
+        },
+        {
+          "start_ref": "40012013",
+          "start_ref_usfm": "MAT 12:13",
+          "end_ref": "40012013",
+          "end_ref_usfm": "MAT 12:13"
+        },
+        {
+          "start_ref": "42019008",
+          "start_ref_usfm": "LUK 19:8",
+          "end_ref": "42019008",
+          "end_ref_usfm": "LUK 19:8"
+        },
+        {
+          "start_ref": "44003021",
+          "start_ref_usfm": "ACT 3:21",
+          "end_ref": "44003021",
+          "end_ref_usfm": "ACT 3:21"
+        },
+        {
+          "start_ref": "44015015",
+          "start_ref_usfm": "ACT 15:15",
+          "end_ref": "44015018",
+          "end_ref_usfm": "ACT 15:18"
+        },
+        {
+          "start_ref": "19080001",
+          "start_ref_usfm": "PSA 80:1",
+          "end_ref": "19080003",
+          "end_ref_usfm": "PSA 80:3"
+        },
+        {
+          "start_ref": "23049005",
+          "start_ref_usfm": "ISA 49:5",
+          "end_ref": "23049006",
+          "end_ref_usfm": "ISA 49:6"
+        },
+        {
+          "start_ref": "24015019",
+          "start_ref_usfm": "JER 15:19",
+          "end_ref": "24015021",
+          "end_ref_usfm": "JER 15:21"
+        },
+        {
+          "start_ref": "03006005",
+          "start_ref_usfm": "LEV 6:5",
+          "end_ref": "03006007",
+          "end_ref_usfm": "LEV 6:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

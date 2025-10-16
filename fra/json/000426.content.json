@@ -1,0 +1,269 @@
+[
+  {
+    "content_id": 467056,
+    "reference_id": 25911,
+    "title": "Jean (l'apôtre)",
+    "media_type": "Text",
+    "index_reference": "jean (l'apôtre)",
+    "language": "fra",
+    "content": "<h1>Jean (l&apos;apôtre)</h1><h2>Données :</h2><p>Jean était l&apos;un des douze apôtres de Jésus et l&apos;un des amis les plus proches de Jésus.</p><ul><li><p>Jean et son frère Jacques étaient les fils d&apos;un pêcheur nommé Zébédée.</p></li><li><p>Dans l&apos;évangile qu&apos;il a écrit sur la vie de Jésus, Jean s&apos;appelle « le disciple que Jésus aimait ». Cela semble indiquer que Jean était un ami particulièrement proche de Jésus.</p></li><li><p>Notez que l&apos;apôtre Jean n&apos;était pas la même personne que Jean le Baptiste.</p></li><li><p>L&apos;apôtre Jean a écrit cinq livres du Nouveau Testament : l&apos;Évangile de Jean, la Révélation de Jésus-Christ et trois lettres écrites à d&apos;autres croyants.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../kt/reveal.md), (../names/jamessonofzebedee.md), (../names/johnthebaptist.md), (../names/zebedee.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004021",
+          "start_ref_usfm": "MAT 4:21",
+          "end_ref": "40004021",
+          "end_ref_usfm": "MAT 4:21"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010002",
+          "end_ref_usfm": "MAT 10:2"
+        },
+        {
+          "start_ref": "40017001",
+          "start_ref_usfm": "MAT 17:1",
+          "end_ref": "40017001",
+          "end_ref_usfm": "MAT 17:1"
+        },
+        {
+          "start_ref": "41001019",
+          "start_ref_usfm": "MRK 1:19",
+          "end_ref": "41001019",
+          "end_ref_usfm": "MRK 1:19"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001029",
+          "end_ref_usfm": "MRK 1:29"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003017",
+          "end_ref_usfm": "MRK 3:17"
+        },
+        {
+          "start_ref": "41005037",
+          "start_ref_usfm": "MRK 5:37",
+          "end_ref": "41005037",
+          "end_ref_usfm": "MRK 5:37"
+        },
+        {
+          "start_ref": "41009002",
+          "start_ref_usfm": "MRK 9:2",
+          "end_ref": "41009002",
+          "end_ref_usfm": "MRK 9:2"
+        },
+        {
+          "start_ref": "41009038",
+          "start_ref_usfm": "MRK 9:38",
+          "end_ref": "41009038",
+          "end_ref_usfm": "MRK 9:38"
+        },
+        {
+          "start_ref": "41010035",
+          "start_ref_usfm": "MRK 10:35",
+          "end_ref": "41010035",
+          "end_ref_usfm": "MRK 10:35"
+        },
+        {
+          "start_ref": "41010041",
+          "start_ref_usfm": "MRK 10:41",
+          "end_ref": "41010041",
+          "end_ref_usfm": "MRK 10:41"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "41014033",
+          "start_ref_usfm": "MRK 14:33",
+          "end_ref": "41014033",
+          "end_ref_usfm": "MRK 14:33"
+        },
+        {
+          "start_ref": "42005010",
+          "start_ref_usfm": "LUK 5:10",
+          "end_ref": "42005010",
+          "end_ref_usfm": "LUK 5:10"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "42008051",
+          "start_ref_usfm": "LUK 8:51",
+          "end_ref": "42008051",
+          "end_ref_usfm": "LUK 8:51"
+        },
+        {
+          "start_ref": "42009028",
+          "start_ref_usfm": "LUK 9:28",
+          "end_ref": "42009028",
+          "end_ref_usfm": "LUK 9:28"
+        },
+        {
+          "start_ref": "42009049",
+          "start_ref_usfm": "LUK 9:49",
+          "end_ref": "42009049",
+          "end_ref_usfm": "LUK 9:49"
+        },
+        {
+          "start_ref": "42009054",
+          "start_ref_usfm": "LUK 9:54",
+          "end_ref": "42009054",
+          "end_ref_usfm": "LUK 9:54"
+        },
+        {
+          "start_ref": "42022008",
+          "start_ref_usfm": "LUK 22:8",
+          "end_ref": "42022008",
+          "end_ref_usfm": "LUK 22:8"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44003001",
+          "start_ref_usfm": "ACT 3:1",
+          "end_ref": "44003001",
+          "end_ref_usfm": "ACT 3:1"
+        },
+        {
+          "start_ref": "44003003",
+          "start_ref_usfm": "ACT 3:3",
+          "end_ref": "44003003",
+          "end_ref_usfm": "ACT 3:3"
+        },
+        {
+          "start_ref": "44003004",
+          "start_ref_usfm": "ACT 3:4",
+          "end_ref": "44003004",
+          "end_ref_usfm": "ACT 3:4"
+        },
+        {
+          "start_ref": "44003011",
+          "start_ref_usfm": "ACT 3:11",
+          "end_ref": "44003011",
+          "end_ref_usfm": "ACT 3:11"
+        },
+        {
+          "start_ref": "44004013",
+          "start_ref_usfm": "ACT 4:13",
+          "end_ref": "44004013",
+          "end_ref_usfm": "ACT 4:13"
+        },
+        {
+          "start_ref": "44004019",
+          "start_ref_usfm": "ACT 4:19",
+          "end_ref": "44004019",
+          "end_ref_usfm": "ACT 4:19"
+        },
+        {
+          "start_ref": "44008014",
+          "start_ref_usfm": "ACT 8:14",
+          "end_ref": "44008014",
+          "end_ref_usfm": "ACT 8:14"
+        },
+        {
+          "start_ref": "44012002",
+          "start_ref_usfm": "ACT 12:2",
+          "end_ref": "44012002",
+          "end_ref_usfm": "ACT 12:2"
+        },
+        {
+          "start_ref": "66001001",
+          "start_ref_usfm": "REV 1:1",
+          "end_ref": "66001001",
+          "end_ref_usfm": "REV 1:1"
+        },
+        {
+          "start_ref": "66001004",
+          "start_ref_usfm": "REV 1:4",
+          "end_ref": "66001004",
+          "end_ref_usfm": "REV 1:4"
+        },
+        {
+          "start_ref": "66001009",
+          "start_ref_usfm": "REV 1:9",
+          "end_ref": "66001009",
+          "end_ref_usfm": "REV 1:9"
+        },
+        {
+          "start_ref": "66022008",
+          "start_ref_usfm": "REV 22:8",
+          "end_ref": "66022008",
+          "end_ref_usfm": "REV 22:8"
+        },
+        {
+          "start_ref": "66001001",
+          "start_ref_usfm": "REV 1:1",
+          "end_ref": "66001003",
+          "end_ref_usfm": "REV 1:3"
+        },
+        {
+          "start_ref": "40004021",
+          "start_ref_usfm": "MAT 4:21",
+          "end_ref": "40004022",
+          "end_ref_usfm": "MAT 4:22"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        },
+        {
+          "start_ref": "48002009",
+          "start_ref_usfm": "GAL 2:9",
+          "end_ref": "48002010",
+          "end_ref_usfm": "GAL 2:10"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001021",
+          "end_ref_usfm": "JHN 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25884,
+          "content_id": 467029,
+          "label": "Jacques (fils de Zébédée)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 467057,
+          "label": "Jean (le Baptiste)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26367,
+          "content_id": 467473,
+          "label": "Zébédée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

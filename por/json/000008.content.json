@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237557,
+    "reference_id": 25419,
+    "title": "Abiatar",
+    "media_type": "Text",
+    "index_reference": "abiatar",
+    "language": "por",
+    "content": "<h1>Abiatar</h1><h2>Definição:</h2><p>Abiatar foi um sumo sacerdote da nação de Israel durante o reinado do Rei Davi.</p><ul><li><p>Quando o Rei Saul matou os sacerdotes, Abiatar escapou e foi até Davi no deserto.</p></li><li><p>Abiatar e outro sumo sacerdote chamado Zadoque serviram fielmente a Davi durante todo o seu reinado.</p></li><li><p>Após a morte de Davi, Abiatar ajudou Adonias a tentar assumir o trono em vez de Salomão.</p></li><li><p>Por causa disso, o Rei Salomão removeu Abiatar do sacerdócio.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26365\" data-resourceType=\"UWTranslationWords\">Zadoque</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (AT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25431\" data-resourceType=\"UWTranslationWords\">Adonias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:32-1Chr27:34\">1 Crônicas 27.32–34</a></p></li><li><p><a href=\"https://ref.ly/1Kgs1:7\">1 Reis 1.7</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:22-1Kgs2:23\">1 Reis 2.22–23</a></p></li><li><p><a href=\"https://ref.ly/2Sam17:15\">2 Samuel 17.15</a></p></li><li><p><a href=\"https://ref.ly/Mark2:25-Mark2:26\">Marcos 2.25–26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0054, G00080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11001007",
+          "start_ref_usfm": "1KI 1:7",
+          "end_ref": "11001007",
+          "end_ref_usfm": "1KI 1:7"
+        },
+        {
+          "start_ref": "41002026",
+          "start_ref_usfm": "MRK 2:26",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "41002025",
+          "start_ref_usfm": "MRK 2:25",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "13027032",
+          "start_ref_usfm": "1CH 27:32",
+          "end_ref": "13027034",
+          "end_ref_usfm": "1CH 27:34"
+        },
+        {
+          "start_ref": "11002022",
+          "start_ref_usfm": "1KI 2:22",
+          "end_ref": "11002023",
+          "end_ref_usfm": "1KI 2:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25431,
+          "content_id": 237569,
+          "label": "Adonias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 238329,
+          "label": "Saul",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26365,
+          "content_id": 238491,
+          "label": "Zadoque",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

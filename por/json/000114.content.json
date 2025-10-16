@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 237638,
+    "reference_id": 25502,
+    "title": "Banquete",
+    "media_type": "Text",
+    "index_reference": "banquete",
+    "language": "por",
+    "content": "<h1>banquete</h1><h2>Definição:</h2><p>Um banquete é uma refeição grande e formal que geralmente inclui vários pratos.</p><ul><li><p>Nos tempos antigos, os reis frequentemente serviam refeições em banquetes para entreter líderes políticos e outros convidados importantes.</p></li><li><p>Isso também pode ser traduzido como “refeição elaborada” ou “festa importante” ou “refeição com vários pratos”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan5:10\">Daniel 5.10</a></p></li><li><p><a href=\"https://ref.ly/Isa5:11-Isa5:12\">Isaías 5.11–12</a></p></li><li><p><a href=\"https://ref.ly/Jer16:8\">Jeremias 16.8</a></p></li><li><p><a href=\"https://ref.ly/Luke5:29-Luke5:32\">Lucas 5.29–32</a></p></li><li><p><a href=\"https://ref.ly/Song2:3-Song2:4\">Cânticos 2.3–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4960, H4961, H8354, G11730, G14030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001005",
+          "start_ref_usfm": "JOB 1:5",
+          "end_ref": "18001005",
+          "end_ref_usfm": "JOB 1:5"
+        },
+        {
+          "start_ref": "24016008",
+          "start_ref_usfm": "JER 16:8",
+          "end_ref": "24016008",
+          "end_ref_usfm": "JER 16:8"
+        },
+        {
+          "start_ref": "27005010",
+          "start_ref_usfm": "DAN 5:10",
+          "end_ref": "27005010",
+          "end_ref_usfm": "DAN 5:10"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "42014013",
+          "start_ref_usfm": "LUK 14:13",
+          "end_ref": "42014013",
+          "end_ref_usfm": "LUK 14:13"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "22002003",
+          "start_ref_usfm": "SNG 2:3",
+          "end_ref": "22002004",
+          "end_ref_usfm": "SNG 2:4"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

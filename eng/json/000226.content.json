@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26499,
+    "reference_id": 25641,
+    "title": "Dan",
+    "media_type": "Text",
+    "index_reference": "dan",
+    "language": "eng",
+    "content": "<h1>Dan</h1><h2>Facts:</h2><p>Dan was Jacob’s fifth son. He was Bilhah’s first son. His descendants became one of the tribes of Israel.</p><ul><li><p>His name sounds similar to the Hebrew word for “judge.”</p></li><li><p>The tribe of Dan settled in the northern part of Canaan. When used as the name of a region of land, the term “Dan” refers to the land given to the tribe of Dan.</p></li><li><p>“Dan” was also the name an Israelite city located about 60 miles north of Jerusalem. In the Old Testament times, the city of Dan served as a landmark for the northern boundary of the country of Israel, opposite the city of Beersheba as a landmark for the southern boundary.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25540\" data-resourceType=\"UWTranslationWords\">Bilhah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr12:35\">1 Chronicles 12:35</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:25\">1 Kings 4:25</a></p></li><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">Exodus 1:1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen14:14\">Genesis 14:14</a></p></li><li><p><a href=\"https://ref.ly/Gen30:6\">Genesis 30:6</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1835, H1839, H2051</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014014",
+          "start_ref_usfm": "GEN 14:14",
+          "end_ref": "01014014",
+          "end_ref_usfm": "GEN 14:14"
+        },
+        {
+          "start_ref": "01030006",
+          "start_ref_usfm": "GEN 30:6",
+          "end_ref": "01030006",
+          "end_ref_usfm": "GEN 30:6"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046023",
+          "start_ref_usfm": "GEN 46:23",
+          "end_ref": "01046023",
+          "end_ref_usfm": "GEN 46:23"
+        },
+        {
+          "start_ref": "01049017",
+          "start_ref_usfm": "GEN 49:17",
+          "end_ref": "01049017",
+          "end_ref_usfm": "GEN 49:17"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "02031006",
+          "start_ref_usfm": "EXO 31:6",
+          "end_ref": "02031006",
+          "end_ref_usfm": "EXO 31:6"
+        },
+        {
+          "start_ref": "02035034",
+          "start_ref_usfm": "EXO 35:34",
+          "end_ref": "02035034",
+          "end_ref_usfm": "EXO 35:34"
+        },
+        {
+          "start_ref": "02038023",
+          "start_ref_usfm": "EXO 38:23",
+          "end_ref": "02038023",
+          "end_ref_usfm": "EXO 38:23"
+        },
+        {
+          "start_ref": "11004025",
+          "start_ref_usfm": "1KI 4:25",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "13012035",
+          "start_ref_usfm": "1CH 12:35",
+          "end_ref": "13012035",
+          "end_ref_usfm": "1CH 12:35"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25540,
+          "content_id": 26398,
+          "label": "Bilhah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

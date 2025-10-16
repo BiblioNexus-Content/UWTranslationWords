@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26550,
+    "reference_id": 25692,
+    "title": "Elam",
+    "media_type": "Text",
+    "index_reference": "elam",
+    "language": "eng",
+    "content": "<h1>Elam, Elamites</h1><h2>Facts:</h2><p>Elam was a son of Shem and a grandson of Noah.</p><ul><li><p>The descendants of Elam were called “Elamites,” and they lived in a region that was also called “Elam.”</p></li><li><p>The region of Elam was located southeast of the Tigris River in what is now western Iran.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Shem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:17-1Chr1:19\">1 Chronicles 1:17–19</a></p></li><li><p><a href=\"https://ref.ly/Acts2:9\">Acts 2:9</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:4-Ezra8:7\">Ezra 8:4–7</a></p></li><li><p><a href=\"https://ref.ly/Isa22:6\">Isaiah 22:6</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5867, H5962, G16390</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014001",
+          "end_ref_usfm": "GEN 14:1"
+        },
+        {
+          "start_ref": "01014009",
+          "start_ref_usfm": "GEN 14:9",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
+        },
+        {
+          "start_ref": "23022006",
+          "start_ref_usfm": "ISA 22:6",
+          "end_ref": "23022006",
+          "end_ref_usfm": "ISA 22:6"
+        },
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001019",
+          "end_ref_usfm": "1CH 1:19"
+        },
+        {
+          "start_ref": "15008004",
+          "start_ref_usfm": "EZR 8:4",
+          "end_ref": "15008007",
+          "end_ref_usfm": "EZR 8:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 27083,
+          "label": "Shem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

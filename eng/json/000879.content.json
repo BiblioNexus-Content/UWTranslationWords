@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 27152,
+    "reference_id": 26294,
+    "title": "Tetrarch",
+    "media_type": "Text",
+    "index_reference": "tetrarch",
+    "language": "eng",
+    "content": "<h1>tetrarch</h1><h2>Definition:</h2><p>The term “tetrarch” refers to a governing official who ruled over part of the Roman Empire. Each tetrarch was under the authority of the Roman emperor.</p><ul><li><p>The title “tetrarch” means “one of four joint rulers.”</p></li><li><p>Starting under the Emperor Diocletian, there were four major divisions of the Roman Empire and each tetrarch ruled one division.</p></li><li><p>The kingdom of of Herod “the Great,” who was king at the time of the birth of Jesus, was divided into four sections after his death, and ruled by his sons as “tetrarchs,” or “rulers of a fourth.”</p></li><li><p>Each division had one or more smaller parts called “provinces,” such as Galilee or Samaria.</p></li><li><p>“Herod the tetrarch” is mentioned several times in the New Testament. He is also known as “Herod Antipas.”</p></li><li><p>The term “tetrarch” could also be translated as “regional governor” or “provincial ruler” or “ruler” or “governor.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25799\" data-resourceType=\"UWTranslationWords\">governor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herod Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">province</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">ruler</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke3:1-Luke3:2\">Luke 3:1–2</a></p></li><li><p><a href=\"https://ref.ly/Luke9:7\">Luke 9:7</a></p></li><li><p><a href=\"https://ref.ly/Matt14:1-Matt14:2\">Matthew 14:1–2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G50750, G50760</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014001",
+          "end_ref_usfm": "MAT 14:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009007",
+          "end_ref_usfm": "LUK 9:7"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25799,
+          "content_id": 26657,
+          "label": "Governor",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25830,
+          "content_id": 26688,
+          "label": "Herodantipas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 26995,
+          "label": "Province",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 27042,
+          "label": "Ruler",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26672,
+    "reference_id": 25814,
+    "title": "Hamath",
+    "media_type": "Text",
+    "index_reference": "hamath",
+    "language": "eng",
+    "content": "<h1>Hamath, Hamathites, Lebo Hamath</h1><h2>Facts:</h2><p>Hamath was an important city in northern Syria, north of the land of Canaan. The Hamathites were descendants of Noah’s son Canaan.</p><ul><li><p>The name “Lebo Hamath” probably refers to a mountain pass near the city of Hamath.</p></li><li><p>Some versions translate “Lebo Hamath” as “entrance to Hamath.”</p></li><li><p>King David defeated enemies of King Tou of Hamath, causing them to be on good terms.</p></li><li><p>Hamath was one of Solomon’s storehouse cities where provisions were kept.</p></li><li><p>The land of Hamath was where King Zedekiah was killed by King Nebuchadnezzar and where King Jehoahaz was captured by an Egyptian pharaoh.</p></li><li><p>The term “Hamathite” could also be translated as “person from Hamath.”</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nebuchadnezzar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">Zedekiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr18:3-1Chr18:4\">1 Chronicles 18:3–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam8:9\">2 Samuel 8:9</a></p></li><li><p><a href=\"https://ref.ly/Amos6:1-Amos6:2\">Amos 6:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezek47:15-Ezek47:17\">Ezekiel 47:15–17</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2574, H2577</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "10008009",
+          "start_ref_usfm": "2SA 8:9",
+          "end_ref": "10008009",
+          "end_ref_usfm": "2SA 8:9"
+        },
+        {
+          "start_ref": "13018003",
+          "start_ref_usfm": "1CH 18:3",
+          "end_ref": "13018004",
+          "end_ref_usfm": "1CH 18:4"
+        },
+        {
+          "start_ref": "30006001",
+          "start_ref_usfm": "AMO 6:1",
+          "end_ref": "30006002",
+          "end_ref_usfm": "AMO 6:2"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 26905,
+          "label": "Nebuchadnezzar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 27229,
+          "label": "Zedekiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

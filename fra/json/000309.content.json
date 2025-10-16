@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466669,
+    "reference_id": 25490,
+    "title": "Expier",
+    "media_type": "Text",
+    "index_reference": "expier",
+    "language": "fra",
+    "content": "<h1>expier, expiation</h1><h2>Définition :</h2><p>Les termes &quot;expiation&quot; et &quot;expier&quot; font référence à la façon dont Dieu a pourvu un sacrifice pour payer les péchés des gens et pour apaiser sa colère pour le péché.</p><ul><li><p>À l&apos;époque de l&apos;Ancien Testament, Dieu a permis aux Israélites de faire l&apos;offrande d&apos;un sacrifice de sang qui exigeait de tuer un animal pour l&apos;expiation temporaire de leur péché.</p></li><li><p>Comme il est écrit dans le Nouveau Testament, la mort du Christ sur la croix est la seule expiation vraie et permanente pour le péché.</p></li><li><p>Quand Jésus est mort, il a pris la punition que les gens méritent à cause de leur péché. Il a payé le prix de l&apos;expiation avec sa mort sacrificielle.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Le terme &quot;expier&quot; pourrait être traduit par un mot ou une expression qui signifie &quot;racheter&quot; ou &quot;faire le pardon de&quot; ou &quot;causer les péchés de quelqu&apos;un d&apos;être pardonnés&quot; &quot;faire amende honorable pour un crime&quot;.</p></li><li><p>Les moyens de traduire &quot;expiation&quot; pourraient inclure &quot;pardon du péché&quot; ou &quot;sacrifice pour payer le péché&quot; ou &quot;faire la propitiation pour&quot; ou fournir les moyens de pardon&quot;.</p></li><li><p>Assurez-vous que la traduction de ce terme ne fait pas référence au paiement d&apos;argent.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25491\" data-resourceType=\"UWTranslationWords\">atonement</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">pardonner</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26130\" data-resourceType=\"UWTranslationWords\">propitiation</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">réconcilier</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">racheter</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029033",
+          "start_ref_usfm": "EXO 29:33",
+          "end_ref": "02029033",
+          "end_ref_usfm": "EXO 29:33"
+        },
+        {
+          "start_ref": "02029036",
+          "start_ref_usfm": "EXO 29:36",
+          "end_ref": "02029036",
+          "end_ref_usfm": "EXO 29:36"
+        },
+        {
+          "start_ref": "02030010",
+          "start_ref_usfm": "EXO 30:10",
+          "end_ref": "02030010",
+          "end_ref_usfm": "EXO 30:10"
+        },
+        {
+          "start_ref": "02030016",
+          "start_ref_usfm": "EXO 30:16",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "02032030",
+          "start_ref_usfm": "EXO 32:30",
+          "end_ref": "02032030",
+          "end_ref_usfm": "EXO 32:30"
+        },
+        {
+          "start_ref": "03004020",
+          "start_ref_usfm": "LEV 4:20",
+          "end_ref": "03004020",
+          "end_ref_usfm": "LEV 4:20"
+        },
+        {
+          "start_ref": "04005008",
+          "start_ref_usfm": "NUM 5:8",
+          "end_ref": "04005008",
+          "end_ref_usfm": "NUM 5:8"
+        },
+        {
+          "start_ref": "04028022",
+          "start_ref_usfm": "NUM 28:22",
+          "end_ref": "04028022",
+          "end_ref_usfm": "NUM 28:22"
+        },
+        {
+          "start_ref": "26043025",
+          "start_ref_usfm": "EZK 43:25",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045020",
+          "end_ref_usfm": "EZK 45:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25491,
+          "content_id": 466670,
+          "label": "Propitiatoire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 466903,
+          "label": "Pardonner",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26130,
+          "content_id": 467252,
+          "label": "Propitiation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 467280,
+          "label": "Réconcilier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 467281,
+          "label": "Racheter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

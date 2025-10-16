@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26839,
+    "reference_id": 25981,
+    "title": "Luke",
+    "media_type": "Text",
+    "index_reference": "luke",
+    "language": "eng",
+    "content": "<h1>Luke</h1><h2>Facts:</h2><p>Luke wrote two books of the New Testament: the gospel of Luke and the book of Acts.</p><ul><li><p>In his letter to the Colossians, Paul refers to Luke as a doctor. Paul also mentions Luke in two of his other letters.</p></li><li><p>It is thought that Luke was a Greek and a Gentile who came to know Christ. In his gospel, Luke includes several accounts that highlight Jesus’ love for all peoples, both Jews and Gentiles.</p></li><li><p>Luke accompanied Paul on two of his missionary journeys and helped him in his work.</p></li><li><p>In some early church writings, it is said that Luke was born in the city of Antioch in Syria.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25464\" data-resourceType=\"UWTranslationWords\">Antioch</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timothy 4:11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:12-Col4:14\">Colossians 4:12–14</a></p></li><li><p><a href=\"https://ref.ly/Phlm1:24\">Philemon 1:24</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G30650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "51004012",
+          "start_ref_usfm": "COL 4:12",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25464,
+          "content_id": 26322,
+          "label": "Antioch",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

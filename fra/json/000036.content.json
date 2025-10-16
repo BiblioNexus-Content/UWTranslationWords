@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466624,
+    "reference_id": 25443,
+    "title": "AÏ",
+    "media_type": "Text",
+    "index_reference": "aï",
+    "language": "fra",
+    "content": "<h1>AÏ</h1><h2>Définition :</h2><p>Dans l&apos;Ancien Testament, Aï était le nom d&apos;une ville de Cannan située juste au sud de Béthel à environ 8 km au Nord-Ouest de Jéricho.</p><ul><li><p>Après avoir conquis Jéricho, Josué mena les Israëlites à attaquer Aï* Mais ils furent facilement battus parce que Dieu était en colère contre eux.</p></li><li><p>Un Israëlien du nom d&apos;Acan avait volé du butin à Jéricho et Dieu ordonna que lui et sa famille soient tués* Après cela Dieu aida les Israëlites à vaincre les habitants d&apos;Aï.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/bethel.md), (../names/jericho.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012008",
+          "end_ref_usfm": "GEN 12:8"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013003",
+          "end_ref_usfm": "GEN 13:3"
+        },
+        {
+          "start_ref": "06007003",
+          "start_ref_usfm": "JOS 7:3",
+          "end_ref": "06007003",
+          "end_ref_usfm": "JOS 7:3"
+        },
+        {
+          "start_ref": "06008012",
+          "start_ref_usfm": "JOS 8:12",
+          "end_ref": "06008012",
+          "end_ref_usfm": "JOS 8:12"
+        },
+        {
+          "start_ref": "15002028",
+          "start_ref_usfm": "EZR 2:28",
+          "end_ref": "15002028",
+          "end_ref_usfm": "EZR 2:28"
+        },
+        {
+          "start_ref": "16007032",
+          "start_ref_usfm": "NEH 7:32",
+          "end_ref": "16007032",
+          "end_ref_usfm": "NEH 7:32"
+        },
+        {
+          "start_ref": "16011031",
+          "start_ref_usfm": "NEH 11:31",
+          "end_ref": "16011031",
+          "end_ref_usfm": "NEH 11:31"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013004",
+          "end_ref_usfm": "GEN 13:4"
+        },
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "15002027",
+          "start_ref_usfm": "EZR 2:27",
+          "end_ref": "15002030",
+          "end_ref_usfm": "EZR 2:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25529,
+          "content_id": 466702,
+          "label": "Béthel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

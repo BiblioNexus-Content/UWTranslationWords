@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26347,
+    "reference_id": 25489,
+    "title": "Athaliah",
+    "media_type": "Text",
+    "index_reference": "athaliah",
+    "language": "eng",
+    "content": "<h1>Athaliah</h1><h2>Facts:</h2><p>Athaliah was the evil wife of Jehoram king of Judah. She was the granddaughter of the evil King Omri of Israel.</p><ul><li><p>Athaliah’s son Ahaziah became king after Jehoram died.</p></li><li><p>When her son Ahaziah died, Athaliah made a plan to kill all the rest of the king’s family.</p></li><li><p>But Athaliah’s young grandson Joash was hidden by his aunt and saved from being killed. After Athaliah had ruled the land for six years, she was killed and Joash became king.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Ahaziah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25891\" data-resourceType=\"UWTranslationWords\">Jehoram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joash</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26063\" data-resourceType=\"UWTranslationWords\">Omri</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr22:2\">2 Chronicles 22:2</a></p></li><li><p><a href=\"https://ref.ly/2Chr24:6-2Chr24:7\">2 Chronicles 24:6–7</a></p></li><li><p><a href=\"https://ref.ly/2Kgs11:3\">2 Kings 11:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6271</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011003",
+          "start_ref_usfm": "2KI 11:3",
+          "end_ref": "12011003",
+          "end_ref_usfm": "2KI 11:3"
+        },
+        {
+          "start_ref": "14022002",
+          "start_ref_usfm": "2CH 22:2",
+          "end_ref": "14022002",
+          "end_ref_usfm": "2CH 22:2"
+        },
+        {
+          "start_ref": "15008007",
+          "start_ref_usfm": "EZR 8:7",
+          "end_ref": "15008007",
+          "end_ref_usfm": "EZR 8:7"
+        },
+        {
+          "start_ref": "14024006",
+          "start_ref_usfm": "2CH 24:6",
+          "end_ref": "14024007",
+          "end_ref_usfm": "2CH 24:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 26299,
+          "label": "Ahaziah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25891,
+          "content_id": 26749,
+          "label": "Jehoram",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 26765,
+          "label": "Joash",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26063,
+          "content_id": 26921,
+          "label": "Omri",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

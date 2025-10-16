@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237556,
+    "reference_id": 25418,
+    "title": "Abel",
+    "media_type": "Text",
+    "index_reference": "abel",
+    "language": "por",
+    "content": "<h1>Abel</h1><h2>Fatos:</h2><p>Abel era o segundo filho de Adão e Eva. Ele era o irmão mais novo de Caim.</p><ul><li><p>Abel era um pastor.</p></li><li><p>Abel sacrificou alguns de seus animais como uma oferta a Deus.</p></li><li><p>Deus ficou satisfeito com Abel e suas ofertas.</p></li><li><p>O primogênito de Adão e Eva, Caim, assassinou Abel.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">Caim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">pastor</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen4:2\">Gênesis 4.2</a></p></li><li><p><a href=\"https://ref.ly/Gen4:9\">Gênesis 4.9</a></p></li><li><p><a href=\"https://ref.ly/Heb12:24\">Hebreus 12.24</a></p></li><li><p><a href=\"https://ref.ly/Luke11:49-Luke11:51\">Lucas 11.49–51</a></p></li><li><p><a href=\"https://ref.ly/Matt23:35\">Mateus 23.35</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1893, G00060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "01004004",
+          "start_ref_usfm": "GEN 4:4",
+          "end_ref": "01004004",
+          "end_ref_usfm": "GEN 4:4"
+        },
+        {
+          "start_ref": "01004008",
+          "start_ref_usfm": "GEN 4:8",
+          "end_ref": "01004008",
+          "end_ref_usfm": "GEN 4:8"
+        },
+        {
+          "start_ref": "01004009",
+          "start_ref_usfm": "GEN 4:9",
+          "end_ref": "01004009",
+          "end_ref_usfm": "GEN 4:9"
+        },
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "40023035",
+          "start_ref_usfm": "MAT 23:35",
+          "end_ref": "40023035",
+          "end_ref_usfm": "MAT 23:35"
+        },
+        {
+          "start_ref": "42011051",
+          "start_ref_usfm": "LUK 11:51",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        },
+        {
+          "start_ref": "58011004",
+          "start_ref_usfm": "HEB 11:4",
+          "end_ref": "58011004",
+          "end_ref_usfm": "HEB 11:4"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        },
+        {
+          "start_ref": "42011049",
+          "start_ref_usfm": "LUK 11:49",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 237700,
+          "label": "Caim",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 238355,
+          "label": "Pastor",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

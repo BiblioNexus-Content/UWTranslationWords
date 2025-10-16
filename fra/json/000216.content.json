@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 466803,
+    "reference_id": 25640,
+    "title": "Damas",
+    "media_type": "Text",
+    "index_reference": "damas",
+    "language": "fra",
+    "content": "<h1>Damas</h1><h2>Définition :</h2><p>Damas est la capitale du pays de la Syrie* Il est toujours dans le même emplacement, car il était dans les temps bibliques.</p><ul><li><p>Damas est une des plus anciennes villes habitées, dans le monde.</p></li><li><p>Pendant le temps d&apos;Abraham, Damas était la capitale du royaume Aram (située dans la Syrie actuelle).</p></li><li><p>Tout au long de l&apos;Ancien Testament, il y a beaucoup de références aux interactions entre les habitants de Damas et le peuple d&apos;Israël.</p></li><li><p>Plusieurs prophéties bibliques ont prédi la destruction de Damas* Ces prophéties ont pu être accomplies lorsque l&apos;Assyrie a détruit la ville à l&apos;époque de l&apos;Ancien Testament et plus tard il y eut la destruction plus complète de cette ville.</p></li><li><p>Dans le Nouveau Testament, le pharisien Saul (plus tard connu comme Paul) était sur son chemin pour arrêter les chrétiens dans la ville de Damas, quand Jésus l&apos;a confronté et l&apos;a amené à devenir un croyant.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/aram.md), (../names/assyria.md), (../kt/believe.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014015",
+          "start_ref_usfm": "GEN 14:15",
+          "end_ref": "01014015",
+          "end_ref_usfm": "GEN 14:15"
+        },
+        {
+          "start_ref": "01015002",
+          "start_ref_usfm": "GEN 15:2",
+          "end_ref": "01015002",
+          "end_ref_usfm": "GEN 15:2"
+        },
+        {
+          "start_ref": "44009002",
+          "start_ref_usfm": "ACT 9:2",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "44009003",
+          "start_ref_usfm": "ACT 9:3",
+          "end_ref": "44009003",
+          "end_ref_usfm": "ACT 9:3"
+        },
+        {
+          "start_ref": "44009008",
+          "start_ref_usfm": "ACT 9:8",
+          "end_ref": "44009008",
+          "end_ref_usfm": "ACT 9:8"
+        },
+        {
+          "start_ref": "44009010",
+          "start_ref_usfm": "ACT 9:10",
+          "end_ref": "44009010",
+          "end_ref_usfm": "ACT 9:10"
+        },
+        {
+          "start_ref": "44009019",
+          "start_ref_usfm": "ACT 9:19",
+          "end_ref": "44009019",
+          "end_ref_usfm": "ACT 9:19"
+        },
+        {
+          "start_ref": "44009022",
+          "start_ref_usfm": "ACT 9:22",
+          "end_ref": "44009022",
+          "end_ref_usfm": "ACT 9:22"
+        },
+        {
+          "start_ref": "44009027",
+          "start_ref_usfm": "ACT 9:27",
+          "end_ref": "44009027",
+          "end_ref_usfm": "ACT 9:27"
+        },
+        {
+          "start_ref": "44022005",
+          "start_ref_usfm": "ACT 22:5",
+          "end_ref": "44022005",
+          "end_ref_usfm": "ACT 22:5"
+        },
+        {
+          "start_ref": "44022006",
+          "start_ref_usfm": "ACT 22:6",
+          "end_ref": "44022006",
+          "end_ref_usfm": "ACT 22:6"
+        },
+        {
+          "start_ref": "44022010",
+          "start_ref_usfm": "ACT 22:10",
+          "end_ref": "44022010",
+          "end_ref_usfm": "ACT 22:10"
+        },
+        {
+          "start_ref": "44022011",
+          "start_ref_usfm": "ACT 22:11",
+          "end_ref": "44022011",
+          "end_ref_usfm": "ACT 22:11"
+        },
+        {
+          "start_ref": "44026012",
+          "start_ref_usfm": "ACT 26:12",
+          "end_ref": "44026012",
+          "end_ref_usfm": "ACT 26:12"
+        },
+        {
+          "start_ref": "44026020",
+          "start_ref_usfm": "ACT 26:20",
+          "end_ref": "44026020",
+          "end_ref_usfm": "ACT 26:20"
+        },
+        {
+          "start_ref": "47011032",
+          "start_ref_usfm": "2CO 11:32",
+          "end_ref": "47011032",
+          "end_ref_usfm": "2CO 11:32"
+        },
+        {
+          "start_ref": "14024023",
+          "start_ref_usfm": "2CH 24:23",
+          "end_ref": "14024024",
+          "end_ref_usfm": "2CH 24:24"
+        },
+        {
+          "start_ref": "44009001",
+          "start_ref_usfm": "ACT 9:1",
+          "end_ref": "44009002",
+          "end_ref_usfm": "ACT 9:2"
+        },
+        {
+          "start_ref": "48001015",
+          "start_ref_usfm": "GAL 1:15",
+          "end_ref": "48001017",
+          "end_ref_usfm": "GAL 1:17"
+        },
+        {
+          "start_ref": "01014015",
+          "start_ref_usfm": "GEN 14:15",
+          "end_ref": "01014016",
+          "end_ref_usfm": "GEN 14:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

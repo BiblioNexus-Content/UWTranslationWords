@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237816,
+    "reference_id": 25683,
+    "title": "Oferta de Bebida",
+    "media_type": "Text",
+    "index_reference": "oferta de bebida",
+    "language": "por",
+    "content": "<h1>oferta de bebida</h1><h2>Definição:</h2><p>Uma oferta de bebida era um sacrifício a Deus que envolvia derramar vinho sobre um altar. Muitas vezes era oferecida junto com uma oferta queimada e uma oferta de cereais.</p><ul><li><p>Paulo se refere à sua vida como sendo derramada como uma oferta de bebida. Isso significa que ele estava totalmente dedicado a servir a Deus e a falar às pessoas sobre Jesus, mesmo sabendo que sofreria e provavelmente seria morto por causa disso.</p></li><li><p>A morte de Jesus na cruz foi a oferta de bebida suprema, pois seu sangue foi derramado na cruz pelos nossos pecados.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Outra maneira de traduzir este termo poderia ser “oferta de vinho de uva”.</p></li><li><p>Quando Paulo diz que está sendo “derramado como uma oferta” isso também poderia ser traduzido como “Estou completamente comprometido em ensinar a mensagem de Deus às pessoas, assim como uma oferta de vinho é completamente derramada no altar”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">oferta queimada</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">oferta de cereais</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod25:29\">Êxodo 25.29</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:16-Ezek45:17\">Ezequiel 45.16–17</a></p></li><li><p><a href=\"https://ref.ly/Gen35:14\">Gênesis 35.14</a></p></li><li><p><a href=\"https://ref.ly/Jer7:16-Jer7:18\">Jeremias 7.16–18</a></p></li><li><p><a href=\"https://ref.ly/Num5:15\">Números 5.15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5257, H5261, H5262</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035014",
+          "start_ref_usfm": "GEN 35:14",
+          "end_ref": "01035014",
+          "end_ref_usfm": "GEN 35:14"
+        },
+        {
+          "start_ref": "02025029",
+          "start_ref_usfm": "EXO 25:29",
+          "end_ref": "02025029",
+          "end_ref_usfm": "EXO 25:29"
+        },
+        {
+          "start_ref": "02029040",
+          "start_ref_usfm": "EXO 29:40",
+          "end_ref": "02029040",
+          "end_ref_usfm": "EXO 29:40"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "26045016",
+          "start_ref_usfm": "EZK 45:16",
+          "end_ref": "26045017",
+          "end_ref_usfm": "EZK 45:17"
+        },
+        {
+          "start_ref": "24007016",
+          "start_ref_usfm": "JER 7:16",
+          "end_ref": "24007018",
+          "end_ref_usfm": "JER 7:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 237695,
+          "label": "Holocausto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 237935,
+          "label": "Oferta de cereal",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

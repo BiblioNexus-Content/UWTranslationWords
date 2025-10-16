@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466875,
+    "reference_id": 25716,
+    "title": "Évangéliste",
+    "media_type": "Text",
+    "index_reference": "évangéliste",
+    "language": "fra",
+    "content": "<h1>évangéliste</h1><h2>Définition</h2><p>Un &quot;évangéliste&quot; est une personne qui apporte aux autres de la Bonne Nouvelle de Jésus.</p><ul><li><p>Le sens littéral du terme &quot;évangéliste&quot; est &quot;quelqu&apos;un qui prêche la Bonne Nouvelle&quot;</p></li><li><p>Jésus a envoyé ses apôtres pour répandre la Bonne Nouvelle que nous pouvons faire partie du royaume de Dieu en faisant confiance à Jésus et à son sacrifice pour le péché.</p></li><li><p>Tous les chrétiens sont exhortés à partager cette Bonne Nouvelle.</p></li><li><p>Certains chrétiens ont un don spirituel spécial pour parler effectivement&nbsp;de la Bonne Nouvelle aux autres. On dit qu&apos;ils ont le don de l&apos;évangélisation et ils sont appelés des &quot;évangélistes&quot;.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Le terme &quot;évangéliste&quot; pourrait être traduit par &quot;quelqu&apos;un qui prêche la Bonne Nouvelle&quot; ou &quot;un enseignant de la Bonne Nouvelle&quot; ou &quot;une personne qui proclame la Bonne Nouvelle&quot; ou &quot;un prédicateur de la Bonne Nouvelle&quot;.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">Bonne Nouvelle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">esprit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">don</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004011",
+          "end_ref_usfm": "EPH 4:11"
+        },
+        {
+          "start_ref": "55004005",
+          "start_ref_usfm": "2TI 4:5",
+          "end_ref": "55004005",
+          "end_ref_usfm": "2TI 4:5"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25796,
+          "content_id": 466945,
+          "label": "La bonnes nouvelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

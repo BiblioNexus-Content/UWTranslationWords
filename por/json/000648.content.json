@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237935,
+    "reference_id": 25802,
+    "title": "Oferta de cereal",
+    "media_type": "Text",
+    "index_reference": "oferta de cereal",
+    "language": "por",
+    "content": "<h1>oferta de cereais</h1><h2>Definição:</h2><p>Uma oferta de cereais era uma porção de farinha de trigo ou cevada oferecida a Deus, muitas vezes após uma oferta queimada.</p><ul><li><p>O cereal usado para a oferta de cereais tinha que ser bem moído. Às vezes era cozido antes de ser oferecido, mas outras vezes era deixado cru.</p></li><li><p>Óleo e sal eram adicionados à farinha de cereal, mas fermento ou mel não eram permitidos.</p></li><li><p>Parte da oferta de cereais era queimada e parte dela era comida pelos sacerdotes.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">holocausto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25807\" data-resourceType=\"UWTranslationWords\">oferta pela culpa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26242\" data-resourceType=\"UWTranslationWords\">oferta pelo pecado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr23:27-1Chr23:29\">1 Crônicas 23.27–29</a></p></li><li><p><a href=\"https://ref.ly/Exod29:41-Exod29:42\">Êxodo 29.41–42</a></p></li><li><p><a href=\"https://ref.ly/Judg13:19\">Juízes 13.19</a></p></li><li><p><a href=\"https://ref.ly/Lev2:2\">Levítico 2.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4503, H8641</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "02040029",
+          "start_ref_usfm": "EXO 40:29",
+          "end_ref": "02040029",
+          "end_ref_usfm": "EXO 40:29"
+        },
+        {
+          "start_ref": "03002002",
+          "start_ref_usfm": "LEV 2:2",
+          "end_ref": "03002002",
+          "end_ref_usfm": "LEV 2:2"
+        },
+        {
+          "start_ref": "07013019",
+          "start_ref_usfm": "JDG 13:19",
+          "end_ref": "07013019",
+          "end_ref_usfm": "JDG 13:19"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "13023027",
+          "start_ref_usfm": "1CH 23:27",
+          "end_ref": "13023029",
+          "end_ref_usfm": "1CH 23:29"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029042",
+          "end_ref_usfm": "EXO 29:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 237695,
+          "label": "Holocausto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 237940,
+          "label": "Oferta pela culpa",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 238371,
+          "label": "Oferta pelo Pecado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

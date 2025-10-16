@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467282,
+    "reference_id": 26162,
+    "title": "La mer Rouge",
+    "media_type": "Text",
+    "index_reference": "la mer rouge",
+    "language": "fra",
+    "content": "<h1>La mer Rouge, La mer des Roseaux</h1><h2>Définition :</h2><p>La « mer des Roseaux » était le nom d&apos;une étendue d&apos;eau situé entre l&apos;Égypte et l&apos;Arabie qui s&apos;apelle maintenant la « La mer Rouge ».</p><ul><li><p>La mer Rouge est longue et étroite. Elle est plus grande qu&apos;un lac ou une rivière, mais beaucoup plus petite qu&apos;un océan.</p></li><li><p>Les Israélites ont traversé La mer Rouge quand ils fuyaient l&apos;Égypte. Dieu a fait un miracle en divisant les eaux de la mer pour que les gens puissent traverser sur la terre ferme, à pied sec.</p></li><li><p>Le pays de Canaan était au nord de cette mer.</p></li><li><p>Le nom « mer Rouge » peut être traduit par « mer des Roseaux » ou « mer pleine de roseaux ».</p></li></ul><p>(Voir aussi : (../names/arabia.md)<strong>.</strong> (../names/canaan.md), (../names/egypt.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02010019",
+          "start_ref_usfm": "EXO 10:19",
+          "end_ref": "02010019",
+          "end_ref_usfm": "EXO 10:19"
+        },
+        {
+          "start_ref": "02013018",
+          "start_ref_usfm": "EXO 13:18",
+          "end_ref": "02013018",
+          "end_ref_usfm": "EXO 13:18"
+        },
+        {
+          "start_ref": "02015004",
+          "start_ref_usfm": "EXO 15:4",
+          "end_ref": "02015004",
+          "end_ref_usfm": "EXO 15:4"
+        },
+        {
+          "start_ref": "02015022",
+          "start_ref_usfm": "EXO 15:22",
+          "end_ref": "02015022",
+          "end_ref_usfm": "EXO 15:22"
+        },
+        {
+          "start_ref": "02023031",
+          "start_ref_usfm": "EXO 23:31",
+          "end_ref": "02023031",
+          "end_ref_usfm": "EXO 23:31"
+        },
+        {
+          "start_ref": "16009009",
+          "start_ref_usfm": "NEH 9:9",
+          "end_ref": "16009009",
+          "end_ref_usfm": "NEH 9:9"
+        },
+        {
+          "start_ref": "44007036",
+          "start_ref_usfm": "ACT 7:36",
+          "end_ref": "44007036",
+          "end_ref_usfm": "ACT 7:36"
+        },
+        {
+          "start_ref": "46010001",
+          "start_ref_usfm": "1CO 10:1",
+          "end_ref": "46010001",
+          "end_ref_usfm": "1CO 10:1"
+        },
+        {
+          "start_ref": "46010002",
+          "start_ref_usfm": "1CO 10:2",
+          "end_ref": "46010002",
+          "end_ref_usfm": "1CO 10:2"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011029",
+          "end_ref_usfm": "HEB 11:29"
+        },
+        {
+          "start_ref": "02013017",
+          "start_ref_usfm": "EXO 13:17",
+          "end_ref": "02013018",
+          "end_ref_usfm": "EXO 13:18"
+        },
+        {
+          "start_ref": "04014023",
+          "start_ref_usfm": "NUM 14:23",
+          "end_ref": "04014025",
+          "end_ref_usfm": "NUM 14:25"
+        },
+        {
+          "start_ref": "44007035",
+          "start_ref_usfm": "ACT 7:35",
+          "end_ref": "44007037",
+          "end_ref_usfm": "ACT 7:37"
+        },
+        {
+          "start_ref": "06004022",
+          "start_ref_usfm": "JOS 4:22",
+          "end_ref": "06004024",
+          "end_ref_usfm": "JOS 4:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

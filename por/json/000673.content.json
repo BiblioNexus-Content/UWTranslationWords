@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237716,
+    "reference_id": 25581,
+    "title": "Palha",
+    "media_type": "Text",
+    "index_reference": "palha",
+    "language": "por",
+    "content": "<h1>palha</h1><h2>Definição:</h2><p>Palha (ou joio) é uma cobertura protetora seca de uma semente de grão. A palha não é boa para alimentação, então as pessoas a separam da semente e a jogam fora.</p><ul><li><p>Muitas vezes, a palha é separada da semente jogando as espigas de grão no ar. O vento sopra a palha para longe e a semente cai no chão. Esse processo é chamado de “joeirar”.</p></li><li><p>Na Bíblia, esse termo também é usado figurativamente para se referir a pessoas más e coisas más e sem valor.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26345\" data-resourceType=\"UWTranslationWords\">trigo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26349\" data-resourceType=\"UWTranslationWords\">joeirar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan2:35\">Daniel 2.35</a></p></li><li><p><a href=\"https://ref.ly/Job21:18\">Jó 21.18</a></p></li><li><p><a href=\"https://ref.ly/Luke3:17\">Lucas 3.17</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">Mateus 3.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2842, H4671, H5784, H8401, G08920</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18021018",
+          "start_ref_usfm": "JOB 21:18",
+          "end_ref": "18021018",
+          "end_ref_usfm": "JOB 21:18"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25801,
+          "content_id": 237934,
+          "label": "Grão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26345,
+          "content_id": 238471,
+          "label": "Trigo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 238475,
+          "label": "Joeirar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

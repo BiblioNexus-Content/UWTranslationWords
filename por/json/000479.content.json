@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238487,
+    "reference_id": 26361,
+    "title": "Javé dos Exércitos",
+    "media_type": "Text",
+    "index_reference": "javé dos exércitos",
+    "language": "por",
+    "content": "<h1>Javé dos exércitos, Deus dos exércitos, exército do céu, exército dos céus, Senhor dos exércitos</h1><h2>Definição:</h2><p>Os termos “Javé dos exércitos” e “Deus dos exércitos” são títulos que expressam a autoridade de Deus sobre os milhares de anjos que o obedecem.</p><ul><li><p>O termo “exército” ou “exércitos” é uma palavra que se refere a um grande número de algo, como um exército de pessoas ou o número massivo de estrelas. Também pode se referir a todos os muitos seres espirituais, incluindo espíritos malignos. O contexto deixa claro ao que está se referindo.</p></li><li><p>Frases semelhantes a “exército dos céus” referem-se a todas as estrelas, planetas e outros corpos celestes.</p></li><li><p>No Novo Testamento, a frase “Senhor dos exércitos” significa o mesmo que “Javé dos exércitos”, mas não pode ser traduzida dessa forma, pois a palavra hebraica “Javé” não é usada no Novo Testamento.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Maneiras de traduzir “Javé dos exércitos” poderiam ser, “Javé, que governa todos os anjos”, “Javé, o governante sobre exércitos de anjos” ou “Javé, o governante de toda a criação”.</p></li><li><p>A frase “dos exércitos” nos termos “Deus dos exércitos” e “Senhor dos exércitos” seria traduzida da mesma forma que na frase “Javé dos exércitos” acima.</p></li><li><p>Certas igrejas não aceitam o termo literal “Javé” e preferem usar a palavra em maiúsculas, “SENHOR”, seguindo a tradição de muitas versões da Bíblia. Para essas igrejas, uma tradução do termo “SENHOR dos exércitos” seria usada no Antigo Testamento para “Javé dos exércitos”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">anjo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">autoridade</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">Deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">senhor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">Senhor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25975\" data-resourceType=\"UWTranslationWords\">Senhor Javé, </span><span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Zech13:2\">Zacarias 13.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0430, H3068, H6635, G29620, G45190</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "38013002",
+          "start_ref_usfm": "ZEC 13:2",
+          "end_ref": "38013002",
+          "end_ref_usfm": "ZEC 13:2"
+        },
+        {
+          "start_ref": "45009029",
+          "start_ref_usfm": "ROM 9:29",
+          "end_ref": "45009029",
+          "end_ref_usfm": "ROM 9:29"
+        },
+        {
+          "start_ref": "59005004",
+          "start_ref_usfm": "JAS 5:4",
+          "end_ref": "59005004",
+          "end_ref_usfm": "JAS 5:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 237597,
+          "label": "Anjo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25492,
+          "content_id": 191635,
+          "label": "Autoridade",
+          "language": "por"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 237921,
+          "label": "Deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 238104,
+          "label": "Senhor",
+          "language": "por"
+        },
+        {
+          "reference_id": 25975,
+          "content_id": 238106,
+          "label": "Senhor Javé",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

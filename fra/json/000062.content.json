@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466647,
+    "reference_id": 25468,
+    "title": "Aquilas",
+    "media_type": "Text",
+    "index_reference": "aquilas",
+    "language": "fra",
+    "content": "<h1>Aquilas</h1><h2>Définition :</h2><p>Aquilas était un Chrétien Juif de la province de Pontus, une région située le long de la côte Sud de la Mer Noire.</p><ul><li><p>Aquilas et Priscille vécurent à Rome en Italie pour un temps, mais après l&apos;Empéreur romain Caudius força tous les juifs à quitter Rome.</p></li><li><p>A la suite de cela Aquilas et Priscille voyagèrent à Corinthe, où ils rencontrèrent l&apos;apôtre Paul* Ils étaient ensemble avec Paul des faiseurs de tentes, et l&apos;aidaient aussi dans son oeuvre de missionnaire.</p></li><li><p>Aquilas et Priscille, tous deux enseignèrent aux croyants la vérité concernant Jésus; l&apos;un de ces croyants était un docteur doué du nom d&apos;Apollos.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/apollos.md), (../names/corinth.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018026",
+          "start_ref_usfm": "ACT 18:26",
+          "end_ref": "44018026",
+          "end_ref_usfm": "ACT 18:26"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016003",
+          "end_ref_usfm": "ROM 16:3"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25465,
+          "content_id": 32920,
+          "label": "Apollos",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25612,
+          "content_id": 466779,
+          "label": "Corinthe ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 237966,
+    "reference_id": 25833,
+    "title": "Hesbom",
+    "media_type": "Text",
+    "index_reference": "hesbom",
+    "language": "por",
+    "content": "<h1>Hesbom</h1><h2>Fatos:</h2><p>Nos tempos bíblicos, Hesbom era uma cidade importante de Moabe. Foi a cidade capital do rei Seom antes que os israelitas a conquistassem e começassem a viver nela.</p><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26235\" data-resourceType=\"UWTranslationWords\">Seom</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados de Palavras:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26026,
+          "content_id": 238156,
+          "label": "Moabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 26235,
+          "content_id": 238364,
+          "label": "Seom",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

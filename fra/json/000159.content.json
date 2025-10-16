@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467193,
+    "reference_id": 26057,
+    "title": "Chêne",
+    "media_type": "Text",
+    "index_reference": "chêne",
+    "language": "fra",
+    "content": "<h1>chêne,</h1><h2>Définition :</h2><p>Un chêne est un grand arbre à ombre avec un gros tronc et de longues branches.</p><ul><li><p>Les chênes ont un bois dur et solide qui a été utilisé pour construire des navires et faire des charrues agricoles, des jougs de bœufs et des bâtons de marche pour les personnes âgées.</p></li><li><p>La graine d&apos;un arbre de chêne est appelé un gland.</p></li><li><p>Le tronc de certains arbres de chêne pourrait atteindre une ceinture de 6 mètres.</p></li><li><p>Les chênes étaient le symbole de longue vie et avaient d&apos;autres significations spirituelles* Dans la Bible, ils étaient souvent associés à des lieux saints.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>De nombreuses traductions devront dire «chêne» plutôt que simplement «le chêne».</p></li><li><p>Si les arbres de chêne ne sont pas connus dans le domaine des récepteurs, ce qui pourrait être traduit par «un chêne, qui est un grand arbre à ombre comme ***», puis donner le nom d&apos;un arbre local qui a des caractéristiques similaires.</p></li><li><p>Voir: [[rc://fr/ta/man/translate/translate-unknown]]</p></li></ul><p>(See: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../kt/holy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012006",
+          "end_ref_usfm": "GEN 12:6"
+        },
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014013",
+          "end_ref_usfm": "GEN 14:13"
+        },
+        {
+          "start_ref": "01018001",
+          "start_ref_usfm": "GEN 18:1",
+          "end_ref": "01018001",
+          "end_ref_usfm": "GEN 18:1"
+        },
+        {
+          "start_ref": "01035008",
+          "start_ref_usfm": "GEN 35:8",
+          "end_ref": "01035008",
+          "end_ref_usfm": "GEN 35:8"
+        },
+        {
+          "start_ref": "01035004",
+          "start_ref_usfm": "GEN 35:4",
+          "end_ref": "01035005",
+          "end_ref_usfm": "GEN 35:5"
+        },
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006012",
+          "end_ref_usfm": "JDG 6:12"
+        },
+        {
+          "start_ref": "09010003",
+          "start_ref_usfm": "1SA 10:3",
+          "end_ref": "09010004",
+          "end_ref_usfm": "1SA 10:4"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014014",
+          "end_ref_usfm": "GEN 14:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

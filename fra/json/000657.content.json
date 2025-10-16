@@ -1,0 +1,221 @@
+[
+  {
+    "content_id": 467377,
+    "reference_id": 26262,
+    "title": "Pierre",
+    "media_type": "Text",
+    "index_reference": "pierre",
+    "language": "fra",
+    "content": "<h1>pierre, lapidation</h1><h2>Définition :</h2><p>Une pierre est un fragment rocheux quelconque de forme variable. « Lapider » quelqu&apos;un, c&apos;est lancer des cailloux et des pierres plus grosses sur une personne avec l&apos;intention de la tuer. Une « lapidation » est un événement au cours duquel quelqu&apos;un a été lapidé.</p><ul><li><p>Dans les temps anciens, la lapidation était une méthode d&apos;exécution pour les crimes qu&apos;une personne avait commis.</p></li><li><p>Dieu a commandé aux dirigeants israélites de lapider les gens pour certains péchés, tels que l&apos;adultère.</p></li><li><p>Dans le Nouveau Testament, Jésus a pardonné à une femme surprise en adultère et a empêché les gens de la lapider.</p></li><li><p>Étienne, la première personne dans la Bible à être tué pour avoir témoigné au sujet de Jésus, a été lapidé.</p></li><li><p>Dans la ville de Lystre, l&apos;apôtre Paul a été lapidé, mais il n&apos;est pas mort de ses blessures.</p></li></ul><p>(Voir aussi : (../kt/adultery.md), (../other/commit.md), (../other/criminal.md), (../other/death.md), (../names/lystra.md), (../kt/testimony.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02008026",
+          "start_ref_usfm": "EXO 8:26",
+          "end_ref": "02008026",
+          "end_ref_usfm": "EXO 8:26"
+        },
+        {
+          "start_ref": "02017004",
+          "start_ref_usfm": "EXO 17:4",
+          "end_ref": "02017004",
+          "end_ref_usfm": "EXO 17:4"
+        },
+        {
+          "start_ref": "02019013",
+          "start_ref_usfm": "EXO 19:13",
+          "end_ref": "02019013",
+          "end_ref_usfm": "EXO 19:13"
+        },
+        {
+          "start_ref": "02021028",
+          "start_ref_usfm": "EXO 21:28",
+          "end_ref": "02021028",
+          "end_ref_usfm": "EXO 21:28"
+        },
+        {
+          "start_ref": "20026008",
+          "start_ref_usfm": "PRO 26:8",
+          "end_ref": "20026008",
+          "end_ref_usfm": "PRO 26:8"
+        },
+        {
+          "start_ref": "20026027",
+          "start_ref_usfm": "PRO 26:27",
+          "end_ref": "20026027",
+          "end_ref_usfm": "PRO 26:27"
+        },
+        {
+          "start_ref": "20027003",
+          "start_ref_usfm": "PRO 27:3",
+          "end_ref": "20027003",
+          "end_ref_usfm": "PRO 27:3"
+        },
+        {
+          "start_ref": "40021035",
+          "start_ref_usfm": "MAT 21:35",
+          "end_ref": "40021035",
+          "end_ref_usfm": "MAT 21:35"
+        },
+        {
+          "start_ref": "40023037",
+          "start_ref_usfm": "MAT 23:37",
+          "end_ref": "40023037",
+          "end_ref_usfm": "MAT 23:37"
+        },
+        {
+          "start_ref": "42013034",
+          "start_ref_usfm": "LUK 13:34",
+          "end_ref": "42013034",
+          "end_ref_usfm": "LUK 13:34"
+        },
+        {
+          "start_ref": "42020006",
+          "start_ref_usfm": "LUK 20:6",
+          "end_ref": "42020006",
+          "end_ref_usfm": "LUK 20:6"
+        },
+        {
+          "start_ref": "43008059",
+          "start_ref_usfm": "JHN 8:59",
+          "end_ref": "43008059",
+          "end_ref_usfm": "JHN 8:59"
+        },
+        {
+          "start_ref": "43010031",
+          "start_ref_usfm": "JHN 10:31",
+          "end_ref": "43010031",
+          "end_ref_usfm": "JHN 10:31"
+        },
+        {
+          "start_ref": "43010032",
+          "start_ref_usfm": "JHN 10:32",
+          "end_ref": "43010032",
+          "end_ref_usfm": "JHN 10:32"
+        },
+        {
+          "start_ref": "43010033",
+          "start_ref_usfm": "JHN 10:33",
+          "end_ref": "43010033",
+          "end_ref_usfm": "JHN 10:33"
+        },
+        {
+          "start_ref": "43011008",
+          "start_ref_usfm": "JHN 11:8",
+          "end_ref": "43011008",
+          "end_ref_usfm": "JHN 11:8"
+        },
+        {
+          "start_ref": "44005026",
+          "start_ref_usfm": "ACT 5:26",
+          "end_ref": "44005026",
+          "end_ref_usfm": "ACT 5:26"
+        },
+        {
+          "start_ref": "44007058",
+          "start_ref_usfm": "ACT 7:58",
+          "end_ref": "44007058",
+          "end_ref_usfm": "ACT 7:58"
+        },
+        {
+          "start_ref": "44007059",
+          "start_ref_usfm": "ACT 7:59",
+          "end_ref": "44007059",
+          "end_ref_usfm": "ACT 7:59"
+        },
+        {
+          "start_ref": "44014005",
+          "start_ref_usfm": "ACT 14:5",
+          "end_ref": "44014005",
+          "end_ref_usfm": "ACT 14:5"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
+        },
+        {
+          "start_ref": "47011025",
+          "start_ref_usfm": "2CO 11:25",
+          "end_ref": "47011025",
+          "end_ref_usfm": "2CO 11:25"
+        },
+        {
+          "start_ref": "58011037",
+          "start_ref_usfm": "HEB 11:37",
+          "end_ref": "58011037",
+          "end_ref_usfm": "HEB 11:37"
+        },
+        {
+          "start_ref": "58012020",
+          "start_ref_usfm": "HEB 12:20",
+          "end_ref": "58012020",
+          "end_ref_usfm": "HEB 12:20"
+        },
+        {
+          "start_ref": "40023037",
+          "start_ref_usfm": "MAT 23:37",
+          "end_ref": "40023039",
+          "end_ref_usfm": "MAT 23:39"
+        },
+        {
+          "start_ref": "44007059",
+          "start_ref_usfm": "ACT 7:59",
+          "end_ref": "44007060",
+          "end_ref_usfm": "ACT 7:60"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014020",
+          "end_ref_usfm": "ACT 14:20"
+        },
+        {
+          "start_ref": "44007057",
+          "start_ref_usfm": "ACT 7:57",
+          "end_ref": "44007058",
+          "end_ref_usfm": "ACT 7:58"
+        },
+        {
+          "start_ref": "43008004",
+          "start_ref_usfm": "JHN 8:4",
+          "end_ref": "43008006",
+          "end_ref_usfm": "JHN 8:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25433,
+          "content_id": 466615,
+          "label": "L’adultère",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25600,
+          "content_id": 466768,
+          "label": "Commettre ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141352,
+          "content_id": 357984,
+          "label": "Jean 8.59 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25984,
+          "content_id": 467124,
+          "label": "Lystre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 467407,
+          "label": "Témoignage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

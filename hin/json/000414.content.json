@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179658,
+    "reference_id": 25579,
+    "title": "नाम लिखाई",
+    "media_type": "Text",
+    "index_reference": "नाम लिखाई",
+    "language": "hin",
+    "content": "<h1>नाम लिखाई</h1><h2>परिभाषा:</h2><p>“नाम लिखाई (जनगणना)” किसी देश या साम्राज्य में नागरिकों की औपचारिक गणना करना।</p><ul><li><p>पुराने नियम के अभिलेखों में उन समयों का उल्लेख किया गया है जब परमेश्वर ने इस्राएल के पुरूषों की गिनती करने का आदेश दिया था जैसे जब इस्राएलियों ने मिस्र से पलायन किया था और दूसरी बार जब वे कनान में प्रवेश करने पर थे।</p></li><li><p>जनगणना का उद्देश्य प्रायः यह होता था कि कर भुगतान करने के लिए मनुष्यों की संख्या ज्ञात हो।</p></li><li><p>उदाहरणार्थ, निर्गमन की पुस्तक में एक बार पुरुषों की गिनती की गई थी कि प्रत्येक पुरुष मन्दिर के रखरखाव के लिए आधा शेकेल कर दे।</p></li><li><p>जब यीशु शिशु ही था तब रोमी प्रशासन ने जनगणना करवाई थी कि अपने संपूर्ण साम्राज्य की जनसंख्या ज्ञात करके कर अनिवार्य किया जाए।</p></li></ul><h2>अनुवाद के सुझाव</h2><ul><li><p>इस उक्ति का संभावित अनुवाद हो सकता है, “नाम गिनना” या “नामों की सूचि” या “पंजीकरण”।</p></li><li><p>“नाम लिखाई करवाना” इस उक्ति का अनुवाद हो सकता है, “जनता के नाम पंजीकृत करना” या “मनुष्यों का पंजीकरण करना” या “मनुष्यों के नाम लिखकर रखना”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26044\" data-resourceType=\"UWTranslationWords\">जाति</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">रोम</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts5:35-Acts5:37\">प्रे.का. 05:35–37</a></p></li><li><p><a href=\"https://ref.ly/Exod30:11-Exod30:14\">निर्गमन 30:11–14</a></p></li><li><p><a href=\"https://ref.ly/Exod38:24-Exod38:26\">निर्गमन 38:24–26</a></p></li><li><p><a href=\"https://ref.ly/Luke2:1-Luke2:3\">लूका 02:1–3</a></p></li><li><p><a href=\"https://ref.ly/Num4:1-Num4:4\">गिनती 04:1–4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3789, H5674, H5921, H6485, H7218, G582, G583</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02038026",
+          "start_ref_usfm": "EXO 38:26",
+          "end_ref": "02038026",
+          "end_ref_usfm": "EXO 38:26"
+        },
+        {
+          "start_ref": "42002003",
+          "start_ref_usfm": "LUK 2:3",
+          "end_ref": "42002003",
+          "end_ref_usfm": "LUK 2:3"
+        },
+        {
+          "start_ref": "44005037",
+          "start_ref_usfm": "ACT 5:37",
+          "end_ref": "44005037",
+          "end_ref_usfm": "ACT 5:37"
+        },
+        {
+          "start_ref": "04004001",
+          "start_ref_usfm": "NUM 4:1",
+          "end_ref": "04004004",
+          "end_ref_usfm": "NUM 4:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26044,
+          "content_id": 180108,
+          "label": "जाति",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 180239,
+          "label": "रोम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

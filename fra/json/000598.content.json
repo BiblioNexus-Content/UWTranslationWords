@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467186,
+    "reference_id": 26049,
+    "title": "Néhémie",
+    "media_type": "Text",
+    "index_reference": "néhémie",
+    "language": "fra",
+    "content": "<h1>Néhémie</h1><h2>Définition :</h2><p>Néhémie était un jeune Israélite dans l&apos;empire babylonien quand le peuple d&apos;Israël et de Juda ont été pris en captivité par les Babyloniens.</p><ul><li><p>Alors qu&apos;il était l&apos;échanson du roi perse, Artaxerxès, Néhémie demanda au roi la permission de revenir à Jérusalem.</p></li><li><p>Néhémie a conduit les Israélites dans la reconstruction des murs de Jérusalem qui avaient été détruits par les Babyloniens.</p></li><li><p>Pendant douze ans, il était le gouverneur de Jérusalem avant de retourner au palais du roi.</p></li><li><p>Le livre de l&apos;Ancien Testament de Néhémie raconte l&apos;histoire du travail de Néhémie dans la reconstruction des murs et son administration du peuple à Jérusalem.</p></li><li><p>Néhémie était le nom attribué à d&apos;autres hommes dans l&apos;Ancien Testament* Ces différents hommes avaient généralement le nom de leur père ajouté à leur nom, comme dans &quot;Néhémie, fils de Hakaliah*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/artaxerxes.md), (../names/babylon.md), (../names/jerusalem.md), (../kt/son.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "16001001",
+          "start_ref_usfm": "NEH 1:1",
+          "end_ref": "16001001",
+          "end_ref_usfm": "NEH 1:1"
+        },
+        {
+          "start_ref": "16001002",
+          "start_ref_usfm": "NEH 1:2",
+          "end_ref": "16001002",
+          "end_ref_usfm": "NEH 1:2"
+        },
+        {
+          "start_ref": "16003016",
+          "start_ref_usfm": "NEH 3:16",
+          "end_ref": "16003016",
+          "end_ref_usfm": "NEH 3:16"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "16008009",
+          "start_ref_usfm": "NEH 8:9",
+          "end_ref": "16008009",
+          "end_ref_usfm": "NEH 8:9"
+        },
+        {
+          "start_ref": "16010001",
+          "start_ref_usfm": "NEH 10:1",
+          "end_ref": "16010001",
+          "end_ref_usfm": "NEH 10:1"
+        },
+        {
+          "start_ref": "16010003",
+          "start_ref_usfm": "NEH 10:3",
+          "end_ref": "16010003",
+          "end_ref_usfm": "NEH 10:3"
+        },
+        {
+          "start_ref": "16012026",
+          "start_ref_usfm": "NEH 12:26",
+          "end_ref": "16012026",
+          "end_ref_usfm": "NEH 12:26"
+        },
+        {
+          "start_ref": "16012046",
+          "start_ref_usfm": "NEH 12:46",
+          "end_ref": "16012046",
+          "end_ref_usfm": "NEH 12:46"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25478,
+          "content_id": 466657,
+          "label": "Artaxèrxès",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

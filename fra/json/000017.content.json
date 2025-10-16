@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 466604,
+    "reference_id": 25422,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "fra",
+    "content": "<h1>Abner</h1><h2>Définition :</h2><p>Abner était le cousin du roi Saül dans l&apos;Ancien Testament.</p><ul><li><p>Abner était le Commandant en chef de l&apos;armée de Saül, il présenta le jeune David à Saül après qu&apos;il eut tué Goliath le géant.</p></li><li><p>Après la mort du Roi Saül, Abner nomma Isch-Boscheth fils de Saül comme roi d&apos;Israël, pendant que David était nommé roi de Juda.</p></li><li><p>Plus tard, Abner fut tué dans un complot par Joab, chef de l&apos;armée de David*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003022",
+          "end_ref_usfm": "2SA 3:22"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "13026026",
+          "start_ref_usfm": "1CH 26:26",
+          "end_ref": "13026028",
+          "end_ref_usfm": "1CH 26:28"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017056",
+          "end_ref_usfm": "1SA 17:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

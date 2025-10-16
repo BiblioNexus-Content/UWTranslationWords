@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 179920,
+    "reference_id": 25851,
+    "title": "घुड़सवार",
+    "media_type": "Text",
+    "index_reference": "घुड़सवार",
+    "language": "hin",
+    "content": "<h1>घुड़सवार</h1><h2>परिभाषा:</h2><p>बाइबल के युग में “घुड़सवारों” का अर्थ था युद्ध में घोड़े की सवारी करनेवाला।</p><ul><li><p>रथों पर सवारी करनेवाले योद्धाओं को भी “घुड़सवार” कहते थे। जबकि घुड़सवार वास्तव में घोड़े की सवारी करनेवाला होता है।</p></li><li><p>इस्राएलियों का मानना था कि युद्ध में घोड़े काम में लेना यहोवा की अपेक्षा अपनी शक्ति पर अधिक भरोसा रखना था, अतः वे अधिक शक्ति पर अधिक भरोसा रखना था, अतः वे अधिक घुड़सवारों को नहीं रखते थे।</p></li><li><p>इसका अनुवाद “घोड़े के सवार” या “घोड़े पर सवार मनुष्य” हो सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25583\" data-resourceType=\"UWTranslationWords\">रथ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25850\" data-resourceType=\"UWTranslationWords\">घोड़ा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 1:5</a></p></li><li><p><a href=\"https://ref.ly/Dan11:40-Dan11:41\">दानिय्येल 11:40–41</a></p></li><li><p><a href=\"https://ref.ly/Exod14:23-Exod14:25\">निर्गमन 14:23–25</a></p></li><li><p><a href=\"https://ref.ly/Gen50:7-Gen50:9\">उत्पत्ति 50:7–9</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H6571, H7395, G2460</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050009",
+          "start_ref_usfm": "GEN 50:9",
+          "end_ref": "01050009",
+          "end_ref_usfm": "GEN 50:9"
+        },
+        {
+          "start_ref": "02014009",
+          "start_ref_usfm": "EXO 14:9",
+          "end_ref": "02014009",
+          "end_ref_usfm": "EXO 14:9"
+        },
+        {
+          "start_ref": "02014017",
+          "start_ref_usfm": "EXO 14:17",
+          "end_ref": "02014017",
+          "end_ref_usfm": "EXO 14:17"
+        },
+        {
+          "start_ref": "02014018",
+          "start_ref_usfm": "EXO 14:18",
+          "end_ref": "02014018",
+          "end_ref_usfm": "EXO 14:18"
+        },
+        {
+          "start_ref": "02014023",
+          "start_ref_usfm": "EXO 14:23",
+          "end_ref": "02014023",
+          "end_ref_usfm": "EXO 14:23"
+        },
+        {
+          "start_ref": "02014026",
+          "start_ref_usfm": "EXO 14:26",
+          "end_ref": "02014026",
+          "end_ref_usfm": "EXO 14:26"
+        },
+        {
+          "start_ref": "02014028",
+          "start_ref_usfm": "EXO 14:28",
+          "end_ref": "02014028",
+          "end_ref_usfm": "EXO 14:28"
+        },
+        {
+          "start_ref": "02015019",
+          "start_ref_usfm": "EXO 15:19",
+          "end_ref": "02015019",
+          "end_ref_usfm": "EXO 15:19"
+        },
+        {
+          "start_ref": "11001005",
+          "start_ref_usfm": "1KI 1:5",
+          "end_ref": "11001005",
+          "end_ref_usfm": "1KI 1:5"
+        },
+        {
+          "start_ref": "15008022",
+          "start_ref_usfm": "EZR 8:22",
+          "end_ref": "15008022",
+          "end_ref_usfm": "EZR 8:22"
+        },
+        {
+          "start_ref": "16002009",
+          "start_ref_usfm": "NEH 2:9",
+          "end_ref": "16002009",
+          "end_ref_usfm": "NEH 2:9"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "44023032",
+          "start_ref_usfm": "ACT 23:32",
+          "end_ref": "44023032",
+          "end_ref_usfm": "ACT 23:32"
+        },
+        {
+          "start_ref": "01050007",
+          "start_ref_usfm": "GEN 50:7",
+          "end_ref": "01050009",
+          "end_ref_usfm": "GEN 50:9"
+        },
+        {
+          "start_ref": "27011040",
+          "start_ref_usfm": "DAN 11:40",
+          "end_ref": "27011041",
+          "end_ref_usfm": "DAN 11:41"
+        },
+        {
+          "start_ref": "02014023",
+          "start_ref_usfm": "EXO 14:23",
+          "end_ref": "02014025",
+          "end_ref_usfm": "EXO 14:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25583,
+          "content_id": 179662,
+          "label": "रथ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25850,
+          "content_id": 179919,
+          "label": "घोड़ा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

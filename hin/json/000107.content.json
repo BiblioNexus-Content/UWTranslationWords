@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 179760,
+    "reference_id": 25686,
+    "title": "उकाब",
+    "media_type": "Text",
+    "index_reference": "उकाब",
+    "language": "hin",
+    "content": "<h1>उकाब</h1><h2>परिभाषा:</h2><p>उकाब एक विशाल पक्षी होता है जो मछली, चूहा, सांप और मुर्गी के बच्चे जैसे छोटे जीव जंतु खाता है।</p><ul><li><p>बाइबल में सेना की गति और बल की तुलना शिकार पर उकाब के झपटने की फुर्ती से की गई है।</p></li><li><p>यशायाह कहता है कि परमेश्वर का भय माननेवाले उकाब के समान हवा से बातें करेंगे। यह एक रूपक है जिसका अर्थ है परमेश्वर में विश्वास करने और उसकी आज्ञाओं को मानने से स्वतंत्रता और शक्ति प्राप्त होती है।</p></li><li><p>दानिय्येल की पुस्तक में राजा नबूकदनेस्सर के बालों की लम्बाई की तुलना उकाब के परों से की गई है, उकाब का पर 50 सेन्टी मीटर से भी अधिक लम्बा होता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25758\" data-resourceType=\"UWTranslationWords\">स्वतंत्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">नबूकदनेस्सर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">सामर्थ्य</span>)</p><p>(यह भी देखें: अपरिचित शब्दों का अनुवाद कैसे करें)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 1:23</a></p></li><li><p><a href=\"https://ref.ly/Dan7:4\">दानिय्येल 7:4</a></p></li><li><p><a href=\"https://ref.ly/Jer4:13-Jer4:15\">यिर्मयाह 4:13–15</a></p></li><li><p><a href=\"https://ref.ly/Lev11:13-Lev11:16\">लैव्यव्यवस्था 11:13–16</a></p></li><li><p><a href=\"https://ref.ly/Rev4:7\">प्रका. 4:7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5403, H5404, H7360, G105</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001023",
+          "start_ref_usfm": "2SA 1:23",
+          "end_ref": "10001023",
+          "end_ref_usfm": "2SA 1:23"
+        },
+        {
+          "start_ref": "20023005",
+          "start_ref_usfm": "PRO 23:5",
+          "end_ref": "20023005",
+          "end_ref_usfm": "PRO 23:5"
+        },
+        {
+          "start_ref": "20030019",
+          "start_ref_usfm": "PRO 30:19",
+          "end_ref": "20030019",
+          "end_ref_usfm": "PRO 30:19"
+        },
+        {
+          "start_ref": "27007004",
+          "start_ref_usfm": "DAN 7:4",
+          "end_ref": "27007004",
+          "end_ref_usfm": "DAN 7:4"
+        },
+        {
+          "start_ref": "31001004",
+          "start_ref_usfm": "OBA 1:4",
+          "end_ref": "31001004",
+          "end_ref_usfm": "OBA 1:4"
+        },
+        {
+          "start_ref": "40024028",
+          "start_ref_usfm": "MAT 24:28",
+          "end_ref": "40024028",
+          "end_ref_usfm": "MAT 24:28"
+        },
+        {
+          "start_ref": "42017037",
+          "start_ref_usfm": "LUK 17:37",
+          "end_ref": "42017037",
+          "end_ref_usfm": "LUK 17:37"
+        },
+        {
+          "start_ref": "66004007",
+          "start_ref_usfm": "REV 4:7",
+          "end_ref": "66004007",
+          "end_ref_usfm": "REV 4:7"
+        },
+        {
+          "start_ref": "66008013",
+          "start_ref_usfm": "REV 8:13",
+          "end_ref": "66008013",
+          "end_ref_usfm": "REV 8:13"
+        },
+        {
+          "start_ref": "66012014",
+          "start_ref_usfm": "REV 12:14",
+          "end_ref": "66012014",
+          "end_ref_usfm": "REV 12:14"
+        },
+        {
+          "start_ref": "24004013",
+          "start_ref_usfm": "JER 4:13",
+          "end_ref": "24004015",
+          "end_ref_usfm": "JER 4:15"
+        },
+        {
+          "start_ref": "03011013",
+          "start_ref_usfm": "LEV 11:13",
+          "end_ref": "03011016",
+          "end_ref_usfm": "LEV 11:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25758,
+          "content_id": 179831,
+          "label": "स्वतंत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 180111,
+          "label": "नबूकदनेस्सर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

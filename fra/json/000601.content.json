@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 467189,
+    "reference_id": 26053,
+    "title": "Nil",
+    "media_type": "Text",
+    "index_reference": "nil",
+    "language": "fra",
+    "content": "<h1>Nil, fleuve d&apos;Egypte</h1><h2>Définition :</h2><p>Le Nil est un fleuve très long et large en Afrique du nord* Il est particulièrement bien connu comme le principal fleuve de l&apos;Egypte.</p><ul><li><p>Le Nil se jette dans la mer Méditerranée par le nord de l&apos;Egypte.</p></li><li><p>Les cultures poussent bien dans sa vallée fertile.</p></li><li><p>La plupart des Egyptiens vivent près de la rivière du Nil, car il est une source importante de cultures, d&apos;eau et de nourriture.</p></li><li><p>Lorsqu&apos;il était un bébé, Moïse a été placé dans un panier parmi les roseaux du Nil.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/egypt.md), (../names/goshen.md), (../names/moses.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041001",
+          "end_ref_usfm": "GEN 41:1"
+        },
+        {
+          "start_ref": "01041002",
+          "start_ref_usfm": "GEN 41:2",
+          "end_ref": "01041002",
+          "end_ref_usfm": "GEN 41:2"
+        },
+        {
+          "start_ref": "01041003",
+          "start_ref_usfm": "GEN 41:3",
+          "end_ref": "01041003",
+          "end_ref_usfm": "GEN 41:3"
+        },
+        {
+          "start_ref": "01041017",
+          "start_ref_usfm": "GEN 41:17",
+          "end_ref": "01041017",
+          "end_ref_usfm": "GEN 41:17"
+        },
+        {
+          "start_ref": "01041018",
+          "start_ref_usfm": "GEN 41:18",
+          "end_ref": "01041018",
+          "end_ref_usfm": "GEN 41:18"
+        },
+        {
+          "start_ref": "02001022",
+          "start_ref_usfm": "EXO 1:22",
+          "end_ref": "02001022",
+          "end_ref_usfm": "EXO 1:22"
+        },
+        {
+          "start_ref": "02002003",
+          "start_ref_usfm": "EXO 2:3",
+          "end_ref": "02002003",
+          "end_ref_usfm": "EXO 2:3"
+        },
+        {
+          "start_ref": "02002005",
+          "start_ref_usfm": "EXO 2:5",
+          "end_ref": "02002005",
+          "end_ref_usfm": "EXO 2:5"
+        },
+        {
+          "start_ref": "02004009",
+          "start_ref_usfm": "EXO 4:9",
+          "end_ref": "02004009",
+          "end_ref_usfm": "EXO 4:9"
+        },
+        {
+          "start_ref": "02007015",
+          "start_ref_usfm": "EXO 7:15",
+          "end_ref": "02007015",
+          "end_ref_usfm": "EXO 7:15"
+        },
+        {
+          "start_ref": "02007017",
+          "start_ref_usfm": "EXO 7:17",
+          "end_ref": "02007017",
+          "end_ref_usfm": "EXO 7:17"
+        },
+        {
+          "start_ref": "02007018",
+          "start_ref_usfm": "EXO 7:18",
+          "end_ref": "02007018",
+          "end_ref_usfm": "EXO 7:18"
+        },
+        {
+          "start_ref": "02007020",
+          "start_ref_usfm": "EXO 7:20",
+          "end_ref": "02007020",
+          "end_ref_usfm": "EXO 7:20"
+        },
+        {
+          "start_ref": "02007021",
+          "start_ref_usfm": "EXO 7:21",
+          "end_ref": "02007021",
+          "end_ref_usfm": "EXO 7:21"
+        },
+        {
+          "start_ref": "02007024",
+          "start_ref_usfm": "EXO 7:24",
+          "end_ref": "02007024",
+          "end_ref_usfm": "EXO 7:24"
+        },
+        {
+          "start_ref": "02007025",
+          "start_ref_usfm": "EXO 7:25",
+          "end_ref": "02007025",
+          "end_ref_usfm": "EXO 7:25"
+        },
+        {
+          "start_ref": "02008003",
+          "start_ref_usfm": "EXO 8:3",
+          "end_ref": "02008003",
+          "end_ref_usfm": "EXO 8:3"
+        },
+        {
+          "start_ref": "02008009",
+          "start_ref_usfm": "EXO 8:9",
+          "end_ref": "02008009",
+          "end_ref_usfm": "EXO 8:9"
+        },
+        {
+          "start_ref": "02008011",
+          "start_ref_usfm": "EXO 8:11",
+          "end_ref": "02008011",
+          "end_ref_usfm": "EXO 8:11"
+        },
+        {
+          "start_ref": "02017005",
+          "start_ref_usfm": "EXO 17:5",
+          "end_ref": "02017005",
+          "end_ref_usfm": "EXO 17:5"
+        },
+        {
+          "start_ref": "24046008",
+          "start_ref_usfm": "JER 46:8",
+          "end_ref": "24046008",
+          "end_ref_usfm": "JER 46:8"
+        },
+        {
+          "start_ref": "30008008",
+          "start_ref_usfm": "AMO 8:8",
+          "end_ref": "30008008",
+          "end_ref_usfm": "AMO 8:8"
+        },
+        {
+          "start_ref": "01041001",
+          "start_ref_usfm": "GEN 41:1",
+          "end_ref": "01041003",
+          "end_ref_usfm": "GEN 41:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25797,
+          "content_id": 466946,
+          "label": "Goshen",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

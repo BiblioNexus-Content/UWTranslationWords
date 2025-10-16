@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179509,
+    "reference_id": 25419,
+    "title": "एब्यातार",
+    "media_type": "Text",
+    "index_reference": "एब्यातार",
+    "language": "hin",
+    "content": "<h1>एब्यातार</h1><h2>परिभाषा:</h2><p>एब्यातारन दाऊद के राज्यकाल में इस्राएल का महायाजक था।</p><ul><li><p>शाऊल जब याजकों का संहार कर रहा था तब एब्यातार भाग कर जंगल में दाऊद की शरण में पहुंचा था।</p></li><li><p>एब्यातार और दूसरा महायाजक सादोक दाऊद के संपूर्ण राज्यकाल में उसके विश्वासयोग्य रहे थे।</p></li><li><p>दाऊद के मृत्यु के बाद एब्यातार ने सुलैमान के स्थान में अदोनिय्याह को राजा बनाने में सहायता की थी।</p></li><li><p>इस कारण राजा सुलैमान ने एब्यातार को याजकीय पद से हटा दिया था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26365\" data-resourceType=\"UWTranslationWords\">सादोक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">शाऊल (पुराना नियम)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25431\" data-resourceType=\"UWTranslationWords\">अदोनिय्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 27:32–34</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 1:7</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 2:22–23</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 17:15</a></p></li><li><p><a href=\"https://ref.ly/Mark2:25-Mark2:26\">मरकुस 2:25–26</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H0054, G00080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10017015",
+          "start_ref_usfm": "2SA 17:15",
+          "end_ref": "10017015",
+          "end_ref_usfm": "2SA 17:15"
+        },
+        {
+          "start_ref": "11001007",
+          "start_ref_usfm": "1KI 1:7",
+          "end_ref": "11001007",
+          "end_ref_usfm": "1KI 1:7"
+        },
+        {
+          "start_ref": "41002026",
+          "start_ref_usfm": "MRK 2:26",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "41002025",
+          "start_ref_usfm": "MRK 2:25",
+          "end_ref": "41002026",
+          "end_ref_usfm": "MRK 2:26"
+        },
+        {
+          "start_ref": "13027032",
+          "start_ref_usfm": "1CH 27:32",
+          "end_ref": "13027034",
+          "end_ref_usfm": "1CH 27:34"
+        },
+        {
+          "start_ref": "11002022",
+          "start_ref_usfm": "1KI 2:22",
+          "end_ref": "11002023",
+          "end_ref_usfm": "1KI 2:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25431,
+          "content_id": 179521,
+          "label": "अदोनिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 180258,
+          "label": "शाऊल (पुराना नियम)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26365,
+          "content_id": 180417,
+          "label": "सादोक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179516,
+    "reference_id": 25426,
+    "title": "अथाह कुण्ड",
+    "media_type": "Text",
+    "index_reference": "अथाह कुण्ड",
+    "language": "hin",
+    "content": "<h1>अथाह कुण्ड, अथाह गड्ढे</h1><h2>परिभाषा:</h2><p>“अथाह कुण्ड” एक विशाल अथाह गड्ढे का संदर्भ देता है।</p><ul><li><p>बाइबल में &quot;अथाह कुण्ड&quot; दण्ड का स्थान है।</p></li><li><p>उदाहरणार्थ, यीशु ने एक दुष्टात्माग्रस्त मनुष्य से दुष्टात्माओं को निकाला तो उन्होंने यीशु से विनती की कि उन्हें अथाह गड़हे (कुण्ड) में न डाले।</p></li></ul><p>“अथाह कुण्ड” का अनुवाद “अथाह गड्ढा” या “अगाध खाई” किया जा सकता है।</p><ul><li><p>इस शब्द का अनुवाद “अधोलोक” या “नरक” से भिन्न होना चाहिए।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25809\" data-resourceType=\"UWTranslationWords\">अधोलोक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25829\" data-resourceType=\"UWTranslationWords\">नरक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">दण्ड देना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke8:30\">लूका 8:30</a></p></li><li><p><a href=\"https://ref.ly/Rom10:7\">रोमियो 10:7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G00120 , G54210</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008031",
+          "start_ref_usfm": "LUK 8:31",
+          "end_ref": "42008031",
+          "end_ref_usfm": "LUK 8:31"
+        },
+        {
+          "start_ref": "45010007",
+          "start_ref_usfm": "ROM 10:7",
+          "end_ref": "45010007",
+          "end_ref_usfm": "ROM 10:7"
+        },
+        {
+          "start_ref": "66009001",
+          "start_ref_usfm": "REV 9:1",
+          "end_ref": "66009001",
+          "end_ref_usfm": "REV 9:1"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        },
+        {
+          "start_ref": "66009011",
+          "start_ref_usfm": "REV 9:11",
+          "end_ref": "66009011",
+          "end_ref_usfm": "REV 9:11"
+        },
+        {
+          "start_ref": "66011007",
+          "start_ref_usfm": "REV 11:7",
+          "end_ref": "66011007",
+          "end_ref_usfm": "REV 11:7"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66020001",
+          "start_ref_usfm": "REV 20:1",
+          "end_ref": "66020001",
+          "end_ref_usfm": "REV 20:1"
+        },
+        {
+          "start_ref": "66020003",
+          "start_ref_usfm": "REV 20:3",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "42008030",
+          "start_ref_usfm": "LUK 8:30",
+          "end_ref": "42008031",
+          "end_ref_usfm": "LUK 8:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25809,
+          "content_id": 179880,
+          "label": "अधोलोक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 179899,
+          "label": "नरक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 180200,
+          "label": "दण्ड देना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

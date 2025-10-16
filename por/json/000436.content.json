@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 237970,
+    "reference_id": 25837,
+    "title": "Hilquias",
+    "media_type": "Text",
+    "index_reference": "hilquias",
+    "language": "por",
+    "content": "<h1>Hilquias</h1><h2>Fatos:</h2><p>Hilquias foi o sumo sacerdote durante o reinado do Rei Josias.</p><ul><li><p>Quando o templo estava sendo reparado, Hilquias, o sumo sacerdote, encontrou o Livro da Lei e ordenou que fosse levado ao Rei Josias.</p></li><li><p>Depois que o Livro da Lei foi lido para ele, Josias ficou aflito e fez com que o povo de Judá adorasse Javé novamente e obedecesse às suas leis.</p></li><li><p>Outro homem chamado Hilquias era filho de Eliaquim e trabalhava no palácio durante o tempo do Rei Ezequias.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25696\" data-resourceType=\"UWTranslationWords\">Eliaquim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Ezequias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sumo sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">Josias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25957\" data-resourceType=\"UWTranslationWords\">lei</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">adoração</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs18:18\">2 Reis 18.18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2518</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018018",
+          "start_ref_usfm": "2KI 18:18",
+          "end_ref": "12018018",
+          "end_ref_usfm": "2KI 18:18"
+        },
+        {
+          "start_ref": "15007001",
+          "start_ref_usfm": "EZR 7:1",
+          "end_ref": "15007001",
+          "end_ref_usfm": "EZR 7:1"
+        },
+        {
+          "start_ref": "16008004",
+          "start_ref_usfm": "NEH 8:4",
+          "end_ref": "16008004",
+          "end_ref_usfm": "NEH 8:4"
+        },
+        {
+          "start_ref": "16011011",
+          "start_ref_usfm": "NEH 11:11",
+          "end_ref": "16011011",
+          "end_ref_usfm": "NEH 11:11"
+        },
+        {
+          "start_ref": "16012007",
+          "start_ref_usfm": "NEH 12:7",
+          "end_ref": "16012007",
+          "end_ref_usfm": "NEH 12:7"
+        },
+        {
+          "start_ref": "16012021",
+          "start_ref_usfm": "NEH 12:21",
+          "end_ref": "16012021",
+          "end_ref_usfm": "NEH 12:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25696,
+          "content_id": 237829,
+          "label": "Eliaquim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 237967,
+          "label": "Ezequias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 237969,
+          "label": "Sumo Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 238054,
+          "label": "Josias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 238089,
+          "label": "Lei",
+          "language": "por"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 238483,
+          "label": "Adorar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

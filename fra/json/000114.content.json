@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466698,
+    "reference_id": 25525,
+    "title": "Benaja",
+    "media_type": "Text",
+    "index_reference": "benaja",
+    "language": "fra",
+    "content": "<h1>Benaja</h1><h2>Définition :</h2><p>Benaja était le nom de plusieurs hommes dans l&apos;Ancien Testament.</p><ul><li><p>Benaja, fils de Jehojada, était l&apos;un des hommes forts de David* Il était un guerrier habile et a été chargé des gardes du corps de David.</p></li><li><p>Quand Salomon était fait roi, Benaja l&apos;a aidé à renverser ses ennemis* Il est finalement devenu commandant de l&apos;armée d&apos;Israël.</p></li><li><p>D&apos;autres hommes de l&apos;Ancien Testament nommés Benaja comprennent trois Lévites: un prêtre, un musicien, et un descendant d&apos;Asaph.</p></li></ul><p>(Voir aussi : (../names/asaph.md), (../names/jehoiada.md), (../names/levite.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "13004036",
+          "start_ref_usfm": "1CH 4:36",
+          "end_ref": "13004036",
+          "end_ref_usfm": "1CH 4:36"
+        },
+        {
+          "start_ref": "15010025",
+          "start_ref_usfm": "EZR 10:25",
+          "end_ref": "15010025",
+          "end_ref_usfm": "EZR 10:25"
+        },
+        {
+          "start_ref": "15010030",
+          "start_ref_usfm": "EZR 10:30",
+          "end_ref": "15010030",
+          "end_ref_usfm": "EZR 10:30"
+        },
+        {
+          "start_ref": "15010035",
+          "start_ref_usfm": "EZR 10:35",
+          "end_ref": "15010035",
+          "end_ref_usfm": "EZR 10:35"
+        },
+        {
+          "start_ref": "15010043",
+          "start_ref_usfm": "EZR 10:43",
+          "end_ref": "15010043",
+          "end_ref_usfm": "EZR 10:43"
+        },
+        {
+          "start_ref": "10023020",
+          "start_ref_usfm": "2SA 23:20",
+          "end_ref": "10023021",
+          "end_ref_usfm": "2SA 23:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25480,
+          "content_id": 466659,
+          "label": "Asaph",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25889,
+          "content_id": 467034,
+          "label": "Jehojada",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

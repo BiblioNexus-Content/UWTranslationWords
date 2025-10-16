@@ -1,0 +1,233 @@
+[
+  {
+    "content_id": 467325,
+    "reference_id": 26206,
+    "title": "Sceller",
+    "media_type": "Text",
+    "index_reference": "sceller",
+    "language": "fra",
+    "content": "<h1>sceller, pour sceller</h1><h2>Définition :</h2><p>sceller un objet signifie le maintenir fermé avec quelque chose qui rend impossible à l&apos;ouvrir sans briser le sceau.</p><ul><li><p>Souvent, un joint d&apos;étanchéité est marqué avec un signe pour montrer à qui il appartient.</p></li><li><p>la cire fondue a été utilisée pour sceller des lettres ou d&apos;autres documents qui doivent être protégés* Lorsque la cire refroidit et durcit, la lettre ne pouvait plus être ouverte sans briser le sceau de cire.</p></li><li><p>Une sorte de sceau a été mise sur la pierre devant la tombe de Jésus pour empêcher quiconque de déplacer la pierre.</p></li><li><p>Paul se réfère au Saint-Esprit comme un sceau qui montre que notre salut est sécurisé.</p></li></ul><p>(Voir aussi : (../kt/holyspirit.md), (../other/tomb.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038025",
+          "start_ref_usfm": "GEN 38:25",
+          "end_ref": "01038025",
+          "end_ref_usfm": "GEN 38:25"
+        },
+        {
+          "start_ref": "02002003",
+          "start_ref_usfm": "EXO 2:3",
+          "end_ref": "02002003",
+          "end_ref_usfm": "EXO 2:3"
+        },
+        {
+          "start_ref": "23029011",
+          "start_ref_usfm": "ISA 29:11",
+          "end_ref": "23029011",
+          "end_ref_usfm": "ISA 29:11"
+        },
+        {
+          "start_ref": "40027066",
+          "start_ref_usfm": "MAT 27:66",
+          "end_ref": "40027066",
+          "end_ref_usfm": "MAT 27:66"
+        },
+        {
+          "start_ref": "43003033",
+          "start_ref_usfm": "JHN 3:33",
+          "end_ref": "43003033",
+          "end_ref_usfm": "JHN 3:33"
+        },
+        {
+          "start_ref": "43006027",
+          "start_ref_usfm": "JHN 6:27",
+          "end_ref": "43006027",
+          "end_ref_usfm": "JHN 6:27"
+        },
+        {
+          "start_ref": "45004011",
+          "start_ref_usfm": "ROM 4:11",
+          "end_ref": "45004011",
+          "end_ref_usfm": "ROM 4:11"
+        },
+        {
+          "start_ref": "45015028",
+          "start_ref_usfm": "ROM 15:28",
+          "end_ref": "45015028",
+          "end_ref_usfm": "ROM 15:28"
+        },
+        {
+          "start_ref": "46009002",
+          "start_ref_usfm": "1CO 9:2",
+          "end_ref": "46009002",
+          "end_ref_usfm": "1CO 9:2"
+        },
+        {
+          "start_ref": "47001022",
+          "start_ref_usfm": "2CO 1:22",
+          "end_ref": "47001022",
+          "end_ref_usfm": "2CO 1:22"
+        },
+        {
+          "start_ref": "49001013",
+          "start_ref_usfm": "EPH 1:13",
+          "end_ref": "49001013",
+          "end_ref_usfm": "EPH 1:13"
+        },
+        {
+          "start_ref": "49004030",
+          "start_ref_usfm": "EPH 4:30",
+          "end_ref": "49004030",
+          "end_ref_usfm": "EPH 4:30"
+        },
+        {
+          "start_ref": "55002019",
+          "start_ref_usfm": "2TI 2:19",
+          "end_ref": "55002019",
+          "end_ref_usfm": "2TI 2:19"
+        },
+        {
+          "start_ref": "66005002",
+          "start_ref_usfm": "REV 5:2",
+          "end_ref": "66005002",
+          "end_ref_usfm": "REV 5:2"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66005009",
+          "start_ref_usfm": "REV 5:9",
+          "end_ref": "66005009",
+          "end_ref_usfm": "REV 5:9"
+        },
+        {
+          "start_ref": "66006001",
+          "start_ref_usfm": "REV 6:1",
+          "end_ref": "66006001",
+          "end_ref_usfm": "REV 6:1"
+        },
+        {
+          "start_ref": "66006003",
+          "start_ref_usfm": "REV 6:3",
+          "end_ref": "66006003",
+          "end_ref_usfm": "REV 6:3"
+        },
+        {
+          "start_ref": "66006005",
+          "start_ref_usfm": "REV 6:5",
+          "end_ref": "66006005",
+          "end_ref_usfm": "REV 6:5"
+        },
+        {
+          "start_ref": "66006007",
+          "start_ref_usfm": "REV 6:7",
+          "end_ref": "66006007",
+          "end_ref_usfm": "REV 6:7"
+        },
+        {
+          "start_ref": "66006009",
+          "start_ref_usfm": "REV 6:9",
+          "end_ref": "66006009",
+          "end_ref_usfm": "REV 6:9"
+        },
+        {
+          "start_ref": "66006012",
+          "start_ref_usfm": "REV 6:12",
+          "end_ref": "66006012",
+          "end_ref_usfm": "REV 6:12"
+        },
+        {
+          "start_ref": "66007002",
+          "start_ref_usfm": "REV 7:2",
+          "end_ref": "66007002",
+          "end_ref_usfm": "REV 7:2"
+        },
+        {
+          "start_ref": "66007003",
+          "start_ref_usfm": "REV 7:3",
+          "end_ref": "66007003",
+          "end_ref_usfm": "REV 7:3"
+        },
+        {
+          "start_ref": "66007004",
+          "start_ref_usfm": "REV 7:4",
+          "end_ref": "66007004",
+          "end_ref_usfm": "REV 7:4"
+        },
+        {
+          "start_ref": "66007005",
+          "start_ref_usfm": "REV 7:5",
+          "end_ref": "66007005",
+          "end_ref_usfm": "REV 7:5"
+        },
+        {
+          "start_ref": "66007008",
+          "start_ref_usfm": "REV 7:8",
+          "end_ref": "66007008",
+          "end_ref_usfm": "REV 7:8"
+        },
+        {
+          "start_ref": "66008001",
+          "start_ref_usfm": "REV 8:1",
+          "end_ref": "66008001",
+          "end_ref_usfm": "REV 8:1"
+        },
+        {
+          "start_ref": "66009004",
+          "start_ref_usfm": "REV 9:4",
+          "end_ref": "66009004",
+          "end_ref_usfm": "REV 9:4"
+        },
+        {
+          "start_ref": "66010004",
+          "start_ref_usfm": "REV 10:4",
+          "end_ref": "66010004",
+          "end_ref_usfm": "REV 10:4"
+        },
+        {
+          "start_ref": "66020003",
+          "start_ref_usfm": "REV 20:3",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "66022010",
+          "start_ref_usfm": "REV 22:10",
+          "end_ref": "66022010",
+          "end_ref_usfm": "REV 22:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25844,
+          "content_id": 466991,
+          "label": "Saint-Esprit",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26307,
+          "content_id": 467420,
+          "label": "Tombe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140528,
+          "content_id": 357160,
+          "label": "Jean 3.33 (#3)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

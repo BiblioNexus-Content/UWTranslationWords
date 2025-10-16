@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237706,
+    "reference_id": 25571,
+    "title": "Caná",
+    "media_type": "Text",
+    "index_reference": "caná",
+    "language": "por",
+    "content": "<h1>Caná</h1><h2>Definição:</h2><p>Caná era uma vila ou cidade na província da Galileia, localizada cerca de nove milhas ao norte de Nazaré.</p><ul><li><p>Caná era a cidade natal de Natanael, um dos Doze.</p></li><li><p>Jesus participou de uma festa de casamento em Caná e realizou seu primeiro milagre lá quando transformou água em vinho.</p></li><li><p>Algum tempo depois, Jesus voltou a Caná e encontrou um oficial de Cafarnaum que pediu a cura para seu filho.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25573\" data-resourceType=\"UWTranslationWords\">Cafarnaum</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25766\" data-resourceType=\"UWTranslationWords\">Galileia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">os doze</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/John2:1-John2:2\">João 2.1–2</a></p></li><li><p><a href=\"https://ref.ly/John4:46-John4:47\">João 4.46–47</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G25800</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002001",
+          "end_ref_usfm": "JHN 2:1"
+        },
+        {
+          "start_ref": "43002011",
+          "start_ref_usfm": "JHN 2:11",
+          "end_ref": "43002011",
+          "end_ref_usfm": "JHN 2:11"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "43002001",
+          "start_ref_usfm": "JHN 2:1",
+          "end_ref": "43002002",
+          "end_ref_usfm": "JHN 2:2"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004047",
+          "end_ref_usfm": "JHN 4:47"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25573,
+          "content_id": 237708,
+          "label": "Cafarnaum",
+          "language": "por"
+        },
+        {
+          "reference_id": 25766,
+          "content_id": 237899,
+          "label": "Galileia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 238425,
+          "label": "Os Doze",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

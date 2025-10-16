@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467170,
+    "reference_id": 26033,
+    "title": "Mont Hermon",
+    "media_type": "Text",
+    "index_reference": "mont hermon",
+    "language": "fra",
+    "content": "<h1>Mont Hermon</h1><h2>Définition :</h2><p>Mont Hermon est le nom de la plus haute montagne en Israël.</p><ul><li><p>Il est situé au nord de la mer de Galilée, à la frontière la plus septentrionale entre Israël et la Syrie.</p></li><li><p>D&apos;autres noms donnés au Mont Hermon par d&apos;autres groupes de personnes étaient &quot;Mont Sirion&quot; et &quot;Mont Senir*&quot;</p></li><li><p>Mont Hermon a trois pics majeurs.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/israel.md), (../names/seaofgalilee.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19042006",
+          "start_ref_usfm": "PSA 42:6",
+          "end_ref": "19042006",
+          "end_ref_usfm": "PSA 42:6"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "06011016",
+          "start_ref_usfm": "JOS 11:16",
+          "end_ref": "06011017",
+          "end_ref_usfm": "JOS 11:17"
+        },
+        {
+          "start_ref": "26027004",
+          "start_ref_usfm": "EZK 27:4",
+          "end_ref": "26027005",
+          "end_ref_usfm": "EZK 27:5"
+        },
+        {
+          "start_ref": "13005023",
+          "start_ref_usfm": "1CH 5:23",
+          "end_ref": "13005024",
+          "end_ref_usfm": "1CH 5:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 467326,
+          "label": "Mer de Galilée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

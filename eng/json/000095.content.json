@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26368,
+    "reference_id": 25510,
+    "title": "Bashan",
+    "media_type": "Text",
+    "index_reference": "bashan",
+    "language": "eng",
+    "content": "<h1>Bashan</h1><h2>Facts:</h2><p>Bashan was a region of land east of the Sea of Galilee. It covered an area that is now part of Syria and the Golan Heights.</p><ul><li><p>An Old Testament city of refuge called “Golan” was located in the region of Bashan.</p></li><li><p>Bashan was a very fertile region known for its oak trees and pasturing animals.</p></li><li><p>Genesis 14 records that Bashan was the site of a war between several kings and their nations.</p></li><li><p>During Israel’s wanderings in the desert after their escape from Egypt, they took possession of part of the region of Bashan.</p></li><li><p>Years later, King Solomon obtained supplies from that region.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26057\" data-resourceType=\"UWTranslationWords\">oak</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Sea of Galilee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:13\">1 Kings 4:13</a></p></li><li><p><a href=\"https://ref.ly/Amos4:1\">Amos 4:1</a></p></li><li><p><a href=\"https://ref.ly/Jer22:20-Jer22:21\">Jeremiah 22:20–21</a></p></li><li><p><a href=\"https://ref.ly/Josh9:10\">Joshua 9:10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06009010",
+          "start_ref_usfm": "JOS 9:10",
+          "end_ref": "06009010",
+          "end_ref_usfm": "JOS 9:10"
+        },
+        {
+          "start_ref": "11004013",
+          "start_ref_usfm": "1KI 4:13",
+          "end_ref": "11004013",
+          "end_ref_usfm": "1KI 4:13"
+        },
+        {
+          "start_ref": "16009022",
+          "start_ref_usfm": "NEH 9:22",
+          "end_ref": "16009022",
+          "end_ref_usfm": "NEH 9:22"
+        },
+        {
+          "start_ref": "30004001",
+          "start_ref_usfm": "AMO 4:1",
+          "end_ref": "30004001",
+          "end_ref_usfm": "AMO 4:1"
+        },
+        {
+          "start_ref": "24022020",
+          "start_ref_usfm": "JER 22:20",
+          "end_ref": "24022021",
+          "end_ref_usfm": "JER 22:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26057,
+          "content_id": 26915,
+          "label": "Oak",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 27065,
+          "label": "Sea of Galilee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

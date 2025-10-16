@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 26863,
+    "reference_id": 26005,
+    "title": "Meditate",
+    "media_type": "Text",
+    "index_reference": "meditate",
+    "language": "eng",
+    "content": "<h1>meditate, meditation</h1><h2>Definition:</h2><p>“The term meditate” means to spend time thinking about something carefully and deeply.</p><ul><li><p>This term is often used in the Bible to refer to thinking about God and his teachings.</p></li><li><p>Psalm 1 says that the person who meditates on the law of the Lord “day and night” will be greatly blessed.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>To “meditate on” could be translated as to “think about carefully and deeply” or to “consider thoughtfully” or to “think about often.”</p></li><li><p>The noun form is “meditation” and could be translated as “deep thoughts.” A phrase like “meditation of my heart” could be translated as “what I think deeply about” or “what I often think about.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen24:63\">Genesis 24:63</a></p></li><li><p><a href=\"https://ref.ly/Josh1:8-Josh1:9\">Joshua 1:8–9</a></p></li><li><p><a href=\"https://ref.ly/Ps1:1-Ps1:2\">Psalm 1:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ps119:15\">Psalms 119:15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1897, H1900, H1902, H7742, H7878, H7879, H7881</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024063",
+          "start_ref_usfm": "GEN 24:63",
+          "end_ref": "01024063",
+          "end_ref_usfm": "GEN 24:63"
+        },
+        {
+          "start_ref": "19119015",
+          "start_ref_usfm": "PSA 119:15",
+          "end_ref": "19119015",
+          "end_ref_usfm": "PSA 119:15"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001002",
+          "end_ref_usfm": "PSA 1:2"
+        },
+        {
+          "start_ref": "06001008",
+          "start_ref_usfm": "JOS 1:8",
+          "end_ref": "06001009",
+          "end_ref_usfm": "JOS 1:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

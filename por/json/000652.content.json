@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237940,
+    "reference_id": 25807,
+    "title": "Oferta pela culpa",
+    "media_type": "Text",
+    "index_reference": "oferta pela culpa",
+    "language": "por",
+    "content": "<h1>oferta pela culpa</h1><h2>Definição:</h2><p>Uma oferta pela culpa era uma oferta ou sacrifício que Deus exigia que um israelita fizesse se ele tivesse acidentalmente feito algo errado, como desrespeitar Deus ou danificar a propriedade de outra pessoa.</p><ul><li><p>Essa oferta envolvia o sacrifício de um animal e o pagamento de uma multa, com dinheiro de prata ou ouro.</p></li><li><p>Além disso, a pessoa culpada era responsável por pagar qualquer dano que tivesse sido causado.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">holocausto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">oferta de cereais</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26242\" data-resourceType=\"UWTranslationWords\">oferta pelo pecado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam6:3\">1 Samuel 6.3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs12:16\">2 Reis 12.16</a></p></li><li><p><a href=\"https://ref.ly/Lev5:5-Lev5:6\">Levítico 5.5–6</a></p></li><li><p><a href=\"https://ref.ly/Num6:12\">Números 6.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0817</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04006012",
+          "start_ref_usfm": "NUM 6:12",
+          "end_ref": "04006012",
+          "end_ref_usfm": "NUM 6:12"
+        },
+        {
+          "start_ref": "09006003",
+          "start_ref_usfm": "1SA 6:3",
+          "end_ref": "09006003",
+          "end_ref_usfm": "1SA 6:3"
+        },
+        {
+          "start_ref": "12012016",
+          "start_ref_usfm": "2KI 12:16",
+          "end_ref": "12012016",
+          "end_ref_usfm": "2KI 12:16"
+        },
+        {
+          "start_ref": "20014009",
+          "start_ref_usfm": "PRO 14:9",
+          "end_ref": "20014009",
+          "end_ref_usfm": "PRO 14:9"
+        },
+        {
+          "start_ref": "03005005",
+          "start_ref_usfm": "LEV 5:5",
+          "end_ref": "03005006",
+          "end_ref_usfm": "LEV 5:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 237695,
+          "label": "Holocausto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 237935,
+          "label": "Oferta de cereal",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 238371,
+          "label": "Oferta pelo Pecado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

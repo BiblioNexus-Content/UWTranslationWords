@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467067,
+    "reference_id": 25922,
+    "title": "Jotham",
+    "media_type": "Text",
+    "index_reference": "jotham",
+    "language": "fra",
+    "content": "<h1>Jotham</h1><h2>Définition :</h2><p>&quot;Dans l&apos;Ancien Testament, il y a trois hommes avec le nom Jotham.</p><ul><li><p>Un homme nommé Jotham était le plus jeune fils de Gédéon* Jotham a aidé à vaincre son frère aîné Abimélec, qui avait traîtreusement tué tout le reste de leurs frères.</p></li><li><p>Un autre homme nommé Jotham a été roi de Juda pendant seize ans après la mort de son père Ozias (également connu sous le nom Azaria).</p></li><li><p>Comme son père, le roi Jotham obéissait à Dieu et était un bon roi.</p></li><li><p>Cependant, comme son père, le roi Jotham n&apos;a pas supprimé les lieux de culte aux idoles et cela a fait que son peuple s&apos;est détourné plus tard de Dieu* Un autre résultat de l&apos;adoration des idoles était que le fils de Jotham, Achaz, était un mauvais roi.</p></li><li><p>Jotham est l&apos;un des ancêtres énumérés dans la généalogie de Jésus-Christ dans le livre de Matthieu.</p></li></ul><p>(Voir aussi : (../names/abimelech.md), (../names/ahaz.md), (../names/gideon.md), (../names/uzziah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015005",
+          "start_ref_usfm": "2KI 15:5",
+          "end_ref": "12015005",
+          "end_ref_usfm": "2KI 15:5"
+        },
+        {
+          "start_ref": "14026021",
+          "start_ref_usfm": "2CH 26:21",
+          "end_ref": "14026021",
+          "end_ref_usfm": "2CH 26:21"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "07009005",
+          "start_ref_usfm": "JDG 9:5",
+          "end_ref": "07009006",
+          "end_ref_usfm": "JDG 9:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25421,
+          "content_id": 466603,
+          "label": "Abimelech",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25440,
+          "content_id": 466621,
+          "label": "Achaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 466929,
+          "label": "Gédéon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 467441,
+          "label": "Ozias",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

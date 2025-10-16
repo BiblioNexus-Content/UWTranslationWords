@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 179824,
+    "reference_id": 25751,
+    "title": "पहले से जान लिया",
+    "media_type": "Text",
+    "index_reference": "पहले से जान लिया",
+    "language": "hin",
+    "content": "<h1>पहले से जान लिया, पूर्व ज्ञान</h1><h2>परिभाषा:</h2><p>“पहले से जान लिया”, या “पूर्व ज्ञान” “पहले से जानना” क्रिया से व्युत्पन्न शब्द है जिसका अर्थ है घटना होने से पूर्व उसका बोध हो जाना।</p><ul><li><p>परमेश्वर समय से बंधा नहीं है। वह भूत काल, वर्तमान काल और भविष्य की सब बातें जानता है।</p></li><li><p>यह शब्द अधिकतर इस संदर्भ में काम में लिया जाता है कि परमेश्वर पहले से ही जानता है कि यीशु को अपना उद्धारकर्ता ग्रहण करने के द्वारा किसका उद्धार होगा।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>“पहले ही से जानता था” का अनुवाद हो सकता है, “पूर्वज्ञान था” या “समय से पहले जानता था” या “पहले से जानता था” या “पहले से ही पता था।”</p></li><li><p>“पूर्व ज्ञान” का अनुवाद “पहले से जानना” या “समय से पूर्व जानना” या “जानता ही था” या “समय से पूर्व जानना”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25946\" data-resourceType=\"UWTranslationWords\">जानना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26119\" data-resourceType=\"UWTranslationWords\">पहले से ठहराए गए</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Rom8:29\">रोमियो 08:29</a></p></li><li><p><a href=\"https://ref.ly/Rom11:2\">रोमियो 11:2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G42670, G42680</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002023",
+          "start_ref_usfm": "ACT 2:23",
+          "end_ref": "44002023",
+          "end_ref_usfm": "ACT 2:23"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "45011002",
+          "start_ref_usfm": "ROM 11:2",
+          "end_ref": "45011002",
+          "end_ref_usfm": "ROM 11:2"
+        },
+        {
+          "start_ref": "60001002",
+          "start_ref_usfm": "1PE 1:2",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        },
+        {
+          "start_ref": "60001020",
+          "start_ref_usfm": "1PE 1:20",
+          "end_ref": "60001020",
+          "end_ref_usfm": "1PE 1:20"
+        },
+        {
+          "start_ref": "61003017",
+          "start_ref_usfm": "2PE 3:17",
+          "end_ref": "61003017",
+          "end_ref_usfm": "2PE 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25946,
+          "content_id": 180012,
+          "label": "जानना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26119,
+          "content_id": 180180,
+          "label": "पहले से ठहराना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

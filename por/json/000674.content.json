@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238202,
+    "reference_id": 26072,
+    "title": "Palmeira",
+    "media_type": "Text",
+    "index_reference": "palmeira",
+    "language": "por",
+    "content": "<h1>palmeira</h1><h2>Definição:</h2><p>O termo “palmeira” refere-se a um tipo de árvore alta com longos e flexíveis ramos folhosos que se estendem do topo em um padrão semelhante a um leque.</p><ul><li><p>A palmeira na Bíblia geralmente se refere a um tipo de palmeira que produz um fruto chamado “tâmara”. As folhas têm um padrão semelhante a uma pena.</p></li><li><p>As palmeiras geralmente crescem em lugares que têm um clima quente e úmido. Suas folhas permanecem verdes o ano todo.</p></li><li><p>Quando Jesus estava entrando em Jerusalém montado em um jumento, as pessoas colocaram ramos de palmeira à sua frente, no chão.</p></li><li><p>Os ramos de palmeira significavam paz e a celebração de uma vitória.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25678\" data-resourceType=\"UWTranslationWords\">burro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26080\" data-resourceType=\"UWTranslationWords\">paz</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs6:29-1Kgs6:30\">1 Reis 6.29–30</a></p></li><li><p><a href=\"https://ref.ly/Ezek40:14-Ezek40:16\">Ezequiel 40.14–16</a></p></li><li><p><a href=\"https://ref.ly/John12:12-John12:13\">João 12.12–13</a></p></li><li><p><a href=\"https://ref.ly/Num33:9\">Números 33.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3712, H8558, H8560, H8561, G54040</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015027",
+          "start_ref_usfm": "EXO 15:27",
+          "end_ref": "02015027",
+          "end_ref_usfm": "EXO 15:27"
+        },
+        {
+          "start_ref": "04033009",
+          "start_ref_usfm": "NUM 33:9",
+          "end_ref": "04033009",
+          "end_ref_usfm": "NUM 33:9"
+        },
+        {
+          "start_ref": "43012013",
+          "start_ref_usfm": "JHN 12:13",
+          "end_ref": "43012013",
+          "end_ref_usfm": "JHN 12:13"
+        },
+        {
+          "start_ref": "66007009",
+          "start_ref_usfm": "REV 7:9",
+          "end_ref": "66007009",
+          "end_ref_usfm": "REV 7:9"
+        },
+        {
+          "start_ref": "11006029",
+          "start_ref_usfm": "1KI 6:29",
+          "end_ref": "11006030",
+          "end_ref_usfm": "1KI 6:30"
+        },
+        {
+          "start_ref": "26040014",
+          "start_ref_usfm": "EZK 40:14",
+          "end_ref": "26040016",
+          "end_ref_usfm": "EZK 40:16"
+        },
+        {
+          "start_ref": "43012012",
+          "start_ref_usfm": "JHN 12:12",
+          "end_ref": "43012013",
+          "end_ref_usfm": "JHN 12:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25678,
+          "content_id": 237811,
+          "label": "Burro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 238210,
+          "label": "Paz",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

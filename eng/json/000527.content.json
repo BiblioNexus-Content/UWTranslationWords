@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26799,
+    "reference_id": 25941,
+    "title": "Kingdom of Israel",
+    "media_type": "Text",
+    "index_reference": "kingdom of israel",
+    "language": "eng",
+    "content": "<h1>kingdom of Israel</h1><h2>Facts:</h2><p>What had been the northern part of the nation of Israel became the kingdom of Israel when the twelve tribes of Israel were divided into two kingdoms after Solomon died.</p><ul><li><p>The kingdom of Israel in the north had ten tribes, and the kingdom of Judah in the south had two tribes.</p></li><li><p>The capital city of the kingdom of Israel was Samaria. It was about 50 km from Jerusalem, the capital city of the kingdom of Judah.</p></li><li><p>All the kings of the kingdom of Israel were evil. They influenced the people to to serve idols and false gods.</p></li><li><p>God sent the Assyrians to attack the kingdom of Israel. Many Israelites were captured and taken away to live in Assyria.</p></li><li><p>The Assyrians brought foreigners to live among the remaining people of the kingdom of Israel. These foreigners intermarried with the Israelites, and their descendants became the Samaritan people.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assyria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25939\" data-resourceType=\"UWTranslationWords\">kingdom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr35:18\">2 Chronicles 35:18</a></p></li><li><p><a href=\"https://ref.ly/Jer5:11\">Jeremiah 5:11</a></p></li><li><p><a href=\"https://ref.ly/Jer9:26\">Jeremiah 9:26</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>18:8</strong> The other ten tribes of the nation of Israel that rebelled against Rehoboam appointed a man named Jeroboam to be their king. They set up their kingdom in the northern part of the land and were called the <strong>kingdom of Israel</strong>.</p></li><li><p><strong>18:10</strong> The <strong>kingdoms of Judah and Israel</strong> became enemies and often fought against each other.</p></li><li><p><strong>18:11</strong> In the new <strong>kingdom of Israel</strong>, all the kings were evil.</p></li><li><p><strong>20:1</strong> The <strong>kingdoms of Israel</strong> and Judah both sinned against God.</p></li><li><p><strong>20:2</strong> The <strong>kingdom of Israel</strong> was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the <strong>kingdom of Israel</strong>, took away everything of value, and burned much of the country.</p></li><li><p><strong>20:4</strong> Then the Assyrians brought foreigners to live in the land where the <strong>kingdom of Israel</strong> had been. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. The descendants of the Israelites who married foreigners were called Samaritans.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3478, H4410, H4467, H4468</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035018",
+          "start_ref_usfm": "2CH 35:18",
+          "end_ref": "14035018",
+          "end_ref_usfm": "2CH 35:18"
+        },
+        {
+          "start_ref": "24005011",
+          "start_ref_usfm": "JER 5:11",
+          "end_ref": "24005011",
+          "end_ref_usfm": "JER 5:11"
+        },
+        {
+          "start_ref": "24009026",
+          "start_ref_usfm": "JER 9:26",
+          "end_ref": "24009026",
+          "end_ref_usfm": "JER 9:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 26346,
+          "label": "Assyria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25939,
+          "content_id": 26797,
+          "label": "Kingdom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 27050,
+          "label": "Samaria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

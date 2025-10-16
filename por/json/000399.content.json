@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237912,
+    "reference_id": 25779,
+    "title": "Gibeão",
+    "media_type": "Text",
+    "index_reference": "gibeão",
+    "language": "por",
+    "content": "<h1>Gibeão, gibeonitas</h1><h2>Fatos:</h2><p>Gibeão era uma cidade localizada a cerca de 13 quilômetros a noroeste de Jerusalém. As pessoas que viviam em Gibeão eram os gibeonitas.</p><ul><li><p>Quando os gibeonitas ouviram sobre como os israelitas destruíram as cidades de Jericó e Ai, ficaram com medo.</p></li><li><p>Então os gibeonitas foram até os líderes de Israel em Gilgal e fingiram ser pessoas de um país distante.</p></li><li><p>Os líderes israelitas foram enganados e fizeram um acordo com os gibeonitas de que os protegeriam e não os destruiriam.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25782\" data-resourceType=\"UWTranslationWords\">Gilgal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr8:29\">1 Crônicas 8.29</a></p></li><li><p><a href=\"https://ref.ly/1Kgs3:4-1Kgs3:5\">1 Reis 3.4–5</a></p></li><li><p><a href=\"https://ref.ly/2Sam2:12-2Sam2:13\">2 Samuel 2.12–13</a></p></li><li><p><a href=\"https://ref.ly/Josh9:3-Josh9:5\">Josué 9.3–5</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>15:6</strong> Mas um dos grupos de pessoas cananeias, chamados <strong>gibeonitas</strong>, mentiu para Josué e disse que eram de um lugar distante de Canaã.</p></li><li><p><strong>15:7</strong> Algum tempo depois, os reis de outro grupo de pessoas em Canaã, os amorreus, ouviram que os <strong>gibeonitas</strong> haviam feito um tratado de paz com os israelitas, então combinaram seus exércitos em um grande exército e atacaram <strong>Gibeão</strong>.</p></li><li><p><strong>15:8</strong> Então Josué reuniu o exército israelita e marcharam a noite toda para alcançar os <strong>gibeonitas</strong>.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1391, H1393</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13008029",
+          "start_ref_usfm": "1CH 8:29",
+          "end_ref": "13008029",
+          "end_ref_usfm": "1CH 8:29"
+        },
+        {
+          "start_ref": "16003007",
+          "start_ref_usfm": "NEH 3:7",
+          "end_ref": "16003007",
+          "end_ref_usfm": "NEH 3:7"
+        },
+        {
+          "start_ref": "11003004",
+          "start_ref_usfm": "1KI 3:4",
+          "end_ref": "11003005",
+          "end_ref_usfm": "1KI 3:5"
+        },
+        {
+          "start_ref": "10002012",
+          "start_ref_usfm": "2SA 2:12",
+          "end_ref": "10002013",
+          "end_ref_usfm": "2SA 2:13"
+        },
+        {
+          "start_ref": "06009003",
+          "start_ref_usfm": "JOS 9:3",
+          "end_ref": "06009005",
+          "end_ref_usfm": "JOS 9:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25782,
+          "content_id": 237915,
+          "label": "Gilgal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 238029,
+          "label": "Jericó",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

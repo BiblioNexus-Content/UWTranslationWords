@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238220,
+    "reference_id": 26090,
+    "title": "Perseverança",
+    "media_type": "Text",
+    "index_reference": "perseverança",
+    "language": "por",
+    "content": "<h1>perseverar, perseverança</h1><h2>Definição:</h2><p>Os termos “perseverar” e “perseverança” referem-se a continuar fazendo algo mesmo que possa ser muito difícil ou demorar muito tempo.</p><ul><li><p>Perseverar também pode ter o significado de continuar agindo de maneira cristã mesmo passando por provas ou circunstâncias difíceis.</p></li><li><p>Se uma pessoa tem “perseverança”, isso significa que ela é capaz de continuar fazendo o que deve fazer, mesmo quando é doloroso ou difícil.</p></li><li><p>Continuar acreditando no que Deus ensina requer perseverança, especialmente quando confrontado com ensinamentos falsos.</p></li><li><p>Tenha cuidado para não usar uma palavra como “teimoso”, que geralmente tem um significado negativo.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26077\" data-resourceType=\"UWTranslationWords\">paciente</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26315\" data-resourceType=\"UWTranslationWords\">julgamento</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Col1:11\">Colossenses 1.11</a></p></li><li><p><a href=\"https://ref.ly/Eph6:18\">Efésios 6.18</a></p></li><li><p><a href=\"https://ref.ly/Jas5:9-Jas5:11\">Tiago 5.9–11</a></p></li><li><p><a href=\"https://ref.ly/Luke8:14-Luke8:15\">Lucas 8.14–15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G31150, G43430, G52810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42008015",
+          "start_ref_usfm": "LUK 8:15",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        },
+        {
+          "start_ref": "45005003",
+          "start_ref_usfm": "ROM 5:3",
+          "end_ref": "45005003",
+          "end_ref_usfm": "ROM 5:3"
+        },
+        {
+          "start_ref": "45005004",
+          "start_ref_usfm": "ROM 5:4",
+          "end_ref": "45005004",
+          "end_ref_usfm": "ROM 5:4"
+        },
+        {
+          "start_ref": "49006018",
+          "start_ref_usfm": "EPH 6:18",
+          "end_ref": "49006018",
+          "end_ref_usfm": "EPH 6:18"
+        },
+        {
+          "start_ref": "51001011",
+          "start_ref_usfm": "COL 1:11",
+          "end_ref": "51001011",
+          "end_ref_usfm": "COL 1:11"
+        },
+        {
+          "start_ref": "56002002",
+          "start_ref_usfm": "TIT 2:2",
+          "end_ref": "56002002",
+          "end_ref_usfm": "TIT 2:2"
+        },
+        {
+          "start_ref": "66002003",
+          "start_ref_usfm": "REV 2:3",
+          "end_ref": "66002003",
+          "end_ref_usfm": "REV 2:3"
+        },
+        {
+          "start_ref": "66002019",
+          "start_ref_usfm": "REV 2:19",
+          "end_ref": "66002019",
+          "end_ref_usfm": "REV 2:19"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "42008014",
+          "start_ref_usfm": "LUK 8:14",
+          "end_ref": "42008015",
+          "end_ref_usfm": "LUK 8:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26077,
+          "content_id": 238207,
+          "label": "Paciente",
+          "language": "por"
+        },
+        {
+          "reference_id": 26315,
+          "content_id": 238443,
+          "label": "Julgamento",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]
