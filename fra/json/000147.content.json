@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 466815,
+    "reference_id": 25652,
+    "title": "Cerf",
+    "media_type": "Text",
+    "index_reference": "cerf",
+    "language": "fra",
+    "content": "<h1>cerf ,biche ,daim ,chevreuil faon</h1><h2>Définition :</h2><p>Un cerf est un animal à quatre pattes, grand et grâcieux, qui vit dans les forêts ou sur les montagnes.</p><ul><li><p>L&apos;animal mâle a de grandes cornes ou des bois sur sa tête.</p></li><li><p>Le terme&quot;biche&quot;se refère à la femele du cerf.</p></li><li><p>Le terme&quot;daim&quot; se refère au mâle du cerf.</p></li><li><p>Un chevreuil&quot;est le mâle d&apos;une espèce de variété appelée&quot;chevreuil&quot;</p></li><li><p>Les cerfs ont des pieds puissants et minces qui leur permettent de sauter haut et courir vite.</p></li><li><p>Leurs pieds ont des sabots déchirés qui leur permettent de grimper facilement sur la plupart des terrains.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049021",
+          "start_ref_usfm": "GEN 49:21",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        },
+        {
+          "start_ref": "10022034",
+          "start_ref_usfm": "2SA 22:34",
+          "end_ref": "10022034",
+          "end_ref_usfm": "2SA 22:34"
+        },
+        {
+          "start_ref": "18039002",
+          "start_ref_usfm": "JOB 39:2",
+          "end_ref": "18039002",
+          "end_ref_usfm": "JOB 39:2"
+        },
+        {
+          "start_ref": "19018033",
+          "start_ref_usfm": "PSA 18:33",
+          "end_ref": "19018033",
+          "end_ref_usfm": "PSA 18:33"
+        },
+        {
+          "start_ref": "20005019",
+          "start_ref_usfm": "PRO 5:19",
+          "end_ref": "20005019",
+          "end_ref_usfm": "PRO 5:19"
+        },
+        {
+          "start_ref": "22002007",
+          "start_ref_usfm": "SNG 2:7",
+          "end_ref": "22002007",
+          "end_ref_usfm": "SNG 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

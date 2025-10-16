@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467236,
+    "reference_id": 26113,
+    "title": "Pont",
+    "media_type": "Text",
+    "index_reference": "pont",
+    "language": "fra",
+    "content": "<h1>Pont</h1><h2>Définition :</h2><p>Le Pont était une province romaine à l&apos;époque de l&apos;Empire romain et de l&apos;Église primitive* Il était situé le long de la côte de la mer Noire, dans la partie nord de ce qui est maintenant le pays de la Turquie.</p><ul><li><p>Les gens de la province de Pont étaient à Jérusalem quand le Saint-Esprit est venu sur les apôtres le jour de la Pentecôte.</p></li><li><p>Le chrétien grec Apollos était de Pont.</p></li><li><p>Pierre a écrit à tous les chrétiens qui ont été dispersés dans différentes régions telles que le Pont.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/aquila.md), (../kt/pentecost.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25468,
+          "content_id": 466647,
+          "label": "Aquilas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 467209,
+          "label": "Pentecôte",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

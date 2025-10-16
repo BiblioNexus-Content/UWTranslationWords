@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467310,
+    "reference_id": 26191,
+    "title": "Mer Salée",
+    "media_type": "Text",
+    "index_reference": "mer salée",
+    "language": "fra",
+    "content": "<h1>Mer Salée, Mer Morte</h1><h2>Définition :</h2><p>Mer Salée (également appelé la Mer Morte) est située entre le sud d&apos;Israël à l&apos;ouest et Moab à l&apos;est.</p><ul><li><p>La rivière du Jourdain se trouve dans la mer Salée.</p></li><li><p>Parce qu&apos;elle est plus petite que la plupart des mers, ellepourrait être appelée «lac de sel*&quot;</p></li><li><p>Cette mer a une forte concentration de minéraux (ou «sels») ce qui signifie que rien ne peut vivre dans ses eaux d&apos;où le nom de &quot;Mer Morte&quot; .</p></li><li><p>Dans l&apos;Ancien Testament, cette mer est aussi appelée la &quot;Mer d&apos;Araba» et la «mer du Néguev» en raison de ses emplacements à proximité des régions de plaine et du Néguev.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ammon.md), (../names/arabah.md), , (../names/jordanriver.md), (../names/moab.md), (../names/negev.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014003",
+          "start_ref_usfm": "GEN 14:3",
+          "end_ref": "01014003",
+          "end_ref_usfm": "GEN 14:3"
+        },
+        {
+          "start_ref": "05003017",
+          "start_ref_usfm": "DEU 3:17",
+          "end_ref": "05003017",
+          "end_ref_usfm": "DEU 3:17"
+        },
+        {
+          "start_ref": "06003014",
+          "start_ref_usfm": "JOS 3:14",
+          "end_ref": "06003016",
+          "end_ref_usfm": "JOS 3:16"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "04034001",
+          "start_ref_usfm": "NUM 34:1",
+          "end_ref": "04034003",
+          "end_ref_usfm": "NUM 34:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 466633,
+          "label": "Ammon ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25469,
+          "content_id": 466648,
+          "label": "Araba",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 467163,
+          "label": "Moab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26048,
+          "content_id": 467185,
+          "label": "Néguev",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

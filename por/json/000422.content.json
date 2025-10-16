@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237947,
+    "reference_id": 25814,
+    "title": "Hamate",
+    "media_type": "Text",
+    "index_reference": "hamate",
+    "language": "por",
+    "content": "<h1>Hamate, hamateus, Lebo Hamate</h1><h2>Fatos:</h2><p>Hamate era uma cidade importante no norte da Síria, ao norte da terra de Canaã. Os hamateus eram descendentes do filho de Noé, Canaã.</p><ul><li><p>O nome “Lebo Hamate” provavelmente se refere a um desfiladeiro perto da cidade de Hamate.</p></li><li><p>Algumas versões traduzem “Lebo Hamate” como “entrada para Hamate”.</p></li><li><p>O Rei Davi derrotou inimigos do rei Tói de Hamate, fazendo com que eles passassem a ter uma boa relação.</p></li><li><p>Hamate era uma das cidades armazéns de Salomão onde provisões eram guardadas.</p></li><li><p>A terra de Hamate foi o local no qual o rei Zedequias foi morto pelo rei Nabucodonosor, e onde o rei Jeoacaz foi capturado por um faraó egípcio.</p></li><li><p>O termo “hamateu” também poderia ser traduzido como “pessoa de Hamate”.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nabucodonosor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">Zedequias</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr18:3-1Chr18:4\">1 Crônicas 18.3–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam8:9\">2 Samuel 8.9</a></p></li><li><p><a href=\"https://ref.ly/Amos6:1-Amos6:2\">Amós 6.1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezek47:15-Ezek47:17\">Ezequiel 47.15–17</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2574, H2577</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "10008009",
+          "start_ref_usfm": "2SA 8:9",
+          "end_ref": "10008009",
+          "end_ref_usfm": "2SA 8:9"
+        },
+        {
+          "start_ref": "13018003",
+          "start_ref_usfm": "1CH 18:3",
+          "end_ref": "13018004",
+          "end_ref_usfm": "1CH 18:4"
+        },
+        {
+          "start_ref": "30006001",
+          "start_ref_usfm": "AMO 6:1",
+          "end_ref": "30006002",
+          "end_ref_usfm": "AMO 6:2"
+        },
+        {
+          "start_ref": "26047015",
+          "start_ref_usfm": "EZK 47:15",
+          "end_ref": "26047017",
+          "end_ref_usfm": "EZK 47:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 238177,
+          "label": "Nabucodonosor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 238497,
+          "label": "Zedequias",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

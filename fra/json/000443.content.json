@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467051,
+    "reference_id": 25906,
+    "title": "Joab",
+    "media_type": "Text",
+    "index_reference": "joab",
+    "language": "fra",
+    "content": "<h1>Joab</h1><h2>Définition :</h2><p>&quot;Joab était un chef militaire important pour le roi David durant tout son règne.</p><ul><li><p>Avant que David devienne roi, Joab avait déjà été l&apos;un de ses fidèles.</p></li><li><p>Plus tard, pendant le règne de David comme roi sur Israël, Joab est devenu le commandant de l&apos;armée.</p></li><li><p>La mère de Joab était Tseruja, qui était l&apos;une des sœurs du roi David* Joab était aussi le neveu de David.</p></li><li><p>Lorsque le fils de David, Absalom l&apos;a trahi en essayant de reprendre sa royauté, Joab a tué Absalom afin de protéger le roi.</p></li><li><p>Joab était un combattant très agressif et a tué beaucoup de gens qui étaient des ennemis d&apos;Israël.</p></li></ul><p>(Voir aussi : (../names/absalom.md), (../names/david.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10002018",
+          "start_ref_usfm": "2SA 2:18",
+          "end_ref": "10002018",
+          "end_ref_usfm": "2SA 2:18"
+        },
+        {
+          "start_ref": "11001007",
+          "start_ref_usfm": "1KI 1:7",
+          "end_ref": "11001007",
+          "end_ref_usfm": "1KI 1:7"
+        },
+        {
+          "start_ref": "15002006",
+          "start_ref_usfm": "EZR 2:6",
+          "end_ref": "15002006",
+          "end_ref_usfm": "EZR 2:6"
+        },
+        {
+          "start_ref": "15008009",
+          "start_ref_usfm": "EZR 8:9",
+          "end_ref": "15008009",
+          "end_ref_usfm": "EZR 8:9"
+        },
+        {
+          "start_ref": "16007011",
+          "start_ref_usfm": "NEH 7:11",
+          "end_ref": "16007011",
+          "end_ref_usfm": "NEH 7:11"
+        },
+        {
+          "start_ref": "13002016",
+          "start_ref_usfm": "1CH 2:16",
+          "end_ref": "13002017",
+          "end_ref_usfm": "1CH 2:17"
+        },
+        {
+          "start_ref": "09026006",
+          "start_ref_usfm": "1SA 26:6",
+          "end_ref": "09026008",
+          "end_ref_usfm": "1SA 26:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

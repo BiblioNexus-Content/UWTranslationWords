@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 27227,
+    "reference_id": 26369,
+    "title": "Zechariah NT",
+    "media_type": "Text",
+    "index_reference": "zechariah nt",
+    "language": "eng",
+    "content": "<h1>Zechariah (NT)</h1><h2>Facts:</h2><p>In the New Testament, Zechariah was a Jewish priest who became the father of John the Baptist.</p><ul><li><p>Zechariah loved God and obeyed him.</p></li><li><p>For many years Zechariah and his wife, Elizabeth, prayed earnestly to have a child, but did not have one. Then when they were very old, God answered their prayers and gave them a son.</p></li><li><p>Zechariah prophesied that his son John would be the prophet who would announce and prepare the way for the Messiah.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25699\" data-resourceType=\"UWTranslationWords\">Elizabeth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:5-Luke1:7\">Luke 1:5–7</a></p></li><li><p><a href=\"https://ref.ly/Luke1:21-Luke1:23\">Luke 1:21–23</a></p></li><li><p><a href=\"https://ref.ly/Luke1:39-Luke1:41\">Luke 1:39–41</a></p></li><li><p><a href=\"https://ref.ly/Luke3:1-Luke3:2\">Luke 3:1–2</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>22:1</strong> Suddenly an angel came with a message from God to an old priest named <strong>Zechariah</strong>. <strong>Zechariah</strong> and his wife, Elizabeth, were godly people, but she had not been able to have any children.</p></li><li><p><strong>22:2</strong> The angel said to <strong>Zechariah</strong>, “Your wife will have a son. You will name him John.”</p></li><li><p><strong>22:3</strong> Immediately, <strong>Zechariah</strong> was unable to speak.</p></li><li><p><strong>22:7</strong> Then God allowed <strong>Zechariah</strong> to speak again.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G21970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "42001012",
+          "start_ref_usfm": "LUK 1:12",
+          "end_ref": "42001012",
+          "end_ref_usfm": "LUK 1:12"
+        },
+        {
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42001018",
+          "start_ref_usfm": "LUK 1:18",
+          "end_ref": "42001018",
+          "end_ref_usfm": "LUK 1:18"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001021",
+          "end_ref_usfm": "LUK 1:21"
+        },
+        {
+          "start_ref": "42001040",
+          "start_ref_usfm": "LUK 1:40",
+          "end_ref": "42001040",
+          "end_ref_usfm": "LUK 1:40"
+        },
+        {
+          "start_ref": "42001059",
+          "start_ref_usfm": "LUK 1:59",
+          "end_ref": "42001059",
+          "end_ref_usfm": "LUK 1:59"
+        },
+        {
+          "start_ref": "42001067",
+          "start_ref_usfm": "LUK 1:67",
+          "end_ref": "42001067",
+          "end_ref_usfm": "LUK 1:67"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001021",
+          "start_ref_usfm": "LUK 1:21",
+          "end_ref": "42001023",
+          "end_ref_usfm": "LUK 1:23"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 26445,
+          "label": "Christ",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25699,
+          "content_id": 26557,
+          "label": "Elizabeth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

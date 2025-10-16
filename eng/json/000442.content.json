@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26716,
+    "reference_id": 25858,
+    "title": "House of David",
+    "media_type": "Text",
+    "index_reference": "house of david",
+    "language": "eng",
+    "content": "<h1>house of David</h1><h2>Facts:</h2><p>The expression “house of David” refers to the family or descendants of King David.</p><ul><li><p>This could also be translated as “descendants of David” or “family of David” or “King David’s clan.”</p></li><li><p>Because Jesus was descended from David, he was part of the “house of David.”</p></li><li><p>Sometimes “house of David” or “household of David” refers to the people in David’s family who were still living.</p></li><li><p>Other times this term is more general and refers to all his descendants, including those who had already died.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25856\" data-resourceType=\"UWTranslationWords\">house</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">Jesus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr10:19\">2 Chronicles 10:19</a></p></li><li><p><a href=\"https://ref.ly/2Sam3:6\">2 Samuel 3:6</a></p></li><li><p><a href=\"https://ref.ly/Luke1:69-Luke1:71\">Luke 1:69–71</a></p></li><li><p><a href=\"https://ref.ly/Ps122:5\">Psalms 122:5</a></p></li><li><p><a href=\"https://ref.ly/Zech12:7\">Zechariah 12:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1004, H1732, G11380, G36240</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003006",
+          "end_ref_usfm": "2SA 3:6"
+        },
+        {
+          "start_ref": "14010019",
+          "start_ref_usfm": "2CH 10:19",
+          "end_ref": "14010019",
+          "end_ref_usfm": "2CH 10:19"
+        },
+        {
+          "start_ref": "19122005",
+          "start_ref_usfm": "PSA 122:5",
+          "end_ref": "19122005",
+          "end_ref_usfm": "PSA 122:5"
+        },
+        {
+          "start_ref": "38012007",
+          "start_ref_usfm": "ZEC 12:7",
+          "end_ref": "38012007",
+          "end_ref_usfm": "ZEC 12:7"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42001069",
+          "start_ref_usfm": "LUK 1:69",
+          "end_ref": "42001071",
+          "end_ref_usfm": "LUK 1:71"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25856,
+          "content_id": 26714,
+          "label": "House",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 26758,
+          "label": "Jesus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

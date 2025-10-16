@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26859,
+    "reference_id": 26001,
+    "title": "Matthew",
+    "media_type": "Text",
+    "index_reference": "matthew",
+    "language": "eng",
+    "content": "<h1>Matthew, Levi</h1><h2>Facts:</h2><p>Matthew was one of the twelve men that Jesus chose to be his apostles. He was also known as Levi, son of Alpheus.</p><ul><li><p>Levi (Matthew) was a tax-collector from Capernaum before he met Jesus.</p></li><li><p>Matthew wrote the gospel that bears his name.</p></li><li><p>There are several other men named Levi in the Bible.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apostle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">tax collector</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke5:27\">Luke 5:27</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">Luke 6:14–16</a></p></li><li><p><a href=\"https://ref.ly/Mark2:14\">Mark 2:14</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">Mark 3:17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt9:9\">Matthew 9:9</a></p></li><li><p><a href=\"https://ref.ly/Matt10:3\">Matthew 10:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G30170, G31560</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009009",
+          "end_ref_usfm": "MAT 9:9"
+        },
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005027",
+          "end_ref_usfm": "LUK 5:27"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 26324,
+          "label": "Apostle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 27140,
+          "label": "Tax",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

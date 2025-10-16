@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467444,
+    "reference_id": 26335,
+    "title": "Vigne",
+    "media_type": "Text",
+    "index_reference": "vigne",
+    "language": "fra",
+    "content": "<h1>vigne, vignes</h1><h2>Définition :</h2><p>Le terme &quot;vigne&quot; ou &quot;cep’’ désigne une plante qui pousse en longeant le sol ou grimper aux arbres et autres structures* Le mot &quot;cep&quot; dans la Bible est utilisé uniquement pour la fructification</p><ul><li><p>vignes et se réfère généralement à la vigne.</p></li><li><p>Dans la Bible, le mot &quot;vigne&quot; signifie presque toujours &quot;vigne&quot;.</p></li><li><p>Les branches de la vigne sont attachées à la tige principale qui leur donne l&apos;eau et d&apos;autres nutriments pour qu&apos;ils puissent se développer.</p></li><li><p>Jésus s&apos;est appelé le &quot;Cep&quot; et a appelé son peuple les &quot;branches&quot;* Dans ce contexte, le mot &quot;vigne&quot; pourrait aussi être traduit par &quot;tige de vigne&quot; ou &quot;raisin&quot;</p></li><li><p>tige végétale* &quot;(Voir: Métaphore )</p></li><li><p>(Voir aussi: raisin, raisin, vigne, vignes, vignoble )</p></li></ul><p>(Voir aussi : (../other/grape.md), (../other/vineyard.md))</p><h2>Références bibliques:</h2><ul><li><p>Genèse 40: 9–11</p></li><li><p>Genèse 49: 11–12</p></li><li><p>Jean 15: 1–2</p></li><li><p>Luc 22: 17–18</p></li><li><p>Marc 12: 1–3</p></li><li><p>Matthieu 21: 35–37</p></li><li><p>Données Word:</p></li><li><p>Forte: H5139, H1612, H8321, G288, G290, G1009, G1092</p></li><li><p>1244</p></li><li><p>Autre</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040009",
+          "start_ref_usfm": "GEN 40:9",
+          "end_ref": "01040009",
+          "end_ref_usfm": "GEN 40:9"
+        },
+        {
+          "start_ref": "01040010",
+          "start_ref_usfm": "GEN 40:10",
+          "end_ref": "01040010",
+          "end_ref_usfm": "GEN 40:10"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "22006011",
+          "start_ref_usfm": "SNG 6:11",
+          "end_ref": "22006011",
+          "end_ref_usfm": "SNG 6:11"
+        },
+        {
+          "start_ref": "22007008",
+          "start_ref_usfm": "SNG 7:8",
+          "end_ref": "22007008",
+          "end_ref_usfm": "SNG 7:8"
+        },
+        {
+          "start_ref": "22007012",
+          "start_ref_usfm": "SNG 7:12",
+          "end_ref": "22007012",
+          "end_ref_usfm": "SNG 7:12"
+        },
+        {
+          "start_ref": "37002019",
+          "start_ref_usfm": "HAG 2:19",
+          "end_ref": "37002019",
+          "end_ref_usfm": "HAG 2:19"
+        },
+        {
+          "start_ref": "40026029",
+          "start_ref_usfm": "MAT 26:29",
+          "end_ref": "40026029",
+          "end_ref_usfm": "MAT 26:29"
+        },
+        {
+          "start_ref": "41012003",
+          "start_ref_usfm": "MRK 12:3",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "41014025",
+          "start_ref_usfm": "MRK 14:25",
+          "end_ref": "41014025",
+          "end_ref_usfm": "MRK 14:25"
+        },
+        {
+          "start_ref": "42022018",
+          "start_ref_usfm": "LUK 22:18",
+          "end_ref": "42022018",
+          "end_ref_usfm": "LUK 22:18"
+        },
+        {
+          "start_ref": "43015001",
+          "start_ref_usfm": "JHN 15:1",
+          "end_ref": "43015001",
+          "end_ref_usfm": "JHN 15:1"
+        },
+        {
+          "start_ref": "43015004",
+          "start_ref_usfm": "JHN 15:4",
+          "end_ref": "43015004",
+          "end_ref_usfm": "JHN 15:4"
+        },
+        {
+          "start_ref": "43015005",
+          "start_ref_usfm": "JHN 15:5",
+          "end_ref": "43015005",
+          "end_ref_usfm": "JHN 15:5"
+        },
+        {
+          "start_ref": "59003012",
+          "start_ref_usfm": "JAS 3:12",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "66014018",
+          "start_ref_usfm": "REV 14:18",
+          "end_ref": "66014018",
+          "end_ref_usfm": "REV 14:18"
+        },
+        {
+          "start_ref": "66014019",
+          "start_ref_usfm": "REV 14:19",
+          "end_ref": "66014019",
+          "end_ref_usfm": "REV 14:19"
+        },
+        {
+          "start_ref": "40021035",
+          "start_ref_usfm": "MAT 21:35",
+          "end_ref": "40021037",
+          "end_ref_usfm": "MAT 21:37"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 466952,
+          "label": "Grappe de raisin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 467445,
+          "label": "Vigne (cep)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466884,
+    "reference_id": 25729,
+    "title": "Faux prophète",
+    "media_type": "Text",
+    "index_reference": "faux prophète",
+    "language": "fra",
+    "content": "<h1>faux prophète</h1><h2>Définition :</h2><p>Un faux prophète est une personne qui prétend faussement que son message vient de Dieu.</p><ul><li><p>Les prophéties des faux prophètes ne sont généralement pas accomplies. Autrement dit, elles ne se réalisent pas.</p></li><li><p>Les faux prophètes enseignent des messages qui contredisent partiellement ou totalement ce que dit la Bible.</p></li><li><p>Le terme faux prophète peut aussi être traduit par ce qui suit : une personne qui prétend faussement être le porte-parole de Dieu ou quelqu&apos;un qui prétend dire faussement les paroles de Dieu.</p></li><li><p>Le Nouveau Testament enseigne qu&apos;à la fin des temps, il y aura de nombreux faux prophètes qui vont essayer de tromper les gens en leur faisant croire qu&apos;ils parlent de la part de Dieu.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25761\" data-resourceType=\"UWTranslationWords\">fulfill</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">true</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007015",
+          "end_ref_usfm": "MAT 7:15"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40024011",
+          "start_ref_usfm": "MAT 24:11",
+          "end_ref": "40024011",
+          "end_ref_usfm": "MAT 24:11"
+        },
+        {
+          "start_ref": "40024024",
+          "start_ref_usfm": "MAT 24:24",
+          "end_ref": "40024024",
+          "end_ref_usfm": "MAT 24:24"
+        },
+        {
+          "start_ref": "41013022",
+          "start_ref_usfm": "MRK 13:22",
+          "end_ref": "41013022",
+          "end_ref_usfm": "MRK 13:22"
+        },
+        {
+          "start_ref": "42006026",
+          "start_ref_usfm": "LUK 6:26",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "44013006",
+          "start_ref_usfm": "ACT 13:6",
+          "end_ref": "44013006",
+          "end_ref_usfm": "ACT 13:6"
+        },
+        {
+          "start_ref": "61002001",
+          "start_ref_usfm": "2PE 2:1",
+          "end_ref": "61002001",
+          "end_ref_usfm": "2PE 2:1"
+        },
+        {
+          "start_ref": "62004001",
+          "start_ref_usfm": "1JN 4:1",
+          "end_ref": "62004001",
+          "end_ref_usfm": "1JN 4:1"
+        },
+        {
+          "start_ref": "66016013",
+          "start_ref_usfm": "REV 16:13",
+          "end_ref": "66016013",
+          "end_ref_usfm": "REV 16:13"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "62004001",
+          "start_ref_usfm": "1JN 4:1",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "44013006",
+          "start_ref_usfm": "ACT 13:6",
+          "end_ref": "44013008",
+          "end_ref_usfm": "ACT 13:8"
+        },
+        {
+          "start_ref": "40024023",
+          "start_ref_usfm": "MAT 24:23",
+          "end_ref": "40024025",
+          "end_ref_usfm": "MAT 24:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25761,
+          "content_id": 466912,
+          "label": "Réaliser",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

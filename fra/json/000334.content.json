@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466845,
+    "reference_id": 25685,
+    "title": "Fumier",
+    "media_type": "Text",
+    "index_reference": "fumier",
+    "language": "fra",
+    "content": "<h1>fumier ,</h1><h2>Définition :</h2><p>Le terme &quot;fumier &quot;signifie le déchet humain ou animal et qui est appelé aussi résidus ou excrément*Quand il est utilisé comme engrais pour enrichir la terre,il s&apos;appelle &quot;fumier&quot;</p><ul><li><p>Ces termes peuvent être utilisés au sens figuré pour signifier une chose sans valeur,sans importance.</p></li><li><p>L&apos;excrément sec d&apos;un animal est souvent utilisé comme fuel(carburant).</p></li><li><p>L&apos;expression&quot;être comme un fumier sur la surface de la terre&quot;pourrait signifier &quot;être dispersé comme un fumier, sans valeur sur la terre&quot;.</p></li><li><p>La porte des poubelles dans le Sud de Jérusalem était probablement la porte où les déchets et les poubelles sont ramassées de la cité.</p></li></ul><p>(Voir aussi : (../other/gate.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014010",
+          "start_ref_usfm": "1KI 14:10",
+          "end_ref": "11014010",
+          "end_ref_usfm": "1KI 14:10"
+        },
+        {
+          "start_ref": "12006025",
+          "start_ref_usfm": "2KI 6:25",
+          "end_ref": "12006025",
+          "end_ref_usfm": "2KI 6:25"
+        },
+        {
+          "start_ref": "23025010",
+          "start_ref_usfm": "ISA 25:10",
+          "end_ref": "23025010",
+          "end_ref_usfm": "ISA 25:10"
+        },
+        {
+          "start_ref": "24008002",
+          "start_ref_usfm": "JER 8:2",
+          "end_ref": "24008002",
+          "end_ref_usfm": "JER 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 466918,
+          "label": "Porte",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

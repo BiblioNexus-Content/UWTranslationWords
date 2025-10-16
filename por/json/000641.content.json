@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 237693,
+    "reference_id": 25558,
+    "title": "Noivo",
+    "media_type": "Text",
+    "index_reference": "noivo",
+    "language": "por",
+    "content": "<h1>noivo</h1><h2>Definição:</h2><p>Em uma cerimônia de casamento, o noivo é o <strong>homem</strong> que vai se casar com a noiva (a <strong>mulher</strong>).</p><h2>Sugestões de Tradução:</h2><p>Você pode usar o termo que sua língua usa para se referir ao homem que está se casando em uma cerimônia de casamento ou, se não tiver um termo para isso em sua língua, pode usar uma frase descritiva para descrever o que é um noivo. Dependendo do contexto, você pode traduzir os termos “noivo” com frases descritivas como “um homem que está se casando” ou “um homem que está sendo casado” ou “o homem que está se casando”.</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25557\" data-resourceType=\"UWTranslationWords\">noiva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25996\" data-resourceType=\"UWTranslationWords\">casamento</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Isa62:5\">Isaías 62.5</a></p></li><li><p><a href=\"https://ref.ly/Joel2:15-Joel2:16\">Joel 2.15–16</a></p></li><li><p><a href=\"https://ref.ly/John3:30\">João 3.30</a></p></li><li><p><a href=\"https://ref.ly/Luke5:35\">Lucas 5.35</a></p></li><li><p><a href=\"https://ref.ly/Mark2:19\">Marcos 2.19</a></p></li><li><p><a href=\"https://ref.ly/Mark2:20\">Marcos 2.20</a></p></li><li><p><a href=\"https://ref.ly/Matt9:15\">Mateus 9.15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2860, G35660</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004025",
+          "start_ref_usfm": "EXO 4:25",
+          "end_ref": "02004025",
+          "end_ref_usfm": "EXO 4:25"
+        },
+        {
+          "start_ref": "02004026",
+          "start_ref_usfm": "EXO 4:26",
+          "end_ref": "02004026",
+          "end_ref_usfm": "EXO 4:26"
+        },
+        {
+          "start_ref": "23062005",
+          "start_ref_usfm": "ISA 62:5",
+          "end_ref": "23062005",
+          "end_ref_usfm": "ISA 62:5"
+        },
+        {
+          "start_ref": "40009015",
+          "start_ref_usfm": "MAT 9:15",
+          "end_ref": "40009015",
+          "end_ref_usfm": "MAT 9:15"
+        },
+        {
+          "start_ref": "40025001",
+          "start_ref_usfm": "MAT 25:1",
+          "end_ref": "40025001",
+          "end_ref_usfm": "MAT 25:1"
+        },
+        {
+          "start_ref": "40025005",
+          "start_ref_usfm": "MAT 25:5",
+          "end_ref": "40025005",
+          "end_ref_usfm": "MAT 25:5"
+        },
+        {
+          "start_ref": "40025006",
+          "start_ref_usfm": "MAT 25:6",
+          "end_ref": "40025006",
+          "end_ref_usfm": "MAT 25:6"
+        },
+        {
+          "start_ref": "40025010",
+          "start_ref_usfm": "MAT 25:10",
+          "end_ref": "40025010",
+          "end_ref_usfm": "MAT 25:10"
+        },
+        {
+          "start_ref": "41002019",
+          "start_ref_usfm": "MRK 2:19",
+          "end_ref": "41002019",
+          "end_ref_usfm": "MRK 2:19"
+        },
+        {
+          "start_ref": "41002020",
+          "start_ref_usfm": "MRK 2:20",
+          "end_ref": "41002020",
+          "end_ref_usfm": "MRK 2:20"
+        },
+        {
+          "start_ref": "42005034",
+          "start_ref_usfm": "LUK 5:34",
+          "end_ref": "42005034",
+          "end_ref_usfm": "LUK 5:34"
+        },
+        {
+          "start_ref": "42005035",
+          "start_ref_usfm": "LUK 5:35",
+          "end_ref": "42005035",
+          "end_ref_usfm": "LUK 5:35"
+        },
+        {
+          "start_ref": "43002009",
+          "start_ref_usfm": "JHN 2:9",
+          "end_ref": "43002009",
+          "end_ref_usfm": "JHN 2:9"
+        },
+        {
+          "start_ref": "43003029",
+          "start_ref_usfm": "JHN 3:29",
+          "end_ref": "43003029",
+          "end_ref_usfm": "JHN 3:29"
+        },
+        {
+          "start_ref": "43003030",
+          "start_ref_usfm": "JHN 3:30",
+          "end_ref": "43003030",
+          "end_ref_usfm": "JHN 3:30"
+        },
+        {
+          "start_ref": "66018023",
+          "start_ref_usfm": "REV 18:23",
+          "end_ref": "66018023",
+          "end_ref_usfm": "REV 18:23"
+        },
+        {
+          "start_ref": "29002015",
+          "start_ref_usfm": "JOL 2:15",
+          "end_ref": "29002016",
+          "end_ref_usfm": "JOL 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25557,
+          "content_id": 237692,
+          "label": "Noiva",
+          "language": "por"
+        },
+        {
+          "reference_id": 25996,
+          "content_id": 238126,
+          "label": "Casamento",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

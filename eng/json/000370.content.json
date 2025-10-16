@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26642,
+    "reference_id": 25784,
+    "title": "Girgashites",
+    "media_type": "Text",
+    "index_reference": "girgashites",
+    "language": "eng",
+    "content": "<h1>Girgashites</h1><h2>Facts:</h2><p>The Girgashites were a people group living near the Sea of Galilee in the land of Canaan.</p><ul><li><p>They were descendants of Ham’s son Canaan and so were one of the many people groups who were also known as “Canaanites.”</p></li><li><p>God promised the Israelites that he would help them defeat the Girgashites and other Canaanite people groups.</p></li><li><p>Like all the Canaanite peoples, the Girgashites worshiped false gods and did immoral things as part of that worship.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">Ham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:14\">1 Chronicles 1:14</a></p></li><li><p><a href=\"https://ref.ly/Deut7:1\">Deuteronomy 7:1</a></p></li><li><p><a href=\"https://ref.ly/Gen10:16\">Genesis 10:16</a></p></li><li><p><a href=\"https://ref.ly/Josh3:9-Josh3:11\">Joshua 3:9–11</a></p></li><li><p><a href=\"https://ref.ly/Josh24:11-Josh24:12\">Joshua 24:11–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1622</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010016",
+          "start_ref_usfm": "GEN 10:16",
+          "end_ref": "01010016",
+          "end_ref_usfm": "GEN 10:16"
+        },
+        {
+          "start_ref": "01015021",
+          "start_ref_usfm": "GEN 15:21",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "05007001",
+          "start_ref_usfm": "DEU 7:1",
+          "end_ref": "05007001",
+          "end_ref_usfm": "DEU 7:1"
+        },
+        {
+          "start_ref": "13001014",
+          "start_ref_usfm": "1CH 1:14",
+          "end_ref": "13001014",
+          "end_ref_usfm": "1CH 1:14"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "06003009",
+          "start_ref_usfm": "JOS 3:9",
+          "end_ref": "06003011",
+          "end_ref_usfm": "JOS 3:11"
+        },
+        {
+          "start_ref": "06024011",
+          "start_ref_usfm": "JOS 24:11",
+          "end_ref": "06024012",
+          "end_ref_usfm": "JOS 24:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 26671,
+          "label": "Ham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

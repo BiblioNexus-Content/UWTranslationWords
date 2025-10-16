@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26359,
+    "reference_id": 25501,
+    "title": "Balaam",
+    "media_type": "Text",
+    "index_reference": "balaam",
+    "language": "eng",
+    "content": "<h1>Balaam</h1><h2>Facts:</h2><p>Balaam was a pagan prophet whom King Balek hired to curse Israel while they were camped at the Jordan River in northern Moab, preparing to enter the land of Canaan.</p><ul><li><p>Balaam was from the city of Pethor, which was located in the region around the Euphrates River, about 400 miles away from the land of Moab.</p></li><li><p>The Midianite king, Balek, was afraid of the strength and numbers of the Israelites, so he hired Balaam to curse them.</p></li><li><p>As Balaam was traveling toward Israel, an angel of God stood in his path so that Balaam’s donkey stopped. God also gave the donkey the ability to speak to Balaam.</p></li><li><p>God did not allow Balaam to curse the Israelites and commanded him to bless them instead.</p></li><li><p>Later however, Balaam still brought evil on the Israelites when he influenced them to worship the false god Baal-peor.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25545\" data-resourceType=\"UWTranslationWords\">bless</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25632\" data-resourceType=\"UWTranslationWords\">curse</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25678\" data-resourceType=\"UWTranslationWords\">donkey</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25715\" data-resourceType=\"UWTranslationWords\">Euphrates River</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Jordan River</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26018\" data-resourceType=\"UWTranslationWords\">Midian</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moab</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26085\" data-resourceType=\"UWTranslationWords\">Peor</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Pet2:16\">2 Peter 2:16</a></p></li><li><p><a href=\"https://ref.ly/Deut23:3-Deut23:4\">Deuteronomy 23:3–4</a></p></li><li><p><a href=\"https://ref.ly/Josh13:22-Josh13:23\">Joshua 13:22–23</a></p></li><li><p><a href=\"https://ref.ly/Num22:5\">Numbers 22:5</a></p></li><li><p><a href=\"https://ref.ly/Rev2:14\">Revelation 2:14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1109, G09030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022005",
+          "start_ref_usfm": "NUM 22:5",
+          "end_ref": "04022005",
+          "end_ref_usfm": "NUM 22:5"
+        },
+        {
+          "start_ref": "16013002",
+          "start_ref_usfm": "NEH 13:2",
+          "end_ref": "16013002",
+          "end_ref_usfm": "NEH 13:2"
+        },
+        {
+          "start_ref": "61002015",
+          "start_ref_usfm": "2PE 2:15",
+          "end_ref": "61002015",
+          "end_ref_usfm": "2PE 2:15"
+        },
+        {
+          "start_ref": "61002016",
+          "start_ref_usfm": "2PE 2:16",
+          "end_ref": "61002016",
+          "end_ref_usfm": "2PE 2:16"
+        },
+        {
+          "start_ref": "65001011",
+          "start_ref_usfm": "JUD 1:11",
+          "end_ref": "65001011",
+          "end_ref_usfm": "JUD 1:11"
+        },
+        {
+          "start_ref": "66002014",
+          "start_ref_usfm": "REV 2:14",
+          "end_ref": "66002014",
+          "end_ref_usfm": "REV 2:14"
+        },
+        {
+          "start_ref": "05023003",
+          "start_ref_usfm": "DEU 23:3",
+          "end_ref": "05023004",
+          "end_ref_usfm": "DEU 23:4"
+        },
+        {
+          "start_ref": "06013022",
+          "start_ref_usfm": "JOS 13:22",
+          "end_ref": "06013023",
+          "end_ref_usfm": "JOS 13:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25545,
+          "content_id": 26403,
+          "label": "Bless",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25632,
+          "content_id": 26490,
+          "label": "Curse",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25678,
+          "content_id": 26536,
+          "label": "Donkey",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 26573,
+          "label": "Euphrates",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 26775,
+          "label": "Jordan River",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 26876,
+          "label": "Midian",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 26884,
+          "label": "Moab",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26085,
+          "content_id": 26943,
+          "label": "Peor",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

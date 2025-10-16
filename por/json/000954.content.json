@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238494,
+    "reference_id": 26368,
+    "title": "Zebulom",
+    "media_type": "Text",
+    "index_reference": "zebulom",
+    "language": "por",
+    "content": "<h1>Zebulom</h1><h2>Fatos:</h2><p>Zebulom foi o décimo filho de Jacó. Ele foi o sexto filho de Leia. Seus descendentes se tornaram uma das tribos de Israel.</p><ul><li><p>A tribo descendente dele era conhecida como a “tribo de Zebulom” ou “Zebulom”.</p></li><li><p>O significado do nome Zebulom é desconhecido, mas é semelhante a uma palavra hebraica que provavelmente significa “honrar” ou “habitar”.</p></li><li><p>A tribo de Zebulom se estabeleceu no noroeste de Canaã, fazendo fronteira com as terras de Naftali, Issacar, Manassés e Aser.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25961\" data-resourceType=\"UWTranslationWords\">Leia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">Êxodo 1.1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen30:20\">Gênesis 30.20</a></p></li><li><p><a href=\"https://ref.ly/Isa9:1\">Isaías 9.1</a></p></li><li><p><a href=\"https://ref.ly/Judg4:10\">Juízes 4.10</a></p></li><li><p><a href=\"https://ref.ly/Matt4:13\">Mateus 4.13</a></p></li><li><p><a href=\"https://ref.ly/Matt4:16\">Mateus 4.16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2074, H2075, G21940</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030020",
+          "start_ref_usfm": "GEN 30:20",
+          "end_ref": "01030020",
+          "end_ref_usfm": "GEN 30:20"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01046014",
+          "start_ref_usfm": "GEN 46:14",
+          "end_ref": "01046014",
+          "end_ref_usfm": "GEN 46:14"
+        },
+        {
+          "start_ref": "01049013",
+          "start_ref_usfm": "GEN 49:13",
+          "end_ref": "01049013",
+          "end_ref_usfm": "GEN 49:13"
+        },
+        {
+          "start_ref": "02001003",
+          "start_ref_usfm": "EXO 1:3",
+          "end_ref": "02001003",
+          "end_ref_usfm": "EXO 1:3"
+        },
+        {
+          "start_ref": "07004010",
+          "start_ref_usfm": "JDG 4:10",
+          "end_ref": "07004010",
+          "end_ref_usfm": "JDG 4:10"
+        },
+        {
+          "start_ref": "23009001",
+          "start_ref_usfm": "ISA 9:1",
+          "end_ref": "23009001",
+          "end_ref_usfm": "ISA 9:1"
+        },
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
+        },
+        {
+          "start_ref": "40004016",
+          "start_ref_usfm": "MAT 4:16",
+          "end_ref": "40004016",
+          "end_ref_usfm": "MAT 4:16"
+        },
+        {
+          "start_ref": "66007008",
+          "start_ref_usfm": "REV 7:8",
+          "end_ref": "66007008",
+          "end_ref_usfm": "REV 7:8"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 238092,
+          "label": "Lia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

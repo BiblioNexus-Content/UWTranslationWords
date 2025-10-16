@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237646,
+    "reference_id": 25510,
+    "title": "Basã",
+    "media_type": "Text",
+    "index_reference": "basã",
+    "language": "por",
+    "content": "<h1>Basã</h1><h2>Fatos:</h2><p><span>Basã</span> era uma região de terra a leste do Mar da Galileia. Cobria uma área que agora faz parte da Síria e das Colinas de Golã.</p><ul><li><p>Uma cidade de refúgio do Antigo Testamento chamada &quot;Golã&quot; estava localizada na região de <span>Basã</span>.</p></li><li><p><span>Basã</span> era uma região muito fértil conhecida por seus carvalhos e pastoreio de animais.</p></li><li><p>Gênesis cap. 14 registra que <span>Basã</span> foi o local de uma guerra entre vários reis e suas nações.</p></li><li><p>Durante as andanças de Israel no deserto após sua fuga do Egito, eles tomaram posse de parte da região de <span>Basã</span>.</p></li><li><p>Anos depois, o rei Salomão obteve suprimentos dessa região.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26057\" data-resourceType=\"UWTranslationWords\">carvalho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Mar da Galileia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:13\">1 Reis 4.13</a></p></li><li><p><a href=\"https://ref.ly/Amos4:1\">Amós 4.1</a></p></li><li><p><a href=\"https://ref.ly/Jer22:20-Jer22:21\">Jeremias 22.20–21</a></p></li><li><p><a href=\"https://ref.ly/Josh9:10\">Josué 9.10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06009010",
+          "start_ref_usfm": "JOS 9:10",
+          "end_ref": "06009010",
+          "end_ref_usfm": "JOS 9:10"
+        },
+        {
+          "start_ref": "11004013",
+          "start_ref_usfm": "1KI 4:13",
+          "end_ref": "11004013",
+          "end_ref_usfm": "1KI 4:13"
+        },
+        {
+          "start_ref": "16009022",
+          "start_ref_usfm": "NEH 9:22",
+          "end_ref": "16009022",
+          "end_ref_usfm": "NEH 9:22"
+        },
+        {
+          "start_ref": "30004001",
+          "start_ref_usfm": "AMO 4:1",
+          "end_ref": "30004001",
+          "end_ref_usfm": "AMO 4:1"
+        },
+        {
+          "start_ref": "24022020",
+          "start_ref_usfm": "JER 22:20",
+          "end_ref": "24022021",
+          "end_ref_usfm": "JER 22:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 26057,
+          "content_id": 238187,
+          "label": "Carvalho",
+          "language": "por"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 238336,
+          "label": "Mar da Galileia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

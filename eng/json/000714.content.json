@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26988,
+    "reference_id": 26130,
+    "title": "Propitiation",
+    "media_type": "Text",
+    "index_reference": "propitiation",
+    "language": "eng",
+    "content": "<h1>propitiation</h1><h2>Definition:</h2><p>The term “propitiation” refers to a sacrifice that is made to satisfy or fulfill the justice of God and to appease his wrath.</p><ul><li><p>The offering of the sacrificial blood of Jesus Christ is the propitiation to God for mankind’s sins.</p></li><li><p>Jesus’ death on the cross appeased God’s wrath against sin. This provided a way for God to look on people with favor and offer them eternal life.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>This term could be translated as “appeasement” or “causing God to forgive sins and grant favor to people.”</p></li><li><p>The word “atonement” is close in meaning to “propitiation.” It is important to compare how these two terms are used.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25490\" data-resourceType=\"UWTranslationWords\">atonement</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_everlasting\" data-resourceType=\"UWTranslationWords\">everlasting</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">forgive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1John2:2\">1 John 2:2</a></p></li><li><p><a href=\"https://ref.ly/1John4:10\">1 John 4:10</a></p></li><li><p><a href=\"https://ref.ly/Rom3:25-Rom3:26\">Romans 3:25–26</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G24340, G24350</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003025",
+          "end_ref_usfm": "ROM 3:25"
+        },
+        {
+          "start_ref": "58002017",
+          "start_ref_usfm": "HEB 2:17",
+          "end_ref": "58002017",
+          "end_ref_usfm": "HEB 2:17"
+        },
+        {
+          "start_ref": "62002002",
+          "start_ref_usfm": "1JN 2:2",
+          "end_ref": "62002002",
+          "end_ref_usfm": "1JN 2:2"
+        },
+        {
+          "start_ref": "62004010",
+          "start_ref_usfm": "1JN 4:10",
+          "end_ref": "62004010",
+          "end_ref_usfm": "1JN 4:10"
+        },
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003026",
+          "end_ref_usfm": "ROM 3:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25490,
+          "content_id": 26348,
+          "label": "Atonement",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25712,
+          "content_id": 26570,
+          "label": "Eternity",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 26610,
+          "label": "Forgive",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

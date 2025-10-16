@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467004,
+    "reference_id": 25858,
+    "title": "La  maison de David",
+    "media_type": "Text",
+    "index_reference": "la  maison de david",
+    "language": "fra",
+    "content": "<h1>La maison de David</h1><h2>Définition :</h2><p>&quot;L&apos;expression &quot; la maison de David&quot; se refère à la famille ou les descendants du Roi David.</p><ul><li><p>Cela pouvait être traduit aussi par, &quot; les descendants de David*&quot;</p></li><li><p>Parce que Jésus était un descendant de David, il faisait partie de la &quot; maison de David&quot;</p></li><li><p>Parfois &quot; la maison de David&quot; ou &quot; ménage de David&quot;se refère aux gens qui appartiennent à la famille de David et encore en vie.</p></li><li><p>Ailleurs ce terme est plus général et se refère à tous ses descendants, y compris ceux qui étaient déjà morts.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../other/descendant.md), (../other/house.md), (../kt/jesus.md), (../other/king.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003006",
+          "start_ref_usfm": "2SA 3:6",
+          "end_ref": "10003006",
+          "end_ref_usfm": "2SA 3:6"
+        },
+        {
+          "start_ref": "14010019",
+          "start_ref_usfm": "2CH 10:19",
+          "end_ref": "14010019",
+          "end_ref_usfm": "2CH 10:19"
+        },
+        {
+          "start_ref": "19122005",
+          "start_ref_usfm": "PSA 122:5",
+          "end_ref": "19122005",
+          "end_ref_usfm": "PSA 122:5"
+        },
+        {
+          "start_ref": "38012007",
+          "start_ref_usfm": "ZEC 12:7",
+          "end_ref": "38012007",
+          "end_ref_usfm": "ZEC 12:7"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42001069",
+          "start_ref_usfm": "LUK 1:69",
+          "end_ref": "42001071",
+          "end_ref_usfm": "LUK 1:71"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25856,
+          "content_id": 467002,
+          "label": "Maison",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 467045,
+          "label": "Jésus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

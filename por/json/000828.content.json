@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 238341,
+    "reference_id": 26212,
+    "title": "Selah",
+    "media_type": "Text",
+    "index_reference": "selah",
+    "language": "por",
+    "content": "<h1>selah</h1><h2>Definição:</h2><p>O termo “selah” é uma palavra hebraica que ocorre principalmente no livro dos Salmos. Tem vários significados possíveis.</p><ul><li><p>Poderia significar “pausar e louvar”, o que convidaria o público a pensar cuidadosamente sobre o que foi dito.</p></li><li><p>Como muitos dos Salmos foram escritos como canções, acredita-se que “selah” pode ter sido um termo musical para instruir o cantor a pausar seu canto para permitir que os instrumentos musicais tocassem sozinhos ou para encorajar os ouvintes a refletirem sobre as palavras da canção.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26140\" data-resourceType=\"UWTranslationWords\">salmo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ps3:3-Ps3:4\">Salmo 3.3–4</a></p></li><li><p><a href=\"https://ref.ly/Ps24:5-Ps24:6\">Salmo 24.5–6</a></p></li><li><p><a href=\"https://ref.ly/Ps46:6-Ps46:7\">Salmos 46.6–7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5542</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19003003",
+          "start_ref_usfm": "PSA 3:3",
+          "end_ref": "19003004",
+          "end_ref_usfm": "PSA 3:4"
+        },
+        {
+          "start_ref": "19024005",
+          "start_ref_usfm": "PSA 24:5",
+          "end_ref": "19024006",
+          "end_ref_usfm": "PSA 24:6"
+        },
+        {
+          "start_ref": "19046006",
+          "start_ref_usfm": "PSA 46:6",
+          "end_ref": "19046007",
+          "end_ref_usfm": "PSA 46:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26140,
+          "content_id": 238270,
+          "label": "Salmo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

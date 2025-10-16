@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237909,
+    "reference_id": 25776,
+    "title": "Getsêmani",
+    "media_type": "Text",
+    "index_reference": "getsêmani",
+    "language": "por",
+    "content": "<h1>Getsêmani</h1><h2>Fatos:</h2><p>Getsêmani era um jardim de oliveiras a leste de Jerusalém, além do vale do Cedrom e perto do Monte das Oliveiras.</p><ul><li><p>O jardim de Getsêmani era um lugar onde Jesus e seus seguidores iam com o propósito de ficarem sozinhos e descansar, longe das multidões.</p></li><li><p>Foi no Getsêmani que Jesus orou em profunda tristeza, antes de ser preso ali pelos líderes judeus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25926\" data-resourceType=\"UWTranslationWords\">Judas Iscariotes</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25936\" data-resourceType=\"UWTranslationWords\">Vale do Cedrom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26034\" data-resourceType=\"UWTranslationWords\">Monte das Oliveiras</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Mark14:32\">Marcos 14.32</a></p></li><li><p><a href=\"https://ref.ly/Matt26:36\">Mateus 26.36</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G10680</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40026036",
+          "start_ref_usfm": "MAT 26:36",
+          "end_ref": "40026036",
+          "end_ref_usfm": "MAT 26:36"
+        },
+        {
+          "start_ref": "41014032",
+          "start_ref_usfm": "MRK 14:32",
+          "end_ref": "41014032",
+          "end_ref_usfm": "MRK 14:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25926,
+          "content_id": 238059,
+          "label": "Judas Iscariotes",
+          "language": "por"
+        },
+        {
+          "reference_id": 25936,
+          "content_id": 238068,
+          "label": "Vale do Cedrom",
+          "language": "por"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 238164,
+          "label": "Monte das Oliveiras",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

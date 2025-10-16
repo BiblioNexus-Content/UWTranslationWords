@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 180067,
+    "reference_id": 26003,
+    "title": "मादियों",
+    "media_type": "Text",
+    "index_reference": "मादियों",
+    "language": "hin",
+    "content": "<h1>मादियों, मादे</h1><h2>तथ्य:</h2><p>मादी साम्राज्य एक प्राचीन साम्राज्य था जो अश्शूर देश और बेबीलोन के पूर्व में तथा एलाम और फारस के उत्तर में था। मादी राज्य के लोग “मादियों” कहलाते थे।</p><ul><li><p>मादी साम्राज्य में आज के तुर्किस्तान, सीरिया, ईराक और अफगानिस्तान के कुछ भाग थे।</p></li><li><p>मादी लोग फारसियों के निकट संबंध में थे और दोनों की संयुक्त सेना ने बेबीलोन को जीता था।</p></li><li><p>बेबीलोन पर मादी घराने के राजा दारा ने आक्रमण किया था जब दानिय्येल भविष्यद्वक्ता बेबीलोन में था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">अश्शूर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25639\" data-resourceType=\"UWTranslationWords\">कुस्रू</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25643\" data-resourceType=\"UWTranslationWords\">दारा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25692\" data-resourceType=\"UWTranslationWords\">एलाम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">फारस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 17:06</a></p></li><li><p><a href=\"https://ref.ly/Acts2:9\">प्रे.का. 02:09</a></p></li><li><p><a href=\"https://ref.ly/Dan5:28\">दानिय्येल 05:28</a></p></li><li><p><a href=\"https://ref.ly/Esth1:3-Esth1:4\">एस्तेर 01:3–4</a></p></li><li><p><a href=\"https://ref.ly/Ezra6:1-Ezra6:2\">एज्रा 06:1–2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H4074, H4075, H4076, H4077, G3370</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "12017006",
+          "start_ref_usfm": "2KI 17:6",
+          "end_ref": "12017006",
+          "end_ref_usfm": "2KI 17:6"
+        },
+        {
+          "start_ref": "15006002",
+          "start_ref_usfm": "EZR 6:2",
+          "end_ref": "15006002",
+          "end_ref_usfm": "EZR 6:2"
+        },
+        {
+          "start_ref": "27005028",
+          "start_ref_usfm": "DAN 5:28",
+          "end_ref": "27005028",
+          "end_ref_usfm": "DAN 5:28"
+        },
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006002",
+          "end_ref_usfm": "EZR 6:2"
+        },
+        {
+          "start_ref": "17001003",
+          "start_ref_usfm": "EST 1:3",
+          "end_ref": "17001004",
+          "end_ref_usfm": "EST 1:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 179576,
+          "label": "अश्शूर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25639,
+          "content_id": 179716,
+          "label": "कुस्रू",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25643,
+          "content_id": 179720,
+          "label": "दारा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25692,
+          "content_id": 179766,
+          "label": "एलाम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 180153,
+          "label": "फारस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

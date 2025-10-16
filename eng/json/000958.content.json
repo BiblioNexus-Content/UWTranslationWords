@@ -1,0 +1,221 @@
+[
+  {
+    "content_id": 27231,
+    "reference_id": 26373,
+    "title": "Zerubbabel",
+    "media_type": "Text",
+    "index_reference": "zerubbabel",
+    "language": "eng",
+    "content": "<h1>Zerubbabel</h1><h2>Facts:</h2><p>Zerubbabel was the name of two Israelite men in the Old Testament.</p><ul><li><p>One of these was a descendant of Jehoiakim and Zedekiah.</p></li><li><p>A different Zerubbabel, son of Shealtiel, was the head of the tribe of Judah during the time of Ezra and Nehemiah, when Cyrus king of Persia released the Israelites from their captivity in Babylon.</p></li><li><p>Zerubbabel and the high priest Joshua were among those who helped rebuild the temple and altar of God.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25574\" data-resourceType=\"UWTranslationWords\">captive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25639\" data-resourceType=\"UWTranslationWords\">Cyrus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Ezra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">high priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">Jehoiakim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Joshua</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Persia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26371\" data-resourceType=\"UWTranslationWords\">Zedekiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:19-1Chr3:21\">1 Chronicles 3:19–21</a></p></li><li><p><a href=\"https://ref.ly/Ezra2:1-Ezra2:2\">Ezra 2:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra3:8-Ezra3:9\">Ezra 3:8–9</a></p></li><li><p><a href=\"https://ref.ly/Luke3:27-Luke3:29\">Luke 3:27–29</a></p></li><li><p><a href=\"https://ref.ly/Matt1:12\">Matthew 1:12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2216, H2217, G22160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15002002",
+          "start_ref_usfm": "EZR 2:2",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "15003002",
+          "start_ref_usfm": "EZR 3:2",
+          "end_ref": "15003002",
+          "end_ref_usfm": "EZR 3:2"
+        },
+        {
+          "start_ref": "15003008",
+          "start_ref_usfm": "EZR 3:8",
+          "end_ref": "15003008",
+          "end_ref_usfm": "EZR 3:8"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15004003",
+          "start_ref_usfm": "EZR 4:3",
+          "end_ref": "15004003",
+          "end_ref_usfm": "EZR 4:3"
+        },
+        {
+          "start_ref": "15005002",
+          "start_ref_usfm": "EZR 5:2",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "16007007",
+          "start_ref_usfm": "NEH 7:7",
+          "end_ref": "16007007",
+          "end_ref_usfm": "NEH 7:7"
+        },
+        {
+          "start_ref": "16012001",
+          "start_ref_usfm": "NEH 12:1",
+          "end_ref": "16012001",
+          "end_ref_usfm": "NEH 12:1"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001014",
+          "start_ref_usfm": "HAG 1:14",
+          "end_ref": "37001014",
+          "end_ref_usfm": "HAG 1:14"
+        },
+        {
+          "start_ref": "37002002",
+          "start_ref_usfm": "HAG 2:2",
+          "end_ref": "37002002",
+          "end_ref_usfm": "HAG 2:2"
+        },
+        {
+          "start_ref": "37002004",
+          "start_ref_usfm": "HAG 2:4",
+          "end_ref": "37002004",
+          "end_ref_usfm": "HAG 2:4"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002021",
+          "end_ref_usfm": "HAG 2:21"
+        },
+        {
+          "start_ref": "37002023",
+          "start_ref_usfm": "HAG 2:23",
+          "end_ref": "37002023",
+          "end_ref_usfm": "HAG 2:23"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "40001013",
+          "start_ref_usfm": "MAT 1:13",
+          "end_ref": "40001013",
+          "end_ref_usfm": "MAT 1:13"
+        },
+        {
+          "start_ref": "42003027",
+          "start_ref_usfm": "LUK 3:27",
+          "end_ref": "42003027",
+          "end_ref_usfm": "LUK 3:27"
+        },
+        {
+          "start_ref": "15003008",
+          "start_ref_usfm": "EZR 3:8",
+          "end_ref": "15003009",
+          "end_ref_usfm": "EZR 3:9"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002002",
+          "end_ref_usfm": "EZR 2:2"
+        },
+        {
+          "start_ref": "13003019",
+          "start_ref_usfm": "1CH 3:19",
+          "end_ref": "13003021",
+          "end_ref_usfm": "1CH 3:21"
+        },
+        {
+          "start_ref": "42003027",
+          "start_ref_usfm": "LUK 3:27",
+          "end_ref": "42003029",
+          "end_ref_usfm": "LUK 3:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 26432,
+          "label": "Captive",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25639,
+          "content_id": 26497,
+          "label": "Cyrus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 26582,
+          "label": "Ezra",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 26694,
+          "label": "High Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 26748,
+          "label": "Jehoiakim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 26778,
+          "label": "Joshua",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 26907,
+          "label": "Nehemiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 26949,
+          "label": "Persia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26371,
+          "content_id": 27229,
+          "label": "Zedekiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

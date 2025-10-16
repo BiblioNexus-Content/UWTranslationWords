@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466682,
+    "reference_id": 25504,
+    "title": "Barabbas",
+    "media_type": "Text",
+    "index_reference": "barabbas",
+    "language": "fra",
+    "content": "<h1>Barabbas</h1><h2>Définition :</h2><p>Barabbas était un prisonnier à Jérusalem au moment où Jésus a été arrêté.</p><ul><li><p>Barabbas était un criminel qui avait commis des crimes d&apos;assassinat et de rébellion contre le gouvernement romain.</p></li><li><p>Lorsque Ponce Pilate a offert de libérer soit Barabbas ou Jésus, les gens ont choisi Barabbas.</p></li><li><p>Alors Pilate permis que Barabbas puisse aller libre, mais a condamné Jésus pour être tué.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/pilate.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027016",
+          "start_ref_usfm": "MAT 27:16",
+          "end_ref": "40027016",
+          "end_ref_usfm": "MAT 27:16"
+        },
+        {
+          "start_ref": "40027017",
+          "start_ref_usfm": "MAT 27:17",
+          "end_ref": "40027017",
+          "end_ref_usfm": "MAT 27:17"
+        },
+        {
+          "start_ref": "40027020",
+          "start_ref_usfm": "MAT 27:20",
+          "end_ref": "40027020",
+          "end_ref_usfm": "MAT 27:20"
+        },
+        {
+          "start_ref": "40027021",
+          "start_ref_usfm": "MAT 27:21",
+          "end_ref": "40027021",
+          "end_ref_usfm": "MAT 27:21"
+        },
+        {
+          "start_ref": "40027026",
+          "start_ref_usfm": "MAT 27:26",
+          "end_ref": "40027026",
+          "end_ref_usfm": "MAT 27:26"
+        },
+        {
+          "start_ref": "41015007",
+          "start_ref_usfm": "MRK 15:7",
+          "end_ref": "41015007",
+          "end_ref_usfm": "MRK 15:7"
+        },
+        {
+          "start_ref": "41015011",
+          "start_ref_usfm": "MRK 15:11",
+          "end_ref": "41015011",
+          "end_ref_usfm": "MRK 15:11"
+        },
+        {
+          "start_ref": "41015015",
+          "start_ref_usfm": "MRK 15:15",
+          "end_ref": "41015015",
+          "end_ref_usfm": "MRK 15:15"
+        },
+        {
+          "start_ref": "42023018",
+          "start_ref_usfm": "LUK 23:18",
+          "end_ref": "42023018",
+          "end_ref_usfm": "LUK 23:18"
+        },
+        {
+          "start_ref": "42023019",
+          "start_ref_usfm": "LUK 23:19",
+          "end_ref": "42023019",
+          "end_ref_usfm": "LUK 23:19"
+        },
+        {
+          "start_ref": "43018040",
+          "start_ref_usfm": "JHN 18:40",
+          "end_ref": "43018040",
+          "end_ref_usfm": "JHN 18:40"
+        },
+        {
+          "start_ref": "40027015",
+          "start_ref_usfm": "MAT 27:15",
+          "end_ref": "40027016",
+          "end_ref_usfm": "MAT 27:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26104,
+          "content_id": 467228,
+          "label": "Pilate",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

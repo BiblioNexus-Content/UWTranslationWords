@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467154,
+    "reference_id": 26017,
+    "title": "Michel",
+    "media_type": "Text",
+    "index_reference": "michel",
+    "language": "fra",
+    "content": "<h1>Michel</h1><h2>Définition :</h2><p>&quot;Michel est le chef des saints anges obéissants de Dieu tout entier* Il est le seul ange qui est spécifiquement désigné comme le «archange» de Dieu.</p><ul><li><p>Le terme «archange» signifie littéralement «ange en chef» ou «ange au pouvoir*&quot;</p></li><li><p>Michel a conduit Israël contre les Perses; il dirigera les armées d&apos;Israël dans la bataille finale contre les forces du mal comme prédit dans Daniel.</p></li><li><p>Il est aussi parfois décrit comme un intercesseur pour le peuple devant Dieu.</p></li><li><p>Il y a aussi plusieurs hommes dans la Bible avec ce nom.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/angel.md), (../names/daniel.md), (../other/messenger.md), (../names/persia.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15008008",
+          "start_ref_usfm": "EZR 8:8",
+          "end_ref": "15008008",
+          "end_ref_usfm": "EZR 8:8"
+        },
+        {
+          "start_ref": "27010013",
+          "start_ref_usfm": "DAN 10:13",
+          "end_ref": "27010013",
+          "end_ref_usfm": "DAN 10:13"
+        },
+        {
+          "start_ref": "27010021",
+          "start_ref_usfm": "DAN 10:21",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012007",
+          "end_ref_usfm": "REV 12:7"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012009",
+          "end_ref_usfm": "REV 12:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 466639,
+          "label": "Ange",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26015,
+          "content_id": 467152,
+          "label": "Messager",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

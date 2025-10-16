@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 237841,
+    "reference_id": 25708,
+    "title": "Efraim",
+    "media_type": "Text",
+    "index_reference": "efraim",
+    "language": "por",
+    "content": "<h1>Efraim, efraimita</h1><h2>Fatos:</h2><p>Efraim era o filho mais novo de José. Seus descendentes, os efraimitas, formaram uma das tribos de Israel.</p><ul><li><p>O nome Efraim soa como a palavra hebraica que significa “tornar frutífero.”</p></li><li><p>A tribo de Efraim era uma das dez tribos localizadas na parte norte de Israel.</p></li><li><p>Às vezes, o nome Efraim é usado na Bíblia para se referir a todo o reino do norte de Israel (semelhante a como o nome Judá é às vezes usado para se referir a todo o reino do sul de Israel).</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">José</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manassés</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:66-1Chr6:69\">1 Crônicas 6.66–69</a></p></li><li><p><a href=\"https://ref.ly/2Chr13:4-2Chr13:5\">2 Crônicas 13.4–5</a></p></li><li><p><a href=\"https://ref.ly/Ezek37:16\">Ezequiel 37.16</a></p></li><li><p><a href=\"https://ref.ly/Gen41:52\">Gênesis 41.52</a></p></li><li><p><a href=\"https://ref.ly/Gen48:1-Gen48:2\">Gênesis 48.1–2</a></p></li><li><p><a href=\"https://ref.ly/John11:54\">João 11.54</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0669, H0673, G21870</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041052",
+          "start_ref_usfm": "GEN 41:52",
+          "end_ref": "01041052",
+          "end_ref_usfm": "GEN 41:52"
+        },
+        {
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048001",
+          "end_ref_usfm": "GEN 48:1"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01048013",
+          "start_ref_usfm": "GEN 48:13",
+          "end_ref": "01048013",
+          "end_ref_usfm": "GEN 48:13"
+        },
+        {
+          "start_ref": "01048014",
+          "start_ref_usfm": "GEN 48:14",
+          "end_ref": "01048014",
+          "end_ref_usfm": "GEN 48:14"
+        },
+        {
+          "start_ref": "01048017",
+          "start_ref_usfm": "GEN 48:17",
+          "end_ref": "01048017",
+          "end_ref_usfm": "GEN 48:17"
+        },
+        {
+          "start_ref": "01048020",
+          "start_ref_usfm": "GEN 48:20",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "01050023",
+          "start_ref_usfm": "GEN 50:23",
+          "end_ref": "01050023",
+          "end_ref_usfm": "GEN 50:23"
+        },
+        {
+          "start_ref": "16008016",
+          "start_ref_usfm": "NEH 8:16",
+          "end_ref": "16008016",
+          "end_ref_usfm": "NEH 8:16"
+        },
+        {
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
+        },
+        {
+          "start_ref": "26037016",
+          "start_ref_usfm": "EZK 37:16",
+          "end_ref": "26037016",
+          "end_ref_usfm": "EZK 37:16"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "43011054",
+          "start_ref_usfm": "JHN 11:54",
+          "end_ref": "43011054",
+          "end_ref_usfm": "JHN 11:54"
+        },
+        {
+          "start_ref": "13006066",
+          "start_ref_usfm": "1CH 6:66",
+          "end_ref": "13006069",
+          "end_ref_usfm": "1CH 6:69"
+        },
+        {
+          "start_ref": "14013004",
+          "start_ref_usfm": "2CH 13:4",
+          "end_ref": "14013005",
+          "end_ref_usfm": "2CH 13:5"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048002",
+          "end_ref_usfm": "GEN 48:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 238052,
+          "label": "José AT",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 238123,
+          "label": "Manassés",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

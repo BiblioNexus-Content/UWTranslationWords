@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466634,
+    "reference_id": 25453,
+    "title": "Amnon",
+    "media_type": "Text",
+    "index_reference": "amnon",
+    "language": "fra",
+    "content": "<h1>Amnon</h1><h2>Définition :</h2><p>Amnon était l&apos;un des fils ainés du roi David et de sa femme Achinoam.</p><ul><li><p>Amnon avait violé sa demi-soeur.</p></li><li><p>A cause de cela, Absalom complota contre Amnon et le fit tuer.</p></li></ul><p>(Voir aussi : (../names/david.md), (../names/absalom.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10013002",
+          "start_ref_usfm": "2SA 13:2",
+          "end_ref": "10013002",
+          "end_ref_usfm": "2SA 13:2"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003003",
+          "end_ref_usfm": "1CH 3:3"
+        },
+        {
+          "start_ref": "10013007",
+          "start_ref_usfm": "2SA 13:7",
+          "end_ref": "10013009",
+          "end_ref_usfm": "2SA 13:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

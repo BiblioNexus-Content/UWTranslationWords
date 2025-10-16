@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238025,
+    "reference_id": 25892,
+    "title": "Josafá",
+    "media_type": "Text",
+    "index_reference": "josafá",
+    "language": "por",
+    "content": "<h1>Josafá</h1><h2>Fatos:</h2><p>Josafá foi o nome de pelo menos dois homens no Antigo Testamento.</p><ul><li><p>O homem mais conhecido por este nome foi o rei Josafá, que foi o quarto rei a governar o reino de Judá.</p></li><li><p>Ele restaurou a paz entre Judá e Israel e destruiu os altares dos falsos deuses.</p></li><li><p>Outro Josafá foi um “escriba” para Davi e Salomão. Seu trabalho incluía escrever documentos para o rei assinar e registrar a história dos eventos importantes que aconteceram no reino.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">altar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Crônicas 3.10–12</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:17\">1 Reis 4.17</a></p></li><li><p><a href=\"https://ref.ly/2Chr17:1\">2 Crônicas 17.1</a></p></li><li><p><a href=\"https://ref.ly/2Kgs1:17\">2 Reis 1.17</a></p></li><li><p><a href=\"https://ref.ly/2Sam8:15-2Sam8:18\">2 Samuel 8.15–18</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7-Matt1:8\">Mateus 1.7–8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3092, G24980</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004017",
+          "start_ref_usfm": "1KI 4:17",
+          "end_ref": "11004017",
+          "end_ref_usfm": "1KI 4:17"
+        },
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14017001",
+          "end_ref_usfm": "2CH 17:1"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "10008015",
+          "start_ref_usfm": "2SA 8:15",
+          "end_ref": "10008018",
+          "end_ref_usfm": "2SA 8:18"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 237585,
+          "label": "Altar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 238012,
+          "label": "Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

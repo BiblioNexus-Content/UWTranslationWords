@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180027,
+    "reference_id": 25962,
+    "title": "ज्योतिषी",
+    "media_type": "Text",
+    "index_reference": "ज्योतिषी",
+    "language": "hin",
+    "content": "<h1>ज्योतिषी, भावी बतानेवालों</h1><h2>परिभाषा:</h2><p>मत्ती रचित सुसमाचार में मसीह के जन्म के वृत्तान्त में ज्योतिष “ज्ञानी” या &quot;शिक्षित&quot; पुरुष थे, जो यीशु के जन्म के कुछ समय बाद, उसके लिए भेंट लेकर बैतलहम आए थे। * वे संभवतः भावी बतानेवालें थे जो सितारों का अध्ययन करते थे।</p><ul><li><p>वे इस्राएल के पूर्व में एक दूरस्थ देश से आये थे। वे कौन थे और कहां से आये थे अज्ञात है। परन्तु वे स्पष्ट रूप से विद्वान थे जिन्होंने सितारों का अध्ययन किया था।</p></li><li><p>संभव है कि वे दानिय्येल के युग में बेबीलोन के राजाओं के ज्ञानियों के वंशज थे जो अनेक विषयों में प्रशिक्षित थे जैसे सितारों का ज्ञान एवं स्वप्नों का अर्थ बताना।</p></li><li><p>परम्परा के अनुसार तीन ज्ञानी आए थे क्योंकि उन्होंने यीशु को तीन भेंट चढ़ाई थी। परन्तु बाइबल में उनकी संख्या व्यक्त नहीं है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">बैतलहम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan2:27-Dan2:28\">दानिय्येल 02:27–28</a></p></li><li><p><a href=\"https://ref.ly/Dan5:7\">दानिय्येल 05:7</a></p></li><li><p><a href=\"https://ref.ly/Matt2:1-Matt2:3\">मत्ती 02:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt2:7-Matt2:8\">मत्ती 02:7–8</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">मत्ती 02:16</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1505, G3097</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002027",
+          "start_ref_usfm": "DAN 2:27",
+          "end_ref": "27002027",
+          "end_ref_usfm": "DAN 2:27"
+        },
+        {
+          "start_ref": "27005007",
+          "start_ref_usfm": "DAN 5:7",
+          "end_ref": "27005007",
+          "end_ref_usfm": "DAN 5:7"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 179613,
+          "label": "बैतलहम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

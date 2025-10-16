@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466631,
+    "reference_id": 25450,
+    "title": "Amatsia",
+    "media_type": "Text",
+    "index_reference": "amatsia",
+    "language": "fra",
+    "content": "<h1>Amatsia</h1><h2>Définition :</h2><p>Amatsia devint roi sur le royaume de Juda lorsque son père Joas fut assassiné.</p><ul><li><p>Le roi Amatsia régna sur Juda pendant vingt-neuf ans, de 796 à 767 Avant Jésus-Christ.</p></li><li><p>Il était un bon roi mais il n&apos;avait pas détruit les hauts lieux où le peuple adorait des idoles.</p></li><li><p>Amatsia fit mourir tous ceux qui étaient responsables de la mort de son père.</p></li><li><p>Il battit les Edomites et les amena sous la domination du royame de Juda.</p></li><li><p>Il confronta Joas, roi d&apos;Israël , dans une bataille qu&apos;il perdit* Une partie de la muraille de Jérusalem fut brisée et l&apos;or et l&apos;argent avec les vases en or du temple furent emportés.</p></li><li><p>Des années plus tard le roi Amatsia se détourna de l&apos;Eternel et certains hommes de Jérusalem complotèrent contre lui et le tuèrent.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/joash.md), (../names/edom.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12014010",
+          "start_ref_usfm": "2KI 14:10",
+          "end_ref": "12014010",
+          "end_ref_usfm": "2KI 14:10"
+        },
+        {
+          "start_ref": "13004034",
+          "start_ref_usfm": "1CH 4:34",
+          "end_ref": "13004034",
+          "end_ref_usfm": "1CH 4:34"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14025009",
+          "start_ref_usfm": "2CH 25:9",
+          "end_ref": "14025010",
+          "end_ref_usfm": "2CH 25:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25689,
+          "content_id": 466849,
+          "label": "Edom ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 467052,
+          "label": "Joas",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

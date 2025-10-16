@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26841,
+    "reference_id": 25983,
+    "title": "Lute",
+    "media_type": "Text",
+    "index_reference": "lute",
+    "language": "eng",
+    "content": "<h1>lute, lyre</h1><h2>Definition:</h2><p>A lute and a lyre are small, stringed, musical instruments that were used by the Israelites to worship God.</p><ul><li><p>A lyre looks like a small harp, having strings strung across an open frame.</p></li><li><p>A lute is very similar to a modernday acoustic guitar, having a wooden sound box and an extended neck on which strings are strung.</p></li><li><p>In playing a lute or a lyre, certain strings are held down with the fingers of one hand while these and other strings are plucked or strummed with the other hand.</p></li><li><p>The lute, lyre, and harp are all played by strumming or plucking the strings.</p></li><li><p>The number of strings varied, but the Old Testament specifically mentions instruments that had ten strings.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25822\" data-resourceType=\"UWTranslationWords\">harp</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:11-1Kgs10:12\">1 Kings 10:11–12</a></p></li><li><p><a href=\"https://ref.ly/1Sam10:5-1Sam10:6\">1 Samuel 10:5–6</a></p></li><li><p><a href=\"https://ref.ly/2Chr5:11-2Chr5:12\">2 Chronicles 5:11–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3658, H5035, H5443</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "01031027",
+          "start_ref_usfm": "GEN 31:27",
+          "end_ref": "01031027",
+          "end_ref_usfm": "GEN 31:27"
+        },
+        {
+          "start_ref": "11010011",
+          "start_ref_usfm": "1KI 10:11",
+          "end_ref": "11010012",
+          "end_ref_usfm": "1KI 10:12"
+        },
+        {
+          "start_ref": "09010005",
+          "start_ref_usfm": "1SA 10:5",
+          "end_ref": "09010006",
+          "end_ref_usfm": "1SA 10:6"
+        },
+        {
+          "start_ref": "14005011",
+          "start_ref_usfm": "2CH 5:11",
+          "end_ref": "14005012",
+          "end_ref_usfm": "2CH 5:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25822,
+          "content_id": 26680,
+          "label": "Harp",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

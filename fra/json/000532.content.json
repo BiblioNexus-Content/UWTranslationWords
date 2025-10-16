@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467121,
+    "reference_id": 25981,
+    "title": "Luc",
+    "media_type": "Text",
+    "index_reference": "luc",
+    "language": "fra",
+    "content": "<h1>Luc</h1><h2>Définition :</h2><p>&quot;Luc était l&apos;auteur de deux livres du Nouveau Testament: l&apos;évangile de Luc et le livre des Actes.</p><ul><li><p>Dans sa lettre aux Colossiens, Paul se réfère à Luc en tant que médecin* Paul mentionne également Luc dans deux autres de ses lettres.</p></li><li><p>Luc a accompagné Paul dans deux de ses voyages missionnaires et l&apos;a aidé dans son travail.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/antioch.md), (../names/paul.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51004014",
+          "start_ref_usfm": "COL 4:14",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "51004012",
+          "start_ref_usfm": "COL 4:12",
+          "end_ref": "51004014",
+          "end_ref_usfm": "COL 4:14"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25464,
+          "content_id": 466644,
+          "label": "Antioche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 179595,
+    "reference_id": 25507,
+    "title": "उजाड़",
+    "media_type": "Text",
+    "index_reference": "उजाड़",
+    "language": "hin",
+    "content": "<h1>उजाड़, सूखा</h1><h2>परिभाषा:</h2><p>“उजाड़” अर्थात अनुपजाऊ या निष्फल।</p><ul><li><p>बंजर भूमि में पेड़ पौधे नहीं उगते हैं।</p></li><li><p>स्त्री जो सन्तान उत्पन्न नहीं कर पाती है उसे बांझ कहते हैं।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>भूमि के संदर्भ में कहा जा सकता है, “अनुपजाऊ” या “निष्फल” या “पेड़-पौधों से रहित”</p></li><li><p>स्त्री के संबन्ध में कहा जा सकता है, “निःसन्तान” या “संतान उत्पत्ति में अक्षम”।</p></li></ul><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 02:5</a></p></li><li><p><a href=\"https://ref.ly/Gal4:26-Gal4:27\">गलातियों 04:26–27</a></p></li><li><p><a href=\"https://ref.ly/Gen11:29-Gen11:30\">उत्पत्ति 11:29–30</a></p></li><li><p><a href=\"https://ref.ly/Job3:6-Job3:7\">अय्यूब 03:6–7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H4420, H6115, H6135, H6723, H7921, G06920, G47230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011030",
+          "start_ref_usfm": "GEN 11:30",
+          "end_ref": "01011030",
+          "end_ref_usfm": "GEN 11:30"
+        },
+        {
+          "start_ref": "01025021",
+          "start_ref_usfm": "GEN 25:21",
+          "end_ref": "01025021",
+          "end_ref_usfm": "GEN 25:21"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "02023026",
+          "start_ref_usfm": "EXO 23:26",
+          "end_ref": "02023026",
+          "end_ref_usfm": "EXO 23:26"
+        },
+        {
+          "start_ref": "09002005",
+          "start_ref_usfm": "1SA 2:5",
+          "end_ref": "09002005",
+          "end_ref_usfm": "1SA 2:5"
+        },
+        {
+          "start_ref": "18003007",
+          "start_ref_usfm": "JOB 3:7",
+          "end_ref": "18003007",
+          "end_ref_usfm": "JOB 3:7"
+        },
+        {
+          "start_ref": "18024019",
+          "start_ref_usfm": "JOB 24:19",
+          "end_ref": "18024019",
+          "end_ref_usfm": "JOB 24:19"
+        },
+        {
+          "start_ref": "18030003",
+          "start_ref_usfm": "JOB 30:3",
+          "end_ref": "18030003",
+          "end_ref_usfm": "JOB 30:3"
+        },
+        {
+          "start_ref": "20030016",
+          "start_ref_usfm": "PRO 30:16",
+          "end_ref": "20030016",
+          "end_ref_usfm": "PRO 30:16"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "42001007",
+          "start_ref_usfm": "LUK 1:7",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
+        },
+        {
+          "start_ref": "42023029",
+          "start_ref_usfm": "LUK 23:29",
+          "end_ref": "42023029",
+          "end_ref_usfm": "LUK 23:29"
+        },
+        {
+          "start_ref": "48004027",
+          "start_ref_usfm": "GAL 4:27",
+          "end_ref": "48004027",
+          "end_ref_usfm": "GAL 4:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

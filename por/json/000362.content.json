@@ -1,0 +1,166 @@
+[
+  {
+    "content_id": 237873,
+    "reference_id": 25740,
+    "title": "Figo",
+    "media_type": "Text",
+    "index_reference": "figo",
+    "language": "por",
+    "content": "<h1>figo</h1><h2>Definição:</h2><p>Um figo é uma fruta pequena, macia e doce que cresce em árvores. Quando madura, essa fruta pode ter uma variedade de cores, incluindo marrom, amarelo ou roxo.</p><ul><li><p>As figueiras podem crescer até 6 metros de altura e suas grandes folhas proporcionam uma sombra agradável. A fruta tem cerca de 3–5 centímetros de comprimento.</p></li><li><p>Adão e Eva usaram as folhas das figueiras para fazer roupas para si mesmos depois de terem pecado.</p></li><li><p>Os figos podem ser comidos crus, cozidos ou secos. As pessoas também os picam em pequenos pedaços e os amassam para formar bolos para comer mais tarde.</p></li><li><p>Nos tempos bíblicos, os figos eram importantes como fonte de alimento e renda.</p></li><li><p>A presença de figueiras frutíferas é frequentemente mencionada na Bíblia como um sinal de prosperidade.</p></li><li><p>Várias vezes Jesus usou as figueiras como uma ilustração para ensinar verdades espirituais aos seus discípulos.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Hab3:17\">Habacuque 3.17</a></p></li><li><p><a href=\"https://ref.ly/Jas3:12\">Tiago 3.12</a></p></li><li><p><a href=\"https://ref.ly/Luke13:7\">Lucas 13.7</a></p></li><li><p><a href=\"https://ref.ly/Mark11:14\">Marcos 11.14</a></p></li><li><p><a href=\"https://ref.ly/Matt7:17\">Mateus 7.17</a></p></li><li><p><a href=\"https://ref.ly/Matt21:18\">Mateus 21.18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1061, H1690, H6291, H8384, G36530, G48080, G48100</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003007",
+          "start_ref_usfm": "GEN 3:7",
+          "end_ref": "01003007",
+          "end_ref_usfm": "GEN 3:7"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "20027018",
+          "start_ref_usfm": "PRO 27:18",
+          "end_ref": "20027018",
+          "end_ref_usfm": "PRO 27:18"
+        },
+        {
+          "start_ref": "35003017",
+          "start_ref_usfm": "HAB 3:17",
+          "end_ref": "35003017",
+          "end_ref_usfm": "HAB 3:17"
+        },
+        {
+          "start_ref": "37002019",
+          "start_ref_usfm": "HAG 2:19",
+          "end_ref": "37002019",
+          "end_ref_usfm": "HAG 2:19"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40007017",
+          "start_ref_usfm": "MAT 7:17",
+          "end_ref": "40007017",
+          "end_ref_usfm": "MAT 7:17"
+        },
+        {
+          "start_ref": "40021018",
+          "start_ref_usfm": "MAT 21:18",
+          "end_ref": "40021018",
+          "end_ref_usfm": "MAT 21:18"
+        },
+        {
+          "start_ref": "40021019",
+          "start_ref_usfm": "MAT 21:19",
+          "end_ref": "40021019",
+          "end_ref_usfm": "MAT 21:19"
+        },
+        {
+          "start_ref": "40021020",
+          "start_ref_usfm": "MAT 21:20",
+          "end_ref": "40021020",
+          "end_ref_usfm": "MAT 21:20"
+        },
+        {
+          "start_ref": "40021021",
+          "start_ref_usfm": "MAT 21:21",
+          "end_ref": "40021021",
+          "end_ref_usfm": "MAT 21:21"
+        },
+        {
+          "start_ref": "40024032",
+          "start_ref_usfm": "MAT 24:32",
+          "end_ref": "40024032",
+          "end_ref_usfm": "MAT 24:32"
+        },
+        {
+          "start_ref": "41011013",
+          "start_ref_usfm": "MRK 11:13",
+          "end_ref": "41011013",
+          "end_ref_usfm": "MRK 11:13"
+        },
+        {
+          "start_ref": "41011014",
+          "start_ref_usfm": "MRK 11:14",
+          "end_ref": "41011014",
+          "end_ref_usfm": "MRK 11:14"
+        },
+        {
+          "start_ref": "41011020",
+          "start_ref_usfm": "MRK 11:20",
+          "end_ref": "41011020",
+          "end_ref_usfm": "MRK 11:20"
+        },
+        {
+          "start_ref": "41011021",
+          "start_ref_usfm": "MRK 11:21",
+          "end_ref": "41011021",
+          "end_ref_usfm": "MRK 11:21"
+        },
+        {
+          "start_ref": "41013028",
+          "start_ref_usfm": "MRK 13:28",
+          "end_ref": "41013028",
+          "end_ref_usfm": "MRK 13:28"
+        },
+        {
+          "start_ref": "42006044",
+          "start_ref_usfm": "LUK 6:44",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "42013006",
+          "start_ref_usfm": "LUK 13:6",
+          "end_ref": "42013006",
+          "end_ref_usfm": "LUK 13:6"
+        },
+        {
+          "start_ref": "42013007",
+          "start_ref_usfm": "LUK 13:7",
+          "end_ref": "42013007",
+          "end_ref_usfm": "LUK 13:7"
+        },
+        {
+          "start_ref": "42021029",
+          "start_ref_usfm": "LUK 21:29",
+          "end_ref": "42021029",
+          "end_ref_usfm": "LUK 21:29"
+        },
+        {
+          "start_ref": "43001048",
+          "start_ref_usfm": "JHN 1:48",
+          "end_ref": "43001048",
+          "end_ref_usfm": "JHN 1:48"
+        },
+        {
+          "start_ref": "43001050",
+          "start_ref_usfm": "JHN 1:50",
+          "end_ref": "43001050",
+          "end_ref_usfm": "JHN 1:50"
+        },
+        {
+          "start_ref": "59003012",
+          "start_ref_usfm": "JAS 3:12",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "66006013",
+          "start_ref_usfm": "REV 6:13",
+          "end_ref": "66006013",
+          "end_ref_usfm": "REV 6:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

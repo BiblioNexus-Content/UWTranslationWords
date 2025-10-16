@@ -1,0 +1,251 @@
+[
+  {
+    "content_id": 237983,
+    "reference_id": 25850,
+    "title": "Cavalo",
+    "media_type": "Text",
+    "index_reference": "cavalo",
+    "language": "por",
+    "content": "<h1>cavalo, cavalo de guerra, montado a cavalo</h1><h2>Definição:</h2><p>Um cavalo é um grande animal de quatro patas que nos tempos bíblicos era principalmente usado para guerra e para transportar pessoas.</p><ul><li><p>Alguns cavalos eram usados para puxar carruagens ou carros, enquanto outros eram usados para carregar cavaleiros individuais.</p></li><li><p>Na Bíblia, os cavalos eram considerados posses valiosas e uma medida de riqueza, principalmente por causa de seu uso na guerra. Por exemplo, parte da grande riqueza do Rei Salomão eram os milhares de cavalos e carruagens que ele possuía.</p></li><li><p>Animais que são semelhantes ao cavalo são o burro e a mula.</p></li><li><p>Os cavalos frequentemente usam um freio e uma rédea na cabeça para serem guiados.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25583\" data-resourceType=\"UWTranslationWords\">carruagem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25678\" data-resourceType=\"UWTranslationWords\">burro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr18:4\">1 Crônicas 18.4</a></p></li><li><p><a href=\"https://ref.ly/2Kgs2:11\">2 Reis 2.11</a></p></li><li><p><a href=\"https://ref.ly/Exod14:23-Exod14:25\">Êxodo 14.23–25</a></p></li><li><p><a href=\"https://ref.ly/Ezek23:5-Ezek23:7\">Ezequiel 23.5–7</a></p></li><li><p><a href=\"https://ref.ly/Zech6:8\">Zacarias 6.8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0047, H5483, H5484, H6571, H7409, G24620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041043",
+          "start_ref_usfm": "GEN 41:43",
+          "end_ref": "01041043",
+          "end_ref_usfm": "GEN 41:43"
+        },
+        {
+          "start_ref": "01047017",
+          "start_ref_usfm": "GEN 47:17",
+          "end_ref": "01047017",
+          "end_ref_usfm": "GEN 47:17"
+        },
+        {
+          "start_ref": "01049017",
+          "start_ref_usfm": "GEN 49:17",
+          "end_ref": "01049017",
+          "end_ref_usfm": "GEN 49:17"
+        },
+        {
+          "start_ref": "02009003",
+          "start_ref_usfm": "EXO 9:3",
+          "end_ref": "02009003",
+          "end_ref_usfm": "EXO 9:3"
+        },
+        {
+          "start_ref": "02014009",
+          "start_ref_usfm": "EXO 14:9",
+          "end_ref": "02014009",
+          "end_ref_usfm": "EXO 14:9"
+        },
+        {
+          "start_ref": "02014023",
+          "start_ref_usfm": "EXO 14:23",
+          "end_ref": "02014023",
+          "end_ref_usfm": "EXO 14:23"
+        },
+        {
+          "start_ref": "02015001",
+          "start_ref_usfm": "EXO 15:1",
+          "end_ref": "02015001",
+          "end_ref_usfm": "EXO 15:1"
+        },
+        {
+          "start_ref": "02015019",
+          "start_ref_usfm": "EXO 15:19",
+          "end_ref": "02015019",
+          "end_ref_usfm": "EXO 15:19"
+        },
+        {
+          "start_ref": "02015021",
+          "start_ref_usfm": "EXO 15:21",
+          "end_ref": "02015021",
+          "end_ref_usfm": "EXO 15:21"
+        },
+        {
+          "start_ref": "12002011",
+          "start_ref_usfm": "2KI 2:11",
+          "end_ref": "12002011",
+          "end_ref_usfm": "2KI 2:11"
+        },
+        {
+          "start_ref": "13018004",
+          "start_ref_usfm": "1CH 18:4",
+          "end_ref": "13018004",
+          "end_ref_usfm": "1CH 18:4"
+        },
+        {
+          "start_ref": "15002066",
+          "start_ref_usfm": "EZR 2:66",
+          "end_ref": "15002066",
+          "end_ref_usfm": "EZR 2:66"
+        },
+        {
+          "start_ref": "16003028",
+          "start_ref_usfm": "NEH 3:28",
+          "end_ref": "16003028",
+          "end_ref_usfm": "NEH 3:28"
+        },
+        {
+          "start_ref": "16007068",
+          "start_ref_usfm": "NEH 7:68",
+          "end_ref": "16007068",
+          "end_ref_usfm": "NEH 7:68"
+        },
+        {
+          "start_ref": "20021031",
+          "start_ref_usfm": "PRO 21:31",
+          "end_ref": "20021031",
+          "end_ref_usfm": "PRO 21:31"
+        },
+        {
+          "start_ref": "20026003",
+          "start_ref_usfm": "PRO 26:3",
+          "end_ref": "20026003",
+          "end_ref_usfm": "PRO 26:3"
+        },
+        {
+          "start_ref": "37002022",
+          "start_ref_usfm": "HAG 2:22",
+          "end_ref": "37002022",
+          "end_ref_usfm": "HAG 2:22"
+        },
+        {
+          "start_ref": "38006008",
+          "start_ref_usfm": "ZEC 6:8",
+          "end_ref": "38006008",
+          "end_ref_usfm": "ZEC 6:8"
+        },
+        {
+          "start_ref": "59003003",
+          "start_ref_usfm": "JAS 3:3",
+          "end_ref": "59003003",
+          "end_ref_usfm": "JAS 3:3"
+        },
+        {
+          "start_ref": "66006002",
+          "start_ref_usfm": "REV 6:2",
+          "end_ref": "66006002",
+          "end_ref_usfm": "REV 6:2"
+        },
+        {
+          "start_ref": "66006004",
+          "start_ref_usfm": "REV 6:4",
+          "end_ref": "66006004",
+          "end_ref_usfm": "REV 6:4"
+        },
+        {
+          "start_ref": "66006005",
+          "start_ref_usfm": "REV 6:5",
+          "end_ref": "66006005",
+          "end_ref_usfm": "REV 6:5"
+        },
+        {
+          "start_ref": "66006008",
+          "start_ref_usfm": "REV 6:8",
+          "end_ref": "66006008",
+          "end_ref_usfm": "REV 6:8"
+        },
+        {
+          "start_ref": "66009007",
+          "start_ref_usfm": "REV 9:7",
+          "end_ref": "66009007",
+          "end_ref_usfm": "REV 9:7"
+        },
+        {
+          "start_ref": "66009009",
+          "start_ref_usfm": "REV 9:9",
+          "end_ref": "66009009",
+          "end_ref_usfm": "REV 9:9"
+        },
+        {
+          "start_ref": "66009017",
+          "start_ref_usfm": "REV 9:17",
+          "end_ref": "66009017",
+          "end_ref_usfm": "REV 9:17"
+        },
+        {
+          "start_ref": "66009019",
+          "start_ref_usfm": "REV 9:19",
+          "end_ref": "66009019",
+          "end_ref_usfm": "REV 9:19"
+        },
+        {
+          "start_ref": "66014020",
+          "start_ref_usfm": "REV 14:20",
+          "end_ref": "66014020",
+          "end_ref_usfm": "REV 14:20"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "66019011",
+          "start_ref_usfm": "REV 19:11",
+          "end_ref": "66019011",
+          "end_ref_usfm": "REV 19:11"
+        },
+        {
+          "start_ref": "66019014",
+          "start_ref_usfm": "REV 19:14",
+          "end_ref": "66019014",
+          "end_ref_usfm": "REV 19:14"
+        },
+        {
+          "start_ref": "66019018",
+          "start_ref_usfm": "REV 19:18",
+          "end_ref": "66019018",
+          "end_ref_usfm": "REV 19:18"
+        },
+        {
+          "start_ref": "66019019",
+          "start_ref_usfm": "REV 19:19",
+          "end_ref": "66019019",
+          "end_ref_usfm": "REV 19:19"
+        },
+        {
+          "start_ref": "66019021",
+          "start_ref_usfm": "REV 19:21",
+          "end_ref": "66019021",
+          "end_ref_usfm": "REV 19:21"
+        },
+        {
+          "start_ref": "02014023",
+          "start_ref_usfm": "EXO 14:23",
+          "end_ref": "02014025",
+          "end_ref_usfm": "EXO 14:25"
+        },
+        {
+          "start_ref": "26023005",
+          "start_ref_usfm": "EZK 23:5",
+          "end_ref": "26023007",
+          "end_ref_usfm": "EZK 23:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25583,
+          "content_id": 237718,
+          "label": "Carruagem",
+          "language": "por"
+        },
+        {
+          "reference_id": 25678,
+          "content_id": 237811,
+          "label": "Burro",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

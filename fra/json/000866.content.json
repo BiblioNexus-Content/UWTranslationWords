@@ -1,0 +1,233 @@
+[
+  {
+    "content_id": 467434,
+    "reference_id": 26321,
+    "title": "Trompette",
+    "media_type": "Text",
+    "index_reference": "trompette",
+    "language": "fra",
+    "content": "<h1>trompette</h1><h2>Définition :</h2><p>Le terme «trompette» fait référence à un instrument pour produire de la musique ou pour appeler les gens à se réunir pour une annonce ou une réunion.</p><ul><li><p>Une trompette était couramment faite soit en métal, ou avec une coquille de mer, ou avec une corne d&apos;animal.</p></li><li><p>Les trompettes étaient le plus souvent soufflées pour appeler les gens à se rassembler pour le combat, et pour les assemblées publiques d&apos;Israël.</p></li><li><p>Le livre de l&apos;Apocalypse décrit une scène à la fin des temps où les anges soufflent dans leurs trompettes pour signaler l&apos;effusion de la colère de Dieu sur la terre.</p></li></ul><p>(Voir aussi : (../kt/angel.md), (../other/assembly.md), (../other/earth.md), (../other/horn.md), (../kt/israel.md), (../kt/wrath.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12009013",
+          "start_ref_usfm": "2KI 9:13",
+          "end_ref": "12009013",
+          "end_ref_usfm": "2KI 9:13"
+        },
+        {
+          "start_ref": "15003010",
+          "start_ref_usfm": "EZR 3:10",
+          "end_ref": "15003010",
+          "end_ref_usfm": "EZR 3:10"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "18039024",
+          "start_ref_usfm": "JOB 39:24",
+          "end_ref": "18039024",
+          "end_ref_usfm": "JOB 39:24"
+        },
+        {
+          "start_ref": "18039025",
+          "start_ref_usfm": "JOB 39:25",
+          "end_ref": "18039025",
+          "end_ref_usfm": "JOB 39:25"
+        },
+        {
+          "start_ref": "36001016",
+          "start_ref_usfm": "ZEP 1:16",
+          "end_ref": "36001016",
+          "end_ref_usfm": "ZEP 1:16"
+        },
+        {
+          "start_ref": "40006002",
+          "start_ref_usfm": "MAT 6:2",
+          "end_ref": "40006002",
+          "end_ref_usfm": "MAT 6:2"
+        },
+        {
+          "start_ref": "40024031",
+          "start_ref_usfm": "MAT 24:31",
+          "end_ref": "40024031",
+          "end_ref_usfm": "MAT 24:31"
+        },
+        {
+          "start_ref": "46014008",
+          "start_ref_usfm": "1CO 14:8",
+          "end_ref": "46014008",
+          "end_ref_usfm": "1CO 14:8"
+        },
+        {
+          "start_ref": "46015052",
+          "start_ref_usfm": "1CO 15:52",
+          "end_ref": "46015052",
+          "end_ref_usfm": "1CO 15:52"
+        },
+        {
+          "start_ref": "52004016",
+          "start_ref_usfm": "1TH 4:16",
+          "end_ref": "52004016",
+          "end_ref_usfm": "1TH 4:16"
+        },
+        {
+          "start_ref": "58012019",
+          "start_ref_usfm": "HEB 12:19",
+          "end_ref": "58012019",
+          "end_ref_usfm": "HEB 12:19"
+        },
+        {
+          "start_ref": "66001010",
+          "start_ref_usfm": "REV 1:10",
+          "end_ref": "66001010",
+          "end_ref_usfm": "REV 1:10"
+        },
+        {
+          "start_ref": "66004001",
+          "start_ref_usfm": "REV 4:1",
+          "end_ref": "66004001",
+          "end_ref_usfm": "REV 4:1"
+        },
+        {
+          "start_ref": "66008002",
+          "start_ref_usfm": "REV 8:2",
+          "end_ref": "66008002",
+          "end_ref_usfm": "REV 8:2"
+        },
+        {
+          "start_ref": "66008006",
+          "start_ref_usfm": "REV 8:6",
+          "end_ref": "66008006",
+          "end_ref_usfm": "REV 8:6"
+        },
+        {
+          "start_ref": "66008007",
+          "start_ref_usfm": "REV 8:7",
+          "end_ref": "66008007",
+          "end_ref_usfm": "REV 8:7"
+        },
+        {
+          "start_ref": "66008008",
+          "start_ref_usfm": "REV 8:8",
+          "end_ref": "66008008",
+          "end_ref_usfm": "REV 8:8"
+        },
+        {
+          "start_ref": "66008010",
+          "start_ref_usfm": "REV 8:10",
+          "end_ref": "66008010",
+          "end_ref_usfm": "REV 8:10"
+        },
+        {
+          "start_ref": "66008012",
+          "start_ref_usfm": "REV 8:12",
+          "end_ref": "66008012",
+          "end_ref_usfm": "REV 8:12"
+        },
+        {
+          "start_ref": "66008013",
+          "start_ref_usfm": "REV 8:13",
+          "end_ref": "66008013",
+          "end_ref_usfm": "REV 8:13"
+        },
+        {
+          "start_ref": "66009001",
+          "start_ref_usfm": "REV 9:1",
+          "end_ref": "66009001",
+          "end_ref_usfm": "REV 9:1"
+        },
+        {
+          "start_ref": "66009013",
+          "start_ref_usfm": "REV 9:13",
+          "end_ref": "66009013",
+          "end_ref_usfm": "REV 9:13"
+        },
+        {
+          "start_ref": "66009014",
+          "start_ref_usfm": "REV 9:14",
+          "end_ref": "66009014",
+          "end_ref_usfm": "REV 9:14"
+        },
+        {
+          "start_ref": "66010007",
+          "start_ref_usfm": "REV 10:7",
+          "end_ref": "66010007",
+          "end_ref_usfm": "REV 10:7"
+        },
+        {
+          "start_ref": "66011015",
+          "start_ref_usfm": "REV 11:15",
+          "end_ref": "66011015",
+          "end_ref_usfm": "REV 11:15"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
+        },
+        {
+          "start_ref": "13013007",
+          "start_ref_usfm": "1CH 13:7",
+          "end_ref": "13013008",
+          "end_ref_usfm": "1CH 13:8"
+        },
+        {
+          "start_ref": "02019012",
+          "start_ref_usfm": "EXO 19:12",
+          "end_ref": "02019013",
+          "end_ref_usfm": "EXO 19:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 466639,
+          "label": "Ange",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25486,
+          "content_id": 466665,
+          "label": "Assemblage",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25687,
+          "content_id": 466847,
+          "label": "Terre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25848,
+          "content_id": 466995,
+          "label": "Corne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26358,
+          "content_id": 467466,
+          "label": "Colère",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

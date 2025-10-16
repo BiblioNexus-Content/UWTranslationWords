@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466798,
+    "reference_id": 25634,
+    "title": "Cush",
+    "media_type": "Text",
+    "index_reference": "cush",
+    "language": "fra",
+    "content": "<h1>Cush</h1><h2>Définition :</h2><p>Cusch était le fils aîné du fils de Noé Cham* Il a également été l&apos;ancêtre de Nimrod* Deux de ses frères ont été nommés Egypte et Canaan.</p><ul><li><p>Dans l&apos;Ancien Testament, &quot;Cusch&quot; était le nom d&apos;une grande région de terre au sud d&apos;Israël* Il est probable que la terre ait été nommée d&apos;après le fils de Cham Cush.</p></li><li><p>L&apos;ancienne région de Cusch couvrait une superficie de terres différentes selon les moments et inclus les partie: du Soudan moderne : l&apos;Egypte, l&apos;Ethiopie, et peut-être, l&apos;Arabie Saoudite.</p></li><li><p>Un autre homme nommé Cusch est mentionné dans les Psaumes* Il était un Benjamite.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/arabia.md), (../names/canaan.md), (../names/egypt.md), (../names/ethiopia.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002013",
+          "start_ref_usfm": "GEN 2:13",
+          "end_ref": "01002013",
+          "end_ref_usfm": "GEN 2:13"
+        },
+        {
+          "start_ref": "01010006",
+          "start_ref_usfm": "GEN 10:6",
+          "end_ref": "01010006",
+          "end_ref_usfm": "GEN 10:6"
+        },
+        {
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "01010008",
+          "start_ref_usfm": "GEN 10:8",
+          "end_ref": "01010008",
+          "end_ref_usfm": "GEN 10:8"
+        },
+        {
+          "start_ref": "24013023",
+          "start_ref_usfm": "JER 13:23",
+          "end_ref": "24013023",
+          "end_ref_usfm": "JER 13:23"
+        },
+        {
+          "start_ref": "26029010",
+          "start_ref_usfm": "EZK 29:10",
+          "end_ref": "26029010",
+          "end_ref_usfm": "EZK 29:10"
+        },
+        {
+          "start_ref": "01010006",
+          "start_ref_usfm": "GEN 10:6",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "13001008",
+          "start_ref_usfm": "1CH 1:8",
+          "end_ref": "13001010",
+          "end_ref_usfm": "1CH 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 466872,
+          "label": "Ethiopie ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

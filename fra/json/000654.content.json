@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467225,
+    "reference_id": 26101,
+    "title": "Phinées",
+    "media_type": "Text",
+    "index_reference": "phinées",
+    "language": "fra",
+    "content": "<h1>Phinées</h1><h2>Définition :</h2><p>Phinées(Pinhas,Phinéas) était le nom de deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un des petits-fils d&apos;Aaron était un prêtre nommé Phinées, qui était fortement opposé au culte des faux dieux en Israël.</p></li><li><p>Phinées a sauvé les Israélites d&apos;un fléau que l&apos;Éternel avait envoyé pour les punir d&apos;avoir épouser des femmes madianites et adorer leurs faux dieux.</p></li><li><p>A plusieurs reprises, Phinées est allé avec l&apos;armée d&apos;Israël pour détruire les Madianites.</p></li><li><p>L&apos; autre Phinées mentionné dans l&apos;Ancien Testament était l&apos;un des mauvais fils d&apos; Eli, le prêtre pendant le temps du prophète Samuel.</p></li><li><p>Phinées et son frère Hophni ont tous deux été tués quand les Philistins ont attaqué Israël et volé l&apos;Arche de l&apos;Alliance.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../kt/arkofthecovenant.md), (../names/jordanriver.md), (../names/midian.md), (../names/philistines.md), (../names/samuel.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02006025",
+          "start_ref_usfm": "EXO 6:25",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "09004004",
+          "start_ref_usfm": "1SA 4:4",
+          "end_ref": "09004004",
+          "end_ref_usfm": "1SA 4:4"
+        },
+        {
+          "start_ref": "15007005",
+          "start_ref_usfm": "EZR 7:5",
+          "end_ref": "15007005",
+          "end_ref_usfm": "EZR 7:5"
+        },
+        {
+          "start_ref": "15008002",
+          "start_ref_usfm": "EZR 8:2",
+          "end_ref": "15008002",
+          "end_ref_usfm": "EZR 8:2"
+        },
+        {
+          "start_ref": "15008033",
+          "start_ref_usfm": "EZR 8:33",
+          "end_ref": "15008033",
+          "end_ref_usfm": "EZR 8:33"
+        },
+        {
+          "start_ref": "06022013",
+          "start_ref_usfm": "JOS 22:13",
+          "end_ref": "06022014",
+          "end_ref_usfm": "JOS 22:14"
+        },
+        {
+          "start_ref": "04025006",
+          "start_ref_usfm": "NUM 25:6",
+          "end_ref": "04025007",
+          "end_ref_usfm": "NUM 25:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 466654,
+          "label": "L'arche de l'alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 467155,
+          "label": "Madian",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 467313,
+          "label": "Samuel",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

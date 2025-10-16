@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 467339,
+    "reference_id": 26223,
+    "title": "Sichem",
+    "media_type": "Text",
+    "index_reference": "sichem",
+    "language": "fra",
+    "content": "<h1>Sichem</h1><h2>Définition :</h2><p>&quot;Sichem est une ville de Canaan située à environ 64kms au nord de Jérusalem* Sichem est aussi le nom d&apos;un homme dans l&apos;Ancien Testament.</p><ul><li><p>Sichem est le lieu où Jacob; après avoir été changé par Dieu s&apos;est réconcilié avec son frère Esaü.</p></li><li><p>Jacob a acheté un terrain avec les fils de Hamor, père de Sichem*Ce terrain devint plus tard un caveau familial et où les fils de Jacob l&apos;enterraient</p></li></ul><p>(Translation suggestions: (../names/hamor.md)</p><p>(Voir aussi : (../names/canaan.md), (../names/esau.md), (../names/hamor.md), (../names/hivite.md), (../names/jacob.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012006",
+          "end_ref_usfm": "GEN 12:6"
+        },
+        {
+          "start_ref": "01033018",
+          "start_ref_usfm": "GEN 33:18",
+          "end_ref": "01033018",
+          "end_ref_usfm": "GEN 33:18"
+        },
+        {
+          "start_ref": "01033019",
+          "start_ref_usfm": "GEN 33:19",
+          "end_ref": "01033019",
+          "end_ref_usfm": "GEN 33:19"
+        },
+        {
+          "start_ref": "01034002",
+          "start_ref_usfm": "GEN 34:2",
+          "end_ref": "01034002",
+          "end_ref_usfm": "GEN 34:2"
+        },
+        {
+          "start_ref": "01034004",
+          "start_ref_usfm": "GEN 34:4",
+          "end_ref": "01034004",
+          "end_ref_usfm": "GEN 34:4"
+        },
+        {
+          "start_ref": "01034006",
+          "start_ref_usfm": "GEN 34:6",
+          "end_ref": "01034006",
+          "end_ref_usfm": "GEN 34:6"
+        },
+        {
+          "start_ref": "01034008",
+          "start_ref_usfm": "GEN 34:8",
+          "end_ref": "01034008",
+          "end_ref_usfm": "GEN 34:8"
+        },
+        {
+          "start_ref": "01034011",
+          "start_ref_usfm": "GEN 34:11",
+          "end_ref": "01034011",
+          "end_ref_usfm": "GEN 34:11"
+        },
+        {
+          "start_ref": "01034013",
+          "start_ref_usfm": "GEN 34:13",
+          "end_ref": "01034013",
+          "end_ref_usfm": "GEN 34:13"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034018",
+          "end_ref_usfm": "GEN 34:18"
+        },
+        {
+          "start_ref": "01034020",
+          "start_ref_usfm": "GEN 34:20",
+          "end_ref": "01034020",
+          "end_ref_usfm": "GEN 34:20"
+        },
+        {
+          "start_ref": "01034024",
+          "start_ref_usfm": "GEN 34:24",
+          "end_ref": "01034024",
+          "end_ref_usfm": "GEN 34:24"
+        },
+        {
+          "start_ref": "01034026",
+          "start_ref_usfm": "GEN 34:26",
+          "end_ref": "01034026",
+          "end_ref_usfm": "GEN 34:26"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037012",
+          "end_ref_usfm": "GEN 37:12"
+        },
+        {
+          "start_ref": "01037013",
+          "start_ref_usfm": "GEN 37:13",
+          "end_ref": "01037013",
+          "end_ref_usfm": "GEN 37:13"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "44007016",
+          "start_ref_usfm": "ACT 7:16",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        },
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "44007014",
+          "start_ref_usfm": "ACT 7:14",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25815,
+          "content_id": 466964,
+          "label": "Hamor",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 466986,
+          "label": "Héviens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

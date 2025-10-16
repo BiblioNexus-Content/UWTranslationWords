@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 466868,
+    "reference_id": 25708,
+    "title": "Ephraim",
+    "media_type": "Text",
+    "index_reference": "ephraim",
+    "language": "fra",
+    "content": "<h1>Ephraim</h1><h2>Définition :</h2><p>Ephraim était le second fils de Joseph*Ses descendants ,les Ephramites ,ont formé un des dix tribus d&apos;Israël.</p><ul><li><p>La tribu d&apos;Ephraim était l&apos;une des dix tribus qui étaient situées au Nord d&apos;Israël.</p></li><li><p>Parfois le nom Ephraim est utilisé dans la Bible pour signifier tout le royaume du Nord d&apos;Israël*(voir:{:en*ta:vol 2 traduit:figs_synecdoch})</p></li><li><p>Ephraim était apparemment un lieu très montagneux ou de collines basées sur les reférences au &quot;pays de collines d&apos;Ephraim*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/kingdomofisrael.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041052",
+          "start_ref_usfm": "GEN 41:52",
+          "end_ref": "01041052",
+          "end_ref_usfm": "GEN 41:52"
+        },
+        {
+          "start_ref": "01046020",
+          "start_ref_usfm": "GEN 46:20",
+          "end_ref": "01046020",
+          "end_ref_usfm": "GEN 46:20"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048001",
+          "end_ref_usfm": "GEN 48:1"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01048013",
+          "start_ref_usfm": "GEN 48:13",
+          "end_ref": "01048013",
+          "end_ref_usfm": "GEN 48:13"
+        },
+        {
+          "start_ref": "01048014",
+          "start_ref_usfm": "GEN 48:14",
+          "end_ref": "01048014",
+          "end_ref_usfm": "GEN 48:14"
+        },
+        {
+          "start_ref": "01048017",
+          "start_ref_usfm": "GEN 48:17",
+          "end_ref": "01048017",
+          "end_ref_usfm": "GEN 48:17"
+        },
+        {
+          "start_ref": "01048020",
+          "start_ref_usfm": "GEN 48:20",
+          "end_ref": "01048020",
+          "end_ref_usfm": "GEN 48:20"
+        },
+        {
+          "start_ref": "01050023",
+          "start_ref_usfm": "GEN 50:23",
+          "end_ref": "01050023",
+          "end_ref_usfm": "GEN 50:23"
+        },
+        {
+          "start_ref": "16008016",
+          "start_ref_usfm": "NEH 8:16",
+          "end_ref": "16008016",
+          "end_ref_usfm": "NEH 8:16"
+        },
+        {
+          "start_ref": "16012039",
+          "start_ref_usfm": "NEH 12:39",
+          "end_ref": "16012039",
+          "end_ref_usfm": "NEH 12:39"
+        },
+        {
+          "start_ref": "26037016",
+          "start_ref_usfm": "EZK 37:16",
+          "end_ref": "26037016",
+          "end_ref_usfm": "EZK 37:16"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "43011054",
+          "start_ref_usfm": "JHN 11:54",
+          "end_ref": "43011054",
+          "end_ref_usfm": "JHN 11:54"
+        },
+        {
+          "start_ref": "13006066",
+          "start_ref_usfm": "1CH 6:66",
+          "end_ref": "13006069",
+          "end_ref_usfm": "1CH 6:69"
+        },
+        {
+          "start_ref": "14013004",
+          "start_ref_usfm": "2CH 13:4",
+          "end_ref": "14013005",
+          "end_ref_usfm": "2CH 13:5"
+        },
+        {
+          "start_ref": "01048001",
+          "start_ref_usfm": "GEN 48:1",
+          "end_ref": "01048002",
+          "end_ref_usfm": "GEN 48:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 467131,
+          "label": "Manassé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

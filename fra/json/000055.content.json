@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 466640,
+    "reference_id": 25460,
+    "title": "Angoisse",
+    "media_type": "Text",
+    "index_reference": "angoisse",
+    "language": "fra",
+    "content": "<h1>angoisse</h1><h2>Définition :</h2><p>Le terme «angoisse» fait référence à la douleur ou à la détresse sévère.</p><ul><li><p>L&apos;angoisse peut être une douleur physique ou émotionnelle ou de détresse.</p></li><li><p>Souvent, les gens qui sont dans une extrême angoisse le montreront sur leur visage et dans leur comportements.</p></li><li><p>Par exemple, une personne dans la douleur ou dans l&apos;angoisse sévère peut serrer les dents ou crier.</p></li><li><p>Le terme «angoisse» pourrait aussi être traduit par «détresse émotionnelle» ou «profonde tristesse» ou «douleur sévère*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02003007",
+          "start_ref_usfm": "EXO 3:7",
+          "end_ref": "02003007",
+          "end_ref_usfm": "EXO 3:7"
+        },
+        {
+          "start_ref": "18015024",
+          "start_ref_usfm": "JOB 15:24",
+          "end_ref": "18015024",
+          "end_ref_usfm": "JOB 15:24"
+        },
+        {
+          "start_ref": "20001027",
+          "start_ref_usfm": "PRO 1:27",
+          "end_ref": "20001027",
+          "end_ref_usfm": "PRO 1:27"
+        },
+        {
+          "start_ref": "24006024",
+          "start_ref_usfm": "JER 6:24",
+          "end_ref": "24006024",
+          "end_ref_usfm": "JER 6:24"
+        },
+        {
+          "start_ref": "24019009",
+          "start_ref_usfm": "JER 19:9",
+          "end_ref": "24019009",
+          "end_ref_usfm": "JER 19:9"
+        },
+        {
+          "start_ref": "42016024",
+          "start_ref_usfm": "LUK 16:24",
+          "end_ref": "42016024",
+          "end_ref_usfm": "LUK 16:24"
+        },
+        {
+          "start_ref": "42016025",
+          "start_ref_usfm": "LUK 16:25",
+          "end_ref": "42016025",
+          "end_ref_usfm": "LUK 16:25"
+        },
+        {
+          "start_ref": "47002004",
+          "start_ref_usfm": "2CO 2:4",
+          "end_ref": "47002004",
+          "end_ref_usfm": "2CO 2:4"
+        },
+        {
+          "start_ref": "19116003",
+          "start_ref_usfm": "PSA 116:3",
+          "end_ref": "19116004",
+          "end_ref_usfm": "PSA 116:4"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467457,
+    "reference_id": 26349,
+    "title": "Vanner",
+    "media_type": "Text",
+    "index_reference": "vanner",
+    "language": "fra",
+    "content": "<h1>vanner, vanné, vannage, tamiser, tamisage</h1><h2>Définition :</h2><p>Les termes &quot;vanner&quot; et &quot;tamiser&quot; signifient séparer le grain des matières indésirables* Dans la Bible, les deux mots sont également utilisés dans un sens figuré pour désigner la séparation ou la division des gens.</p><ul><li><p>&quot;vanner&quot; signifie séparer le grain des parties indésirables de la plante en lançant à la fois le grain et la paille dans l’air, ce qui permet au vent de souffler sur la paille et de l’emporter.</p></li><li><p>Le mot &quot;tamiser&quot; le mot &quot;tamis&quot; désigne le fait de secouer le grain vanné dans un tamis pour éliminer tous matériaux indésirables, tel que la saleté ou les pierres.</p></li><li><p>Dans l&apos;Ancien Testament, &quot;vanner&quot; et &quot;tamiser&quot; sont utilisés au sens figuré pour décrire des difficultés qui séparent les justes des injustes.</p></li><li><p>Jésus a également utilisé le terme &quot;tamisage&quot; de cette manière figurative lorsqu&apos;il disait à Simon Pierre la façon dont lui et les autres disciples seraient testés dans leur foi.</p></li><li><p>Pour traduire ces termes, utilisez les mots ou expressions dans la langue du projet qui font référence à ces activités; les traductions possibles peuvent être &quot;Secouer&quot; ou &quot;ventiler&quot;* Si le vannage ou le tamisage ne sont pas connus, ces termes peuvent être traduits par un terme qui fait référence à une méthode différente de séparation du grain et de la poussière, ou en décrivant ce processus* (Voir aussi: Comment traduire des inconnus )</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../other/chaff.md), (../other/grain.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "18018015",
+          "start_ref_usfm": "JOB 18:15",
+          "end_ref": "18018015",
+          "end_ref_usfm": "JOB 18:15"
+        },
+        {
+          "start_ref": "20020008",
+          "start_ref_usfm": "PRO 20:8",
+          "end_ref": "20020008",
+          "end_ref_usfm": "PRO 20:8"
+        },
+        {
+          "start_ref": "23021010",
+          "start_ref_usfm": "ISA 21:10",
+          "end_ref": "23021010",
+          "end_ref_usfm": "ISA 21:10"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42022031",
+          "start_ref_usfm": "LUK 22:31",
+          "end_ref": "42022031",
+          "end_ref_usfm": "LUK 22:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25581,
+          "content_id": 466749,
+          "label": "Balle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

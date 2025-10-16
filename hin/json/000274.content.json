@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179754,
+    "reference_id": 25680,
+    "title": "चौखट",
+    "media_type": "Text",
+    "index_reference": "चौखट",
+    "language": "hin",
+    "content": "<h1>चौखट</h1><h2>परिभाषा:</h2><p>चौखट का सीधा खड़ा भाग है जिस पर द्वार टिका होता है।</p><ul><li><p>जब परमेश्वर इस्राएलियों को मिस्र से निकालने की तैयारी में था तब उसने उनसे कहा था कि वे एक मेम्‍ने का वध करके उसका लहू चौखट पर लगाएं।</p></li><li><p>पुराने नियम के युग में यदि कोई दास अपने स्वामी की आजीवन सेवा करना चाहता था उसका कान एक कील से द्वार की चैखट में ठोंक दिया जाता था।</p></li><li><p>इसका अनुवाद इस प्रकार भी किया जा सकता है, “द्वार के दोनों पक्षों की लकड़ी का खंभा” या “द्वार की लकड़ी की चौखट” या “द्वार के पक्षों की लकड़ी की शहतीर”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">मिस्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">फसह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 06:31–32</a></p></li><li><p><a href=\"https://ref.ly/Deut11:20-Deut11:21\">व्यवस्थाविवरण 11:20–21</a></p></li><li><p><a href=\"https://ref.ly/Exod12:5-Exod12:8\">निर्गमन 12:5–8</a></p></li><li><p><a href=\"https://ref.ly/Isa57:7-Isa57:8\">यशायाह 57:7–8</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H352, H4201</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012007",
+          "start_ref_usfm": "EXO 12:7",
+          "end_ref": "02012007",
+          "end_ref_usfm": "EXO 12:7"
+        },
+        {
+          "start_ref": "02012022",
+          "start_ref_usfm": "EXO 12:22",
+          "end_ref": "02012022",
+          "end_ref_usfm": "EXO 12:22"
+        },
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "05011020",
+          "start_ref_usfm": "DEU 11:20",
+          "end_ref": "05011020",
+          "end_ref_usfm": "DEU 11:20"
+        },
+        {
+          "start_ref": "20008034",
+          "start_ref_usfm": "PRO 8:34",
+          "end_ref": "20008034",
+          "end_ref_usfm": "PRO 8:34"
+        },
+        {
+          "start_ref": "23057007",
+          "start_ref_usfm": "ISA 57:7",
+          "end_ref": "23057008",
+          "end_ref_usfm": "ISA 57:8"
+        },
+        {
+          "start_ref": "11006031",
+          "start_ref_usfm": "1KI 6:31",
+          "end_ref": "11006032",
+          "end_ref_usfm": "1KI 6:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 179764,
+          "label": "मिस्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26076,
+          "content_id": 180138,
+          "label": "फसह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466980,
+    "reference_id": 25832,
+    "title": "Hérode le grand",
+    "media_type": "Text",
+    "index_reference": "hérode le grand",
+    "language": "fra",
+    "content": "<h1>Hérode le grand</h1><h2>Définition :</h2><p>&quot;Dans la Bible il y&apos;a plusieurs dirigeants qui ont porté le nom d&apos;Hérode* Hérode le grand n&apos;était pas Juif mais était le Roi de Judée au temps de la naissance de Jésus.</p><ul><li><p>Il était populaire à cause du travail qu&apos;il avait ordonné de faire dans le temple des Juifs à Jérusalem.</p></li><li><p>Il était cruel et faisait mourir beaucoup de gens* Quand il a appris qu&apos;un autre Roi des Juifs était né à Bethlehem, il a fait mourir tous les garçons nouveaux nés.</p></li><li><p>Ses fils Hérode Antipas et Hérode Philippe, et son petit fils Hérode Agrippa sont ensuite devenu dirigeants en Judée* Son arrière petit-fils Hérode Agrippa II ( appelé Roi Agrippa) a aussi règné sur toute l&apos;étendue de la Judée.</p></li></ul><p>(See <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : (../names/herodantipas.md), (../names/judea.md), (../other/king.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002003",
+          "start_ref_usfm": "MAT 2:3",
+          "end_ref": "40002003",
+          "end_ref_usfm": "MAT 2:3"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002012",
+          "start_ref_usfm": "MAT 2:12",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002013",
+          "end_ref_usfm": "MAT 2:13"
+        },
+        {
+          "start_ref": "40002015",
+          "start_ref_usfm": "MAT 2:15",
+          "end_ref": "40002015",
+          "end_ref_usfm": "MAT 2:15"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        },
+        {
+          "start_ref": "40002019",
+          "start_ref_usfm": "MAT 2:19",
+          "end_ref": "40002019",
+          "end_ref_usfm": "MAT 2:19"
+        },
+        {
+          "start_ref": "40002020",
+          "start_ref_usfm": "MAT 2:20",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        },
+        {
+          "start_ref": "40002022",
+          "start_ref_usfm": "MAT 2:22",
+          "end_ref": "40002022",
+          "end_ref_usfm": "MAT 2:22"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 466978,
+          "label": "Hérode Antipas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 467073,
+          "label": "Judée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

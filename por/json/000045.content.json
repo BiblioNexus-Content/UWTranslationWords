@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 237587,
+    "reference_id": 25449,
+    "title": "Amalequita",
+    "media_type": "Text",
+    "index_reference": "amalequita",
+    "language": "por",
+    "content": "<h1>Amaleque, Amalequitas</h1><h2>Fatos:</h2><p>Os Amalequitas eram um grupo nômade que vivia em toda a parte sul de Canaã, desde o deserto de Neguebe até a região da Arábia. Este grupo descendia de Amaleque, neto de Esaú.</p><ul><li><p>Os Amalequitas eram inimigos implacáveis de Israel desde o momento em que Israel veio morar em Canaã.</p></li><li><p>Às vezes, o termo “Amaleque” é usado figurativamente para se referir a todos os Amalequitas. (Veja: sinédoque)</p></li><li><p>Em uma batalha contra os Amalequitas, quando Moisés levantava as mãos, os israelitas estavam vencendo. Quando ele se cansava e suas mãos abaixavam, eles começavam a perder. Então Arão e Hur ajudaram Moisés a manter suas mãos levantadas até que o exército israelita derrotasse os Amalequitas.</p></li><li><p>Tanto o Rei Saul quanto o Rei Davi lideraram expedições militares contra os Amalequitas.</p></li><li><p>Após uma vitória sobre os Amalequitas, Saul desobedeceu a Deus ao manter parte dos despojos e ao não matar o rei Amalequita como Deus havia ordenado.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arábia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esaú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26048\" data-resourceType=\"UWTranslationWords\">Neguebe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (AT)</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr4:43\">1 Crônicas 4.43</a></p></li><li><p><a href=\"https://ref.ly/2Sam1:8\">2 Samuel 1.8</a></p></li><li><p><a href=\"https://ref.ly/Exod17:10\">Êxodo 17.10</a></p></li><li><p><a href=\"https://ref.ly/Num14:23-Num14:25\">Números 14.23–25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6002, H6003</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014007",
+          "start_ref_usfm": "GEN 14:7",
+          "end_ref": "01014007",
+          "end_ref_usfm": "GEN 14:7"
+        },
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "02017008",
+          "start_ref_usfm": "EXO 17:8",
+          "end_ref": "02017008",
+          "end_ref_usfm": "EXO 17:8"
+        },
+        {
+          "start_ref": "02017009",
+          "start_ref_usfm": "EXO 17:9",
+          "end_ref": "02017009",
+          "end_ref_usfm": "EXO 17:9"
+        },
+        {
+          "start_ref": "02017010",
+          "start_ref_usfm": "EXO 17:10",
+          "end_ref": "02017010",
+          "end_ref_usfm": "EXO 17:10"
+        },
+        {
+          "start_ref": "02017011",
+          "start_ref_usfm": "EXO 17:11",
+          "end_ref": "02017011",
+          "end_ref_usfm": "EXO 17:11"
+        },
+        {
+          "start_ref": "02017013",
+          "start_ref_usfm": "EXO 17:13",
+          "end_ref": "02017013",
+          "end_ref_usfm": "EXO 17:13"
+        },
+        {
+          "start_ref": "02017016",
+          "start_ref_usfm": "EXO 17:16",
+          "end_ref": "02017016",
+          "end_ref_usfm": "EXO 17:16"
+        },
+        {
+          "start_ref": "10001008",
+          "start_ref_usfm": "2SA 1:8",
+          "end_ref": "10001008",
+          "end_ref_usfm": "2SA 1:8"
+        },
+        {
+          "start_ref": "13004043",
+          "start_ref_usfm": "1CH 4:43",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
+          "start_ref": "04014023",
+          "start_ref_usfm": "NUM 14:23",
+          "end_ref": "04014025",
+          "end_ref_usfm": "NUM 14:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 237607,
+          "label": "Arábia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 237843,
+          "label": "Esaú",
+          "language": "por"
+        },
+        {
+          "reference_id": 26048,
+          "content_id": 238178,
+          "label": "Neguebe",
+          "language": "por"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 238329,
+          "label": "Saul",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

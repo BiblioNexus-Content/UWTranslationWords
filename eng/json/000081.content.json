@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26354,
+    "reference_id": 25496,
+    "title": "Azariah",
+    "media_type": "Text",
+    "index_reference": "azariah",
+    "language": "eng",
+    "content": "<h1>Azariah</h1><h2>Facts:</h2><p>Azariah was the name of several men in the Old Testament.</p><ul><li><p>One Azariah is best known by his Babylonian name, Abednego. He was one of many Israelites from Judah who were captured by Nebuchadnezzar’s army and taken to live in Babylon. Azariah and his fellow Israelites Hananiah and Mishael refused to worship the Babylonian king, so he had them thrown into a blazing furnace as punishment. But God protected them and they were not harmed at all.</p></li><li><p>Uzziah king of Judah was also known as “Azariah.”</p></li><li><p>Another Azariah was an Old Testament high priest.</p></li><li><p>In the time of the prophet Jeremiah, a man named Azariah wrongly urged the Israelites to disobey God by leaving their homeland.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">Hananiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26024\" data-resourceType=\"UWTranslationWords\">Mishael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">Uzziah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr2:38\">1 Chronicles 2:38</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:2\">1 Kings 4:2</a></p></li><li><p><a href=\"https://ref.ly/2Chr15:1\">2 Chronicles 15:1</a></p></li><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">Daniel 1:6–7</a></p></li><li><p><a href=\"https://ref.ly/Jer43:2\">Jeremiah 43:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5838</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004002",
+          "start_ref_usfm": "1KI 4:2",
+          "end_ref": "11004002",
+          "end_ref_usfm": "1KI 4:2"
+        },
+        {
+          "start_ref": "13002038",
+          "start_ref_usfm": "1CH 2:38",
+          "end_ref": "13002038",
+          "end_ref_usfm": "1CH 2:38"
+        },
+        {
+          "start_ref": "14015001",
+          "start_ref_usfm": "2CH 15:1",
+          "end_ref": "14015001",
+          "end_ref_usfm": "2CH 15:1"
+        },
+        {
+          "start_ref": "24043002",
+          "start_ref_usfm": "JER 43:2",
+          "end_ref": "24043002",
+          "end_ref_usfm": "JER 43:2"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 26674,
+          "label": "Hananiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 26753,
+          "label": "Jeremiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26024,
+          "content_id": 26882,
+          "label": "Mishael",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 27189,
+          "label": "Uzziah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

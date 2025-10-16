@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467475,
+    "reference_id": 26370,
+    "title": "Zacharie (AT)",
+    "media_type": "Text",
+    "index_reference": "zacharie (at)",
+    "language": "fra",
+    "content": "<h1>Zacharie (AT)</h1><h2>Données :</h2><p>Zacharie était un prophète qui a prophétisé pendant le règne du roi Darius I de Perse. Le livre de Zacharie, dans l&apos;Ancien Testament, contient ses prophéties qui ont exhorté les exilés de retour à reconstruire le temple.</p><ul><li><p>Le prophète Zacharie a vécu pendant la même période que Esdras, Néhémie, Zorobabel et Aggée. Il a aussi été mentionné par Jésus comme le dernier des prophètes qui ont été assassinés à l&apos;époque de l&apos;Ancien Testament.</p></li><li><p>Un autre homme nommé Zacharie était un portier à l’entrée de la tente d’assignation au temps de David.</p></li><li><p>Un des fils du roi Josaphat qui s&apos;appelait Zacharie a été assassiné par son frère Joram.</p></li><li><p>Zacharie était le nom d&apos;un prêtre qui a été lapidé par le peuple d&apos;Israël lorsqu&apos;il l&apos;a réprimandé pour son idolâtrie.</p></li><li><p>Le roi Zacharie était le fils de Jéroboam et il n&apos;a régné sur Israël que six mois avant d&apos;être assassiné.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25643\" data-resourceType=\"UWTranslationWords\">Darius</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Ezra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Jehoshaphat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25897\" data-resourceType=\"UWTranslationWords\">Jeroboam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26373\" data-resourceType=\"UWTranslationWords\">Zerubbabel</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005001",
+          "end_ref_usfm": "EZR 5:1"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "15008003",
+          "start_ref_usfm": "EZR 8:3",
+          "end_ref": "15008003",
+          "end_ref_usfm": "EZR 8:3"
+        },
+        {
+          "start_ref": "15008011",
+          "start_ref_usfm": "EZR 8:11",
+          "end_ref": "15008011",
+          "end_ref_usfm": "EZR 8:11"
+        },
+        {
+          "start_ref": "15008016",
+          "start_ref_usfm": "EZR 8:16",
+          "end_ref": "15008016",
+          "end_ref_usfm": "EZR 8:16"
+        },
+        {
+          "start_ref": "15010026",
+          "start_ref_usfm": "EZR 10:26",
+          "end_ref": "15010026",
+          "end_ref_usfm": "EZR 10:26"
+        },
+        {
+          "start_ref": "16008004",
+          "start_ref_usfm": "NEH 8:4",
+          "end_ref": "16008004",
+          "end_ref_usfm": "NEH 8:4"
+        },
+        {
+          "start_ref": "16011004",
+          "start_ref_usfm": "NEH 11:4",
+          "end_ref": "16011004",
+          "end_ref_usfm": "NEH 11:4"
+        },
+        {
+          "start_ref": "16011005",
+          "start_ref_usfm": "NEH 11:5",
+          "end_ref": "16011005",
+          "end_ref_usfm": "NEH 11:5"
+        },
+        {
+          "start_ref": "16011012",
+          "start_ref_usfm": "NEH 11:12",
+          "end_ref": "16011012",
+          "end_ref_usfm": "NEH 11:12"
+        },
+        {
+          "start_ref": "16012016",
+          "start_ref_usfm": "NEH 12:16",
+          "end_ref": "16012016",
+          "end_ref_usfm": "NEH 12:16"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "40023034",
+          "start_ref_usfm": "MAT 23:34",
+          "end_ref": "40023036",
+          "end_ref_usfm": "MAT 23:36"
+        },
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001003",
+          "end_ref_usfm": "ZEC 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25643,
+          "content_id": 466806,
+          "label": "Darius",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 467042,
+          "label": "Jéroboam",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 467186,
+          "label": "Néhémie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

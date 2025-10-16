@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 238140,
+    "reference_id": 26010,
+    "title": "Oferta memorial",
+    "media_type": "Text",
+    "index_reference": "oferta memorial",
+    "language": "por",
+    "content": "<h1>memorial, oferta memorial</h1><h2>Definição:</h2><p>O termo “memorial” refere-se a uma ação ou objeto que faz com que alguém ou algo seja lembrado.</p><ul><li><p>Esta palavra também é usada como um adjetivo para descrever algo que é para lembrá-los de alguma coisa, como em uma “oferta memorial”, uma “porção memorial” de um sacrifício ou “pedras memoriais”.</p></li><li><p>No Antigo Testamento, ofertas memoriais eram feitas para que os israelitas se lembrassem do que Deus havia feito por eles.</p></li><li><p>Deus disse aos sacerdotes israelitas para usarem roupas especiais que tinham pedras memoriais. Essas pedras tinham os nomes das doze tribos de Israel gravados nelas. Talvez, estas eram para lembrá-los da fidelidade de Deus para com eles.</p></li><li><p>No Novo Testamento, Deus honrou um homem chamado Cornélio por suas obras de caridade para os pobres. Essas obras foram ditas como um “memorial” diante de Deus.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Isso também poderia ser traduzido como “lembrança duradoura&quot;.</p></li><li><p>Uma “pedra memorial” poderia ser traduzida como uma “pedra para lembrá-los (de alguma coisa)&quot;.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts10:4\">Atos 10.4</a></p></li><li><p><a href=\"https://ref.ly/Exod12:12-Exod12:14\">Êxodo 12.12–14</a></p></li><li><p><a href=\"https://ref.ly/Isa66:3\">Isaías 66.3</a></p></li><li><p><a href=\"https://ref.ly/Josh4:6-Josh4:7\">Josué 4.6–7</a></p></li><li><p><a href=\"https://ref.ly/Lev23:23-Lev23:25\">Levítico 23.23–25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2142, H2146, G34220</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012014",
+          "start_ref_usfm": "EXO 12:14",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "02013009",
+          "start_ref_usfm": "EXO 13:9",
+          "end_ref": "02013009",
+          "end_ref_usfm": "EXO 13:9"
+        },
+        {
+          "start_ref": "23066003",
+          "start_ref_usfm": "ISA 66:3",
+          "end_ref": "23066003",
+          "end_ref_usfm": "ISA 66:3"
+        },
+        {
+          "start_ref": "44010004",
+          "start_ref_usfm": "ACT 10:4",
+          "end_ref": "44010004",
+          "end_ref_usfm": "ACT 10:4"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "03023023",
+          "start_ref_usfm": "LEV 23:23",
+          "end_ref": "03023025",
+          "end_ref_usfm": "LEV 23:25"
+        },
+        {
+          "start_ref": "06004006",
+          "start_ref_usfm": "JOS 4:6",
+          "end_ref": "06004007",
+          "end_ref_usfm": "JOS 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

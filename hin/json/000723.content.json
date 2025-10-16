@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 179966,
+    "reference_id": 25899,
+    "title": "यिशै",
+    "media_type": "Text",
+    "index_reference": "यिशै",
+    "language": "hin",
+    "content": "<h1>यिशै</h1><h2>तथ्य:</h2><p>यिशै राजा दाऊद का पिता और रूत एवं बोआज़ का पोता था।</p><ul><li><p>यिशै यहूदा के गोत्र का था।</p></li><li><p>वह “एप्राती” था अर्थात एप्राता (बैतलहम) नगर का निवासी था।</p></li><li><p>भविष्यद्वक्ता यशायाह ने एक “जड़” या “डाली” की भविष्यद्वाणी की थी, कि वह “यिशै की जड़” से फूट निकलेगी और फलवन्त होगी। यह यीशु के संदर्भ में था क्योंकि वह यिशै का वंशज था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">बैतलहम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">बोअज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">वंशज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25900\" data-resourceType=\"UWTranslationWords\">यीशु</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">राजा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26185\" data-resourceType=\"UWTranslationWords\">रूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 02:9–12</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 12:16–17</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 16:1</a></p></li><li><p><a href=\"https://ref.ly/Luke3:30-Luke3:32\">लूका 03:30–32</a></p></li><li><p><a href=\"https://ref.ly/Matt1:4-Matt1:6\">मत्ती 01:4–6</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H3448, G24210</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08004017",
+          "start_ref_usfm": "RUT 4:17",
+          "end_ref": "08004017",
+          "end_ref_usfm": "RUT 4:17"
+        },
+        {
+          "start_ref": "08004022",
+          "start_ref_usfm": "RUT 4:22",
+          "end_ref": "08004022",
+          "end_ref_usfm": "RUT 4:22"
+        },
+        {
+          "start_ref": "09016001",
+          "start_ref_usfm": "1SA 16:1",
+          "end_ref": "09016001",
+          "end_ref_usfm": "1SA 16:1"
+        },
+        {
+          "start_ref": "11012016",
+          "start_ref_usfm": "1KI 12:16",
+          "end_ref": "11012016",
+          "end_ref_usfm": "1KI 12:16"
+        },
+        {
+          "start_ref": "13002012",
+          "start_ref_usfm": "1CH 2:12",
+          "end_ref": "13002012",
+          "end_ref_usfm": "1CH 2:12"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "40001006",
+          "start_ref_usfm": "MAT 1:6",
+          "end_ref": "40001006",
+          "end_ref_usfm": "MAT 1:6"
+        },
+        {
+          "start_ref": "42003032",
+          "start_ref_usfm": "LUK 3:32",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
+        },
+        {
+          "start_ref": "44013022",
+          "start_ref_usfm": "ACT 13:22",
+          "end_ref": "44013022",
+          "end_ref_usfm": "ACT 13:22"
+        },
+        {
+          "start_ref": "45015012",
+          "start_ref_usfm": "ROM 15:12",
+          "end_ref": "45015012",
+          "end_ref_usfm": "ROM 15:12"
+        },
+        {
+          "start_ref": "40001004",
+          "start_ref_usfm": "MAT 1:4",
+          "end_ref": "40001006",
+          "end_ref_usfm": "MAT 1:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 179613,
+          "label": "बैतलहम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 179630,
+          "label": "बोअज़",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 179736,
+          "label": "अवतरण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 179967,
+          "label": "यीशु",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 180005,
+          "label": "राजा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26185,
+          "content_id": 180243,
+          "label": "रूत",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

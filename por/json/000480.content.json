@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 238020,
+    "reference_id": 25887,
+    "title": "Jebuseus",
+    "media_type": "Text",
+    "index_reference": "jebuseus",
+    "language": "por",
+    "content": "<h1>Jebus, Jebuseu</h1><h2>Fatos:</h2><p>Os jebuseus eram um grupo de pessoas que viviam na terra de Canaã. Eles eram descendentes de Canaã, filho de Cam.</p><ul><li><p>Os jebuseus viviam na cidade de Jebus, e seu nome foi posteriormente alterado para Jerusalém quando o rei Davi a conquistou.</p></li><li><p>Melquisedeque, o rei de Salém, era provavelmente de origem jebuseia.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">Cam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26008\" data-resourceType=\"UWTranslationWords\">Melquisedeque</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:14\">1 Crônicas 1.14</a></p></li><li><p><a href=\"https://ref.ly/1Kgs9:20-1Kgs9:21\">1 Reis 9.20–21</a></p></li><li><p><a href=\"https://ref.ly/Exod3:7-Exod3:8\">Êxodo 3.7–8</a></p></li><li><p><a href=\"https://ref.ly/Gen10:16\">Gênesis 10.16</a></p></li><li><p><a href=\"https://ref.ly/Josh3:9-Josh3:11\">Josué 3.9–11</a></p></li><li><p><a href=\"https://ref.ly/Judg1:20-Judg1:21\">Juízes 1.20–21</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2982, H2983</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010016",
+          "start_ref_usfm": "GEN 10:16",
+          "end_ref": "01010016",
+          "end_ref_usfm": "GEN 10:16"
+        },
+        {
+          "start_ref": "01015021",
+          "start_ref_usfm": "GEN 15:21",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "02003008",
+          "start_ref_usfm": "EXO 3:8",
+          "end_ref": "02003008",
+          "end_ref_usfm": "EXO 3:8"
+        },
+        {
+          "start_ref": "02003017",
+          "start_ref_usfm": "EXO 3:17",
+          "end_ref": "02003017",
+          "end_ref_usfm": "EXO 3:17"
+        },
+        {
+          "start_ref": "02013005",
+          "start_ref_usfm": "EXO 13:5",
+          "end_ref": "02013005",
+          "end_ref_usfm": "EXO 13:5"
+        },
+        {
+          "start_ref": "02023023",
+          "start_ref_usfm": "EXO 23:23",
+          "end_ref": "02023023",
+          "end_ref_usfm": "EXO 23:23"
+        },
+        {
+          "start_ref": "02033002",
+          "start_ref_usfm": "EXO 33:2",
+          "end_ref": "02033002",
+          "end_ref_usfm": "EXO 33:2"
+        },
+        {
+          "start_ref": "02034011",
+          "start_ref_usfm": "EXO 34:11",
+          "end_ref": "02034011",
+          "end_ref_usfm": "EXO 34:11"
+        },
+        {
+          "start_ref": "13001014",
+          "start_ref_usfm": "1CH 1:14",
+          "end_ref": "13001014",
+          "end_ref_usfm": "1CH 1:14"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "02003007",
+          "start_ref_usfm": "EXO 3:7",
+          "end_ref": "02003008",
+          "end_ref_usfm": "EXO 3:8"
+        },
+        {
+          "start_ref": "11009020",
+          "start_ref_usfm": "1KI 9:20",
+          "end_ref": "11009021",
+          "end_ref_usfm": "1KI 9:21"
+        },
+        {
+          "start_ref": "06003009",
+          "start_ref_usfm": "JOS 3:9",
+          "end_ref": "06003011",
+          "end_ref_usfm": "JOS 3:11"
+        },
+        {
+          "start_ref": "07001020",
+          "start_ref_usfm": "JDG 1:20",
+          "end_ref": "07001021",
+          "end_ref_usfm": "JDG 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 237946,
+          "label": "Cam",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 26008,
+          "content_id": 238138,
+          "label": "Melquisedeque",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

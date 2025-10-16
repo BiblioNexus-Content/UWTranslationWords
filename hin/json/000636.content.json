@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 180065,
+    "reference_id": 26001,
+    "title": "मत्ती",
+    "media_type": "Text",
+    "index_reference": "मत्ती",
+    "language": "hin",
+    "content": "<h1>मत्ती, लेवी</h1><h2>तथ्य:</h2><p>मत्ती उन बारहों में से एक था जिन्हें यीशु ने शिष्य होने के लिए बुलाया था। वह हलफईस का पुत्र लेवी नाम से भी जाना जाता था।</p><ul><li><p>यीशु से भेंट करने से पूर्व लेवी (मत्ती) कफरहूम से एक चुंगी लेने वाला था।</p></li><li><p>मत्ती ने सुसमाचार वृत्तान्त लिखा जो उसके नाम से है।</p></li><li><p>बाइबल में लेवी नामक अनेक पुरुष हैं।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">प्रेरित</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">लेवी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">चुंगी लेनेवाला</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke5:27\">लूका 5:27</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">लूका 6:14–16</a></p></li><li><p><a href=\"https://ref.ly/Mark2:14\">मरकुस 2:14</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">मरकुस 3:17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt9:9\">मत्ती 9:9</a></p></li><li><p><a href=\"https://ref.ly/Matt10:3\">मत्ती 10:3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G30170, G31560</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009009",
+          "end_ref_usfm": "MAT 9:9"
+        },
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005027",
+          "end_ref_usfm": "LUK 5:27"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 179554,
+          "label": "प्रेरित",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 180032,
+          "label": "लेवी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 180335,
+          "label": "कर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

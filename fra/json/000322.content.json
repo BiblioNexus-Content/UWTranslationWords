@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466807,
+    "reference_id": 25644,
+    "title": "Fille de Sion",
+    "media_type": "Text",
+    "index_reference": "fille de sion",
+    "language": "fra",
+    "content": "<h1>Fille de Sion</h1><h2>Définition :</h2><p>&quot;Fille de Sion&quot; est une manière figurative de se référer au peuple d&apos;Israël. Cette expression est généralement utilisée dans les prophéties.</p><ul><li><p>Dans l&apos;Ancien Testament, &quot;Sion&quot; est souvent utilisé comme un autre nom pour la ville de Jérusalem.</p></li><li><p>Les deux termes &quot;Sion&quot; et &quot;Jérusalem&quot; sont également utilisés pour faire référence à Israël.</p></li><li><p>Le terme &quot;fille&quot; est un terme d&apos;attendrissement ou d&apos;affection. C&apos;est une métaphore de la patience et du soin que Dieu a envers son peuple.</p></li></ul><h2>Traduction suggestions</h2><ul><li><p>Les façons de traduire &quot;fille de Sion&quot; pourraient inclure, &quot;ma fille, Israël, de Sion&quot; ou &quot;le peuple de Sion, qui est comme une fille pour moi&quot; ou &quot;Sion, mon cher peuple Israël&quot;.</p></li><li><p>Il est préférable de garder le terme &quot;Sion&quot; dans cette expression car il est utilisé à plusieurs reprises dans la Bible. Une note pourrait être insérée dans la traduction pour expliquer son sens figuré et l&apos;utilisation prophétique.</p></li><li><p>Il est aussi préférable de garder le terme &quot;fille&quot; dans la traduction de cette expression, aussi longtemps qu&apos;elle est comprise correctement.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jérusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophète</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26375\" data-resourceType=\"UWTranslationWords\">Sion</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "24006002",
+          "start_ref_usfm": "JER 6:2",
+          "end_ref": "24006002",
+          "end_ref_usfm": "JER 6:2"
+        },
+        {
+          "start_ref": "40021005",
+          "start_ref_usfm": "MAT 21:5",
+          "end_ref": "40021005",
+          "end_ref_usfm": "MAT 21:5"
+        },
+        {
+          "start_ref": "43012015",
+          "start_ref_usfm": "JHN 12:15",
+          "end_ref": "43012015",
+          "end_ref_usfm": "JHN 12:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26375,
+          "content_id": 467476,
+          "label": "Sion",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

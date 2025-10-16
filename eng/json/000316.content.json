@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26588,
+    "reference_id": 25730,
+    "title": "False Witness",
+    "media_type": "Text",
+    "index_reference": "false witness",
+    "language": "eng",
+    "content": "<h1>corrupt witness, false report, false testimony, false witness</h1><h2>Definition:</h2><p>The terms “false witness” and “corrupt witness” refer to a person who says untrue things about a person or an event, usually in a formal setting such as a court.</p><ul><li><p>A “false testimony” or “false report” is the actual lie that is told.</p></li><li><p>To “bear false witness” means to lie or give a false report about something.</p></li><li><p>The Bible gives several accounts in which false witnesses were hired to lie about someone in order to have that person punished or killed.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>To “bear false witness” or “give a false testimony” could be translated as “testify falsely” or “give a false report about someone” or “speak falsely against someone” or “lie.”</p></li><li><p>When “false witness” refers to a person, it could be translated as “person who lies” or “one who testifies falsely” or “someone who says things that are not true.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">testimony</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">true</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut19:19\">Deuteronomy 19:19</a></p></li><li><p><a href=\"https://ref.ly/Exod20:16\">Exodus 20:16</a></p></li><li><p><a href=\"https://ref.ly/Matt15:18-Matt15:20\">Matthew 15:18–20</a></p></li><li><p><a href=\"https://ref.ly/Matt19:18-Matt19:19\">Matthew 19:18–19</a></p></li><li><p><a href=\"https://ref.ly/Prov14:5-Prov14:6\">Proverbs 14:5–6</a></p></li><li><p><a href=\"https://ref.ly/Ps27:11-Ps27:12\">Psalms 27:11–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5707, H6030, H7650, H8267, G19650, G31440, G55710, G55750, G55760, G55770</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02020016",
+          "start_ref_usfm": "EXO 20:16",
+          "end_ref": "02020016",
+          "end_ref_usfm": "EXO 20:16"
+        },
+        {
+          "start_ref": "05019019",
+          "start_ref_usfm": "DEU 19:19",
+          "end_ref": "05019019",
+          "end_ref_usfm": "DEU 19:19"
+        },
+        {
+          "start_ref": "40015019",
+          "start_ref_usfm": "MAT 15:19",
+          "end_ref": "40015019",
+          "end_ref_usfm": "MAT 15:19"
+        },
+        {
+          "start_ref": "40019018",
+          "start_ref_usfm": "MAT 19:18",
+          "end_ref": "40019018",
+          "end_ref_usfm": "MAT 19:18"
+        },
+        {
+          "start_ref": "40026060",
+          "start_ref_usfm": "MAT 26:60",
+          "end_ref": "40026060",
+          "end_ref_usfm": "MAT 26:60"
+        },
+        {
+          "start_ref": "41010019",
+          "start_ref_usfm": "MRK 10:19",
+          "end_ref": "41010019",
+          "end_ref_usfm": "MRK 10:19"
+        },
+        {
+          "start_ref": "41014056",
+          "start_ref_usfm": "MRK 14:56",
+          "end_ref": "41014056",
+          "end_ref_usfm": "MRK 14:56"
+        },
+        {
+          "start_ref": "41014057",
+          "start_ref_usfm": "MRK 14:57",
+          "end_ref": "41014057",
+          "end_ref_usfm": "MRK 14:57"
+        },
+        {
+          "start_ref": "42018020",
+          "start_ref_usfm": "LUK 18:20",
+          "end_ref": "42018020",
+          "end_ref_usfm": "LUK 18:20"
+        },
+        {
+          "start_ref": "44006013",
+          "start_ref_usfm": "ACT 6:13",
+          "end_ref": "44006013",
+          "end_ref_usfm": "ACT 6:13"
+        },
+        {
+          "start_ref": "40015018",
+          "start_ref_usfm": "MAT 15:18",
+          "end_ref": "40015020",
+          "end_ref_usfm": "MAT 15:20"
+        },
+        {
+          "start_ref": "40019018",
+          "start_ref_usfm": "MAT 19:18",
+          "end_ref": "40019019",
+          "end_ref_usfm": "MAT 19:19"
+        },
+        {
+          "start_ref": "20014005",
+          "start_ref_usfm": "PRO 14:5",
+          "end_ref": "20014006",
+          "end_ref_usfm": "PRO 14:6"
+        },
+        {
+          "start_ref": "19027011",
+          "start_ref_usfm": "PSA 27:11",
+          "end_ref": "19027012",
+          "end_ref_usfm": "PSA 27:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26293,
+          "content_id": 27151,
+          "label": "Testimony",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467018,
+    "reference_id": 25872,
+    "title": "Intégrité",
+    "media_type": "Text",
+    "index_reference": "intégrité",
+    "language": "fra",
+    "content": "<h1>intégrité</h1><h2>Définition :</h2><p>&quot;Le terme &quot; intégrité&quot; se refère au fait d&apos;être honnête, avec des principes et un comportement moraux très forts, même si personne ne nous observe.</p><ul><li><p>Certaines personnages dans la Bible, tels que Joseph et Daniel, ont montré de l&apos;integrité quand ils refusèrent de participer au mal, mais d&apos;obeir à Dieu.</p></li><li><p>Le livre des proverbes dit qu&apos;il est mieux d&apos;être pauvre et avoir l&apos;intégrité que d&apos;être riche et avoir des valeurs corrompues.</p></li></ul><h2>Suggestions de traduction</h2><ul><li><p>Le terme &quot; intégrité&quot; peut être traduit comme &quot; honnêteté&quot; ou &quot; morale&quot; honnêteté&quot; ou &quot; attitude sincère*&quot;</p></li></ul><p>(Voir aussi : (../names/daniel.md), (../names/josephot.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01020005",
+          "start_ref_usfm": "GEN 20:5",
+          "end_ref": "01020005",
+          "end_ref_usfm": "GEN 20:5"
+        },
+        {
+          "start_ref": "01020006",
+          "start_ref_usfm": "GEN 20:6",
+          "end_ref": "01020006",
+          "end_ref_usfm": "GEN 20:6"
+        },
+        {
+          "start_ref": "11009004",
+          "start_ref_usfm": "1KI 9:4",
+          "end_ref": "11009004",
+          "end_ref_usfm": "1KI 9:4"
+        },
+        {
+          "start_ref": "18002003",
+          "start_ref_usfm": "JOB 2:3",
+          "end_ref": "18002003",
+          "end_ref_usfm": "JOB 2:3"
+        },
+        {
+          "start_ref": "18004006",
+          "start_ref_usfm": "JOB 4:6",
+          "end_ref": "18004006",
+          "end_ref_usfm": "JOB 4:6"
+        },
+        {
+          "start_ref": "20002007",
+          "start_ref_usfm": "PRO 2:7",
+          "end_ref": "20002007",
+          "end_ref_usfm": "PRO 2:7"
+        },
+        {
+          "start_ref": "20010009",
+          "start_ref_usfm": "PRO 10:9",
+          "end_ref": "20010009",
+          "end_ref_usfm": "PRO 10:9"
+        },
+        {
+          "start_ref": "20010029",
+          "start_ref_usfm": "PRO 10:29",
+          "end_ref": "20010029",
+          "end_ref_usfm": "PRO 10:29"
+        },
+        {
+          "start_ref": "20011003",
+          "start_ref_usfm": "PRO 11:3",
+          "end_ref": "20011003",
+          "end_ref_usfm": "PRO 11:3"
+        },
+        {
+          "start_ref": "20019001",
+          "start_ref_usfm": "PRO 19:1",
+          "end_ref": "20019001",
+          "end_ref_usfm": "PRO 19:1"
+        },
+        {
+          "start_ref": "20020007",
+          "start_ref_usfm": "PRO 20:7",
+          "end_ref": "20020007",
+          "end_ref_usfm": "PRO 20:7"
+        },
+        {
+          "start_ref": "20028006",
+          "start_ref_usfm": "PRO 28:6",
+          "end_ref": "20028006",
+          "end_ref_usfm": "PRO 28:6"
+        },
+        {
+          "start_ref": "19026001",
+          "start_ref_usfm": "PSA 26:1",
+          "end_ref": "19026003",
+          "end_ref_usfm": "PSA 26:3"
+        },
+        {
+          "start_ref": "20010008",
+          "start_ref_usfm": "PRO 10:8",
+          "end_ref": "20010009",
+          "end_ref_usfm": "PRO 10:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 467064,
+          "label": "Joseph (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

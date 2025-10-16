@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26387,
+    "reference_id": 25529,
+    "title": "Bethel",
+    "media_type": "Text",
+    "index_reference": "bethel",
+    "language": "eng",
+    "content": "<h1>Bethel</h1><h2>Facts:</h2><p>Bethel was a city located just north of Jerusalem in the land of Canaan. It was formerly called “Luz.”</p><ul><li><p>After receiving God’s promises for the first time, Abram (Abraham) built an altar to God near Bethel. The actual name of the city was not yet Bethel at that time, but it was usually referred to as “Bethel,” which was better known.</p></li><li><p>When fleeing from his brother Esau, Jacob stayed overnight near this city and slept outdoors on the ground there. While he was sleeping, he had a dream showing angels going up and down a ladder to heaven.</p></li><li><p>This city did not have the name “Bethel” until after Jacob named it that. To make this clear, some translations may translate it as “Luz (later called Bethel)” in the passages about Abraham, as well as when Jacob first arrives there (before he changed the name).</p></li><li><p>Bethel is mentioned often in the Old Testament and was a place where many important events happened.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">altar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen12:8-Gen12:9\">Genesis 12:8–9</a></p></li><li><p><a href=\"https://ref.ly/Gen35:1\">Genesis 35:1</a></p></li><li><p><a href=\"https://ref.ly/Hos10:15\">Hosea 10:15</a></p></li><li><p><a href=\"https://ref.ly/Judg1:23\">Judges 1:23</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1008</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012008",
+          "end_ref_usfm": "GEN 12:8"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013003",
+          "end_ref_usfm": "GEN 13:3"
+        },
+        {
+          "start_ref": "01028019",
+          "start_ref_usfm": "GEN 28:19",
+          "end_ref": "01028019",
+          "end_ref_usfm": "GEN 28:19"
+        },
+        {
+          "start_ref": "01031013",
+          "start_ref_usfm": "GEN 31:13",
+          "end_ref": "01031013",
+          "end_ref_usfm": "GEN 31:13"
+        },
+        {
+          "start_ref": "01035001",
+          "start_ref_usfm": "GEN 35:1",
+          "end_ref": "01035001",
+          "end_ref_usfm": "GEN 35:1"
+        },
+        {
+          "start_ref": "01035003",
+          "start_ref_usfm": "GEN 35:3",
+          "end_ref": "01035003",
+          "end_ref_usfm": "GEN 35:3"
+        },
+        {
+          "start_ref": "01035006",
+          "start_ref_usfm": "GEN 35:6",
+          "end_ref": "01035006",
+          "end_ref_usfm": "GEN 35:6"
+        },
+        {
+          "start_ref": "01035007",
+          "start_ref_usfm": "GEN 35:7",
+          "end_ref": "01035007",
+          "end_ref_usfm": "GEN 35:7"
+        },
+        {
+          "start_ref": "01035008",
+          "start_ref_usfm": "GEN 35:8",
+          "end_ref": "01035008",
+          "end_ref_usfm": "GEN 35:8"
+        },
+        {
+          "start_ref": "01035015",
+          "start_ref_usfm": "GEN 35:15",
+          "end_ref": "01035015",
+          "end_ref_usfm": "GEN 35:15"
+        },
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "07001023",
+          "start_ref_usfm": "JDG 1:23",
+          "end_ref": "07001023",
+          "end_ref_usfm": "JDG 1:23"
+        },
+        {
+          "start_ref": "15002028",
+          "start_ref_usfm": "EZR 2:28",
+          "end_ref": "15002028",
+          "end_ref_usfm": "EZR 2:28"
+        },
+        {
+          "start_ref": "16007032",
+          "start_ref_usfm": "NEH 7:32",
+          "end_ref": "16007032",
+          "end_ref_usfm": "NEH 7:32"
+        },
+        {
+          "start_ref": "16011031",
+          "start_ref_usfm": "NEH 11:31",
+          "end_ref": "16011031",
+          "end_ref_usfm": "NEH 11:31"
+        },
+        {
+          "start_ref": "28010015",
+          "start_ref_usfm": "HOS 10:15",
+          "end_ref": "28010015",
+          "end_ref_usfm": "HOS 10:15"
+        },
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 26282,
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25447,
+          "content_id": 26305,
+          "label": "Altar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

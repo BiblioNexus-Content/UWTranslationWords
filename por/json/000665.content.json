@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237986,
+    "reference_id": 25853,
+    "title": "Oseias (Hoshea)",
+    "media_type": "Text",
+    "index_reference": "oseias (hoshea)",
+    "language": "por",
+    "content": "<h1><span>Oseias (Hoshea)</span></h1><h2>Fatos:</h2><p><span>Oseias </span>era o nome de um rei de Israel e de vários outros homens no Antigo Testamento. Em português, praticamente todas as traduções apresentam este nome exatamente igual ao de Oseias, o profeta. Porém, em outros idiomas como o inglês, a transliteração é diferente. Oseias o profeta, em inglês é escrito como <strong>Hosea</strong>, ao passo que o outro personagem bíblico aqui apresentado é escrito como <strong>Hoshea</strong>. </p><ul><li><p><span>Oseias</span>, filho de Elá, foi um rei de Israel por nove anos durante parte dos reinados de Acaz e Ezequias, reis de Judá.</p></li><li><p>Josué, filho de Num, era anteriormente chamado Oseias. Moisés mudou o nome de Oseias para Josué antes de enviá-lo com outros onze homens para espionar a terra dos cananeus.</p></li><li><p>Após a morte de Moisés, Josué liderou o povo de Israel para tomar posse da terra de Canaã.</p></li><li><p>Um homem diferente chamado Oseias era filho de Azazias e era um dos líderes dos efraimitas.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25440\" data-resourceType=\"UWTranslationWords\">Acaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">Efraim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Ezequias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Josué</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moisés</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:20\">1 Crônicas 27.20</a></p></li><li><p><a href=\"https://ref.ly/2Kgs15:30\">2 Reis 15.30</a></p></li><li><p><a href=\"https://ref.ly/2Kgs17:3\">2 Reis 17.3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs18:1\">2 Reis 18.1</a></p></li><li><p><a href=\"https://ref.ly/2Kgs18:9\">2 Reis 18.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1954</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015030",
+          "start_ref_usfm": "2KI 15:30",
+          "end_ref": "12015030",
+          "end_ref_usfm": "2KI 15:30"
+        },
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018001",
+          "end_ref_usfm": "2KI 18:1"
+        },
+        {
+          "start_ref": "12018009",
+          "start_ref_usfm": "2KI 18:9",
+          "end_ref": "12018009",
+          "end_ref_usfm": "2KI 18:9"
+        },
+        {
+          "start_ref": "13027020",
+          "start_ref_usfm": "1CH 27:20",
+          "end_ref": "13027020",
+          "end_ref_usfm": "1CH 27:20"
+        },
+        {
+          "start_ref": "16010023",
+          "start_ref_usfm": "NEH 10:23",
+          "end_ref": "16010023",
+          "end_ref_usfm": "NEH 10:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 237578,
+          "label": "Acaz",
+          "language": "por"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 237841,
+          "label": "Efraim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 237967,
+          "label": "Ezequias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 238053,
+          "label": "Josué",
+          "language": "por"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 238161,
+          "label": "Moisés",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

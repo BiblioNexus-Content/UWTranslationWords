@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466655,
+    "reference_id": 25476,
+    "title": "Armure",
+    "media_type": "Text",
+    "index_reference": "armure",
+    "language": "fra",
+    "content": "<h1>armure</h1><h2>Définition :</h2><p>Le terme &quot;armure&quot; se réfère aux équipements offensifs et défensifs dont un soldat se sert pour combattre l&apos;ennemi* Il est aussi utilisé dans le sens figuré en référence aux armes spirituelles.</p><ul><li><p>L&apos;armure d&apos;un soldat comprend un casque, un bouclier, une cuirrace, des protège-jambes, et une épée.</p></li><li><p>Dans un sens figuré, l&apos;apôtre Paul compare l&apos;armure physique à l&apos;armure spirituelle que Dieu donne au croyant pour l&apos;aider dans les combats spirituels.</p></li><li><p>L&apos;armure spirituelle que Dieu donne aux croyants pour combattre le péché et Satan est composée de la vérité, la justice, l&apos;Evangile de paix, la foi, le salut, et le Saint Esprit.</p></li><li><p>Ce terme pourrait être traduit par: &quot;équipement du soldat&quot; ou &quot;tenue protectrice de combat&quot; ou &quot;couverture protectrice&quot; ou &quot;armements&quot;</p></li></ul><p>(Voir aussi : (../kt/faith.md), (../kt/holyspirit.md), (../other/peace.md), (../kt/save.md), (../kt/spirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10020008",
+          "start_ref_usfm": "2SA 20:8",
+          "end_ref": "10020008",
+          "end_ref_usfm": "2SA 20:8"
+        },
+        {
+          "start_ref": "42011022",
+          "start_ref_usfm": "LUK 11:22",
+          "end_ref": "42011022",
+          "end_ref_usfm": "LUK 11:22"
+        },
+        {
+          "start_ref": "45006013",
+          "start_ref_usfm": "ROM 6:13",
+          "end_ref": "45006013",
+          "end_ref_usfm": "ROM 6:13"
+        },
+        {
+          "start_ref": "45013012",
+          "start_ref_usfm": "ROM 13:12",
+          "end_ref": "45013012",
+          "end_ref_usfm": "ROM 13:12"
+        },
+        {
+          "start_ref": "47006007",
+          "start_ref_usfm": "2CO 6:7",
+          "end_ref": "47006007",
+          "end_ref_usfm": "2CO 6:7"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "49006011",
+          "start_ref_usfm": "EPH 6:11",
+          "end_ref": "49006011",
+          "end_ref_usfm": "EPH 6:11"
+        },
+        {
+          "start_ref": "49006013",
+          "start_ref_usfm": "EPH 6:13",
+          "end_ref": "49006013",
+          "end_ref_usfm": "EPH 6:13"
+        },
+        {
+          "start_ref": "09031009",
+          "start_ref_usfm": "1SA 31:9",
+          "end_ref": "09031010",
+          "end_ref_usfm": "1SA 31:10"
+        },
+        {
+          "start_ref": "24051003",
+          "start_ref_usfm": "JER 51:3",
+          "end_ref": "24051004",
+          "end_ref_usfm": "JER 51:4"
+        },
+        {
+          "start_ref": "16004015",
+          "start_ref_usfm": "NEH 4:15",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 466880,
+          "label": "La foi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 466991,
+          "label": "Saint-Esprit",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 467207,
+          "label": "Paix",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26201,
+          "content_id": 467320,
+          "label": "Sauver",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

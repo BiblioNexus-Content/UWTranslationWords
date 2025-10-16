@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467428,
+    "reference_id": 26315,
+    "title": "Procès",
+    "media_type": "Text",
+    "index_reference": "procès",
+    "language": "fra",
+    "content": "<h1>procès</h1><h2>Définition :</h2><p>Le terme «procès» désigne une situation dans laquelle quelque chose ou quelqu&apos;un est «mis à l&apos;épreuve» ou testé* Une personne qui se trouve devant une audience judiciaire où la preuve est présentée devant un juge ou un jury, cette personne sera innocentée ou reconnue coupable sur la base des éléments de preuve* Les procès peuvent aussi être des situations qui se révèlent être difficiles à supporter, dans lesquelles un individu est soit jugé digne soit jugé indigne selon la façon dont il répond à la situation.</p><ul><li><p>Un procès peut être une audience judiciaire dont le rôle est de prouver si une personne est innocente ou coupable d&apos;actes répréhensibles.</p></li><li><p>Le terme «procès» peut également se référer à des circonstances difficiles par lesquelles une personne passe au momment ou Dieu teste sa foi* D&apos;autres mots pour dire cela sont «test» ou «tentation».</p></li><li><p>Beaucoup de gens dans la Bible ont été testés pour voir s&apos;ils continueraient à croire et à obéir à Dieu* Ils sont passés par des épreuves qui comprenaient le fait d&apos;être battus, emprisonnés, ou même tués à cause de leur foi.</p></li></ul><p>(Voir aussi : (../kt/tempt.md), (../kt/test.md), (../kt/innocent.md), (../kt/guilt.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05004034",
+          "start_ref_usfm": "DEU 4:34",
+          "end_ref": "05004034",
+          "end_ref_usfm": "DEU 4:34"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022028",
+          "end_ref_usfm": "LUK 22:28"
+        },
+        {
+          "start_ref": "44020019",
+          "start_ref_usfm": "ACT 20:19",
+          "end_ref": "44020019",
+          "end_ref_usfm": "ACT 20:19"
+        },
+        {
+          "start_ref": "59001002",
+          "start_ref_usfm": "JAS 1:2",
+          "end_ref": "59001002",
+          "end_ref_usfm": "JAS 1:2"
+        },
+        {
+          "start_ref": "59001012",
+          "start_ref_usfm": "JAS 1:12",
+          "end_ref": "59001012",
+          "end_ref_usfm": "JAS 1:12"
+        },
+        {
+          "start_ref": "60001006",
+          "start_ref_usfm": "1PE 1:6",
+          "end_ref": "60001006",
+          "end_ref_usfm": "1PE 1:6"
+        },
+        {
+          "start_ref": "60004012",
+          "start_ref_usfm": "1PE 4:12",
+          "end_ref": "60004012",
+          "end_ref_usfm": "1PE 4:12"
+        },
+        {
+          "start_ref": "61002009",
+          "start_ref_usfm": "2PE 2:9",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "20025007",
+          "start_ref_usfm": "PRO 25:7",
+          "end_ref": "20025008",
+          "end_ref_usfm": "PRO 25:8"
+        },
+        {
+          "start_ref": "26021012",
+          "start_ref_usfm": "EZK 21:12",
+          "end_ref": "26021013",
+          "end_ref_usfm": "EZK 21:13"
+        },
+        {
+          "start_ref": "25003058",
+          "start_ref_usfm": "LAM 3:58",
+          "end_ref": "25003061",
+          "end_ref_usfm": "LAM 3:61"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25806,
+          "content_id": 466955,
+          "label": "Culpabilité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25869,
+          "content_id": 467015,
+          "label": "Innocent",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26285,
+          "content_id": 467399,
+          "label": "Tenter",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26292,
+          "content_id": 467406,
+          "label": "Tester",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26589,
+    "reference_id": 25731,
+    "title": "Family",
+    "media_type": "Text",
+    "index_reference": "family",
+    "language": "eng",
+    "content": "<h1>family, household</h1><h2>Definition:</h2><p>The term “family” refers to a group of people who are related by blood and usually includes a father, mother, and their children. In the Bible, this term sometimes includes other close relatives such as grandparents, grandchildren, uncles and aunts.</p><ul><li><p>In biblical times, usually the oldest man was the major authority of a family.</p></li><li><p>Family could also include servants, concubines, and even foreigners.</p></li><li><p>Some languages may have a broader word such as “clan” or “household” that would fit better in contexts where more than just parents and children are being referred to.</p></li><li><p>The New Testament often uses terms related to the concept of “family” to refer to the Church, meaning people who believe in Jesus.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25595\" data-resourceType=\"UWTranslationWords\">clan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ancestor\" data-resourceType=\"UWTranslationWords\">ancestor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25856\" data-resourceType=\"UWTranslationWords\">house</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs8:1-1Kgs8:2\">1 Kings 8:1–2</a></p></li><li><p><a href=\"https://ref.ly/1Sam18:18\">1 Samuel 18:18</a></p></li><li><p><a href=\"https://ref.ly/Exod1:21\">Exodus 1:21</a></p></li><li><p><a href=\"https://ref.ly/Josh2:12-Josh2:13\">Joshua 2:12–13</a></p></li><li><p><a href=\"https://ref.ly/Luke2:4\">Luke 2:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0001, H0251, H0272, H0504, H1004, H1121, H2233, H2859, H2945, H3187, H4138, H4940, H5387, H5712, G10850, G36140, G36240, G39650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011028",
+          "start_ref_usfm": "GEN 11:28",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        },
+        {
+          "start_ref": "01012001",
+          "start_ref_usfm": "GEN 12:1",
+          "end_ref": "01012001",
+          "end_ref_usfm": "GEN 12:1"
+        },
+        {
+          "start_ref": "01024004",
+          "start_ref_usfm": "GEN 24:4",
+          "end_ref": "01024004",
+          "end_ref_usfm": "GEN 24:4"
+        },
+        {
+          "start_ref": "01024007",
+          "start_ref_usfm": "GEN 24:7",
+          "end_ref": "01024007",
+          "end_ref_usfm": "GEN 24:7"
+        },
+        {
+          "start_ref": "01031003",
+          "start_ref_usfm": "GEN 31:3",
+          "end_ref": "01031003",
+          "end_ref_usfm": "GEN 31:3"
+        },
+        {
+          "start_ref": "01031013",
+          "start_ref_usfm": "GEN 31:13",
+          "end_ref": "01031013",
+          "end_ref_usfm": "GEN 31:13"
+        },
+        {
+          "start_ref": "01032009",
+          "start_ref_usfm": "GEN 32:9",
+          "end_ref": "01032009",
+          "end_ref_usfm": "GEN 32:9"
+        },
+        {
+          "start_ref": "01043007",
+          "start_ref_usfm": "GEN 43:7",
+          "end_ref": "01043007",
+          "end_ref_usfm": "GEN 43:7"
+        },
+        {
+          "start_ref": "02001021",
+          "start_ref_usfm": "EXO 1:21",
+          "end_ref": "02001021",
+          "end_ref_usfm": "EXO 1:21"
+        },
+        {
+          "start_ref": "08002001",
+          "start_ref_usfm": "RUT 2:1",
+          "end_ref": "08002001",
+          "end_ref_usfm": "RUT 2:1"
+        },
+        {
+          "start_ref": "08002003",
+          "start_ref_usfm": "RUT 2:3",
+          "end_ref": "08002003",
+          "end_ref_usfm": "RUT 2:3"
+        },
+        {
+          "start_ref": "09018018",
+          "start_ref_usfm": "1SA 18:18",
+          "end_ref": "09018018",
+          "end_ref_usfm": "1SA 18:18"
+        },
+        {
+          "start_ref": "18031034",
+          "start_ref_usfm": "JOB 31:34",
+          "end_ref": "18031034",
+          "end_ref_usfm": "JOB 31:34"
+        },
+        {
+          "start_ref": "18032002",
+          "start_ref_usfm": "JOB 32:2",
+          "end_ref": "18032002",
+          "end_ref_usfm": "JOB 32:2"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "44007013",
+          "start_ref_usfm": "ACT 7:13",
+          "end_ref": "44007013",
+          "end_ref_usfm": "ACT 7:13"
+        },
+        {
+          "start_ref": "49003015",
+          "start_ref_usfm": "EPH 3:15",
+          "end_ref": "49003015",
+          "end_ref_usfm": "EPH 3:15"
+        },
+        {
+          "start_ref": "06002012",
+          "start_ref_usfm": "JOS 2:12",
+          "end_ref": "06002013",
+          "end_ref_usfm": "JOS 2:13"
+        },
+        {
+          "start_ref": "11008001",
+          "start_ref_usfm": "1KI 8:1",
+          "end_ref": "11008002",
+          "end_ref_usfm": "1KI 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25595,
+          "content_id": 26453,
+          "label": "Clan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25856,
+          "content_id": 26714,
+          "label": "House",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467151,
+    "reference_id": 26014,
+    "title": "Mésopotamie",
+    "media_type": "Text",
+    "index_reference": "mésopotamie",
+    "language": "fra",
+    "content": "<h1>Mésopotamie, Aram Naharaim</h1><h2>Définition :</h2><p>&quot;Mésopotamie est la superficie de terre entre le Tigre et l&apos;Euphrate* Son emplacement est dans la région du pays moderne de l&apos;Irak.</p><ul><li><p>Dans l&apos;Ancien Testament, cette région a été appelé &quot;Aram Naharaim*&quot;</p></li><li><p>Le mot «Mésopotamie» signifie «entre les fleuves»* L&apos;expression &quot;Aram Naharaim&quot; signifie &quot;de deux rivières*&quot;</p></li><li><p>Abraham a vécu dans les villes mésopotamiennes d&apos;Ur et Haran avant de passer à la terre de Canaan.</p></li><li><p>Babylone était une autre ville importante en Mésopotamie.</p></li><li><p>La région appelée &quot;Chaldée&quot; faisait également partie de la Mésopotamie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/aram.md), (../names/babylon.md), (../names/chaldeans.md), (../names/euphrates.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "44007002",
+          "start_ref_usfm": "ACT 7:2",
+          "end_ref": "44007002",
+          "end_ref_usfm": "ACT 7:2"
+        },
+        {
+          "start_ref": "44007001",
+          "start_ref_usfm": "ACT 7:1",
+          "end_ref": "44007003",
+          "end_ref_usfm": "ACT 7:3"
+        },
+        {
+          "start_ref": "01024010",
+          "start_ref_usfm": "GEN 24:10",
+          "end_ref": "01024011",
+          "end_ref_usfm": "GEN 24:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25582,
+          "content_id": 466750,
+          "label": "Chaldéé ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 466874,
+          "label": "L'Euphrate",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

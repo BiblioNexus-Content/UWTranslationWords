@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467313,
+    "reference_id": 26194,
+    "title": "Samuel",
+    "media_type": "Text",
+    "index_reference": "samuel",
+    "language": "fra",
+    "content": "<h1>Samuel</h1><h2>Définition :</h2><p>Samuel était un prophète et le dernier juge d&apos;Israël; il oint Saül et David comme des rois sur Israël.</p><ul><li><p>Samuel est le fils d&apos; Elkana et de Anne dans la ville de Rama.</p></li><li><p>Anne était stérile, mais en réponse à sa prière désespérée Dieu lui donna un enfant mâle appelé Samuel.</p></li><li><p>Dans la prière de Anne, elle a promis à Dieu qu&apos;elle consacrerait son fils au Seigneur.</p></li><li><p>Lorsque Samuel était un jeune garçon, Anne l&apos;a envoyé pour aider Eli le prêtre dans le temple comme elle l&apos;avait promis dans sa prière.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/hannah.md), (../kt/judge.md), (../kt/prophet.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09001019",
+          "start_ref_usfm": "1SA 1:19",
+          "end_ref": "09001019",
+          "end_ref_usfm": "1SA 1:19"
+        },
+        {
+          "start_ref": "09009024",
+          "start_ref_usfm": "1SA 9:24",
+          "end_ref": "09009024",
+          "end_ref_usfm": "1SA 9:24"
+        },
+        {
+          "start_ref": "09012017",
+          "start_ref_usfm": "1SA 12:17",
+          "end_ref": "09012017",
+          "end_ref_usfm": "1SA 12:17"
+        },
+        {
+          "start_ref": "44003024",
+          "start_ref_usfm": "ACT 3:24",
+          "end_ref": "44003024",
+          "end_ref_usfm": "ACT 3:24"
+        },
+        {
+          "start_ref": "44013020",
+          "start_ref_usfm": "ACT 13:20",
+          "end_ref": "44013020",
+          "end_ref_usfm": "ACT 13:20"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25818,
+          "content_id": 466967,
+          "label": "Anne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

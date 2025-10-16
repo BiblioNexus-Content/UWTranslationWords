@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 26669,
+    "reference_id": 25811,
+    "title": "Haggai",
+    "media_type": "Text",
+    "index_reference": "haggai",
+    "language": "eng",
+    "content": "<h1>Haggai</h1><h2>Facts:</h2><p>Haggai was a prophet of Judah after the Jews returned home from being captives in Babylon.</p><ul><li><p>During the period when Haggai was prophesying, King Uzziah was reigning over Judah.</p></li><li><p>The prophet Zechariah was also prophesying during this period.</p></li><li><p>Haggai and Zechariah exhorted the Jews to rebuild the temple, which had been destroyed by the Babylonians under King Nebuchadnezzar.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nebuchadnezzar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">Uzziah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26370\" data-resourceType=\"UWTranslationWords\">Zechariah (OT)</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezra5:1-Ezra5:2\">Ezra 5:1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra6:13-Ezra6:15\">Ezra 6:13–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2292</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005001",
+          "end_ref_usfm": "EZR 5:1"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "37001001",
+          "start_ref_usfm": "HAG 1:1",
+          "end_ref": "37001001",
+          "end_ref_usfm": "HAG 1:1"
+        },
+        {
+          "start_ref": "37001003",
+          "start_ref_usfm": "HAG 1:3",
+          "end_ref": "37001003",
+          "end_ref_usfm": "HAG 1:3"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001013",
+          "start_ref_usfm": "HAG 1:13",
+          "end_ref": "37001013",
+          "end_ref_usfm": "HAG 1:13"
+        },
+        {
+          "start_ref": "37002001",
+          "start_ref_usfm": "HAG 2:1",
+          "end_ref": "37002001",
+          "end_ref_usfm": "HAG 2:1"
+        },
+        {
+          "start_ref": "37002010",
+          "start_ref_usfm": "HAG 2:10",
+          "end_ref": "37002010",
+          "end_ref_usfm": "HAG 2:10"
+        },
+        {
+          "start_ref": "37002013",
+          "start_ref_usfm": "HAG 2:13",
+          "end_ref": "37002013",
+          "end_ref_usfm": "HAG 2:13"
+        },
+        {
+          "start_ref": "37002014",
+          "start_ref_usfm": "HAG 2:14",
+          "end_ref": "37002014",
+          "end_ref_usfm": "HAG 2:14"
+        },
+        {
+          "start_ref": "37002020",
+          "start_ref_usfm": "HAG 2:20",
+          "end_ref": "37002020",
+          "end_ref_usfm": "HAG 2:20"
+        },
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "15006013",
+          "start_ref_usfm": "EZR 6:13",
+          "end_ref": "15006015",
+          "end_ref_usfm": "EZR 6:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 26905,
+          "label": "Nebuchadnezzar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 27189,
+          "label": "Uzziah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 27228,
+          "label": "Zechariah OT",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

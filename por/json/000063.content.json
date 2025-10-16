@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237601,
+    "reference_id": 25463,
+    "title": "Anticristo",
+    "media_type": "Text",
+    "index_reference": "anticristo",
+    "language": "por",
+    "content": "<h1>anticristo</h1><h2>Definição:</h2><p>O termo “anticristo” refere-se a uma pessoa ou ensino que é contra Jesus Cristo e sua obra. Existem muitos anticristos no mundo.</p><ul><li><p>O apóstolo João nos diz que uma pessoa é o anticristo se ela engana as pessoas dizendo que Jesus não é o Messias ou se nega que Jesus é tanto Deus quanto humano.</p></li><li><p>A Bíblia também ensina que há um espírito geral de anticristo no mundo que se opõe à obra de Jesus.</p></li><li><p>A besta no capítulo 13 do livro do Novo Testamento de Apocalipse é frequentemente identificada como o anticristo definitivo. Essa pessoa ou ser tentará destruir o povo de Deus, mas será derrotado por Jesus.</p></li><li><p>O apóstolo Paulo se refere a essa pessoa como “o homem da iniquidade” (2Ts 2.3) e ao espírito geral de anticristo no mundo como “o poder secreto da iniquidade” (2Ts 2.7).</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Outras maneiras de traduzir esse termo poderiam incluir uma palavra ou frase que signifique “opositor de Cristo” ou “inimigo de Cristo” ou “pessoa que é contra Cristo”.</p></li><li><p>A frase “espírito do anticristo” também poderia ser traduzida como “espírito que é contra Cristo” ou “atitude de espalhar mentiras sobre Cristo” ou “espírito que ensina mentiras sobre Cristo”.</p></li><li><p>Considere também como esse termo é traduzido em uma tradução da Bíblia em uma língua local ou nacional. (Veja: Como traduzir desconhecidos)</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Cristo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26317\" data-resourceType=\"UWTranslationWords\">tribulação</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1John2:18\">1 João 2.18</a></p></li><li><p><a href=\"https://ref.ly/1John2:22\">1 João 2.22</a></p></li><li><p><a href=\"https://ref.ly/1John4:3\">1 João 4.3</a></p></li><li><p><a href=\"https://ref.ly/2John1:7\">2 João 1.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G05000</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 237722,
+          "label": "Cristo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26317,
+          "content_id": 238445,
+          "label": "Tribulação",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

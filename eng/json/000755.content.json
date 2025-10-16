@@ -1,0 +1,401 @@
+[
+  {
+    "content_id": 27028,
+    "reference_id": 26170,
+    "title": "Repent",
+    "media_type": "Text",
+    "index_reference": "repent",
+    "language": "eng",
+    "content": "<h1>repent, repentance</h1><h2>Definition:</h2><p>The terms “repent” and “repentance” refer to turning away from sin and turning back to God.</p><ul><li><p>To “repent” literally means to “change one’s mind.”</p></li><li><p>In the Bible, “repent” usually means to turn away from a sinful, human way of thinking and acting, and to turn to God’s way of thinking and acting.</p></li><li><p>When people truly repent of their sins, God forgives them and helps them start obeying him.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “repent” can be translated with a word or phrase that means “turn back (to God)” or “turn away from sin and toward God” or “turn toward God, away from sin.”</p></li><li><p>Often the term “repentance” can be translated using the verb “repent.” For example, “God has given repentance to Israel” could be translated as “God has enabled Israel to repent.”</p></li><li><p>Other ways to translate “repentance” could include “turning away from sin” or “turning to God and away from sin.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">forgive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">sin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_turn\" data-resourceType=\"UWTranslationWords\">turn</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts3:19-Acts3:20\">Acts 3:19–20</a></p></li><li><p><a href=\"https://ref.ly/Luke3:3\">Luke 3:3</a></p></li><li><p><a href=\"https://ref.ly/Luke3:8\">Luke 3:8</a></p></li><li><p><a href=\"https://ref.ly/Luke5:32\">Luke 5:32</a></p></li><li><p><a href=\"https://ref.ly/Luke24:47\">Luke 24:47</a></p></li><li><p><a href=\"https://ref.ly/Mark1:14-Mark1:15\">Mark 1:14–15</a></p></li><li><p><a href=\"https://ref.ly/Matt3:3\">Matthew 3:3</a></p></li><li><p><a href=\"https://ref.ly/Matt3:11\">Matthew 3:11</a></p></li><li><p><a href=\"https://ref.ly/Matt4:17\">Matthew 4:17</a></p></li><li><p><a href=\"https://ref.ly/Rom2:4\">Romans 2:4</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>16:2</strong> After many years of disobeying God and being oppressed by their enemies, the Israelites <strong>repented</strong> and asked God to rescue them.</p></li><li><p><strong>17:13</strong> David <strong>repented</strong> of his sin and God forgave him.</p></li><li><p><strong>19:18</strong> They (prophets) warned people that God would destroy them if they did not <strong>repent</strong>.</p></li><li><p><strong>24:2</strong> Many people came out to the wilderness to listen to John. He preached to them, saying, “<strong>Repent</strong>, for the kingdom of God is near!”</p></li><li><p><strong>42:8</strong> “It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to <strong>receive</strong> forgiveness for their sins.”</p></li><li><p><strong>44:5</strong> “So now, <strong>repent</strong> and turn to God so that your sins will be washed away.”</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5150, H5162, H5164, G02780, G33380, G33400, G33410</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02013017",
+          "start_ref_usfm": "EXO 13:17",
+          "end_ref": "02013017",
+          "end_ref_usfm": "EXO 13:17"
+        },
+        {
+          "start_ref": "02032012",
+          "start_ref_usfm": "EXO 32:12",
+          "end_ref": "02032012",
+          "end_ref_usfm": "EXO 32:12"
+        },
+        {
+          "start_ref": "02032014",
+          "start_ref_usfm": "EXO 32:14",
+          "end_ref": "02032014",
+          "end_ref_usfm": "EXO 32:14"
+        },
+        {
+          "start_ref": "40003002",
+          "start_ref_usfm": "MAT 3:2",
+          "end_ref": "40003002",
+          "end_ref_usfm": "MAT 3:2"
+        },
+        {
+          "start_ref": "40003003",
+          "start_ref_usfm": "MAT 3:3",
+          "end_ref": "40003003",
+          "end_ref_usfm": "MAT 3:3"
+        },
+        {
+          "start_ref": "40003008",
+          "start_ref_usfm": "MAT 3:8",
+          "end_ref": "40003008",
+          "end_ref_usfm": "MAT 3:8"
+        },
+        {
+          "start_ref": "40003011",
+          "start_ref_usfm": "MAT 3:11",
+          "end_ref": "40003011",
+          "end_ref_usfm": "MAT 3:11"
+        },
+        {
+          "start_ref": "40004017",
+          "start_ref_usfm": "MAT 4:17",
+          "end_ref": "40004017",
+          "end_ref_usfm": "MAT 4:17"
+        },
+        {
+          "start_ref": "40011020",
+          "start_ref_usfm": "MAT 11:20",
+          "end_ref": "40011020",
+          "end_ref_usfm": "MAT 11:20"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "40012041",
+          "start_ref_usfm": "MAT 12:41",
+          "end_ref": "40012041",
+          "end_ref_usfm": "MAT 12:41"
+        },
+        {
+          "start_ref": "40021029",
+          "start_ref_usfm": "MAT 21:29",
+          "end_ref": "40021029",
+          "end_ref_usfm": "MAT 21:29"
+        },
+        {
+          "start_ref": "40021032",
+          "start_ref_usfm": "MAT 21:32",
+          "end_ref": "40021032",
+          "end_ref_usfm": "MAT 21:32"
+        },
+        {
+          "start_ref": "40027003",
+          "start_ref_usfm": "MAT 27:3",
+          "end_ref": "40027003",
+          "end_ref_usfm": "MAT 27:3"
+        },
+        {
+          "start_ref": "41001004",
+          "start_ref_usfm": "MRK 1:4",
+          "end_ref": "41001004",
+          "end_ref_usfm": "MRK 1:4"
+        },
+        {
+          "start_ref": "41001015",
+          "start_ref_usfm": "MRK 1:15",
+          "end_ref": "41001015",
+          "end_ref_usfm": "MRK 1:15"
+        },
+        {
+          "start_ref": "41006012",
+          "start_ref_usfm": "MRK 6:12",
+          "end_ref": "41006012",
+          "end_ref_usfm": "MRK 6:12"
+        },
+        {
+          "start_ref": "42003003",
+          "start_ref_usfm": "LUK 3:3",
+          "end_ref": "42003003",
+          "end_ref_usfm": "LUK 3:3"
+        },
+        {
+          "start_ref": "42003008",
+          "start_ref_usfm": "LUK 3:8",
+          "end_ref": "42003008",
+          "end_ref_usfm": "LUK 3:8"
+        },
+        {
+          "start_ref": "42005032",
+          "start_ref_usfm": "LUK 5:32",
+          "end_ref": "42005032",
+          "end_ref_usfm": "LUK 5:32"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "42011032",
+          "start_ref_usfm": "LUK 11:32",
+          "end_ref": "42011032",
+          "end_ref_usfm": "LUK 11:32"
+        },
+        {
+          "start_ref": "42013003",
+          "start_ref_usfm": "LUK 13:3",
+          "end_ref": "42013003",
+          "end_ref_usfm": "LUK 13:3"
+        },
+        {
+          "start_ref": "42013005",
+          "start_ref_usfm": "LUK 13:5",
+          "end_ref": "42013005",
+          "end_ref_usfm": "LUK 13:5"
+        },
+        {
+          "start_ref": "42015007",
+          "start_ref_usfm": "LUK 15:7",
+          "end_ref": "42015007",
+          "end_ref_usfm": "LUK 15:7"
+        },
+        {
+          "start_ref": "42015010",
+          "start_ref_usfm": "LUK 15:10",
+          "end_ref": "42015010",
+          "end_ref_usfm": "LUK 15:10"
+        },
+        {
+          "start_ref": "42016030",
+          "start_ref_usfm": "LUK 16:30",
+          "end_ref": "42016030",
+          "end_ref_usfm": "LUK 16:30"
+        },
+        {
+          "start_ref": "42017003",
+          "start_ref_usfm": "LUK 17:3",
+          "end_ref": "42017003",
+          "end_ref_usfm": "LUK 17:3"
+        },
+        {
+          "start_ref": "42017004",
+          "start_ref_usfm": "LUK 17:4",
+          "end_ref": "42017004",
+          "end_ref_usfm": "LUK 17:4"
+        },
+        {
+          "start_ref": "42024047",
+          "start_ref_usfm": "LUK 24:47",
+          "end_ref": "42024047",
+          "end_ref_usfm": "LUK 24:47"
+        },
+        {
+          "start_ref": "44002038",
+          "start_ref_usfm": "ACT 2:38",
+          "end_ref": "44002038",
+          "end_ref_usfm": "ACT 2:38"
+        },
+        {
+          "start_ref": "44003019",
+          "start_ref_usfm": "ACT 3:19",
+          "end_ref": "44003019",
+          "end_ref_usfm": "ACT 3:19"
+        },
+        {
+          "start_ref": "44005031",
+          "start_ref_usfm": "ACT 5:31",
+          "end_ref": "44005031",
+          "end_ref_usfm": "ACT 5:31"
+        },
+        {
+          "start_ref": "44008022",
+          "start_ref_usfm": "ACT 8:22",
+          "end_ref": "44008022",
+          "end_ref_usfm": "ACT 8:22"
+        },
+        {
+          "start_ref": "44011018",
+          "start_ref_usfm": "ACT 11:18",
+          "end_ref": "44011018",
+          "end_ref_usfm": "ACT 11:18"
+        },
+        {
+          "start_ref": "44013024",
+          "start_ref_usfm": "ACT 13:24",
+          "end_ref": "44013024",
+          "end_ref_usfm": "ACT 13:24"
+        },
+        {
+          "start_ref": "44017030",
+          "start_ref_usfm": "ACT 17:30",
+          "end_ref": "44017030",
+          "end_ref_usfm": "ACT 17:30"
+        },
+        {
+          "start_ref": "44019004",
+          "start_ref_usfm": "ACT 19:4",
+          "end_ref": "44019004",
+          "end_ref_usfm": "ACT 19:4"
+        },
+        {
+          "start_ref": "44020021",
+          "start_ref_usfm": "ACT 20:21",
+          "end_ref": "44020021",
+          "end_ref_usfm": "ACT 20:21"
+        },
+        {
+          "start_ref": "44026020",
+          "start_ref_usfm": "ACT 26:20",
+          "end_ref": "44026020",
+          "end_ref_usfm": "ACT 26:20"
+        },
+        {
+          "start_ref": "45002004",
+          "start_ref_usfm": "ROM 2:4",
+          "end_ref": "45002004",
+          "end_ref_usfm": "ROM 2:4"
+        },
+        {
+          "start_ref": "47007009",
+          "start_ref_usfm": "2CO 7:9",
+          "end_ref": "47007009",
+          "end_ref_usfm": "2CO 7:9"
+        },
+        {
+          "start_ref": "47007010",
+          "start_ref_usfm": "2CO 7:10",
+          "end_ref": "47007010",
+          "end_ref_usfm": "2CO 7:10"
+        },
+        {
+          "start_ref": "47012021",
+          "start_ref_usfm": "2CO 12:21",
+          "end_ref": "47012021",
+          "end_ref_usfm": "2CO 12:21"
+        },
+        {
+          "start_ref": "55002025",
+          "start_ref_usfm": "2TI 2:25",
+          "end_ref": "55002025",
+          "end_ref_usfm": "2TI 2:25"
+        },
+        {
+          "start_ref": "58006001",
+          "start_ref_usfm": "HEB 6:1",
+          "end_ref": "58006001",
+          "end_ref_usfm": "HEB 6:1"
+        },
+        {
+          "start_ref": "58006006",
+          "start_ref_usfm": "HEB 6:6",
+          "end_ref": "58006006",
+          "end_ref_usfm": "HEB 6:6"
+        },
+        {
+          "start_ref": "58007021",
+          "start_ref_usfm": "HEB 7:21",
+          "end_ref": "58007021",
+          "end_ref_usfm": "HEB 7:21"
+        },
+        {
+          "start_ref": "58012017",
+          "start_ref_usfm": "HEB 12:17",
+          "end_ref": "58012017",
+          "end_ref_usfm": "HEB 12:17"
+        },
+        {
+          "start_ref": "61003009",
+          "start_ref_usfm": "2PE 3:9",
+          "end_ref": "61003009",
+          "end_ref_usfm": "2PE 3:9"
+        },
+        {
+          "start_ref": "66002005",
+          "start_ref_usfm": "REV 2:5",
+          "end_ref": "66002005",
+          "end_ref_usfm": "REV 2:5"
+        },
+        {
+          "start_ref": "66002016",
+          "start_ref_usfm": "REV 2:16",
+          "end_ref": "66002016",
+          "end_ref_usfm": "REV 2:16"
+        },
+        {
+          "start_ref": "66002021",
+          "start_ref_usfm": "REV 2:21",
+          "end_ref": "66002021",
+          "end_ref_usfm": "REV 2:21"
+        },
+        {
+          "start_ref": "66002022",
+          "start_ref_usfm": "REV 2:22",
+          "end_ref": "66002022",
+          "end_ref_usfm": "REV 2:22"
+        },
+        {
+          "start_ref": "66003003",
+          "start_ref_usfm": "REV 3:3",
+          "end_ref": "66003003",
+          "end_ref_usfm": "REV 3:3"
+        },
+        {
+          "start_ref": "66003019",
+          "start_ref_usfm": "REV 3:19",
+          "end_ref": "66003019",
+          "end_ref_usfm": "REV 3:19"
+        },
+        {
+          "start_ref": "66009020",
+          "start_ref_usfm": "REV 9:20",
+          "end_ref": "66009020",
+          "end_ref_usfm": "REV 9:20"
+        },
+        {
+          "start_ref": "66009021",
+          "start_ref_usfm": "REV 9:21",
+          "end_ref": "66009021",
+          "end_ref_usfm": "REV 9:21"
+        },
+        {
+          "start_ref": "66016009",
+          "start_ref_usfm": "REV 16:9",
+          "end_ref": "66016009",
+          "end_ref_usfm": "REV 16:9"
+        },
+        {
+          "start_ref": "66016011",
+          "start_ref_usfm": "REV 16:11",
+          "end_ref": "66016011",
+          "end_ref_usfm": "REV 16:11"
+        },
+        {
+          "start_ref": "41001014",
+          "start_ref_usfm": "MRK 1:14",
+          "end_ref": "41001015",
+          "end_ref_usfm": "MRK 1:15"
+        },
+        {
+          "start_ref": "44003019",
+          "start_ref_usfm": "ACT 3:19",
+          "end_ref": "44003020",
+          "end_ref_usfm": "ACT 3:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25752,
+          "content_id": 26610,
+          "label": "Forgive",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 27098,
+          "label": "Sin",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

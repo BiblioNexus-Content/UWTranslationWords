@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467345,
+    "reference_id": 26229,
+    "title": "Schimei",
+    "media_type": "Text",
+    "index_reference": "schimei",
+    "language": "fra",
+    "content": "<h1>Schimei</h1><h2>Définition :</h2><p>Plusieurs hommes de l&apos;Ancien Testament sont nommés Schimei.</p><ul><li><p>Schimei fils de Guéra, était un Benjamite qui maudit le roi David et jeta des pierres sur lui, quand ce dernier fuyait Jérusalem et son fils Absalom.</p></li><li><p>Plusieurs hommes nommés Schimei dans l&apos;Ancien Testament ont servi comme étant des prêtres lévites.</p></li></ul><p>(Voir aussi : (../names/absalom.md), (../names/benjamin.md), (../names/levite.md), (../kt/priest.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10016013",
+          "start_ref_usfm": "2SA 16:13",
+          "end_ref": "10016013",
+          "end_ref_usfm": "2SA 16:13"
+        },
+        {
+          "start_ref": "11001008",
+          "start_ref_usfm": "1KI 1:8",
+          "end_ref": "11001008",
+          "end_ref_usfm": "1KI 1:8"
+        },
+        {
+          "start_ref": "13006017",
+          "start_ref_usfm": "1CH 6:17",
+          "end_ref": "13006017",
+          "end_ref_usfm": "1CH 6:17"
+        },
+        {
+          "start_ref": "38012012",
+          "start_ref_usfm": "ZEC 12:12",
+          "end_ref": "38012014",
+          "end_ref_usfm": "ZEC 12:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

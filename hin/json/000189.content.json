@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179786,
+    "reference_id": 25713,
+    "title": "कूश",
+    "media_type": "Text",
+    "index_reference": "कूश",
+    "language": "hin",
+    "content": "<h1>कूश, कूशी</h1><h2>तथ्य:</h2><p>कूश अफ्रीका का एक देश है जो मिस्र के ठीक दक्षिण में है जिसके पश्चिम में नील नदी और पूर्व में लाल सागर है। कूश का निवासी “कूशी” कहलाता है।</p><ul><li><p>प्राचीन कूश मिस्र के दक्षिण में था और उसकी सीमाओं में आज के अनेक अफ्रीकी देशों को जैसे सूडान, वर्तमान कूश, सोमालिया, केन्या, यूगांडा, केन्द्रिय अफ्रीका गणराज्य तथा चाड हैं।</p></li><li><p>बाइबल में कूश को “कूश” देश या “नूबिया” भी कहा गया है।</p></li><li><p>इथोपिया (कूश) और मिस्र देशों का उल्लेख बाइबल में प्रायः एक साथ किया गया है, संभवतः इसलिए कि वे पड़ोसी देश थे और उनके पूर्वज संभवतः एक ही थे।</p></li><li><p>परमेश्वर ने प्रचारक फिलिप्पुस को रेगिस्तान में भेजा कि वह इथोपिया के खोजे को यीशु का शुभ सन्देश सुनाए।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25634\" data-resourceType=\"UWTranslationWords\">कूश</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">मिस्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25714\" data-resourceType=\"UWTranslationWords\">खोजा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">फिलिप्पुस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts8:27\">प्रे.का. 08:27</a></p></li><li><p><a href=\"https://ref.ly/Acts8:30\">प्रे.का. 08:30</a></p></li><li><p><a href=\"https://ref.ly/Acts8:32-Acts8:33\">प्रे.का. 08:32–33</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36-Acts8:38\">प्रे.का. 08:36–38</a></p></li><li><p><a href=\"https://ref.ly/Isa18:1-Isa18:2\">यशायाह 18:1–2</a></p></li><li><p><a href=\"https://ref.ly/Nah3:8-Nah3:9\">नहूम 03:8–09</a></p></li><li><p><a href=\"https://ref.ly/Zeph3:9-Zeph3:11\">सपन्याह 03:9–11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G128</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18028019",
+          "start_ref_usfm": "JOB 28:19",
+          "end_ref": "18028019",
+          "end_ref_usfm": "JOB 28:19"
+        },
+        {
+          "start_ref": "34003009",
+          "start_ref_usfm": "NAM 3:9",
+          "end_ref": "34003009",
+          "end_ref_usfm": "NAM 3:9"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44008032",
+          "start_ref_usfm": "ACT 8:32",
+          "end_ref": "44008033",
+          "end_ref_usfm": "ACT 8:33"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "23018001",
+          "start_ref_usfm": "ISA 18:1",
+          "end_ref": "23018002",
+          "end_ref_usfm": "ISA 18:2"
+        },
+        {
+          "start_ref": "36003009",
+          "start_ref_usfm": "ZEP 3:9",
+          "end_ref": "36003011",
+          "end_ref_usfm": "ZEP 3:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25634,
+          "content_id": 179711,
+          "label": "कूश",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 179764,
+          "label": "मिस्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25714,
+          "content_id": 179787,
+          "label": "खोजे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 180158,
+          "label": "फिलिप्पुस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

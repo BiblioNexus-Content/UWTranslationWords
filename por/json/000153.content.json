@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237946,
+    "reference_id": 25813,
+    "title": "Cam",
+    "media_type": "Text",
+    "index_reference": "cam",
+    "language": "por",
+    "content": "<h1>Cam</h1><h2>Fatos:</h2><p>Cam foi o segundo dos três filhos de Noé.</p><ul><li><p>Durante o dilúvio global que cobriu toda a terra, Cam e seus irmãos estavam com Noé na arca, junto com suas esposas.</p></li><li><p>Após o dilúvio, houve uma ocasião em que Cam foi muito desonroso com seu pai, Noé. Como resultado, Noé amaldiçoou o filho de Cam, Canaã, e todos os seus descendentes, que eventualmente ficaram conhecidos como os cananeus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">arca</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25672\" data-resourceType=\"UWTranslationWords\">desonra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen5:32\">Gênesis 5.32</a></p></li><li><p><a href=\"https://ref.ly/Gen6:10\">Gênesis 6.10</a></p></li><li><p><a href=\"https://ref.ly/Gen7:13-Gen7:14\">Gênesis 7.13–14</a></p></li><li><p><a href=\"https://ref.ly/Gen10:1\">Gênesis 10.1</a></p></li><li><p><a href=\"https://ref.ly/Gen10:20\">Gênesis 10.20</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2526</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01005032",
+          "start_ref_usfm": "GEN 5:32",
+          "end_ref": "01005032",
+          "end_ref_usfm": "GEN 5:32"
+        },
+        {
+          "start_ref": "01006010",
+          "start_ref_usfm": "GEN 6:10",
+          "end_ref": "01006010",
+          "end_ref_usfm": "GEN 6:10"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007013",
+          "end_ref_usfm": "GEN 7:13"
+        },
+        {
+          "start_ref": "01009018",
+          "start_ref_usfm": "GEN 9:18",
+          "end_ref": "01009018",
+          "end_ref_usfm": "GEN 9:18"
+        },
+        {
+          "start_ref": "01009022",
+          "start_ref_usfm": "GEN 9:22",
+          "end_ref": "01009022",
+          "end_ref_usfm": "GEN 9:22"
+        },
+        {
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010001",
+          "end_ref_usfm": "GEN 10:1"
+        },
+        {
+          "start_ref": "01010006",
+          "start_ref_usfm": "GEN 10:6",
+          "end_ref": "01010006",
+          "end_ref_usfm": "GEN 10:6"
+        },
+        {
+          "start_ref": "01010020",
+          "start_ref_usfm": "GEN 10:20",
+          "end_ref": "01010020",
+          "end_ref_usfm": "GEN 10:20"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007014",
+          "end_ref_usfm": "GEN 7:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 237611,
+          "label": "Arca",
+          "language": "por"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25672,
+          "content_id": 237805,
+          "label": "Desonra",
+          "language": "por"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

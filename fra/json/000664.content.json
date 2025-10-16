@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467227,
+    "reference_id": 26103,
+    "title": "Porc",
+    "media_type": "Text",
+    "index_reference": "porc",
+    "language": "fra",
+    "content": "<h1>porc, cochon</h1><h2>Définition :</h2><p>Un cochon ou porc est un animal à quatre pattes, qui est élevé pour sa viande.</p><ul><li><p>Dieu dit aux Israélites de ne pas manger de la viande de porc et de la considerer impure*Aujourd&apos;hui,les Juifs considèrent encore le porc comme impur et ne le mangent pas.</p></li><li><p>Les porcs sont élevés dans des fermes pour être vendus à d&apos;autres personnes pour leur viande.</p></li><li><p>Il y a une sorte de porc qui n&apos;est pas élevé dans les fermes mais qui est sauvage; il est appelé un &quot;sanglier*&quot; Les verrats ont des défenses et sont considérés comme des animaux très dangereux.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../kt/clean.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20011022",
+          "start_ref_usfm": "PRO 11:22",
+          "end_ref": "20011022",
+          "end_ref_usfm": "PRO 11:22"
+        },
+        {
+          "start_ref": "40007006",
+          "start_ref_usfm": "MAT 7:6",
+          "end_ref": "40007006",
+          "end_ref_usfm": "MAT 7:6"
+        },
+        {
+          "start_ref": "40008030",
+          "start_ref_usfm": "MAT 8:30",
+          "end_ref": "40008030",
+          "end_ref_usfm": "MAT 8:30"
+        },
+        {
+          "start_ref": "40008031",
+          "start_ref_usfm": "MAT 8:31",
+          "end_ref": "40008031",
+          "end_ref_usfm": "MAT 8:31"
+        },
+        {
+          "start_ref": "40008032",
+          "start_ref_usfm": "MAT 8:32",
+          "end_ref": "40008032",
+          "end_ref_usfm": "MAT 8:32"
+        },
+        {
+          "start_ref": "41005011",
+          "start_ref_usfm": "MRK 5:11",
+          "end_ref": "41005011",
+          "end_ref_usfm": "MRK 5:11"
+        },
+        {
+          "start_ref": "41005012",
+          "start_ref_usfm": "MRK 5:12",
+          "end_ref": "41005012",
+          "end_ref_usfm": "MRK 5:12"
+        },
+        {
+          "start_ref": "41005013",
+          "start_ref_usfm": "MRK 5:13",
+          "end_ref": "41005013",
+          "end_ref_usfm": "MRK 5:13"
+        },
+        {
+          "start_ref": "41005016",
+          "start_ref_usfm": "MRK 5:16",
+          "end_ref": "41005016",
+          "end_ref_usfm": "MRK 5:16"
+        },
+        {
+          "start_ref": "42008032",
+          "start_ref_usfm": "LUK 8:32",
+          "end_ref": "42008032",
+          "end_ref_usfm": "LUK 8:32"
+        },
+        {
+          "start_ref": "42008033",
+          "start_ref_usfm": "LUK 8:33",
+          "end_ref": "42008033",
+          "end_ref_usfm": "LUK 8:33"
+        },
+        {
+          "start_ref": "42015015",
+          "start_ref_usfm": "LUK 15:15",
+          "end_ref": "42015015",
+          "end_ref_usfm": "LUK 15:15"
+        },
+        {
+          "start_ref": "42015016",
+          "start_ref_usfm": "LUK 15:16",
+          "end_ref": "42015016",
+          "end_ref_usfm": "LUK 15:16"
+        },
+        {
+          "start_ref": "61002022",
+          "start_ref_usfm": "2PE 2:22",
+          "end_ref": "61002022",
+          "end_ref_usfm": "2PE 2:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 466764,
+          "label": "Pur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

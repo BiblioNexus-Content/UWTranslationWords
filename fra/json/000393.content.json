@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466610,
+    "reference_id": 25428,
+    "title": "Honnorer",
+    "media_type": "Text",
+    "index_reference": "honnorer",
+    "language": "fra",
+    "content": "<h1>honnorer</h1><h2>Définition :</h2><p>Le terme &quot;honnorer&quot; signifie &quot;rendre honneur et respect, simplement tenir en grande estime&quot;/n- Honnorer Dieu implique agir d&apos;une manière qui démontre que ce qu&apos;il dit est vrai.</p><ul><li><p>Ceux qui honnorent Dieu le démontrent en lui obéissant, ce qui donne gloire à son nom.</p></li><li><p>Honnorer quelque chose signifie croire que c&apos;est vrai, avec des actions et des paroles qui le confirment.</p></li></ul><p>(Voir aussi : (../other/obey.md), (../kt/glory.md), (../kt/save.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03022032",
+          "start_ref_usfm": "LEV 22:32",
+          "end_ref": "03022032",
+          "end_ref_usfm": "LEV 22:32"
+        },
+        {
+          "start_ref": "46014037",
+          "start_ref_usfm": "1CO 14:37",
+          "end_ref": "46014037",
+          "end_ref_usfm": "1CO 14:37"
+        },
+        {
+          "start_ref": "46016018",
+          "start_ref_usfm": "1CO 16:18",
+          "end_ref": "46016018",
+          "end_ref_usfm": "1CO 16:18"
+        },
+        {
+          "start_ref": "52005012",
+          "start_ref_usfm": "1TH 5:12",
+          "end_ref": "52005012",
+          "end_ref_usfm": "1TH 5:12"
+        },
+        {
+          "start_ref": "19029001",
+          "start_ref_usfm": "PSA 29:1",
+          "end_ref": "19029002",
+          "end_ref_usfm": "PSA 29:2"
+        },
+        {
+          "start_ref": "24009004",
+          "start_ref_usfm": "JER 9:4",
+          "end_ref": "24009006",
+          "end_ref_usfm": "JER 9:6"
+        },
+        {
+          "start_ref": "27011038",
+          "start_ref_usfm": "DAN 11:38",
+          "end_ref": "27011039",
+          "end_ref_usfm": "DAN 11:39"
+        },
+        {
+          "start_ref": "18034026",
+          "start_ref_usfm": "JOB 34:26",
+          "end_ref": "18034028",
+          "end_ref_usfm": "JOB 34:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25786,
+          "content_id": 466935,
+          "label": "Gloire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26201,
+          "content_id": 467320,
+          "label": "Sauver",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

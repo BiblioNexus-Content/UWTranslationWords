@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467138,
+    "reference_id": 26001,
+    "title": "Matthieu",
+    "media_type": "Text",
+    "index_reference": "matthieu",
+    "language": "fra",
+    "content": "<h1>Matthieu, Levi</h1><h2>Définition :</h2><p>&quot;Matthieu était le nom donné à Lévi, fils d&apos;Alphée* Matthieu était l&apos;un des douze hommes que Jésus a choisi pour être apôtre.</p><ul><li><p>Matthieu était un percepteur de Capharnaüm avant de rencontrer Jésus.</p></li><li><p>Matthieu a écrit l&apos;évangile qui porte son nom.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../names/levite.md), (../other/tax.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40009009",
+          "start_ref_usfm": "MAT 9:9",
+          "end_ref": "40009009",
+          "end_ref_usfm": "MAT 9:9"
+        },
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41002014",
+          "start_ref_usfm": "MRK 2:14",
+          "end_ref": "41002014",
+          "end_ref_usfm": "MRK 2:14"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42005027",
+          "start_ref_usfm": "LUK 5:27",
+          "end_ref": "42005027",
+          "end_ref_usfm": "LUK 5:27"
+        },
+        {
+          "start_ref": "42005029",
+          "start_ref_usfm": "LUK 5:29",
+          "end_ref": "42005029",
+          "end_ref_usfm": "LUK 5:29"
+        },
+        {
+          "start_ref": "42006015",
+          "start_ref_usfm": "LUK 6:15",
+          "end_ref": "42006015",
+          "end_ref_usfm": "LUK 6:15"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 467107,
+          "label": "Lévites",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 467396,
+          "label": "Impôts",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

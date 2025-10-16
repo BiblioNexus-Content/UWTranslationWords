@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 179852,
+    "reference_id": 25781,
+    "title": "गिलाद",
+    "media_type": "Text",
+    "index_reference": "गिलाद",
+    "language": "hin",
+    "content": "<h1>गिलाद, गिलादी, गिलादियों</h1><h2>परिभाषा:</h2><ul><li><p>गिलाद यरदन नदी के पूर्व में एक पर्वतीय प्रदेश है जहां इस्राएली गोत्र गाद, रूबेन, मनश्शे वास करने लगे थे।</p></li><li><p>इस क्षेत्र को “गिलाद का पहाड़ी प्रदेश” या “गिलाद पर्वत” भी कहा गया है।</p></li><li><p>“गिलाद” पुराने नियम में अनेक पुरुषों का नाम भी था। उनमें से एक मनश्शे का पोता भी था। एक और पुरुष जिसका नाम गिलाद था, वह यिप्तह का पिता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">गाद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25894\" data-resourceType=\"UWTranslationWords\">यिप्तह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">मनश्शे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26174\" data-resourceType=\"UWTranslationWords\">रूबेन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 2:22</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 11:1</a></p></li><li><p><a href=\"https://ref.ly/Amos1:3\">आमोस 1:3</a></p></li><li><p><a href=\"https://ref.ly/Deut2:36-Deut2:37\">व्यवस्थाविवरण 2:36–37</a></p></li><li><p><a href=\"https://ref.ly/Gen31:21\">उत्पत्ति 31:21</a></p></li><li><p><a href=\"https://ref.ly/Gen37:25-Gen37:26\">उत्पत्ति 37:25–26</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1568, H1569</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031021",
+          "start_ref_usfm": "GEN 31:21",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        },
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "01031025",
+          "start_ref_usfm": "GEN 31:25",
+          "end_ref": "01031025",
+          "end_ref_usfm": "GEN 31:25"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037025",
+          "end_ref_usfm": "GEN 37:25"
+        },
+        {
+          "start_ref": "09011001",
+          "start_ref_usfm": "1SA 11:1",
+          "end_ref": "09011001",
+          "end_ref_usfm": "1SA 11:1"
+        },
+        {
+          "start_ref": "13002022",
+          "start_ref_usfm": "1CH 2:22",
+          "end_ref": "13002022",
+          "end_ref_usfm": "1CH 2:22"
+        },
+        {
+          "start_ref": "16007063",
+          "start_ref_usfm": "NEH 7:63",
+          "end_ref": "16007063",
+          "end_ref_usfm": "NEH 7:63"
+        },
+        {
+          "start_ref": "22006005",
+          "start_ref_usfm": "SNG 6:5",
+          "end_ref": "22006005",
+          "end_ref_usfm": "SNG 6:5"
+        },
+        {
+          "start_ref": "30001003",
+          "start_ref_usfm": "AMO 1:3",
+          "end_ref": "30001003",
+          "end_ref_usfm": "AMO 1:3"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "05002036",
+          "start_ref_usfm": "DEU 2:36",
+          "end_ref": "05002037",
+          "end_ref_usfm": "DEU 2:37"
+        },
+        {
+          "start_ref": "01037025",
+          "start_ref_usfm": "GEN 37:25",
+          "end_ref": "01037026",
+          "end_ref_usfm": "GEN 37:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 179837,
+          "label": "गाद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25894,
+          "content_id": 179961,
+          "label": "यिप्तह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 180058,
+          "label": "मनश्शे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26174,
+          "content_id": 180232,
+          "label": "रूबेन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

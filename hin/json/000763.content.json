@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179601,
+    "reference_id": 25516,
+    "title": "रीछ",
+    "media_type": "Text",
+    "index_reference": "रीछ",
+    "language": "hin",
+    "content": "<h1>रीछ, रीछनियों</h1><h2>परिभाषा:</h2><p>रीछ भूरा या काले रंग का रोमदार पशु है जिसके दांत और पंजे तीक्ष्ण होते है। बाइबल के युग में रीछ एक सामान्य वन पशु था।</p><p>ये पशु जंगलों और पहाड़ों में रहते हैं तथा मछली, कीड़े और पौधे खाते हैं।</p><ul><li><p>पुराने नियम में रीछ शक्ति का प्रतीक था।</p></li><li><p>भेड़ों की रखवाली करते समय दाऊद ने एक रीछ को मार गिराया था।</p></li><li><p>कुछ लड़के एलीशा का मज़ाक उड़ा रहे थे तब दो रीछ जंगल से निकल कर आए और उन्हें मार डाला।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">एलीशा</span>)</p><h2>बाइबल सन्दर्भ:</h2><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1677, G715</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017012",
+          "start_ref_usfm": "PRO 17:12",
+          "end_ref": "20017012",
+          "end_ref_usfm": "PRO 17:12"
+        },
+        {
+          "start_ref": "20028015",
+          "start_ref_usfm": "PRO 28:15",
+          "end_ref": "20028015",
+          "end_ref_usfm": "PRO 28:15"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 179772,
+          "label": "एलीशा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

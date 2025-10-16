@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26636,
+    "reference_id": 25778,
+    "title": "Gibeah",
+    "media_type": "Text",
+    "index_reference": "gibeah",
+    "language": "eng",
+    "content": "<h1>Gibeah</h1><h2>Facts:</h2><p>Gibeah was a city located north of Jerusalem and south of Bethel.</p><ul><li><p>Gibeah was in the territory of the tribe of Benjamin.</p></li><li><p>It was the site of a huge battle between the Benjamites and Israel.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25529\" data-resourceType=\"UWTranslationWords\">Bethel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam10:26-1Sam10:27\">1 Samuel 10:26–27</a></p></li><li><p><a href=\"https://ref.ly/2Sam21:6\">2 Samuel 21:6</a></p></li><li><p><a href=\"https://ref.ly/Hos9:9\">Hosea 9:9</a></p></li><li><p><a href=\"https://ref.ly/Judg19:12-Judg19:13\">Judges 19:12–13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1387, H1389, H1390, H1394</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10021006",
+          "start_ref_usfm": "2SA 21:6",
+          "end_ref": "10021006",
+          "end_ref_usfm": "2SA 21:6"
+        },
+        {
+          "start_ref": "28009009",
+          "start_ref_usfm": "HOS 9:9",
+          "end_ref": "28009009",
+          "end_ref_usfm": "HOS 9:9"
+        },
+        {
+          "start_ref": "09010026",
+          "start_ref_usfm": "1SA 10:26",
+          "end_ref": "09010027",
+          "end_ref_usfm": "1SA 10:27"
+        },
+        {
+          "start_ref": "07019012",
+          "start_ref_usfm": "JDG 19:12",
+          "end_ref": "07019013",
+          "end_ref_usfm": "JDG 19:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25526,
+          "content_id": 26384,
+          "label": "Benjamin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25529,
+          "content_id": 26387,
+          "label": "Bethel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

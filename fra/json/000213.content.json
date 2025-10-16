@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 559323,
+    "reference_id": 25636,
+    "title": "Cyprès",
+    "media_type": "Text",
+    "index_reference": "cyprès",
+    "language": "fra",
+    "content": "<h1>Cyprès</h1><h2>Définition :</h2><p>Le terme <strong><em>« cyprès »</em></strong> désigne un type de sapin qui était abondant dans les régions où vivaient les gens à l&apos;époque biblique, en particulier dans les pays bordant la mer Méditerranée.</p><ul><li><p>Chypre et le Liban sont deux endroits spécifiquement mentionnés dans la Bible comme ayant de nombreux cyprès.</p></li><li><p>Le bois que Noé a utilisé pour construire l&apos;arche pourrait avoir été du cyprès.</p></li><li><p>Parce que le bois de cyprès est robuste et durable, il était utilisé par les anciens peuples pour construire des bateaux et d&apos;autres structures.</p></li></ul><p>(Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">arche</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25637\" data-resourceType=\"UWTranslationWords\">Chypre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">sapin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25963\" data-resourceType=\"UWTranslationWords\">Liban</span>)</p><p></p><h2>Références bibliques :</h2><ul><li><p><a href=\"https://ref.ly/Acts11:19-Acts11:21\">Actes 11.19–21</a></p></li><li><p><a href=\"https://ref.ly/Gen6:14\">Genèse 6.14</a></p></li><li><p><a href=\"https://ref.ly/Hos14:8\">Osée 14.8</a></p></li><li><p><a href=\"https://ref.ly/Isa44:14\">Ésaïe 44.14</a></p></li><li><p><a href=\"https://ref.ly/Isa60:13\">Ésaïe 60.13</a></p></li><li><p><a href=\"https://ref.ly/Zech11:2\">Zacharie 11.2</a></p></li></ul><h2>Données sur le mot :</h2><ul><li><p>Strong’s&nbsp;: H8645</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006014",
+          "start_ref_usfm": "GEN 6:14",
+          "end_ref": "01006014",
+          "end_ref_usfm": "GEN 6:14"
+        },
+        {
+          "start_ref": "23044014",
+          "start_ref_usfm": "ISA 44:14",
+          "end_ref": "23044014",
+          "end_ref_usfm": "ISA 44:14"
+        },
+        {
+          "start_ref": "23060013",
+          "start_ref_usfm": "ISA 60:13",
+          "end_ref": "23060013",
+          "end_ref_usfm": "ISA 60:13"
+        },
+        {
+          "start_ref": "28014008",
+          "start_ref_usfm": "HOS 14:8",
+          "end_ref": "28014008",
+          "end_ref_usfm": "HOS 14:8"
+        },
+        {
+          "start_ref": "38011002",
+          "start_ref_usfm": "ZEC 11:2",
+          "end_ref": "38011002",
+          "end_ref_usfm": "ZEC 11:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 466653,
+          "label": "Arche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25637,
+          "content_id": 466800,
+          "label": "Chypre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 466894,
+          "label": "Sapin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25963,
+          "content_id": 467103,
+          "label": "Liban",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

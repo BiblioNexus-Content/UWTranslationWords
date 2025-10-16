@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26605,
+    "reference_id": 25747,
+    "title": "Flute",
+    "media_type": "Text",
+    "index_reference": "flute",
+    "language": "eng",
+    "content": "<h1>flute, pipe</h1><h2>Definition:</h2><p>In Bible times, pipes were musical instruments made of bone or wood with holes to allow the sound to come out. A flute was a kind of pipe.</p><ul><li><p>Most pipes had reeds made out of a kind of thick grass that vibrated as air was blown over it.</p></li><li><p>A pipe without any reeds was often called a “flute.”</p></li><li><p>A shepherd played a pipe to calm his flocks of sheep.</p></li><li><p>Pipes and flutes were used for playing sad or joyful music.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25745\" data-resourceType=\"UWTranslationWords\">flock</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">shepherd</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor14:7\">1 Corinthians 14:7</a></p></li><li><p><a href=\"https://ref.ly/1Kgs1:38-1Kgs1:40\">1 Kings 1:38–40</a></p></li><li><p><a href=\"https://ref.ly/Dan3:3-Dan3:5\">Daniel 3:3–5</a></p></li><li><p><a href=\"https://ref.ly/Luke7:31-Luke7:32\">Luke 7:31–32</a></p></li><li><p><a href=\"https://ref.ly/Matt9:23\">Matthew 9:23</a></p></li><li><p><a href=\"https://ref.ly/Matt11:17\">Matthew 11:17</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4953, H5748, H2485, H2490, G08320, G08340, G08360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "40009023",
+          "start_ref_usfm": "MAT 9:23",
+          "end_ref": "40009023",
+          "end_ref_usfm": "MAT 9:23"
+        },
+        {
+          "start_ref": "40011017",
+          "start_ref_usfm": "MAT 11:17",
+          "end_ref": "40011017",
+          "end_ref_usfm": "MAT 11:17"
+        },
+        {
+          "start_ref": "46014007",
+          "start_ref_usfm": "1CO 14:7",
+          "end_ref": "46014007",
+          "end_ref_usfm": "1CO 14:7"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
+        },
+        {
+          "start_ref": "11001038",
+          "start_ref_usfm": "1KI 1:38",
+          "end_ref": "11001040",
+          "end_ref_usfm": "1KI 1:40"
+        },
+        {
+          "start_ref": "27003003",
+          "start_ref_usfm": "DAN 3:3",
+          "end_ref": "27003005",
+          "end_ref_usfm": "DAN 3:5"
+        },
+        {
+          "start_ref": "42007031",
+          "start_ref_usfm": "LUK 7:31",
+          "end_ref": "42007032",
+          "end_ref_usfm": "LUK 7:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25745,
+          "content_id": 26603,
+          "label": "Flock",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 27084,
+          "label": "Shepherd",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

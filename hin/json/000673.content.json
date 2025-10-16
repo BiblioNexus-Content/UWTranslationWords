@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 180088,
+    "reference_id": 26024,
+    "title": "मीशाएल",
+    "media_type": "Text",
+    "index_reference": "मीशाएल",
+    "language": "hin",
+    "content": "<h1>मीशाएल</h1><h2>तथ्य:</h2><p>मीशाएल पुराने नियम में तीन पुरुषों का नाम था।</p><ul><li><p>एक और पुरुष जिसका नाम मीशाएल था, वह हारून का रिश्ते का भाई था। हारून के दो पुत्रों को परमेश्वर ने इसलिए घात कर दिया था कि उन्होंने परमेश्वर की विधि से भिन्न धूप जलाई थी, उस समय मीशाएल और उसके भाई को उनके शव छावनी से बाहर ले जाने का कार्य सौंपा गया था।</p></li><li><p>एक और पुरुष जिसका नाम मीशाएल था एज्रा के साथ खड़ा था जब वह परमेश्वर की व्यवस्था, जो उन्हें मिली थी पढ़कर सबको सुना रहा था।</p></li><li><p>जब इस्राएली बाबुल की बन्धुआई में थे तब एक युवक, मीशाएल को भी बन्दी बनाकर वहां से ले जाया गया था। बेबीलोन वासियों ने उसे &quot;मेशक&quot; नाम दिया था। उसने और उसके साथियों, अजर्याह (शद्रक) और हनन्याह (अबेदनगो) ने राजा की मूर्ति को दण्डवत् करने से इन्कार कर दिया था जिसके दण्ड स्वरूप उन्हें आग के भट्ठे में डाल दिया गया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25417\" data-resourceType=\"UWTranslationWords\">हारून</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25496\" data-resourceType=\"UWTranslationWords\">अजर्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बाबेल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">दानिय्येल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">हनन्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">दानिय्येल 01:6–7</a></p></li><li><p><a href=\"https://ref.ly/Dan2:17-Dan2:18\">दानिय्येल 02:17–18</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4332, H4333</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "27002017",
+          "start_ref_usfm": "DAN 2:17",
+          "end_ref": "27002018",
+          "end_ref_usfm": "DAN 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 179507,
+          "label": "हारून",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25496,
+          "content_id": 179584,
+          "label": "अजर्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 179719,
+          "label": "दानिय्येल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 179887,
+          "label": "हनन्याह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

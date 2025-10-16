@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237997,
+    "reference_id": 25864,
+    "title": "Imagem de Deus",
+    "media_type": "Text",
+    "index_reference": "imagem de deus",
+    "language": "por",
+    "content": "<h1>imagem de Deus, imagem</h1><h2>Definição:</h2><p>O termo “imagem” refere-se a algo que se parece com outra coisa ou que é semelhante a alguém em caráter ou essência. A frase “imagem de Deus” é usada de diferentes maneiras, dependendo do contexto.</p><ul><li><p>No início dos tempos, Deus criou os seres humanos “à sua imagem”, ou seja, “à sua semelhança”. Isso significa que as pessoas têm certas características que refletem a imagem de Deus, como a capacidade de sentir emoção, a capacidade de raciocinar e se comunicar, e um espírito que vive eternamente.</p></li><li><p>A Bíblia ensina que Jesus, o Filho de Deus, é “a imagem de Deus”, ou seja, ele é o próprio Deus. Ao contrário dos seres humanos, Jesus não foi criado. Desde toda a eternidade, o Filho de Deus possui todas as características divinas porque ele tem a mesma essência que Deus Pai.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Ao se referir a Jesus, “imagem de Deus” poderia ser traduzido como “semelhança exata de Deus” ou “mesma essência que Deus” ou “mesmo ser que Deus”.</p></li><li><p>Ao se referir aos seres humanos, “Deus os criou à sua imagem” poderia ser traduzido com uma frase que significa “Deus os criou para serem como ele” ou “Deus os criou com características semelhantes às dele”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">imagem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Filho de Deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Filho de Deus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Cor4:3-2Cor4:4\">2 Coríntios 4.3–4</a></p></li><li><p><a href=\"https://ref.ly/Col3:9-Col3:11\">Colossenses 3.9–11</a></p></li><li><p><a href=\"https://ref.ly/Gen1:26-Gen1:27\">Gênesis 1.26–27</a></p></li><li><p><a href=\"https://ref.ly/Gen9:6\">Gênesis 9.6</a></p></li><li><p><a href=\"https://ref.ly/Jas3:9-Jas3:10\">Tiago 3.9–10</a></p></li><li><p><a href=\"https://ref.ly/Rom8:28-Rom8:30\">Romanos 8.28–30</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4541, H1544, H2553, H6456, H6459, H6754, H6816, H8403, G05040, G01790</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001026",
+          "end_ref_usfm": "GEN 1:26"
+        },
+        {
+          "start_ref": "01001027",
+          "start_ref_usfm": "GEN 1:27",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "51001015",
+          "start_ref_usfm": "COL 1:15",
+          "end_ref": "51001015",
+          "end_ref_usfm": "COL 1:15"
+        },
+        {
+          "start_ref": "51003010",
+          "start_ref_usfm": "COL 3:10",
+          "end_ref": "51003010",
+          "end_ref_usfm": "COL 3:10"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "47004003",
+          "start_ref_usfm": "2CO 4:3",
+          "end_ref": "47004004",
+          "end_ref_usfm": "2CO 4:4"
+        },
+        {
+          "start_ref": "51003009",
+          "start_ref_usfm": "COL 3:9",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
+        },
+        {
+          "start_ref": "59003009",
+          "start_ref_usfm": "JAS 3:9",
+          "end_ref": "59003010",
+          "end_ref_usfm": "JAS 3:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25863,
+          "content_id": 237996,
+          "label": "Imagem",
+          "language": "por"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 238379,
+          "label": "Filho de Deus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

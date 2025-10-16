@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180333,
+    "reference_id": 26280,
+    "title": "तर्शीश",
+    "media_type": "Text",
+    "index_reference": "तर्शीश",
+    "language": "hin",
+    "content": "<h1>तर्शीश</h1><h2>तथ्य:</h2><p>बाइबिल के समय में, तर्शीश भूमध्य सागर पर स्थित एक बंदरगाह शहर था। शहर का विशिष्ट स्थान अज्ञात है। साथ ही, पुराने नियम में तर्शीश नाम के दो अलग-अलग पुरुषों का उल्लेख है।</p><ul><li><p>तर्शीश शहर एक बहुत समृद्ध बंदरगाह शहर था, जिनके जहाजों ने बहुमूल्य उत्पादों को खरीदने, बेचने या व्यापार करने के लिए किया था।&nbsp;बाइबल बताती है कि राजा सुलेमान ने तर्शीश में तैनात जहाजों का एक बेड़ा रखा था।</p></li><li><p>पुराने नियम योना भविष्यद्वक्ता निनवे में प्रचार करने के लिए परमेश्वर के आदेश का पालन करने के बजाय एक जहाज पर तर्शीश के शहर के लिए निकला।</p></li><li><p>येपेत के पौत्रों में से एक का नाम तर्शीश था।</p></li><li><p>राजा क्षयर्ष के बुद्धिमान लोगों में से एक का नाम तार्शिश था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">एस्तेर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25885\" data-resourceType=\"UWTranslationWords\">येपेत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25913\" data-resourceType=\"UWTranslationWords\">योना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">नीनवे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26102\" data-resourceType=\"UWTranslationWords\">फीनीके</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26351\" data-resourceType=\"UWTranslationWords\">ज्योतिष</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:2-Gen10:5\">उत्पत्ति 10:2–5</a></p></li><li><p><a href=\"https://ref.ly/Isa2:14-Isa2:16\">यशायाह 02:14–16</a></p></li><li><p><a href=\"https://ref.ly/Jer10:8-Jer10:10\">यिर्मयाह 10:8–10</a></p></li><li><p><a href=\"https://ref.ly/Jonah1:1-Jonah1:3\">योना 01:1–3</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 048:7–8</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8659</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "19048007",
+          "start_ref_usfm": "PSA 48:7",
+          "end_ref": "19048007",
+          "end_ref_usfm": "PSA 48:7"
+        },
+        {
+          "start_ref": "23002016",
+          "start_ref_usfm": "ISA 2:16",
+          "end_ref": "23002016",
+          "end_ref_usfm": "ISA 2:16"
+        },
+        {
+          "start_ref": "24010009",
+          "start_ref_usfm": "JER 10:9",
+          "end_ref": "24010009",
+          "end_ref_usfm": "JER 10:9"
+        },
+        {
+          "start_ref": "32001003",
+          "start_ref_usfm": "JON 1:3",
+          "end_ref": "32001003",
+          "end_ref_usfm": "JON 1:3"
+        },
+        {
+          "start_ref": "32004002",
+          "start_ref_usfm": "JON 4:2",
+          "end_ref": "32004002",
+          "end_ref_usfm": "JON 4:2"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25711,
+          "content_id": 179784,
+          "label": "एस्तेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25885,
+          "content_id": 179952,
+          "label": "येपेत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25913,
+          "content_id": 179980,
+          "label": "योना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 180117,
+          "label": "नीनवे",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26351,
+          "content_id": 180403,
+          "label": "बुद्धिमानों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

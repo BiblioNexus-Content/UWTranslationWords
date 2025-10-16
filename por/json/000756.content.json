@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238281,
+    "reference_id": 26151,
+    "title": "Raabe",
+    "media_type": "Text",
+    "index_reference": "raabe",
+    "language": "por",
+    "content": "<h1>Raabe</h1><h2>Fatos:</h2><p>Raabe era uma mulher que vivia em Jericó quando Israel atacou a cidade. Ela era uma prostituta.</p><ul><li><p>Raabe escondeu os dois israelitas que vieram espionar Jericó antes de os israelitas atacarem. Ela ajudou os espiões a escaparem de volta para o acampamento israelita.</p></li><li><p>Raabe tornou-se uma crente em Javé.</p></li><li><p>Ela e sua família passaram a viver com os israelitas depois que os israelitas destruíram Jericó e pouparam Raabe e sua família.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26132\" data-resourceType=\"UWTranslationWords\">prostituta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:29-Heb11:31\">Hebreus 11.29–31</a></p></li><li><p><a href=\"https://ref.ly/Jas2:25\">Tiago 2.25</a></p></li><li><p><a href=\"https://ref.ly/Josh2:21\">Josué 2.21</a></p></li><li><p><a href=\"https://ref.ly/Josh6:17-Josh6:19\">Josué 6.17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt1:5\">Mateus 1.5</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>15.1</strong> Nessa cidade vivia uma prostituta chamada <strong>Raabe</strong> que escondeu os espiões e depois os ajudou a escapar. Ela fez isso porque acreditou em Deus. Eles prometeram proteger <strong>Raabe</strong> e sua família quando os israelitas destruíssem Jericó.</p></li><li><p><strong>15.5</strong> Os israelitas destruíram tudo na cidade conforme Deus havia ordenado. <strong>Raabe</strong> e sua família foram as únicas pessoas na cidade que eles não mataram. Eles se tornaram parte dos israelitas.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7343, G44600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002021",
+          "start_ref_usfm": "JOS 2:21",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006019",
+          "end_ref_usfm": "JOS 6:19"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 238012,
+          "label": "Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 238029,
+          "label": "Jericó",
+          "language": "por"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 238262,
+          "label": "Prostituta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

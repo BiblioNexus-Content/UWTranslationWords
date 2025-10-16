@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 238318,
+    "reference_id": 26189,
+    "title": "Saduceu",
+    "media_type": "Text",
+    "index_reference": "saduceu",
+    "language": "por",
+    "content": "<h1>Saduceu</h1><h2>Definição:</h2><p>Os saduceus eram um grupo político de sacerdotes judeus durante o tempo de Jesus Cristo. Eles apoiavam o domínio romano e não acreditavam na ressurreição.</p><ul><li><p>Muitos saduceus eram judeus ricos e da alta classe que ocupavam posições de liderança poderosas, como sacerdote principal e sumo sacerdote.</p></li><li><p>As funções dos saduceus incluíam cuidar do complexo do templo e tarefas sacerdotais, como oferecer sacrifícios.</p></li><li><p>Os saduceus e os fariseus influenciaram fortemente os líderes romanos a crucificar Jesus.</p></li><li><p>Jesus falou contra esses dois grupos religiosos por causa de seu egoísmo e hipocrisia.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sacerdotes principais</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25616\" data-resourceType=\"UWTranslationWords\">conselho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">sumo sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25861\" data-resourceType=\"UWTranslationWords\">hipócrita</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25903\" data-resourceType=\"UWTranslationWords\">líderes judeus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26095\" data-resourceType=\"UWTranslationWords\">fariseu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:3\">Atos 4.3</a></p></li><li><p><a href=\"https://ref.ly/Acts5:17-Acts5:18\">Atos 5.17–18</a></p></li><li><p><a href=\"https://ref.ly/Luke20:27\">Lucas 20.27</a></p></li><li><p><a href=\"https://ref.ly/Matt3:7\">Mateus 3.7</a></p></li><li><p><a href=\"https://ref.ly/Matt16:1\">Mateus 16.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G45230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016001",
+          "end_ref_usfm": "MAT 16:1"
+        },
+        {
+          "start_ref": "40016006",
+          "start_ref_usfm": "MAT 16:6",
+          "end_ref": "40016006",
+          "end_ref_usfm": "MAT 16:6"
+        },
+        {
+          "start_ref": "40016011",
+          "start_ref_usfm": "MAT 16:11",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40016012",
+          "start_ref_usfm": "MAT 16:12",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022023",
+          "end_ref_usfm": "MAT 22:23"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022034",
+          "end_ref_usfm": "MAT 22:34"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012018",
+          "end_ref_usfm": "MRK 12:18"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020027",
+          "end_ref_usfm": "LUK 20:27"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004001",
+          "end_ref_usfm": "ACT 4:1"
+        },
+        {
+          "start_ref": "44004003",
+          "start_ref_usfm": "ACT 4:3",
+          "end_ref": "44004003",
+          "end_ref_usfm": "ACT 4:3"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023006",
+          "end_ref_usfm": "ACT 23:6"
+        },
+        {
+          "start_ref": "44023007",
+          "start_ref_usfm": "ACT 23:7",
+          "end_ref": "44023007",
+          "end_ref_usfm": "ACT 23:7"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 237750,
+          "label": "Conselho",
+          "language": "por"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 237969,
+          "label": "Sumo Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 25861,
+          "content_id": 237994,
+          "label": "Hipócrita",
+          "language": "por"
+        },
+        {
+          "reference_id": 25903,
+          "content_id": 238036,
+          "label": "Líderes judeus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 238225,
+          "label": "Fariseu",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238475,
+    "reference_id": 26349,
+    "title": "Joeirar",
+    "media_type": "Text",
+    "index_reference": "joeirar",
+    "language": "por",
+    "content": "<h1>joeirar, peneirar</h1><h2>Definição:</h2><p>Os termos “joeirar” e “peneirar” significam separar o grão de materiais indesejados. Na Bíblia, ambas as palavras também podem ser usadas para se referir a separar ou dividir pessoas.</p><ul><li><p>“Joeirar” significa separar o grão das partes indesejadas da planta jogando tanto o grão quanto a palha no ar, permitindo que o vento leve a palha embora.</p></li><li><p>A palavra “separar” refere-se a sacudir o grão peneirado em uma peneira para se livrar de quaisquer materiais indesejados restantes, como sujeira ou pedras.</p></li><li><p>No Antigo Testamento, “peneirar” e “joeirar” são usados figurativamente para descrever dificuldades que separam as pessoas justas das pessoas injustas.</p></li><li><p>Jesus também usou o termo “peneirar” de forma figurativa quando estava dizendo a Simão Pedro sobre como ele e os outros discípulos seriam testados em sua fé.</p></li><li><p>Para traduzir esses termos, use as palavras ou frases na língua do projeto que se referem a essas atividades; possíveis traduções podem ser “sacudir” ou “abanar”. Se peneirar ou separar não forem conhecidos, esses termos podem ser traduzidos por um termo que se refira a um método diferente de separar o grão da palha ou sujeira, ou descrevendo esse processo.</p></li></ul><p>(Veja também: Como traduzir desconhecidos)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25581\" data-resourceType=\"UWTranslationWords\">palha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Isa21:10\">Isaías 21.10</a></p></li><li><p><a href=\"https://ref.ly/Luke22:31\">Lucas 22.31</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">Mateus 3.12</a></p></li><li><p><a href=\"https://ref.ly/Prov20:8\">Provérbios 20.8</a></p></li><li><p><a href=\"https://ref.ly/Ruth3:2\">Rute 3.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2219, H5128, H5130, G44250, G46170</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "18018015",
+          "start_ref_usfm": "JOB 18:15",
+          "end_ref": "18018015",
+          "end_ref_usfm": "JOB 18:15"
+        },
+        {
+          "start_ref": "20020008",
+          "start_ref_usfm": "PRO 20:8",
+          "end_ref": "20020008",
+          "end_ref_usfm": "PRO 20:8"
+        },
+        {
+          "start_ref": "23021010",
+          "start_ref_usfm": "ISA 21:10",
+          "end_ref": "23021010",
+          "end_ref_usfm": "ISA 21:10"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42022031",
+          "start_ref_usfm": "LUK 22:31",
+          "end_ref": "42022031",
+          "end_ref_usfm": "LUK 22:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25581,
+          "content_id": 237716,
+          "label": "Palha",
+          "language": "por"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 237934,
+          "label": "Grão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

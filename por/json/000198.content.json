@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 237732,
+    "reference_id": 25597,
+    "title": "Colossos",
+    "media_type": "Text",
+    "index_reference": "colossos",
+    "language": "por",
+    "content": "<h1>Colossos, Colossenses</h1><h2>Fatos:</h2><p>Nos tempos do Novo Testamento, Colossos era uma cidade localizada na província romana da Frígia, uma área de terra que agora é o sudoeste da Turquia. Os colossenses eram as pessoas que viviam em Colossos.</p><ul><li><p>Localizada a cerca de 160 quilômetros do Mar Mediterrâneo, Colossos estava em uma importante rota comercial entre a cidade de Éfeso e o rio Eufrates.</p></li><li><p>Enquanto estava preso em Roma, Paulo escreveu uma carta aos “colossenses” para corrigir falsos ensinamentos entre os crentes em Colossos.</p></li><li><p>Quando escreveu esta carta, Paulo não havia visitado a igreja em Colossos, mas tinha ouvido falar dos crentes lá através de seu colaborador Epafras.</p></li><li><p>Epafras provavelmente foi o trabalhador cristão que iniciou a igreja em Colossos.</p></li><li><p>O livro de Filemom foi uma carta de Paulo endereçada a um proprietário de escravos em Colossos.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Éfeso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Col1:3\">Colossenses 1.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G28570</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "51001002",
+          "start_ref_usfm": "COL 1:2",
+          "end_ref": "51001002",
+          "end_ref_usfm": "COL 1:2"
+        },
+        {
+          "start_ref": "51001003",
+          "start_ref_usfm": "COL 1:3",
+          "end_ref": "51001003",
+          "end_ref_usfm": "COL 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25706,
+          "content_id": 237839,
+          "label": "Éfeso",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

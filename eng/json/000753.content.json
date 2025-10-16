@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 27026,
+    "reference_id": 26168,
+    "title": "Remnant",
+    "media_type": "Text",
+    "index_reference": "remnant",
+    "language": "eng",
+    "content": "<h1>remnant</h1><h2>Definition:</h2><p>The term “remnant” literally refers to people or things that are “remaining” or “left over” from a larger amount or group.</p><ul><li><p>Often a “remnant” refers to people who survive a life-threatening situation or who remain faithful to God while undergoing persecution.</p></li><li><p>Isaiah referred to a group of Jews as being a remnant who would survive attacks from outsiders and live to return to the Promised Land in Canaan.</p></li><li><p>Paul talks about there being a “remnant” of people who were chosen by God to receive his grace.</p></li><li><p>The term “remnant” also implies that there were other people who did not remain or were not left over.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>A phrase such as “the remnant of this people” could be translated as “the rest of these people” or “the people who are left.”</p></li><li><p>The “whole remnant of people” could be translated by “all the rest of the people” or “the remaining people.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts15:17\">Acts 15:17</a></p></li><li><p><a href=\"https://ref.ly/Amos9:12\">Amos 9:12</a></p></li><li><p><a href=\"https://ref.ly/Ezek6:8-Ezek6:10\">Ezekiel 6:8–10</a></p></li><li><p><a href=\"https://ref.ly/Gen45:7\">Genesis 45:7</a></p></li><li><p><a href=\"https://ref.ly/Isa11:11\">Isaiah 11:11</a></p></li><li><p><a href=\"https://ref.ly/Mic4:6-Mic4:8\">Micah 4:6–8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3498, H3499, H5629, H6413, H7604, H7605, H7611, H8281, H8300, G26400, G30050, G30620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01045007",
+          "start_ref_usfm": "GEN 45:7",
+          "end_ref": "01045007",
+          "end_ref_usfm": "GEN 45:7"
+        },
+        {
+          "start_ref": "02010005",
+          "start_ref_usfm": "EXO 10:5",
+          "end_ref": "02010005",
+          "end_ref_usfm": "EXO 10:5"
+        },
+        {
+          "start_ref": "16007072",
+          "start_ref_usfm": "NEH 7:72",
+          "end_ref": "16007072",
+          "end_ref_usfm": "NEH 7:72"
+        },
+        {
+          "start_ref": "23011011",
+          "start_ref_usfm": "ISA 11:11",
+          "end_ref": "23011011",
+          "end_ref_usfm": "ISA 11:11"
+        },
+        {
+          "start_ref": "30009012",
+          "start_ref_usfm": "AMO 9:12",
+          "end_ref": "30009012",
+          "end_ref_usfm": "AMO 9:12"
+        },
+        {
+          "start_ref": "36002009",
+          "start_ref_usfm": "ZEP 2:9",
+          "end_ref": "36002009",
+          "end_ref_usfm": "ZEP 2:9"
+        },
+        {
+          "start_ref": "36003013",
+          "start_ref_usfm": "ZEP 3:13",
+          "end_ref": "36003013",
+          "end_ref_usfm": "ZEP 3:13"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001014",
+          "start_ref_usfm": "HAG 1:14",
+          "end_ref": "37001014",
+          "end_ref_usfm": "HAG 1:14"
+        },
+        {
+          "start_ref": "37002002",
+          "start_ref_usfm": "HAG 2:2",
+          "end_ref": "37002002",
+          "end_ref_usfm": "HAG 2:2"
+        },
+        {
+          "start_ref": "44015017",
+          "start_ref_usfm": "ACT 15:17",
+          "end_ref": "44015017",
+          "end_ref_usfm": "ACT 15:17"
+        },
+        {
+          "start_ref": "45009027",
+          "start_ref_usfm": "ROM 9:27",
+          "end_ref": "45009027",
+          "end_ref_usfm": "ROM 9:27"
+        },
+        {
+          "start_ref": "45011005",
+          "start_ref_usfm": "ROM 11:5",
+          "end_ref": "45011005",
+          "end_ref_usfm": "ROM 11:5"
+        },
+        {
+          "start_ref": "33004006",
+          "start_ref_usfm": "MIC 4:6",
+          "end_ref": "33004008",
+          "end_ref_usfm": "MIC 4:8"
+        },
+        {
+          "start_ref": "26006008",
+          "start_ref_usfm": "EZK 6:8",
+          "end_ref": "26006010",
+          "end_ref_usfm": "EZK 6:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

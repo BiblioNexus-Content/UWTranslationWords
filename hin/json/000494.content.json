@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 180296,
+    "reference_id": 26242,
+    "title": "पापबलि",
+    "media_type": "Text",
+    "index_reference": "पापबलि",
+    "language": "hin",
+    "content": "<h1>पापबलि, पापबलि</h1><h2>परिभाषा:</h2><p>“पापबलि ” उन बलियों में से एक थी जिनकी आज्ञा परमेश्वर ने इस्राएलियों को दी थी।</p><ul><li><p>इस बलि में बैल की बलि चढ़ानी होती थी, वेदी पर उसका लहू और चर्बी जलाए जाते थे और पशु की लोथ को इस्राएल की छावनी के बाहर धरती पर जला दिया जाता था।</p></li><li><p>इस पशु को पूर्णतः भस्म करने का अर्थ था कि परमेश्वर अति पवित्र है और पाप अत्यधिक भयानक है।</p></li><li><p>बाइबल की शिक्षा में पाप से शुद्ध होने के लिए लहू का बहाया जाना आवश्यक था जो पाप का मूल्य चुकाने का प्रतीक था ।</p></li><li><p>पशुबलि पाप के लिए स्थाई क्षमा नहीं उपलब्ध करवा सकती थी।</p></li><li><p>क्रूस पर यीशु की मृत्यु ने सदा के लिए पाप का दण्ड चुका दिया। वह एक सिद्ध पापबलि था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">वेदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25623\" data-resourceType=\"UWTranslationWords\">गाय</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">क्षमा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">पाप</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 29:20–21</a></p></li><li><p><a href=\"https://ref.ly/Exod29:35-Exod29:37\">निर्गमन 29:35–37</a></p></li><li><p><a href=\"https://ref.ly/Ezek44:25-Ezek44:27\">यहेजकेल 44:25–27</a></p></li><li><p><a href=\"https://ref.ly/Lev5:11\">लैव्यव्यवस्था 05:11</a></p></li><li><p><a href=\"https://ref.ly/Num7:15-Num7:17\">गिनती 07:15–17</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2401, H2402, H2398, H2403</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03005011",
+          "start_ref_usfm": "LEV 5:11",
+          "end_ref": "03005011",
+          "end_ref_usfm": "LEV 5:11"
+        },
+        {
+          "start_ref": "15008035",
+          "start_ref_usfm": "EZR 8:35",
+          "end_ref": "15008035",
+          "end_ref_usfm": "EZR 8:35"
+        },
+        {
+          "start_ref": "16010033",
+          "start_ref_usfm": "NEH 10:33",
+          "end_ref": "16010033",
+          "end_ref_usfm": "NEH 10:33"
+        },
+        {
+          "start_ref": "18010006",
+          "start_ref_usfm": "JOB 10:6",
+          "end_ref": "18010006",
+          "end_ref_usfm": "JOB 10:6"
+        },
+        {
+          "start_ref": "04007015",
+          "start_ref_usfm": "NUM 7:15",
+          "end_ref": "04007017",
+          "end_ref_usfm": "NUM 7:17"
+        },
+        {
+          "start_ref": "14029020",
+          "start_ref_usfm": "2CH 29:20",
+          "end_ref": "14029021",
+          "end_ref_usfm": "2CH 29:21"
+        },
+        {
+          "start_ref": "02029035",
+          "start_ref_usfm": "EXO 29:35",
+          "end_ref": "02029037",
+          "end_ref_usfm": "EXO 29:37"
+        },
+        {
+          "start_ref": "26044025",
+          "start_ref_usfm": "EZK 44:25",
+          "end_ref": "26044027",
+          "end_ref_usfm": "EZK 44:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 179536,
+          "label": "वेदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25623,
+          "content_id": 179700,
+          "label": "गाय",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 179825,
+          "label": "क्षमा करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 180294,
+          "label": "पाप",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

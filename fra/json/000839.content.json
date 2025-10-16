@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 467250,
+    "reference_id": 26128,
+    "title": "Terre promise",
+    "media_type": "Text",
+    "index_reference": "terre promise",
+    "language": "fra",
+    "content": "<h1>Terre promise</h1><h2>Données :</h2><p>On trouve l&apos;expression « la Terre Promise » dans les histoires écrites au sujet de la Bible, mais pas dans le texte de la Bible. C&apos;est une autre façon de faire référence à la terre de Canaan que Dieu avait promis de donner à Abraham et à ses descendants.</p><ul><li><p>Lorsqu&apos;Abram vivait dans la ville d&apos;Ur, Dieu lui a commandé d&apos;aller vivre dans le pays de Canaan. Abram et ses descendants, les Israélites, y ont vécu pendant de nombreuses années.</p></li><li><p>Lorsqu&apos;une grave famine a eu lieu en Canaan provoquant une pénurie de nourriture, les Israélites sont allés vivre en Égypte.</p></li><li><p>Quatre cents ans plus tard, Dieu a sauvé les Israélites de l&apos;esclavage en Égypte et les a ramenés à Canaan, la terre qu&apos;il avait promis de leur donner.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Le terme « la Terre Promise » peut être traduit par « la terre que Dieu a dit qu&apos;il donnerait aux descendants d&apos;Abraham » ou « la terre que Dieu a promise à Abraham » ou «la terre que Dieu a promis de donner à son peuple » ou «la terre de Canaan ».</p></li><li><p>Dans le texte de la Bible, l&apos;expression « la Terre Promise » peut être considerée comme une autre forme de « la terre que Dieu a promise »</p></li></ul><p>(Voir aussi : (../names/canaan.md), (../kt/promise.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05008001",
+          "start_ref_usfm": "DEU 8:1",
+          "end_ref": "05008002",
+          "end_ref_usfm": "DEU 8:2"
+        },
+        {
+          "start_ref": "26007026",
+          "start_ref_usfm": "EZK 7:26",
+          "end_ref": "26007027",
+          "end_ref_usfm": "EZK 7:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 467249,
+          "label": "Promesse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

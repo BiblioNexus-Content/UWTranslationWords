@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179670,
+    "reference_id": 25591,
+    "title": "किलिकिया",
+    "media_type": "Text",
+    "index_reference": "किलिकिया",
+    "language": "hin",
+    "content": "<h1>किलिकिया</h1><h2>तथ्य:</h2><p>किलिकिया एक छोटा रोमी प्रान्त था जो आज के तुर्किस्तान में दक्षिण पूर्वी क्षेत्र में था। वह एजीयन सागर के सिरे पर था</p><ul><li><p>प्रेरित पौलुस किलिकिया के तरसुस नगर का नागरिक था।</p></li><li><p>दमिश्क के मार्ग पर यीशु से आमना-सामना करने के बाद पौलुस ने अनेक वर्ष किलिकिया में व्यतीत किए थे।</p></li><li><p>किलिकिया के कुछ यहूदियों ने स्तिफनुस का सामना किया था और लोगों को उसे पथराव करने के लिए भड़काया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">पौलुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26261\" data-resourceType=\"UWTranslationWords\">स्तिफनुस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26281\" data-resourceType=\"UWTranslationWords\">तरसुस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:8-Acts6:9\">प्रे.का. 06:8–9</a></p></li><li><p><a href=\"https://ref.ly/Acts15:39-Acts15:41\">प्रे.का. 15:39–41</a></p></li><li><p><a href=\"https://ref.ly/Acts27:3-Acts27:6\">प्रे.का. 27:3–6</a></p></li><li><p><a href=\"https://ref.ly/Gal1:21-Gal1:24\">गलातियों 01:21–24</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2791</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        },
+        {
+          "start_ref": "44023034",
+          "start_ref_usfm": "ACT 23:34",
+          "end_ref": "44023034",
+          "end_ref_usfm": "ACT 23:34"
+        },
+        {
+          "start_ref": "44027005",
+          "start_ref_usfm": "ACT 27:5",
+          "end_ref": "44027005",
+          "end_ref_usfm": "ACT 27:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
+        },
+        {
+          "start_ref": "48001021",
+          "start_ref_usfm": "GAL 1:21",
+          "end_ref": "48001024",
+          "end_ref_usfm": "GAL 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26079,
+          "content_id": 180141,
+          "label": "पौलुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26261,
+          "content_id": 180315,
+          "label": "स्तिफनुस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26281,
+          "content_id": 180334,
+          "label": "तरसुस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

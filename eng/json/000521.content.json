@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26794,
+    "reference_id": 25936,
+    "title": "Kidron Valley",
+    "media_type": "Text",
+    "index_reference": "kidron valley",
+    "language": "eng",
+    "content": "<h1>Kidron Valley</h1><h2>Facts:</h2><p>The Kidron Valley is a deep valley just outside the city of Jerusalem, between its eastern wall and the Mount of Olives.</p><ul><li><p>The valley is over 1,000 meters deep and about 32 kilometers long.</p></li><li><p>When King David was fleeing from his son Absalom, he went through the Kidron Valley to get to the Mount of Olives.</p></li><li><p>King Josiah and King Asa of Judah ordered that the high places and altars of false gods be smashed and burned; the ashes were thrown into the Kidron Valley.</p></li><li><p>During the reign of King Hezekiah, the Kidron Valley was where the priests threw everything impure that they removed from the temple.</p></li><li><p>The evil queen Athaliah was killed in this valley because of the wicked things she had done.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">Absalom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">Asa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25489\" data-resourceType=\"UWTranslationWords\">Athaliah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Hezekiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25835\" data-resourceType=\"UWTranslationWords\">high places</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">Josiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26034\" data-resourceType=\"UWTranslationWords\">Mount of Olives</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John18:1\">John 18:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5674, H6939, G27480, G54930</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43018001",
+          "start_ref_usfm": "JHN 18:1",
+          "end_ref": "43018001",
+          "end_ref_usfm": "JHN 18:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 26283,
+          "label": "Absalom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25479,
+          "content_id": 26337,
+          "label": "Asa",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25489,
+          "content_id": 26347,
+          "label": "Athaliah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 26692,
+          "label": "Hezekiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25835,
+          "content_id": 26693,
+          "label": "High Places",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 26779,
+          "label": "Josiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 26892,
+          "label": "Mount of Olives",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

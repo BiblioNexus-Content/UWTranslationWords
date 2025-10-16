@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 180269,
+    "reference_id": 26212,
+    "title": "सेला",
+    "media_type": "Text",
+    "index_reference": "सेला",
+    "language": "hin",
+    "content": "<h1>सेला</h1><h2>परिभाषा:</h2><p>“सेला” इब्रानी भाषा का एक शब्द है जो ज्यादातर भजन संहिता में देखा जा सकता है। इसके अनेक संभावित अर्थ हैं।</p><ul><li><p>इसका अर्थ हो सकता है “ठहरो और स्तुति करो” इसके द्वारा श्रोताओं का आह्वान किया जाता है कि वे उच्चारित शब्दों पर मनन करें।.</p></li><li><p>अधिकांश भजन संहिता राग में लिखे गए थे, ऐसा माना जाता है कि “सेला शब्द संभवतः संगीत का कोई शब्द रहा होगा जिससे गायक को रूकने का संकेत दिया जाता था कि केवल वाद्य बजाए जाए या श्रोताओं को प्रोत्साहित किया जाता था कि भजन के शब्दों पर विचार करें।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26140\" data-resourceType=\"UWTranslationWords\">भजन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 003:3–4</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 024:5–6</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 046:6–7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5542</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19003003",
+          "start_ref_usfm": "PSA 3:3",
+          "end_ref": "19003004",
+          "end_ref_usfm": "PSA 3:4"
+        },
+        {
+          "start_ref": "19024005",
+          "start_ref_usfm": "PSA 24:5",
+          "end_ref": "19024006",
+          "end_ref_usfm": "PSA 24:6"
+        },
+        {
+          "start_ref": "19046006",
+          "start_ref_usfm": "PSA 46:6",
+          "end_ref": "19046007",
+          "end_ref_usfm": "PSA 46:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26140,
+          "content_id": 180199,
+          "label": "भजन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

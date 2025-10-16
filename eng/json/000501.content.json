@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 26773,
+    "reference_id": 25915,
+    "title": "Joppa",
+    "media_type": "Text",
+    "index_reference": "joppa",
+    "language": "eng",
+    "content": "<h1>Joppa</h1><h2>Facts:</h2><p>In biblical times, the city of Joppa was an important commercial seaport located on the Mediterranean Sea, south of the Plain of Sharon.</p><ul><li><p>The ancient site of Joppa was located in the same place as the present-day city of Jaffa, which has now become incorporated into the city of Tel Aviv.</p></li><li><p>In the Old Testament, Joppa was the city where Jonah got on a boat that was going to Tarshish.</p></li><li><p>In the New Testament, a Christian woman named Tabitha died in Joppa, and Peter raised her back to life.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">the sea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26221\" data-resourceType=\"UWTranslationWords\">Sharon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26280\" data-resourceType=\"UWTranslationWords\">Tarshish</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts9:37\">Acts 9:37</a></p></li><li><p><a href=\"https://ref.ly/Acts10:8\">Acts 10:8</a></p></li><li><p><a href=\"https://ref.ly/Acts11:4-Acts11:6\">Acts 11:4–6</a></p></li><li><p><a href=\"https://ref.ly/Acts11:11\">Acts 11:11</a></p></li><li><p><a href=\"https://ref.ly/Jonah1:3\">Jonah 1:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3305, G24450</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "32001003",
+          "start_ref_usfm": "JON 1:3",
+          "end_ref": "32001003",
+          "end_ref_usfm": "JON 1:3"
+        },
+        {
+          "start_ref": "44009036",
+          "start_ref_usfm": "ACT 9:36",
+          "end_ref": "44009036",
+          "end_ref_usfm": "ACT 9:36"
+        },
+        {
+          "start_ref": "44009037",
+          "start_ref_usfm": "ACT 9:37",
+          "end_ref": "44009037",
+          "end_ref_usfm": "ACT 9:37"
+        },
+        {
+          "start_ref": "44009038",
+          "start_ref_usfm": "ACT 9:38",
+          "end_ref": "44009038",
+          "end_ref_usfm": "ACT 9:38"
+        },
+        {
+          "start_ref": "44009042",
+          "start_ref_usfm": "ACT 9:42",
+          "end_ref": "44009042",
+          "end_ref_usfm": "ACT 9:42"
+        },
+        {
+          "start_ref": "44009043",
+          "start_ref_usfm": "ACT 9:43",
+          "end_ref": "44009043",
+          "end_ref_usfm": "ACT 9:43"
+        },
+        {
+          "start_ref": "44010005",
+          "start_ref_usfm": "ACT 10:5",
+          "end_ref": "44010005",
+          "end_ref_usfm": "ACT 10:5"
+        },
+        {
+          "start_ref": "44010008",
+          "start_ref_usfm": "ACT 10:8",
+          "end_ref": "44010008",
+          "end_ref_usfm": "ACT 10:8"
+        },
+        {
+          "start_ref": "44010023",
+          "start_ref_usfm": "ACT 10:23",
+          "end_ref": "44010023",
+          "end_ref_usfm": "ACT 10:23"
+        },
+        {
+          "start_ref": "44010032",
+          "start_ref_usfm": "ACT 10:32",
+          "end_ref": "44010032",
+          "end_ref_usfm": "ACT 10:32"
+        },
+        {
+          "start_ref": "44011005",
+          "start_ref_usfm": "ACT 11:5",
+          "end_ref": "44011005",
+          "end_ref_usfm": "ACT 11:5"
+        },
+        {
+          "start_ref": "44011011",
+          "start_ref_usfm": "ACT 11:11",
+          "end_ref": "44011011",
+          "end_ref_usfm": "ACT 11:11"
+        },
+        {
+          "start_ref": "44011013",
+          "start_ref_usfm": "ACT 11:13",
+          "end_ref": "44011013",
+          "end_ref_usfm": "ACT 11:13"
+        },
+        {
+          "start_ref": "44011004",
+          "start_ref_usfm": "ACT 11:4",
+          "end_ref": "44011006",
+          "end_ref_usfm": "ACT 11:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 26864,
+          "label": "Mediterranean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26221,
+          "content_id": 27079,
+          "label": "Sharon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26280,
+          "content_id": 27138,
+          "label": "Tarshish",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

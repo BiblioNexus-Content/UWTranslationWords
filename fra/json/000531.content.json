@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467461,
+    "reference_id": 26353,
+    "title": "Loup",
+    "media_type": "Text",
+    "index_reference": "loup",
+    "language": "fra",
+    "content": "<h1>loup</h1><h2>Définition :</h2><p>Un loup est un animal féroce, mangeur de viande, semblable à un chien sauvage.</p><ul><li><p>Les loups chassent généralement en groupes et traquent leurs proies de manière intelligente et furtive.</p></li><li><p>Dans la Bible, le terme &quot;loups&quot; est utilisé au sens figuré pour désigner les faux enseignants ou faux prophètes qui détruisent les croyants, qui sont comparés aux moutons* Le faux enseignement incite les gens à croire que les choses sont mauvaises et qu’ils leur font du mal.</p></li><li><p>Cette comparaison repose sur le fait que les moutons sont particulièrement vulnérables à être attaqués et mangés par les loups, car ils sont faibles et ne peuvent pas se défendre.</p></li></ul><h2>Suggestion de traduction</h2><ul><li><p>Ce terme pourrait être traduit par &quot;chien sauvage&quot; ou &quot;animal sauvage&quot;.</p></li><li><p>D&apos;autres noms pour les chiens sauvages pourraient être &quot;chacal&quot; ou &quot;coyote&quot;.</p></li><li><p>Utilisé au sens figuré pour désigner des personnes, ceci pourrait être traduit par &quot;des personnes méchantes qui nuisent à des personnes comme des animaux qui attaquent des moutons&quot;.</p></li><li><p>(Voir aussi: mal, méchant, méchanceté , faux prophète ,</p></li><li><p>brebis, brebis, bélier, béliers, moutons, bergerie, bergeries, tondeurs de moutons, peaux de mouton ,</p></li></ul><p>(Voir aussi : (../kt/evil.md), (../other/falseprophet.md), (../other/sheep.md), (../other/teach.md))</p><h2>Références bibliques:</h2><ul><li><p>Actes 20: 28–30</p></li><li><p>Esaïe 11: 6–7</p></li><li><p>Jean 10: 11–13</p></li><li><p>Luc 10: 3–4</p></li><li><p>Matthieu 07: 15–17</p></li><li><p>Sophonie 03: 3–4</p></li><li><p>Données Word:</p></li><li><p>Strong &apos;s: H2061, H3611, G3074</p></li><li><p>1263</p></li><li><p>Autre</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049027",
+          "start_ref_usfm": "GEN 49:27",
+          "end_ref": "01049027",
+          "end_ref_usfm": "GEN 49:27"
+        },
+        {
+          "start_ref": "23011007",
+          "start_ref_usfm": "ISA 11:7",
+          "end_ref": "23011007",
+          "end_ref_usfm": "ISA 11:7"
+        },
+        {
+          "start_ref": "36003003",
+          "start_ref_usfm": "ZEP 3:3",
+          "end_ref": "36003003",
+          "end_ref_usfm": "ZEP 3:3"
+        },
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007015",
+          "end_ref_usfm": "MAT 7:15"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010016",
+          "end_ref_usfm": "MAT 10:16"
+        },
+        {
+          "start_ref": "42010003",
+          "start_ref_usfm": "LUK 10:3",
+          "end_ref": "42010003",
+          "end_ref_usfm": "LUK 10:3"
+        },
+        {
+          "start_ref": "43010012",
+          "start_ref_usfm": "JHN 10:12",
+          "end_ref": "43010012",
+          "end_ref_usfm": "JHN 10:12"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020029",
+          "end_ref_usfm": "ACT 20:29"
+        },
+        {
+          "start_ref": "43010011",
+          "start_ref_usfm": "JHN 10:11",
+          "end_ref": "43010013",
+          "end_ref_usfm": "JHN 10:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25718,
+          "content_id": 466877,
+          "label": "Le mal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25729,
+          "content_id": 466884,
+          "label": "Faux prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 467340,
+          "label": "Moutons",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

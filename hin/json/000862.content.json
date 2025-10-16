@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 180271,
+    "reference_id": 26214,
+    "title": "सन्हेरीब",
+    "media_type": "Text",
+    "index_reference": "सन्हेरीब",
+    "language": "hin",
+    "content": "<h1>सन्हेरीब</h1><h2>तथ्य:</h2><p>सन्हेरीब अश्शूरों का एक महान राज्य था जिसने नीनवे को एक समृद्ध एवं महत्वपूर्ण नगर बना दिया था।</p><ul><li><p>सन्हेरीब बेबीलोन और यहूदा राज्य से युद्ध करने के लिए जाना गया है।</p></li><li><p>वह एक अत्यधिक अभिमानी राजा था और यहोवा का उपहासक था।</p></li><li><p>सन्हेरीब ने राजा हिजकिय्याह के राज्यकाल में यरूशलेम पर आक्रमण किया था।</p></li><li><p>यहोवा ने सन्हेरीब की सेना को नष्ट कर दिया था।</p></li><li><p>पुराने नियम में राजाओं और इतिहास की पुस्तकों में सन्हेरीब के राज्य की घटनाओं के वृत्तान्त हैं।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">अश्शूर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">बेबीलोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">हिजकिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26027\" data-resourceType=\"UWTranslationWords\">ठट्ठा करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">नीनवे</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 32:1</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 32:16–17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 18:13–15</a></p></li></ul><h2>शब्द तथ्य:</h2>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018013",
+          "start_ref_usfm": "2KI 18:13",
+          "end_ref": "12018013",
+          "end_ref_usfm": "2KI 18:13"
+        },
+        {
+          "start_ref": "14032001",
+          "start_ref_usfm": "2CH 32:1",
+          "end_ref": "14032001",
+          "end_ref_usfm": "2CH 32:1"
+        },
+        {
+          "start_ref": "14032016",
+          "start_ref_usfm": "2CH 32:16",
+          "end_ref": "14032017",
+          "end_ref_usfm": "2CH 32:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 179576,
+          "label": "अश्शूर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 179588,
+          "label": "बेबीलोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 179903,
+          "label": "हिजकिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26027,
+          "content_id": 180091,
+          "label": "निन्दा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 180117,
+          "label": "नीनवे",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

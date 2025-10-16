@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237579,
+    "reference_id": 25441,
+    "title": "Acazias",
+    "media_type": "Text",
+    "index_reference": "acazias",
+    "language": "por",
+    "content": "<h1>Acazias</h1><h2>Fatos:</h2><p>Acazias foi o nome de dois reis: um governou o reino de Israel, e o outro governou o reino de Judá.</p><ul><li><p>O Rei Acazias de Judá era filho do Rei Jeorão. Ele reinou por um ano (841 a.C.) e depois foi morto por Jeú. O jovem filho de Acazias, Joás, eventualmente tomou seu lugar como rei.</p></li><li><p>O Rei Acazias de Israel era filho do Rei Acabe. Ele reinou por dois anos (850–49 a.C.). Ele morreu devido a ferimentos sofridos em uma queda em seu palácio, e seu irmão Jorão tornou-se rei.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25893\" data-resourceType=\"UWTranslationWords\">Jeú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25897\" data-resourceType=\"UWTranslationWords\">Jeroboão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joás</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs22:39-1Kgs22:40\">1 Reis 22.39–40</a></p></li><li><p><a href=\"https://ref.ly/2Chr22:2\">2 Crônicas 22.2</a></p></li><li><p><a href=\"https://ref.ly/2Chr25:23-2Chr25:24\">2 Crônicas 25.23–24</a></p></li><li><p><a href=\"https://ref.ly/2Kgs11:2\">2 Reis 11.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0274</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011002",
+          "start_ref_usfm": "2KI 11:2",
+          "end_ref": "12011002",
+          "end_ref_usfm": "2KI 11:2"
+        },
+        {
+          "start_ref": "14022002",
+          "start_ref_usfm": "2CH 22:2",
+          "end_ref": "14022002",
+          "end_ref_usfm": "2CH 22:2"
+        },
+        {
+          "start_ref": "11022039",
+          "start_ref_usfm": "1KI 22:39",
+          "end_ref": "11022040",
+          "end_ref_usfm": "1KI 22:40"
+        },
+        {
+          "start_ref": "14025023",
+          "start_ref_usfm": "2CH 25:23",
+          "end_ref": "14025024",
+          "end_ref_usfm": "2CH 25:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 238026,
+          "label": "Jeú",
+          "language": "por"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 238030,
+          "label": "Jeroboão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 238040,
+          "label": "Joás",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

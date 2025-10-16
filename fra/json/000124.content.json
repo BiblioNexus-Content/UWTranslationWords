@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466705,
+    "reference_id": 25532,
+    "title": "Béthuel",
+    "media_type": "Text",
+    "index_reference": "béthuel",
+    "language": "fra",
+    "content": "<h1>Béthuel</h1><h2>Définition :</h2><p>Béthuel était le fils de Nahor, un frère d&apos;Abraham .</p><ul><li><p>Béthuel était le père de Rébecca et son frère Laban.</p></li><li><p>Il y avait aussi une ville appelée Béthuel, qui peut être était situé dans le sud de Juda, non loin de la ville de Beershéba.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/beersheba.md), (../names/laban.md), (../names/nahor.md), (../names/rebekah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022022",
+          "start_ref_usfm": "GEN 22:22",
+          "end_ref": "01022022",
+          "end_ref_usfm": "GEN 22:22"
+        },
+        {
+          "start_ref": "01022023",
+          "start_ref_usfm": "GEN 22:23",
+          "end_ref": "01022023",
+          "end_ref_usfm": "GEN 22:23"
+        },
+        {
+          "start_ref": "01024015",
+          "start_ref_usfm": "GEN 24:15",
+          "end_ref": "01024015",
+          "end_ref_usfm": "GEN 24:15"
+        },
+        {
+          "start_ref": "01024024",
+          "start_ref_usfm": "GEN 24:24",
+          "end_ref": "01024024",
+          "end_ref_usfm": "GEN 24:24"
+        },
+        {
+          "start_ref": "01024047",
+          "start_ref_usfm": "GEN 24:47",
+          "end_ref": "01024047",
+          "end_ref_usfm": "GEN 24:47"
+        },
+        {
+          "start_ref": "01024050",
+          "start_ref_usfm": "GEN 24:50",
+          "end_ref": "01024050",
+          "end_ref_usfm": "GEN 24:50"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028002",
+          "start_ref_usfm": "GEN 28:2",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "13004030",
+          "start_ref_usfm": "1CH 4:30",
+          "end_ref": "13004030",
+          "end_ref_usfm": "1CH 4:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25519,
+          "content_id": 466694,
+          "label": "Beersheba",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 467090,
+          "label": "Laban",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 467177,
+          "label": "Nahor",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 467276,
+          "label": "Rebecca",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

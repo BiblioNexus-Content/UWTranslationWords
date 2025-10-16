@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 237608,
+    "reference_id": 25471,
+    "title": "Arã",
+    "media_type": "Text",
+    "index_reference": "arã",
+    "language": "por",
+    "content": "<h1>Arã, Arameu, Aramaico, Aram de Damasco</h1><h2>Definição:</h2><p>“Arã” era o nome de dois homens no Antigo Testamento. Também era o nome de uma região ao nordeste de Canaã, onde hoje está localizada a Síria.</p><ul><li><p>As pessoas que viviam em Arã ficaram conhecidas como “Arameus” e falavam “Aramaico”. Jesus e outros judeus de sua época também falavam aramaico.</p></li><li><p>Um dos filhos de Sem se chamava Arã. Outro homem chamado Arã era primo de Rebeca. É provável que a região de Arã tenha sido nomeada em homenagem a um desses dois homens.</p></li><li><p>Arã mais tarde ficou conhecida pelo nome grego “Síria”.</p></li><li><p>O termo “Padã-Arã” significa “planície de Arã” e essa planície estava localizada na parte norte de Aram.</p></li><li><p>Alguns dos parentes de Abraão viviam na cidade de Harã, que estava localizada em “Padã-Arã”.</p></li><li><p>No Antigo Testamento, às vezes os termos “Arã” e “Padã-Arã” referem-se à mesma região.</p></li><li><p>O termo “Aram Naharaim” pode significar “Arã dos Dois Rios”. Esta região estava localizada na parte norte da Mesopotâmia e ficava a leste de “Padã-Arã”.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26014\" data-resourceType=\"UWTranslationWords\">Mesopotâmia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26069\" data-resourceType=\"UWTranslationWords\">Padã-Arã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26156\" data-resourceType=\"UWTranslationWords\">Rebeca</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Sem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:17-1Chr1:19\">1 Crônicas 1.17–19</a></p></li><li><p><a href=\"https://ref.ly/2Sam8:6\">2 Samuel 8.6</a></p></li><li><p><a href=\"https://ref.ly/Amos1:5\">Amós 1.5</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:16\">Ezequiel 27.16</a></p></li><li><p><a href=\"https://ref.ly/Gen31:19-Gen31:21\">Gênesis 31.19–21</a></p></li><li><p><a href=\"https://ref.ly/Hos12:12\">Oseias 12.12</a></p></li><li><p><a href=\"https://ref.ly/Ps60:1\">Salmo 60.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0130, H0726, H0758, H0761, H0762, H0763, H1834, H7421</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "01022021",
+          "start_ref_usfm": "GEN 22:21",
+          "end_ref": "01022021",
+          "end_ref_usfm": "GEN 22:21"
+        },
+        {
+          "start_ref": "01024010",
+          "start_ref_usfm": "GEN 24:10",
+          "end_ref": "01024010",
+          "end_ref_usfm": "GEN 24:10"
+        },
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01031020",
+          "start_ref_usfm": "GEN 31:20",
+          "end_ref": "01031020",
+          "end_ref_usfm": "GEN 31:20"
+        },
+        {
+          "start_ref": "01031024",
+          "start_ref_usfm": "GEN 31:24",
+          "end_ref": "01031024",
+          "end_ref_usfm": "GEN 31:24"
+        },
+        {
+          "start_ref": "10008006",
+          "start_ref_usfm": "2SA 8:6",
+          "end_ref": "10008006",
+          "end_ref_usfm": "2SA 8:6"
+        },
+        {
+          "start_ref": "19060001",
+          "start_ref_usfm": "PSA 60:1",
+          "end_ref": "19060001",
+          "end_ref_usfm": "PSA 60:1"
+        },
+        {
+          "start_ref": "26027016",
+          "start_ref_usfm": "EZK 27:16",
+          "end_ref": "26027016",
+          "end_ref_usfm": "EZK 27:16"
+        },
+        {
+          "start_ref": "28012012",
+          "start_ref_usfm": "HOS 12:12",
+          "end_ref": "28012012",
+          "end_ref_usfm": "HOS 12:12"
+        },
+        {
+          "start_ref": "30001005",
+          "start_ref_usfm": "AMO 1:5",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "13001017",
+          "start_ref_usfm": "1CH 1:17",
+          "end_ref": "13001019",
+          "end_ref_usfm": "1CH 1:19"
+        },
+        {
+          "start_ref": "01031019",
+          "start_ref_usfm": "GEN 31:19",
+          "end_ref": "01031021",
+          "end_ref_usfm": "GEN 31:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26014,
+          "content_id": 238144,
+          "label": "Mesopotâmia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26069,
+          "content_id": 238199,
+          "label": "Padã-Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 238286,
+          "label": "Rebeca",
+          "language": "por"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 238354,
+          "label": "Sem",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

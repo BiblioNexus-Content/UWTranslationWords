@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 237814,
+    "reference_id": 25681,
+    "title": "Pomba",
+    "media_type": "Text",
+    "index_reference": "pomba",
+    "language": "por",
+    "content": "<h1>pomba, pombo, rola</h1><h2>Definição:</h2><p>Pombas e pombos são dois tipos de pequenos pássaros cinza-amarronzados que se parecem. Uma pomba é frequentemente considerada mais clara em cor, quase branca.</p><ul><li><p>Algumas línguas têm dois nomes diferentes para eles, enquanto outras usam o mesmo nome para ambos.</p></li><li><p>Pombas e pombos eram usados em sacrifícios a Deus, especialmente para pessoas que não podiam comprar um animal maior.</p></li><li><p>Uma pomba trouxe a folha de uma oliveira para Noé quando as águas do dilúvio estavam baixando.</p></li><li><p>Pombas às vezes simbolizam pureza, inocência ou paz.</p></li><li><p>Se pombas ou pombos não são conhecidos na área linguística onde a tradução está sendo feita, este termo poderia ser traduzido como “um pequeno pássaro cinza-amarronzado chamado pomba” ou “um pequeno pássaro cinza ou marrom, semelhante a um (nome do pássaro local)”.</p></li><li><p>Se tanto uma pomba quanto um pombo são mencionados no mesmo versículo, é melhor usar duas palavras diferentes para esses pássaros, se possível.</p></li><li><p>Uma rola é um tipo de pomba mencionada em Gn 15.9, Ct 2.12 e Lv 12.6.</p></li></ul><p>(Veja também: Como traduzir desconhecidos)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26062\" data-resourceType=\"UWTranslationWords\">oliveira</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25869\" data-resourceType=\"UWTranslationWords\">inocente</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">puro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen8:9\">Gênesis 8.9</a></p></li><li><p><a href=\"https://ref.ly/Luke2:22-Luke2:24\">Lucas 2.22–24</a></p></li><li><p><a href=\"https://ref.ly/Mark1:10\">Marcos 1.10</a></p></li><li><p><a href=\"https://ref.ly/Matt3:16\">Mateus 3.16</a></p></li><li><p><a href=\"https://ref.ly/Matt21:12-Matt21:14\">Mateus 21.12–14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1469, H1686, H3123, H8449, G40580</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008008",
+          "start_ref_usfm": "GEN 8:8",
+          "end_ref": "01008008",
+          "end_ref_usfm": "GEN 8:8"
+        },
+        {
+          "start_ref": "01008009",
+          "start_ref_usfm": "GEN 8:9",
+          "end_ref": "01008009",
+          "end_ref_usfm": "GEN 8:9"
+        },
+        {
+          "start_ref": "01008010",
+          "start_ref_usfm": "GEN 8:10",
+          "end_ref": "01008010",
+          "end_ref_usfm": "GEN 8:10"
+        },
+        {
+          "start_ref": "01008011",
+          "start_ref_usfm": "GEN 8:11",
+          "end_ref": "01008011",
+          "end_ref_usfm": "GEN 8:11"
+        },
+        {
+          "start_ref": "01008012",
+          "start_ref_usfm": "GEN 8:12",
+          "end_ref": "01008012",
+          "end_ref_usfm": "GEN 8:12"
+        },
+        {
+          "start_ref": "01015009",
+          "start_ref_usfm": "GEN 15:9",
+          "end_ref": "01015009",
+          "end_ref_usfm": "GEN 15:9"
+        },
+        {
+          "start_ref": "40003016",
+          "start_ref_usfm": "MAT 3:16",
+          "end_ref": "40003016",
+          "end_ref_usfm": "MAT 3:16"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010016",
+          "end_ref_usfm": "MAT 10:16"
+        },
+        {
+          "start_ref": "40021012",
+          "start_ref_usfm": "MAT 21:12",
+          "end_ref": "40021012",
+          "end_ref_usfm": "MAT 21:12"
+        },
+        {
+          "start_ref": "41001010",
+          "start_ref_usfm": "MRK 1:10",
+          "end_ref": "41001010",
+          "end_ref_usfm": "MRK 1:10"
+        },
+        {
+          "start_ref": "41011015",
+          "start_ref_usfm": "MRK 11:15",
+          "end_ref": "41011015",
+          "end_ref_usfm": "MRK 11:15"
+        },
+        {
+          "start_ref": "42002024",
+          "start_ref_usfm": "LUK 2:24",
+          "end_ref": "42002024",
+          "end_ref_usfm": "LUK 2:24"
+        },
+        {
+          "start_ref": "42003022",
+          "start_ref_usfm": "LUK 3:22",
+          "end_ref": "42003022",
+          "end_ref_usfm": "LUK 3:22"
+        },
+        {
+          "start_ref": "43001032",
+          "start_ref_usfm": "JHN 1:32",
+          "end_ref": "43001032",
+          "end_ref_usfm": "JHN 1:32"
+        },
+        {
+          "start_ref": "43002014",
+          "start_ref_usfm": "JHN 2:14",
+          "end_ref": "43002014",
+          "end_ref_usfm": "JHN 2:14"
+        },
+        {
+          "start_ref": "43002016",
+          "start_ref_usfm": "JHN 2:16",
+          "end_ref": "43002016",
+          "end_ref_usfm": "JHN 2:16"
+        },
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002024",
+          "end_ref_usfm": "LUK 2:24"
+        },
+        {
+          "start_ref": "40021012",
+          "start_ref_usfm": "MAT 21:12",
+          "end_ref": "40021014",
+          "end_ref_usfm": "MAT 21:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25869,
+          "content_id": 238002,
+          "label": "Inocente",
+          "language": "por"
+        },
+        {
+          "reference_id": 26062,
+          "content_id": 238192,
+          "label": "Azeitona",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

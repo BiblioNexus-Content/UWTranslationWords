@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 180251,
+    "reference_id": 26193,
+    "title": "शिमशोन",
+    "media_type": "Text",
+    "index_reference": "शिमशोन",
+    "language": "hin",
+    "content": "<h1>शिमशोन</h1><h2>तथ्य:</h2><p>शिमशोन न्यायियों में से एक था, और इस्राएल का मुक्तिदाता था। वह दान के गोत्र का था।</p><ul><li><p>परमेश्वर ने उसे अलौकिक शक्ति दी थी जिससे उसने इस्राएल के शत्रु पलिश्तियों से लड़ने में काम में ली।</p></li><li><p>शिमशोन शपथ के अधीन था कि वह न तो मदिरा पान करेगा, न ही किसी प्रकार का खमीरी पेय पदार्थ पीएगा। जब तक वह अपनी शपथ का निष्ठावान रहा, परमेश्वर उसे शक्ति देता रहा।</p></li><li><p>उसने अपनी शक्ति का भेद प्रकट करके बाल कटवा लिए और पलिश्तियों ने उसे बन्दी बना लिया।</p></li><li><p>जब शिमशोन बन्धुआई में था, परमेश्वर ने उसे शक्ति दी और अनेक पलिश्तियों के साथ उनके दागोन देवता के मन्दिर को नष्ट करवाया।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25657\" data-resourceType=\"UWTranslationWords\">मुक्ति दिलाना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">पलिश्ती</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">इब्रानियों 11:32–34</a></p></li><li><p><a href=\"https://ref.ly/Judg13:24-Judg13:25\">न्यायियों 13:24–25</a></p></li><li><p><a href=\"https://ref.ly/Judg16:1-Judg16:2\">न्यायियों 16:1–2</a></p></li><li><p><a href=\"https://ref.ly/Judg16:30-Judg16:31\">न्यायियों 16:30–31</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H8123, G4546</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07013025",
+          "start_ref_usfm": "JDG 13:25",
+          "end_ref": "07013025",
+          "end_ref_usfm": "JDG 13:25"
+        },
+        {
+          "start_ref": "07016002",
+          "start_ref_usfm": "JDG 16:2",
+          "end_ref": "07016002",
+          "end_ref_usfm": "JDG 16:2"
+        },
+        {
+          "start_ref": "07016031",
+          "start_ref_usfm": "JDG 16:31",
+          "end_ref": "07016031",
+          "end_ref_usfm": "JDG 16:31"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 180162,
+          "label": "पलिश्तियों",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

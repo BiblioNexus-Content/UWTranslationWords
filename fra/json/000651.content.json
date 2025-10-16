@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467221,
+    "reference_id": 26097,
+    "title": "Philippes",
+    "media_type": "Text",
+    "index_reference": "philippes",
+    "language": "fra",
+    "content": "<h1>Philippes</h1><h2>Information :</h2><p>&quot;Philippes&quot; était une grande ville et colonie romaine située en Macédoine dans la partie nord de la Grèce antique. Les habitants de Philippes étaient appelés &quot;Philippiens&quot;.</p><ul><li><p>Paul et Silas se sont rendus à Philippes pour y prêcher au sujet de Jésus .</p></li><li><p>Alors quíls étaient à Philippes, Paul et Silas ont été arrêtés , mais Dieu les a miraculeusement libérés.</p></li><li><p>Le livre des Philippiens, dans le Nouveau Testament, est une lettre que l&apos;apôtre Paul a écrite aux chrétiens de l&apos;église de Philippes.</p></li><li><p>Notez qu&apos;il s&apos;agit d&apos;une ville différente de Philippes de Césarée qui était située dans le nord-est d&apos;Israël près du mont Hermon.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25563\" data-resourceType=\"UWTranslationWords\">Césarée</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_chr%C3%A9tien\" data-resourceType=\"UWTranslationWords\">Chrétien</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">Eglise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_mac%C3%A9doine\" data-resourceType=\"UWTranslationWords\">Macédoine</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26236\" data-resourceType=\"UWTranslationWords\">Silas</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016011",
+          "start_ref_usfm": "ACT 16:11",
+          "end_ref": "44016011",
+          "end_ref_usfm": "ACT 16:11"
+        },
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016012",
+          "end_ref_usfm": "ACT 16:12"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "50004015",
+          "start_ref_usfm": "PHP 4:15",
+          "end_ref": "50004015",
+          "end_ref_usfm": "PHP 4:15"
+        },
+        {
+          "start_ref": "52002002",
+          "start_ref_usfm": "1TH 2:2",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016016",
+          "end_ref_usfm": "MAT 16:16"
+        },
+        {
+          "start_ref": "52002001",
+          "start_ref_usfm": "1TH 2:1",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25563,
+          "content_id": 466734,
+          "label": "Cesaréé ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 466756,
+          "label": "Chrétiens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 466758,
+          "label": "Église",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25986,
+          "content_id": 467125,
+          "label": "Macédoine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26236,
+          "content_id": 467351,
+          "label": "Silas",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

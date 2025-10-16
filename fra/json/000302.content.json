@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467376,
+    "reference_id": 26261,
+    "title": "Etienne",
+    "media_type": "Text",
+    "index_reference": "etienne",
+    "language": "fra",
+    "content": "<h1>Etienne</h1><h2>Définition :</h2><p>Etienne est surtout connu comme le premier martyr chrétien* IL est la première personne à être tuée à cause de sa foi en Jésus* Les faits sur sa vie et sa mort sont mentionnés dans le livre des Actes.</p><ul><li><p>Etienne a été choisi par l&apos;Église primitive à Jérusalem pour servir les chrétiens comme diacre* IL distribuait la nourriture aux veuves et aux autres chrétiens qui étaient dans le besoin *.</p></li><li><p>Certains juifs ont faussement accusé Etienne de parler contre Dieu et contre les lois de Moïse.</p></li><li><p>Etienne dit hardiment la vérité au sujet de Jésus le Messie, en commençant par l&apos;histoire des relations de Dieu avec Israël.</p></li><li><p>Les dirigeants juifs étaient furieux contre Etienne *Ils l&apos;ont lapidé à mort en dehors de la ville.</p></li><li><p>Son exécution a été suivie par Saul de Tarse, qui deviendra plus tard l&apos;apôtre Paul.</p></li><li><p>Etienne est également bien connu pour ses derniers mots avant sa mort: «Seigneur, ne leur impute pas ce péché,&quot; Ce qui démontre l&apos;amour qu&apos; Etienne avait pour les autres.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/appoint.md), (../kt/deacon.md), (../names/jerusalem.md), (../names/paul.md), (../kt/stone.md), (../kt/true.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44006012",
+          "start_ref_usfm": "ACT 6:12",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44007059",
+          "start_ref_usfm": "ACT 7:59",
+          "end_ref": "44007059",
+          "end_ref_usfm": "ACT 7:59"
+        },
+        {
+          "start_ref": "44008002",
+          "start_ref_usfm": "ACT 8:2",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "44006010",
+          "start_ref_usfm": "ACT 6:10",
+          "end_ref": "44006011",
+          "end_ref_usfm": "ACT 6:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 466646,
+          "label": "Nommer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25647,
+          "content_id": 466810,
+          "label": "Diacre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26262,
+          "content_id": 467377,
+          "label": "Pierre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

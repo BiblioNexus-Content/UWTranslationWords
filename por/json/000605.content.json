@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238147,
+    "reference_id": 26017,
+    "title": "Miguel",
+    "media_type": "Text",
+    "index_reference": "miguel",
+    "language": "por",
+    "content": "<h1>Miguel</h1><h2>Fatos:</h2><p>Miguel é o chefe de todos os anjos santos e obedientes de Deus. Ele é o único anjo que é especificamente referido como o “arcanjo” de Deus.</p><ul><li><p>O termo “arcanjo” literalmente significa “anjo chefe” ou “anjo governante”.</p></li><li><p>Miguel é um guerreiro que luta contra os inimigos de Deus e protege o povo de Deus.</p></li><li><p>Ele liderou os israelitas na luta contra o exército persa. No fim dos tempos, ele liderará os exércitos de Israel na batalha final contra as forças do mal, conforme predito em Daniel.</p></li><li><p>Há também vários homens na Bíblia com o nome Miguel. Vários homens são identificados como sendo o “filho de Miguel”.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">anjo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26015\" data-resourceType=\"UWTranslationWords\">mensageiro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Pérsia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan10:13\">Daniel 10.13</a></p></li><li><p><a href=\"https://ref.ly/Dan10:21\">Daniel 10.21</a></p></li><li><p><a href=\"https://ref.ly/Ezra8:8\">Esdras 8.8</a></p></li><li><p><a href=\"https://ref.ly/Rev12:7-Rev12:9\">Apocalipse 12.7–9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4317, G34130</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15008008",
+          "start_ref_usfm": "EZR 8:8",
+          "end_ref": "15008008",
+          "end_ref_usfm": "EZR 8:8"
+        },
+        {
+          "start_ref": "27010013",
+          "start_ref_usfm": "DAN 10:13",
+          "end_ref": "27010013",
+          "end_ref_usfm": "DAN 10:13"
+        },
+        {
+          "start_ref": "27010021",
+          "start_ref_usfm": "DAN 10:21",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "65001009",
+          "start_ref_usfm": "JUD 1:9",
+          "end_ref": "65001009",
+          "end_ref_usfm": "JUD 1:9"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012007",
+          "end_ref_usfm": "REV 12:7"
+        },
+        {
+          "start_ref": "66012007",
+          "start_ref_usfm": "REV 12:7",
+          "end_ref": "66012009",
+          "end_ref_usfm": "REV 12:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 237597,
+          "label": "Anjo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26015,
+          "content_id": 238145,
+          "label": "Mensageiro",
+          "language": "por"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 238221,
+          "label": "Pérsia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 467129,
+    "reference_id": 25990,
+    "title": "Fabricant",
+    "media_type": "Text",
+    "index_reference": "fabricant",
+    "language": "fra",
+    "content": "<h1>Fabricant</h1><h2>Définition :</h2><p>&quot;En général, un «Fabriquant» est quelqu&apos;un qui crée ou fait les choses.</p><ul><li><p>Dans la Bible, le terme &quot;fabriquant&quot; est parfois utilisé comme un nom ou un titre pour l&apos;Éternel, parce qu&apos;il a tout créé.</p></li><li><p>Habituellement, ce terme est associé à «son» ou «mon» ou «votre».</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Le terme &quot;Fabriquant&quot; peut être traduit comme &quot;le Créateur&quot; ou &quot;Dieu qui crée» ou «Celui qui a fait tout*&quot;</p></li><li><p>L&apos;expression «son Créateur» pourrait aussi être traduit par &quot;Dieu qui l&apos;a créé*&quot;</p></li><li><p>Les expressions «votre Créateur» et «mon Créateur&quot; pourraient être traduits d&apos;une manière similaire.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : (../other/creation.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28008013",
+          "start_ref_usfm": "HOS 8:13",
+          "end_ref": "28008014",
+          "end_ref_usfm": "HOS 8:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25624,
+          "content_id": 466789,
+          "label": "Creer ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467298,
+    "reference_id": 26178,
+    "title": "Rimmon",
+    "media_type": "Text",
+    "index_reference": "rimmon",
+    "language": "fra",
+    "content": "<h1>Rimmon</h1><h2>Définition :</h2><p>Rimmon est le nom d&apos;un homme et aussi de plusieurs lieux bibliques* Il est aussi le nom d&apos;un faux dieu* Cela signifie &quot;grenade*&quot;</p><ul><li><p>Un homme nommé Rimmon était un Benjamite de la ville de Beéroth dans Zabulon* Les fils de cet homme assassinèrent Ishbosheth, le fils estropié de Jonathan.</p></li><li><p>Rimmon était une ville dans la partie sud de Juda* Le rocher de Rimmon était un lieu sûr où les Benjamites se refusaient pour échapper à la mort.</p></li><li><p>Rimmon-Parez était un lieu inconnu dans le désert de Judée.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/benjamin.md), (../names/judea.md), (../names/naaman.md), (../names/syria.md), (../names/zebulun.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12005018",
+          "start_ref_usfm": "2KI 5:18",
+          "end_ref": "12005018",
+          "end_ref_usfm": "2KI 5:18"
+        },
+        {
+          "start_ref": "10004005",
+          "start_ref_usfm": "2SA 4:5",
+          "end_ref": "10004007",
+          "end_ref_usfm": "2SA 4:7"
+        },
+        {
+          "start_ref": "07020045",
+          "start_ref_usfm": "JDG 20:45",
+          "end_ref": "07020046",
+          "end_ref_usfm": "JDG 20:46"
+        },
+        {
+          "start_ref": "07021013",
+          "start_ref_usfm": "JDG 21:13",
+          "end_ref": "07021015",
+          "end_ref_usfm": "JDG 21:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 467073,
+          "label": "Judée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 467176,
+          "label": "Naaman",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

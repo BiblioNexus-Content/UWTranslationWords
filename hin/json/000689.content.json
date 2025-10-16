@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180093,
+    "reference_id": 26029,
+    "title": "मोलेक",
+    "media_type": "Text",
+    "index_reference": "मोलेक",
+    "language": "hin",
+    "content": "<h1>मोलेक, Moloch</h1><h2>तथ्य:</h2><p>मोलेक कनानियों का झूठे देवता था जिसकी वे उपासना करते थे। उसे मोलेक भी लिखा गया है।</p><ul><li><p>मोलेक के उपासक अपने बच्चों को उसकी मूर्ति के समक्ष होम करते थे।</p></li><li><p>कुछ इस्राएली भी सच्चे परमेश्वर यहोवा को त्याग कर मोलेक की पूजा करने लगे थे। उन्होंने मोलेक उपासकों की बुरी आदतों का पालन किया, जिसमें उनके बच्चों का त्याग भी शामिल था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">कनान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25718\" data-resourceType=\"UWTranslationWords\">बुराई</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">झूठे देवता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">परमेश्वर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_idol\" data-resourceType=\"UWTranslationWords\">मूरत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">सत्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">आराधना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">यहोवा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 11:7–8</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 23:10–11</a></p></li><li><p><a href=\"https://ref.ly/Acts7:43\">प्रे.का. 07:43</a></p></li><li><p><a href=\"https://ref.ly/Jer32:33-Jer32:35\">यिर्मयाह 32:33–35</a></p></li><li><p><a href=\"https://ref.ly/Lev18:21\">लैव्यव्यवस्था 18:21</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4428, H4432, G3434</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018021",
+          "start_ref_usfm": "LEV 18:21",
+          "end_ref": "03018021",
+          "end_ref_usfm": "LEV 18:21"
+        },
+        {
+          "start_ref": "11011007",
+          "start_ref_usfm": "1KI 11:7",
+          "end_ref": "11011007",
+          "end_ref_usfm": "1KI 11:7"
+        },
+        {
+          "start_ref": "12023010",
+          "start_ref_usfm": "2KI 23:10",
+          "end_ref": "12023010",
+          "end_ref_usfm": "2KI 23:10"
+        },
+        {
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        },
+        {
+          "start_ref": "24032033",
+          "start_ref_usfm": "JER 32:33",
+          "end_ref": "24032035",
+          "end_ref_usfm": "JER 32:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 179651,
+          "label": "कनान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25718,
+          "content_id": 179791,
+          "label": "बुराई",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 179859,
+          "label": "परमेश्‍वर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 180409,
+          "label": "दंडवत करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 180412,
+          "label": "यहोवा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

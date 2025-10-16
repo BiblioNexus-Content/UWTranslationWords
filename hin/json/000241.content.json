@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179863,
+    "reference_id": 25792,
+    "title": "गुलगुता",
+    "media_type": "Text",
+    "index_reference": "गुलगुता",
+    "language": "hin",
+    "content": "<h1>गुलगुता</h1><h2>तथ्य:</h2><p>“गुलगुता” उस स्थान का नाम है जहां यीशु को क्रूस पर चढ़ाया गया था। इस शब्द का मूल अरामी भाषा में है जिसका अर्थ है, “खोपड़ी” या “खोपड़ी का स्थान”।</p><ul><li><p>गुलगुता स्थान यरूशलेम की शहरपनाह के बाहर कहीं निकटवर्ती स्थान था। संभवतः जैतून पर्वत के ढलान पर।</p></li><li><p>बाइबल के कुछ प्राचीन अंग्रेजी अनुवादों में गुलगुता का अनुवाद “कलवरी” किया गया है जिसका मूल लातीनी भाषा में है जो “खोपड़ी” शब्द से आता है।</p></li><li><p>अनेक बाइबल संस्करणों में ऐसे शब्द का उपयोग किया गया है जो “गुलगुता” के सदृश्य दिखता हैं या सुनाई देता हैं क्योंकि इस शब्द का अनुवाद बाइबल अभिलेख में किया जा चुका है।</p></li></ul><p>(अनुवाद के सुझाव: नाम का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">अराम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26034\" data-resourceType=\"UWTranslationWords\">जैतून पर्वत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/John19:17\">यूहन्ना 19:17</a></p></li><li><p><a href=\"https://ref.ly/Mark15:22\">मरकुस 15:22</a></p></li><li><p><a href=\"https://ref.ly/Matt27:33\">मत्ती 27:33</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G11150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027033",
+          "start_ref_usfm": "MAT 27:33",
+          "end_ref": "40027033",
+          "end_ref_usfm": "MAT 27:33"
+        },
+        {
+          "start_ref": "41015022",
+          "start_ref_usfm": "MRK 15:22",
+          "end_ref": "41015022",
+          "end_ref_usfm": "MRK 15:22"
+        },
+        {
+          "start_ref": "43019017",
+          "start_ref_usfm": "JHN 19:17",
+          "end_ref": "43019017",
+          "end_ref_usfm": "JHN 19:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25471,
+          "content_id": 179559,
+          "label": "अराम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 180098,
+          "label": "जैतून पर्वत",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

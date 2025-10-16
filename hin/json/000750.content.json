@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 180240,
+    "reference_id": 26182,
+    "title": "राजकीय",
+    "media_type": "Text",
+    "index_reference": "राजकीय",
+    "language": "hin",
+    "content": "<h1>राजकीय, राजसी गौरव,राजा का, रानी का</h1><h2>परिभाषा:</h2><p>“राजसी ” शब्द राजा या रानी से संबन्धित वस्तुओं और मनुष्यों का संकेत देता है।</p><ul><li><p>जो वस्तुएं “राजकीय” कहलाती हैं उनके उदाहरण हैं, राजा के (या रानी के) पद, वस्त्र, महल, सिंहासन और मुकुट।</p></li><li><p>राजा या रानी राज महल में रहते हैं।</p></li><li><p>राजा के विशेष वस्त्र “राजसी वेशभूषा” कहलाते हैं। राजा का बागा बैंगनी रंग का होता था बैंगनी रंग एक अत्यधिक दुर्लभ एवं मूल्यवान रंजक रंगा जाता था।</p></li><li><p>नये नियम में यीशु के विश्वासियों को “राजसी याजक” कहा गया है। इस शब्द का अनुवाद हो सकता है, &quot;राजा स्वरुप परमेश्वर की सेवा में सेवारत याजक” या “परमेश्वर राजा के याजक होने हेतु बुलाए गए।”</p></li><li><p>“राजसी” शब्द का अनुवाद हो सकता है, “राजा सदृश्य” या “राजा के होना”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">राजा</span>. <span data-bnType=\"resourceReference\" data-resourceId=\"26071\" data-resourceType=\"UWTranslationWords\">महल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">याजक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26143\" data-resourceType=\"UWTranslationWords\">बैंजनी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26145\" data-resourceType=\"UWTranslationWords\">रानी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26179\" data-resourceType=\"UWTranslationWords\">बागा</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 10:13</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 18:28–30</a></p></li><li><p><a href=\"https://ref.ly/Amos7:13\">आमोस 07:13</a></p></li><li><p><a href=\"https://ref.ly/Gen49:0\">उत्पत्ति 49: 19–21</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H643, H1921, H1935, H4410, H4428, H4430, H4437, H4438, H4467, H4468, H7985, G933, G934, G937</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11010013",
+          "start_ref_usfm": "1KI 10:13",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        },
+        {
+          "start_ref": "30007013",
+          "start_ref_usfm": "AMO 7:13",
+          "end_ref": "30007013",
+          "end_ref_usfm": "AMO 7:13"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43004049",
+          "start_ref_usfm": "JHN 4:49",
+          "end_ref": "43004049",
+          "end_ref_usfm": "JHN 4:49"
+        },
+        {
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012021",
+          "end_ref_usfm": "ACT 12:21"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002008",
+          "end_ref_usfm": "JAS 2:8"
+        },
+        {
+          "start_ref": "14018028",
+          "start_ref_usfm": "2CH 18:28",
+          "end_ref": "14018030",
+          "end_ref_usfm": "2CH 18:30"
+        },
+        {
+          "start_ref": "01049019",
+          "start_ref_usfm": "GEN 49:19",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25938,
+          "content_id": 180005,
+          "label": "राजा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26071,
+          "content_id": 180133,
+          "label": "महल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 180182,
+          "label": "याजक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26143,
+          "content_id": 180202,
+          "label": "बैंगनी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26145,
+          "content_id": 180204,
+          "label": "रानी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26179,
+          "content_id": 180237,
+          "label": "बागा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

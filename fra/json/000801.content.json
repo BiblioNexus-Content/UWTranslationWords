@@ -1,0 +1,185 @@
+[
+  {
+    "content_id": 467356,
+    "reference_id": 26241,
+    "title": "Sinaï",
+    "media_type": "Text",
+    "index_reference": "sinaï",
+    "language": "fra",
+    "content": "<h1>Sinaï, le Mont Sinaï</h1><h2>Données :</h2><p>Le mont Sinaï est le nom d&apos;une montagne censée être située dans la partie sud de ce qui est maintenant appelé la péninsule du Sinaï. Il était également connu sous le nom de «mont Horeb».</p><ul><li><p>Les Israélites sont passés au mont Sinaï quand ils voyageaient de l&apos;Égypte vers la Terre Promise.</p></li><li><p>le mont Sinai fait partie d&apos;un grand désert rocheux.</p></li><li><p>Dieu a donné les Dix Commandements à Moïse sur le Mont Sinaï.</p></li></ul><p>(Voir aussi : (../other/desert.md), (../names/egypt.md), (../names/horeb.md), (../kt/promisedland.md), (../other/tencommandments.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02019001",
+          "start_ref_usfm": "EXO 19:1",
+          "end_ref": "02019001",
+          "end_ref_usfm": "EXO 19:1"
+        },
+        {
+          "start_ref": "02019002",
+          "start_ref_usfm": "EXO 19:2",
+          "end_ref": "02019002",
+          "end_ref_usfm": "EXO 19:2"
+        },
+        {
+          "start_ref": "02019011",
+          "start_ref_usfm": "EXO 19:11",
+          "end_ref": "02019011",
+          "end_ref_usfm": "EXO 19:11"
+        },
+        {
+          "start_ref": "02019018",
+          "start_ref_usfm": "EXO 19:18",
+          "end_ref": "02019018",
+          "end_ref_usfm": "EXO 19:18"
+        },
+        {
+          "start_ref": "02019020",
+          "start_ref_usfm": "EXO 19:20",
+          "end_ref": "02019020",
+          "end_ref_usfm": "EXO 19:20"
+        },
+        {
+          "start_ref": "02019023",
+          "start_ref_usfm": "EXO 19:23",
+          "end_ref": "02019023",
+          "end_ref_usfm": "EXO 19:23"
+        },
+        {
+          "start_ref": "02024013",
+          "start_ref_usfm": "EXO 24:13",
+          "end_ref": "02024013",
+          "end_ref_usfm": "EXO 24:13"
+        },
+        {
+          "start_ref": "02034032",
+          "start_ref_usfm": "EXO 34:32",
+          "end_ref": "02034032",
+          "end_ref_usfm": "EXO 34:32"
+        },
+        {
+          "start_ref": "03027034",
+          "start_ref_usfm": "LEV 27:34",
+          "end_ref": "03027034",
+          "end_ref_usfm": "LEV 27:34"
+        },
+        {
+          "start_ref": "05001002",
+          "start_ref_usfm": "DEU 1:2",
+          "end_ref": "05001002",
+          "end_ref_usfm": "DEU 1:2"
+        },
+        {
+          "start_ref": "16009013",
+          "start_ref_usfm": "NEH 9:13",
+          "end_ref": "16009013",
+          "end_ref_usfm": "NEH 9:13"
+        },
+        {
+          "start_ref": "19106019",
+          "start_ref_usfm": "PSA 106:19",
+          "end_ref": "19106019",
+          "end_ref_usfm": "PSA 106:19"
+        },
+        {
+          "start_ref": "44007030",
+          "start_ref_usfm": "ACT 7:30",
+          "end_ref": "44007030",
+          "end_ref_usfm": "ACT 7:30"
+        },
+        {
+          "start_ref": "44007038",
+          "start_ref_usfm": "ACT 7:38",
+          "end_ref": "44007038",
+          "end_ref_usfm": "ACT 7:38"
+        },
+        {
+          "start_ref": "48004024",
+          "start_ref_usfm": "GAL 4:24",
+          "end_ref": "48004024",
+          "end_ref_usfm": "GAL 4:24"
+        },
+        {
+          "start_ref": "44007029",
+          "start_ref_usfm": "ACT 7:29",
+          "end_ref": "44007030",
+          "end_ref_usfm": "ACT 7:30"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003003",
+          "end_ref_usfm": "EXO 3:3"
+        },
+        {
+          "start_ref": "02016001",
+          "start_ref_usfm": "EXO 16:1",
+          "end_ref": "02016003",
+          "end_ref_usfm": "EXO 16:3"
+        },
+        {
+          "start_ref": "04001017",
+          "start_ref_usfm": "NUM 1:17",
+          "end_ref": "04001019",
+          "end_ref_usfm": "NUM 1:19"
+        },
+        {
+          "start_ref": "11008009",
+          "start_ref_usfm": "1KI 8:9",
+          "end_ref": "11008011",
+          "end_ref_usfm": "1KI 8:11"
+        },
+        {
+          "start_ref": "14005009",
+          "start_ref_usfm": "2CH 5:9",
+          "end_ref": "14005010",
+          "end_ref_usfm": "2CH 5:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25621,
+          "content_id": 466786,
+          "label": "Alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 467356,
+          "label": "Sinaï",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26286,
+          "content_id": 467400,
+          "label": "Dix Commandements",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466683,
+    "reference_id": 25505,
+    "title": "Orge",
+    "media_type": "Text",
+    "index_reference": "orge",
+    "language": "fra",
+    "content": "<h1>orge</h1><h2>Définition :</h2><p>Le terme &quot;orge&quot; se réfère à une sorte de graine qui est utilisée pour faire du pain.</p><ul><li><p>Le plant d&apos;orge avait une longue tige avec un épis à la tête où les semences ou les graines se développent.</p></li><li><p>Lorsque l&apos;orge est bâtue, les graines mangeables sont séparées de la paille sans valeur.</p></li><li><p>Le grain de l&apos;orge est pilé en farine, qui est alors mélangé à l&apos;eau ou à l&apos;huile pour faire du pain.</p></li><li><p>Si l&apos;orge n&apos;est pas connue, le mot peut être traduit comme &quot;une graine appelée orge&quot; ou &quot;graine d&apos;orge&quot;</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../other/grain.md), (../other/thresh.md), (../other/wheat.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02009031",
+          "start_ref_usfm": "EXO 9:31",
+          "end_ref": "02009031",
+          "end_ref_usfm": "EXO 9:31"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "07007014",
+          "start_ref_usfm": "JDG 7:14",
+          "end_ref": "07007014",
+          "end_ref_usfm": "JDG 7:14"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002017",
+          "start_ref_usfm": "RUT 2:17",
+          "end_ref": "08002017",
+          "end_ref_usfm": "RUT 2:17"
+        },
+        {
+          "start_ref": "08002023",
+          "start_ref_usfm": "RUT 2:23",
+          "end_ref": "08002023",
+          "end_ref_usfm": "RUT 2:23"
+        },
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "08003015",
+          "start_ref_usfm": "RUT 3:15",
+          "end_ref": "08003015",
+          "end_ref_usfm": "RUT 3:15"
+        },
+        {
+          "start_ref": "08003017",
+          "start_ref_usfm": "RUT 3:17",
+          "end_ref": "08003017",
+          "end_ref_usfm": "RUT 3:17"
+        },
+        {
+          "start_ref": "18031040",
+          "start_ref_usfm": "JOB 31:40",
+          "end_ref": "18031040",
+          "end_ref_usfm": "JOB 31:40"
+        },
+        {
+          "start_ref": "43006009",
+          "start_ref_usfm": "JHN 6:9",
+          "end_ref": "43006009",
+          "end_ref_usfm": "JHN 6:9"
+        },
+        {
+          "start_ref": "43006013",
+          "start_ref_usfm": "JHN 6:13",
+          "end_ref": "43006013",
+          "end_ref_usfm": "JHN 6:13"
+        },
+        {
+          "start_ref": "66006006",
+          "start_ref_usfm": "REV 6:6",
+          "end_ref": "66006006",
+          "end_ref_usfm": "REV 6:6"
+        },
+        {
+          "start_ref": "13011012",
+          "start_ref_usfm": "1CH 11:12",
+          "end_ref": "13011014",
+          "end_ref_usfm": "1CH 11:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26300,
+          "content_id": 467414,
+          "label": "Battre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140843,
+          "content_id": 357475,
+          "label": "Jean 6.9 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26345,
+          "content_id": 467453,
+          "label": "Blé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

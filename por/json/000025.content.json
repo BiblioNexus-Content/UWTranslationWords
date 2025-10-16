@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 237569,
+    "reference_id": 25431,
+    "title": "Adonias",
+    "media_type": "Text",
+    "index_reference": "adonias",
+    "language": "por",
+    "content": "<h1>Adonias</h1><h2>Definição:</h2><p>Adonias foi o quarto filho do Rei Davi.</p><ul><li><p>Adonias tentou assumir como rei de Israel após as mortes de seus irmãos Absalão e Amnom.</p></li><li><p>Deus, no entanto, havia prometido que o filho de Davi, Salomão, seria rei, então o plano de Adonias foi derrubado e Salomão foi feito rei.</p></li><li><p>Quando Adonias tentou uma segunda vez se fazer rei, Salomão o matou.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0138</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010016",
+          "start_ref_usfm": "NEH 10:16",
+          "end_ref": "16010016",
+          "end_ref_usfm": "NEH 10:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

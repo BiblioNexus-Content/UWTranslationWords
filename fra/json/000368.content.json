@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466931,
+    "reference_id": 25782,
+    "title": "Guilgal",
+    "media_type": "Text",
+    "index_reference": "guilgal",
+    "language": "fra",
+    "content": "<h1>Guilgal</h1><h2>Définition :</h2><p>&quot;Le terme Guilgal était une ville au nord de Jéricho et était le premier endroit où les Israélites campèrent après avoir traversé le Jourdain pour entrer en Canaan.</p><ul><li><p>A Guilgal, Josué dressa douze pierres provenant du lit de la rivière asséchée du Jourdain qu&apos;ils venaient juste de traverser.</p></li><li><p>Guilgal était la ville qu&apos;Élie et Élisée quittèrent losqu&apos;ils traversèrent le Jourdain; là Elie fut enlevé au ciel.</p></li><li><p>Il y avait aussi plusieurs autres endroits appelés «Guilgal» dans l&apos;Ancien Testament.</p></li><li><p>Le mot «Guilgal» signifie «cercle de pierres,&quot; peut-être se référant à un endroit où un autel circulaire a été construit* Il est également lié à l&apos;expression &quot;rouler quelque chose&quot;.</p></li><li><p>Le mot apparait presque toujours dans l&apos;expression, «le Guilgal», ce qui peut indiquer que ce fut une référence générale à une sorte de place, plutôt qu&apos;un nom de lieu.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/elijah.md), , (../names/elisha.md), (../names/jericho.md), (../names/jordanriver.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07002001",
+          "start_ref_usfm": "JDG 2:1",
+          "end_ref": "07002001",
+          "end_ref_usfm": "JDG 2:1"
+        },
+        {
+          "start_ref": "16012029",
+          "start_ref_usfm": "NEH 12:29",
+          "end_ref": "16012029",
+          "end_ref_usfm": "NEH 12:29"
+        },
+        {
+          "start_ref": "28004015",
+          "start_ref_usfm": "HOS 4:15",
+          "end_ref": "28004015",
+          "end_ref_usfm": "HOS 4:15"
+        },
+        {
+          "start_ref": "09007015",
+          "start_ref_usfm": "1SA 7:15",
+          "end_ref": "09007017",
+          "end_ref_usfm": "1SA 7:17"
+        },
+        {
+          "start_ref": "12002001",
+          "start_ref_usfm": "2KI 2:1",
+          "end_ref": "12002002",
+          "end_ref_usfm": "2KI 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 466858,
+          "label": "Elisée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

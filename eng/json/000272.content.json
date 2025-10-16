@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26544,
+    "reference_id": 25686,
+    "title": "Eagle",
+    "media_type": "Text",
+    "index_reference": "eagle",
+    "language": "eng",
+    "content": "<h1>eagle</h1><h2>Definition:</h2><p>An eagle is a very large, powerful bird of prey that eats small animals such as fish, mice, snakes, and chickens.</p><ul><li><p>The Bible compares the speed and strength of an army to how fast and suddenly an eagle swoops down to catch its prey.</p></li><li><p>Isaiah states that those who trust in the Lord will soar as an eagle does. This is figurative language used to describe the freedom and strength that comes from trusting and obeying God.</p></li><li><p>In the book of Daniel, King Nebuchadnezzar’s hair length was compared to the length of an eagle’s feathers, which can be more than 50 centimeters long.</p></li></ul><p>(See also: How to Translate Unknowns)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25758\" data-resourceType=\"UWTranslationWords\">free</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nebuchadnezzar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">power</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Sam1:23\">2 Samuel 1:23</a></p></li><li><p><a href=\"https://ref.ly/Dan7:4\">Daniel 7:4</a></p></li><li><p><a href=\"https://ref.ly/Jer4:13-Jer4:15\">Jeremiah 4:13–15</a></p></li><li><p><a href=\"https://ref.ly/Lev11:13-Lev11:16\">Leviticus 11:13–16</a></p></li><li><p><a href=\"https://ref.ly/Rev4:7\">Revelation 4:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5403, H5404, G01050</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001023",
+          "start_ref_usfm": "2SA 1:23",
+          "end_ref": "10001023",
+          "end_ref_usfm": "2SA 1:23"
+        },
+        {
+          "start_ref": "20023005",
+          "start_ref_usfm": "PRO 23:5",
+          "end_ref": "20023005",
+          "end_ref_usfm": "PRO 23:5"
+        },
+        {
+          "start_ref": "20030019",
+          "start_ref_usfm": "PRO 30:19",
+          "end_ref": "20030019",
+          "end_ref_usfm": "PRO 30:19"
+        },
+        {
+          "start_ref": "27007004",
+          "start_ref_usfm": "DAN 7:4",
+          "end_ref": "27007004",
+          "end_ref_usfm": "DAN 7:4"
+        },
+        {
+          "start_ref": "31001004",
+          "start_ref_usfm": "OBA 1:4",
+          "end_ref": "31001004",
+          "end_ref_usfm": "OBA 1:4"
+        },
+        {
+          "start_ref": "40024028",
+          "start_ref_usfm": "MAT 24:28",
+          "end_ref": "40024028",
+          "end_ref_usfm": "MAT 24:28"
+        },
+        {
+          "start_ref": "42017037",
+          "start_ref_usfm": "LUK 17:37",
+          "end_ref": "42017037",
+          "end_ref_usfm": "LUK 17:37"
+        },
+        {
+          "start_ref": "66004007",
+          "start_ref_usfm": "REV 4:7",
+          "end_ref": "66004007",
+          "end_ref_usfm": "REV 4:7"
+        },
+        {
+          "start_ref": "66008013",
+          "start_ref_usfm": "REV 8:13",
+          "end_ref": "66008013",
+          "end_ref_usfm": "REV 8:13"
+        },
+        {
+          "start_ref": "66012014",
+          "start_ref_usfm": "REV 12:14",
+          "end_ref": "66012014",
+          "end_ref_usfm": "REV 12:14"
+        },
+        {
+          "start_ref": "24004013",
+          "start_ref_usfm": "JER 4:13",
+          "end_ref": "24004015",
+          "end_ref_usfm": "JER 4:15"
+        },
+        {
+          "start_ref": "03011013",
+          "start_ref_usfm": "LEV 11:13",
+          "end_ref": "03011016",
+          "end_ref_usfm": "LEV 11:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25758,
+          "content_id": 26616,
+          "label": "Free",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 26905,
+          "label": "Nebuchadnezzar",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

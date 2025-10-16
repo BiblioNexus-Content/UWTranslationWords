@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 26978,
+    "reference_id": 26120,
+    "title": "Prey",
+    "media_type": "Text",
+    "index_reference": "prey",
+    "language": "eng",
+    "content": "<h1>prey, prey on</h1><h2>Definition:</h2><p>The term “prey” refers to something that is hunted, usually an animal that is used for food.</p><ul><li><p>In a figurative sense, “prey” can refer to a person who is taken advantage of, abused, or oppressed by a more powerful person.</p></li><li><p>To “prey on” people means to take advantage of them by oppressing them or stealing something from them.</p></li><li><p>The term “prey” could also be translated as “hunted animal” or “hunted one” or “victim.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_oppress\" data-resourceType=\"UWTranslationWords\">oppress</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Jer12:9\">Jeremiah 12:9</a></p></li><li><p><a href=\"https://ref.ly/Ps104:21\">Psalms 104:21</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0400, H0957, H0962, H2963, H2964, H5706, H5861, H7997, H7998</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049009",
+          "start_ref_usfm": "GEN 49:9",
+          "end_ref": "01049009",
+          "end_ref_usfm": "GEN 49:9"
+        },
+        {
+          "start_ref": "01049027",
+          "start_ref_usfm": "GEN 49:27",
+          "end_ref": "01049027",
+          "end_ref_usfm": "GEN 49:27"
+        },
+        {
+          "start_ref": "19104021",
+          "start_ref_usfm": "PSA 104:21",
+          "end_ref": "19104021",
+          "end_ref_usfm": "PSA 104:21"
+        },
+        {
+          "start_ref": "24012009",
+          "start_ref_usfm": "JER 12:9",
+          "end_ref": "24012009",
+          "end_ref_usfm": "JER 12:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

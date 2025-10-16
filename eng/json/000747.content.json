@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 27020,
+    "reference_id": 26162,
+    "title": "Redsea",
+    "media_type": "Text",
+    "index_reference": "redsea",
+    "language": "eng",
+    "content": "<h1>sea of reeds, Sea of Reeds, Red Sea</h1><h2>Facts:</h2><p>The “Sea of Reeds” was the name of a body of water located between Egypt and Arabia. It is now called the “Red Sea.”</p><ul><li><p>The Red Sea is long and narrow. It is larger than a lake or river, but much smaller than an ocean.</p></li><li><p>The Israelites had to cross the Red Sea when they were fleeing from Egypt. God performed a miracle and caused the waters of the sea to divide so that the people could walk across on dry land.</p></li><li><p>The land of Canaan was north of this sea.</p></li><li><p>This could also be translated as “Reed Sea.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25470\" data-resourceType=\"UWTranslationWords\">Arabia</span><strong>.</strong> <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:35-Acts7:37\">Acts 7:35–37</a></p></li><li><p><a href=\"https://ref.ly/Exod13:17-Exod13:18\">Exodus 13:17–18</a></p></li><li><p><a href=\"https://ref.ly/Josh4:22-Josh4:24\">Joshua 4:22–24</a></p></li><li><p><a href=\"https://ref.ly/Num14:23-Num14:25\">Numbers 14:23–25</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>12:4</strong> When the Israelites saw the Egyptian army coming, they realized they were trapped between Pharaoh’s army and the <strong>Red Sea</strong>.</p></li><li><p><strong>12:5</strong> Then God told Moses, “Tell the people to move toward the <strong>Red Sea</strong>.”</p></li><li><p><strong>13:1</strong> After God led the Israelites through the <strong>Red Sea</strong>, he led them through the wilderness to a mountain called Sinai.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3220, H5488, G20630, G22810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02010019",
+          "start_ref_usfm": "EXO 10:19",
+          "end_ref": "02010019",
+          "end_ref_usfm": "EXO 10:19"
+        },
+        {
+          "start_ref": "02013018",
+          "start_ref_usfm": "EXO 13:18",
+          "end_ref": "02013018",
+          "end_ref_usfm": "EXO 13:18"
+        },
+        {
+          "start_ref": "02015004",
+          "start_ref_usfm": "EXO 15:4",
+          "end_ref": "02015004",
+          "end_ref_usfm": "EXO 15:4"
+        },
+        {
+          "start_ref": "02015022",
+          "start_ref_usfm": "EXO 15:22",
+          "end_ref": "02015022",
+          "end_ref_usfm": "EXO 15:22"
+        },
+        {
+          "start_ref": "02023031",
+          "start_ref_usfm": "EXO 23:31",
+          "end_ref": "02023031",
+          "end_ref_usfm": "EXO 23:31"
+        },
+        {
+          "start_ref": "16009009",
+          "start_ref_usfm": "NEH 9:9",
+          "end_ref": "16009009",
+          "end_ref_usfm": "NEH 9:9"
+        },
+        {
+          "start_ref": "44007036",
+          "start_ref_usfm": "ACT 7:36",
+          "end_ref": "44007036",
+          "end_ref_usfm": "ACT 7:36"
+        },
+        {
+          "start_ref": "46010001",
+          "start_ref_usfm": "1CO 10:1",
+          "end_ref": "46010001",
+          "end_ref_usfm": "1CO 10:1"
+        },
+        {
+          "start_ref": "46010002",
+          "start_ref_usfm": "1CO 10:2",
+          "end_ref": "46010002",
+          "end_ref_usfm": "1CO 10:2"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011029",
+          "end_ref_usfm": "HEB 11:29"
+        },
+        {
+          "start_ref": "02013017",
+          "start_ref_usfm": "EXO 13:17",
+          "end_ref": "02013018",
+          "end_ref_usfm": "EXO 13:18"
+        },
+        {
+          "start_ref": "04014023",
+          "start_ref_usfm": "NUM 14:23",
+          "end_ref": "04014025",
+          "end_ref_usfm": "NUM 14:25"
+        },
+        {
+          "start_ref": "44007035",
+          "start_ref_usfm": "ACT 7:35",
+          "end_ref": "44007037",
+          "end_ref_usfm": "ACT 7:37"
+        },
+        {
+          "start_ref": "06004022",
+          "start_ref_usfm": "JOS 4:22",
+          "end_ref": "06004024",
+          "end_ref_usfm": "JOS 4:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 26328,
+          "label": "Arabia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 26548,
+          "label": "Egypt",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

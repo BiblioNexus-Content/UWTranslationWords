@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 466638,
+    "reference_id": 25458,
+    "title": "André",
+    "media_type": "Text",
+    "index_reference": "andré",
+    "language": "fra",
+    "content": "<h1>André</h1><h2>Définition :</h2><p>André était l&apos;un des douze que Jésus avait choisis à être ses plus proches disciples (appelés plus tard apôtres).</p><ul><li><p>Le frère d&apos;André était Simon Pierre* Ils étaient tous deux des pêcheurs* Pierre et André étaient en train de pêcher dans la mer de Galilée lorsque Jésus les appela.</p></li><li><p>Avant que Pierre et André ne rencontrent Jésus, ils étaient disciples de Jean Baptiste.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../kt/disciple.md), (../kt/thetwelve.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004018",
+          "start_ref_usfm": "MAT 4:18",
+          "end_ref": "40004018",
+          "end_ref_usfm": "MAT 4:18"
+        },
+        {
+          "start_ref": "40004019",
+          "start_ref_usfm": "MAT 4:19",
+          "end_ref": "40004019",
+          "end_ref_usfm": "MAT 4:19"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010002",
+          "end_ref_usfm": "MAT 10:2"
+        },
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        },
+        {
+          "start_ref": "41001017",
+          "start_ref_usfm": "MRK 1:17",
+          "end_ref": "41001017",
+          "end_ref_usfm": "MRK 1:17"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001029",
+          "end_ref_usfm": "MRK 1:29"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "43001040",
+          "start_ref_usfm": "JHN 1:40",
+          "end_ref": "43001040",
+          "end_ref_usfm": "JHN 1:40"
+        },
+        {
+          "start_ref": "43001044",
+          "start_ref_usfm": "JHN 1:44",
+          "end_ref": "43001044",
+          "end_ref_usfm": "JHN 1:44"
+        },
+        {
+          "start_ref": "43006008",
+          "start_ref_usfm": "JHN 6:8",
+          "end_ref": "43006008",
+          "end_ref_usfm": "JHN 6:8"
+        },
+        {
+          "start_ref": "43012022",
+          "start_ref_usfm": "JHN 12:22",
+          "end_ref": "43012022",
+          "end_ref_usfm": "JHN 12:22"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010004",
+          "end_ref_usfm": "MAT 10:4"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001031",
+          "end_ref_usfm": "MRK 1:31"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 466831,
+          "label": "Disciple",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 467410,
+          "label": "Douze",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

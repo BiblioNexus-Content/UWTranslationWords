@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180098,
+    "reference_id": 26034,
+    "title": "जैतून पर्वत",
+    "media_type": "Text",
+    "index_reference": "जैतून पर्वत",
+    "language": "hin",
+    "content": "<h1>जैतून पर्वत</h1><h2>परिभाषा:</h2><p>जैतून पर्वत यरूशलेम के पूर्व में एक ऊंची पहाड़ी है। उसकी ऊंचाई 787 मीटर है।</p><ul><li><p>पुराने नियम में इस पर्वत को कभी-कभी “यरूशलेम के पूर्व का पर्वत” कहा गया है।</p></li><li><p>नये नियम में अनेक अवसरों का उल्लेख है जब यीशु अपने शिष्यों के साथ जैतून पर्वत पर प्रार्थना करने और विश्राम करने गया था।</p></li><li><p>यीशु को गतसमनी की वाटिका में बन्दी बनाया गया था, यह भी जैतून के पहाड़ पर है।</p></li><li><p>इसका अनुवाद “जैतून का पहाड़” या “जैतून के पेड़ों का पर्वत” किया जा सकता है।</p></li></ul><p>(यह भी देखें: नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25776\" data-resourceType=\"UWTranslationWords\">गतसमनी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26062\" data-resourceType=\"UWTranslationWords\">जैतून</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke19:29\">लूका 19:29</a></p></li><li><p><a href=\"https://ref.ly/Luke19:37\">लूका 19:37</a></p></li><li><p><a href=\"https://ref.ly/Mark13:3\">मरकुस 13:3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:1-Matt21:3\">मत्ती 21:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt24:3-Matt24:5\">मत्ती 24:3–5</a></p></li><li><p><a href=\"https://ref.ly/Matt26:30\">मत्ती 26:30</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2022, H2132, G37350, G16360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021001",
+          "end_ref_usfm": "MAT 21:1"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024003",
+          "end_ref_usfm": "MAT 24:3"
+        },
+        {
+          "start_ref": "40026030",
+          "start_ref_usfm": "MAT 26:30",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011001",
+          "end_ref_usfm": "MRK 11:1"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "42019029",
+          "start_ref_usfm": "LUK 19:29",
+          "end_ref": "42019029",
+          "end_ref_usfm": "LUK 19:29"
+        },
+        {
+          "start_ref": "42019037",
+          "start_ref_usfm": "LUK 19:37",
+          "end_ref": "42019037",
+          "end_ref_usfm": "LUK 19:37"
+        },
+        {
+          "start_ref": "42021037",
+          "start_ref_usfm": "LUK 21:37",
+          "end_ref": "42021037",
+          "end_ref_usfm": "LUK 21:37"
+        },
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022039",
+          "end_ref_usfm": "LUK 22:39"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001012",
+          "end_ref_usfm": "ACT 1:12"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021003",
+          "end_ref_usfm": "MAT 21:3"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024005",
+          "end_ref_usfm": "MAT 24:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25776,
+          "content_id": 179847,
+          "label": "गतसमनी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26062,
+          "content_id": 180124,
+          "label": "जैतून",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

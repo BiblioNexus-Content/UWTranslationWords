@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179830,
+    "reference_id": 25757,
+    "title": "लोबान",
+    "media_type": "Text",
+    "index_reference": "लोबान",
+    "language": "hin",
+    "content": "<h1>लोबान</h1><h2>परिभाषा:</h2><p>लोबान पेड़ के रस से बना एक सुगंधित द्रव्य है। इससे इत्र और धूप बनाए जाते थे।</p><ul><li><p>बाइबल के युग में शवों को दफन के लिए तैयार करने में लोबान एक अत्यधिक महत्वपूर्ण द्रव्य था।</p></li><li><p>यह पदार्थ चंगाई और शान्ति देने के गुणों के लिए मान्यता रखता है।</p></li><li><p>जब ज्योतिषी बालक यीशु से भेंट करने पूर्व से चलकर बैतलहम आए थे तब जो तीन उपहार वे लाए थे उनमें लोबान भी था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">बैतलहम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25962\" data-resourceType=\"UWTranslationWords\">ज्योतिषी</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 9:28–29</a></p></li><li><p><a href=\"https://ref.ly/Exod30:34-Exod30:36\">निर्गमन 30:34–36</a></p></li><li><p><a href=\"https://ref.ly/Matt2:11-Matt2:12\">मत्ती 2:11–12</a></p></li><li><p><a href=\"https://ref.ly/Num5:15\">गिनती 5:15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3828, G3030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030034",
+          "end_ref_usfm": "EXO 30:34"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "16013005",
+          "start_ref_usfm": "NEH 13:5",
+          "end_ref": "16013005",
+          "end_ref_usfm": "NEH 13:5"
+        },
+        {
+          "start_ref": "22004006",
+          "start_ref_usfm": "SNG 4:6",
+          "end_ref": "22004006",
+          "end_ref_usfm": "SNG 4:6"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "13009028",
+          "start_ref_usfm": "1CH 9:28",
+          "end_ref": "13009029",
+          "end_ref_usfm": "1CH 9:29"
+        },
+        {
+          "start_ref": "02030034",
+          "start_ref_usfm": "EXO 30:34",
+          "end_ref": "02030036",
+          "end_ref_usfm": "EXO 30:36"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 179613,
+          "label": "बैतलहम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25962,
+          "content_id": 180027,
+          "label": "ज्योतिषी",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 237862,
+    "reference_id": 25729,
+    "title": "Falso profeta",
+    "media_type": "Text",
+    "index_reference": "falso profeta",
+    "language": "por",
+    "content": "<h1>falso profeta</h1><h2>Definição:</h2><p>Um falso profeta é uma pessoa que erroneamente afirma que sua mensagem vem de Deus.</p><ul><li><p>As profecias dos falsos profetas geralmente não se cumprem. Ou seja, elas não se tornam realidade.</p></li><li><p>Falsos profetas ensinam mensagens que parcial ou totalmente contradizem o que a Bíblia diz.</p></li><li><p>Este termo também pode ser traduzido como “pessoa que falsamente afirma ser porta-voz de Deus” ou “alguém que falsamente afirma falar as palavras de Deus”.</p></li><li><p>O Novo Testamento ensina que nos últimos tempos haverá muitos falsos profetas que tentarão enganar as pessoas fazendo-as pensar que eles vêm de Deus.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25761\" data-resourceType=\"UWTranslationWords\">cumprir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">verdadeiro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1John4:1-1John4:3\">1 João 4.1–3</a></p></li><li><p><a href=\"https://ref.ly/2Pet2:1\">2 Pedro 2.1</a></p></li><li><p><a href=\"https://ref.ly/Acts13:6-Acts13:8\">Atos 13.6–8</a></p></li><li><p><a href=\"https://ref.ly/Luke6:26\">Lucas 6.26</a></p></li><li><p><a href=\"https://ref.ly/Matt7:16\">Mateus 7.16</a></p></li><li><p><a href=\"https://ref.ly/Matt24:23-Matt24:25\">Mateus 24.23–25</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G55780</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007015",
+          "end_ref_usfm": "MAT 7:15"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40024011",
+          "start_ref_usfm": "MAT 24:11",
+          "end_ref": "40024011",
+          "end_ref_usfm": "MAT 24:11"
+        },
+        {
+          "start_ref": "40024024",
+          "start_ref_usfm": "MAT 24:24",
+          "end_ref": "40024024",
+          "end_ref_usfm": "MAT 24:24"
+        },
+        {
+          "start_ref": "41013022",
+          "start_ref_usfm": "MRK 13:22",
+          "end_ref": "41013022",
+          "end_ref_usfm": "MRK 13:22"
+        },
+        {
+          "start_ref": "42006026",
+          "start_ref_usfm": "LUK 6:26",
+          "end_ref": "42006026",
+          "end_ref_usfm": "LUK 6:26"
+        },
+        {
+          "start_ref": "44013006",
+          "start_ref_usfm": "ACT 13:6",
+          "end_ref": "44013006",
+          "end_ref_usfm": "ACT 13:6"
+        },
+        {
+          "start_ref": "61002001",
+          "start_ref_usfm": "2PE 2:1",
+          "end_ref": "61002001",
+          "end_ref_usfm": "2PE 2:1"
+        },
+        {
+          "start_ref": "62004001",
+          "start_ref_usfm": "1JN 4:1",
+          "end_ref": "62004001",
+          "end_ref_usfm": "1JN 4:1"
+        },
+        {
+          "start_ref": "66016013",
+          "start_ref_usfm": "REV 16:13",
+          "end_ref": "66016013",
+          "end_ref_usfm": "REV 16:13"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "62004001",
+          "start_ref_usfm": "1JN 4:1",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "44013006",
+          "start_ref_usfm": "ACT 13:6",
+          "end_ref": "44013008",
+          "end_ref_usfm": "ACT 13:8"
+        },
+        {
+          "start_ref": "40024023",
+          "start_ref_usfm": "MAT 24:23",
+          "end_ref": "40024025",
+          "end_ref_usfm": "MAT 24:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25761,
+          "content_id": 237894,
+          "label": "Cumprir",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

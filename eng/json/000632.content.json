@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 26905,
+    "reference_id": 26047,
+    "title": "Nebuchadnezzar",
+    "media_type": "Text",
+    "index_reference": "nebuchadnezzar",
+    "language": "eng",
+    "content": "<h1>Nebuchadnezzar</h1><h2>Facts:</h2><p>Nebuchadnezzar was a king of the Babylonian Empire whose powerful army conquered many people groups and nations.</p><ul><li><p>Under Nebuchadnezzar’s leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. The captives were forced to live there for a period of 70 years known as the “Babylonian Exile.”</p></li><li><p>One of the exiles, Daniel, interpreted some of King Nebuchadnezzar’s dreams.</p></li><li><p>Three other captured Israelites, Hananiah, Mishael, and Azariah, were thrown into a fiery furnace when they refused to bow down to a gigantic gold statue that Nebuchadnezzar had made.</p></li><li><p>King Nebuchadnezzar was very arrogant and worshiped false gods. When he conquered Judah, he stole many gold and silver objects from the temple in Jerusalem.</p></li><li><p>Because Nebuchadnezzar was proud and refused to turn away from worshiping false gods, Yahweh caused him to be destitute for seven years, living like an animal. After the seven years, God restored Nebuchadnezzar when he humbled himself and praised the one true God, Yahweh.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25477\" data-resourceType=\"UWTranslationWords\">arrogant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25496\" data-resourceType=\"UWTranslationWords\">Azariah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25816\" data-resourceType=\"UWTranslationWords\">Hananiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26024\" data-resourceType=\"UWTranslationWords\">Mishael</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr6:15\">1 Chronicles 6:15</a></p></li><li><p><a href=\"https://ref.ly/2Kgs25:1-2Kgs25:3\">2 Kings 25:1–3</a></p></li><li><p><a href=\"https://ref.ly/Dan1:2\">Daniel 1:2</a></p></li><li><p><a href=\"https://ref.ly/Dan4:4\">Daniel 4:4</a></p></li><li><p><a href=\"https://ref.ly/Ezek26:8\">Ezekiel 26:8</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>20:6</strong> About 100 years after the Assyrians destroyed the kingdom of Israel, God sent <strong>Nebuchadnezzar</strong>, king of the Babylonians, to attack the kingdom of Judah.</p></li><li><p><strong>20:6</strong> The king of Judah agreed to be <strong>Nebuchadnezzar’s</strong> servant and pay him a lot of money every year.</p></li><li><p><strong>20:8</strong> To punish the king of Judah for rebelling, <strong>Nebuchadnezzar’s</strong> soldiers killed the king’s sons in front of him and then made him blind.</p></li><li><p><strong>20:9</strong> <strong>Nebuchadnezzar</strong> and his army took almost all of the people of the kingdom of Judah to Babylon, leaving only the poorest people behind to plant the fields.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5019, H5020</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13006015",
+          "start_ref_usfm": "1CH 6:15",
+          "end_ref": "13006015",
+          "end_ref_usfm": "1CH 6:15"
+        },
+        {
+          "start_ref": "15001007",
+          "start_ref_usfm": "EZR 1:7",
+          "end_ref": "15001007",
+          "end_ref_usfm": "EZR 1:7"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002001",
+          "end_ref_usfm": "EZR 2:1"
+        },
+        {
+          "start_ref": "15005012",
+          "start_ref_usfm": "EZR 5:12",
+          "end_ref": "15005012",
+          "end_ref_usfm": "EZR 5:12"
+        },
+        {
+          "start_ref": "15005014",
+          "start_ref_usfm": "EZR 5:14",
+          "end_ref": "15005014",
+          "end_ref_usfm": "EZR 5:14"
+        },
+        {
+          "start_ref": "15006005",
+          "start_ref_usfm": "EZR 6:5",
+          "end_ref": "15006005",
+          "end_ref_usfm": "EZR 6:5"
+        },
+        {
+          "start_ref": "16007006",
+          "start_ref_usfm": "NEH 7:6",
+          "end_ref": "16007006",
+          "end_ref_usfm": "NEH 7:6"
+        },
+        {
+          "start_ref": "26026008",
+          "start_ref_usfm": "EZK 26:8",
+          "end_ref": "26026008",
+          "end_ref_usfm": "EZK 26:8"
+        },
+        {
+          "start_ref": "27001002",
+          "start_ref_usfm": "DAN 1:2",
+          "end_ref": "27001002",
+          "end_ref_usfm": "DAN 1:2"
+        },
+        {
+          "start_ref": "27004004",
+          "start_ref_usfm": "DAN 4:4",
+          "end_ref": "27004004",
+          "end_ref_usfm": "DAN 4:4"
+        },
+        {
+          "start_ref": "12025001",
+          "start_ref_usfm": "2KI 25:1",
+          "end_ref": "12025003",
+          "end_ref_usfm": "2KI 25:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25477,
+          "content_id": 26335,
+          "label": "Arrogant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25496,
+          "content_id": 26354,
+          "label": "Azariah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 26674,
+          "label": "Hananiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26024,
+          "content_id": 26882,
+          "label": "Mishael",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

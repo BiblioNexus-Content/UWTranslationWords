@@ -1,0 +1,209 @@
+[
+  {
+    "content_id": 237990,
+    "reference_id": 25857,
+    "title": "Domésticos",
+    "media_type": "Text",
+    "index_reference": "domésticos",
+    "language": "por",
+    "content": "<h1>domésticos, casa</h1><h2>Definição:</h2><p>O termo “domésticos” refere-se a todas as pessoas que vivem juntas em uma casa, incluindo membros da família e todos os seus servos.</p><ul><li><p>Usado nesse sentido, o termo “casa” significa “domésticos” ou &quot;de casa&quot; e refere-se a todas as pessoas que vivem juntas em uma casa ou em um complexo de várias estruturas (sejam edifícios ou tendas), incluindo membros da família e todos os seus servos.</p></li><li><p>Gerenciar um lar envolveria gerenciar os servos e também cuidar da propriedade.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Dependendo do contexto, “casa” poderia ser traduzido como “domésticos” ou “família”.</p></li><li><p>Dependendo do contexto, a frase “seu lar” poderia ser traduzida como “aqueles que vivem em sua casa” ou “sua família”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25856\" data-resourceType=\"UWTranslationWords\">casa moradia estrutura</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25855\" data-resourceType=\"UWTranslationWords\">casa descendentes nação</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18003023",
+          "start_ref_usfm": "JOB 3:23",
+          "end_ref": "18003023",
+          "end_ref_usfm": "JOB 3:23"
+        },
+        {
+          "start_ref": "18016021",
+          "start_ref_usfm": "JOB 16:21",
+          "end_ref": "18016021",
+          "end_ref_usfm": "JOB 16:21"
+        },
+        {
+          "start_ref": "37001004",
+          "start_ref_usfm": "HAG 1:4",
+          "end_ref": "37001004",
+          "end_ref_usfm": "HAG 1:4"
+        },
+        {
+          "start_ref": "40010025",
+          "start_ref_usfm": "MAT 10:25",
+          "end_ref": "40010025",
+          "end_ref_usfm": "MAT 10:25"
+        },
+        {
+          "start_ref": "40010036",
+          "start_ref_usfm": "MAT 10:36",
+          "end_ref": "40010036",
+          "end_ref_usfm": "MAT 10:36"
+        },
+        {
+          "start_ref": "40013057",
+          "start_ref_usfm": "MAT 13:57",
+          "end_ref": "40013057",
+          "end_ref_usfm": "MAT 13:57"
+        },
+        {
+          "start_ref": "40024045",
+          "start_ref_usfm": "MAT 24:45",
+          "end_ref": "40024045",
+          "end_ref_usfm": "MAT 24:45"
+        },
+        {
+          "start_ref": "41006004",
+          "start_ref_usfm": "MRK 6:4",
+          "end_ref": "41006004",
+          "end_ref_usfm": "MRK 6:4"
+        },
+        {
+          "start_ref": "43004053",
+          "start_ref_usfm": "JHN 4:53",
+          "end_ref": "43004053",
+          "end_ref_usfm": "JHN 4:53"
+        },
+        {
+          "start_ref": "44007010",
+          "start_ref_usfm": "ACT 7:10",
+          "end_ref": "44007010",
+          "end_ref_usfm": "ACT 7:10"
+        },
+        {
+          "start_ref": "44010002",
+          "start_ref_usfm": "ACT 10:2",
+          "end_ref": "44010002",
+          "end_ref_usfm": "ACT 10:2"
+        },
+        {
+          "start_ref": "44011014",
+          "start_ref_usfm": "ACT 11:14",
+          "end_ref": "44011014",
+          "end_ref_usfm": "ACT 11:14"
+        },
+        {
+          "start_ref": "44016015",
+          "start_ref_usfm": "ACT 16:15",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016031",
+          "start_ref_usfm": "ACT 16:31",
+          "end_ref": "44016031",
+          "end_ref_usfm": "ACT 16:31"
+        },
+        {
+          "start_ref": "44016034",
+          "start_ref_usfm": "ACT 16:34",
+          "end_ref": "44016034",
+          "end_ref_usfm": "ACT 16:34"
+        },
+        {
+          "start_ref": "46001016",
+          "start_ref_usfm": "1CO 1:16",
+          "end_ref": "46001016",
+          "end_ref_usfm": "1CO 1:16"
+        },
+        {
+          "start_ref": "46016015",
+          "start_ref_usfm": "1CO 16:15",
+          "end_ref": "46016015",
+          "end_ref_usfm": "1CO 16:15"
+        },
+        {
+          "start_ref": "49002019",
+          "start_ref_usfm": "EPH 2:19",
+          "end_ref": "49002019",
+          "end_ref_usfm": "EPH 2:19"
+        },
+        {
+          "start_ref": "50004022",
+          "start_ref_usfm": "PHP 4:22",
+          "end_ref": "50004022",
+          "end_ref_usfm": "PHP 4:22"
+        },
+        {
+          "start_ref": "54003004",
+          "start_ref_usfm": "1TI 3:4",
+          "end_ref": "54003004",
+          "end_ref_usfm": "1TI 3:4"
+        },
+        {
+          "start_ref": "54003005",
+          "start_ref_usfm": "1TI 3:5",
+          "end_ref": "54003005",
+          "end_ref_usfm": "1TI 3:5"
+        },
+        {
+          "start_ref": "54003012",
+          "start_ref_usfm": "1TI 3:12",
+          "end_ref": "54003012",
+          "end_ref_usfm": "1TI 3:12"
+        },
+        {
+          "start_ref": "54003015",
+          "start_ref_usfm": "1TI 3:15",
+          "end_ref": "54003015",
+          "end_ref_usfm": "1TI 3:15"
+        },
+        {
+          "start_ref": "54005004",
+          "start_ref_usfm": "1TI 5:4",
+          "end_ref": "54005004",
+          "end_ref_usfm": "1TI 5:4"
+        },
+        {
+          "start_ref": "54005008",
+          "start_ref_usfm": "1TI 5:8",
+          "end_ref": "54005008",
+          "end_ref_usfm": "1TI 5:8"
+        },
+        {
+          "start_ref": "55001016",
+          "start_ref_usfm": "2TI 1:16",
+          "end_ref": "55001016",
+          "end_ref_usfm": "2TI 1:16"
+        },
+        {
+          "start_ref": "55003006",
+          "start_ref_usfm": "2TI 3:6",
+          "end_ref": "55003006",
+          "end_ref_usfm": "2TI 3:6"
+        },
+        {
+          "start_ref": "56001011",
+          "start_ref_usfm": "TIT 1:11",
+          "end_ref": "56001011",
+          "end_ref_usfm": "TIT 1:11"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "60004017",
+          "start_ref_usfm": "1PE 4:17",
+          "end_ref": "60004017",
+          "end_ref_usfm": "1PE 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25855,
+          "content_id": 237988,
+          "label": "Casa-descendentes_nação",
+          "language": "por"
+        },
+        {
+          "reference_id": 25856,
+          "content_id": 237989,
+          "label": "Casa",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "content_id": 466726,
+    "reference_id": 25555,
+    "title": "Pectoral cuirasse",
+    "media_type": "Text",
+    "index_reference": "pectoral cuirasse",
+    "language": "fra",
+    "content": "<h1>pectoral cuirasse</h1><h2>Définition :</h2><p>Un pectoral était une pièce d&apos;armure qui recouvre le devant de la poitrine pour protéger un soldat pendant la bataille* Il était aussi le nom d&apos;une partie des vêtements spéciaux que le grand prêtre Israélite portait.</p><ul><li><p>La Cuirasse couvrant la poitrine était utilisée par les soldats pouvait être faite de bois, de métal ou de cuir* Elle était destinée à arrêter des flèches, des lances ou des épées afin qu&apos;elles ne percent pas la poitrine du soldat.</p></li><li><p>La cuirasse portée par le grand prêtre Israélite était faite de tissu et avait des pierres précieuses qui s&apos;y rattachaient* Le prêtre le portait quand il accomplissait ses fonctions de service à Dieu dans le Temple.</p></li><li><p>La cuirasse du prêtre était également appelée un &quot;pectoral*&quot;</p></li></ul><p>(Voir aussi : (../other/armor.md), (../kt/highpriest.md), (../other/pierce.md), (../kt/priest.md), (../kt/temple.md), (../other/warrior.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02025007",
+          "start_ref_usfm": "EXO 25:7",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
+        },
+        {
+          "start_ref": "02028004",
+          "start_ref_usfm": "EXO 28:4",
+          "end_ref": "02028004",
+          "end_ref_usfm": "EXO 28:4"
+        },
+        {
+          "start_ref": "02028015",
+          "start_ref_usfm": "EXO 28:15",
+          "end_ref": "02028015",
+          "end_ref_usfm": "EXO 28:15"
+        },
+        {
+          "start_ref": "02028022",
+          "start_ref_usfm": "EXO 28:22",
+          "end_ref": "02028022",
+          "end_ref_usfm": "EXO 28:22"
+        },
+        {
+          "start_ref": "02028023",
+          "start_ref_usfm": "EXO 28:23",
+          "end_ref": "02028023",
+          "end_ref_usfm": "EXO 28:23"
+        },
+        {
+          "start_ref": "02028024",
+          "start_ref_usfm": "EXO 28:24",
+          "end_ref": "02028024",
+          "end_ref_usfm": "EXO 28:24"
+        },
+        {
+          "start_ref": "02028026",
+          "start_ref_usfm": "EXO 28:26",
+          "end_ref": "02028026",
+          "end_ref_usfm": "EXO 28:26"
+        },
+        {
+          "start_ref": "02028028",
+          "start_ref_usfm": "EXO 28:28",
+          "end_ref": "02028028",
+          "end_ref_usfm": "EXO 28:28"
+        },
+        {
+          "start_ref": "02028029",
+          "start_ref_usfm": "EXO 28:29",
+          "end_ref": "02028029",
+          "end_ref_usfm": "EXO 28:29"
+        },
+        {
+          "start_ref": "02028030",
+          "start_ref_usfm": "EXO 28:30",
+          "end_ref": "02028030",
+          "end_ref_usfm": "EXO 28:30"
+        },
+        {
+          "start_ref": "02029005",
+          "start_ref_usfm": "EXO 29:5",
+          "end_ref": "02029005",
+          "end_ref_usfm": "EXO 29:5"
+        },
+        {
+          "start_ref": "02035009",
+          "start_ref_usfm": "EXO 35:9",
+          "end_ref": "02035009",
+          "end_ref_usfm": "EXO 35:9"
+        },
+        {
+          "start_ref": "02035027",
+          "start_ref_usfm": "EXO 35:27",
+          "end_ref": "02035027",
+          "end_ref_usfm": "EXO 35:27"
+        },
+        {
+          "start_ref": "02039008",
+          "start_ref_usfm": "EXO 39:8",
+          "end_ref": "02039008",
+          "end_ref_usfm": "EXO 39:8"
+        },
+        {
+          "start_ref": "02039009",
+          "start_ref_usfm": "EXO 39:9",
+          "end_ref": "02039009",
+          "end_ref_usfm": "EXO 39:9"
+        },
+        {
+          "start_ref": "02039015",
+          "start_ref_usfm": "EXO 39:15",
+          "end_ref": "02039015",
+          "end_ref_usfm": "EXO 39:15"
+        },
+        {
+          "start_ref": "02039016",
+          "start_ref_usfm": "EXO 39:16",
+          "end_ref": "02039016",
+          "end_ref_usfm": "EXO 39:16"
+        },
+        {
+          "start_ref": "02039017",
+          "start_ref_usfm": "EXO 39:17",
+          "end_ref": "02039017",
+          "end_ref_usfm": "EXO 39:17"
+        },
+        {
+          "start_ref": "02039019",
+          "start_ref_usfm": "EXO 39:19",
+          "end_ref": "02039019",
+          "end_ref_usfm": "EXO 39:19"
+        },
+        {
+          "start_ref": "02039021",
+          "start_ref_usfm": "EXO 39:21",
+          "end_ref": "02039021",
+          "end_ref_usfm": "EXO 39:21"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "23059017",
+          "start_ref_usfm": "ISA 59:17",
+          "end_ref": "23059017",
+          "end_ref_usfm": "ISA 59:17"
+        },
+        {
+          "start_ref": "49006014",
+          "start_ref_usfm": "EPH 6:14",
+          "end_ref": "49006014",
+          "end_ref_usfm": "EPH 6:14"
+        },
+        {
+          "start_ref": "52005008",
+          "start_ref_usfm": "1TH 5:8",
+          "end_ref": "52005008",
+          "end_ref_usfm": "1TH 5:8"
+        },
+        {
+          "start_ref": "66009009",
+          "start_ref_usfm": "REV 9:9",
+          "end_ref": "66009009",
+          "end_ref_usfm": "REV 9:9"
+        },
+        {
+          "start_ref": "66009017",
+          "start_ref_usfm": "REV 9:17",
+          "end_ref": "66009017",
+          "end_ref_usfm": "REV 9:17"
+        },
+        {
+          "start_ref": "02039014",
+          "start_ref_usfm": "EXO 39:14",
+          "end_ref": "02039016",
+          "end_ref_usfm": "EXO 39:16"
+        },
+        {
+          "start_ref": "66009007",
+          "start_ref_usfm": "REV 9:7",
+          "end_ref": "66009009",
+          "end_ref_usfm": "REV 9:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25476,
+          "content_id": 466655,
+          "label": "Armure",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26340,
+          "content_id": 467448,
+          "label": "Guerrier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

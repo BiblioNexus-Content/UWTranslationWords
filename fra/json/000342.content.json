@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466919,
+    "reference_id": 25768,
+    "title": "Gath",
+    "media_type": "Text",
+    "index_reference": "gath",
+    "language": "fra",
+    "content": "<h1>Gath</h1><h2>Définition :</h2><p>&quot;Gath était l&apos;une des cinq grandes villes des Philistins* Elle était située au nord d&apos; Ekron et à l&apos;est d&apos;Ashdod et Ashkelon.</p><ul><li><p>Le champion Philistin Goliath, était de la ville de Gath.</p></li><li><p>Pendant le temps de Samuel, les Philistins ont volé l&apos;arche de l&apos;alliance d&apos;Israël et l&apos;ont mise dans leur temple païen à Ashdod puis à Gath* Mais Dieu a puni les gens de ces villes par la maladie, de sorte qu&apos;ils la renvoyèrent à nouveau en Israël.</p></li><li><p>Lorsque David fuyait le roi Saül, il a fui à Gath où il a vécu pendant un certain temps avec ses deux épouses.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ashdod.md), (../names/ashkelon.md), (../names/ekron.md), (../names/gaza.md), (../names/goliath.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11002039",
+          "start_ref_usfm": "1KI 2:39",
+          "end_ref": "11002039",
+          "end_ref_usfm": "1KI 2:39"
+        },
+        {
+          "start_ref": "06011021",
+          "start_ref_usfm": "JOS 11:21",
+          "end_ref": "06011022",
+          "end_ref_usfm": "JOS 11:22"
+        },
+        {
+          "start_ref": "14026006",
+          "start_ref_usfm": "2CH 26:6",
+          "end_ref": "14026008",
+          "end_ref_usfm": "2CH 26:8"
+        },
+        {
+          "start_ref": "09005008",
+          "start_ref_usfm": "1SA 5:8",
+          "end_ref": "09005009",
+          "end_ref_usfm": "1SA 5:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 466660,
+          "label": "Asdod",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25484,
+          "content_id": 466663,
+          "label": "Ascalon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25691,
+          "content_id": 466851,
+          "label": "Ekron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25769,
+          "content_id": 466920,
+          "label": "Gaza",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25793,
+          "content_id": 466942,
+          "label": "Goliath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

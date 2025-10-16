@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 26411,
+    "reference_id": 25553,
+    "title": "Bow Weapon",
+    "media_type": "Text",
+    "index_reference": "bow weapon",
+    "language": "eng",
+    "content": "<h1>bow and arrow, a bow</h1><h2>Definition:</h2><p>This is a type of weapon that consists of shooting arrows from a stringed bow. In Bible times it was used for fighting against enemies and for killing animals for food.</p><ul><li><p>The bow is made out of wood, bone, metal, or other hard material, such as a deer’s antler. It has a curved shape and is strung tightly with a string, cord, or vine. When not in use the bow string would not be attached to both ends of the bow so that the bow was not under the pressure of being bent all the time. When preparing to fight a warrior would bend the bow and attach the string to both ends.</p></li><li><p>An arrow is a thin shaft with a sharp, pointed head on one end. In ancient times, the arrows could be made of a variety of materials such as wood, bone, stone, or metal.</p></li><li><p>Bows and arrows are commonly used by hunters and warriors.</p></li><li><p>The term “arrow” is also sometimes used figuratively in the Bible to refer to enemy attacks or divine judgment.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen21:16\">Genesis 21:16</a></p></li><li><p><a href=\"https://ref.ly/Hab3:9-Hab3:10\">Habakkuk 3:9–10</a></p></li><li><p><a href=\"https://ref.ly/Job29:20-Job29:22\">Job 29:20–22</a></p></li><li><p><a href=\"https://ref.ly/Lam2:4\">Lamentations 2:4</a></p></li><li><p><a href=\"https://ref.ly/Ps58:6-Ps58:8\">Psalms 58:6–8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2671, H7198, G51150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009013",
+          "start_ref_usfm": "GEN 9:13",
+          "end_ref": "01009013",
+          "end_ref_usfm": "GEN 9:13"
+        },
+        {
+          "start_ref": "01009014",
+          "start_ref_usfm": "GEN 9:14",
+          "end_ref": "01009014",
+          "end_ref_usfm": "GEN 9:14"
+        },
+        {
+          "start_ref": "01009016",
+          "start_ref_usfm": "GEN 9:16",
+          "end_ref": "01009016",
+          "end_ref_usfm": "GEN 9:16"
+        },
+        {
+          "start_ref": "01021016",
+          "start_ref_usfm": "GEN 21:16",
+          "end_ref": "01021016",
+          "end_ref_usfm": "GEN 21:16"
+        },
+        {
+          "start_ref": "01027003",
+          "start_ref_usfm": "GEN 27:3",
+          "end_ref": "01027003",
+          "end_ref_usfm": "GEN 27:3"
+        },
+        {
+          "start_ref": "01048022",
+          "start_ref_usfm": "GEN 48:22",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "01049023",
+          "start_ref_usfm": "GEN 49:23",
+          "end_ref": "01049023",
+          "end_ref_usfm": "GEN 49:23"
+        },
+        {
+          "start_ref": "01049024",
+          "start_ref_usfm": "GEN 49:24",
+          "end_ref": "01049024",
+          "end_ref_usfm": "GEN 49:24"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029020",
+          "end_ref_usfm": "JOB 29:20"
+        },
+        {
+          "start_ref": "20007023",
+          "start_ref_usfm": "PRO 7:23",
+          "end_ref": "20007023",
+          "end_ref_usfm": "PRO 7:23"
+        },
+        {
+          "start_ref": "20025018",
+          "start_ref_usfm": "PRO 25:18",
+          "end_ref": "20025018",
+          "end_ref_usfm": "PRO 25:18"
+        },
+        {
+          "start_ref": "20026018",
+          "start_ref_usfm": "PRO 26:18",
+          "end_ref": "20026018",
+          "end_ref_usfm": "PRO 26:18"
+        },
+        {
+          "start_ref": "25002004",
+          "start_ref_usfm": "LAM 2:4",
+          "end_ref": "25002004",
+          "end_ref_usfm": "LAM 2:4"
+        },
+        {
+          "start_ref": "66006002",
+          "start_ref_usfm": "REV 6:2",
+          "end_ref": "66006002",
+          "end_ref_usfm": "REV 6:2"
+        },
+        {
+          "start_ref": "35003009",
+          "start_ref_usfm": "HAB 3:9",
+          "end_ref": "35003010",
+          "end_ref_usfm": "HAB 3:10"
+        },
+        {
+          "start_ref": "18029020",
+          "start_ref_usfm": "JOB 29:20",
+          "end_ref": "18029022",
+          "end_ref_usfm": "JOB 29:22"
+        },
+        {
+          "start_ref": "19058006",
+          "start_ref_usfm": "PSA 58:6",
+          "end_ref": "19058008",
+          "end_ref_usfm": "PSA 58:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

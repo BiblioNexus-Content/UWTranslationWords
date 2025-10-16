@@ -1,0 +1,185 @@
+[
+  {
+    "content_id": 467009,
+    "reference_id": 25863,
+    "title": "Image",
+    "media_type": "Text",
+    "index_reference": "image",
+    "language": "fra",
+    "content": "<h1>Image, image sculptée, figure sculptée, figure de métal moulé</h1><h2>Définition :</h2><p>&quot;Ces termes sont tous utilisés pour se reférer aux idoles qui ont été fabriquées pour l&apos;adoration de faux dieux* Dans le contexte d&apos;adoration des idoles, le terme &quot; image&quot; est une forme courte de &quot; image sculptée*&quot;</p><ul><li><p>Une &quot; image sculptée&quot; est un objet en bois qui a été créé pour ressembler à un animal, une personne ou une chose.</p></li><li><p>Une &quot;figure de métal moulé&quot; est un objet ou une statue créée en versant un métal liquide dans un moule qui a la forme d&apos;un objet, d&apos;un animal ou d&apos;une personne.</p></li><li><p>Ces objets en bois et en métal étaient utilisés dans l&apos;adoration des faux dieux.</p></li></ul><h2>Suggestions de traduction</h2><ul><li><p>Selon ce contexte, le terme &quot; image&quot; peut aussi être traduit comme &quot; statue&quot; ou &quot; une &quot;idole taillée&quot; ou &quot; un objet réligieux sculpté*&quot;</p></li><li><p>Cela peut être plus clair dans certaines langes pour toujours utiliser le terme &quot; image sculptée&quot; même à des endroits du texte où seul le terme &quot; image&quot; est utilisé.</p></li><li><p>soyons sûrs que ce terme est clairement différent du terme utilisé pour se referer à être à l&apos;image de Dieu.</p></li></ul><p>(Voir aussi : (../kt/falsegod.md), (../kt/god.md), (../kt/falsegod.md), (../kt/imageofgod.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031019",
+          "start_ref_usfm": "GEN 31:19",
+          "end_ref": "01031019",
+          "end_ref_usfm": "GEN 31:19"
+        },
+        {
+          "start_ref": "01031034",
+          "start_ref_usfm": "GEN 31:34",
+          "end_ref": "01031034",
+          "end_ref_usfm": "GEN 31:34"
+        },
+        {
+          "start_ref": "01031035",
+          "start_ref_usfm": "GEN 31:35",
+          "end_ref": "01031035",
+          "end_ref_usfm": "GEN 31:35"
+        },
+        {
+          "start_ref": "02020004",
+          "start_ref_usfm": "EXO 20:4",
+          "end_ref": "02020004",
+          "end_ref_usfm": "EXO 20:4"
+        },
+        {
+          "start_ref": "40022020",
+          "start_ref_usfm": "MAT 22:20",
+          "end_ref": "40022020",
+          "end_ref_usfm": "MAT 22:20"
+        },
+        {
+          "start_ref": "40022021",
+          "start_ref_usfm": "MAT 22:21",
+          "end_ref": "40022021",
+          "end_ref_usfm": "MAT 22:21"
+        },
+        {
+          "start_ref": "41012016",
+          "start_ref_usfm": "MRK 12:16",
+          "end_ref": "41012016",
+          "end_ref_usfm": "MRK 12:16"
+        },
+        {
+          "start_ref": "42020024",
+          "start_ref_usfm": "LUK 20:24",
+          "end_ref": "42020024",
+          "end_ref_usfm": "LUK 20:24"
+        },
+        {
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        },
+        {
+          "start_ref": "45001023",
+          "start_ref_usfm": "ROM 1:23",
+          "end_ref": "45001023",
+          "end_ref_usfm": "ROM 1:23"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "46011007",
+          "start_ref_usfm": "1CO 11:7",
+          "end_ref": "46011007",
+          "end_ref_usfm": "1CO 11:7"
+        },
+        {
+          "start_ref": "46015049",
+          "start_ref_usfm": "1CO 15:49",
+          "end_ref": "46015049",
+          "end_ref_usfm": "1CO 15:49"
+        },
+        {
+          "start_ref": "47003018",
+          "start_ref_usfm": "2CO 3:18",
+          "end_ref": "47003018",
+          "end_ref_usfm": "2CO 3:18"
+        },
+        {
+          "start_ref": "47004004",
+          "start_ref_usfm": "2CO 4:4",
+          "end_ref": "47004004",
+          "end_ref_usfm": "2CO 4:4"
+        },
+        {
+          "start_ref": "66013014",
+          "start_ref_usfm": "REV 13:14",
+          "end_ref": "66013014",
+          "end_ref_usfm": "REV 13:14"
+        },
+        {
+          "start_ref": "66013015",
+          "start_ref_usfm": "REV 13:15",
+          "end_ref": "66013015",
+          "end_ref_usfm": "REV 13:15"
+        },
+        {
+          "start_ref": "66014009",
+          "start_ref_usfm": "REV 14:9",
+          "end_ref": "66014009",
+          "end_ref_usfm": "REV 14:9"
+        },
+        {
+          "start_ref": "66014011",
+          "start_ref_usfm": "REV 14:11",
+          "end_ref": "66014011",
+          "end_ref_usfm": "REV 14:11"
+        },
+        {
+          "start_ref": "66015002",
+          "start_ref_usfm": "REV 15:2",
+          "end_ref": "66015002",
+          "end_ref_usfm": "REV 15:2"
+        },
+        {
+          "start_ref": "66016002",
+          "start_ref_usfm": "REV 16:2",
+          "end_ref": "66016002",
+          "end_ref_usfm": "REV 16:2"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020004",
+          "start_ref_usfm": "REV 20:4",
+          "end_ref": "66020004",
+          "end_ref_usfm": "REV 20:4"
+        },
+        {
+          "start_ref": "11014009",
+          "start_ref_usfm": "1KI 14:9",
+          "end_ref": "11014010",
+          "end_ref_usfm": "1KI 14:10"
+        },
+        {
+          "start_ref": "23021008",
+          "start_ref_usfm": "ISA 21:8",
+          "end_ref": "23021009",
+          "end_ref_usfm": "ISA 21:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25864,
+          "content_id": 467010,
+          "label": "Image de Dieu; Image",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

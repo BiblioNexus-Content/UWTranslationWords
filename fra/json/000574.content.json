@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 467161,
+    "reference_id": 26024,
+    "title": "Mischaël",
+    "media_type": "Text",
+    "index_reference": "mischaël",
+    "language": "fra",
+    "content": "<h1>Mischaël</h1><h2>Définition :</h2><p>&quot;Mischaël est le nom qui a été attribué à trois hommes dans l&apos;Ancien Testament.</p><ul><li><p>Mischaël était l&apos;un des cousins d&apos;Aaron, qui, avec un autre homme a été chargé de se débarrasser des corps de deux hommes qui avaient profané l&apos;autel.</p></li><li><p>Un autre homme nommé Mischaël se tenait à côté d&apos;Esdras quand il a lu publiquement la loi retrouvée.</p></li><li><p>Mischaël était l&apos;un des trois amis de Daniel qui fut exilé à Babylone avec lui et rebaptisé Meshach par les Babyloniens* Lui et ses compagnons, Shadrach et Abed-Nego, ont refusé d&apos;adorer la statue du roi et ont été jetés dans une fournaise ardente.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/aaron.md), (../names/azariah.md), (../names/babylon.md), (../names/daniel.md), (../names/hananiah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "27002017",
+          "start_ref_usfm": "DAN 2:17",
+          "end_ref": "27002018",
+          "end_ref_usfm": "DAN 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25417,
+          "content_id": 466599,
+          "label": "Aaron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25496,
+          "content_id": 466674,
+          "label": "Azaria",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25816,
+          "content_id": 466965,
+          "label": "Hanania",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466623,
+    "reference_id": 25442,
+    "title": "Achija",
+    "media_type": "Text",
+    "index_reference": "achija",
+    "language": "fra",
+    "content": "<h1>Achija</h1><h2>Définition :</h2><p>Achija est le nom de beaucoup d&apos;hommes differents dans l&apos;Ancien Testament* Certains de ces noms sont les suivants:</p><ul><li><p>Achija était le nom d&apos;un sacrificateur pendant le règne de Saül.</p></li><li><p>Un homme du nom d&apos;Achija était secrétaire pendant le règne du Roi Salomon.</p></li><li><p>Achija était le nom d&apos;un prophète venant de Silo qui prédit la division de la nation d&apos;Israël en deux royaumes.</p></li><li><p>Le père du roi Baesha était aussi appelé Achija.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/baasha.md), (../names/shiloh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014019",
+          "start_ref_usfm": "1SA 14:19",
+          "end_ref": "09014019",
+          "end_ref_usfm": "1SA 14:19"
+        },
+        {
+          "start_ref": "14010015",
+          "start_ref_usfm": "2CH 10:15",
+          "end_ref": "14010015",
+          "end_ref_usfm": "2CH 10:15"
+        },
+        {
+          "start_ref": "16010026",
+          "start_ref_usfm": "NEH 10:26",
+          "end_ref": "16010026",
+          "end_ref_usfm": "NEH 10:26"
+        },
+        {
+          "start_ref": "11015027",
+          "start_ref_usfm": "1KI 15:27",
+          "end_ref": "11015028",
+          "end_ref_usfm": "1KI 15:28"
+        },
+        {
+          "start_ref": "11021021",
+          "start_ref_usfm": "1KI 21:21",
+          "end_ref": "11021022",
+          "end_ref_usfm": "1KI 21:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25498,
+          "content_id": 466676,
+          "label": "Baesha",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26228,
+          "content_id": 467344,
+          "label": "Silo",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

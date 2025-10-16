@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 238121,
+    "reference_id": 25990,
+    "title": "Criador",
+    "media_type": "Text",
+    "index_reference": "criador",
+    "language": "por",
+    "content": "<h1>Criador</h1><h2>Fatos:</h2><p>Em geral, um “criador” é alguém que cria ou faz coisas.</p><ul><li><p>Na Bíblia, o termo “Criador” é às vezes usado como um nome ou título para Javé, porque ele criou tudo.</p></li><li><p>Geralmente, esse termo é combinado com “dele” ou “meu” ou “seu”.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo “Criador” pode ser traduzido como “o Criador” ou “Deus que cria” ou “aquele que fez tudo”.</p></li><li><p>A frase “seu Criador” também pode ser traduzida como “aquele que o criou” ou “Deus, que o criou”.</p></li><li><p>As frases “seu Criador” e “meu Criador” podem ser traduzidas de maneira semelhante.</p></li></ul><p>(Veja também: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_create\" data-resourceType=\"UWTranslationWords\">criar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Hos8:13-Hos8:14\">Oséias 8.13–14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3335, H6213, H6466</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28008013",
+          "start_ref_usfm": "HOS 8:13",
+          "end_ref": "28008014",
+          "end_ref_usfm": "HOS 8:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25624,
+          "content_id": 237758,
+          "label": "Criação",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

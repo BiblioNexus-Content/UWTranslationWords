@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466619,
+    "reference_id": 25438,
+    "title": "Achab",
+    "media_type": "Text",
+    "index_reference": "achab",
+    "language": "fra",
+    "content": "<h1>Achab</h1><h2>Données :</h2><p>Achab était un roi très méchant qui a régné sur la partie nord du royaume d&apos;Israël de 875 à 854 avant Jésus-Christ.</p><ul><li><p>Le roi Achab a exercé son influence sur le peuple d&apos;Israël les faisant adorer des faux dieux.</p></li><li><p>Le prophète Élie a confronté Achab et lui a dit qu&apos;il y aurait une grave sécheresse pendant trois ans et demi en punition des péchés qu&apos;Achab avait fait commettre à Israël.</p></li><li><p>Achab et sa femme Jézabel ont fait beaucoup de choses malveillantes, y compris l&apos;utilisation de leur position et leur pouvoir pour tuer des innocents.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/baal.md), (../names/elijah.md), (../names/jezebel.md), (../names/kingdomofisrael.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12009008",
+          "start_ref_usfm": "2KI 9:8",
+          "end_ref": "12009008",
+          "end_ref_usfm": "2KI 9:8"
+        },
+        {
+          "start_ref": "14021006",
+          "start_ref_usfm": "2CH 21:6",
+          "end_ref": "14021006",
+          "end_ref_usfm": "2CH 21:6"
+        },
+        {
+          "start_ref": "11018001",
+          "start_ref_usfm": "1KI 18:1",
+          "end_ref": "11018002",
+          "end_ref_usfm": "1KI 18:2"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020003",
+          "end_ref_usfm": "1KI 20:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25904,
+          "content_id": 467049,
+          "label": "Jézabel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

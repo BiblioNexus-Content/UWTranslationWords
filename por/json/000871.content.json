@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238409,
+    "reference_id": 26280,
+    "title": "Társis",
+    "media_type": "Text",
+    "index_reference": "társis",
+    "language": "por",
+    "content": "<h1>Társis</h1><h2>Fatos:</h2><p>Nos tempos bíblicos, Társis era uma cidade portuária situada no Mar Mediterrâneo. A localização específica da cidade é desconhecida. Além disso, o Antigo Testamento menciona dois homens diferentes chamados Társis.</p><ul><li><p>A cidade de Társis era uma próspera cidade portuária com navios que transportavam produtos para comprar, vender ou trocar. A Bíblia afirma que o Rei Salomão mantinha uma frota de navios estacionada em Társis.</p></li><li><p>O profeta do Antigo Testamento Jonas embarcou em um navio com destino à cidade de Társis em vez de obedecer ao comando de Deus para ir pregar em Nínive.</p></li><li><p>Um dos netos de Jafé se chamava Társis.</p></li><li><p>Társis também era o nome de um dos sábios do Rei Assuero.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Ester</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25885\" data-resourceType=\"UWTranslationWords\">Jafé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25913\" data-resourceType=\"UWTranslationWords\">Jonas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">Nínive</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_phoenicia\" data-resourceType=\"UWTranslationWords\">Fenícia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26351\" data-resourceType=\"UWTranslationWords\">sábios</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen10:2-Gen10:5\">Gênesis 10.2–5</a></p></li><li><p><a href=\"https://ref.ly/Isa2:16\">Isaías 2.16</a></p></li><li><p><a href=\"https://ref.ly/Jer10:9\">Jeremias 10.9</a></p></li><li><p><a href=\"https://ref.ly/Jonah1:3\">Jonas 1.3</a></p></li><li><p><a href=\"https://ref.ly/Ps48:7\">Salmos 48.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8659</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "19048007",
+          "start_ref_usfm": "PSA 48:7",
+          "end_ref": "19048007",
+          "end_ref_usfm": "PSA 48:7"
+        },
+        {
+          "start_ref": "23002016",
+          "start_ref_usfm": "ISA 2:16",
+          "end_ref": "23002016",
+          "end_ref_usfm": "ISA 2:16"
+        },
+        {
+          "start_ref": "24010009",
+          "start_ref_usfm": "JER 10:9",
+          "end_ref": "24010009",
+          "end_ref_usfm": "JER 10:9"
+        },
+        {
+          "start_ref": "32001003",
+          "start_ref_usfm": "JON 1:3",
+          "end_ref": "32001003",
+          "end_ref_usfm": "JON 1:3"
+        },
+        {
+          "start_ref": "32004002",
+          "start_ref_usfm": "JON 4:2",
+          "end_ref": "32004002",
+          "end_ref_usfm": "JON 4:2"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25711,
+          "content_id": 237844,
+          "label": "Esther",
+          "language": "por"
+        },
+        {
+          "reference_id": 25885,
+          "content_id": 238018,
+          "label": "Jafé",
+          "language": "por"
+        },
+        {
+          "reference_id": 25913,
+          "content_id": 238046,
+          "label": "Jonas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 238184,
+          "label": "Nínive",
+          "language": "por"
+        },
+        {
+          "reference_id": 26351,
+          "content_id": 238477,
+          "label": "Homens Sábios",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180319,
+    "reference_id": 26265,
+    "title": "दाखमधु",
+    "media_type": "Text",
+    "index_reference": "दाखमधु",
+    "language": "hin",
+    "content": "<h1>दाखमधु, दाखमधु</h1><h2>परिभाषा:</h2><p>“दाखमधु” शब्द उन पेय पदार्थों के लिए काम में लिया गया है जिनका किण्वन किया गया है और उनमें अल्कोहल की मात्रा है।</p><ul><li><p>मदिरा अन्न से या फल से बनाई जाती थी जो किण्वन की प्रक्रिया से निकाली जाती थी|</p></li><li><p>&quot;मदिरा&quot; के प्रकार में दाखरस, ताड़ की मदिरा, बीयर और सेब का सिरका आता है। बाइबिल में, दाखरस सबसे अधिक बार उल्लेख की जाने वाली मदिरा थी।</p></li><li><p>याजक या विशिष्ट शपथ खाने वाले जैसे नाजीर मनुष्य को किसी भी प्रकार का खमीर किया गया पेय वर्जित था।</p></li><li><p>इस शब्द को &quot;किण्वित पेय&quot; या &quot;अल्कोहलयुक्त पेय&quot; के रूप में भी अनुवाद किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">अंगूर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26046\" data-resourceType=\"UWTranslationWords\">नाजीर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_vow\" data-resourceType=\"UWTranslationWords\">मन्नत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">दाखरस</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Isa5:11-Isa5:12\">यशायाह 5:11–12</a></p></li><li><p><a href=\"https://ref.ly/Lev10:9\">लैव्यव्यवस्था 10:9</a></p></li><li><p><a href=\"https://ref.ly/Luke1:14-Luke1:15\">लूका 1:14–15</a></p></li><li><p><a href=\"https://ref.ly/Num6:3\">गिनती 6:3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H5435, H7941, G46080</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03010009",
+          "start_ref_usfm": "LEV 10:9",
+          "end_ref": "03010009",
+          "end_ref_usfm": "LEV 10:9"
+        },
+        {
+          "start_ref": "04006003",
+          "start_ref_usfm": "NUM 6:3",
+          "end_ref": "04006003",
+          "end_ref_usfm": "NUM 6:3"
+        },
+        {
+          "start_ref": "20020001",
+          "start_ref_usfm": "PRO 20:1",
+          "end_ref": "20020001",
+          "end_ref_usfm": "PRO 20:1"
+        },
+        {
+          "start_ref": "20031004",
+          "start_ref_usfm": "PRO 31:4",
+          "end_ref": "20031004",
+          "end_ref_usfm": "PRO 31:4"
+        },
+        {
+          "start_ref": "20031006",
+          "start_ref_usfm": "PRO 31:6",
+          "end_ref": "20031006",
+          "end_ref_usfm": "PRO 31:6"
+        },
+        {
+          "start_ref": "42001015",
+          "start_ref_usfm": "LUK 1:15",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        },
+        {
+          "start_ref": "23005011",
+          "start_ref_usfm": "ISA 5:11",
+          "end_ref": "23005012",
+          "end_ref_usfm": "ISA 5:12"
+        },
+        {
+          "start_ref": "42001014",
+          "start_ref_usfm": "LUK 1:14",
+          "end_ref": "42001015",
+          "end_ref_usfm": "LUK 1:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 179874,
+          "label": "अंगूर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26046,
+          "content_id": 180110,
+          "label": "नाज़ीर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 180399,
+          "label": "दाखरस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

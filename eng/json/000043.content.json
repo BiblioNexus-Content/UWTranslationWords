@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26316,
+    "reference_id": 25458,
+    "title": "Andrew",
+    "media_type": "Text",
+    "index_reference": "andrew",
+    "language": "eng",
+    "content": "<h1>Andrew</h1><h2>Facts:</h2><p>Andrew was one of twelve men whom Jesus chose to be his closest disciples (later called apostles).</p><ul><li><p>Andrew’s brother was Simon Peter. Both of them were fishermen.</p></li><li><p>Peter and Andrew were fishing in the Sea of Galilee when Jesus called them to be his disciples.</p></li><li><p>Before Peter and Andrew met Jesus, they had been disciples of John the Baptizer.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apostle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25669\" data-resourceType=\"UWTranslationWords\">disciple</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">the twelve</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts1:12-Acts1:14\">Acts 1:12–14</a></p></li><li><p><a href=\"https://ref.ly/John1:40\">John 1:40</a></p></li><li><p><a href=\"https://ref.ly/Mark1:17\">Mark 1:17</a></p></li><li><p><a href=\"https://ref.ly/Mark1:29-Mark1:31\">Mark 1:29–31</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">Mark 3:17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt4:19\">Matthew 4:19</a></p></li><li><p><a href=\"https://ref.ly/Matt10:2-Matt10:4\">Matthew 10:2–4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G04060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004018",
+          "start_ref_usfm": "MAT 4:18",
+          "end_ref": "40004018",
+          "end_ref_usfm": "MAT 4:18"
+        },
+        {
+          "start_ref": "40004019",
+          "start_ref_usfm": "MAT 4:19",
+          "end_ref": "40004019",
+          "end_ref_usfm": "MAT 4:19"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010002",
+          "end_ref_usfm": "MAT 10:2"
+        },
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        },
+        {
+          "start_ref": "41001017",
+          "start_ref_usfm": "MRK 1:17",
+          "end_ref": "41001017",
+          "end_ref_usfm": "MRK 1:17"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001029",
+          "end_ref_usfm": "MRK 1:29"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "43001040",
+          "start_ref_usfm": "JHN 1:40",
+          "end_ref": "43001040",
+          "end_ref_usfm": "JHN 1:40"
+        },
+        {
+          "start_ref": "43001044",
+          "start_ref_usfm": "JHN 1:44",
+          "end_ref": "43001044",
+          "end_ref_usfm": "JHN 1:44"
+        },
+        {
+          "start_ref": "43006008",
+          "start_ref_usfm": "JHN 6:8",
+          "end_ref": "43006008",
+          "end_ref_usfm": "JHN 6:8"
+        },
+        {
+          "start_ref": "43012022",
+          "start_ref_usfm": "JHN 12:22",
+          "end_ref": "43012022",
+          "end_ref_usfm": "JHN 12:22"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010004",
+          "end_ref_usfm": "MAT 10:4"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "41001029",
+          "start_ref_usfm": "MRK 1:29",
+          "end_ref": "41001031",
+          "end_ref_usfm": "MRK 1:31"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 26324,
+          "label": "Apostle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 26527,
+          "label": "Disciple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 27154,
+          "label": "The Twelve",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

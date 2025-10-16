@@ -1,0 +1,208 @@
+[
+  {
+    "content_id": 467087,
+    "reference_id": 25944,
+    "title": "Baiser",
+    "media_type": "Text",
+    "index_reference": "baiser",
+    "language": "fra",
+    "content": "<h1>baiser</h1><h2>Définition :</h2><p>&quot;Un baiser est un acte par lequel une personne attachante appuie ses lèvres sur les lèvres ou le visage d&apos;une autre personne.</p><ul><li><p>Certaines cultures embrassent sur la joue comme une forme de salutation ou de dire au revoir.</p></li><li><p>Un baiser peut communiquer l&apos;amour profond entre deux personnes, comme un mari et sa femme.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01027026",
+          "start_ref_usfm": "GEN 27:26",
+          "end_ref": "01027026",
+          "end_ref_usfm": "GEN 27:26"
+        },
+        {
+          "start_ref": "01027027",
+          "start_ref_usfm": "GEN 27:27",
+          "end_ref": "01027027",
+          "end_ref_usfm": "GEN 27:27"
+        },
+        {
+          "start_ref": "01029011",
+          "start_ref_usfm": "GEN 29:11",
+          "end_ref": "01029011",
+          "end_ref_usfm": "GEN 29:11"
+        },
+        {
+          "start_ref": "01029013",
+          "start_ref_usfm": "GEN 29:13",
+          "end_ref": "01029013",
+          "end_ref_usfm": "GEN 29:13"
+        },
+        {
+          "start_ref": "01031028",
+          "start_ref_usfm": "GEN 31:28",
+          "end_ref": "01031028",
+          "end_ref_usfm": "GEN 31:28"
+        },
+        {
+          "start_ref": "01031055",
+          "start_ref_usfm": "GEN 31:55",
+          "end_ref": "01031055",
+          "end_ref_usfm": "GEN 31:55"
+        },
+        {
+          "start_ref": "01033004",
+          "start_ref_usfm": "GEN 33:4",
+          "end_ref": "01033004",
+          "end_ref_usfm": "GEN 33:4"
+        },
+        {
+          "start_ref": "01045015",
+          "start_ref_usfm": "GEN 45:15",
+          "end_ref": "01045015",
+          "end_ref_usfm": "GEN 45:15"
+        },
+        {
+          "start_ref": "01048010",
+          "start_ref_usfm": "GEN 48:10",
+          "end_ref": "01048010",
+          "end_ref_usfm": "GEN 48:10"
+        },
+        {
+          "start_ref": "01050001",
+          "start_ref_usfm": "GEN 50:1",
+          "end_ref": "01050001",
+          "end_ref_usfm": "GEN 50:1"
+        },
+        {
+          "start_ref": "02004027",
+          "start_ref_usfm": "EXO 4:27",
+          "end_ref": "02004027",
+          "end_ref_usfm": "EXO 4:27"
+        },
+        {
+          "start_ref": "02018007",
+          "start_ref_usfm": "EXO 18:7",
+          "end_ref": "02018007",
+          "end_ref_usfm": "EXO 18:7"
+        },
+        {
+          "start_ref": "20007013",
+          "start_ref_usfm": "PRO 7:13",
+          "end_ref": "20007013",
+          "end_ref_usfm": "PRO 7:13"
+        },
+        {
+          "start_ref": "20024026",
+          "start_ref_usfm": "PRO 24:26",
+          "end_ref": "20024026",
+          "end_ref_usfm": "PRO 24:26"
+        },
+        {
+          "start_ref": "20027006",
+          "start_ref_usfm": "PRO 27:6",
+          "end_ref": "20027006",
+          "end_ref_usfm": "PRO 27:6"
+        },
+        {
+          "start_ref": "40026048",
+          "start_ref_usfm": "MAT 26:48",
+          "end_ref": "40026048",
+          "end_ref_usfm": "MAT 26:48"
+        },
+        {
+          "start_ref": "40026049",
+          "start_ref_usfm": "MAT 26:49",
+          "end_ref": "40026049",
+          "end_ref_usfm": "MAT 26:49"
+        },
+        {
+          "start_ref": "41014044",
+          "start_ref_usfm": "MRK 14:44",
+          "end_ref": "41014044",
+          "end_ref_usfm": "MRK 14:44"
+        },
+        {
+          "start_ref": "41014045",
+          "start_ref_usfm": "MRK 14:45",
+          "end_ref": "41014045",
+          "end_ref_usfm": "MRK 14:45"
+        },
+        {
+          "start_ref": "42007038",
+          "start_ref_usfm": "LUK 7:38",
+          "end_ref": "42007038",
+          "end_ref_usfm": "LUK 7:38"
+        },
+        {
+          "start_ref": "42007045",
+          "start_ref_usfm": "LUK 7:45",
+          "end_ref": "42007045",
+          "end_ref_usfm": "LUK 7:45"
+        },
+        {
+          "start_ref": "42015020",
+          "start_ref_usfm": "LUK 15:20",
+          "end_ref": "42015020",
+          "end_ref_usfm": "LUK 15:20"
+        },
+        {
+          "start_ref": "42022047",
+          "start_ref_usfm": "LUK 22:47",
+          "end_ref": "42022047",
+          "end_ref_usfm": "LUK 22:47"
+        },
+        {
+          "start_ref": "42022048",
+          "start_ref_usfm": "LUK 22:48",
+          "end_ref": "42022048",
+          "end_ref_usfm": "LUK 22:48"
+        },
+        {
+          "start_ref": "44020037",
+          "start_ref_usfm": "ACT 20:37",
+          "end_ref": "44020037",
+          "end_ref_usfm": "ACT 20:37"
+        },
+        {
+          "start_ref": "45016016",
+          "start_ref_usfm": "ROM 16:16",
+          "end_ref": "45016016",
+          "end_ref_usfm": "ROM 16:16"
+        },
+        {
+          "start_ref": "46016020",
+          "start_ref_usfm": "1CO 16:20",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "47013012",
+          "start_ref_usfm": "2CO 13:12",
+          "end_ref": "47013012",
+          "end_ref_usfm": "2CO 13:12"
+        },
+        {
+          "start_ref": "52005026",
+          "start_ref_usfm": "1TH 5:26",
+          "end_ref": "52005026",
+          "end_ref_usfm": "1TH 5:26"
+        },
+        {
+          "start_ref": "60005014",
+          "start_ref_usfm": "1PE 5:14",
+          "end_ref": "60005014",
+          "end_ref_usfm": "1PE 5:14"
+        },
+        {
+          "start_ref": "52005025",
+          "start_ref_usfm": "1TH 5:25",
+          "end_ref": "52005028",
+          "end_ref_usfm": "1TH 5:28"
+        },
+        {
+          "start_ref": "01027026",
+          "start_ref_usfm": "GEN 27:26",
+          "end_ref": "01027027",
+          "end_ref_usfm": "GEN 27:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

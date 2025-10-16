@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237896,
+    "reference_id": 25763,
+    "title": "Gabriel",
+    "media_type": "Text",
+    "index_reference": "gabriel",
+    "language": "por",
+    "content": "<h1>Gabriel</h1><h2>Fatos:</h2><p>Gabriel é o nome de um dos anjos de Deus. Ele é mencionado pelo nome várias vezes, tanto no Antigo quanto no Novo Testamento.</p><ul><li><p>Deus enviou Gabriel para contar ao profeta Daniel o significado de uma visão que ele tinha visto.</p></li><li><p>Outra vez, enquanto Daniel estava orando, o anjo Gabriel voou até ele e profetizou sobre o que aconteceria no futuro. Daniel o descreveu como um “homem.”</p></li><li><p>No Novo Testamento está registrado que Gabriel veio a Zacarias para profetizar que sua esposa idosa, Isabel, teria um filho, João.</p></li><li><p>Seis meses depois disso, Gabriel foi enviado a Maria para dizer-lhe que Deus a capacitaria milagrosamente a conceber um filho que seria o “Filho de Deus”. Gabriel disse a Maria para nomear seu filho “Jesus”.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">anjo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25699\" data-resourceType=\"UWTranslationWords\">Isabel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">João (o Batista)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25998\" data-resourceType=\"UWTranslationWords\">Maria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Filho de Deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26369\" data-resourceType=\"UWTranslationWords\">Zacarias (NT)</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan8:15-Dan8:17\">Daniel 8.15–17</a></p></li><li><p><a href=\"https://ref.ly/Dan9:21\">Daniel 9.21</a></p></li><li><p><a href=\"https://ref.ly/Luke1:19\">Lucas 1.19</a></p></li><li><p><a href=\"https://ref.ly/Luke1:26\">Lucas 1.26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1403, G10430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27009021",
+          "start_ref_usfm": "DAN 9:21",
+          "end_ref": "27009021",
+          "end_ref_usfm": "DAN 9:21"
+        },
+        {
+          "start_ref": "42001019",
+          "start_ref_usfm": "LUK 1:19",
+          "end_ref": "42001019",
+          "end_ref_usfm": "LUK 1:19"
+        },
+        {
+          "start_ref": "42001026",
+          "start_ref_usfm": "LUK 1:26",
+          "end_ref": "42001026",
+          "end_ref_usfm": "LUK 1:26"
+        },
+        {
+          "start_ref": "27008015",
+          "start_ref_usfm": "DAN 8:15",
+          "end_ref": "27008017",
+          "end_ref_usfm": "DAN 8:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 237597,
+          "label": "Anjo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25699,
+          "content_id": 237832,
+          "label": "Isabel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 238045,
+          "label": "João Batista",
+          "language": "por"
+        },
+        {
+          "reference_id": 25998,
+          "content_id": 238128,
+          "label": "Maria",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 238379,
+          "label": "Filho de Deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26369,
+          "content_id": 238495,
+          "label": "Zacarias NT",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

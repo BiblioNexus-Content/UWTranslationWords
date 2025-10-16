@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27183,
+    "reference_id": 26325,
+    "title": "Tychicus",
+    "media_type": "Text",
+    "index_reference": "tychicus",
+    "language": "eng",
+    "content": "<h1>Tychicus</h1><h2>Facts:</h2><p>Tychicus was one of Paul’s fellow ministers of the gospel.</p><ul><li><p>Tychicus accompanied Paul on at least one of his missionary journeys to Asia.</p></li><li><p>Paul described him as “beloved” and “faithful.”</p></li><li><p>Tychicus carried Paul’s letters to Ephesus and Colosse.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">Asia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25524\" data-resourceType=\"UWTranslationWords\">beloved</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">Colossae</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Ephesus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25726\" data-resourceType=\"UWTranslationWords\">faithful</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">good news</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26021\" data-resourceType=\"UWTranslationWords\">minister</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timothy 4:11–13</a></p></li><li><p><a href=\"https://ref.ly/Col4:9\">Colossians 4:9</a></p></li><li><p><a href=\"https://ref.ly/Titus3:12\">Titus 3:12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G51900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "49006021",
+          "start_ref_usfm": "EPH 6:21",
+          "end_ref": "49006021",
+          "end_ref_usfm": "EPH 6:21"
+        },
+        {
+          "start_ref": "51004007",
+          "start_ref_usfm": "COL 4:7",
+          "end_ref": "51004007",
+          "end_ref_usfm": "COL 4:7"
+        },
+        {
+          "start_ref": "51004009",
+          "start_ref_usfm": "COL 4:9",
+          "end_ref": "51004009",
+          "end_ref_usfm": "COL 4:9"
+        },
+        {
+          "start_ref": "55004012",
+          "start_ref_usfm": "2TI 4:12",
+          "end_ref": "55004012",
+          "end_ref_usfm": "2TI 4:12"
+        },
+        {
+          "start_ref": "56003012",
+          "start_ref_usfm": "TIT 3:12",
+          "end_ref": "56003012",
+          "end_ref_usfm": "TIT 3:12"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 26343,
+          "label": "Asia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25524,
+          "content_id": 26382,
+          "label": "Beloved",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 26455,
+          "label": "Colossae",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 26564,
+          "label": "Ephesus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 26584,
+          "label": "Faithful",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 26654,
+          "label": "Good News",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26021,
+          "content_id": 26879,
+          "label": "Minister",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

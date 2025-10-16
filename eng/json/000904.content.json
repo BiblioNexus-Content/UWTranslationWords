@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27177,
+    "reference_id": 26319,
+    "title": "Troas",
+    "media_type": "Text",
+    "index_reference": "troas",
+    "language": "eng",
+    "content": "<h1>Troas</h1><h2>Facts:</h2><p>The city of Troas was a seaport located on the northwest coast of the ancient Roman province of Asia.</p><ul><li><p>Paul visited Troas at least three times during his trips to different regions to preach the gospel.</p></li><li><p>On one occasion in Troas, Paul preached long into the night and a young man named Eutychus fell asleep while he was listening. Because he had been sitting in an open window, Eutychus fell down a long way and died. Through God’s power, Paul raised this young man back to life.</p></li><li><p>When Paul was in Rome, he asked Timothy to bring him his scrolls and his cloak, which he had left behind in Troas.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">Asia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26118\" data-resourceType=\"UWTranslationWords\">preach</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">province</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_raise\" data-resourceType=\"UWTranslationWords\">raise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26205\" data-resourceType=\"UWTranslationWords\">scroll</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26304\" data-resourceType=\"UWTranslationWords\">Timothy</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Cor2:13\">2 Corinthians 2:13</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timothy 4:11–13</a></p></li><li><p><a href=\"https://ref.ly/Acts16:8\">Acts 16:8</a></p></li><li><p><a href=\"https://ref.ly/Acts20:5\">Acts 20:5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G51740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016008",
+          "start_ref_usfm": "ACT 16:8",
+          "end_ref": "44016008",
+          "end_ref_usfm": "ACT 16:8"
+        },
+        {
+          "start_ref": "44016011",
+          "start_ref_usfm": "ACT 16:11",
+          "end_ref": "44016011",
+          "end_ref_usfm": "ACT 16:11"
+        },
+        {
+          "start_ref": "44020005",
+          "start_ref_usfm": "ACT 20:5",
+          "end_ref": "44020005",
+          "end_ref_usfm": "ACT 20:5"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "47002012",
+          "start_ref_usfm": "2CO 2:12",
+          "end_ref": "47002012",
+          "end_ref_usfm": "2CO 2:12"
+        },
+        {
+          "start_ref": "47002013",
+          "start_ref_usfm": "2CO 2:13",
+          "end_ref": "47002013",
+          "end_ref_usfm": "2CO 2:13"
+        },
+        {
+          "start_ref": "55004013",
+          "start_ref_usfm": "2TI 4:13",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 26343,
+          "label": "Asia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26118,
+          "content_id": 26976,
+          "label": "Preach",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 26995,
+          "label": "Province",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26205,
+          "content_id": 27063,
+          "label": "Scroll",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 27162,
+          "label": "Timothy",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466633,
+    "reference_id": 25452,
+    "title": "Ammon",
+    "media_type": "Text",
+    "index_reference": "ammon",
+    "language": "fra",
+    "content": "<h1>Ammon ,Ammonites,</h1><h2>Définition :</h2><p>Les &quot;fils d&apos;Ammon&quot; ou les&quot;Ammonites&quot; étaient un peuple qui habitait à Canaan* Ils étaient des descendants de Ben-ammi, qui était le fils de Lot par sa fille.</p><ul><li><p>Pour désigner une femme appartenant à ce peuple, le terme &quot;femme Ammonite&quot; est utilisé.</p></li><li><p>Les Ammonites habitaient à l&apos;Est du Jourdain et ils étaient des ennemis des Israélites.</p></li><li><p>A un moment donné, les Ammonites engagèrent un prophète du nom de Baalam pour maudire Israël, mais Dieu ne le permit pas.</p></li></ul><p>(Voir aussi : (../kt/curse.md), (../names/jordanriver.md), (../names/lot.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019038",
+          "start_ref_usfm": "GEN 19:38",
+          "end_ref": "01019038",
+          "end_ref_usfm": "GEN 19:38"
+        },
+        {
+          "start_ref": "07011027",
+          "start_ref_usfm": "JDG 11:27",
+          "end_ref": "07011027",
+          "end_ref_usfm": "JDG 11:27"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "16002010",
+          "start_ref_usfm": "NEH 2:10",
+          "end_ref": "16002010",
+          "end_ref_usfm": "NEH 2:10"
+        },
+        {
+          "start_ref": "16002019",
+          "start_ref_usfm": "NEH 2:19",
+          "end_ref": "16002019",
+          "end_ref_usfm": "NEH 2:19"
+        },
+        {
+          "start_ref": "16004003",
+          "start_ref_usfm": "NEH 4:3",
+          "end_ref": "16004003",
+          "end_ref_usfm": "NEH 4:3"
+        },
+        {
+          "start_ref": "16004007",
+          "start_ref_usfm": "NEH 4:7",
+          "end_ref": "16004007",
+          "end_ref_usfm": "NEH 4:7"
+        },
+        {
+          "start_ref": "16013001",
+          "start_ref_usfm": "NEH 13:1",
+          "end_ref": "16013001",
+          "end_ref_usfm": "NEH 13:1"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013023",
+          "end_ref_usfm": "NEH 13:23"
+        },
+        {
+          "start_ref": "26025002",
+          "start_ref_usfm": "EZK 25:2",
+          "end_ref": "26025002",
+          "end_ref_usfm": "EZK 25:2"
+        },
+        {
+          "start_ref": "36002008",
+          "start_ref_usfm": "ZEP 2:8",
+          "end_ref": "36002008",
+          "end_ref_usfm": "ZEP 2:8"
+        },
+        {
+          "start_ref": "13019001",
+          "start_ref_usfm": "1CH 19:1",
+          "end_ref": "13019003",
+          "end_ref_usfm": "1CH 19:3"
+        },
+        {
+          "start_ref": "06012001",
+          "start_ref_usfm": "JOS 12:1",
+          "end_ref": "06012002",
+          "end_ref_usfm": "JOS 12:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25632,
+          "content_id": 466796,
+          "label": "Maudire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 467116,
+          "label": "Lot",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

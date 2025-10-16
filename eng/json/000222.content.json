@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 26495,
+    "reference_id": 25637,
+    "title": "Cyprus",
+    "media_type": "Text",
+    "index_reference": "cyprus",
+    "language": "eng",
+    "content": "<h1>Cyprus</h1><h2>Facts:</h2><p>Cyprus is an island in the Mediterranean Sea, about 64 kilometers south of the modern-day country of Turkey.</p><ul><li><p>Barnabas was from Cyprus so it is probable that his cousin John Mark was also from there.</p></li><li><p>Paul and Barnabas preached together on the island of Cyprus at the beginning of their first missionary journey. John Mark came along to help them on that trip.</p></li><li><p>Later on, Barnabas and Mark visited Cyprus again.</p></li><li><p>In the Old Testament, Cyprus is mentioned as being a rich source of cypress trees.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">Barnabas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25910\" data-resourceType=\"UWTranslationWords\">John Mark</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">the sea</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">Acts 4:36–37</a></p></li><li><p><a href=\"https://ref.ly/Acts13:5\">Acts 13:5</a></p></li><li><p><a href=\"https://ref.ly/Acts15:41\">Acts 15:41</a></p></li><li><p><a href=\"https://ref.ly/Acts27:4\">Acts 27:4</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:6-Ezek27:7\">Ezekiel 27:6–7</a></p></li><li><p><a href=\"https://ref.ly/Isa23:10-Isa23:12\">Isaiah 23:10–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G29530, G29540</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013004",
+          "end_ref_usfm": "ACT 13:4"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44027004",
+          "start_ref_usfm": "ACT 27:4",
+          "end_ref": "44027004",
+          "end_ref_usfm": "ACT 27:4"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "26027006",
+          "start_ref_usfm": "EZK 27:6",
+          "end_ref": "26027007",
+          "end_ref_usfm": "EZK 27:7"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 26364,
+          "label": "Barnabas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 26768,
+          "label": "John Mark",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 26864,
+          "label": "Mediterranean",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

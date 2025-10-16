@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26385,
+    "reference_id": 25527,
+    "title": "Berea",
+    "media_type": "Text",
+    "index_reference": "berea",
+    "language": "eng",
+    "content": "<h1>Berea</h1><h2>Facts:</h2><p>In New Testament times, Berea (or Beroea) was a prosperous Greek city in southeast Macedonia, about 80 kilometers south of Thessalonica.</p><ul><li><p>Paul and Silas fled to the city of Berea after their fellow Christians helped them escape from certain Jews who had caused trouble for them in Thessalonica.</p></li><li><p>When the people living in Berea heard Paul preach, they researched the Scriptures to confirm that what he was telling them was true.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25986\" data-resourceType=\"UWTranslationWords\">Macedonia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26236\" data-resourceType=\"UWTranslationWords\">Silas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26295\" data-resourceType=\"UWTranslationWords\">Thessalonica</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts17:11\">Acts 17:11</a></p></li><li><p><a href=\"https://ref.ly/Acts17:13-Acts17:15\">Acts 17:13–15</a></p></li><li><p><a href=\"https://ref.ly/Acts20:4\">Acts 20:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G09600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017010",
+          "end_ref_usfm": "ACT 17:10"
+        },
+        {
+          "start_ref": "44017011",
+          "start_ref_usfm": "ACT 17:11",
+          "end_ref": "44017011",
+          "end_ref_usfm": "ACT 17:11"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017013",
+          "end_ref_usfm": "ACT 17:13"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25986,
+          "content_id": 26844,
+          "label": "Macedonia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26236,
+          "content_id": 27094,
+          "label": "Silas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 27153,
+          "label": "Thessalonica",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

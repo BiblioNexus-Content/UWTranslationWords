@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 27222,
+    "reference_id": 26364,
+    "title": "Zacchaeus",
+    "media_type": "Text",
+    "index_reference": "zacchaeus",
+    "language": "eng",
+    "content": "<h1>Zacchaeus</h1><h2>Facts:</h2><p>Zacchaeus was a tax collector from Jericho who climbed a tree in order to be able to see Jesus who was surrounded by a large crowd of people.</p><ul><li><p>Zacchaeus was completely changed when he believed in Jesus.</p></li><li><p>He repented of his sin of cheating people and promised to give half his possessions to the poor.</p></li><li><p>He also promised that he would pay people back four times the amount that he had overcharged them for their taxes.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">believe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26127\" data-resourceType=\"UWTranslationWords\">promise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">repent</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">sin</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">tax</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">tax collector</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke19:2\">Luke 19:2</a></p></li><li><p><a href=\"https://ref.ly/Luke19:6\">Luke 19:6</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G21950</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42019002",
+          "start_ref_usfm": "LUK 19:2",
+          "end_ref": "42019002",
+          "end_ref_usfm": "LUK 19:2"
+        },
+        {
+          "start_ref": "42019005",
+          "start_ref_usfm": "LUK 19:5",
+          "end_ref": "42019005",
+          "end_ref_usfm": "LUK 19:5"
+        },
+        {
+          "start_ref": "42019006",
+          "start_ref_usfm": "LUK 19:6",
+          "end_ref": "42019006",
+          "end_ref_usfm": "LUK 19:6"
+        },
+        {
+          "start_ref": "42019008",
+          "start_ref_usfm": "LUK 19:8",
+          "end_ref": "42019008",
+          "end_ref_usfm": "LUK 19:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 26381,
+          "label": "Believe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 26985,
+          "label": "Promise",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 27028,
+          "label": "Repent",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 27098,
+          "label": "Sin",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 27140,
+          "label": "Tax",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

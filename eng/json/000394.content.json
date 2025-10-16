@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 26666,
+    "reference_id": 25808,
+    "title": "Habakkuk",
+    "media_type": "Text",
+    "index_reference": "habakkuk",
+    "language": "eng",
+    "content": "<h1>Habakkuk</h1><h2>Facts:</h2><p>Habakkuk was an Old Testament prophet who lived around the time that King Jehoiakim was reigning over Judah. The prophet Jeremiah was also alive during some of this time.</p><ul><li><p>This prophet wrote the book of Habakkuk around 600 BC when the Babylonians conquered Jerusalem and took many of the people of Judah into exile.</p></li><li><p>Yahweh gave Habakkuk the prophecy about how the “Chaldeans” (Babylonians) would come and conquer the people of Judah.</p></li><li><p>One of Habakkuk’s most well-known statements is: “the righteous person shall live by his faith.”</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">Jehoiakim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremiah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Hab1:2\">Habakkuk 1:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2265</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "35001002",
+          "start_ref_usfm": "HAB 1:2",
+          "end_ref": "35001002",
+          "end_ref_usfm": "HAB 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 26748,
+          "label": "Jehoiakim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 26753,
+          "label": "Jeremiah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

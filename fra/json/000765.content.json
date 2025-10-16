@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467315,
+    "reference_id": 26196,
+    "title": "Sanctuaire",
+    "media_type": "Text",
+    "index_reference": "sanctuaire",
+    "language": "fra",
+    "content": "<h1>sanctuaire</h1><h2>Définition :</h2><p>Le terme « sanctuaire » signifie littéralement « lieu saint » et se réfère à un endroit que Dieu a rendu sacré et saint. Il peut aussi se référer à un endroit qui assure la protection et la sécurité.</p><ul><li><p>Dans l&apos;Ancien Testament, le terme « sanctuaire » était souvent utilisé pour désigner le tabernacle ou l&apos;édifice du temple où se trouvaient le « lieu saint » et le « lieu très saint ».</p></li><li><p>Dieu fait référence au sanctuaire comme le lieu où il a vécu parmi son peuple, les Israélites.</p></li><li><p>Dieu aussi est considéré comme un « sanctuaire » ou un lieu sûr pour son peuple où ils peuvent trouver la protection.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Ce terme a une signification fondamentale de « lieu saint » ou « lieu mis à part ».</p></li><li><p>Selon le contexte, le terme « sanctuaire » pourrait être traduit par « lieu saint » ou « édifice sacré » ou « demeure sainte de Dieu » ou « lieu saint de protection » ou « lieu sacré de sécurité ».</p></li><li><p>L&apos;expression « shekel du sanctuaire » pourrait être traduite par « sorte de shekel donné pour le tabernacle » ou « shekel utilisé pour payer l&apos;impôt pour prendre soin du temple ».</p></li><li><p>Remarque: veillez à ce que la traduction de ce terme ne fasse pas référence à une salle de culte dans une église moderne.</p></li></ul><p>(Voir aussi : (../kt/holy.md), (../kt/holyspirit.md), (../kt/holy.md), (../kt/setapart.md), (../kt/tabernacle.md), (../other/tax.md), (../kt/temple.md), )</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02025008",
+          "start_ref_usfm": "EXO 25:8",
+          "end_ref": "02025008",
+          "end_ref_usfm": "EXO 25:8"
+        },
+        {
+          "start_ref": "02030013",
+          "start_ref_usfm": "EXO 30:13",
+          "end_ref": "02030013",
+          "end_ref_usfm": "EXO 30:13"
+        },
+        {
+          "start_ref": "02030024",
+          "start_ref_usfm": "EXO 30:24",
+          "end_ref": "02030024",
+          "end_ref_usfm": "EXO 30:24"
+        },
+        {
+          "start_ref": "02038024",
+          "start_ref_usfm": "EXO 38:24",
+          "end_ref": "02038024",
+          "end_ref_usfm": "EXO 38:24"
+        },
+        {
+          "start_ref": "02038025",
+          "start_ref_usfm": "EXO 38:25",
+          "end_ref": "02038025",
+          "end_ref_usfm": "EXO 38:25"
+        },
+        {
+          "start_ref": "02038026",
+          "start_ref_usfm": "EXO 38:26",
+          "end_ref": "02038026",
+          "end_ref_usfm": "EXO 38:26"
+        },
+        {
+          "start_ref": "02038027",
+          "start_ref_usfm": "EXO 38:27",
+          "end_ref": "02038027",
+          "end_ref_usfm": "EXO 38:27"
+        },
+        {
+          "start_ref": "04018001",
+          "start_ref_usfm": "NUM 18:1",
+          "end_ref": "04018001",
+          "end_ref_usfm": "NUM 18:1"
+        },
+        {
+          "start_ref": "16010039",
+          "start_ref_usfm": "NEH 10:39",
+          "end_ref": "16010039",
+          "end_ref_usfm": "NEH 10:39"
+        },
+        {
+          "start_ref": "19078069",
+          "start_ref_usfm": "PSA 78:69",
+          "end_ref": "19078069",
+          "end_ref_usfm": "PSA 78:69"
+        },
+        {
+          "start_ref": "26025003",
+          "start_ref_usfm": "EZK 25:3",
+          "end_ref": "26025003",
+          "end_ref_usfm": "EZK 25:3"
+        },
+        {
+          "start_ref": "30007013",
+          "start_ref_usfm": "AMO 7:13",
+          "end_ref": "30007013",
+          "end_ref_usfm": "AMO 7:13"
+        },
+        {
+          "start_ref": "58008001",
+          "start_ref_usfm": "HEB 8:1",
+          "end_ref": "58008002",
+          "end_ref_usfm": "HEB 8:2"
+        },
+        {
+          "start_ref": "02025003",
+          "start_ref_usfm": "EXO 25:3",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
+        },
+        {
+          "start_ref": "42011049",
+          "start_ref_usfm": "LUK 11:49",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 466991,
+          "label": "Saint-Esprit",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 467392,
+          "label": "Tabernacle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 467396,
+          "label": "Impôts",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 467398,
+          "label": "Temple, maison de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

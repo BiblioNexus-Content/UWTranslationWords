@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 179630,
+    "reference_id": 25548,
+    "title": "बोअज़",
+    "media_type": "Text",
+    "index_reference": "बोअज़",
+    "language": "hin",
+    "content": "<h1>बोअज़</h1><h2>तथ्य:</h2><p>बोअज़ एक इस्राएली पुरुष था जो इस्राएल में न्यायियों के युग में वास करता था| उसने रूत नामक एक मोआबी स्त्री से विवाह किया था और इस प्रकार वह राजा दाऊद का परदादा और मसीह यीशु का पूर्वज हुआ|</p><ul><li><p>वह एक इस्राएली स्त्री नाओमी का परिजन था, नाओमी अपने पति और पुत्रों की मृत्यु के बाद मोआब से इस्राएल लौट आई थी।</p></li></ul><p>बोअज़ ने &quot;छुटकारे&quot; की परम्परा के अनुसार नाओमी की विधवा बहु रूत को छुड़वा कर उससे विवाह किया और उसको एक पति और संतानों का भविष्य दिया।</p><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">मोआब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">छुटकारा दिलाना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26185\" data-resourceType=\"UWTranslationWords\">रूत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 2:12</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 3:17</a></p></li><li><p><a href=\"https://ref.ly/Luke3:30-Luke3:32\">लूका 3:30–32</a></p></li><li><p><a href=\"https://ref.ly/Matt1:5\">मत्ती 1:5</a></p></li><li><p><a href=\"https://ref.ly/Ruth2:4\">रूत 2:4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H1162</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002001",
+          "start_ref_usfm": "RUT 2:1",
+          "end_ref": "08002001",
+          "end_ref_usfm": "RUT 2:1"
+        },
+        {
+          "start_ref": "08002003",
+          "start_ref_usfm": "RUT 2:3",
+          "end_ref": "08002003",
+          "end_ref_usfm": "RUT 2:3"
+        },
+        {
+          "start_ref": "08002004",
+          "start_ref_usfm": "RUT 2:4",
+          "end_ref": "08002004",
+          "end_ref_usfm": "RUT 2:4"
+        },
+        {
+          "start_ref": "08002005",
+          "start_ref_usfm": "RUT 2:5",
+          "end_ref": "08002005",
+          "end_ref_usfm": "RUT 2:5"
+        },
+        {
+          "start_ref": "08002008",
+          "start_ref_usfm": "RUT 2:8",
+          "end_ref": "08002008",
+          "end_ref_usfm": "RUT 2:8"
+        },
+        {
+          "start_ref": "08002011",
+          "start_ref_usfm": "RUT 2:11",
+          "end_ref": "08002011",
+          "end_ref_usfm": "RUT 2:11"
+        },
+        {
+          "start_ref": "08002014",
+          "start_ref_usfm": "RUT 2:14",
+          "end_ref": "08002014",
+          "end_ref_usfm": "RUT 2:14"
+        },
+        {
+          "start_ref": "08002015",
+          "start_ref_usfm": "RUT 2:15",
+          "end_ref": "08002015",
+          "end_ref_usfm": "RUT 2:15"
+        },
+        {
+          "start_ref": "08002019",
+          "start_ref_usfm": "RUT 2:19",
+          "end_ref": "08002019",
+          "end_ref_usfm": "RUT 2:19"
+        },
+        {
+          "start_ref": "08002023",
+          "start_ref_usfm": "RUT 2:23",
+          "end_ref": "08002023",
+          "end_ref_usfm": "RUT 2:23"
+        },
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "08003007",
+          "start_ref_usfm": "RUT 3:7",
+          "end_ref": "08003007",
+          "end_ref_usfm": "RUT 3:7"
+        },
+        {
+          "start_ref": "08004001",
+          "start_ref_usfm": "RUT 4:1",
+          "end_ref": "08004001",
+          "end_ref_usfm": "RUT 4:1"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004008",
+          "start_ref_usfm": "RUT 4:8",
+          "end_ref": "08004008",
+          "end_ref_usfm": "RUT 4:8"
+        },
+        {
+          "start_ref": "08004009",
+          "start_ref_usfm": "RUT 4:9",
+          "end_ref": "08004009",
+          "end_ref_usfm": "RUT 4:9"
+        },
+        {
+          "start_ref": "08004013",
+          "start_ref_usfm": "RUT 4:13",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        },
+        {
+          "start_ref": "08004021",
+          "start_ref_usfm": "RUT 4:21",
+          "end_ref": "08004021",
+          "end_ref_usfm": "RUT 4:21"
+        },
+        {
+          "start_ref": "13002012",
+          "start_ref_usfm": "1CH 2:12",
+          "end_ref": "13002012",
+          "end_ref_usfm": "1CH 2:12"
+        },
+        {
+          "start_ref": "14003017",
+          "start_ref_usfm": "2CH 3:17",
+          "end_ref": "14003017",
+          "end_ref_usfm": "2CH 3:17"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "42003032",
+          "start_ref_usfm": "LUK 3:32",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
+        },
+        {
+          "start_ref": "42003030",
+          "start_ref_usfm": "LUK 3:30",
+          "end_ref": "42003032",
+          "end_ref_usfm": "LUK 3:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26026,
+          "content_id": 180090,
+          "label": "मोआब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 180219,
+          "label": "छुड़ा ले",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26185,
+          "content_id": 180243,
+          "label": "रूत",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

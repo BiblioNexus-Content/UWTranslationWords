@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467476,
+    "reference_id": 26375,
+    "title": "Sion",
+    "media_type": "Text",
+    "index_reference": "sion",
+    "language": "fra",
+    "content": "<h1>Sion, la montagne de Sion, mont Sion</h1><h2>Définition :</h2><p>À l&apos;origine, les termes « Sion » ou « Mont Sion » faisait référence à un bastion ou une forteresse que le roi David avait capturée des Jébuséens. Ces deux termes sont devenus d&apos;autres façons de se référer à Jérusalem.</p><ul><li><p>Le mont Sion et le mont Moriah étaient deux des collines sur lesquelles se trouvait la ville de Jérusalem. Plus tard, « Sion » et « Mont Sion » sont devenus des termes généraux pour désigner à la fois ces montagnes et la ville de Jérusalem. Parfois, ils faisaient aussi référence au temple qui était situé à Jérusalem. (Voir : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">metonymy</a>)</p></li><li><p>David a appelé Sion, ou Jérusalem, la « Cité de David ». Celle-ci est différente de la ville natale de David, Bethléem, qui était aussi appelée la Cité de David.</p></li><li><p>Le terme « Sion » est aussi utilisé au sens figuré pour désigner Israël, le royaume spirituel de Dieu ou la nouvelle Jérusalem céleste que Dieu va créer.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Bethlehem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25887\" data-resourceType=\"UWTranslationWords\">Jebusites</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13011005",
+          "start_ref_usfm": "1CH 11:5",
+          "end_ref": "13011005",
+          "end_ref_usfm": "1CH 11:5"
+        },
+        {
+          "start_ref": "22003011",
+          "start_ref_usfm": "SNG 3:11",
+          "end_ref": "22003011",
+          "end_ref_usfm": "SNG 3:11"
+        },
+        {
+          "start_ref": "24051035",
+          "start_ref_usfm": "JER 51:35",
+          "end_ref": "24051035",
+          "end_ref_usfm": "JER 51:35"
+        },
+        {
+          "start_ref": "30001002",
+          "start_ref_usfm": "AMO 1:2",
+          "end_ref": "30001002",
+          "end_ref_usfm": "AMO 1:2"
+        },
+        {
+          "start_ref": "31001017",
+          "start_ref_usfm": "OBA 1:17",
+          "end_ref": "31001017",
+          "end_ref_usfm": "OBA 1:17"
+        },
+        {
+          "start_ref": "31001021",
+          "start_ref_usfm": "OBA 1:21",
+          "end_ref": "31001021",
+          "end_ref_usfm": "OBA 1:21"
+        },
+        {
+          "start_ref": "36003014",
+          "start_ref_usfm": "ZEP 3:14",
+          "end_ref": "36003014",
+          "end_ref_usfm": "ZEP 3:14"
+        },
+        {
+          "start_ref": "36003016",
+          "start_ref_usfm": "ZEP 3:16",
+          "end_ref": "36003016",
+          "end_ref_usfm": "ZEP 3:16"
+        },
+        {
+          "start_ref": "40021005",
+          "start_ref_usfm": "MAT 21:5",
+          "end_ref": "40021005",
+          "end_ref_usfm": "MAT 21:5"
+        },
+        {
+          "start_ref": "43012015",
+          "start_ref_usfm": "JHN 12:15",
+          "end_ref": "43012015",
+          "end_ref_usfm": "JHN 12:15"
+        },
+        {
+          "start_ref": "45009033",
+          "start_ref_usfm": "ROM 9:33",
+          "end_ref": "45009033",
+          "end_ref_usfm": "ROM 9:33"
+        },
+        {
+          "start_ref": "45011026",
+          "start_ref_usfm": "ROM 11:26",
+          "end_ref": "45011026",
+          "end_ref_usfm": "ROM 11:26"
+        },
+        {
+          "start_ref": "58012022",
+          "start_ref_usfm": "HEB 12:22",
+          "end_ref": "58012022",
+          "end_ref_usfm": "HEB 12:22"
+        },
+        {
+          "start_ref": "60002006",
+          "start_ref_usfm": "1PE 2:6",
+          "end_ref": "60002006",
+          "end_ref_usfm": "1PE 2:6"
+        },
+        {
+          "start_ref": "66014001",
+          "start_ref_usfm": "REV 14:1",
+          "end_ref": "66014001",
+          "end_ref_usfm": "REV 14:1"
+        },
+        {
+          "start_ref": "19076001",
+          "start_ref_usfm": "PSA 76:1",
+          "end_ref": "19076003",
+          "end_ref_usfm": "PSA 76:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25887,
+          "content_id": 467032,
+          "label": "Jébusiens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

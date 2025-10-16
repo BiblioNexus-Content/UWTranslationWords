@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 237656,
+    "reference_id": 25520,
+    "title": "Suplicar por dinheiro",
+    "media_type": "Text",
+    "index_reference": "suplicar por dinheiro",
+    "language": "por",
+    "content": "<h1>suplicar, mendigo, mendicância</h1><h2>Definição:</h2><p>Usado neste sentido, o termo “suplicar” significa pedir dinheiro a alguém ou alguma necessidade material, como comida.</p><ul><li><p>Um “mendigo” é alguém que regularmente se senta ou fica em um lugar público para pedir dinheiro às pessoas.</p></li><li><p>Os mendigos pedem dinheiro ou comida para serem dados a eles gratuitamente como um presente e não oferecem trabalho ou algum outro serviço em troca do dinheiro ou comida. Sua língua pode ter uma palavra para tal pessoa ou atividade.</p></li><li><p>Dependendo do contexto, este termo pode ser traduzido como “pedir dinheiro publicamente” ou “pedir dinheiro regularmente”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26108\" data-resourceType=\"UWTranslationWords\">implorar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25446\" data-resourceType=\"UWTranslationWords\">esmolas</span>)</p><h2>Referências Bíblicas:</h2><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>44:1</strong> Um dia, Pedro e João estavam indo ao Templo. Quando se aproximaram do portão do Templo, viram um homem aleijado que estava <strong>suplicando</strong> por dinheiro.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25446,
+          "content_id": 237584,
+          "label": "Esmolas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26108,
+          "content_id": 238238,
+          "label": "Implorar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179762,
+    "reference_id": 25688,
+    "title": "अदन",
+    "media_type": "Text",
+    "index_reference": "अदन",
+    "language": "hin",
+    "content": "<h1>अदन, अदन की वाटिका</h1><h2>तथ्य:</h2><p>प्राचीन युग में अदन एक ऐसा स्थान था जहां वाटिका थी जिसमें परमेश्वर ने प्रथम पुरुष और स्त्री को रखा था।</p><ul><li><p>जिस वाटिका में आदम और हव्वा रहते थे वह अदन क्षेत्र का एक भाग मात्र था।</p></li><li><p>अदन का स्थान वास्तव में कहां था निश्चित नहीं है परन्तु हिद्देकेल और फरात नदियां वहां बहती थी।</p></li><li><p>इब्रानी भाषा में अदन शब्द का अर्थ है, “किसी स्थान में बड़ा आनन्द लेना”।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">आदम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25715\" data-resourceType=\"UWTranslationWords\">फरात नदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25717\" data-resourceType=\"UWTranslationWords\">हव्वा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezek28:11-Ezek28:13\">यहेजकेल 28:11–13</a></p></li><li><p><a href=\"https://ref.ly/Gen2:7-Gen2:8\">उत्पत्ति 02:7–8</a></p></li><li><p><a href=\"https://ref.ly/Gen2:9-Gen2:10\">उत्पत्ति 02:9–10</a></p></li><li><p><a href=\"https://ref.ly/Gen2:15-Gen2:17\">उत्पत्ति 02:15–17</a></p></li><li><p><a href=\"https://ref.ly/Gen4:16-Gen4:17\">उत्पत्ति 04:16–17</a></p></li><li><p><a href=\"https://ref.ly/Joel2:3\">योएल 02:3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5729, H5731</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002008",
+          "start_ref_usfm": "GEN 2:8",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01002010",
+          "start_ref_usfm": "GEN 2:10",
+          "end_ref": "01002010",
+          "end_ref_usfm": "GEN 2:10"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002015",
+          "end_ref_usfm": "GEN 2:15"
+        },
+        {
+          "start_ref": "01003023",
+          "start_ref_usfm": "GEN 3:23",
+          "end_ref": "01003023",
+          "end_ref_usfm": "GEN 3:23"
+        },
+        {
+          "start_ref": "01003024",
+          "start_ref_usfm": "GEN 3:24",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004016",
+          "end_ref_usfm": "GEN 4:16"
+        },
+        {
+          "start_ref": "29002003",
+          "start_ref_usfm": "JOL 2:3",
+          "end_ref": "29002003",
+          "end_ref_usfm": "JOL 2:3"
+        },
+        {
+          "start_ref": "26028011",
+          "start_ref_usfm": "EZK 28:11",
+          "end_ref": "26028013",
+          "end_ref_usfm": "EZK 28:13"
+        },
+        {
+          "start_ref": "01002007",
+          "start_ref_usfm": "GEN 2:7",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004017",
+          "end_ref_usfm": "GEN 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 179519,
+          "label": "आदम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 179788,
+          "label": "फरात महानद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25717,
+          "content_id": 179790,
+          "label": "हव्वा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

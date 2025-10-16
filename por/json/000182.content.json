@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237703,
+    "reference_id": 25568,
+    "title": "Chamar - nomear",
+    "media_type": "Text",
+    "index_reference": "chamar - nomear",
+    "language": "por",
+    "content": "<h1>chamar, chamado</h1><h2>Definição:</h2><p>Os termos “chamar” e “chamado”, neste sentido, significam nomear um lugar, pessoa ou ser. Quando se refere a uma pessoa ou coisa, os termos “chamar” e “chamado” podem se referir tanto a dar a alguém ou algo um nome pela primeira vez quanto a dizer o nome ou título pré-existente dessa coisa ou pessoa.</p><ul><li><p>A Bíblia às vezes usa esses termos no contexto de nomear alguém. Por exemplo, “Seu nome é chamado João,” significa “Ele é chamado João” ou “Seu nome é João.”</p></li><li><p>Ser “chamado pelo nome de” significa que alguém recebe o nome de outra pessoa. Deus diz que chamou seu povo pelo seu nome.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>“Você deve chamar o nome dele” também pode ser traduzido como “você deve nomeá-lo.”</p></li><li><p>“Seu nome é chamado” também pode ser traduzido como “seu nome é” ou “ele é chamado.”</p></li><li><p>A expressão “você é chamado pelo meu nome” poderia ser traduzida como “Eu te dei meu nome, mostrando que você pertence a mim.”</p></li><li><p>Você poderia traduzir as palavras de Jesus “Vocês me chamam de ‘Mestre’ e ‘Senhor,’” como “Vocês me dirigem como ‘Mestre’ e ‘Senhor&apos;”, ou algo semelhante para mostrar que a palavra “chamar” neste contexto significa “dirigir-se” a alguém por um nome ou título específico.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25569\" data-resourceType=\"UWTranslationWords\">chamar para convocar</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18042014",
+          "start_ref_usfm": "JOB 42:14",
+          "end_ref": "18042014",
+          "end_ref_usfm": "JOB 42:14"
+        },
+        {
+          "start_ref": "41010018",
+          "start_ref_usfm": "MRK 10:18",
+          "end_ref": "41010018",
+          "end_ref_usfm": "MRK 10:18"
+        },
+        {
+          "start_ref": "41011017",
+          "start_ref_usfm": "MRK 11:17",
+          "end_ref": "41011017",
+          "end_ref_usfm": "MRK 11:17"
+        },
+        {
+          "start_ref": "41012037",
+          "start_ref_usfm": "MRK 12:37",
+          "end_ref": "41012037",
+          "end_ref_usfm": "MRK 12:37"
+        },
+        {
+          "start_ref": "54006020",
+          "start_ref_usfm": "1TI 6:20",
+          "end_ref": "54006020",
+          "end_ref_usfm": "1TI 6:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25569,
+          "content_id": 237704,
+          "label": "Chamar - Convocar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

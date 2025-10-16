@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467431,
+    "reference_id": 26318,
+    "title": "Hommage",
+    "media_type": "Text",
+    "index_reference": "hommage",
+    "language": "fra",
+    "content": "<h1>hommage</h1><h2>Définition :</h2><p>Un hommage est un cadeau d&apos;un souverain à un autre, dans un but de protection et de bonnes relations entre leurs nations.</p><ul><li><p>Un hommage peut également se référer au paiement qu&apos;une loi ou qu&apos;un gouvernement exige du peuple, comme un péage ou un impôt.</p></li><li><p>Dans les temps bibliques, des rois ou des princes qui voyagent pouvaient rendre un hommage au roi de la région au travers de laquelle ils voyageaient pour s&apos;assurer qu&apos;ils seraient protégés et en sécurité.</p></li><li><p>Souvent, l&apos;hommage incluait d&apos;autres choses que l&apos;argent, tels que les aliments, les épices, les riches vêtements, et des métaux précieux tels que l&apos;or.</p></li></ul><h2>Suggestions de traduction</h2><p>Selon le contexte, &quot;hommage&quot; pourrait être traduit par «cadeaux officiels» ou «taxe spéciale» ou «paiement requis*&quot;</p><p>(Voir aussi : (../other/gold.md), (../other/king.md), (../other/ruler.md), (../other/tax.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "15004013",
+          "start_ref_usfm": "EZR 4:13",
+          "end_ref": "15004013",
+          "end_ref_usfm": "EZR 4:13"
+        },
+        {
+          "start_ref": "15004020",
+          "start_ref_usfm": "EZR 4:20",
+          "end_ref": "15004020",
+          "end_ref_usfm": "EZR 4:20"
+        },
+        {
+          "start_ref": "15007024",
+          "start_ref_usfm": "EZR 7:24",
+          "end_ref": "15007024",
+          "end_ref_usfm": "EZR 7:24"
+        },
+        {
+          "start_ref": "40017025",
+          "start_ref_usfm": "MAT 17:25",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
+        },
+        {
+          "start_ref": "40022017",
+          "start_ref_usfm": "MAT 22:17",
+          "end_ref": "40022017",
+          "end_ref_usfm": "MAT 22:17"
+        },
+        {
+          "start_ref": "40022019",
+          "start_ref_usfm": "MAT 22:19",
+          "end_ref": "40022019",
+          "end_ref_usfm": "MAT 22:19"
+        },
+        {
+          "start_ref": "41012014",
+          "start_ref_usfm": "MRK 12:14",
+          "end_ref": "41012014",
+          "end_ref_usfm": "MRK 12:14"
+        },
+        {
+          "start_ref": "42023002",
+          "start_ref_usfm": "LUK 23:2",
+          "end_ref": "42023002",
+          "end_ref_usfm": "LUK 23:2"
+        },
+        {
+          "start_ref": "13018001",
+          "start_ref_usfm": "1CH 18:1",
+          "end_ref": "13018002",
+          "end_ref_usfm": "1CH 18:2"
+        },
+        {
+          "start_ref": "14009022",
+          "start_ref_usfm": "2CH 9:22",
+          "end_ref": "14009024",
+          "end_ref_usfm": "2CH 9:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25791,
+          "content_id": 466940,
+          "label": "Or",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 32928,
+          "label": "dirigeant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 467396,
+          "label": "Impôts",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

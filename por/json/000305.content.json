@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 237833,
+    "reference_id": 25700,
+    "title": "Encorajar",
+    "media_type": "Text",
+    "index_reference": "encorajar",
+    "language": "por",
+    "content": "<h1>encorajar, encorajado, encorajando, encorajamento</h1><h2>Fatos:</h2><p>Os termos “encorajar” e “encorajamento” referem-se a dizer e fazer coisas para causar conforto, esperança, confiança e coragem em alguém.</p><ul><li><p>Um termo semelhante é “exortar”, que significa instar alguém a rejeitar uma atividade que é errada e, em vez disso, fazer coisas que são boas e corretas.</p></li><li><p>O apóstolo Paulo e outros escritores do Novo Testamento ensinaram os cristãos a encorajarem uns aos outros a amar e servir aos outros.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Dependendo do contexto, maneiras de traduzir “encorajar” podem incluir “instar” ou “confortar” ou “dizer coisas gentis” ou “ajudar e apoiar”.</p></li><li><p>A frase “dar palavras de encorajamento” significa “dizer coisas que fazem outras pessoas se sentirem amadas, aceitas e capacitadas”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25670\" data-resourceType=\"UWTranslationWords\">desencorajar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_confidence\" data-resourceType=\"UWTranslationWords\">confiança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25720\" data-resourceType=\"UWTranslationWords\">exortar</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25670,
+          "content_id": 237803,
+          "label": "Desencorajar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25720,
+          "content_id": 237853,
+          "label": "Exortar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

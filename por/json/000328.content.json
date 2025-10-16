@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238390,
+    "reference_id": 26261,
+    "title": "Estêvão",
+    "media_type": "Text",
+    "index_reference": "estêvão",
+    "language": "por",
+    "content": "<h1>Estêvão</h1><h2>Fatos:</h2><p>Estêvão é mais lembrado como o primeiro mártir cristão, ou seja, a primeira pessoa a ser morta por causa de sua fé em Jesus. Os fatos sobre sua vida e morte estão registrados no livro de Atos.</p><ul><li><p>Estêvão foi designado pela Igreja primitiva em Jerusalém para servir aos cristãos como diácono, fornecendo alimentos para viúvas e outros cristãos necessitados.</p></li><li><p>Certos judeus acusaram falsamente Estêvão de falar contra Deus e contra as leis de Moisés.</p></li><li><p>Estêvão corajosamente falou a verdade sobre Jesus, o Messias, começando com a história dos tratos de Deus com o povo de Israel.</p></li><li><p>Os líderes judeus ficaram furiosos e executaram Estêvão apedrejando-o até a morte fora da cidade.</p></li><li><p>Sua execução foi testemunhada por Saulo de Tarso, que mais tarde se tornou o apóstolo Paulo.</p></li><li><p>Estêvão também é bem conhecido por suas últimas palavras antes de morrer, “Senhor, não condenes esta gente por causa deste pecado!”, que mostraram o amor que ele tinha pelos outros.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25467\" data-resourceType=\"UWTranslationWords\">nomear</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25647\" data-resourceType=\"UWTranslationWords\">diácono</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26262\" data-resourceType=\"UWTranslationWords\">pedra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">verdadeiro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:5\">Atos 6.5</a></p></li><li><p><a href=\"https://ref.ly/Acts6:9\">Atos 6.9</a></p></li><li><p><a href=\"https://ref.ly/Acts6:10-Acts6:11\">Atos 6.10–11</a></p></li><li><p><a href=\"https://ref.ly/Acts6:12\">Atos 6.12</a></p></li><li><p><a href=\"https://ref.ly/Acts7:59\">Atos 7.59</a></p></li><li><p><a href=\"https://ref.ly/Acts11:19\">Atos 11.19</a></p></li><li><p><a href=\"https://ref.ly/Acts22:20\">Atos 22.20</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G47360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006008",
+          "end_ref_usfm": "ACT 6:8"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44006012",
+          "start_ref_usfm": "ACT 6:12",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44007059",
+          "start_ref_usfm": "ACT 7:59",
+          "end_ref": "44007059",
+          "end_ref_usfm": "ACT 7:59"
+        },
+        {
+          "start_ref": "44008002",
+          "start_ref_usfm": "ACT 8:2",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44022020",
+          "start_ref_usfm": "ACT 22:20",
+          "end_ref": "44022020",
+          "end_ref_usfm": "ACT 22:20"
+        },
+        {
+          "start_ref": "44006010",
+          "start_ref_usfm": "ACT 6:10",
+          "end_ref": "44006011",
+          "end_ref_usfm": "ACT 6:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25467,
+          "content_id": 237604,
+          "label": "Nomear",
+          "language": "por"
+        },
+        {
+          "reference_id": 25647,
+          "content_id": 237780,
+          "label": "Diácono",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26262,
+          "content_id": 238391,
+          "label": "Pedra",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

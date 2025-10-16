@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26415,
+    "reference_id": 25557,
+    "title": "Bride",
+    "media_type": "Text",
+    "index_reference": "bride",
+    "language": "eng",
+    "content": "<h1>bride, bridal</h1><h2>Definition:</h2><p>A bride is the woman in a marriage ceremony who will marry the bridegroom (the <strong>man</strong>).</p><h2>Translation Suggestions:</h2><p>You could use the term that your language uses to refer to the woman who is getting married in a marriage ceremony or if you do not have a term for this in your language you could use a descriptive phrase to describe what a bride is. Depending on the context you could translate the term “bride” with descriptive phrases such as “a woman getting married” or “a woman who is being married” or “the woman getting married.”</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25558\" data-resourceType=\"UWTranslationWords\">bridegroom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25996\" data-resourceType=\"UWTranslationWords\">marriage</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Exod22:16\">Exodus 22:16</a></p></li><li><p><a href=\"https://ref.ly/Isa62:5\">Isaiah 62:5</a></p></li><li><p><a href=\"https://ref.ly/Joel2:16\">Joel 2:16</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3618, G35650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02022016",
+          "start_ref_usfm": "EXO 22:16",
+          "end_ref": "02022016",
+          "end_ref_usfm": "EXO 22:16"
+        },
+        {
+          "start_ref": "23062005",
+          "start_ref_usfm": "ISA 62:5",
+          "end_ref": "23062005",
+          "end_ref_usfm": "ISA 62:5"
+        },
+        {
+          "start_ref": "29002016",
+          "start_ref_usfm": "JOL 2:16",
+          "end_ref": "29002016",
+          "end_ref_usfm": "JOL 2:16"
+        },
+        {
+          "start_ref": "43003029",
+          "start_ref_usfm": "JHN 3:29",
+          "end_ref": "43003029",
+          "end_ref_usfm": "JHN 3:29"
+        },
+        {
+          "start_ref": "66018023",
+          "start_ref_usfm": "REV 18:23",
+          "end_ref": "66018023",
+          "end_ref_usfm": "REV 18:23"
+        },
+        {
+          "start_ref": "66019007",
+          "start_ref_usfm": "REV 19:7",
+          "end_ref": "66019007",
+          "end_ref_usfm": "REV 19:7"
+        },
+        {
+          "start_ref": "66021002",
+          "start_ref_usfm": "REV 21:2",
+          "end_ref": "66021002",
+          "end_ref_usfm": "REV 21:2"
+        },
+        {
+          "start_ref": "66021009",
+          "start_ref_usfm": "REV 21:9",
+          "end_ref": "66021009",
+          "end_ref_usfm": "REV 21:9"
+        },
+        {
+          "start_ref": "66022017",
+          "start_ref_usfm": "REV 22:17",
+          "end_ref": "66022017",
+          "end_ref_usfm": "REV 22:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25558,
+          "content_id": 26416,
+          "label": "Bridegroom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25996,
+          "content_id": 26854,
+          "label": "Marriage",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

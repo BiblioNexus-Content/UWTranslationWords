@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 238108,
+    "reference_id": 25977,
+    "title": "Sortes",
+    "media_type": "Text",
+    "index_reference": "sortes",
+    "language": "por",
+    "content": "<h1>sortes, lançar sortes</h1><h2>Definição:</h2><p>Na Bíblia, uma “sorte” é um objeto(s) marcado usado como uma forma de tomar uma decisão justa e/ou aleatória, geralmente com o propósito de selecionar uma pessoa específica dentro de um grupo. “Lançar sortes” refere-se ao processo de usar “sortes” para tomar uma decisão justa e/ou aleatória.</p><ul><li><p>Nos tempos modernos, algumas culturas “tiram” ou “puxam” sortes usando um punhado de palhas. Alguém segura as palhas de modo que ninguém possa ver o comprimento delas. Cada pessoa puxa uma palha e aquele que pega a palha mais longa (ou mais curta) é o escolhido.</p></li><li><p>Nos tempos bíblicos, os objetos lançados (as “sortes”) eram provavelmente pequenas pedras marcadas. Não se sabe como as “sortes” realmente indicavam uma decisão, mas provavelmente envolvia deixar jogar ou soltar pedras marcadas no chão.</p></li><li><p>A frase “lançar sortes” pode ser traduzida como “jogar sortes” ou “atirar sortes” ou “rolar sortes”. A tradução de “lançar” não deve soar como se as sortes estivessem sendo jogadas a uma longa distância.</p></li><li><p>Se uma decisão é tomada “por sorteio”, isso poderia ser traduzido como “por lançar sortes” ou “por jogar sortes”, etc.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25699\" data-resourceType=\"UWTranslationWords\">Isabel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26370\" data-resourceType=\"UWTranslationWords\">Zacarias (AT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26369\" data-resourceType=\"UWTranslationWords\">Zacarias (NT)</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Jonah1:7\">Jonas 1.7</a></p></li><li><p><a href=\"https://ref.ly/Luke1:8-Luke1:10\">Lucas 1.8–10</a></p></li><li><p><a href=\"https://ref.ly/Luke23:34\">Lucas 23.34</a></p></li><li><p><a href=\"https://ref.ly/Mark15:22\">Marcos 15.22</a></p></li><li><p><a href=\"https://ref.ly/Matt27:35-Matt27:37\">Mateus 27.35–37</a></p></li><li><p><a href=\"https://ref.ly/Ps22:18-Ps22:19\">Salmos 22.18–19</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1486, H5307, G28190, G29750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010034",
+          "start_ref_usfm": "NEH 10:34",
+          "end_ref": "16010034",
+          "end_ref_usfm": "NEH 10:34"
+        },
+        {
+          "start_ref": "16011001",
+          "start_ref_usfm": "NEH 11:1",
+          "end_ref": "16011001",
+          "end_ref_usfm": "NEH 11:1"
+        },
+        {
+          "start_ref": "20001014",
+          "start_ref_usfm": "PRO 1:14",
+          "end_ref": "20001014",
+          "end_ref_usfm": "PRO 1:14"
+        },
+        {
+          "start_ref": "20016033",
+          "start_ref_usfm": "PRO 16:33",
+          "end_ref": "20016033",
+          "end_ref_usfm": "PRO 16:33"
+        },
+        {
+          "start_ref": "20018018",
+          "start_ref_usfm": "PRO 18:18",
+          "end_ref": "20018018",
+          "end_ref_usfm": "PRO 18:18"
+        },
+        {
+          "start_ref": "31001011",
+          "start_ref_usfm": "OBA 1:11",
+          "end_ref": "31001011",
+          "end_ref_usfm": "OBA 1:11"
+        },
+        {
+          "start_ref": "32001007",
+          "start_ref_usfm": "JON 1:7",
+          "end_ref": "32001007",
+          "end_ref_usfm": "JON 1:7"
+        },
+        {
+          "start_ref": "40027035",
+          "start_ref_usfm": "MAT 27:35",
+          "end_ref": "40027035",
+          "end_ref_usfm": "MAT 27:35"
+        },
+        {
+          "start_ref": "41015022",
+          "start_ref_usfm": "MRK 15:22",
+          "end_ref": "41015022",
+          "end_ref_usfm": "MRK 15:22"
+        },
+        {
+          "start_ref": "41015024",
+          "start_ref_usfm": "MRK 15:24",
+          "end_ref": "41015024",
+          "end_ref_usfm": "MRK 15:24"
+        },
+        {
+          "start_ref": "42023034",
+          "start_ref_usfm": "LUK 23:34",
+          "end_ref": "42023034",
+          "end_ref_usfm": "LUK 23:34"
+        },
+        {
+          "start_ref": "43019024",
+          "start_ref_usfm": "JHN 19:24",
+          "end_ref": "43019024",
+          "end_ref_usfm": "JHN 19:24"
+        },
+        {
+          "start_ref": "44001026",
+          "start_ref_usfm": "ACT 1:26",
+          "end_ref": "44001026",
+          "end_ref_usfm": "ACT 1:26"
+        },
+        {
+          "start_ref": "40027035",
+          "start_ref_usfm": "MAT 27:35",
+          "end_ref": "40027037",
+          "end_ref_usfm": "MAT 27:37"
+        },
+        {
+          "start_ref": "42001008",
+          "start_ref_usfm": "LUK 1:8",
+          "end_ref": "42001010",
+          "end_ref_usfm": "LUK 1:10"
+        },
+        {
+          "start_ref": "19022018",
+          "start_ref_usfm": "PSA 22:18",
+          "end_ref": "19022019",
+          "end_ref_usfm": "PSA 22:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25699,
+          "content_id": 237832,
+          "label": "Isabel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26369,
+          "content_id": 238495,
+          "label": "Zacarias NT",
+          "language": "por"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 238496,
+          "label": "Zacarias AT",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

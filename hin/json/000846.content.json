@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 180274,
+    "reference_id": 26218,
+    "title": "शेत",
+    "media_type": "Text",
+    "index_reference": "शेत",
+    "language": "hin",
+    "content": "<h1>शेत</h1><h2>तथ्य:</h2><p>उत्पत्ति की पुस्तक में, शेत आदम और हव्वा का तीसरा पुत्र था।</p><ul><li><p>हव्वा ने कहा कि उसके पुत्र हाबिल के स्थान में उसे शेत दिया गया, हाबिल की हत्या उसके भाई कैन ने कर दी थी।</p></li><li><p>नूह शेत के वंशजों में से था, अतः जलप्रलय के बाद सब शेत के वंशज हैं।</p></li><li><p>शेत और उसका परिवार सबसे पहले मनुष्य थे जिन्होंने “प्रभु का नाम पुकारा था।&quot;</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25418\" data-resourceType=\"UWTranslationWords\">हाबिल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">कैन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_call\" data-resourceType=\"UWTranslationWords\">पुकारना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">वंशज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_father\" data-resourceType=\"UWTranslationWords\">पूर्वज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25746\" data-resourceType=\"UWTranslationWords\">जल-प्रलय</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">नूह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 01:1–4</a></p></li><li><p><a href=\"https://ref.ly/Luke3:36-Luke3:38\">लूका 03:36–38</a></p></li><li><p><a href=\"https://ref.ly/Num24:17\">गिनती 24:17</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H8352, G45890</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "01004026",
+          "start_ref_usfm": "GEN 4:26",
+          "end_ref": "01004026",
+          "end_ref_usfm": "GEN 4:26"
+        },
+        {
+          "start_ref": "01005003",
+          "start_ref_usfm": "GEN 5:3",
+          "end_ref": "01005003",
+          "end_ref_usfm": "GEN 5:3"
+        },
+        {
+          "start_ref": "01005004",
+          "start_ref_usfm": "GEN 5:4",
+          "end_ref": "01005004",
+          "end_ref_usfm": "GEN 5:4"
+        },
+        {
+          "start_ref": "01005006",
+          "start_ref_usfm": "GEN 5:6",
+          "end_ref": "01005006",
+          "end_ref_usfm": "GEN 5:6"
+        },
+        {
+          "start_ref": "01005007",
+          "start_ref_usfm": "GEN 5:7",
+          "end_ref": "01005007",
+          "end_ref_usfm": "GEN 5:7"
+        },
+        {
+          "start_ref": "01005008",
+          "start_ref_usfm": "GEN 5:8",
+          "end_ref": "01005008",
+          "end_ref_usfm": "GEN 5:8"
+        },
+        {
+          "start_ref": "04024017",
+          "start_ref_usfm": "NUM 24:17",
+          "end_ref": "04024017",
+          "end_ref_usfm": "NUM 24:17"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        },
+        {
+          "start_ref": "42003038",
+          "start_ref_usfm": "LUK 3:38",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25418,
+          "content_id": 179508,
+          "label": "हाबिल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25565,
+          "content_id": 179647,
+          "label": "कैन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 179736,
+          "label": "अवतरण",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 179819,
+          "label": "जल-प्रलय/बाढ़",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 180118,
+          "label": "नूह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

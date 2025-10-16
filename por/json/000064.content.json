@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 237602,
+    "reference_id": 25464,
+    "title": "Antioquia",
+    "media_type": "Text",
+    "index_reference": "antioquia",
+    "language": "por",
+    "content": "<h1>Antioquia</h1><h2>Fatos:</h2><p>Antioquia era o nome de duas cidades no Novo Testamento. Uma estava na Síria, perto da costa do Mar Mediterrâneo. A outra estava na província romana da Pisídia, perto da cidade de Colossos.</p><ul><li><p>A igreja local em Antioquia da Síria foi o primeiro lugar onde os crentes em Jesus foram chamados de “cristãos”. A igreja lá também era ativa em enviar missionários para alcançar os gentios.</p></li><li><p>Os líderes da igreja em Jerusalém enviaram uma carta aos crentes na igreja em Antioquia da Síria para ajudá-los a saber que não precisavam seguir as leis judaicas para serem cristãos.</p></li><li><p>Paulo, Barnabé e João Marcos viajaram para Antioquia na Pisídia para compartilhar o evangelho. Alguns judeus de outras cidades foram lá para causar problemas e tentaram matar Paulo. Mas muitas outras pessoas, tanto judeus quanto gentios, ouviram o ensinamento e creram em Jesus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">Barnabé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">Colossos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25910\" data-resourceType=\"UWTranslationWords\">João Marcos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">província</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Síria</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim3:10-2Tim3:13\">2 Timóteo 3.10–13</a></p></li><li><p><a href=\"https://ref.ly/Acts6:5-Acts6:6\">Atos 6.5–6</a></p></li><li><p><a href=\"https://ref.ly/Acts11:19-Acts11:21\">Atos 11.19–21</a></p></li><li><p><a href=\"https://ref.ly/Acts11:26\">Atos 11.26</a></p></li><li><p><a href=\"https://ref.ly/Gal2:11-Gal2:12\">Gálatas 2.11–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G04910</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44011022",
+          "start_ref_usfm": "ACT 11:22",
+          "end_ref": "44011022",
+          "end_ref_usfm": "ACT 11:22"
+        },
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44011027",
+          "start_ref_usfm": "ACT 11:27",
+          "end_ref": "44011027",
+          "end_ref_usfm": "ACT 11:27"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44014026",
+          "start_ref_usfm": "ACT 14:26",
+          "end_ref": "44014026",
+          "end_ref_usfm": "ACT 14:26"
+        },
+        {
+          "start_ref": "44015022",
+          "start_ref_usfm": "ACT 15:22",
+          "end_ref": "44015022",
+          "end_ref_usfm": "ACT 15:22"
+        },
+        {
+          "start_ref": "44015023",
+          "start_ref_usfm": "ACT 15:23",
+          "end_ref": "44015023",
+          "end_ref_usfm": "ACT 15:23"
+        },
+        {
+          "start_ref": "44015030",
+          "start_ref_usfm": "ACT 15:30",
+          "end_ref": "44015030",
+          "end_ref_usfm": "ACT 15:30"
+        },
+        {
+          "start_ref": "44015035",
+          "start_ref_usfm": "ACT 15:35",
+          "end_ref": "44015035",
+          "end_ref_usfm": "ACT 15:35"
+        },
+        {
+          "start_ref": "44018022",
+          "start_ref_usfm": "ACT 18:22",
+          "end_ref": "44018022",
+          "end_ref_usfm": "ACT 18:22"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002012",
+          "end_ref_usfm": "GAL 2:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 237642,
+          "label": "Barnabé",
+          "language": "por"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 237732,
+          "label": "Colossos",
+          "language": "por"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 238043,
+          "label": "João Marcos",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 238267,
+          "label": "Província",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 238406,
+          "label": "Síria",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

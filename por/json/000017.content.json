@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237578,
+    "reference_id": 25440,
+    "title": "Acaz",
+    "media_type": "Text",
+    "index_reference": "acaz",
+    "language": "por",
+    "content": "<h1>Acaz</h1><h2>Definição:</h2><p>Acaz foi um rei perverso que governou o reino de Judá de 732 a.C. a 716 a.C. Isso foi cerca de 140 anos antes da época em que muitas pessoas em Israel e Judá foram levadas como cativas para a Babilônia.</p><ul><li><p>Enquanto governava Judá, Acaz mandou construir um altar para adorar os falsos deuses dos assírios, o que fez com que o povo se afastasse do único Deus verdadeiro, Javé.</p></li><li><p>O rei Acaz tinha 20 anos quando começou a governar Judá, e governou por 16 anos.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr8:35-1Chr8:37\">1 Crônicas 8.35–37</a></p></li><li><p><a href=\"https://ref.ly/2Chr28:1\">2 Crônicas 28.1</a></p></li><li><p><a href=\"https://ref.ly/2Kgs16:20\">2 Reis 16.20</a></p></li><li><p><a href=\"https://ref.ly/Hos1:1\">Oseias 1.1</a></p></li><li><p><a href=\"https://ref.ly/Isa1:1\">Isaías 1.1</a></p></li><li><p><a href=\"https://ref.ly/Isa7:4\">Isaías 7.4</a></p></li><li><p><a href=\"https://ref.ly/Matt1:9-Matt1:11\">Mateus 1.9–11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0271</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14028001",
+          "start_ref_usfm": "2CH 28:1",
+          "end_ref": "14028001",
+          "end_ref_usfm": "2CH 28:1"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23007004",
+          "start_ref_usfm": "ISA 7:4",
+          "end_ref": "23007004",
+          "end_ref_usfm": "ISA 7:4"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "13008035",
+          "start_ref_usfm": "1CH 8:35",
+          "end_ref": "13008037",
+          "end_ref_usfm": "1CH 8:37"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

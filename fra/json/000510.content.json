@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467104,
+    "reference_id": 25964,
+    "title": "Léopard",
+    "media_type": "Text",
+    "index_reference": "léopard",
+    "language": "fra",
+    "content": "<h1>léopard</h1><h2>Définition :</h2><p>&quot;Un léopard est un grand félin, animal, sauvage qui est brun avec des taches noires.</p><ul><li><p>Un léopard se nourrit d&apos;autres animaux .</p></li><li><p>La soudaineté de la catastrophe est comparé à un léopard, en raison de sa forceet de sa nature rapide.</p></li><li><p>Dans les visions données à Daniel et Jean, un léopard a été utilisé pour décrire ce à quoi ressemblait l&apos;une des bêtes.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../other/beast.md), (../names/daniel.md), (../other/prey.md), (../other/vision.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "27007006",
+          "start_ref_usfm": "DAN 7:6",
+          "end_ref": "27007006",
+          "end_ref_usfm": "DAN 7:6"
+        },
+        {
+          "start_ref": "28013007",
+          "start_ref_usfm": "HOS 13:7",
+          "end_ref": "28013007",
+          "end_ref_usfm": "HOS 13:7"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25517,
+          "content_id": 466692,
+          "label": "Bête",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 467243,
+          "label": "Proies",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26338,
+          "content_id": 467447,
+          "label": "Vision",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

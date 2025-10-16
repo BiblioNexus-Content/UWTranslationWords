@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237677,
+    "reference_id": 25541,
+    "title": "Direito de primogenitura",
+    "media_type": "Text",
+    "index_reference": "direito de primogenitura",
+    "language": "por",
+    "content": "<h1>direito de primogenitura</h1><h2>Definição:</h2><p>O termo “direito de primogenitura” na Bíblia refere-se à honra, nome da família e riqueza física que normalmente eram dados ao primeiro filho de uma família.</p><ul><li><p>O direito de primogenitura do filho primogênito incluía uma porção dupla da herança do pai.</p></li><li><p>O filho primogênito de um rei normalmente recebia o direito de primogenitura para governar após a morte de seu pai.</p></li><li><p>Esaú vendeu seu direito de primogenitura para seu irmão mais novo Jacó. Por causa disso, Jacó herdou a bênção do primogênito em vez de Esaú.</p></li><li><p>O direito de primogenitura também incluía a honra de ter os descendentes da família traçados através da linha do filho primogênito.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Maneiras possíveis de traduzir “direito de primogenitura” poderiam incluir, “direitos e riqueza do filho primogênito” ou “honra da família” ou “privilégio e herança do filho mais velho”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25742\" data-resourceType=\"UWTranslationWords\">primogênito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">herdar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendente</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:1\">1 Crônicas 5.1</a></p></li><li><p><a href=\"https://ref.ly/Gen25:34\">Gênesis 25.34</a></p></li><li><p><a href=\"https://ref.ly/Gen43:33\">Gênesis 43.33</a></p></li><li><p><a href=\"https://ref.ly/Heb12:14-Heb12:17\">Hebreus 12.14–17</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1062, G44150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025031",
+          "start_ref_usfm": "GEN 25:31",
+          "end_ref": "01025031",
+          "end_ref_usfm": "GEN 25:31"
+        },
+        {
+          "start_ref": "01025032",
+          "start_ref_usfm": "GEN 25:32",
+          "end_ref": "01025032",
+          "end_ref_usfm": "GEN 25:32"
+        },
+        {
+          "start_ref": "01025033",
+          "start_ref_usfm": "GEN 25:33",
+          "end_ref": "01025033",
+          "end_ref_usfm": "GEN 25:33"
+        },
+        {
+          "start_ref": "01025034",
+          "start_ref_usfm": "GEN 25:34",
+          "end_ref": "01025034",
+          "end_ref_usfm": "GEN 25:34"
+        },
+        {
+          "start_ref": "01027036",
+          "start_ref_usfm": "GEN 27:36",
+          "end_ref": "01027036",
+          "end_ref_usfm": "GEN 27:36"
+        },
+        {
+          "start_ref": "01043033",
+          "start_ref_usfm": "GEN 43:33",
+          "end_ref": "01043033",
+          "end_ref_usfm": "GEN 43:33"
+        },
+        {
+          "start_ref": "13005001",
+          "start_ref_usfm": "1CH 5:1",
+          "end_ref": "13005001",
+          "end_ref_usfm": "1CH 5:1"
+        },
+        {
+          "start_ref": "58012016",
+          "start_ref_usfm": "HEB 12:16",
+          "end_ref": "58012016",
+          "end_ref_usfm": "HEB 12:16"
+        },
+        {
+          "start_ref": "58012014",
+          "start_ref_usfm": "HEB 12:14",
+          "end_ref": "58012017",
+          "end_ref_usfm": "HEB 12:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 237793,
+          "label": "Descendente",
+          "language": "por"
+        },
+        {
+          "reference_id": 25742,
+          "content_id": 237875,
+          "label": "Primogênito",
+          "language": "por"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 238000,
+          "label": "Herdar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

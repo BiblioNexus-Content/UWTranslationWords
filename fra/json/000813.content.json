@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 466685,
+    "reference_id": 25507,
+    "title": "Stérile",
+    "media_type": "Text",
+    "index_reference": "stérile",
+    "language": "fra",
+    "content": "<h1>stérile</h1><h2>Définition :</h2><p>Etre «stérile» signifie ne pas être fertile ou fructueuse.</p><ul><li><p>Le sol ou la terre qui est stérile n&apos;est pas à mesure de produire des plantes.</p></li><li><p>Une femme qui est stérile est celle qui est physiquement incapable de concevoir ou porter un enfant.</p></li></ul><h2>Suggestions de traduction</h2><ul><li><p>Lorsque «stérile» est utilisé pour se référer à la terre, il pourrait être traduit comme «non fertile» ou «inféconde» ou «sans plantes».</p></li><li><p>Quand il fait référence à une femme stérile, il pourrait être traduit par «sans enfant» ou «pas à mesure de porter des enfants» ou «incapable de concevoir un enfant*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011030",
+          "start_ref_usfm": "GEN 11:30",
+          "end_ref": "01011030",
+          "end_ref_usfm": "GEN 11:30"
+        },
+        {
+          "start_ref": "01025021",
+          "start_ref_usfm": "GEN 25:21",
+          "end_ref": "01025021",
+          "end_ref_usfm": "GEN 25:21"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "02023026",
+          "start_ref_usfm": "EXO 23:26",
+          "end_ref": "02023026",
+          "end_ref_usfm": "EXO 23:26"
+        },
+        {
+          "start_ref": "09002005",
+          "start_ref_usfm": "1SA 2:5",
+          "end_ref": "09002005",
+          "end_ref_usfm": "1SA 2:5"
+        },
+        {
+          "start_ref": "18003007",
+          "start_ref_usfm": "JOB 3:7",
+          "end_ref": "18003007",
+          "end_ref_usfm": "JOB 3:7"
+        },
+        {
+          "start_ref": "18024019",
+          "start_ref_usfm": "JOB 24:19",
+          "end_ref": "18024019",
+          "end_ref_usfm": "JOB 24:19"
+        },
+        {
+          "start_ref": "18030003",
+          "start_ref_usfm": "JOB 30:3",
+          "end_ref": "18030003",
+          "end_ref_usfm": "JOB 30:3"
+        },
+        {
+          "start_ref": "20030016",
+          "start_ref_usfm": "PRO 30:16",
+          "end_ref": "20030016",
+          "end_ref_usfm": "PRO 30:16"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "42001007",
+          "start_ref_usfm": "LUK 1:7",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
+        },
+        {
+          "start_ref": "42023029",
+          "start_ref_usfm": "LUK 23:29",
+          "end_ref": "42023029",
+          "end_ref_usfm": "LUK 23:29"
+        },
+        {
+          "start_ref": "48004027",
+          "start_ref_usfm": "GAL 4:27",
+          "end_ref": "48004027",
+          "end_ref_usfm": "GAL 4:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467010,
+    "reference_id": 25864,
+    "title": "Image de Dieu; Image",
+    "media_type": "Text",
+    "index_reference": "image de dieu; image",
+    "language": "fra",
+    "content": "<h1>Image de Dieu; Image</h1><h2>Définition :</h2><p>Le terme « image » fait référence à quelque chose qui ressemble à autre chose ou qui ressemble à quelqu&apos;un en caractère ou en essence. L&apos;expression « image de Dieu » est utilisée de différentes manières, selon le contexte.</p><ul><li><p>Au commencement, Dieu créa les êtres humains « à son image », c&apos;est-à-dire « à sa ressemblance ». Cela veut dire que les hommes ont certaines caractéristiques qui reflètent l&apos;image de Dieu, telles que la capacité d&apos;être rempli d&apos;émotion, de raisonnement et de communication, et d&apos;avoir un esprit qui vit éternellement.</p></li><li><p>La Bible enseigne que Jésus, le Fils de Dieu, est « l&apos;image de Dieu », « qui est Dieu Lui-même ». Contrairement aux êtres humains, Jésus n&apos;a pas été créé. De toute éternité, Dieu le Fils a toutes les caractéristiques divines parce qu&apos;il a eu la même essence que Dieu le Père.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Quand on fait référence à Jésus, « l&apos;image de Dieu » peut être traduit par « ressemblance exacte de Dieu » ou « même essence que Dieu » ou « même être que Dieu ».</p></li><li><p>Quand on fait référence aux êtres humains, « Dieu les a créés à son image » peut être traduit avec la phrase qui signifie, « Dieu les a créés pour lui ressembler » ou « Dieu les a créés avec les mêmes caractéristiques que les siennes ».</p></li></ul><p>(Voir aussi : (../other/image.md), (../kt/sonofgod.md), (../kt/sonofgod.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001026",
+          "end_ref_usfm": "GEN 1:26"
+        },
+        {
+          "start_ref": "01001027",
+          "start_ref_usfm": "GEN 1:27",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "51001015",
+          "start_ref_usfm": "COL 1:15",
+          "end_ref": "51001015",
+          "end_ref_usfm": "COL 1:15"
+        },
+        {
+          "start_ref": "51003010",
+          "start_ref_usfm": "COL 3:10",
+          "end_ref": "51003010",
+          "end_ref_usfm": "COL 3:10"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "47004003",
+          "start_ref_usfm": "2CO 4:3",
+          "end_ref": "47004004",
+          "end_ref_usfm": "2CO 4:4"
+        },
+        {
+          "start_ref": "51003009",
+          "start_ref_usfm": "COL 3:9",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
+        },
+        {
+          "start_ref": "59003009",
+          "start_ref_usfm": "JAS 3:9",
+          "end_ref": "59003010",
+          "end_ref_usfm": "JAS 3:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25863,
+          "content_id": 467009,
+          "label": "Image",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 467365,
+          "label": "Fils de Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

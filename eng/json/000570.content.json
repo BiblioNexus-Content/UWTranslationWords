@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26843,
+    "reference_id": 25985,
+    "title": "Maacah",
+    "media_type": "Text",
+    "index_reference": "maacah",
+    "language": "eng",
+    "content": "<h1>Maacah</h1><h2>Facts:</h2><p>Maacah (or Maakah) was one of the sons of Abraham’s brother Nahor. Other people in the Old Testament also had this name.</p><ul><li><p>The city of Maacah or Beth Maacah was located in the far north of Israel, in the region occupied by the tribe of Naphtali.</p></li><li><p>It was an important city and was attacked by enemies on several occasions.</p></li><li><p>Maacah was the name of several women, including the mother of David’s son Absalom.</p></li><li><p>King Asa removed his grandmother Maacah from being queen because she had promoted Asherah worship.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">Asa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_asherah\" data-resourceType=\"UWTranslationWords\">Asherah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26040\" data-resourceType=\"UWTranslationWords\">Nahor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">Naphtali</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H4601</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01022024",
+          "start_ref_usfm": "GEN 22:24",
+          "end_ref": "01022024",
+          "end_ref_usfm": "GEN 22:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25479,
+          "content_id": 26337,
+          "label": "Asa",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25483,
+          "content_id": 26341,
+          "label": "Asherim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26040,
+          "content_id": 26898,
+          "label": "Nahor",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 26900,
+          "label": "Naphtali",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 179729,
+    "reference_id": 25652,
+    "title": "हिरन",
+    "media_type": "Text",
+    "index_reference": "हिरन",
+    "language": "hin",
+    "content": "<h1>हिरन, हिरनी, हिरनियाँ, मृगनी, मृग, मृगों</h1><h2>परिभाषा:</h2><p>हिरन एक बड़ा चौपाया है जो सुन्दर होता है और जंगलों तथा पहाड़ों में रहता है। नर पशु के बड़े-बड़े सींग होते हैं।</p><ul><li><p>शब्द “हिरनी” मादा हिरन के सन्दर्भ में इस्तेमाल किया गया है, और हिरन के बच्चे “मृगनी” कहलाते हैं।</p></li><li><p>शब्द “हिरन” का सन्दर्भ नर हिरन से है।</p></li><li><p>हिरन की एक और प्रजाति है, छोटी हिरन।</p></li><li><p>हिरन के पांव पतले और बलवन्त होते है जिनके द्वारा वह कूदता है और तीव्र गति से भागता है।</p></li><li><p>उनके खुर चिरे होते हैं जिनकी सहायता से वे ऊंची जगहों पर चढ़ जाते हैं।</p></li></ul><p>(यह भी देखें: अपरिचित शब्दों का अनुवाद कैसे करे)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 22:34–35</a></p></li><li><p><a href=\"https://ref.ly/Gen49:19-Gen49:21\">उत्पत्ति 49:19–21</a></p></li><li><p><a href=\"https://ref.ly/Job39:1-Job39:2\">अय्यूब 39:1–2</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 018:33–34</a></p></li><li><p><a href=\"https://ref.ly/Song2:7\">श्रेष्ठगीत 02:7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H354, H355, H365, H3180, H3280, H6643, H6646</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049021",
+          "start_ref_usfm": "GEN 49:21",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        },
+        {
+          "start_ref": "10022034",
+          "start_ref_usfm": "2SA 22:34",
+          "end_ref": "10022034",
+          "end_ref_usfm": "2SA 22:34"
+        },
+        {
+          "start_ref": "18039002",
+          "start_ref_usfm": "JOB 39:2",
+          "end_ref": "18039002",
+          "end_ref_usfm": "JOB 39:2"
+        },
+        {
+          "start_ref": "19018033",
+          "start_ref_usfm": "PSA 18:33",
+          "end_ref": "19018033",
+          "end_ref_usfm": "PSA 18:33"
+        },
+        {
+          "start_ref": "20005019",
+          "start_ref_usfm": "PRO 5:19",
+          "end_ref": "20005019",
+          "end_ref_usfm": "PRO 5:19"
+        },
+        {
+          "start_ref": "22002007",
+          "start_ref_usfm": "SNG 2:7",
+          "end_ref": "22002007",
+          "end_ref_usfm": "SNG 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

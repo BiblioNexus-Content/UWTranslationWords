@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467387,
+    "reference_id": 26273,
+    "title": "Soufre",
+    "media_type": "Text",
+    "index_reference": "soufre",
+    "language": "fra",
+    "content": "<h1>soufre</h1><h2>Définition :</h2><p>Le terme &quot;soufre&quot; est le nom d&apos;une substance de couleur jaune appelée soufre qui devient un liquide brûlant quand il est chauffé sur le feu.</p><ul><li><p>Le soufre a aussi une odeur très forte qui est comme l&apos;odeur d&apos;œufs pourris.</p></li><li><p>Dans la Bible, la combustion du soufre est un symbole de jugement de Dieu sur les personnes impies et rebelles.</p></li><li><p>Dieu fit pleuvoir le feu et le soufre sur les villes du mal Sodome et Gomorrhe.</p></li><li><p>Dans certaines versions anglaises de la Bible, le soufre signifie littéralement «pierre brûlante*&quot;</p></li></ul><h2>traduction Suggestions</h2><p>les traductions possibles de ce terme pourraient inclure, &quot;pierre jaune qui brûle» ou «roche jaunâtre brûlante*&quot;</p><p>(Voir aussi : (../names/gomorrah.md), (../kt/judge.md), (../names/lot.md), (../other/rebel.md), (../names/sodom.md), (../kt/godly.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019024",
+          "start_ref_usfm": "GEN 19:24",
+          "end_ref": "01019024",
+          "end_ref_usfm": "GEN 19:24"
+        },
+        {
+          "start_ref": "23034009",
+          "start_ref_usfm": "ISA 34:9",
+          "end_ref": "23034009",
+          "end_ref_usfm": "ISA 34:9"
+        },
+        {
+          "start_ref": "42017029",
+          "start_ref_usfm": "LUK 17:29",
+          "end_ref": "42017029",
+          "end_ref_usfm": "LUK 17:29"
+        },
+        {
+          "start_ref": "66009017",
+          "start_ref_usfm": "REV 9:17",
+          "end_ref": "66009017",
+          "end_ref_usfm": "REV 9:17"
+        },
+        {
+          "start_ref": "66009018",
+          "start_ref_usfm": "REV 9:18",
+          "end_ref": "66009018",
+          "end_ref_usfm": "REV 9:18"
+        },
+        {
+          "start_ref": "66014010",
+          "start_ref_usfm": "REV 14:10",
+          "end_ref": "66014010",
+          "end_ref_usfm": "REV 14:10"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66021008",
+          "start_ref_usfm": "REV 21:8",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25789,
+          "content_id": 466938,
+          "label": "Pieux",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25794,
+          "content_id": 466943,
+          "label": "Gomorrhe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 467116,
+          "label": "Lot",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 467277,
+          "label": "Rebelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26248,
+          "content_id": 467363,
+          "label": "Sodome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

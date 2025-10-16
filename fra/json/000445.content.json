@@ -1,0 +1,377 @@
+[
+  {
+    "content_id": 467053,
+    "reference_id": 25908,
+    "title": "Job",
+    "media_type": "Text",
+    "index_reference": "job",
+    "language": "fra",
+    "content": "<h1>Job</h1><h2>Définition :</h2><p>&quot;Job était un homme que la Bible décrit comme intègre et juste devant Dieu* Il est surtout connu pour sa persévérance dans la foi en Dieu pendant les temps de terribles souffrances et de douleur.</p><ul><li><p>On pense que Job a vécu sur terre après l&apos;inondation du temps de Noé et avant l&apos;époque d&apos;Abraham.</p></li><li><p>Job avait probablement plus de deux cents ans quand il est mort.</p></li><li><p>Le livre de Job dans la Bible parle de la souffrance de Job en raison de nombreux événements catastrophiques dans sa vie* Il raconte aussi comment lui et d&apos;autres ont répondu à cette souffrance, ainsi que la perspective de Dieu en tant que Créateur souverain et maître de l&apos;univers.</p></li><li><p>Après toutes les catastrophes, Dieu a finalement rétabli Job et l&apos;a grandement béni avec la famille et la richesse.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../names/esau.md), (../other/flood.md), (../names/jacob.md)(../names/noah.md), (../other/peoplegroup.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18001001",
+          "start_ref_usfm": "JOB 1:1",
+          "end_ref": "18001001",
+          "end_ref_usfm": "JOB 1:1"
+        },
+        {
+          "start_ref": "18001005",
+          "start_ref_usfm": "JOB 1:5",
+          "end_ref": "18001005",
+          "end_ref_usfm": "JOB 1:5"
+        },
+        {
+          "start_ref": "18001008",
+          "start_ref_usfm": "JOB 1:8",
+          "end_ref": "18001008",
+          "end_ref_usfm": "JOB 1:8"
+        },
+        {
+          "start_ref": "18001009",
+          "start_ref_usfm": "JOB 1:9",
+          "end_ref": "18001009",
+          "end_ref_usfm": "JOB 1:9"
+        },
+        {
+          "start_ref": "18001014",
+          "start_ref_usfm": "JOB 1:14",
+          "end_ref": "18001014",
+          "end_ref_usfm": "JOB 1:14"
+        },
+        {
+          "start_ref": "18001020",
+          "start_ref_usfm": "JOB 1:20",
+          "end_ref": "18001020",
+          "end_ref_usfm": "JOB 1:20"
+        },
+        {
+          "start_ref": "18001022",
+          "start_ref_usfm": "JOB 1:22",
+          "end_ref": "18001022",
+          "end_ref_usfm": "JOB 1:22"
+        },
+        {
+          "start_ref": "18002003",
+          "start_ref_usfm": "JOB 2:3",
+          "end_ref": "18002003",
+          "end_ref_usfm": "JOB 2:3"
+        },
+        {
+          "start_ref": "18002007",
+          "start_ref_usfm": "JOB 2:7",
+          "end_ref": "18002007",
+          "end_ref_usfm": "JOB 2:7"
+        },
+        {
+          "start_ref": "18002010",
+          "start_ref_usfm": "JOB 2:10",
+          "end_ref": "18002010",
+          "end_ref_usfm": "JOB 2:10"
+        },
+        {
+          "start_ref": "18002011",
+          "start_ref_usfm": "JOB 2:11",
+          "end_ref": "18002011",
+          "end_ref_usfm": "JOB 2:11"
+        },
+        {
+          "start_ref": "18003001",
+          "start_ref_usfm": "JOB 3:1",
+          "end_ref": "18003001",
+          "end_ref_usfm": "JOB 3:1"
+        },
+        {
+          "start_ref": "18003002",
+          "start_ref_usfm": "JOB 3:2",
+          "end_ref": "18003002",
+          "end_ref_usfm": "JOB 3:2"
+        },
+        {
+          "start_ref": "18003005",
+          "start_ref_usfm": "JOB 3:5",
+          "end_ref": "18003005",
+          "end_ref_usfm": "JOB 3:5"
+        },
+        {
+          "start_ref": "18006001",
+          "start_ref_usfm": "JOB 6:1",
+          "end_ref": "18006001",
+          "end_ref_usfm": "JOB 6:1"
+        },
+        {
+          "start_ref": "18009001",
+          "start_ref_usfm": "JOB 9:1",
+          "end_ref": "18009001",
+          "end_ref_usfm": "JOB 9:1"
+        },
+        {
+          "start_ref": "18012001",
+          "start_ref_usfm": "JOB 12:1",
+          "end_ref": "18012001",
+          "end_ref_usfm": "JOB 12:1"
+        },
+        {
+          "start_ref": "18016001",
+          "start_ref_usfm": "JOB 16:1",
+          "end_ref": "18016001",
+          "end_ref_usfm": "JOB 16:1"
+        },
+        {
+          "start_ref": "18019001",
+          "start_ref_usfm": "JOB 19:1",
+          "end_ref": "18019001",
+          "end_ref_usfm": "JOB 19:1"
+        },
+        {
+          "start_ref": "18021001",
+          "start_ref_usfm": "JOB 21:1",
+          "end_ref": "18021001",
+          "end_ref_usfm": "JOB 21:1"
+        },
+        {
+          "start_ref": "18023001",
+          "start_ref_usfm": "JOB 23:1",
+          "end_ref": "18023001",
+          "end_ref_usfm": "JOB 23:1"
+        },
+        {
+          "start_ref": "18026001",
+          "start_ref_usfm": "JOB 26:1",
+          "end_ref": "18026001",
+          "end_ref_usfm": "JOB 26:1"
+        },
+        {
+          "start_ref": "18027001",
+          "start_ref_usfm": "JOB 27:1",
+          "end_ref": "18027001",
+          "end_ref_usfm": "JOB 27:1"
+        },
+        {
+          "start_ref": "18029001",
+          "start_ref_usfm": "JOB 29:1",
+          "end_ref": "18029001",
+          "end_ref_usfm": "JOB 29:1"
+        },
+        {
+          "start_ref": "18031040",
+          "start_ref_usfm": "JOB 31:40",
+          "end_ref": "18031040",
+          "end_ref_usfm": "JOB 31:40"
+        },
+        {
+          "start_ref": "18032001",
+          "start_ref_usfm": "JOB 32:1",
+          "end_ref": "18032001",
+          "end_ref_usfm": "JOB 32:1"
+        },
+        {
+          "start_ref": "18032002",
+          "start_ref_usfm": "JOB 32:2",
+          "end_ref": "18032002",
+          "end_ref_usfm": "JOB 32:2"
+        },
+        {
+          "start_ref": "18032003",
+          "start_ref_usfm": "JOB 32:3",
+          "end_ref": "18032003",
+          "end_ref_usfm": "JOB 32:3"
+        },
+        {
+          "start_ref": "18032004",
+          "start_ref_usfm": "JOB 32:4",
+          "end_ref": "18032004",
+          "end_ref_usfm": "JOB 32:4"
+        },
+        {
+          "start_ref": "18032012",
+          "start_ref_usfm": "JOB 32:12",
+          "end_ref": "18032012",
+          "end_ref_usfm": "JOB 32:12"
+        },
+        {
+          "start_ref": "18033001",
+          "start_ref_usfm": "JOB 33:1",
+          "end_ref": "18033001",
+          "end_ref_usfm": "JOB 33:1"
+        },
+        {
+          "start_ref": "18033031",
+          "start_ref_usfm": "JOB 33:31",
+          "end_ref": "18033031",
+          "end_ref_usfm": "JOB 33:31"
+        },
+        {
+          "start_ref": "18034005",
+          "start_ref_usfm": "JOB 34:5",
+          "end_ref": "18034005",
+          "end_ref_usfm": "JOB 34:5"
+        },
+        {
+          "start_ref": "18034007",
+          "start_ref_usfm": "JOB 34:7",
+          "end_ref": "18034007",
+          "end_ref_usfm": "JOB 34:7"
+        },
+        {
+          "start_ref": "18034035",
+          "start_ref_usfm": "JOB 34:35",
+          "end_ref": "18034035",
+          "end_ref_usfm": "JOB 34:35"
+        },
+        {
+          "start_ref": "18034036",
+          "start_ref_usfm": "JOB 34:36",
+          "end_ref": "18034036",
+          "end_ref_usfm": "JOB 34:36"
+        },
+        {
+          "start_ref": "18035016",
+          "start_ref_usfm": "JOB 35:16",
+          "end_ref": "18035016",
+          "end_ref_usfm": "JOB 35:16"
+        },
+        {
+          "start_ref": "18037014",
+          "start_ref_usfm": "JOB 37:14",
+          "end_ref": "18037014",
+          "end_ref_usfm": "JOB 37:14"
+        },
+        {
+          "start_ref": "18038001",
+          "start_ref_usfm": "JOB 38:1",
+          "end_ref": "18038001",
+          "end_ref_usfm": "JOB 38:1"
+        },
+        {
+          "start_ref": "18040001",
+          "start_ref_usfm": "JOB 40:1",
+          "end_ref": "18040001",
+          "end_ref_usfm": "JOB 40:1"
+        },
+        {
+          "start_ref": "18040003",
+          "start_ref_usfm": "JOB 40:3",
+          "end_ref": "18040003",
+          "end_ref_usfm": "JOB 40:3"
+        },
+        {
+          "start_ref": "18040006",
+          "start_ref_usfm": "JOB 40:6",
+          "end_ref": "18040006",
+          "end_ref_usfm": "JOB 40:6"
+        },
+        {
+          "start_ref": "18042001",
+          "start_ref_usfm": "JOB 42:1",
+          "end_ref": "18042001",
+          "end_ref_usfm": "JOB 42:1"
+        },
+        {
+          "start_ref": "18042007",
+          "start_ref_usfm": "JOB 42:7",
+          "end_ref": "18042007",
+          "end_ref_usfm": "JOB 42:7"
+        },
+        {
+          "start_ref": "18042008",
+          "start_ref_usfm": "JOB 42:8",
+          "end_ref": "18042008",
+          "end_ref_usfm": "JOB 42:8"
+        },
+        {
+          "start_ref": "18042009",
+          "start_ref_usfm": "JOB 42:9",
+          "end_ref": "18042009",
+          "end_ref_usfm": "JOB 42:9"
+        },
+        {
+          "start_ref": "18042010",
+          "start_ref_usfm": "JOB 42:10",
+          "end_ref": "18042010",
+          "end_ref_usfm": "JOB 42:10"
+        },
+        {
+          "start_ref": "18042012",
+          "start_ref_usfm": "JOB 42:12",
+          "end_ref": "18042012",
+          "end_ref_usfm": "JOB 42:12"
+        },
+        {
+          "start_ref": "18042015",
+          "start_ref_usfm": "JOB 42:15",
+          "end_ref": "18042015",
+          "end_ref_usfm": "JOB 42:15"
+        },
+        {
+          "start_ref": "18042016",
+          "start_ref_usfm": "JOB 42:16",
+          "end_ref": "18042016",
+          "end_ref_usfm": "JOB 42:16"
+        },
+        {
+          "start_ref": "18042017",
+          "start_ref_usfm": "JOB 42:17",
+          "end_ref": "18042017",
+          "end_ref_usfm": "JOB 42:17"
+        },
+        {
+          "start_ref": "59005011",
+          "start_ref_usfm": "JAS 5:11",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        },
+        {
+          "start_ref": "26014012",
+          "start_ref_usfm": "EZK 14:12",
+          "end_ref": "26014014",
+          "end_ref_usfm": "EZK 14:14"
+        },
+        {
+          "start_ref": "59005009",
+          "start_ref_usfm": "JAS 5:9",
+          "end_ref": "59005011",
+          "end_ref_usfm": "JAS 5:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 466898,
+          "label": "Inondation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26083,
+          "content_id": 467210,
+          "label": "Groupe de personnes",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

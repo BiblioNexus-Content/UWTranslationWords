@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179873,
+    "reference_id": 25802,
+    "title": "अन्नबलि",
+    "media_type": "Text",
+    "index_reference": "अन्नबलि",
+    "language": "hin",
+    "content": "<h1>अन्नबलि, अन्नबलियों</h1><h2>परिभाषा:</h2><p>अन्नबलि परमेश्वर को चढ़ाई जानेवाली गेहूं या जौ के आटे की भेंट थी जो प्रायः होमबलि के बाद चढ़ाई जाती थी।</p><ul><li><p>अन्नबलि के लिए काम में लिया गया अन्न बारीक पिसा हुआ होना था। कभी-कभी उसे पका कर भी भेंट चढ़ाई जाती थी और कभी कच्चा भी चढ़ाया जाता था।</p></li><li><p>अन्न के आटे में तेल और नमक मिलाया जाता था परन्तु खमीर और शहद वर्जित था।</p></li><li><p>अन्नबलि का एक अंश जला दिया जाता था शेष याजक खाता था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">होमबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25807\" data-resourceType=\"UWTranslationWords\">दोषबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलिदान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26242\" data-resourceType=\"UWTranslationWords\">पाप बलि</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 23:27–29</a></p></li><li><p><a href=\"https://ref.ly/Exod29:41-Exod29:42\">निर्गमन 29:41–42</a></p></li><li><p><a href=\"https://ref.ly/Judg13:19\">न्यायियों 13:19</a></p></li><li><p><a href=\"https://ref.ly/Lev2:2\">लैव्यव्यवस्था 2:2</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H4503, H8641</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "02040029",
+          "start_ref_usfm": "EXO 40:29",
+          "end_ref": "02040029",
+          "end_ref_usfm": "EXO 40:29"
+        },
+        {
+          "start_ref": "03002002",
+          "start_ref_usfm": "LEV 2:2",
+          "end_ref": "03002002",
+          "end_ref_usfm": "LEV 2:2"
+        },
+        {
+          "start_ref": "07013019",
+          "start_ref_usfm": "JDG 13:19",
+          "end_ref": "07013019",
+          "end_ref_usfm": "JDG 13:19"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "13023027",
+          "start_ref_usfm": "1CH 23:27",
+          "end_ref": "13023029",
+          "end_ref_usfm": "1CH 23:29"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029042",
+          "end_ref_usfm": "EXO 29:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 179642,
+          "label": "होमबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 179878,
+          "label": "दोषबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 180296,
+          "label": "पापबलि",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

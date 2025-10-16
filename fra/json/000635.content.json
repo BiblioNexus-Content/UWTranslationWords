@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 466897,
+    "reference_id": 25744,
+    "title": "Pêcheurs",
+    "media_type": "Text",
+    "index_reference": "pêcheurs",
+    "language": "fra",
+    "content": "<h1>pêcheurs, pêcheurs</h1><h2>Définition :</h2><p>&quot;Les pêcheurs sont des hommes qui capturent les poissons dans l&apos;eau et cela est pour eux comme un moyen de gagner de l&apos;argent* Dans le Nouveau Testament, les pêcheurs utilisaient des filets pour attraper des poissons.</p><ul><li><p>Pierre et les autres apôtres travaillaient comme pêcheurs avant d&apos;être appelés par Jésus.</p></li><li><p>Comme la terre d&apos;Israël était proche de l&apos;eau, la Bible a de nombreuses références aux poissons et aux pêcheurs.</p></li><li><p>Ce terme pourrait se traduire par une phrase telle que «les hommes qui capturent les poissons» ou «les hommes qui gagnent de l&apos;argent par la capture du poisson*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23019008",
+          "start_ref_usfm": "ISA 19:8",
+          "end_ref": "23019008",
+          "end_ref_usfm": "ISA 19:8"
+        },
+        {
+          "start_ref": "40004018",
+          "start_ref_usfm": "MAT 4:18",
+          "end_ref": "40004018",
+          "end_ref_usfm": "MAT 4:18"
+        },
+        {
+          "start_ref": "40004019",
+          "start_ref_usfm": "MAT 4:19",
+          "end_ref": "40004019",
+          "end_ref_usfm": "MAT 4:19"
+        },
+        {
+          "start_ref": "40013047",
+          "start_ref_usfm": "MAT 13:47",
+          "end_ref": "40013047",
+          "end_ref_usfm": "MAT 13:47"
+        },
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        },
+        {
+          "start_ref": "41001017",
+          "start_ref_usfm": "MRK 1:17",
+          "end_ref": "41001017",
+          "end_ref_usfm": "MRK 1:17"
+        },
+        {
+          "start_ref": "42005002",
+          "start_ref_usfm": "LUK 5:2",
+          "end_ref": "42005002",
+          "end_ref_usfm": "LUK 5:2"
+        },
+        {
+          "start_ref": "26047009",
+          "start_ref_usfm": "EZK 47:9",
+          "end_ref": "26047010",
+          "end_ref_usfm": "EZK 47:10"
+        },
+        {
+          "start_ref": "42005001",
+          "start_ref_usfm": "LUK 5:1",
+          "end_ref": "42005003",
+          "end_ref_usfm": "LUK 5:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

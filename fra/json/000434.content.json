@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467041,
+    "reference_id": 25896,
+    "title": "Jéricho",
+    "media_type": "Text",
+    "index_reference": "jéricho",
+    "language": "fra",
+    "content": "<h1>Jéricho</h1><h2>Définition :</h2><p>Jéricho était une ville puissante dans le pays de Canaan. Elle était située juste à l&apos;ouest du Jourdain et au nord de la mer Morte.</p><ul><li><p>Ce fut la première ville dans le pays de Canaan que Dieu a ordonné aux Israélites de conquérir.</p></li><li><p>Comme tous les Cananéens, le peuple de Jéricho adorait de faux dieux.</p></li><li><p>Lorsque Josué a commandé les Israélites contre la ville de Jéricho, Dieu a fait un grand miracle pour les aider à vaincre la cité.</p></li></ul><p>(Voir aussi : (../names/canaan.md), (../names/jordanriver.md), (../names/joshua.md), (../kt/miracle.md), (../names/saltsea.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022001",
+          "start_ref_usfm": "NUM 22:1",
+          "end_ref": "04022001",
+          "end_ref_usfm": "NUM 22:1"
+        },
+        {
+          "start_ref": "13006078",
+          "start_ref_usfm": "1CH 6:78",
+          "end_ref": "13006078",
+          "end_ref_usfm": "1CH 6:78"
+        },
+        {
+          "start_ref": "15002034",
+          "start_ref_usfm": "EZR 2:34",
+          "end_ref": "15002034",
+          "end_ref_usfm": "EZR 2:34"
+        },
+        {
+          "start_ref": "16003002",
+          "start_ref_usfm": "NEH 3:2",
+          "end_ref": "16003002",
+          "end_ref_usfm": "NEH 3:2"
+        },
+        {
+          "start_ref": "16007036",
+          "start_ref_usfm": "NEH 7:36",
+          "end_ref": "16007036",
+          "end_ref_usfm": "NEH 7:36"
+        },
+        {
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020029",
+          "end_ref_usfm": "MAT 20:29"
+        },
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010046",
+          "end_ref_usfm": "MRK 10:46"
+        },
+        {
+          "start_ref": "42010030",
+          "start_ref_usfm": "LUK 10:30",
+          "end_ref": "42010030",
+          "end_ref_usfm": "LUK 10:30"
+        },
+        {
+          "start_ref": "42018035",
+          "start_ref_usfm": "LUK 18:35",
+          "end_ref": "42018035",
+          "end_ref_usfm": "LUK 18:35"
+        },
+        {
+          "start_ref": "42019001",
+          "start_ref_usfm": "LUK 19:1",
+          "end_ref": "42019001",
+          "end_ref_usfm": "LUK 19:1"
+        },
+        {
+          "start_ref": "58011030",
+          "start_ref_usfm": "HEB 11:30",
+          "end_ref": "58011030",
+          "end_ref_usfm": "HEB 11:30"
+        },
+        {
+          "start_ref": "41010046",
+          "start_ref_usfm": "MRK 10:46",
+          "end_ref": "41010048",
+          "end_ref_usfm": "MRK 10:48"
+        },
+        {
+          "start_ref": "06002001",
+          "start_ref_usfm": "JOS 2:1",
+          "end_ref": "06002003",
+          "end_ref_usfm": "JOS 2:3"
+        },
+        {
+          "start_ref": "06007002",
+          "start_ref_usfm": "JOS 7:2",
+          "end_ref": "06007003",
+          "end_ref_usfm": "JOS 7:3"
+        },
+        {
+          "start_ref": "40020029",
+          "start_ref_usfm": "MAT 20:29",
+          "end_ref": "40020031",
+          "end_ref_usfm": "MAT 20:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 467065,
+          "label": "Josué",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26022,
+          "content_id": 467159,
+          "label": "Miracle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

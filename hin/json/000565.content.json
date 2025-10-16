@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179599,
+    "reference_id": 25511,
+    "title": "बतशेबा",
+    "media_type": "Text",
+    "index_reference": "बतशेबा",
+    "language": "hin",
+    "content": "<h1>बतशेबा</h1><h2>तथ्य:</h2><p>“बतशेबा” दाऊद के एक सैनिक ऊरिय्याह की पत्नी थी। ऊरिय्याह के मरने के बाद वह दाऊद की पत्नी बन गई थी, वही राजा सुलैमान की माता थी।</p><ul><li><p>दाऊद ने बतशेबा के साथ व्यभिचार किया जबकि वह ऊरिय्याह की पत्नी थी।</p></li><li><p>जब बतशेबा दाऊद से गर्भवती हो गई तब दाऊद ने ऊरिय्याह को युद्ध में आगे भेजकर मरवा दिया।</p></li><li><p>उसके बाद दाऊद ने बतशेबा से विवाह किया और उनके पुत्र का जन्म हुआ।</p></li><li><p>परमेश्वर ने दाऊद को उसके पाप के लिए उसके जन्म के कई दिनों बाद बच्चे को मार कर दण्डित किया।</p></li><li><p>बाद में, बतशेबा ने एक और पुत्र सुलैमान को जन्म दिया, जो बड़ा होकर दाऊद के बाद राजा बना।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>. <span data-bnType=\"resourceReference\" data-resourceId=\"26330\" data-resourceType=\"UWTranslationWords\">ऊरिय्याह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 3:4–5</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 1:11</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 11:3</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन 51:1–2</a></p></li></ul><h2>बाइबल कहानियों से उदाहरण:</h2><ul><li><p><strong>17:10</strong> एक दिन, जब दाऊद के सब सैनिक राज्य से दूर युद्ध करने के लिए गए हुए थे, उसने अपने महल से बाहर देखा, तो उसे एक स्त्री जो अति सुन्दर थी नहाती हुई दिखाई पड़ी। उसका नाम <strong>बतशेबा</strong> था।</p></li><li><p><strong>17:11</strong> कुछ समय बाद <strong>बतशेबा</strong> ने दाऊद के पास कहला भेजा कि वह गर्भवती है |</p></li><li><p><strong>17:12</strong> <strong>बतशेबा</strong> का पति, जिसका नाम ऊरिय्याह था, वह दाऊद का एक वीर सैनिक था।</p></li><li><p><strong>17:13</strong> ऊरिय्याह के मरने के बाद, दाऊद ने <strong>बतशेबा</strong> से विवाह कर लिया।</p></li><li><p><strong>17:14</strong> उसके बाद, दाऊद और <strong>बतशेबा</strong> के एक और पुत्र हुआ, और उन्होंने उसका नाम सुलैमान रखा।</p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1339</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10011003",
+          "start_ref_usfm": "2SA 11:3",
+          "end_ref": "10011003",
+          "end_ref_usfm": "2SA 11:3"
+        },
+        {
+          "start_ref": "11001011",
+          "start_ref_usfm": "1KI 1:11",
+          "end_ref": "11001011",
+          "end_ref_usfm": "1KI 1:11"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051002",
+          "end_ref_usfm": "PSA 51:2"
+        },
+        {
+          "start_ref": "13003004",
+          "start_ref_usfm": "1CH 3:4",
+          "end_ref": "13003005",
+          "end_ref_usfm": "1CH 3:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26330,
+          "content_id": 180383,
+          "label": "ऊरिय्याह",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

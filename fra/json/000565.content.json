@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467150,
+    "reference_id": 26013,
+    "title": "Meshech",
+    "media_type": "Text",
+    "index_reference": "meshech",
+    "language": "fra",
+    "content": "<h1>Meshech</h1><h2>Définition :</h2><p>&quot;Meshech est le nom d&apos;un fils du fils de Noé Japhet* Une autre personne nommée Meshech était un petit-fils du fils de Noé Shem.</p><ul><li><p>la Bible mentionne une région de terre appelée Meshech* Il est probable que cette terre a été nommé d&apos;après le nom de l&apos;un de ces hommes qui ont ce nom.</p></li><li><p>Quelques façons de rendre clair que ce nom fait référence à différentes choses serait de dire (selon le contexte approprié), &quot;la région appelée Meshech» ou «un autre homme nommé Meshech*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/japheth.md), (../names/noah.md), (../names/shem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010023",
+          "start_ref_usfm": "GEN 10:23",
+          "end_ref": "01010023",
+          "end_ref_usfm": "GEN 10:23"
+        },
+        {
+          "start_ref": "19120005",
+          "start_ref_usfm": "PSA 120:5",
+          "end_ref": "19120005",
+          "end_ref_usfm": "PSA 120:5"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "13001005",
+          "start_ref_usfm": "1CH 1:5",
+          "end_ref": "13001007",
+          "end_ref_usfm": "1CH 1:7"
+        },
+        {
+          "start_ref": "26027012",
+          "start_ref_usfm": "EZK 27:12",
+          "end_ref": "26027013",
+          "end_ref_usfm": "EZK 27:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25885,
+          "content_id": 467030,
+          "label": "Japhet",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 467341,
+          "label": "Sem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

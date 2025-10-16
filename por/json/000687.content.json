@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 238208,
+    "reference_id": 26078,
+    "title": "Patriarcas",
+    "media_type": "Text",
+    "index_reference": "patriarcas",
+    "language": "por",
+    "content": "<h1>patriarca</h1><h2>Definição:</h2><p>O termo “patriarca” na Bíblia refere-se a alguém que foi um ancestral fundador do povo judeu, particularmente Abraão, Isaque ou Jacó.</p><ul><li><p>Também pode se referir aos doze filhos de Jacó que se tornaram os doze patriarcas das doze tribos de Israel.</p></li><li><p>O termo “patriarca” tem um significado semelhante a “antepassado”, mas refere-se mais especificamente aos líderes ancestrais masculinos mais conhecidos de um grupo de pessoas.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:29-Acts2:31\">Atos 2.29–31</a></p></li><li><p><a href=\"https://ref.ly/Acts7:6-Acts7:8\">Atos 7.6–8</a></p></li><li><p><a href=\"https://ref.ly/Acts7:9\">Atos 7.9</a></p></li><li><p><a href=\"https://ref.ly/Ezra3:12-Ezra3:13\">Esdras 3.12–13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0001, H7218, G39660</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002029",
+          "end_ref_usfm": "ACT 2:29"
+        },
+        {
+          "start_ref": "44007008",
+          "start_ref_usfm": "ACT 7:8",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "44007009",
+          "start_ref_usfm": "ACT 7:9",
+          "end_ref": "44007009",
+          "end_ref_usfm": "ACT 7:9"
+        },
+        {
+          "start_ref": "45009005",
+          "start_ref_usfm": "ROM 9:5",
+          "end_ref": "45009005",
+          "end_ref_usfm": "ROM 9:5"
+        },
+        {
+          "start_ref": "45011028",
+          "start_ref_usfm": "ROM 11:28",
+          "end_ref": "45011028",
+          "end_ref_usfm": "ROM 11:28"
+        },
+        {
+          "start_ref": "45015008",
+          "start_ref_usfm": "ROM 15:8",
+          "end_ref": "45015008",
+          "end_ref_usfm": "ROM 15:8"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007004",
+          "end_ref_usfm": "HEB 7:4"
+        },
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "44007006",
+          "start_ref_usfm": "ACT 7:6",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "15003012",
+          "start_ref_usfm": "EZR 3:12",
+          "end_ref": "15003013",
+          "end_ref_usfm": "EZR 3:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

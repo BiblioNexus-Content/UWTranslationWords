@@ -1,0 +1,136 @@
+[
+  {
+    "content_id": 27055,
+    "reference_id": 26197,
+    "title": "Sandal",
+    "media_type": "Text",
+    "index_reference": "sandal",
+    "language": "eng",
+    "content": "<h1>sandal</h1><h2>Definition:</h2><p>A sandal is a simple shoe with a flat sole that is held onto the foot by straps that go around the foot or ankle. Sandals are worn by both men and women.</p><ul><li><p>In ancient Israel, a sandal was sometimes used to confirm a legal transaction, such as the selling of property. One person would take off a sandal and give it to the other person to show that the transaction was legal and binding.</p></li><li><p>John said that he was not worthy to even untie Jesus’ sandals, which was a normal task for the servant or slave with the lowest status in a Jewish household.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:33\">Acts 7:33</a></p></li><li><p><a href=\"https://ref.ly/Deut25:10\">Deuteronomy 25:10</a></p></li><li><p><a href=\"https://ref.ly/John1:27\">John 1:27</a></p></li><li><p><a href=\"https://ref.ly/Josh5:15\">Joshua 5:15</a></p></li><li><p><a href=\"https://ref.ly/Mark6:7-Mark6:9\">Mark 6:7–9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5274, H5275, H8288, G45470, G52660</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014023",
+          "start_ref_usfm": "GEN 14:23",
+          "end_ref": "01014023",
+          "end_ref_usfm": "GEN 14:23"
+        },
+        {
+          "start_ref": "02003005",
+          "start_ref_usfm": "EXO 3:5",
+          "end_ref": "02003005",
+          "end_ref_usfm": "EXO 3:5"
+        },
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "05025010",
+          "start_ref_usfm": "DEU 25:10",
+          "end_ref": "05025010",
+          "end_ref_usfm": "DEU 25:10"
+        },
+        {
+          "start_ref": "06005015",
+          "start_ref_usfm": "JOS 5:15",
+          "end_ref": "06005015",
+          "end_ref_usfm": "JOS 5:15"
+        },
+        {
+          "start_ref": "08004007",
+          "start_ref_usfm": "RUT 4:7",
+          "end_ref": "08004007",
+          "end_ref_usfm": "RUT 4:7"
+        },
+        {
+          "start_ref": "08004008",
+          "start_ref_usfm": "RUT 4:8",
+          "end_ref": "08004008",
+          "end_ref_usfm": "RUT 4:8"
+        },
+        {
+          "start_ref": "40003011",
+          "start_ref_usfm": "MAT 3:11",
+          "end_ref": "40003011",
+          "end_ref_usfm": "MAT 3:11"
+        },
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "41001007",
+          "start_ref_usfm": "MRK 1:7",
+          "end_ref": "41001007",
+          "end_ref_usfm": "MRK 1:7"
+        },
+        {
+          "start_ref": "41006009",
+          "start_ref_usfm": "MRK 6:9",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        },
+        {
+          "start_ref": "42003016",
+          "start_ref_usfm": "LUK 3:16",
+          "end_ref": "42003016",
+          "end_ref_usfm": "LUK 3:16"
+        },
+        {
+          "start_ref": "42010004",
+          "start_ref_usfm": "LUK 10:4",
+          "end_ref": "42010004",
+          "end_ref_usfm": "LUK 10:4"
+        },
+        {
+          "start_ref": "42015022",
+          "start_ref_usfm": "LUK 15:22",
+          "end_ref": "42015022",
+          "end_ref_usfm": "LUK 15:22"
+        },
+        {
+          "start_ref": "42022035",
+          "start_ref_usfm": "LUK 22:35",
+          "end_ref": "42022035",
+          "end_ref_usfm": "LUK 22:35"
+        },
+        {
+          "start_ref": "43001027",
+          "start_ref_usfm": "JHN 1:27",
+          "end_ref": "43001027",
+          "end_ref_usfm": "JHN 1:27"
+        },
+        {
+          "start_ref": "44007033",
+          "start_ref_usfm": "ACT 7:33",
+          "end_ref": "44007033",
+          "end_ref_usfm": "ACT 7:33"
+        },
+        {
+          "start_ref": "44012008",
+          "start_ref_usfm": "ACT 12:8",
+          "end_ref": "44012008",
+          "end_ref_usfm": "ACT 12:8"
+        },
+        {
+          "start_ref": "44013025",
+          "start_ref_usfm": "ACT 13:25",
+          "end_ref": "44013025",
+          "end_ref_usfm": "ACT 13:25"
+        },
+        {
+          "start_ref": "41006007",
+          "start_ref_usfm": "MRK 6:7",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "content_id": 466966,
+    "reference_id": 25817,
+    "title": "Pendre",
+    "media_type": "Text",
+    "index_reference": "pendre",
+    "language": "fra",
+    "content": "<h1>pendre</h1><h2>Définition :</h2><p>Le terme &quot;pendre&quot; signifie accrocher quelque chose ou suspendre quelque chose ou quelqu&apos;un au-dessus du sol.</p><ul><li><p>La mort par pendaison est habituellement faite en utilisant un noeud coulant de corde qui est attachée autour du cou d&apos;une personne et suspendu à partir d&apos;un objet élevé, comme une branche d&apos;arbre* Judas se suicida par pendaison.</p></li><li><p>la mort de Jésus par pendaison sur une croix en bois a été fait différemment: les soldats l&apos;ont suspendu en clouant ses mains (ou les poignets) et ses pieds à la croix.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040019",
+          "start_ref_usfm": "GEN 40:19",
+          "end_ref": "01040019",
+          "end_ref_usfm": "GEN 40:19"
+        },
+        {
+          "start_ref": "01040022",
+          "start_ref_usfm": "GEN 40:22",
+          "end_ref": "01040022",
+          "end_ref_usfm": "GEN 40:22"
+        },
+        {
+          "start_ref": "01041013",
+          "start_ref_usfm": "GEN 41:13",
+          "end_ref": "01041013",
+          "end_ref_usfm": "GEN 41:13"
+        },
+        {
+          "start_ref": "10017023",
+          "start_ref_usfm": "2SA 17:23",
+          "end_ref": "10017023",
+          "end_ref_usfm": "2SA 17:23"
+        },
+        {
+          "start_ref": "15006011",
+          "start_ref_usfm": "EZR 6:11",
+          "end_ref": "15006011",
+          "end_ref_usfm": "EZR 6:11"
+        },
+        {
+          "start_ref": "18026007",
+          "start_ref_usfm": "JOB 26:7",
+          "end_ref": "18026007",
+          "end_ref_usfm": "JOB 26:7"
+        },
+        {
+          "start_ref": "22004004",
+          "start_ref_usfm": "SNG 4:4",
+          "end_ref": "22004004",
+          "end_ref_usfm": "SNG 4:4"
+        },
+        {
+          "start_ref": "40027005",
+          "start_ref_usfm": "MAT 27:5",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        },
+        {
+          "start_ref": "44010039",
+          "start_ref_usfm": "ACT 10:39",
+          "end_ref": "44010039",
+          "end_ref_usfm": "ACT 10:39"
+        },
+        {
+          "start_ref": "48003013",
+          "start_ref_usfm": "GAL 3:13",
+          "end_ref": "48003013",
+          "end_ref_usfm": "GAL 3:13"
+        },
+        {
+          "start_ref": "40027003",
+          "start_ref_usfm": "MAT 27:3",
+          "end_ref": "40027005",
+          "end_ref_usfm": "MAT 27:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

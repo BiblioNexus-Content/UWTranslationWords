@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237960,
+    "reference_id": 25827,
+    "title": "Hebrom",
+    "media_type": "Text",
+    "index_reference": "hebrom",
+    "language": "por",
+    "content": "<h1>Hebrom, Quiriate-Arba</h1><h2>Fatos:</h2><p>Hebrom era uma cidade localizada nas altas colinas rochosas, cerca de 20 milhas ao sul de Jerusalém.</p><ul><li><p>A cidade foi construída por volta de 2000 a.C. durante o tempo de Abrão. Foi mencionada muitas vezes nos relatos históricos dados no Antigo Testamento.</p></li><li><p>Hebrom teve um papel muito importante na vida do Rei Davi. Vários de seus filhos, incluindo Absalão, nasceram lá.</p></li><li><p>A cidade foi destruída por volta de 70 d.C. pelos romanos.</p></li><li><p>A cidade de Hebrom era anteriormente chamada Quiriate-Arba (veja Josué 14.15 e Josué 15.54).</p></li><li><p>A cidade de Hebrom, anteriormente chamada Quiriate-Arba, provavelmente foi fundada por Arba, o pai de Anaque e pode ter sido originalmente nomeada Quiriate-Arba para honrar Arba porque Josué 14.15 registra que Arba “<span>havia sido o maior dos anaquins</span>”.</p></li><li><p>O nome “Hebrom” é uma transliteração em português da palavra hebraica para Hebrom.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25457\" data-resourceType=\"UWTranslationWords\">Anaque</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">Absalão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Sam2:10-2Sam2:11\">2 Samuel 2.10–11</a></p></li><li><p><a href=\"https://ref.ly/Gen13:18\">Gênesis 13.18</a></p></li><li><p><a href=\"https://ref.ly/Gen23:1-Gen23:2\">Gênesis 23.1–2</a></p></li><li><p><a href=\"https://ref.ly/Gen35:27\">Gênesis 35.27</a></p></li><li><p><a href=\"https://ref.ly/Gen37:12-Gen37:14\">Gênesis 37.12–14</a></p></li><li><p><a href=\"https://ref.ly/Judg1:10\">Juízes 1.10</a></p></li><li><p><a href=\"https://ref.ly/Num13:22\">Números 13.22</a></p></li></ul><h2>Dados de Palavras:</h2><ul><li><p>Strong’s: H2275, H2276</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01023002",
+          "start_ref_usfm": "GEN 23:2",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01023019",
+          "start_ref_usfm": "GEN 23:19",
+          "end_ref": "01023019",
+          "end_ref_usfm": "GEN 23:19"
+        },
+        {
+          "start_ref": "01035027",
+          "start_ref_usfm": "GEN 35:27",
+          "end_ref": "01035027",
+          "end_ref_usfm": "GEN 35:27"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "04013022",
+          "start_ref_usfm": "NUM 13:22",
+          "end_ref": "04013022",
+          "end_ref_usfm": "NUM 13:22"
+        },
+        {
+          "start_ref": "07001010",
+          "start_ref_usfm": "JDG 1:10",
+          "end_ref": "07001010",
+          "end_ref_usfm": "JDG 1:10"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "10002010",
+          "start_ref_usfm": "2SA 2:10",
+          "end_ref": "10002011",
+          "end_ref_usfm": "2SA 2:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 237563,
+          "label": "Absalão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25457,
+          "content_id": 237595,
+          "label": "Anaque",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

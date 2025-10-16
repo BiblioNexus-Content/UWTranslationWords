@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238489,
+    "reference_id": 26363,
+    "title": "Jugo",
+    "media_type": "Text",
+    "index_reference": "jugo",
+    "language": "por",
+    "content": "<h1>jugo, jugado, amarrado</h1><h2>Definição:</h2><p>Um jugo é um pedaço de madeira ou metal preso a dois ou mais animais para conectá-los com o propósito de puxar um arado ou um carro. Existem também alguns sentidos figurativos para este termo.</p><ul><li><p>O termo “jugo” é usado figurativamente para se referir a algo que une as pessoas com o propósito de trabalhar juntas, como no serviço a Jesus.</p></li><li><p>Paulo usou o termo “companheiro de jugo” para se referir a alguém que estava servindo a Cristo como ele. Isso também poderia ser traduzido como “companheiro de trabalho”, “companheiro de serviço” ou “colaborador”.</p></li><li><p>O termo “jugo” também é frequentemente usado figurativamente para se referir a uma carga pesada que alguém tem que carregar, como quando está sendo oprimido pela escravidão ou perseguição.</p></li><li><p>Na maioria dos contextos, é melhor traduzir este termo literalmente, usando o termo local para um jugo que é usado na agricultura.</p></li><li><p>Outras maneiras de traduzir o uso figurativo deste termo poderiam ser, “fardo opressivo”, “carga pesada” ou “vínculo”, dependendo do contexto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_bind\" data-resourceType=\"UWTranslationWords\">amarrar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25512\" data-resourceType=\"UWTranslationWords\">fardo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_oppress\" data-resourceType=\"UWTranslationWords\">oprimir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26089\" data-resourceType=\"UWTranslationWords\">perseguir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26217\" data-resourceType=\"UWTranslationWords\">servo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts15:10\">Atos 15.10</a></p></li><li><p><a href=\"https://ref.ly/Gal5:1\">Gálatas 5.1</a></p></li><li><p><a href=\"https://ref.ly/Gen27:40\">Gênesis 27.40</a></p></li><li><p><a href=\"https://ref.ly/Isa9:4\">Isaías 9.4</a></p></li><li><p><a href=\"https://ref.ly/Jer27:4\">Jeremias 27.4</a></p></li><li><p><a href=\"https://ref.ly/Matt11:30\">Mateus 11.30</a></p></li><li><p><a href=\"https://ref.ly/Phil4:3\">Filipenses 4.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3627, H4132, H4133, H5674, H5923, H6776, G20860, G22180</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01027040",
+          "start_ref_usfm": "GEN 27:40",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "23009004",
+          "start_ref_usfm": "ISA 9:4",
+          "end_ref": "23009004",
+          "end_ref_usfm": "ISA 9:4"
+        },
+        {
+          "start_ref": "24027004",
+          "start_ref_usfm": "JER 27:4",
+          "end_ref": "24027004",
+          "end_ref_usfm": "JER 27:4"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "40011030",
+          "start_ref_usfm": "MAT 11:30",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "44015010",
+          "start_ref_usfm": "ACT 15:10",
+          "end_ref": "44015010",
+          "end_ref_usfm": "ACT 15:10"
+        },
+        {
+          "start_ref": "47006014",
+          "start_ref_usfm": "2CO 6:14",
+          "end_ref": "47006014",
+          "end_ref_usfm": "2CO 6:14"
+        },
+        {
+          "start_ref": "48005001",
+          "start_ref_usfm": "GAL 5:1",
+          "end_ref": "48005001",
+          "end_ref_usfm": "GAL 5:1"
+        },
+        {
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006001",
+          "end_ref_usfm": "1TI 6:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25512,
+          "content_id": 237648,
+          "label": "Carregar o fardo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25549,
+          "content_id": 237685,
+          "label": "vínculo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 238219,
+          "label": "Perseguir",
+          "language": "por"
+        },
+        {
+          "reference_id": 26217,
+          "content_id": 238346,
+          "label": "Servo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

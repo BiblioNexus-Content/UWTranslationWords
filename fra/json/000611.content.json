@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466892,
+    "reference_id": 25738,
+    "title": "Offre de bourse",
+    "media_type": "Text",
+    "index_reference": "offre de bourse",
+    "language": "fra",
+    "content": "<h1>Offre de bourse, offre de paix</h1><h2>Définition :</h2><p>&quot;Dans l&apos;Ancien Testament, l&apos;offre de bourses est aussi appelé l&apos;«offre de paix*&quot; Il impliquait le sacrifice d&apos;un animal mâle ou femelle.</p><ul><li><p>Différentes raisons de cette offre incluent:accomplir un vœu ou donner à Dieu des actions de grâces et de louanges.</p></li><li><p>Après avoir donné une partie du sacrifice à Dieu, le sacrifice de communion était partagé avec les prêtres, la personne qui l&apos;offre, et d&apos;autres Israélites.</p></li><li><p>Il y avait un repas associé à cette offre qui comprenait des pains sans levain.</p></li></ul><p>(Voir aussi : (../other/burntoffering.md), (../kt/fulfill.md), (../other/grainoffering.md), (../other/guiltoffering.md), (../other/peaceoffering.md), (../kt/priest.md), (../other/sacrifice.md), (../kt/unleavenedbread.md), (../kt/vow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14029035",
+          "start_ref_usfm": "2CH 29:35",
+          "end_ref": "14029035",
+          "end_ref_usfm": "2CH 29:35"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "03003003",
+          "start_ref_usfm": "LEV 3:3",
+          "end_ref": "03003005",
+          "end_ref_usfm": "LEV 3:5"
+        },
+        {
+          "start_ref": "02024005",
+          "start_ref_usfm": "EXO 24:5",
+          "end_ref": "02024006",
+          "end_ref_usfm": "EXO 24:6"
+        },
+        {
+          "start_ref": "13021025",
+          "start_ref_usfm": "1CH 21:25",
+          "end_ref": "13021027",
+          "end_ref_usfm": "1CH 21:27"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25761,
+          "content_id": 466912,
+          "label": "Réaliser",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 466951,
+          "label": "Offrande de grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25807,
+          "content_id": 466956,
+          "label": "&quot;l'offrande de culpabilité ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26081,
+          "content_id": 467208,
+          "label": "Sacrifice d’actions de grâces",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26328,
+          "content_id": 467439,
+          "label": "Pain azyme",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

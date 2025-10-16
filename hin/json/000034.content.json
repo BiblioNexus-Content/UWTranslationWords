@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180132,
+    "reference_id": 26070,
+    "title": "अन्यजाति",
+    "media_type": "Text",
+    "index_reference": "अन्यजाति",
+    "language": "hin",
+    "content": "<h1>अन्यजाति</h1><h2>परिभाषा:</h2><p>बाइबल में “अन्यजाति” शब्द उन लोगों के लिए काम में लिया गया है जो यहोवा की अपेक्षा देवी-देवताओं की पूजा करते थे।</p><ul><li><p>ऐसे लोगों से संबन्धित कोई भी बात जैसे उनके उपासना स्थल की वेदियां, धार्मिक अनुष्ठान तथा उनकी श्रद्धा-आस्थाएं आदि सब अन्य जाति कहलाते थे।</p></li><li><p>अन्य जातियों के विश्वास में देवी-देवताओं की तथा प्रकृति की पूजा थी।</p></li><li><p>इन अन्य जातियों के धर्म में व्यभिचार या नरबलि आराधना का भाग होता था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">वेदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">झूठे देवता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">आराधना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">यहोवा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Cor0:0\">1 कुरिन्थियों 10:20–22</a></p></li><li><p><a href=\"https://ref.ly/1Cor0:0\">1 कुरिन्थियों 12:1–3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 17:14–15</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 21:4–6</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1471, G14840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005001",
+          "end_ref_usfm": "1CO 5:1"
+        },
+        {
+          "start_ref": "46012002",
+          "start_ref_usfm": "1CO 12:2",
+          "end_ref": "46012002",
+          "end_ref_usfm": "1CO 12:2"
+        },
+        {
+          "start_ref": "46012001",
+          "start_ref_usfm": "1CO 12:1",
+          "end_ref": "46012003",
+          "end_ref_usfm": "1CO 12:3"
+        },
+        {
+          "start_ref": "12017014",
+          "start_ref_usfm": "2KI 17:14",
+          "end_ref": "12017015",
+          "end_ref_usfm": "2KI 17:15"
+        },
+        {
+          "start_ref": "46010020",
+          "start_ref_usfm": "1CO 10:20",
+          "end_ref": "46010022",
+          "end_ref_usfm": "1CO 10:22"
+        },
+        {
+          "start_ref": "12021004",
+          "start_ref_usfm": "2KI 21:4",
+          "end_ref": "12021006",
+          "end_ref_usfm": "2KI 21:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 179536,
+          "label": "वेदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 180409,
+          "label": "दंडवत करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 180412,
+          "label": "यहोवा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

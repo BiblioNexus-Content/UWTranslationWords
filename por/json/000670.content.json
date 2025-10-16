@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238200,
+    "reference_id": 26070,
+    "title": "Pagão",
+    "media_type": "Text",
+    "index_reference": "pagão",
+    "language": "por",
+    "content": "<h1>pagão</h1><h2>Definição:</h2><p>Nos tempos bíblicos, o termo “pagão” era usado para descrever pessoas que adoravam falsos deuses em vez de Javé.</p><ul><li><p>Qualquer coisa associada a essas pessoas, como os altares onde adoravam, os rituais religiosos que realizavam e suas crenças, também eram chamados de “pagãos”.</p></li><li><p>Sistemas pagãos de crença frequentemente incluíam a adoração de falsos deuses e a adoração da natureza.</p></li><li><p>Algumas religiões pagãs incluíam rituais sexualmente imorais ou o sacrifício de seres humanos como parte de sua adoração.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">altar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">adoração</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor10:20-1Cor10:22\">1 Coríntios 10.20–22</a></p></li><li><p><a href=\"https://ref.ly/1Cor12:1-1Cor12:3\">1 Coríntios 12.1–3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs17:14-2Kgs17:15\">2 Reis 17.14–15</a></p></li><li><p><a href=\"https://ref.ly/2Kgs21:4-2Kgs21:6\">2 Reis 21.4–6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1471, G14840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "46005001",
+          "start_ref_usfm": "1CO 5:1",
+          "end_ref": "46005001",
+          "end_ref_usfm": "1CO 5:1"
+        },
+        {
+          "start_ref": "46012002",
+          "start_ref_usfm": "1CO 12:2",
+          "end_ref": "46012002",
+          "end_ref_usfm": "1CO 12:2"
+        },
+        {
+          "start_ref": "46012001",
+          "start_ref_usfm": "1CO 12:1",
+          "end_ref": "46012003",
+          "end_ref_usfm": "1CO 12:3"
+        },
+        {
+          "start_ref": "12017014",
+          "start_ref_usfm": "2KI 17:14",
+          "end_ref": "12017015",
+          "end_ref_usfm": "2KI 17:15"
+        },
+        {
+          "start_ref": "46010020",
+          "start_ref_usfm": "1CO 10:20",
+          "end_ref": "46010022",
+          "end_ref_usfm": "1CO 10:22"
+        },
+        {
+          "start_ref": "12021004",
+          "start_ref_usfm": "2KI 21:4",
+          "end_ref": "12021006",
+          "end_ref_usfm": "2KI 21:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 237585,
+          "label": "Altar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 238483,
+          "label": "Adorar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

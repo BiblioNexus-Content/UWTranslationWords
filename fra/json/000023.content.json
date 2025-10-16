@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466621,
+    "reference_id": 25440,
+    "title": "Achaz",
+    "media_type": "Text",
+    "index_reference": "achaz",
+    "language": "fra",
+    "content": "<h1>Achaz</h1><h2>Définition :</h2><p>Achaz était un roi méchant qui régna sur le royaume de Juda de 732 à 716 avant Jésus-Christ* C&apos;était environ 140 ans avant que plusieurs des enfants d&apos;Israël et de Juda n&apos;eussent été emmenés en captivité à Babylone.</p><ul><li><p>Pendant qu&apos;il régnait sur Juda, Achaz avait fait bâtir un autel pour l&apos;adoration des faux dieux des Assyriens, ce qui fit détourner le peuple de Jéhovah, le seul vrai Dieu.</p></li><li><p>Le roi Achaz avait 20 ans lorsqu&apos;il commença à régner sur Juda, et il régna pendant 16 ans.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/babylon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12016020",
+          "start_ref_usfm": "2KI 16:20",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "14028001",
+          "start_ref_usfm": "2CH 28:1",
+          "end_ref": "14028001",
+          "end_ref_usfm": "2CH 28:1"
+        },
+        {
+          "start_ref": "23001001",
+          "start_ref_usfm": "ISA 1:1",
+          "end_ref": "23001001",
+          "end_ref_usfm": "ISA 1:1"
+        },
+        {
+          "start_ref": "23007004",
+          "start_ref_usfm": "ISA 7:4",
+          "end_ref": "23007004",
+          "end_ref_usfm": "ISA 7:4"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "13008035",
+          "start_ref_usfm": "1CH 8:35",
+          "end_ref": "13008037",
+          "end_ref_usfm": "1CH 8:37"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

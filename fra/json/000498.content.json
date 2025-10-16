@@ -1,0 +1,257 @@
+[
+  {
+    "content_id": 466890,
+    "reference_id": 25736,
+    "title": "Le banquet",
+    "media_type": "Text",
+    "index_reference": "le banquet",
+    "language": "fra",
+    "content": "<h1>Le banquet</h1><h2>Définition :</h2><p>&quot;Le banquet&quot; est une fête, un événement où un groupe de personnes prennent part à un très grand repas, souvent pour célébrer quelque chose ensemble* L&apos;action &quot; fêter» signifie manger une grande quantité de nourriture, souvent des types particuliers de nourriture.</p><ul><li><p>Les fêtes religieuses que Dieu a ordonnées aux Juifs de célébrer souvent incluent fêter ensemble* Pour cette raison, les festivals sont souvent appelés «fêtes».</p></li><li><p>Les rois et les autres gens riches et puissants ont souvent donné des festins.</p></li><li><p>Dans l&apos;histoire du fils perdu, le père a donné une fête spéciale préparée pour célébrer le retour de son fils.</p></li><li><p>Une fête durait parfois plusieurs jours ou plus*&quot;</p></li><li><p>Le terme &quot;fêter&quot; peut aussi être traduit par &quot;manger grassement&quot; ou célébrer en mangeant beaucoup de nourriture &quot; ou &quot;en mangeant un grand mets spécial&quot;.</p></li><li><p>Selon le contexte, &quot;fêter &quot; peut être traduit par &quot;célébrer ensemble avec un grand repas&quot; ou &quot; un repas avec beaucoup de nourriture&quot; ou &quot;un repas de fête&quot;</p></li></ul><p>(Voir aussi : (../other/festival.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019003",
+          "start_ref_usfm": "GEN 19:3",
+          "end_ref": "01019003",
+          "end_ref_usfm": "GEN 19:3"
+        },
+        {
+          "start_ref": "01021008",
+          "start_ref_usfm": "GEN 21:8",
+          "end_ref": "01021008",
+          "end_ref_usfm": "GEN 21:8"
+        },
+        {
+          "start_ref": "01026030",
+          "start_ref_usfm": "GEN 26:30",
+          "end_ref": "01026030",
+          "end_ref_usfm": "GEN 26:30"
+        },
+        {
+          "start_ref": "01029022",
+          "start_ref_usfm": "GEN 29:22",
+          "end_ref": "01029022",
+          "end_ref_usfm": "GEN 29:22"
+        },
+        {
+          "start_ref": "01040020",
+          "start_ref_usfm": "GEN 40:20",
+          "end_ref": "01040020",
+          "end_ref_usfm": "GEN 40:20"
+        },
+        {
+          "start_ref": "02013010",
+          "start_ref_usfm": "EXO 13:10",
+          "end_ref": "02013010",
+          "end_ref_usfm": "EXO 13:10"
+        },
+        {
+          "start_ref": "02030026",
+          "start_ref_usfm": "EXO 30:26",
+          "end_ref": "02030026",
+          "end_ref_usfm": "EXO 30:26"
+        },
+        {
+          "start_ref": "16008014",
+          "start_ref_usfm": "NEH 8:14",
+          "end_ref": "16008014",
+          "end_ref_usfm": "NEH 8:14"
+        },
+        {
+          "start_ref": "16008018",
+          "start_ref_usfm": "NEH 8:18",
+          "end_ref": "16008018",
+          "end_ref_usfm": "NEH 8:18"
+        },
+        {
+          "start_ref": "18001004",
+          "start_ref_usfm": "JOB 1:4",
+          "end_ref": "18001004",
+          "end_ref_usfm": "JOB 1:4"
+        },
+        {
+          "start_ref": "18030023",
+          "start_ref_usfm": "JOB 30:23",
+          "end_ref": "18030023",
+          "end_ref_usfm": "JOB 30:23"
+        },
+        {
+          "start_ref": "20015015",
+          "start_ref_usfm": "PRO 15:15",
+          "end_ref": "20015015",
+          "end_ref_usfm": "PRO 15:15"
+        },
+        {
+          "start_ref": "40022001",
+          "start_ref_usfm": "MAT 22:1",
+          "end_ref": "40022001",
+          "end_ref_usfm": "MAT 22:1"
+        },
+        {
+          "start_ref": "40022002",
+          "start_ref_usfm": "MAT 22:2",
+          "end_ref": "40022002",
+          "end_ref_usfm": "MAT 22:2"
+        },
+        {
+          "start_ref": "40022003",
+          "start_ref_usfm": "MAT 22:3",
+          "end_ref": "40022003",
+          "end_ref_usfm": "MAT 22:3"
+        },
+        {
+          "start_ref": "40022004",
+          "start_ref_usfm": "MAT 22:4",
+          "end_ref": "40022004",
+          "end_ref_usfm": "MAT 22:4"
+        },
+        {
+          "start_ref": "40022008",
+          "start_ref_usfm": "MAT 22:8",
+          "end_ref": "40022008",
+          "end_ref_usfm": "MAT 22:8"
+        },
+        {
+          "start_ref": "40022009",
+          "start_ref_usfm": "MAT 22:9",
+          "end_ref": "40022009",
+          "end_ref_usfm": "MAT 22:9"
+        },
+        {
+          "start_ref": "40023006",
+          "start_ref_usfm": "MAT 23:6",
+          "end_ref": "40023006",
+          "end_ref_usfm": "MAT 23:6"
+        },
+        {
+          "start_ref": "40025010",
+          "start_ref_usfm": "MAT 25:10",
+          "end_ref": "40025010",
+          "end_ref_usfm": "MAT 25:10"
+        },
+        {
+          "start_ref": "41012039",
+          "start_ref_usfm": "MRK 12:39",
+          "end_ref": "41012039",
+          "end_ref_usfm": "MRK 12:39"
+        },
+        {
+          "start_ref": "42002043",
+          "start_ref_usfm": "LUK 2:43",
+          "end_ref": "42002043",
+          "end_ref_usfm": "LUK 2:43"
+        },
+        {
+          "start_ref": "42012036",
+          "start_ref_usfm": "LUK 12:36",
+          "end_ref": "42012036",
+          "end_ref_usfm": "LUK 12:36"
+        },
+        {
+          "start_ref": "42014008",
+          "start_ref_usfm": "LUK 14:8",
+          "end_ref": "42014008",
+          "end_ref_usfm": "LUK 14:8"
+        },
+        {
+          "start_ref": "42014012",
+          "start_ref_usfm": "LUK 14:12",
+          "end_ref": "42014012",
+          "end_ref_usfm": "LUK 14:12"
+        },
+        {
+          "start_ref": "42014016",
+          "start_ref_usfm": "LUK 14:16",
+          "end_ref": "42014016",
+          "end_ref_usfm": "LUK 14:16"
+        },
+        {
+          "start_ref": "42014017",
+          "start_ref_usfm": "LUK 14:17",
+          "end_ref": "42014017",
+          "end_ref_usfm": "LUK 14:17"
+        },
+        {
+          "start_ref": "42014024",
+          "start_ref_usfm": "LUK 14:24",
+          "end_ref": "42014024",
+          "end_ref_usfm": "LUK 14:24"
+        },
+        {
+          "start_ref": "42020046",
+          "start_ref_usfm": "LUK 20:46",
+          "end_ref": "42020046",
+          "end_ref_usfm": "LUK 20:46"
+        },
+        {
+          "start_ref": "46011020",
+          "start_ref_usfm": "1CO 11:20",
+          "end_ref": "46011020",
+          "end_ref_usfm": "1CO 11:20"
+        },
+        {
+          "start_ref": "46011021",
+          "start_ref_usfm": "1CO 11:21",
+          "end_ref": "46011021",
+          "end_ref_usfm": "1CO 11:21"
+        },
+        {
+          "start_ref": "61002013",
+          "start_ref_usfm": "2PE 2:13",
+          "end_ref": "61002013",
+          "end_ref_usfm": "2PE 2:13"
+        },
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001012",
+          "end_ref_usfm": "JUD 1:12"
+        },
+        {
+          "start_ref": "66019009",
+          "start_ref_usfm": "REV 19:9",
+          "end_ref": "66019009",
+          "end_ref_usfm": "REV 19:9"
+        },
+        {
+          "start_ref": "66019017",
+          "start_ref_usfm": "REV 19:17",
+          "end_ref": "66019017",
+          "end_ref_usfm": "REV 19:17"
+        },
+        {
+          "start_ref": "61002012",
+          "start_ref_usfm": "2PE 2:12",
+          "end_ref": "61002014",
+          "end_ref_usfm": "2PE 2:14"
+        },
+        {
+          "start_ref": "65001012",
+          "start_ref_usfm": "JUD 1:12",
+          "end_ref": "65001013",
+          "end_ref_usfm": "JUD 1:13"
+        },
+        {
+          "start_ref": "42014007",
+          "start_ref_usfm": "LUK 14:7",
+          "end_ref": "42014009",
+          "end_ref_usfm": "LUK 14:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25502,
+          "content_id": 466680,
+          "label": "Banquet",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25739,
+          "content_id": 466893,
+          "label": "Festival",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

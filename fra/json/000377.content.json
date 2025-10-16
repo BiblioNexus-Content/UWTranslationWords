@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466970,
+    "reference_id": 25822,
+    "title": "Harpe",
+    "media_type": "Text",
+    "index_reference": "harpe",
+    "language": "fra",
+    "content": "<h1>harpe</h1><h2>Définition :</h2><p>&quot;Une harpe est un instrument de musique à cordes, ayant généralement un grand cadre ouvert avec des cordes verticales.</p><ul><li><p>le bois de sapin a été utilisé pour fabriquer des harpes et autres instruments de musique.</p></li><li><p>Dans les temps anciens, les harpes étaient souvent tenues à la main et jouées en marchant.</p></li><li><p>Les harpes ont souvent été utilisées pour louer Dieu.</p></li><li><p>David a joué de la harpe pour apaiser l&apos;esprit troublé du roi Saül* Il a également écrit plusieurs psaumes qui ont été mis en musique à la harpe.</p></li></ul><p>(Voir aussi : (../names/david.md), (../other/fir.md), (../kt/psalm.md), (../names/saul.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16012027",
+          "start_ref_usfm": "NEH 12:27",
+          "end_ref": "16012027",
+          "end_ref_usfm": "NEH 12:27"
+        },
+        {
+          "start_ref": "27003005",
+          "start_ref_usfm": "DAN 3:5",
+          "end_ref": "27003005",
+          "end_ref_usfm": "DAN 3:5"
+        },
+        {
+          "start_ref": "46014007",
+          "start_ref_usfm": "1CO 14:7",
+          "end_ref": "46014007",
+          "end_ref_usfm": "1CO 14:7"
+        },
+        {
+          "start_ref": "66005008",
+          "start_ref_usfm": "REV 5:8",
+          "end_ref": "66005008",
+          "end_ref_usfm": "REV 5:8"
+        },
+        {
+          "start_ref": "66014002",
+          "start_ref_usfm": "REV 14:2",
+          "end_ref": "66014002",
+          "end_ref_usfm": "REV 14:2"
+        },
+        {
+          "start_ref": "66015002",
+          "start_ref_usfm": "REV 15:2",
+          "end_ref": "66015002",
+          "end_ref_usfm": "REV 15:2"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
+        },
+        {
+          "start_ref": "13015016",
+          "start_ref_usfm": "1CH 15:16",
+          "end_ref": "13015018",
+          "end_ref_usfm": "1CH 15:18"
+        },
+        {
+          "start_ref": "19033001",
+          "start_ref_usfm": "PSA 33:1",
+          "end_ref": "19033003",
+          "end_ref_usfm": "PSA 33:3"
+        },
+        {
+          "start_ref": "30005023",
+          "start_ref_usfm": "AMO 5:23",
+          "end_ref": "30005024",
+          "end_ref_usfm": "AMO 5:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 466894,
+          "label": "Sapin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26140,
+          "content_id": 467261,
+          "label": "Psaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 467319,
+          "label": "Saül (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

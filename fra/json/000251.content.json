@@ -1,0 +1,112 @@
+[
+  {
+    "content_id": 466836,
+    "reference_id": 25676,
+    "title": "Doctrine",
+    "media_type": "Text",
+    "index_reference": "doctrine",
+    "language": "fra",
+    "content": "<h1>doctrine, enseignement</h1><h2>Définition :</h2><p>Le mot &quot;doctrine&quot; veut dire littéralement &quot;enseignement&quot;. Il fait généralement à l&apos;enseignement religieux.</p><ul><li><p>Dans le contexte de l&apos;enseignement chrétien, &quot;doctrine&quot; s&apos;applique à tous les enseignements de Dieu-le Père, du Fils et du Saint-Esprit y compris toutes les qualités de son personnage et tout ce qu&apos;il a fait.</p></li><li><p>Le mot &quot;doctrine&quot; se réfère également à tout ce que Dieu enseigne aux chrétiens sur la façon de vivre des vies saintes qui lui rendent gloire.</p></li><li><p>Le mot &quot;doctrine&quot; est utilisé parfois pour faire référence aux enseignements faux ou religieux du monde qui proviennent des êtres humains. Le contexte rend le sens clair.</p></li><li><p>Ce terme pourrait être traduit comme &quot;enseignement &quot;</p></li></ul><p>(Voir aussi : [enseigner](../other/teach.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40015009",
+          "start_ref_usfm": "MAT 15:9",
+          "end_ref": "40015009",
+          "end_ref_usfm": "MAT 15:9"
+        },
+        {
+          "start_ref": "41007007",
+          "start_ref_usfm": "MRK 7:7",
+          "end_ref": "41007007",
+          "end_ref_usfm": "MRK 7:7"
+        },
+        {
+          "start_ref": "49004014",
+          "start_ref_usfm": "EPH 4:14",
+          "end_ref": "49004014",
+          "end_ref_usfm": "EPH 4:14"
+        },
+        {
+          "start_ref": "54001003",
+          "start_ref_usfm": "1TI 1:3",
+          "end_ref": "54001003",
+          "end_ref_usfm": "1TI 1:3"
+        },
+        {
+          "start_ref": "54004001",
+          "start_ref_usfm": "1TI 4:1",
+          "end_ref": "54004001",
+          "end_ref_usfm": "1TI 4:1"
+        },
+        {
+          "start_ref": "54004016",
+          "start_ref_usfm": "1TI 4:16",
+          "end_ref": "54004016",
+          "end_ref_usfm": "1TI 4:16"
+        },
+        {
+          "start_ref": "54006003",
+          "start_ref_usfm": "1TI 6:3",
+          "end_ref": "54006003",
+          "end_ref_usfm": "1TI 6:3"
+        },
+        {
+          "start_ref": "55004003",
+          "start_ref_usfm": "2TI 4:3",
+          "end_ref": "55004003",
+          "end_ref_usfm": "2TI 4:3"
+        },
+        {
+          "start_ref": "56001009",
+          "start_ref_usfm": "TIT 1:9",
+          "end_ref": "56001009",
+          "end_ref_usfm": "TIT 1:9"
+        },
+        {
+          "start_ref": "56002001",
+          "start_ref_usfm": "TIT 2:1",
+          "end_ref": "56002001",
+          "end_ref_usfm": "TIT 2:1"
+        },
+        {
+          "start_ref": "56002007",
+          "start_ref_usfm": "TIT 2:7",
+          "end_ref": "56002007",
+          "end_ref_usfm": "TIT 2:7"
+        },
+        {
+          "start_ref": "56002010",
+          "start_ref_usfm": "TIT 2:10",
+          "end_ref": "56002010",
+          "end_ref_usfm": "TIT 2:10"
+        },
+        {
+          "start_ref": "58013009",
+          "start_ref_usfm": "HEB 13:9",
+          "end_ref": "58013009",
+          "end_ref_usfm": "HEB 13:9"
+        },
+        {
+          "start_ref": "41007006",
+          "start_ref_usfm": "MRK 7:6",
+          "end_ref": "41007007",
+          "end_ref_usfm": "MRK 7:7"
+        },
+        {
+          "start_ref": "55003016",
+          "start_ref_usfm": "2TI 3:16",
+          "end_ref": "55003017",
+          "end_ref_usfm": "2TI 3:17"
+        },
+        {
+          "start_ref": "40015007",
+          "start_ref_usfm": "MAT 15:7",
+          "end_ref": "40015009",
+          "end_ref_usfm": "MAT 15:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

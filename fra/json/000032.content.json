@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466959,
+    "reference_id": 25810,
+    "title": "Agar",
+    "media_type": "Text",
+    "index_reference": "agar",
+    "language": "fra",
+    "content": "<h1>Agar</h1><h2>Définition</h2><p>Agar était une esclave personnelle de Saraï.</p><ul><li><p>Saraï, plus tard appelée Sarah, a donné Agar à son mari, Abram, comme une femme esclave.</p></li><li><p>Saraï voulait qu&apos;Agar porte des enfants pour elle et Abram.</p></li><li><p>Agar a donné naissance au fils d&apos;Abram, Ismaël.</p></li><li><p>Dieu a veillé sur Agar quand elle était en détresse dans le désert et a promis de bénir ses descendants.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../other/descendant.md), (../names/ishmael.md), (../names/sarah.md), (../other/servant.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016001",
+          "end_ref_usfm": "GEN 16:1"
+        },
+        {
+          "start_ref": "01016003",
+          "start_ref_usfm": "GEN 16:3",
+          "end_ref": "01016003",
+          "end_ref_usfm": "GEN 16:3"
+        },
+        {
+          "start_ref": "01016004",
+          "start_ref_usfm": "GEN 16:4",
+          "end_ref": "01016004",
+          "end_ref_usfm": "GEN 16:4"
+        },
+        {
+          "start_ref": "01016008",
+          "start_ref_usfm": "GEN 16:8",
+          "end_ref": "01016008",
+          "end_ref_usfm": "GEN 16:8"
+        },
+        {
+          "start_ref": "01016015",
+          "start_ref_usfm": "GEN 16:15",
+          "end_ref": "01016015",
+          "end_ref_usfm": "GEN 16:15"
+        },
+        {
+          "start_ref": "01016016",
+          "start_ref_usfm": "GEN 16:16",
+          "end_ref": "01016016",
+          "end_ref_usfm": "GEN 16:16"
+        },
+        {
+          "start_ref": "01021009",
+          "start_ref_usfm": "GEN 21:9",
+          "end_ref": "01021009",
+          "end_ref_usfm": "GEN 21:9"
+        },
+        {
+          "start_ref": "01021014",
+          "start_ref_usfm": "GEN 21:14",
+          "end_ref": "01021014",
+          "end_ref_usfm": "GEN 21:14"
+        },
+        {
+          "start_ref": "01021017",
+          "start_ref_usfm": "GEN 21:17",
+          "end_ref": "01021017",
+          "end_ref_usfm": "GEN 21:17"
+        },
+        {
+          "start_ref": "01025012",
+          "start_ref_usfm": "GEN 25:12",
+          "end_ref": "01025012",
+          "end_ref_usfm": "GEN 25:12"
+        },
+        {
+          "start_ref": "48004025",
+          "start_ref_usfm": "GAL 4:25",
+          "end_ref": "48004025",
+          "end_ref_usfm": "GAL 4:25"
+        },
+        {
+          "start_ref": "01016001",
+          "start_ref_usfm": "GEN 16:1",
+          "end_ref": "01016004",
+          "end_ref_usfm": "GEN 16:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 467023,
+          "label": "Ismaël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26198,
+          "content_id": 467317,
+          "label": "Sara",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26217,
+          "content_id": 467334,
+          "label": "Serviteur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

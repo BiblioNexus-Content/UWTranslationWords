@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 238226,
+    "reference_id": 26096,
+    "title": "Filipe",
+    "media_type": "Text",
+    "index_reference": "filipe",
+    "language": "por",
+    "content": "<h1>Filipe, o evangelista</h1><h2>Fatos:</h2><p>Na igreja cristã primitiva em Jerusalém, Filipe foi um dos sete líderes escolhidos para cuidar dos cristãos pobres e necessitados, especialmente das viúvas.</p><ul><li><p>Deus usou Filipe para compartilhar o evangelho com pessoas em muitas cidades diferentes nas províncias da Judeia e Galileia, incluindo um etíope que ele conheceu na estrada do deserto para Gaza, vindo de Jerusalém.</p></li><li><p>Anos depois, Filipe estava morando em Cesareia quando Paulo e seus companheiros ficaram em sua casa a caminho de volta para Jerusalém.</p></li><li><p>A maioria dos estudiosos da Bíblia acredita que Filipe, o evangelista, não era o homem que foi apóstolo de Jesus que tinha este mesmo nome. Algumas línguas podem preferir usar grafias ligeiramente diferentes para os nomes desses dois homens para deixar claro que são homens diferentes.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26096\" data-resourceType=\"UWTranslationWords\">Filipe</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts6:5-Acts6:6\">Atos 6.5–6</a></p></li><li><p><a href=\"https://ref.ly/Acts8:6\">Atos 8.6</a></p></li><li><p><a href=\"https://ref.ly/Acts8:13\">Atos 8.13</a></p></li><li><p><a href=\"https://ref.ly/Acts8:31\">Atos 8.31</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36\">Atos 8.36</a></p></li><li><p><a href=\"https://ref.ly/Acts8:40\">Atos 8.40</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G53760</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44008005",
+          "start_ref_usfm": "ACT 8:5",
+          "end_ref": "44008005",
+          "end_ref_usfm": "ACT 8:5"
+        },
+        {
+          "start_ref": "44008006",
+          "start_ref_usfm": "ACT 8:6",
+          "end_ref": "44008006",
+          "end_ref_usfm": "ACT 8:6"
+        },
+        {
+          "start_ref": "44008012",
+          "start_ref_usfm": "ACT 8:12",
+          "end_ref": "44008012",
+          "end_ref_usfm": "ACT 8:12"
+        },
+        {
+          "start_ref": "44008013",
+          "start_ref_usfm": "ACT 8:13",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "44008029",
+          "start_ref_usfm": "ACT 8:29",
+          "end_ref": "44008029",
+          "end_ref_usfm": "ACT 8:29"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44008031",
+          "start_ref_usfm": "ACT 8:31",
+          "end_ref": "44008031",
+          "end_ref_usfm": "ACT 8:31"
+        },
+        {
+          "start_ref": "44008034",
+          "start_ref_usfm": "ACT 8:34",
+          "end_ref": "44008034",
+          "end_ref_usfm": "ACT 8:34"
+        },
+        {
+          "start_ref": "44008035",
+          "start_ref_usfm": "ACT 8:35",
+          "end_ref": "44008035",
+          "end_ref_usfm": "ACT 8:35"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008036",
+          "end_ref_usfm": "ACT 8:36"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26096,
+          "content_id": 238226,
+          "label": "Filipe",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179988,
+    "reference_id": 25921,
+    "title": "योशिय्याह",
+    "media_type": "Text",
+    "index_reference": "योशिय्याह",
+    "language": "hin",
+    "content": "<h1>योशिय्याह</h1><h2>तथ्य:</h2><p>योशिय्याह एक ईश्वर भक्त राजा था जिसने 31 वर्ष यहूदा पर राज किया था। उसने यहूदावासियों को मन फिराकर यहोवा की आराधना करने के लिए अगुवाई किया था।</p><ul><li><p>उसके पिता आमोन की हत्या के बाद योशिय्याह, उसके पुत्र ने आठ वर्ष की आयु में राजा का दायित्व संभाला।</p></li><li><p>अपने राज्यकाल के अठारहवें वर्ष राजा योशिय्याह ने महायाजक हिलकिय्याह को आदेश दिया कि यहोवा के मन्दिर का पुनरुद्धार किया जाए। मन्दिर के पुनरुद्धार कार्य के समय व्यवस्था की पुस्तक मिली थी।</p></li><li><p>जब व्यवस्था की पुस्तक योशिय्याह को पढ़कर सुनाई गई तब उसे बोध हुआ कि उसकी प्रजा परमेश्वर की आज्ञाओं का पालन नहीं कर रही थी, इससे उसे बहुत दुःख हुआ। उसने आज्ञा दी कि मूर्ति-पूजा के सब स्थल नष्ट कर दिए जाएं और उनके पुजारियों को मार डाला जाए।</p></li><li><p>उसने प्रजा को आज्ञा दी कि फसह के पर्व का उत्सव मनाना आरंभ किया जाए।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_idol\" data-resourceType=\"UWTranslationWords\">मूरत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25957\" data-resourceType=\"UWTranslationWords\">व्यवस्था</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">फसह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">मन्दिर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 03:13–14</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 33:24–25</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 34:1–3</a></p></li><li><p><a href=\"https://ref.ly/Jer1:1-Jer1:3\">यिर्मयाह 01:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt1:9-Matt1:11\">मत्ती 01:9–11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2977, G2502</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14034003",
+          "start_ref_usfm": "2CH 34:3",
+          "end_ref": "14034003",
+          "end_ref_usfm": "2CH 34:3"
+        },
+        {
+          "start_ref": "24001003",
+          "start_ref_usfm": "JER 1:3",
+          "end_ref": "24001003",
+          "end_ref_usfm": "JER 1:3"
+        },
+        {
+          "start_ref": "36001001",
+          "start_ref_usfm": "ZEP 1:1",
+          "end_ref": "36001001",
+          "end_ref_usfm": "ZEP 1:1"
+        },
+        {
+          "start_ref": "40001010",
+          "start_ref_usfm": "MAT 1:10",
+          "end_ref": "40001010",
+          "end_ref_usfm": "MAT 1:10"
+        },
+        {
+          "start_ref": "40001011",
+          "start_ref_usfm": "MAT 1:11",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        },
+        {
+          "start_ref": "13003013",
+          "start_ref_usfm": "1CH 3:13",
+          "end_ref": "13003014",
+          "end_ref_usfm": "1CH 3:14"
+        },
+        {
+          "start_ref": "14033024",
+          "start_ref_usfm": "2CH 33:24",
+          "end_ref": "14033025",
+          "end_ref_usfm": "2CH 33:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 180022,
+          "label": "व्यवस्था",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26076,
+          "content_id": 180138,
+          "label": "फसह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 180337,
+          "label": "मन्दिर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

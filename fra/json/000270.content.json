@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466858,
+    "reference_id": 25698,
+    "title": "Elisée",
+    "media_type": "Text",
+    "index_reference": "elisée",
+    "language": "fra",
+    "content": "<h1>Elisée</h1><h2>Données :</h2><p>Elisée était un prophète en Israël au moment du règnes de plusieurs rois d&apos;Israël: Achab, Achazia, Joram, Jéhu, Joachaz et Joas.</p><ul><li><p>Dieu a dit au prophète Élie d&apos;oindre Élisée pour prophète.</p></li><li><p>Quand Élie est monté au ciel dans un char de feu, Elisée est devenu un prophète pour les rois d&apos;Israel.</p></li><li><p>Élisée a fait beaucoup de miracles, y compris la guérison d&apos;un homme lèpreux qui est venu de la Syrie et la résurrection du fils d&apos;une femme de Sunem.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/elijah.md), (../names/naaman.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12003015",
+          "start_ref_usfm": "2KI 3:15",
+          "end_ref": "12003015",
+          "end_ref_usfm": "2KI 3:15"
+        },
+        {
+          "start_ref": "12005008",
+          "start_ref_usfm": "2KI 5:8",
+          "end_ref": "12005008",
+          "end_ref_usfm": "2KI 5:8"
+        },
+        {
+          "start_ref": "42004025",
+          "start_ref_usfm": "LUK 4:25",
+          "end_ref": "42004025",
+          "end_ref_usfm": "LUK 4:25"
+        },
+        {
+          "start_ref": "42004027",
+          "start_ref_usfm": "LUK 4:27",
+          "end_ref": "42004027",
+          "end_ref_usfm": "LUK 4:27"
+        },
+        {
+          "start_ref": "11019015",
+          "start_ref_usfm": "1KI 19:15",
+          "end_ref": "11019016",
+          "end_ref_usfm": "1KI 19:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26039,
+          "content_id": 467176,
+          "label": "Naaman",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

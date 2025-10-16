@@ -1,0 +1,275 @@
+[
+  {
+    "content_id": 466774,
+    "reference_id": 25606,
+    "title": "Confesser",
+    "media_type": "Text",
+    "index_reference": "confesser",
+    "language": "fra",
+    "content": "<h1>Confesser, confession, avouer, aveu</h1><h2>Définition :</h2><p>Les termes &quot;avouer&quot; et &quot;confesser&quot; signifient admettre ou affirmer que quelque chose est vrai. Une &quot;confession&quot; est une déclaration ou une admission de la vérité de quelque chose.</p><ul><li><p>Le terme &quot;confesser&quot; peut faire référence à l&apos;affirmation courageuse de la vérité concernant Dieu. Il peut aussi se référer au fait d&apos;admettre que nous avons péché.</p></li><li><p>La Bible dit que si les gens confessent leurs péchés à Dieu, il les pardonnera.</p></li><li><p>L&apos;apôtre Jacques a écrit dans sa lettre que lorsque les croyants confessent leurs péchés les uns aux autres, ces actes apportent une guérison spirituelle.</p></li><li><p>L&apos;apôtre Paul a écrit aux Philippiens qu&apos;un jour, tout le monde confessera ou déclarera que Jésus est le Seigneur.</p></li><li><p>Paul a également déclaré que si les gens confessent que Jésus est le Seigneur et croient que Dieu l&apos;a ressuscité des morts, ils seront sauvés.</p></li></ul><h2>Suggestions pour la traduction</h2><ul><li><p>Selon le contexte, on peut traduire le terme &quot;confesser&quot; par : &quot;admettre&quot; ou &quot;témoigner&quot; ou &quot;déclarer&quot; ou &quot;reconnaître&quot; ou &quot;affirmer&quot;.</p></li><li><p>Différentes façons de traduire &quot;confession&quot; pourraient être, &quot;déclaration&quot; ou &quot;témoignage&quot; ou &quot;déclaration sur ce que nous croyons&quot; ou &quot;admettre le péché&quot;.</p></li></ul><p>(Pour plus d’information, voir : <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">foi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">témoignage</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15010001",
+          "start_ref_usfm": "EZR 10:1",
+          "end_ref": "15010001",
+          "end_ref_usfm": "EZR 10:1"
+        },
+        {
+          "start_ref": "16001006",
+          "start_ref_usfm": "NEH 1:6",
+          "end_ref": "16001006",
+          "end_ref_usfm": "NEH 1:6"
+        },
+        {
+          "start_ref": "16009002",
+          "start_ref_usfm": "NEH 9:2",
+          "end_ref": "16009002",
+          "end_ref_usfm": "NEH 9:2"
+        },
+        {
+          "start_ref": "20028013",
+          "start_ref_usfm": "PRO 28:13",
+          "end_ref": "20028013",
+          "end_ref_usfm": "PRO 28:13"
+        },
+        {
+          "start_ref": "40003006",
+          "start_ref_usfm": "MAT 3:6",
+          "end_ref": "40003006",
+          "end_ref_usfm": "MAT 3:6"
+        },
+        {
+          "start_ref": "40010032",
+          "start_ref_usfm": "MAT 10:32",
+          "end_ref": "40010032",
+          "end_ref_usfm": "MAT 10:32"
+        },
+        {
+          "start_ref": "41001005",
+          "start_ref_usfm": "MRK 1:5",
+          "end_ref": "41001005",
+          "end_ref_usfm": "MRK 1:5"
+        },
+        {
+          "start_ref": "42012008",
+          "start_ref_usfm": "LUK 12:8",
+          "end_ref": "42012008",
+          "end_ref_usfm": "LUK 12:8"
+        },
+        {
+          "start_ref": "43001020",
+          "start_ref_usfm": "JHN 1:20",
+          "end_ref": "43001020",
+          "end_ref_usfm": "JHN 1:20"
+        },
+        {
+          "start_ref": "43009022",
+          "start_ref_usfm": "JHN 9:22",
+          "end_ref": "43009022",
+          "end_ref_usfm": "JHN 9:22"
+        },
+        {
+          "start_ref": "43012042",
+          "start_ref_usfm": "JHN 12:42",
+          "end_ref": "43012042",
+          "end_ref_usfm": "JHN 12:42"
+        },
+        {
+          "start_ref": "44019018",
+          "start_ref_usfm": "ACT 19:18",
+          "end_ref": "44019018",
+          "end_ref_usfm": "ACT 19:18"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "44024014",
+          "start_ref_usfm": "ACT 24:14",
+          "end_ref": "44024014",
+          "end_ref_usfm": "ACT 24:14"
+        },
+        {
+          "start_ref": "45010009",
+          "start_ref_usfm": "ROM 10:9",
+          "end_ref": "45010009",
+          "end_ref_usfm": "ROM 10:9"
+        },
+        {
+          "start_ref": "45010010",
+          "start_ref_usfm": "ROM 10:10",
+          "end_ref": "45010010",
+          "end_ref_usfm": "ROM 10:10"
+        },
+        {
+          "start_ref": "45014011",
+          "start_ref_usfm": "ROM 14:11",
+          "end_ref": "45014011",
+          "end_ref_usfm": "ROM 14:11"
+        },
+        {
+          "start_ref": "47009013",
+          "start_ref_usfm": "2CO 9:13",
+          "end_ref": "47009013",
+          "end_ref_usfm": "2CO 9:13"
+        },
+        {
+          "start_ref": "50002011",
+          "start_ref_usfm": "PHP 2:11",
+          "end_ref": "50002011",
+          "end_ref_usfm": "PHP 2:11"
+        },
+        {
+          "start_ref": "54006012",
+          "start_ref_usfm": "1TI 6:12",
+          "end_ref": "54006012",
+          "end_ref_usfm": "1TI 6:12"
+        },
+        {
+          "start_ref": "54006013",
+          "start_ref_usfm": "1TI 6:13",
+          "end_ref": "54006013",
+          "end_ref_usfm": "1TI 6:13"
+        },
+        {
+          "start_ref": "58003001",
+          "start_ref_usfm": "HEB 3:1",
+          "end_ref": "58003001",
+          "end_ref_usfm": "HEB 3:1"
+        },
+        {
+          "start_ref": "58004014",
+          "start_ref_usfm": "HEB 4:14",
+          "end_ref": "58004014",
+          "end_ref_usfm": "HEB 4:14"
+        },
+        {
+          "start_ref": "58010023",
+          "start_ref_usfm": "HEB 10:23",
+          "end_ref": "58010023",
+          "end_ref_usfm": "HEB 10:23"
+        },
+        {
+          "start_ref": "58011013",
+          "start_ref_usfm": "HEB 11:13",
+          "end_ref": "58011013",
+          "end_ref_usfm": "HEB 11:13"
+        },
+        {
+          "start_ref": "58013015",
+          "start_ref_usfm": "HEB 13:15",
+          "end_ref": "58013015",
+          "end_ref_usfm": "HEB 13:15"
+        },
+        {
+          "start_ref": "59005016",
+          "start_ref_usfm": "JAS 5:16",
+          "end_ref": "59005016",
+          "end_ref_usfm": "JAS 5:16"
+        },
+        {
+          "start_ref": "62001009",
+          "start_ref_usfm": "1JN 1:9",
+          "end_ref": "62001009",
+          "end_ref_usfm": "1JN 1:9"
+        },
+        {
+          "start_ref": "62002023",
+          "start_ref_usfm": "1JN 2:23",
+          "end_ref": "62002023",
+          "end_ref_usfm": "1JN 2:23"
+        },
+        {
+          "start_ref": "62004002",
+          "start_ref_usfm": "1JN 4:2",
+          "end_ref": "62004002",
+          "end_ref_usfm": "1JN 4:2"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "62004015",
+          "start_ref_usfm": "1JN 4:15",
+          "end_ref": "62004015",
+          "end_ref_usfm": "1JN 4:15"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        },
+        {
+          "start_ref": "66003005",
+          "start_ref_usfm": "REV 3:5",
+          "end_ref": "66003005",
+          "end_ref_usfm": "REV 3:5"
+        },
+        {
+          "start_ref": "50002009",
+          "start_ref_usfm": "PHP 2:9",
+          "end_ref": "50002011",
+          "end_ref_usfm": "PHP 2:11"
+        },
+        {
+          "start_ref": "62001008",
+          "start_ref_usfm": "1JN 1:8",
+          "end_ref": "62001010",
+          "end_ref_usfm": "1JN 1:10"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001008",
+          "end_ref_usfm": "2JN 1:8"
+        },
+        {
+          "start_ref": "03005005",
+          "start_ref_usfm": "LEV 5:5",
+          "end_ref": "03005006",
+          "end_ref_usfm": "LEV 5:6"
+        },
+        {
+          "start_ref": "40003004",
+          "start_ref_usfm": "MAT 3:4",
+          "end_ref": "40003006",
+          "end_ref_usfm": "MAT 3:6"
+        },
+        {
+          "start_ref": "16001006",
+          "start_ref_usfm": "NEH 1:6",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "19038017",
+          "start_ref_usfm": "PSA 38:17",
+          "end_ref": "19038018",
+          "end_ref_usfm": "PSA 38:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 466880,
+          "label": "La foi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 467407,
+          "label": "Témoignage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238305,
+    "reference_id": 26175,
+    "title": "Reverência",
+    "media_type": "Text",
+    "index_reference": "reverência",
+    "language": "por",
+    "content": "<h1>reverenciar, reverenciado, reverência, reverente</h1><h2>Definição:</h2><p>O termo “reverência” refere-se a sentimentos de intenso e profundo respeito por alguém ou algo. “Reverenciar” alguém ou algo é mostrar reverência por essa pessoa ou coisa.</p><ul><li><p>Sentimentos de reverência podem ser vistos em ações que honram a pessoa que é reverenciada.</p></li><li><p>O temor do Senhor é uma reverência interior que se manifesta em obediência aos mandamentos de Deus.</p></li><li><p>Este termo também pode ser traduzido como “temor e honra” ou “respeito sincero”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">temor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">honra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_obey\" data-resourceType=\"UWTranslationWords\">obedecer</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:15-1Pet1:17\">1 Pedro 1.15–17</a></p></li><li><p><a href=\"https://ref.ly/Heb11:7\">Hebreus 11.7</a></p></li><li><p><a href=\"https://ref.ly/Isa44:17\">Isaías 44.17</a></p></li><li><p><a href=\"https://ref.ly/Ps5:7-Ps5:8\">Salmos 5.7–8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3372, H3373, H3374, H4172, H6342, H7812, G01270, G17880, G21250, G24120, G53990, G54010</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23044017",
+          "start_ref_usfm": "ISA 44:17",
+          "end_ref": "23044017",
+          "end_ref_usfm": "ISA 44:17"
+        },
+        {
+          "start_ref": "45001025",
+          "start_ref_usfm": "ROM 1:25",
+          "end_ref": "45001025",
+          "end_ref_usfm": "ROM 1:25"
+        },
+        {
+          "start_ref": "49005021",
+          "start_ref_usfm": "EPH 5:21",
+          "end_ref": "49005021",
+          "end_ref_usfm": "EPH 5:21"
+        },
+        {
+          "start_ref": "56002003",
+          "start_ref_usfm": "TIT 2:3",
+          "end_ref": "56002003",
+          "end_ref_usfm": "TIT 2:3"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "60003002",
+          "start_ref_usfm": "1PE 3:2",
+          "end_ref": "60003002",
+          "end_ref_usfm": "1PE 3:2"
+        },
+        {
+          "start_ref": "60001015",
+          "start_ref_usfm": "1PE 1:15",
+          "end_ref": "60001017",
+          "end_ref_usfm": "1PE 1:17"
+        },
+        {
+          "start_ref": "19005007",
+          "start_ref_usfm": "PSA 5:7",
+          "end_ref": "19005008",
+          "end_ref_usfm": "PSA 5:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 237868,
+          "label": "Temor",
+          "language": "por"
+        },
+        {
+          "reference_id": 25846,
+          "content_id": 237979,
+          "label": "Honra",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

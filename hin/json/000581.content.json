@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 180120,
+    "reference_id": 26057,
+    "title": "बांज वृक्ष",
+    "media_type": "Text",
+    "index_reference": "बांज वृक्ष",
+    "language": "hin",
+    "content": "<h1>बांज वृक्ष, बांज वृक्षों</h1><h2>परिभाषा:</h2><p>बांज, या बांज वृक्ष मोटे तने और फैली हुई शाखाओं का एक लम्बा पेड़ होता है।</p><ul><li><p>बांज वृक्ष की लकड़ी कठोर और दृढ़ होती है जिससे जहाज, हल, जूए और सहारे की छड़ी बनाए जाते थे।</p></li><li><p>इस वृक्ष के फल को बंजुफल कहते हैं।</p></li><li><p>कुछ बांज वृक्षों के तने 6 मीटर मोटे होते हैं।</p></li><li><p>बांज वृक्ष दीर्घायु के प्रतीक थे, उनके अन्य आत्मिक अर्थ भी है। बाइबल में इनका संबन्ध पवित्र स्थानों से है।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>कई अनुवादों को &quot;बांज वृक्ष&quot; शब्द का उपयोग करने के बजाय केवल &quot;बांज&quot; शब्द का उपयोग करना महत्वपूर्ण होगा।</p></li><li><p>यदि लक्षित भाषा के स्थान में बांज वृक्ष नहीं है तो इसका अनुवाद किया जा सकता है, “एक बड़ा बांज का छायादार वृक्ष” और इसके गुणों वाले किसी स्थानीय वृक्ष का नाम दें।</p></li><li><p>देखें: अपरिचित शब्दों का अनुवाद कैसे करें</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">पवित्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 10:3–4</a></p></li><li><p><a href=\"https://ref.ly/Gen13:16-Gen13:18\">उत्पत्ति 13:16–18</a></p></li><li><p><a href=\"https://ref.ly/Gen14:13-Gen14:14\">उत्पत्ति 14:13–14</a></p></li><li><p><a href=\"https://ref.ly/Gen35:4-Gen35:5\">उत्पत्ति 35:4–5</a></p></li><li><p><a href=\"https://ref.ly/Judg6:11-Judg6:12\">न्यायियों 06:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H352, H424, H427, H436, H437, H438</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012006",
+          "end_ref_usfm": "GEN 12:6"
+        },
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014013",
+          "end_ref_usfm": "GEN 14:13"
+        },
+        {
+          "start_ref": "01018001",
+          "start_ref_usfm": "GEN 18:1",
+          "end_ref": "01018001",
+          "end_ref_usfm": "GEN 18:1"
+        },
+        {
+          "start_ref": "01035008",
+          "start_ref_usfm": "GEN 35:8",
+          "end_ref": "01035008",
+          "end_ref_usfm": "GEN 35:8"
+        },
+        {
+          "start_ref": "01035004",
+          "start_ref_usfm": "GEN 35:4",
+          "end_ref": "01035005",
+          "end_ref_usfm": "GEN 35:5"
+        },
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006012",
+          "end_ref_usfm": "JDG 6:12"
+        },
+        {
+          "start_ref": "09010003",
+          "start_ref_usfm": "1SA 10:3",
+          "end_ref": "09010004",
+          "end_ref_usfm": "1SA 10:4"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014014",
+          "end_ref_usfm": "GEN 14:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 179909,
+          "label": "पवित्र",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

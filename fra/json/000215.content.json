@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 466802,
+    "reference_id": 25639,
+    "title": "Cyrus",
+    "media_type": "Text",
+    "index_reference": "cyrus",
+    "language": "fra",
+    "content": "<h1>Cyrus</h1><h2>Définition :</h2><p>Cyrus était un roi perse qui a fondé l&apos;empire perse en 550 avant Jésus-Christ, par la conquête militaire* Dans l&apos;histoire, il était aussi connu comme Cyrus le Grand.</p><ul><li><p>Le roi Cyrus a conquis la ville de Babylone, qui a conduit à la libération des Israélites qui avaient été maintenus en exil là.</p></li><li><p>Cyrus était connu pour son attitude tolérante envers le peuple des nations qu&apos;il a conquis* Sa bonté envers les Juifs a conduit à la reconstruction du temple de Jérusalem après l&apos;exil.</p></li><li><p>Cyrus régnait à l&apos;époque où Daniel, Esdras, Néhémie vivaient.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/daniel.md), (../names/darius.md), (../names/ezra.md), (../names/nehemiah.md), (../names/persia.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14036023",
+          "start_ref_usfm": "2CH 36:23",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        },
+        {
+          "start_ref": "15001002",
+          "start_ref_usfm": "EZR 1:2",
+          "end_ref": "15001002",
+          "end_ref_usfm": "EZR 1:2"
+        },
+        {
+          "start_ref": "15001007",
+          "start_ref_usfm": "EZR 1:7",
+          "end_ref": "15001007",
+          "end_ref_usfm": "EZR 1:7"
+        },
+        {
+          "start_ref": "15001008",
+          "start_ref_usfm": "EZR 1:8",
+          "end_ref": "15001008",
+          "end_ref_usfm": "EZR 1:8"
+        },
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "15004003",
+          "start_ref_usfm": "EZR 4:3",
+          "end_ref": "15004003",
+          "end_ref_usfm": "EZR 4:3"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005013",
+          "start_ref_usfm": "EZR 5:13",
+          "end_ref": "15005013",
+          "end_ref_usfm": "EZR 5:13"
+        },
+        {
+          "start_ref": "15005014",
+          "start_ref_usfm": "EZR 5:14",
+          "end_ref": "15005014",
+          "end_ref_usfm": "EZR 5:14"
+        },
+        {
+          "start_ref": "15005017",
+          "start_ref_usfm": "EZR 5:17",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "15006003",
+          "start_ref_usfm": "EZR 6:3",
+          "end_ref": "15006003",
+          "end_ref_usfm": "EZR 6:3"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23044028",
+          "end_ref_usfm": "ISA 44:28"
+        },
+        {
+          "start_ref": "27001021",
+          "start_ref_usfm": "DAN 1:21",
+          "end_ref": "27001021",
+          "end_ref_usfm": "DAN 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25643,
+          "content_id": 466806,
+          "label": "Darius",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 467186,
+          "label": "Néhémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

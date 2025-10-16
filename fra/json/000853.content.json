@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 467423,
+    "reference_id": 26310,
+    "title": "Tradition",
+    "media_type": "Text",
+    "index_reference": "tradition",
+    "language": "fra",
+    "content": "<h1>Tradition</h1><h2>Définition :</h2><p>La&quot;Tradition se réfère aux coutumes et pratiques qui ont été conservées au fil du temps et qui sont transmises aux personnes dans les générations futures.</p><ul><li><p>Beaucoup de traditions qui étaient pratiquées par les Juifs ne faisaient pas partie des lois de l&apos;Ancien Testament, mais elles ont été ajoutées par les chefs religieux au fil du temps.</p></li><li><p>Certains versets ont des expressions comme «traditions des hommes» ou «traditions humaines», ce qui montre clairement que cela ne concerne que les pratiques juives qui ont été ajoutées, et non pas les lois de Dieu.</p></li><li><p>Parfois, le mot «tradition» est utilisé d&apos;une manière plus générale qui inclut les lois que Dieu avait requises, ainsi que les traditions religieuses d&apos;origine humaine.</p></li><li><p>Aujourd&apos;hui, de nombreuses traditions que les églises chrétiennes pratiquent ne sont pas mandatées par l&apos;Écriture, mais sont le résultat de coutumes et pratiques historiquement acceptées.</p></li></ul><p>(Voir aussi : (../kt/apostle.md), (../kt/believe.md), (../kt/christian.md), (../other/father.md), (../other/generation.md), (../kt/jew.md), (../kt/lawofmoses.md), (../names/moses.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40015002",
+          "start_ref_usfm": "MAT 15:2",
+          "end_ref": "40015002",
+          "end_ref_usfm": "MAT 15:2"
+        },
+        {
+          "start_ref": "40015003",
+          "start_ref_usfm": "MAT 15:3",
+          "end_ref": "40015003",
+          "end_ref_usfm": "MAT 15:3"
+        },
+        {
+          "start_ref": "40015006",
+          "start_ref_usfm": "MAT 15:6",
+          "end_ref": "40015006",
+          "end_ref_usfm": "MAT 15:6"
+        },
+        {
+          "start_ref": "41007002",
+          "start_ref_usfm": "MRK 7:2",
+          "end_ref": "41007002",
+          "end_ref_usfm": "MRK 7:2"
+        },
+        {
+          "start_ref": "41007003",
+          "start_ref_usfm": "MRK 7:3",
+          "end_ref": "41007003",
+          "end_ref_usfm": "MRK 7:3"
+        },
+        {
+          "start_ref": "41007005",
+          "start_ref_usfm": "MRK 7:5",
+          "end_ref": "41007005",
+          "end_ref_usfm": "MRK 7:5"
+        },
+        {
+          "start_ref": "41007008",
+          "start_ref_usfm": "MRK 7:8",
+          "end_ref": "41007008",
+          "end_ref_usfm": "MRK 7:8"
+        },
+        {
+          "start_ref": "41007009",
+          "start_ref_usfm": "MRK 7:9",
+          "end_ref": "41007009",
+          "end_ref_usfm": "MRK 7:9"
+        },
+        {
+          "start_ref": "41007013",
+          "start_ref_usfm": "MRK 7:13",
+          "end_ref": "41007013",
+          "end_ref_usfm": "MRK 7:13"
+        },
+        {
+          "start_ref": "51002008",
+          "start_ref_usfm": "COL 2:8",
+          "end_ref": "51002008",
+          "end_ref_usfm": "COL 2:8"
+        },
+        {
+          "start_ref": "53002015",
+          "start_ref_usfm": "2TH 2:15",
+          "end_ref": "53002015",
+          "end_ref_usfm": "2TH 2:15"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003006",
+          "end_ref_usfm": "2TH 3:6"
+        },
+        {
+          "start_ref": "48001013",
+          "start_ref_usfm": "GAL 1:13",
+          "end_ref": "48001014",
+          "end_ref_usfm": "GAL 1:14"
+        },
+        {
+          "start_ref": "53003006",
+          "start_ref_usfm": "2TH 3:6",
+          "end_ref": "53003009",
+          "end_ref_usfm": "2TH 3:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 466756,
+          "label": "Chrétiens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25772,
+          "content_id": 466921,
+          "label": "Génération",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25902,
+          "content_id": 467047,
+          "label": "Juif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25959,
+          "content_id": 467099,
+          "label": "Loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

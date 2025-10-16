@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466975,
+    "reference_id": 25827,
+    "title": "Hébron",
+    "media_type": "Text",
+    "index_reference": "hébron",
+    "language": "fra",
+    "content": "<h1>Hébron</h1><h2>Définition :</h2><p>&quot;Hébron était une ville située dans les hautes collines rocheuses à environ 32,18 km au sud de Jérusalem.</p><ul><li><p>La ville a été construite autour de deux mille av J-C pendant le temps d&apos;Abram* Il a été mentionné à plusieurs reprises dans les écrits historiques données dans l&apos;Ancien Testament.</p></li><li><p>Hébron avait un rôle très important dans la vie du roi David* Plusieurs de ses fils, y compris Absalom, y naquirent.</p></li><li><p>La ville a été détruite vers soixante-dix après Jésus-Christ par les Romains.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/absalom.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01023002",
+          "start_ref_usfm": "GEN 23:2",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01023019",
+          "start_ref_usfm": "GEN 23:19",
+          "end_ref": "01023019",
+          "end_ref_usfm": "GEN 23:19"
+        },
+        {
+          "start_ref": "01035027",
+          "start_ref_usfm": "GEN 35:27",
+          "end_ref": "01035027",
+          "end_ref_usfm": "GEN 35:27"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "04013022",
+          "start_ref_usfm": "NUM 13:22",
+          "end_ref": "04013022",
+          "end_ref_usfm": "NUM 13:22"
+        },
+        {
+          "start_ref": "07001010",
+          "start_ref_usfm": "JDG 1:10",
+          "end_ref": "07001010",
+          "end_ref_usfm": "JDG 1:10"
+        },
+        {
+          "start_ref": "01023001",
+          "start_ref_usfm": "GEN 23:1",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "10002010",
+          "start_ref_usfm": "2SA 2:10",
+          "end_ref": "10002011",
+          "end_ref_usfm": "2SA 2:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

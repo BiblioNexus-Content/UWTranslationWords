@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 237812,
+    "reference_id": 25679,
+    "title": "desgraça",
+    "media_type": "Text",
+    "index_reference": "desgraça",
+    "language": "por",
+    "content": "<h1>desgraça</h1><h2>Definição:</h2><p>O termo “desgraça” refere-se a um julgamento de condenação sem possibilidade de apelação ou escape.</p><ul><li><p>Quando a nação de Israel estava sendo levada cativa para a Babilônia, o profeta Ezequiel disse: “a desgraça caiu sobre eles”.</p></li><li><p>Dependendo do contexto, este termo pode ser traduzido como “desastre” ou “punição” ou “ruína sem esperança”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezek7:5-Ezek7:7\">Ezequiel 7.5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek30:9\">Ezequiel 30.9</a></p></li><li><p><a href=\"https://ref.ly/Isa6:5\">Isaías 6.5</a></p></li><li><p><a href=\"https://ref.ly/Ps92:6-Ps92:7\">Salmos 92.6–7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1820, H3117, H6256, H6843, H8045</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23006005",
+          "start_ref_usfm": "ISA 6:5",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "26030009",
+          "start_ref_usfm": "EZK 30:9",
+          "end_ref": "26030009",
+          "end_ref_usfm": "EZK 30:9"
+        },
+        {
+          "start_ref": "26007005",
+          "start_ref_usfm": "EZK 7:5",
+          "end_ref": "26007007",
+          "end_ref_usfm": "EZK 7:7"
+        },
+        {
+          "start_ref": "19092006",
+          "start_ref_usfm": "PSA 92:6",
+          "end_ref": "19092007",
+          "end_ref_usfm": "PSA 92:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

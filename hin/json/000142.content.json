@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 182427,
+    "reference_id": 26060,
+    "title": "ओग",
+    "media_type": "Text",
+    "index_reference": "ओग",
+    "language": "hin",
+    "content": "<h1>ओग</h1><h2>तथ्य:</h2><p>ओग एक ऐसे व्यक्ति का नाम है जो एमोरी राजा था और जिसने बाशान देश पर शासन किया था।</p><ul><li><p>इस्राएलियों ने ओग और उसके लोगों और भूमि पर विजय प्राप्त की।</p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25454\" data-resourceType=\"UWTranslationWords\">एमोरियों</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25510\" data-resourceType=\"UWTranslationWords\">बाशान</span>)</p><h2>बाइबल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग :</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25454,
+          "content_id": 179543,
+          "label": "एमोरी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25510,
+          "content_id": 179598,
+          "label": "बाशान",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466636,
+    "reference_id": 25455,
+    "title": "Amos",
+    "media_type": "Text",
+    "index_reference": "amos",
+    "language": "fra",
+    "content": "<h1>Amos</h1><h2>Définition :</h2><p>Les Amoréens étaient un peuple puissant qui était des descendants de Canaan, petit-fils de Noé.</p><ul><li><p>Leur nom signifie &quot;élevé&quot; se référant peut-être aux régions montagneuses où ils vivaient ou bien au fait qu&apos;ils étaient connus pour leurs tailles très élancées.</p></li><li><p>Les Amoréens vivaient dans les régions situées des deux côtés du Jourdain* La ville d&apos;Aï était habitée par les Amoréens.</p></li><li><p>Dieu se référa au &quot;péché des Amoréens&quot; y compris l&apos;adoration des faux dieux et les pratiques immorales qui y sont associées.</p></li><li><p>Josué avait conduit les Israélites à détruire les Amoréens, comme Dieu le leur avait ordonné.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../other/fig.md), (../names/judah.md), (../names/kingdomofisrael.md), (../other/shepherd.md), (../names/uzziah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 467342,
+          "label": "Le berger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 467441,
+          "label": "Ozias",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

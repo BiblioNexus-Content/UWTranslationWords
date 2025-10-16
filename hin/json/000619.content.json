@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179918,
+    "reference_id": 25849,
+    "title": "भय",
+    "media_type": "Text",
+    "index_reference": "भय",
+    "language": "hin",
+    "content": "<h1>भय, चकित, बुरे, बुरी तरह से, भयातुर, भयानक</h1><h2>परिभाषा:</h2><p>“भय” का संदर्भ आंतक और भय की अनुभूति से है। जिस मनुष्य को भय से कंपकंपी हो रही हो उसे भयातुर कहते हैं।</p><p>“भय” मात्र डर से अधिक प्रबल होती है।</p><ul><li><p>जो मनुष्य ऐसा डर जाए कि काटो तो खून नहीं वह आघात या जड़वत हो जाता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">भय</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26291\" data-resourceType=\"UWTranslationWords\">डर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Deut28:36-Deut28:37\">व्यवस्थाविवरण 28:36–37</a></p></li><li><p><a href=\"https://ref.ly/Ezek23:33-Ezek23:34\">यहेजकेल 23:33–34</a></p></li><li><p><a href=\"https://ref.ly/Jer2:12-Jer2:13\">यिर्मयाह 02:12–13</a></p></li><li><p><a href=\"https://ref.ly/Job21:4-Job21:6\">अय्यूब 21:4–6</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 055:4–5</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H367, H1091, H1763, H2152, H2189, H4032, H4923, H5892, H6343, H6427, H7588, H8047, H8074, H8175, H8178, H8186</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05028037",
+          "start_ref_usfm": "DEU 28:37",
+          "end_ref": "05028037",
+          "end_ref_usfm": "DEU 28:37"
+        },
+        {
+          "start_ref": "19055005",
+          "start_ref_usfm": "PSA 55:5",
+          "end_ref": "19055005",
+          "end_ref_usfm": "PSA 55:5"
+        },
+        {
+          "start_ref": "26023033",
+          "start_ref_usfm": "EZK 23:33",
+          "end_ref": "26023033",
+          "end_ref_usfm": "EZK 23:33"
+        },
+        {
+          "start_ref": "24002012",
+          "start_ref_usfm": "JER 2:12",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "18021004",
+          "start_ref_usfm": "JOB 21:4",
+          "end_ref": "18021006",
+          "end_ref_usfm": "JOB 21:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 179808,
+          "label": "डर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26291,
+          "content_id": 180344,
+          "label": "डर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

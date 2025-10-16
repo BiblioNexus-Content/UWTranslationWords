@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466630,
+    "reference_id": 25449,
+    "title": "Amalek",
+    "media_type": "Text",
+    "index_reference": "amalek",
+    "language": "fra",
+    "content": "<h1>Amalek, Amalécite</h1><h2>Définition :</h2><p>Les Amalécites étaient un peuple nomade qui vivait dans toute la partie sud de Canaan, du désert du Néguev jusqu&apos;en Arabie* Ce peuple était des descendants d&apos;Amalek, petit-fils d&apos;Esaü.</p><ul><li><p>Les Amalécites étaient des ennemis acharnés d&apos;Israël depuis le temps où Israël vint s&apos;installer à Canaan.</p></li><li><p>Parfois le terme &quot;Amalek&quot; est utilisé au sens figuré en référence aux Amalécites* (voir: [[rc://fr/ta/man/translate/figs-synecdoche]])</p></li><li><p>Lors d&apos;une bataille contre les Amalécites, lorsque Moïse avait soulevé ses mains, les Israélites gagnaient* Lorsqu&apos;il était fatigué et que ses mains s&apos;étaient baissées, ils perdaient* Alors Aaron et Ur supportèrent Moïse en maintenant ses mains soulevées jusqu&apos;à ce que les Israëlites eussent battu les Amalécites.</p></li><li><p>Le roi Saül et le roi David menèrent des attaques contre les Amalécites.</p></li><li><p>A la suite d&apos;une victoire sur les Amalécites, Saül désobéit à Dieu en gardant une partie du butin et en épargnant la vie au roi des Amalécites, contrairement à ce que Dieu lui avait ordonné de faire*&quot;</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/arabia.md), (../names/david.md), (../names/esau.md), (../names/negev.md), (../names/saul.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014007",
+          "start_ref_usfm": "GEN 14:7",
+          "end_ref": "01014007",
+          "end_ref_usfm": "GEN 14:7"
+        },
+        {
+          "start_ref": "01036012",
+          "start_ref_usfm": "GEN 36:12",
+          "end_ref": "01036012",
+          "end_ref_usfm": "GEN 36:12"
+        },
+        {
+          "start_ref": "02017008",
+          "start_ref_usfm": "EXO 17:8",
+          "end_ref": "02017008",
+          "end_ref_usfm": "EXO 17:8"
+        },
+        {
+          "start_ref": "02017009",
+          "start_ref_usfm": "EXO 17:9",
+          "end_ref": "02017009",
+          "end_ref_usfm": "EXO 17:9"
+        },
+        {
+          "start_ref": "02017010",
+          "start_ref_usfm": "EXO 17:10",
+          "end_ref": "02017010",
+          "end_ref_usfm": "EXO 17:10"
+        },
+        {
+          "start_ref": "02017011",
+          "start_ref_usfm": "EXO 17:11",
+          "end_ref": "02017011",
+          "end_ref_usfm": "EXO 17:11"
+        },
+        {
+          "start_ref": "02017013",
+          "start_ref_usfm": "EXO 17:13",
+          "end_ref": "02017013",
+          "end_ref_usfm": "EXO 17:13"
+        },
+        {
+          "start_ref": "02017016",
+          "start_ref_usfm": "EXO 17:16",
+          "end_ref": "02017016",
+          "end_ref_usfm": "EXO 17:16"
+        },
+        {
+          "start_ref": "10001008",
+          "start_ref_usfm": "2SA 1:8",
+          "end_ref": "10001008",
+          "end_ref_usfm": "2SA 1:8"
+        },
+        {
+          "start_ref": "13004043",
+          "start_ref_usfm": "1CH 4:43",
+          "end_ref": "13004043",
+          "end_ref_usfm": "1CH 4:43"
+        },
+        {
+          "start_ref": "04014023",
+          "start_ref_usfm": "NUM 14:23",
+          "end_ref": "04014025",
+          "end_ref_usfm": "NUM 14:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26048,
+          "content_id": 467185,
+          "label": "Néguev",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 467319,
+          "label": "Saül (AT)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

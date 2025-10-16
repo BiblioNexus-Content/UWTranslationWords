@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 26377,
+    "reference_id": 25519,
+    "title": "Beersheba",
+    "media_type": "Text",
+    "index_reference": "beersheba",
+    "language": "eng",
+    "content": "<h1>Beersheba</h1><h2>Facts:</h2><p>In Old Testament times, Beersheba was a city located about 45 miles southwest of Jerusalem in a desert area that is now called the Negev.</p><ul><li><p>The desert surrounding Beersheba was the wilderness area where Hagar and Ishmael wandered after Abraham sent them away from his tents.</p></li><li><p>The name of this city means “well of the oath.” It was given this name when Abraham swore an oath to not punish King Abimelech’s men for seizing control of one of Abraham’s wells.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25421\" data-resourceType=\"UWTranslationWords\">Abimelech</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25810\" data-resourceType=\"UWTranslationWords\">Hagar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">Ishmael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26058\" data-resourceType=\"UWTranslationWords\">oath</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam3:20\">1 Samuel 3:20</a></p></li><li><p><a href=\"https://ref.ly/2Sam17:11\">2 Samuel 17:11</a></p></li><li><p><a href=\"https://ref.ly/Gen21:14\">Genesis 21:14</a></p></li><li><p><a href=\"https://ref.ly/Gen21:31\">Genesis 21:31</a></p></li><li><p><a href=\"https://ref.ly/Gen46:1\">Genesis 46:1</a></p></li><li><p><a href=\"https://ref.ly/Neh11:30\">Nehemiah 11:30</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0884</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021014",
+          "start_ref_usfm": "GEN 21:14",
+          "end_ref": "01021014",
+          "end_ref_usfm": "GEN 21:14"
+        },
+        {
+          "start_ref": "01021031",
+          "start_ref_usfm": "GEN 21:31",
+          "end_ref": "01021031",
+          "end_ref_usfm": "GEN 21:31"
+        },
+        {
+          "start_ref": "01021032",
+          "start_ref_usfm": "GEN 21:32",
+          "end_ref": "01021032",
+          "end_ref_usfm": "GEN 21:32"
+        },
+        {
+          "start_ref": "01021033",
+          "start_ref_usfm": "GEN 21:33",
+          "end_ref": "01021033",
+          "end_ref_usfm": "GEN 21:33"
+        },
+        {
+          "start_ref": "01022019",
+          "start_ref_usfm": "GEN 22:19",
+          "end_ref": "01022019",
+          "end_ref_usfm": "GEN 22:19"
+        },
+        {
+          "start_ref": "01026023",
+          "start_ref_usfm": "GEN 26:23",
+          "end_ref": "01026023",
+          "end_ref_usfm": "GEN 26:23"
+        },
+        {
+          "start_ref": "01026033",
+          "start_ref_usfm": "GEN 26:33",
+          "end_ref": "01026033",
+          "end_ref_usfm": "GEN 26:33"
+        },
+        {
+          "start_ref": "01028010",
+          "start_ref_usfm": "GEN 28:10",
+          "end_ref": "01028010",
+          "end_ref_usfm": "GEN 28:10"
+        },
+        {
+          "start_ref": "01046001",
+          "start_ref_usfm": "GEN 46:1",
+          "end_ref": "01046001",
+          "end_ref_usfm": "GEN 46:1"
+        },
+        {
+          "start_ref": "01046005",
+          "start_ref_usfm": "GEN 46:5",
+          "end_ref": "01046005",
+          "end_ref_usfm": "GEN 46:5"
+        },
+        {
+          "start_ref": "09003020",
+          "start_ref_usfm": "1SA 3:20",
+          "end_ref": "09003020",
+          "end_ref_usfm": "1SA 3:20"
+        },
+        {
+          "start_ref": "10017011",
+          "start_ref_usfm": "2SA 17:11",
+          "end_ref": "10017011",
+          "end_ref_usfm": "2SA 17:11"
+        },
+        {
+          "start_ref": "16011027",
+          "start_ref_usfm": "NEH 11:27",
+          "end_ref": "16011027",
+          "end_ref_usfm": "NEH 11:27"
+        },
+        {
+          "start_ref": "16011030",
+          "start_ref_usfm": "NEH 11:30",
+          "end_ref": "16011030",
+          "end_ref_usfm": "NEH 11:30"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25421,
+          "content_id": 26279,
+          "label": "Abimelech",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25424,
+          "content_id": 26282,
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25810,
+          "content_id": 26668,
+          "label": "Hagar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 26736,
+          "label": "Ishmael",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26058,
+          "content_id": 26916,
+          "label": "Oath",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

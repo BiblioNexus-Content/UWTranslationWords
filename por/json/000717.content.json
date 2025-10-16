@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238243,
+    "reference_id": 26113,
+    "title": "Ponto",
+    "media_type": "Text",
+    "index_reference": "ponto",
+    "language": "por",
+    "content": "<h1>Ponto</h1><h2>Fatos:</h2><p>Ponto foi uma província romana durante o tempo do Império Romano e da Igreja primitiva. Estava localizada ao longo da costa sul do Mar Negro, na parte norte do que agora é o país da Turquia.</p><ul><li><p>Conforme registrado no livro de Atos, pessoas da província de Ponto estavam em Jerusalém quando o Espírito Santo veio pela primeira vez aos apóstolos no Dia de Pentecostes.</p></li><li><p>Um crente chamado Áquila era de Ponto.</p></li><li><p>Quando Pedro estava escrevendo para os cristãos que estavam dispersos em diferentes regiões, Ponto foi uma das regiões que ele mencionou.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25468\" data-resourceType=\"UWTranslationWords\">Áquila</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26082\" data-resourceType=\"UWTranslationWords\">Pentecostes</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:1-1Pet1:2\">1 Pedro 1.1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts2:9\">Atos 2.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G41930, G41950</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25468,
+          "content_id": 237605,
+          "label": "Áquila",
+          "language": "por"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 238212,
+          "label": "Pentecostes",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

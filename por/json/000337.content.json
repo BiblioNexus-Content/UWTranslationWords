@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237849,
+    "reference_id": 25716,
+    "title": "Evangelista",
+    "media_type": "Text",
+    "index_reference": "evangelista",
+    "language": "por",
+    "content": "<h1>evangelista</h1><h2>Definição:</h2><p>Um “evangelista” é uma pessoa que conta a outras pessoas as boas novas sobre Jesus Cristo.</p><ul><li><p>O significado literal de “evangelista” é “alguém que prega as boas novas”.</p></li><li><p>Jesus enviou seus apóstolos para espalhar as boas novas sobre como fazer parte do reino de Deus através da confiança em Jesus e seu sacrifício pelo pecado.</p></li><li><p>Todos os cristãos são exortados a compartilhar essas boas novas.</p></li><li><p>Alguns cristãos recebem um dom espiritual especial para contar o evangelho de maneira eficaz a outros. Essas pessoas são consideradas como aquelas que têm o dom de evangelismo e são chamadas de “evangelistas.”</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo “evangelista” poderia ser traduzido como “alguém que prega as boas novas” ou “professor das boas novas” ou “pessoa que proclama as boas novas (sobre Jesus)” ou “proclamador das boas novas.”</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">boas novas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">espírito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">dom</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:5\">2 Timóteo 4.5</a></p></li><li><p><a href=\"https://ref.ly/Eph4:11-Eph4:13\">Efésios 4.11–13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G20990</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004011",
+          "end_ref_usfm": "EPH 4:11"
+        },
+        {
+          "start_ref": "55004005",
+          "start_ref_usfm": "2TI 4:5",
+          "end_ref": "55004005",
+          "end_ref_usfm": "2TI 4:5"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25796,
+          "content_id": 237929,
+          "label": "Boas Notícias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 238386,
+          "label": "Espírito",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

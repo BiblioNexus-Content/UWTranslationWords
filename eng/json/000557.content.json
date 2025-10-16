@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 26830,
+    "reference_id": 25972,
+    "title": "Loins",
+    "media_type": "Text",
+    "index_reference": "loins",
+    "language": "eng",
+    "content": "<h1>loins, waist</h1><h2>Definition:</h2><p>The term “loins” refers to the part of the body of an animal or person that is between the lower ribs and the hip bones, also known as the lower abdomen.</p><ul><li><p>The expression “gird up the loins” refers to preparing to work hard. It comes from the custom of tucking the bottom of one’s robe into a belt around the waist in order to move with ease.</p></li><li><p>The term “loins” is often used in the Bible to refer to the lower back part of an animal that was sacrificed.</p></li><li><p>In the Bible, the term “loins” often refers figuratively and euphemistically to a man’s reproductive organs as the source of his descendants. (See: euphemism)</p></li><li><p>The expression “will come from your loins” could also be translated as “will be your offspring” or “will be born from your seed” or “God will cause to come from you.” (See: euphemism)</p></li><li><p>When referring to a part of the body, this could also be translated as “abdomen” or “hips” or “waist,” depending on the context.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25783\" data-resourceType=\"UWTranslationWords\">gird</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_children\" data-resourceType=\"UWTranslationWords\">children</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:13\">1 Peter 1:13</a></p></li><li><p><a href=\"https://ref.ly/2Chr6:9\">2 Chronicles 6:9</a></p></li><li><p><a href=\"https://ref.ly/Deut33:11\">Deuteronomy 33:11</a></p></li><li><p><a href=\"https://ref.ly/Gen37:34\">Genesis 37:34</a></p></li><li><p><a href=\"https://ref.ly/Job15:27\">Job 15:27</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2504, H3409, H3689, H4975, G37510</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035011",
+          "start_ref_usfm": "GEN 35:11",
+          "end_ref": "01035011",
+          "end_ref_usfm": "GEN 35:11"
+        },
+        {
+          "start_ref": "01037034",
+          "start_ref_usfm": "GEN 37:34",
+          "end_ref": "01037034",
+          "end_ref_usfm": "GEN 37:34"
+        },
+        {
+          "start_ref": "01046026",
+          "start_ref_usfm": "GEN 46:26",
+          "end_ref": "01046026",
+          "end_ref_usfm": "GEN 46:26"
+        },
+        {
+          "start_ref": "01047029",
+          "start_ref_usfm": "GEN 47:29",
+          "end_ref": "01047029",
+          "end_ref_usfm": "GEN 47:29"
+        },
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "02028042",
+          "start_ref_usfm": "EXO 28:42",
+          "end_ref": "02028042",
+          "end_ref_usfm": "EXO 28:42"
+        },
+        {
+          "start_ref": "05033011",
+          "start_ref_usfm": "DEU 33:11",
+          "end_ref": "05033011",
+          "end_ref_usfm": "DEU 33:11"
+        },
+        {
+          "start_ref": "14006009",
+          "start_ref_usfm": "2CH 6:9",
+          "end_ref": "14006009",
+          "end_ref_usfm": "2CH 6:9"
+        },
+        {
+          "start_ref": "16004018",
+          "start_ref_usfm": "NEH 4:18",
+          "end_ref": "16004018",
+          "end_ref_usfm": "NEH 4:18"
+        },
+        {
+          "start_ref": "18015027",
+          "start_ref_usfm": "JOB 15:27",
+          "end_ref": "18015027",
+          "end_ref_usfm": "JOB 15:27"
+        },
+        {
+          "start_ref": "20003026",
+          "start_ref_usfm": "PRO 3:26",
+          "end_ref": "20003026",
+          "end_ref_usfm": "PRO 3:26"
+        },
+        {
+          "start_ref": "20030031",
+          "start_ref_usfm": "PRO 30:31",
+          "end_ref": "20030031",
+          "end_ref_usfm": "PRO 30:31"
+        },
+        {
+          "start_ref": "20031017",
+          "start_ref_usfm": "PRO 31:17",
+          "end_ref": "20031017",
+          "end_ref_usfm": "PRO 31:17"
+        },
+        {
+          "start_ref": "40003004",
+          "start_ref_usfm": "MAT 3:4",
+          "end_ref": "40003004",
+          "end_ref_usfm": "MAT 3:4"
+        },
+        {
+          "start_ref": "41001006",
+          "start_ref_usfm": "MRK 1:6",
+          "end_ref": "41001006",
+          "end_ref_usfm": "MRK 1:6"
+        },
+        {
+          "start_ref": "42012035",
+          "start_ref_usfm": "LUK 12:35",
+          "end_ref": "42012035",
+          "end_ref_usfm": "LUK 12:35"
+        },
+        {
+          "start_ref": "44002030",
+          "start_ref_usfm": "ACT 2:30",
+          "end_ref": "44002030",
+          "end_ref_usfm": "ACT 2:30"
+        },
+        {
+          "start_ref": "58007005",
+          "start_ref_usfm": "HEB 7:5",
+          "end_ref": "58007005",
+          "end_ref_usfm": "HEB 7:5"
+        },
+        {
+          "start_ref": "58007010",
+          "start_ref_usfm": "HEB 7:10",
+          "end_ref": "58007010",
+          "end_ref_usfm": "HEB 7:10"
+        },
+        {
+          "start_ref": "60001013",
+          "start_ref_usfm": "1PE 1:13",
+          "end_ref": "60001013",
+          "end_ref_usfm": "1PE 1:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 26518,
+          "label": "Descendant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25783,
+          "content_id": 26641,
+          "label": "Gird",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

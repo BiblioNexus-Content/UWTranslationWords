@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 466751,
+    "reference_id": 25583,
+    "title": "Char",
+    "media_type": "Text",
+    "index_reference": "char",
+    "language": "fra",
+    "content": "<h1>char, conducteur de char</h1><h2>Définition :</h2><p>Dans l&apos;antiquité, les chars étaient des chariots légers à deux roues tirés par des chevaux.</p><ul><li><p>Les gens s&apos;asseyaient ou se tenaient dans des chars, les utilisant pour la guerre ou pour voyager.</p></li><li><p>En temps de guerre, une armée qui avait des chars avait un grand avantage en vitesse et mobilité sur une armée qui n&apos;en avait pas.</p></li><li><p>Les Égyptiens et Romains étaient bien renommés pour leur utilisation de chevaux et de chars.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../names/egypt.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01041043",
+          "start_ref_usfm": "GEN 41:43",
+          "end_ref": "01041043",
+          "end_ref_usfm": "GEN 41:43"
+        },
+        {
+          "start_ref": "01046029",
+          "start_ref_usfm": "GEN 46:29",
+          "end_ref": "01046029",
+          "end_ref_usfm": "GEN 46:29"
+        },
+        {
+          "start_ref": "01050009",
+          "start_ref_usfm": "GEN 50:9",
+          "end_ref": "01050009",
+          "end_ref_usfm": "GEN 50:9"
+        },
+        {
+          "start_ref": "02014006",
+          "start_ref_usfm": "EXO 14:6",
+          "end_ref": "02014006",
+          "end_ref_usfm": "EXO 14:6"
+        },
+        {
+          "start_ref": "02014007",
+          "start_ref_usfm": "EXO 14:7",
+          "end_ref": "02014007",
+          "end_ref_usfm": "EXO 14:7"
+        },
+        {
+          "start_ref": "02014009",
+          "start_ref_usfm": "EXO 14:9",
+          "end_ref": "02014009",
+          "end_ref_usfm": "EXO 14:9"
+        },
+        {
+          "start_ref": "02014017",
+          "start_ref_usfm": "EXO 14:17",
+          "end_ref": "02014017",
+          "end_ref_usfm": "EXO 14:17"
+        },
+        {
+          "start_ref": "02014018",
+          "start_ref_usfm": "EXO 14:18",
+          "end_ref": "02014018",
+          "end_ref_usfm": "EXO 14:18"
+        },
+        {
+          "start_ref": "02014023",
+          "start_ref_usfm": "EXO 14:23",
+          "end_ref": "02014023",
+          "end_ref_usfm": "EXO 14:23"
+        },
+        {
+          "start_ref": "02014025",
+          "start_ref_usfm": "EXO 14:25",
+          "end_ref": "02014025",
+          "end_ref_usfm": "EXO 14:25"
+        },
+        {
+          "start_ref": "02014026",
+          "start_ref_usfm": "EXO 14:26",
+          "end_ref": "02014026",
+          "end_ref_usfm": "EXO 14:26"
+        },
+        {
+          "start_ref": "02014028",
+          "start_ref_usfm": "EXO 14:28",
+          "end_ref": "02014028",
+          "end_ref_usfm": "EXO 14:28"
+        },
+        {
+          "start_ref": "02015004",
+          "start_ref_usfm": "EXO 15:4",
+          "end_ref": "02015004",
+          "end_ref_usfm": "EXO 15:4"
+        },
+        {
+          "start_ref": "02015019",
+          "start_ref_usfm": "EXO 15:19",
+          "end_ref": "02015019",
+          "end_ref_usfm": "EXO 15:19"
+        },
+        {
+          "start_ref": "11009022",
+          "start_ref_usfm": "1KI 9:22",
+          "end_ref": "11009022",
+          "end_ref_usfm": "1KI 9:22"
+        },
+        {
+          "start_ref": "22006012",
+          "start_ref_usfm": "SNG 6:12",
+          "end_ref": "22006012",
+          "end_ref_usfm": "SNG 6:12"
+        },
+        {
+          "start_ref": "37002022",
+          "start_ref_usfm": "HAG 2:22",
+          "end_ref": "37002022",
+          "end_ref_usfm": "HAG 2:22"
+        },
+        {
+          "start_ref": "44008028",
+          "start_ref_usfm": "ACT 8:28",
+          "end_ref": "44008028",
+          "end_ref_usfm": "ACT 8:28"
+        },
+        {
+          "start_ref": "44008029",
+          "start_ref_usfm": "ACT 8:29",
+          "end_ref": "44008029",
+          "end_ref_usfm": "ACT 8:29"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "66009009",
+          "start_ref_usfm": "REV 9:9",
+          "end_ref": "66009009",
+          "end_ref_usfm": "REV 9:9"
+        },
+        {
+          "start_ref": "66018013",
+          "start_ref_usfm": "REV 18:13",
+          "end_ref": "66018013",
+          "end_ref_usfm": "REV 18:13"
+        },
+        {
+          "start_ref": "14018028",
+          "start_ref_usfm": "2CH 18:28",
+          "end_ref": "14018030",
+          "end_ref_usfm": "2CH 18:30"
+        },
+        {
+          "start_ref": "27011040",
+          "start_ref_usfm": "DAN 11:40",
+          "end_ref": "27011041",
+          "end_ref_usfm": "DAN 11:41"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

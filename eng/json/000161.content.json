@@ -1,0 +1,491 @@
+[
+  {
+    "content_id": 26434,
+    "reference_id": 25576,
+    "title": "Castout",
+    "media_type": "Text",
+    "index_reference": "castout",
+    "language": "eng",
+    "content": "<h1>cast out, driving out, throw out</h1><h2>Definition:</h2><p>To “cast out” or “drive out” someone or something means to force that person or thing to go away.</p><ul><li><p>The term “cast” means the same thing as “throw.” To cast a net means to throw the net into the water.</p></li><li><p>In a figurative sense, “cast out” or “cast away” someone can mean to reject that person and send him away.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, other ways to translate this could include, “force out” or “send away” or “get rid of.”</p></li><li><p>To “cast out demons” could be translated as “cause the demons to leave” or “drive the evil spirits out” or “expel the demons” or “command the demon to come out.”</p></li><li><p>To “cast out” someone from a synagog or church could be translated as “banish them” or “put them out.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25658\" data-resourceType=\"UWTranslationWords\">demon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25659\" data-resourceType=\"UWTranslationWords\">demon-possessed</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25977\" data-resourceType=\"UWTranslationWords\">lots</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:17-Acts7:19\">Acts 7:17–19</a></p></li><li><p><a href=\"https://ref.ly/Mark3:13-Mark3:16\">Mark 3:13–16</a></p></li><li><p><a href=\"https://ref.ly/Mark9:29\">Mark 9:29</a></p></li><li><p><a href=\"https://ref.ly/Matt7:21-Matt7:23\">Matthew 7:21–23</a></p></li><li><p><a href=\"https://ref.ly/Matt9:32-Matt9:34\">Matthew 9:32–34</a></p></li><li><p><a href=\"https://ref.ly/Matt12:24\">Matthew 12:24</a></p></li><li><p><a href=\"https://ref.ly/Matt17:19-Matt17:21\">Matthew 17:19–21</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1272, H1644, H1920, H3423, H7971, H7993, G15440</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003024",
+          "start_ref_usfm": "GEN 3:24",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "01004014",
+          "start_ref_usfm": "GEN 4:14",
+          "end_ref": "01004014",
+          "end_ref_usfm": "GEN 4:14"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021010",
+          "end_ref_usfm": "GEN 21:10"
+        },
+        {
+          "start_ref": "01037020",
+          "start_ref_usfm": "GEN 37:20",
+          "end_ref": "01037020",
+          "end_ref_usfm": "GEN 37:20"
+        },
+        {
+          "start_ref": "01037022",
+          "start_ref_usfm": "GEN 37:22",
+          "end_ref": "01037022",
+          "end_ref_usfm": "GEN 37:22"
+        },
+        {
+          "start_ref": "01037024",
+          "start_ref_usfm": "GEN 37:24",
+          "end_ref": "01037024",
+          "end_ref_usfm": "GEN 37:24"
+        },
+        {
+          "start_ref": "02002017",
+          "start_ref_usfm": "EXO 2:17",
+          "end_ref": "02002017",
+          "end_ref_usfm": "EXO 2:17"
+        },
+        {
+          "start_ref": "02006001",
+          "start_ref_usfm": "EXO 6:1",
+          "end_ref": "02006001",
+          "end_ref_usfm": "EXO 6:1"
+        },
+        {
+          "start_ref": "02010011",
+          "start_ref_usfm": "EXO 10:11",
+          "end_ref": "02010011",
+          "end_ref_usfm": "EXO 10:11"
+        },
+        {
+          "start_ref": "02011001",
+          "start_ref_usfm": "EXO 11:1",
+          "end_ref": "02011001",
+          "end_ref_usfm": "EXO 11:1"
+        },
+        {
+          "start_ref": "02012039",
+          "start_ref_usfm": "EXO 12:39",
+          "end_ref": "02012039",
+          "end_ref_usfm": "EXO 12:39"
+        },
+        {
+          "start_ref": "02034024",
+          "start_ref_usfm": "EXO 34:24",
+          "end_ref": "02034024",
+          "end_ref_usfm": "EXO 34:24"
+        },
+        {
+          "start_ref": "20022010",
+          "start_ref_usfm": "PRO 22:10",
+          "end_ref": "20022010",
+          "end_ref_usfm": "PRO 22:10"
+        },
+        {
+          "start_ref": "40007022",
+          "start_ref_usfm": "MAT 7:22",
+          "end_ref": "40007022",
+          "end_ref_usfm": "MAT 7:22"
+        },
+        {
+          "start_ref": "40008012",
+          "start_ref_usfm": "MAT 8:12",
+          "end_ref": "40008012",
+          "end_ref_usfm": "MAT 8:12"
+        },
+        {
+          "start_ref": "40008016",
+          "start_ref_usfm": "MAT 8:16",
+          "end_ref": "40008016",
+          "end_ref_usfm": "MAT 8:16"
+        },
+        {
+          "start_ref": "40008031",
+          "start_ref_usfm": "MAT 8:31",
+          "end_ref": "40008031",
+          "end_ref_usfm": "MAT 8:31"
+        },
+        {
+          "start_ref": "40009025",
+          "start_ref_usfm": "MAT 9:25",
+          "end_ref": "40009025",
+          "end_ref_usfm": "MAT 9:25"
+        },
+        {
+          "start_ref": "40009033",
+          "start_ref_usfm": "MAT 9:33",
+          "end_ref": "40009033",
+          "end_ref_usfm": "MAT 9:33"
+        },
+        {
+          "start_ref": "40009034",
+          "start_ref_usfm": "MAT 9:34",
+          "end_ref": "40009034",
+          "end_ref_usfm": "MAT 9:34"
+        },
+        {
+          "start_ref": "40010001",
+          "start_ref_usfm": "MAT 10:1",
+          "end_ref": "40010001",
+          "end_ref_usfm": "MAT 10:1"
+        },
+        {
+          "start_ref": "40010008",
+          "start_ref_usfm": "MAT 10:8",
+          "end_ref": "40010008",
+          "end_ref_usfm": "MAT 10:8"
+        },
+        {
+          "start_ref": "40012024",
+          "start_ref_usfm": "MAT 12:24",
+          "end_ref": "40012024",
+          "end_ref_usfm": "MAT 12:24"
+        },
+        {
+          "start_ref": "40012026",
+          "start_ref_usfm": "MAT 12:26",
+          "end_ref": "40012026",
+          "end_ref_usfm": "MAT 12:26"
+        },
+        {
+          "start_ref": "40012027",
+          "start_ref_usfm": "MAT 12:27",
+          "end_ref": "40012027",
+          "end_ref_usfm": "MAT 12:27"
+        },
+        {
+          "start_ref": "40012028",
+          "start_ref_usfm": "MAT 12:28",
+          "end_ref": "40012028",
+          "end_ref_usfm": "MAT 12:28"
+        },
+        {
+          "start_ref": "40015017",
+          "start_ref_usfm": "MAT 15:17",
+          "end_ref": "40015017",
+          "end_ref_usfm": "MAT 15:17"
+        },
+        {
+          "start_ref": "40017019",
+          "start_ref_usfm": "MAT 17:19",
+          "end_ref": "40017019",
+          "end_ref_usfm": "MAT 17:19"
+        },
+        {
+          "start_ref": "40021012",
+          "start_ref_usfm": "MAT 21:12",
+          "end_ref": "40021012",
+          "end_ref_usfm": "MAT 21:12"
+        },
+        {
+          "start_ref": "40021039",
+          "start_ref_usfm": "MAT 21:39",
+          "end_ref": "40021039",
+          "end_ref_usfm": "MAT 21:39"
+        },
+        {
+          "start_ref": "40022013",
+          "start_ref_usfm": "MAT 22:13",
+          "end_ref": "40022013",
+          "end_ref_usfm": "MAT 22:13"
+        },
+        {
+          "start_ref": "40025030",
+          "start_ref_usfm": "MAT 25:30",
+          "end_ref": "40025030",
+          "end_ref_usfm": "MAT 25:30"
+        },
+        {
+          "start_ref": "41001034",
+          "start_ref_usfm": "MRK 1:34",
+          "end_ref": "41001034",
+          "end_ref_usfm": "MRK 1:34"
+        },
+        {
+          "start_ref": "41001039",
+          "start_ref_usfm": "MRK 1:39",
+          "end_ref": "41001039",
+          "end_ref_usfm": "MRK 1:39"
+        },
+        {
+          "start_ref": "41003015",
+          "start_ref_usfm": "MRK 3:15",
+          "end_ref": "41003015",
+          "end_ref_usfm": "MRK 3:15"
+        },
+        {
+          "start_ref": "41003022",
+          "start_ref_usfm": "MRK 3:22",
+          "end_ref": "41003022",
+          "end_ref_usfm": "MRK 3:22"
+        },
+        {
+          "start_ref": "41003023",
+          "start_ref_usfm": "MRK 3:23",
+          "end_ref": "41003023",
+          "end_ref_usfm": "MRK 3:23"
+        },
+        {
+          "start_ref": "41005040",
+          "start_ref_usfm": "MRK 5:40",
+          "end_ref": "41005040",
+          "end_ref_usfm": "MRK 5:40"
+        },
+        {
+          "start_ref": "41006013",
+          "start_ref_usfm": "MRK 6:13",
+          "end_ref": "41006013",
+          "end_ref_usfm": "MRK 6:13"
+        },
+        {
+          "start_ref": "41007026",
+          "start_ref_usfm": "MRK 7:26",
+          "end_ref": "41007026",
+          "end_ref_usfm": "MRK 7:26"
+        },
+        {
+          "start_ref": "41009018",
+          "start_ref_usfm": "MRK 9:18",
+          "end_ref": "41009018",
+          "end_ref_usfm": "MRK 9:18"
+        },
+        {
+          "start_ref": "41009028",
+          "start_ref_usfm": "MRK 9:28",
+          "end_ref": "41009028",
+          "end_ref_usfm": "MRK 9:28"
+        },
+        {
+          "start_ref": "41009029",
+          "start_ref_usfm": "MRK 9:29",
+          "end_ref": "41009029",
+          "end_ref_usfm": "MRK 9:29"
+        },
+        {
+          "start_ref": "41009038",
+          "start_ref_usfm": "MRK 9:38",
+          "end_ref": "41009038",
+          "end_ref_usfm": "MRK 9:38"
+        },
+        {
+          "start_ref": "41011015",
+          "start_ref_usfm": "MRK 11:15",
+          "end_ref": "41011015",
+          "end_ref_usfm": "MRK 11:15"
+        },
+        {
+          "start_ref": "41012008",
+          "start_ref_usfm": "MRK 12:8",
+          "end_ref": "41012008",
+          "end_ref_usfm": "MRK 12:8"
+        },
+        {
+          "start_ref": "42004029",
+          "start_ref_usfm": "LUK 4:29",
+          "end_ref": "42004029",
+          "end_ref_usfm": "LUK 4:29"
+        },
+        {
+          "start_ref": "42006022",
+          "start_ref_usfm": "LUK 6:22",
+          "end_ref": "42006022",
+          "end_ref_usfm": "LUK 6:22"
+        },
+        {
+          "start_ref": "42006042",
+          "start_ref_usfm": "LUK 6:42",
+          "end_ref": "42006042",
+          "end_ref_usfm": "LUK 6:42"
+        },
+        {
+          "start_ref": "42009040",
+          "start_ref_usfm": "LUK 9:40",
+          "end_ref": "42009040",
+          "end_ref_usfm": "LUK 9:40"
+        },
+        {
+          "start_ref": "42009049",
+          "start_ref_usfm": "LUK 9:49",
+          "end_ref": "42009049",
+          "end_ref_usfm": "LUK 9:49"
+        },
+        {
+          "start_ref": "42011014",
+          "start_ref_usfm": "LUK 11:14",
+          "end_ref": "42011014",
+          "end_ref_usfm": "LUK 11:14"
+        },
+        {
+          "start_ref": "42011015",
+          "start_ref_usfm": "LUK 11:15",
+          "end_ref": "42011015",
+          "end_ref_usfm": "LUK 11:15"
+        },
+        {
+          "start_ref": "42011018",
+          "start_ref_usfm": "LUK 11:18",
+          "end_ref": "42011018",
+          "end_ref_usfm": "LUK 11:18"
+        },
+        {
+          "start_ref": "42011019",
+          "start_ref_usfm": "LUK 11:19",
+          "end_ref": "42011019",
+          "end_ref_usfm": "LUK 11:19"
+        },
+        {
+          "start_ref": "42011020",
+          "start_ref_usfm": "LUK 11:20",
+          "end_ref": "42011020",
+          "end_ref_usfm": "LUK 11:20"
+        },
+        {
+          "start_ref": "42013028",
+          "start_ref_usfm": "LUK 13:28",
+          "end_ref": "42013028",
+          "end_ref_usfm": "LUK 13:28"
+        },
+        {
+          "start_ref": "42013032",
+          "start_ref_usfm": "LUK 13:32",
+          "end_ref": "42013032",
+          "end_ref_usfm": "LUK 13:32"
+        },
+        {
+          "start_ref": "42019045",
+          "start_ref_usfm": "LUK 19:45",
+          "end_ref": "42019045",
+          "end_ref_usfm": "LUK 19:45"
+        },
+        {
+          "start_ref": "42020012",
+          "start_ref_usfm": "LUK 20:12",
+          "end_ref": "42020012",
+          "end_ref_usfm": "LUK 20:12"
+        },
+        {
+          "start_ref": "42020015",
+          "start_ref_usfm": "LUK 20:15",
+          "end_ref": "42020015",
+          "end_ref_usfm": "LUK 20:15"
+        },
+        {
+          "start_ref": "43002015",
+          "start_ref_usfm": "JHN 2:15",
+          "end_ref": "43002015",
+          "end_ref_usfm": "JHN 2:15"
+        },
+        {
+          "start_ref": "43006037",
+          "start_ref_usfm": "JHN 6:37",
+          "end_ref": "43006037",
+          "end_ref_usfm": "JHN 6:37"
+        },
+        {
+          "start_ref": "43009034",
+          "start_ref_usfm": "JHN 9:34",
+          "end_ref": "43009034",
+          "end_ref_usfm": "JHN 9:34"
+        },
+        {
+          "start_ref": "43009035",
+          "start_ref_usfm": "JHN 9:35",
+          "end_ref": "43009035",
+          "end_ref_usfm": "JHN 9:35"
+        },
+        {
+          "start_ref": "43012031",
+          "start_ref_usfm": "JHN 12:31",
+          "end_ref": "43012031",
+          "end_ref_usfm": "JHN 12:31"
+        },
+        {
+          "start_ref": "44007058",
+          "start_ref_usfm": "ACT 7:58",
+          "end_ref": "44007058",
+          "end_ref_usfm": "ACT 7:58"
+        },
+        {
+          "start_ref": "44013050",
+          "start_ref_usfm": "ACT 13:50",
+          "end_ref": "44013050",
+          "end_ref_usfm": "ACT 13:50"
+        },
+        {
+          "start_ref": "44016037",
+          "start_ref_usfm": "ACT 16:37",
+          "end_ref": "44016037",
+          "end_ref_usfm": "ACT 16:37"
+        },
+        {
+          "start_ref": "44027038",
+          "start_ref_usfm": "ACT 27:38",
+          "end_ref": "44027038",
+          "end_ref_usfm": "ACT 27:38"
+        },
+        {
+          "start_ref": "64001010",
+          "start_ref_usfm": "3JN 1:10",
+          "end_ref": "64001010",
+          "end_ref_usfm": "3JN 1:10"
+        },
+        {
+          "start_ref": "40007021",
+          "start_ref_usfm": "MAT 7:21",
+          "end_ref": "40007023",
+          "end_ref_usfm": "MAT 7:23"
+        },
+        {
+          "start_ref": "40009032",
+          "start_ref_usfm": "MAT 9:32",
+          "end_ref": "40009034",
+          "end_ref_usfm": "MAT 9:34"
+        },
+        {
+          "start_ref": "44007017",
+          "start_ref_usfm": "ACT 7:17",
+          "end_ref": "44007019",
+          "end_ref_usfm": "ACT 7:19"
+        },
+        {
+          "start_ref": "41003013",
+          "start_ref_usfm": "MRK 3:13",
+          "end_ref": "41003016",
+          "end_ref_usfm": "MRK 3:16"
+        },
+        {
+          "start_ref": "40017019",
+          "start_ref_usfm": "MAT 17:19",
+          "end_ref": "40017021",
+          "end_ref_usfm": "MAT 17:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25658,
+          "content_id": 26516,
+          "label": "Demon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25659,
+          "content_id": 26517,
+          "label": "Demon Possessed",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25977,
+          "content_id": 26835,
+          "label": "Lots",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

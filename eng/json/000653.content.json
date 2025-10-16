@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26927,
+    "reference_id": 26069,
+    "title": "Paddanaram",
+    "media_type": "Text",
+    "index_reference": "paddanaram",
+    "language": "eng",
+    "content": "<h1>Paddan Aram</h1><h2>Facts:</h2><p>Paddan Aram was the name of a region where Abraham’s family lived before moving to the land of Canaan. It means “plain of Aram.”</p><ul><li><p>When Abraham left Haran in Paddan Aram to travel to the land of Canaan, most of the rest of his family stayed behind in Haran.</p></li><li><p>Many years later, Abraham’s servant went to Paddan Aram to find a wife for Isaac among his relatives there and found Rebekah, grand-daughter of Bethuel.</p></li><li><p>Isaac and Rebekah’s son Jacob also traveled to Paddan Aram and married two daughters of Rebekah’s brother Laban who was living in Haran.</p></li><li><p>Aram, Paddan-Aram, and Aram-Nahariam were all part of the same region that is now where the modern-day country of Syria is located.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Aram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25532\" data-resourceType=\"UWTranslationWords\">Bethuel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25819\" data-resourceType=\"UWTranslationWords\">Haran</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25948\" data-resourceType=\"UWTranslationWords\">Laban</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26156\" data-resourceType=\"UWTranslationWords\">Rebekah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen28:2\">Genesis 28:2</a></p></li><li><p><a href=\"https://ref.ly/Gen35:9\">Genesis 35:9</a></p></li><li><p><a href=\"https://ref.ly/Gen46:12-Gen46:15\">Genesis 46:12–15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6307</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025020",
+          "start_ref_usfm": "GEN 25:20",
+          "end_ref": "01025020",
+          "end_ref_usfm": "GEN 25:20"
+        },
+        {
+          "start_ref": "01028002",
+          "start_ref_usfm": "GEN 28:2",
+          "end_ref": "01028002",
+          "end_ref_usfm": "GEN 28:2"
+        },
+        {
+          "start_ref": "01028005",
+          "start_ref_usfm": "GEN 28:5",
+          "end_ref": "01028005",
+          "end_ref_usfm": "GEN 28:5"
+        },
+        {
+          "start_ref": "01028006",
+          "start_ref_usfm": "GEN 28:6",
+          "end_ref": "01028006",
+          "end_ref_usfm": "GEN 28:6"
+        },
+        {
+          "start_ref": "01028007",
+          "start_ref_usfm": "GEN 28:7",
+          "end_ref": "01028007",
+          "end_ref_usfm": "GEN 28:7"
+        },
+        {
+          "start_ref": "01031018",
+          "start_ref_usfm": "GEN 31:18",
+          "end_ref": "01031018",
+          "end_ref_usfm": "GEN 31:18"
+        },
+        {
+          "start_ref": "01033018",
+          "start_ref_usfm": "GEN 33:18",
+          "end_ref": "01033018",
+          "end_ref_usfm": "GEN 33:18"
+        },
+        {
+          "start_ref": "01035009",
+          "start_ref_usfm": "GEN 35:9",
+          "end_ref": "01035009",
+          "end_ref_usfm": "GEN 35:9"
+        },
+        {
+          "start_ref": "01035026",
+          "start_ref_usfm": "GEN 35:26",
+          "end_ref": "01035026",
+          "end_ref_usfm": "GEN 35:26"
+        },
+        {
+          "start_ref": "01046015",
+          "start_ref_usfm": "GEN 46:15",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "01046012",
+          "start_ref_usfm": "GEN 46:12",
+          "end_ref": "01046015",
+          "end_ref_usfm": "GEN 46:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 26282,
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 26329,
+          "label": "Aram",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25532,
+          "content_id": 26390,
+          "label": "Bethuel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25819,
+          "content_id": 26677,
+          "label": "Haran",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25948,
+          "content_id": 26806,
+          "label": "Laban",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26156,
+          "content_id": 27014,
+          "label": "Rebekah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

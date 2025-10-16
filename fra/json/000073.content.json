@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 466658,
+    "reference_id": 25479,
+    "title": "Asa",
+    "media_type": "Text",
+    "index_reference": "asa",
+    "language": "fra",
+    "content": "<h1>Asa</h1><h2>Définition :</h2><p>Asa était un roi qui régna sur le royaume de Juda pendant quarante ans, de 913 à 873 Avant Jésus-Christ.</p><ul><li><p>Le Roi Asa était un bon roi qui élimina plusieurs idoles, de faux dieux et amena les Israélites à recommencer encore à adorer Jéhovah.</p></li><li><p>Jéhovah donna du succès au roi Asa dans ses batailles contre d&apos;autres nations.</p></li><li><p>Plus tard le roi Asa cessa de placer sa confiance en l&apos;Eternel et souffrit d&apos;une maladie qui l&apos;emporta.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14014003",
+          "start_ref_usfm": "2CH 14:3",
+          "end_ref": "14014003",
+          "end_ref_usfm": "2CH 14:3"
+        },
+        {
+          "start_ref": "24041009",
+          "start_ref_usfm": "JER 41:9",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001007",
+          "end_ref_usfm": "MAT 1:7"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "13009014",
+          "start_ref_usfm": "1CH 9:14",
+          "end_ref": "13009016",
+          "end_ref_usfm": "1CH 9:16"
+        },
+        {
+          "start_ref": "11015007",
+          "start_ref_usfm": "1KI 15:7",
+          "end_ref": "11015008",
+          "end_ref_usfm": "1KI 15:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 238352,
+    "reference_id": 26223,
+    "title": "Siquém",
+    "media_type": "Text",
+    "index_reference": "siquém",
+    "language": "por",
+    "content": "<h1>Siquém</h1><h2>Fatos:</h2><p>Siquém era uma cidade em Canaã localizada a cerca de 64 quilômetros ao norte de Jerusalém. Siquém também era o nome de um homem no Antigo Testamento.</p><ul><li><p>A cidade de Siquém foi onde Jacó se estabeleceu após se reconciliar com seu irmão Esaú.</p></li><li><p>Jacó comprou terras dos filhos de Hamor, o heveu, em Siquém. Esta terra mais tarde se tornou o local de sepultamento de sua família e o lugar onde seus filhos o enterraram.</p></li><li><p>O filho de Hamor, Siquém, estuprou Diná, filha de Jacó, resultando na morte de todos os homens da cidade de Siquém pelos filhos de Jacó.</p></li></ul><p>(Sugestões de tradução: <span data-bnType=\"resourceReference\" data-resourceId=\"25815\" data-resourceType=\"UWTranslationWords\">Hamor</span>)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esaú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25815\" data-resourceType=\"UWTranslationWords\">Hamor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25839\" data-resourceType=\"UWTranslationWords\">heveu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:14-Acts7:16\">Atos 7.14–16</a></p></li><li><p><a href=\"https://ref.ly/Gen12:6-Gen12:7\">Gênesis 12.6–7</a></p></li><li><p><a href=\"https://ref.ly/Gen33:19\">Gênesis 33.19</a></p></li><li><p><a href=\"https://ref.ly/Gen37:13\">Gênesis 37.13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7928, H7930</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012006",
+          "end_ref_usfm": "GEN 12:6"
+        },
+        {
+          "start_ref": "01033018",
+          "start_ref_usfm": "GEN 33:18",
+          "end_ref": "01033018",
+          "end_ref_usfm": "GEN 33:18"
+        },
+        {
+          "start_ref": "01033019",
+          "start_ref_usfm": "GEN 33:19",
+          "end_ref": "01033019",
+          "end_ref_usfm": "GEN 33:19"
+        },
+        {
+          "start_ref": "01034002",
+          "start_ref_usfm": "GEN 34:2",
+          "end_ref": "01034002",
+          "end_ref_usfm": "GEN 34:2"
+        },
+        {
+          "start_ref": "01034004",
+          "start_ref_usfm": "GEN 34:4",
+          "end_ref": "01034004",
+          "end_ref_usfm": "GEN 34:4"
+        },
+        {
+          "start_ref": "01034006",
+          "start_ref_usfm": "GEN 34:6",
+          "end_ref": "01034006",
+          "end_ref_usfm": "GEN 34:6"
+        },
+        {
+          "start_ref": "01034008",
+          "start_ref_usfm": "GEN 34:8",
+          "end_ref": "01034008",
+          "end_ref_usfm": "GEN 34:8"
+        },
+        {
+          "start_ref": "01034011",
+          "start_ref_usfm": "GEN 34:11",
+          "end_ref": "01034011",
+          "end_ref_usfm": "GEN 34:11"
+        },
+        {
+          "start_ref": "01034013",
+          "start_ref_usfm": "GEN 34:13",
+          "end_ref": "01034013",
+          "end_ref_usfm": "GEN 34:13"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034018",
+          "end_ref_usfm": "GEN 34:18"
+        },
+        {
+          "start_ref": "01034020",
+          "start_ref_usfm": "GEN 34:20",
+          "end_ref": "01034020",
+          "end_ref_usfm": "GEN 34:20"
+        },
+        {
+          "start_ref": "01034024",
+          "start_ref_usfm": "GEN 34:24",
+          "end_ref": "01034024",
+          "end_ref_usfm": "GEN 34:24"
+        },
+        {
+          "start_ref": "01034026",
+          "start_ref_usfm": "GEN 34:26",
+          "end_ref": "01034026",
+          "end_ref_usfm": "GEN 34:26"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037012",
+          "end_ref_usfm": "GEN 37:12"
+        },
+        {
+          "start_ref": "01037013",
+          "start_ref_usfm": "GEN 37:13",
+          "end_ref": "01037013",
+          "end_ref_usfm": "GEN 37:13"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "44007016",
+          "start_ref_usfm": "ACT 7:16",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        },
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "44007014",
+          "start_ref_usfm": "ACT 7:14",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 237843,
+          "label": "Esaú",
+          "language": "por"
+        },
+        {
+          "reference_id": 25815,
+          "content_id": 237948,
+          "label": "Hamor",
+          "language": "por"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 237972,
+          "label": "Heveu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

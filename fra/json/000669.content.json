@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 467242,
+    "reference_id": 26119,
+    "title": "Predestine",
+    "media_type": "Text",
+    "index_reference": "predestine",
+    "language": "fra",
+    "content": "<h1>predestine, predestined</h1><h2>Definition:</h2><p>Les termes « prédestiner » et « prédestiné » se réfèrent à la décision ou à la planification à l&apos;avance que quelque chose va se passer.</p><ul><li><p>Ce terme se réfère particulièrement à Dieu fixant les événements de la vie humaine, comme dans le cas des gens recevant la vie éternelle.</p></li><li><p>Parfois, le mot « prédestiner » est utilisé dans le sens de décider à l&apos;avance.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Le terme « prédestiné » pourrait également être traduit par « décidé auparavant » ou « décidé à l&apos;avance ».</p></li><li><p>Le terme « prédestiné » pourrait être aussi traduit par « décidé il y a longtemps » ou « planifié à l&apos;avance ».</p></li><li><p>Une expression telle que « nous sommes prédestinés » pourrait être traduite par « cela a été décidé il y a longtemps pour nous » ou « on a décidé à l&apos;avance pour nous ».</p></li><li><p>Notez que la traduction de ce terme doit être différente de la traduction du terme « prévu » ou « connu en avance ».</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25751\" data-resourceType=\"UWTranslationWords\">foreknew</span>)</p><h2>Bible References:</h2><ul><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">1 Corinthians 02:6–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G4309</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004028",
+          "start_ref_usfm": "ACT 4:28",
+          "end_ref": "44004028",
+          "end_ref_usfm": "ACT 4:28"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "45008030",
+          "start_ref_usfm": "ROM 8:30",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "46002007",
+          "start_ref_usfm": "1CO 2:7",
+          "end_ref": "46002007",
+          "end_ref_usfm": "1CO 2:7"
+        },
+        {
+          "start_ref": "49001005",
+          "start_ref_usfm": "EPH 1:5",
+          "end_ref": "49001005",
+          "end_ref_usfm": "EPH 1:5"
+        },
+        {
+          "start_ref": "49001011",
+          "start_ref_usfm": "EPH 1:11",
+          "end_ref": "49001011",
+          "end_ref_usfm": "EPH 1:11"
+        },
+        {
+          "start_ref": "46002006",
+          "start_ref_usfm": "1CO 2:6",
+          "end_ref": "46002007",
+          "end_ref_usfm": "1CO 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

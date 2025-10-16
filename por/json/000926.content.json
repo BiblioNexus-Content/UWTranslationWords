@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237652,
+    "reference_id": 25516,
+    "title": "Urso",
+    "media_type": "Text",
+    "index_reference": "urso",
+    "language": "por",
+    "content": "<h1>urso</h1><h2>Definição:</h2><p>Um urso é um grande animal peludo de quatro patas com pelos castanhos escuros ou pretos, com dentes e garras afiadas. Ursos eram comuns em Israel durante os tempos bíblicos.</p><ul><li><p>Esses animais vivem em florestas e áreas montanhosas; eles comem peixes, insetos e plantas.</p></li><li><p>No Antigo Testamento, o urso é usado como símbolo de força.</p></li><li><p>Enquanto cuidava das ovelhas, o pastor Davi lutou contra um urso e o derrotou.</p></li><li><p>Dois ursos saíram da floresta e atacaram um grupo de jovens que haviam zombado do profeta Eliseu.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">Eliseu</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1677, G07150</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017012",
+          "start_ref_usfm": "PRO 17:12",
+          "end_ref": "20017012",
+          "end_ref_usfm": "PRO 17:12"
+        },
+        {
+          "start_ref": "20028015",
+          "start_ref_usfm": "PRO 28:15",
+          "end_ref": "20028015",
+          "end_ref_usfm": "PRO 28:15"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 237831,
+          "label": "Eliseu",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

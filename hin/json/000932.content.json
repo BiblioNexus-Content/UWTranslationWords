@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 179889,
+    "reference_id": 25818,
+    "title": "हन्ना",
+    "media_type": "Text",
+    "index_reference": "हन्ना",
+    "language": "hin",
+    "content": "<h1>हन्ना</h1><h2>तथ्य:</h2><p>हन्ना भविष्यद्वक्ता शमूएल की माता थी। वह एल्काना की दो पत्नियों में से एक थी।</p><ul><li><p>हन्ना निःसन्तान थी यह उसके लिए दु:ख की बात थी।</p></li><li><p>मन्दिर में हन्ना ने दिल से प्रार्थना की कि उसे पुत्र मिले जिसे वह परमेश्वर को ही अर्पित कर देगी।</p></li><li><p>परमेश्वर ने उसे पुत्र दिया और जब वह बालक बड़ा हो गया तब हन्ना ने उसे मन्दिर में सेवा के लए दे दिया।</p></li><li><p>परमेश्वर ने हन्ना को इसके बाद और भी सन्तान दी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25603\" data-resourceType=\"UWTranslationWords\">गर्भवती होना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26194\" data-resourceType=\"UWTranslationWords\">शमूएल</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 01:1–2</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 02:1</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2584</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002001",
+          "start_ref_usfm": "1SA 2:1",
+          "end_ref": "09002001",
+          "end_ref_usfm": "1SA 2:1"
+        },
+        {
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001002",
+          "end_ref_usfm": "1SA 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25603,
+          "content_id": 179682,
+          "label": "गर्भवती होना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 180252,
+          "label": "शमूएल",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

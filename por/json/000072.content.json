@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237607,
+    "reference_id": 25470,
+    "title": "Arábia",
+    "media_type": "Text",
+    "index_reference": "arábia",
+    "language": "por",
+    "content": "<h1>Arábia, Árabe</h1><h2>Fatos:</h2><p>A Arábia é a maior península do mundo, cobrindo quase 3.000.000 quilômetros quadrados. Está localizada a sudeste de Israel e é limitada pelo Mar Vermelho, o Mar Arábico e o Golfo Pérsico.</p><ul><li><p>O termo “Árabe” é usado para se referir a alguém que vive na Arábia ou a algo que está conectado com a Arábia.</p></li><li><p>As primeiras pessoas a viver na Arábia foram netos de Sem. Outros habitantes antigos da Arábia incluíam o filho de Abraão, Ismael, e seus descendentes, bem como os descendentes de Esaú.</p></li><li><p>A região desértica onde os israelitas vagaram por 40 anos estava localizada na Arábia.</p></li><li><p>Depois de se tornar um crente em Jesus, o apóstolo Paulo passou alguns anos no deserto da Arábia.</p></li><li><p>Em sua carta aos cristãos na Galácia, Paulo mencionou que o Monte Sinai estava localizado na Arábia.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esaú</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25765\" data-resourceType=\"UWTranslationWords\">Galácia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">Ismael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Sem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26241\" data-resourceType=\"UWTranslationWords\">Sinai</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:14-1Kgs10:15\">1 Reis 10.14–15</a></p></li><li><p><a href=\"https://ref.ly/Acts2:11\">Atos 2.11</a></p></li><li><p><a href=\"https://ref.ly/Gal1:15-Gal1:17\">Gálatas 1.15–17</a></p></li><li><p><a href=\"https://ref.ly/Gal4:24-Gal4:25\">Gálatas 4.24–25</a></p></li><li><p><a href=\"https://ref.ly/Jer25:24-Jer25:26\">Jeremias 25.24–26</a></p></li><li><p><a href=\"https://ref.ly/Neh2:19-Neh2:20\">Neemias 2.19–20</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6152, H6153, H6163, G06880, G06900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002011",
+          "start_ref_usfm": "ACT 2:11",
+          "end_ref": "44002011",
+          "end_ref_usfm": "ACT 2:11"
+        },
+        {
+          "start_ref": "48004024",
+          "start_ref_usfm": "GAL 4:24",
+          "end_ref": "48004025",
+          "end_ref_usfm": "GAL 4:25"
+        },
+        {
+          "start_ref": "11010014",
+          "start_ref_usfm": "1KI 10:14",
+          "end_ref": "11010015",
+          "end_ref_usfm": "1KI 10:15"
+        },
+        {
+          "start_ref": "48001015",
+          "start_ref_usfm": "GAL 1:15",
+          "end_ref": "48001017",
+          "end_ref_usfm": "GAL 1:17"
+        },
+        {
+          "start_ref": "24025024",
+          "start_ref_usfm": "JER 25:24",
+          "end_ref": "24025026",
+          "end_ref_usfm": "JER 25:26"
+        },
+        {
+          "start_ref": "16002019",
+          "start_ref_usfm": "NEH 2:19",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25710,
+          "content_id": 237843,
+          "label": "Esaú",
+          "language": "por"
+        },
+        {
+          "reference_id": 25765,
+          "content_id": 237898,
+          "label": "Galácia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 238011,
+          "label": "Ismael",
+          "language": "por"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 238354,
+          "label": "Sem",
+          "language": "por"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 238370,
+          "label": "Sinai",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

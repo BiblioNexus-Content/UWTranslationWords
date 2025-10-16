@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180017,
+    "reference_id": 25952,
+    "title": "लेमेक",
+    "media_type": "Text",
+    "index_reference": "लेमेक",
+    "language": "hin",
+    "content": "<h1>लेमेक</h1><h2>तथ्य:</h2><p>लेमेक नामक दो पुरुष पुराने नियम में हैं।</p><ul><li><p>पहला लेमेक केन का वंशज था। उसने अपनी पत्नियों से बड़े घमण्ड से कहा कि उसने हानि करने वाले एक पुरुष की हत्या कर दी है।</p></li><li><p>दूसरा लेमेक शेत का वंशज था। वह नूह का पिता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">कैन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">नूह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26218\" data-resourceType=\"UWTranslationWords\">शेत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen4:18-Gen4:19\">उत्पत्ति 04:18–19</a></p></li><li><p><a href=\"https://ref.ly/Gen4:23-Gen4:24\">उत्पत्ति 04:23–24</a></p></li><li><p><a href=\"https://ref.ly/Gen5:25-Gen5:27\">उत्पत्ति 05:25–27</a></p></li><li><p><a href=\"https://ref.ly/Gen5:28-Gen5:29\">उत्पत्ति 05:28–29</a></p></li><li><p><a href=\"https://ref.ly/Gen5:30-Gen5:31\">उत्पत्ति 05:30–31</a></p></li><li><p><a href=\"https://ref.ly/Luke3:36-Luke3:38\">लूका 03:36–38</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H3929, G29840</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
+        },
+        {
+          "start_ref": "01004019",
+          "start_ref_usfm": "GEN 4:19",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        },
+        {
+          "start_ref": "01004023",
+          "start_ref_usfm": "GEN 4:23",
+          "end_ref": "01004023",
+          "end_ref_usfm": "GEN 4:23"
+        },
+        {
+          "start_ref": "01004024",
+          "start_ref_usfm": "GEN 4:24",
+          "end_ref": "01004024",
+          "end_ref_usfm": "GEN 4:24"
+        },
+        {
+          "start_ref": "01005025",
+          "start_ref_usfm": "GEN 5:25",
+          "end_ref": "01005025",
+          "end_ref_usfm": "GEN 5:25"
+        },
+        {
+          "start_ref": "01005026",
+          "start_ref_usfm": "GEN 5:26",
+          "end_ref": "01005026",
+          "end_ref_usfm": "GEN 5:26"
+        },
+        {
+          "start_ref": "01005028",
+          "start_ref_usfm": "GEN 5:28",
+          "end_ref": "01005028",
+          "end_ref_usfm": "GEN 5:28"
+        },
+        {
+          "start_ref": "01005029",
+          "start_ref_usfm": "GEN 5:29",
+          "end_ref": "01005029",
+          "end_ref_usfm": "GEN 5:29"
+        },
+        {
+          "start_ref": "01005030",
+          "start_ref_usfm": "GEN 5:30",
+          "end_ref": "01005030",
+          "end_ref_usfm": "GEN 5:30"
+        },
+        {
+          "start_ref": "01005031",
+          "start_ref_usfm": "GEN 5:31",
+          "end_ref": "01005031",
+          "end_ref_usfm": "GEN 5:31"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004019",
+          "end_ref_usfm": "GEN 4:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 179647,
+          "label": "कैन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 180118,
+          "label": "नूह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26218,
+          "content_id": 180274,
+          "label": "शेत",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

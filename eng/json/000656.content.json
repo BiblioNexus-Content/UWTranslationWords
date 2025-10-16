@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 26930,
+    "reference_id": 26072,
+    "title": "Palm",
+    "media_type": "Text",
+    "index_reference": "palm",
+    "language": "eng",
+    "content": "<h1>palm</h1><h2>Definition:</h2><p>The term “palm” refers to a type of tall tree with long, flexible, leafy branches extending from the top in a fan-like pattern.</p><ul><li><p>The palm tree in the Bible usually refers to a type of palm tree that produces a fruit called a “date.” The leaves have a feather-like pattern.</p></li><li><p>Palm trees typically grow in places that have a hot, humid climate. Their leaves stay green all year long.</p></li><li><p>As Jesus was entering Jerusalem riding on a donkey, the people laid palm branches on the ground in front of him.</p></li><li><p>Palm branches signified peace and the celebration of a victory.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25678\" data-resourceType=\"UWTranslationWords\">donkey</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26080\" data-resourceType=\"UWTranslationWords\">peace</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs6:29-1Kgs6:30\">1 Kings 6:29–30</a></p></li><li><p><a href=\"https://ref.ly/Ezek40:14-Ezek40:16\">Ezekiel 40:14–16</a></p></li><li><p><a href=\"https://ref.ly/John12:12-John12:13\">John 12:12–13</a></p></li><li><p><a href=\"https://ref.ly/Num33:9\">Numbers 33:9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3712, H8558, H8560, H8561, G54040</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015027",
+          "start_ref_usfm": "EXO 15:27",
+          "end_ref": "02015027",
+          "end_ref_usfm": "EXO 15:27"
+        },
+        {
+          "start_ref": "04033009",
+          "start_ref_usfm": "NUM 33:9",
+          "end_ref": "04033009",
+          "end_ref_usfm": "NUM 33:9"
+        },
+        {
+          "start_ref": "43012013",
+          "start_ref_usfm": "JHN 12:13",
+          "end_ref": "43012013",
+          "end_ref_usfm": "JHN 12:13"
+        },
+        {
+          "start_ref": "66007009",
+          "start_ref_usfm": "REV 7:9",
+          "end_ref": "66007009",
+          "end_ref_usfm": "REV 7:9"
+        },
+        {
+          "start_ref": "11006029",
+          "start_ref_usfm": "1KI 6:29",
+          "end_ref": "11006030",
+          "end_ref_usfm": "1KI 6:30"
+        },
+        {
+          "start_ref": "26040014",
+          "start_ref_usfm": "EZK 40:14",
+          "end_ref": "26040016",
+          "end_ref_usfm": "EZK 40:16"
+        },
+        {
+          "start_ref": "43012012",
+          "start_ref_usfm": "JHN 12:12",
+          "end_ref": "43012013",
+          "end_ref_usfm": "JHN 12:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25678,
+          "content_id": 26536,
+          "label": "Donkey",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 26756,
+          "label": "Jerusalem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 26938,
+          "label": "Peace",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

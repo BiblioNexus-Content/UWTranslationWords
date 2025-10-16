@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 27043,
+    "reference_id": 26185,
+    "title": "Ruth",
+    "media_type": "Text",
+    "index_reference": "ruth",
+    "language": "eng",
+    "content": "<h1>Ruth</h1><h2>Facts:</h2><p>Ruth was a Moabite woman who lived during the time when judges were leading Israel. In Moab, she married an Israelite man named Mahlon after his family had moved there because of a famine in Israel. Mahlon died, and some time after that she left Moab with her mother-in-law Naomi to return to the city of Bethlehem in Israel.</p><ul><li><p>Ruth was loyal to Naomi and worked hard to provide food for her.</p></li><li><p>She also committed herself to serving the one true God of Israel.</p></li><li><p>Ruth married an Israelite man named Boaz and gave birth to a son named Obed. Obed became the grandfather of King David, and King David was an ancestor of Jesus.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Bethlehem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">Boaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">judge</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:3-Ruth1:5\">Ruth 1:3–5</a></p></li><li><p><a href=\"https://ref.ly/Ruth3:9\">Ruth 3:9</a></p></li><li><p><a href=\"https://ref.ly/Ruth4:6\">Ruth 4:6</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7327, G45030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08001004",
+          "start_ref_usfm": "RUT 1:4",
+          "end_ref": "08001004",
+          "end_ref_usfm": "RUT 1:4"
+        },
+        {
+          "start_ref": "08001014",
+          "start_ref_usfm": "RUT 1:14",
+          "end_ref": "08001014",
+          "end_ref_usfm": "RUT 1:14"
+        },
+        {
+          "start_ref": "08001016",
+          "start_ref_usfm": "RUT 1:16",
+          "end_ref": "08001016",
+          "end_ref_usfm": "RUT 1:16"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08002008",
+          "start_ref_usfm": "RUT 2:8",
+          "end_ref": "08002008",
+          "end_ref_usfm": "RUT 2:8"
+        },
+        {
+          "start_ref": "08002021",
+          "start_ref_usfm": "RUT 2:21",
+          "end_ref": "08002021",
+          "end_ref_usfm": "RUT 2:21"
+        },
+        {
+          "start_ref": "08002022",
+          "start_ref_usfm": "RUT 2:22",
+          "end_ref": "08002022",
+          "end_ref_usfm": "RUT 2:22"
+        },
+        {
+          "start_ref": "08003009",
+          "start_ref_usfm": "RUT 3:9",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "08004005",
+          "start_ref_usfm": "RUT 4:5",
+          "end_ref": "08004005",
+          "end_ref_usfm": "RUT 4:5"
+        },
+        {
+          "start_ref": "08004006",
+          "start_ref_usfm": "RUT 4:6",
+          "end_ref": "08004006",
+          "end_ref_usfm": "RUT 4:6"
+        },
+        {
+          "start_ref": "08004010",
+          "start_ref_usfm": "RUT 4:10",
+          "end_ref": "08004010",
+          "end_ref_usfm": "RUT 4:10"
+        },
+        {
+          "start_ref": "08004013",
+          "start_ref_usfm": "RUT 4:13",
+          "end_ref": "08004013",
+          "end_ref_usfm": "RUT 4:13"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "08001003",
+          "start_ref_usfm": "RUT 1:3",
+          "end_ref": "08001005",
+          "end_ref_usfm": "RUT 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 26388,
+          "label": "Bethlehem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 26406,
+          "label": "Boaz",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 26787,
+          "label": "Judge",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 26788,
+          "label": "Judge Position",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

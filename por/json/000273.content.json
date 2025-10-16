@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238415,
+    "reference_id": 26286,
+    "title": "Dez Mandamentos",
+    "media_type": "Text",
+    "index_reference": "dez mandamentos",
+    "language": "por",
+    "content": "<h1>Dez Mandamentos</h1><h2>Fatos:</h2><p>Os “Dez Mandamentos” foram ordens que Deus deu a Moisés no Monte Sinai enquanto os israelitas estavam vivendo no deserto a caminho da terra de Canaã. Deus escreveu esses comandos em duas grandes tábuas de pedra.</p><ul><li><p>Deus deu aos israelitas muitas ordens para obedecer, mas os Dez Mandamentos eram ordens especiais para ajudar os israelitas a amar e adorar a Deus e amar outras pessoas.</p></li><li><p>Esses mandamentos também faziam parte da aliança de Deus com seu povo. Ao obedecer ao que Deus lhes havia ordenado, o povo de Israel mostraria que amava a Deus e pertencia a ele.</p></li><li><p>As tábuas de pedra com os mandamentos escritos nelas foram guardadas na Arca da Aliança, que estava localizada no lugar mais sagrado do tabernáculo e, posteriormente, no templo.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">arca da aliança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_command\" data-resourceType=\"UWTranslationWords\">ordem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25621\" data-resourceType=\"UWTranslationWords\">aliança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">deserto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25957\" data-resourceType=\"UWTranslationWords\">lei</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_obey\" data-resourceType=\"UWTranslationWords\">obedecer</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26241\" data-resourceType=\"UWTranslationWords\">Sinai</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">adorar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut4:13-Deut4:14\">Deuteronômio 4.13–14</a></p></li><li><p><a href=\"https://ref.ly/Deut10:3-Deut10:4\">Deuteronômio 10.3–4</a></p></li><li><p><a href=\"https://ref.ly/Exod34:27-Exod34:28\">Êxodo 34.27–28</a></p></li><li><p><a href=\"https://ref.ly/Luke18:18-Luke18:21\">Lucas 18.18–21</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>13:7</strong> Então Deus escreveu esses <strong>Dez Mandamentos</strong> em duas tábuas de pedra e as deu a Moisés.</p></li><li><p><strong>13:13</strong> Quando Moisés desceu a montanha e viu o ídolo, ficou tão furioso que quebrou as pedras nas quais Deus havia escrito os <strong>Dez Mandamentos</strong>.</p></li><li><p><strong>13:15</strong> Moisés escreveu os <strong>Dez Mandamentos</strong> em novas tábuas de pedra para substituir as que ele havia quebrado.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1697, H6235</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05010003",
+          "start_ref_usfm": "DEU 10:3",
+          "end_ref": "05010004",
+          "end_ref_usfm": "DEU 10:4"
+        },
+        {
+          "start_ref": "02034027",
+          "start_ref_usfm": "EXO 34:27",
+          "end_ref": "02034028",
+          "end_ref_usfm": "EXO 34:28"
+        },
+        {
+          "start_ref": "05004013",
+          "start_ref_usfm": "DEU 4:13",
+          "end_ref": "05004014",
+          "end_ref_usfm": "DEU 4:14"
+        },
+        {
+          "start_ref": "42018018",
+          "start_ref_usfm": "LUK 18:18",
+          "end_ref": "42018021",
+          "end_ref_usfm": "LUK 18:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 237612,
+          "label": "Arca da Aliança",
+          "language": "por"
+        },
+        {
+          "reference_id": 25621,
+          "content_id": 237755,
+          "label": "Aliança",
+          "language": "por"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 237795,
+          "label": "Deserto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 238089,
+          "label": "Lei",
+          "language": "por"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 238370,
+          "label": "Sinai",
+          "language": "por"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 238483,
+          "label": "Adorar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

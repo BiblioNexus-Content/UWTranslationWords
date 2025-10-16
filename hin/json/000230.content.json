@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179837,
+    "reference_id": 25764,
+    "title": "गाद",
+    "media_type": "Text",
+    "index_reference": "गाद",
+    "language": "hin",
+    "content": "<h1>गाद</h1><h2>तथ्य:</h2><p>लेवी याकूब या इस्राएल के बारह पुत्रों में से एक था। याकूब को इस्राएल का नाम भी दिया गया था।</p><ul><li><p>गाद का परिवार इस्राएल के 12 गोत्रों में से एक बना था।</p></li><li><p>बाइबल में एक और पुरुष जिसका नाम गाद था वह एक भविष्यद्वक्ता था जिसने इस्राएलियों की जनगणना के लिए दाऊद को फटकारा था।</p></li><li><p>“बालगाद” और “मिगदल गाद” मूल भाषा में दो शब्द है और कभी-कभी उन्हें “बाल गाद” और मिगदल गाद” लिखा भी गया है।</p></li></ul><p>(अनुवाद के सुझाव:नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25579\" data-resourceType=\"UWTranslationWords\">जनगणना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 05:18–19</a></p></li><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">निर्गमन 01:1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen30:9-Gen30:11\">उत्पत्ति 30:9–11</a></p></li><li><p><a href=\"https://ref.ly/Josh1:12-Josh1:13\">यहोशू 01:12–13</a></p></li><li><p><a href=\"https://ref.ly/Josh21:36-Josh21:38\">यहोशू 21:36–38</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1410, H1425, G1045</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030011",
+          "start_ref_usfm": "GEN 30:11",
+          "end_ref": "01030011",
+          "end_ref_usfm": "GEN 30:11"
+        },
+        {
+          "start_ref": "01035026",
+          "start_ref_usfm": "GEN 35:26",
+          "end_ref": "01035026",
+          "end_ref_usfm": "GEN 35:26"
+        },
+        {
+          "start_ref": "01046016",
+          "start_ref_usfm": "GEN 46:16",
+          "end_ref": "01046016",
+          "end_ref_usfm": "GEN 46:16"
+        },
+        {
+          "start_ref": "01049019",
+          "start_ref_usfm": "GEN 49:19",
+          "end_ref": "01049019",
+          "end_ref_usfm": "GEN 49:19"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "06001012",
+          "start_ref_usfm": "JOS 1:12",
+          "end_ref": "06001012",
+          "end_ref_usfm": "JOS 1:12"
+        },
+        {
+          "start_ref": "06021038",
+          "start_ref_usfm": "JOS 21:38",
+          "end_ref": "06021038",
+          "end_ref_usfm": "JOS 21:38"
+        },
+        {
+          "start_ref": "13005018",
+          "start_ref_usfm": "1CH 5:18",
+          "end_ref": "13005018",
+          "end_ref_usfm": "1CH 5:18"
+        },
+        {
+          "start_ref": "66007005",
+          "start_ref_usfm": "REV 7:5",
+          "end_ref": "66007005",
+          "end_ref_usfm": "REV 7:5"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26374,
+          "content_id": 182438,
+          "label": "जिल्पा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

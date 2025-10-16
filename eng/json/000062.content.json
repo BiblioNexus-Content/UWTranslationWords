@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26335,
+    "reference_id": 25477,
+    "title": "Arrogant",
+    "media_type": "Text",
+    "index_reference": "arrogant",
+    "language": "eng",
+    "content": "<h1>arrogant, presumptuous</h1><h2>Definition:</h2><p>The term “arrogant” means proud, usually in an obvious, outward way.</p><ul><li><p>An arrogant person will often boast about himself.</p></li><li><p>Being arrogant usually includes thinking that other people are not as important or talented as oneself.</p></li><li><p>People who do not honor God and who are in rebellion against him are arrogant because they do not acknowledge how great God is.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25428\" data-resourceType=\"UWTranslationWords\">acknowledge</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_boast\" data-resourceType=\"UWTranslationWords\">boast</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26135\" data-resourceType=\"UWTranslationWords\">proud</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:18\">1 Corinthians 4:18</a></p></li><li><p><a href=\"https://ref.ly/2Pet2:18\">2 Peter 2:18</a></p></li><li><p><a href=\"https://ref.ly/Ezek16:49\">Ezekiel 16:49</a></p></li><li><p><a href=\"https://ref.ly/Prov16:5\">Proverbs 16:5</a></p></li><li><p><a href=\"https://ref.ly/Ps56:1-Ps56:2\">Psalm 56:1–2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1346, H1347, H2102, H2103, H6277, G02120, G54500</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20008013",
+          "start_ref_usfm": "PRO 8:13",
+          "end_ref": "20008013",
+          "end_ref_usfm": "PRO 8:13"
+        },
+        {
+          "start_ref": "20016005",
+          "start_ref_usfm": "PRO 16:5",
+          "end_ref": "20016005",
+          "end_ref_usfm": "PRO 16:5"
+        },
+        {
+          "start_ref": "26016049",
+          "start_ref_usfm": "EZK 16:49",
+          "end_ref": "26016049",
+          "end_ref_usfm": "EZK 16:49"
+        },
+        {
+          "start_ref": "46004018",
+          "start_ref_usfm": "1CO 4:18",
+          "end_ref": "46004018",
+          "end_ref_usfm": "1CO 4:18"
+        },
+        {
+          "start_ref": "59004016",
+          "start_ref_usfm": "JAS 4:16",
+          "end_ref": "59004016",
+          "end_ref_usfm": "JAS 4:16"
+        },
+        {
+          "start_ref": "61002018",
+          "start_ref_usfm": "2PE 2:18",
+          "end_ref": "61002018",
+          "end_ref_usfm": "2PE 2:18"
+        },
+        {
+          "start_ref": "19056001",
+          "start_ref_usfm": "PSA 56:1",
+          "end_ref": "19056002",
+          "end_ref_usfm": "PSA 56:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25428,
+          "content_id": 26286,
+          "label": "Acknowledge",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26135,
+          "content_id": 26993,
+          "label": "Proud",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

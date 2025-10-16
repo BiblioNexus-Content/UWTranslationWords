@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 467142,
+    "reference_id": 26005,
+    "title": "Méditer",
+    "media_type": "Text",
+    "index_reference": "méditer",
+    "language": "fra",
+    "content": "<h1>méditer</h1><h2>Définition :</h2><p>&quot;Le terme «méditer» signifie passer du temps à penser à quelque chose, soigneusement et profondément.</p><ul><li><p>Ce terme est souvent utilisé dans la Bible pour se référer à penser à Dieu et à ses enseignements.</p></li><li><p>Le Psaume 1 dit que la personne qui médite sur la loi du Seigneur &quot;jour et nuit&quot; sera grandement bénie.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>&quot;méditer&quot; pourrait être traduit par «penser soigneusement et profondément» ou «examiner soigneusement*&quot;</p></li><li><p>Le nom venant de &quot;méditer&quot; est «méditation» et pourrait être traduit comme «pensées profondes*&quot; Une phrase comme: «la méditation de mon cœur» pourrait être traduit comme &quot;ce que je pense profondément*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024063",
+          "start_ref_usfm": "GEN 24:63",
+          "end_ref": "01024063",
+          "end_ref_usfm": "GEN 24:63"
+        },
+        {
+          "start_ref": "19119015",
+          "start_ref_usfm": "PSA 119:15",
+          "end_ref": "19119015",
+          "end_ref_usfm": "PSA 119:15"
+        },
+        {
+          "start_ref": "19001001",
+          "start_ref_usfm": "PSA 1:1",
+          "end_ref": "19001002",
+          "end_ref_usfm": "PSA 1:2"
+        },
+        {
+          "start_ref": "06001008",
+          "start_ref_usfm": "JOS 1:8",
+          "end_ref": "06001009",
+          "end_ref_usfm": "JOS 1:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

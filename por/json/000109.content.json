@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 237633,
+    "reference_id": 25497,
+    "title": "Baal",
+    "media_type": "Text",
+    "index_reference": "baal",
+    "language": "por",
+    "content": "<h1>Baal</h1><h2>Fatos:</h2><p>“Baal” significa “senhor” ou “mestre” e era o nome do principal falso deus adorado pelos cananeus.</p><ul><li><p>Havia também falsos deuses locais que tinham “Baal” como parte de seus nomes, como “Baal de Peor”. Às vezes, todos esses deuses juntos são referidos como “os Baalins”.</p></li><li><p>Algumas pessoas tinham nomes que incluíam a palavra “Baal” neles.</p></li><li><p>A adoração de Baal incluía práticas malignas como sacrificar crianças e usar prostitutas.</p></li><li><p>Em diferentes períodos da sua história, os israelitas também se envolveram profundamente na adoração de Baal, seguindo o exemplo das nações pagãs ao seu redor.</p></li><li><p>Durante o reinado do rei Acabe, o profeta de Deus Elias organizou um teste para provar ao povo que Baal não existe e que Javé é o único Deus verdadeiro. Como resultado, os profetas de Baal foram destruídos e o povo começou a adorar Javé novamente.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_asherah\" data-resourceType=\"UWTranslationWords\">Aserá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26132\" data-resourceType=\"UWTranslationWords\">prostituta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs16:31\">1 Reis 16.31</a></p></li><li><p><a href=\"https://ref.ly/1Sam7:3-1Sam7:4\">1 Samuel 7.3–4</a></p></li><li><p><a href=\"https://ref.ly/Jer2:7-Jer2:8\">Jeremias 2.7–8</a></p></li><li><p><a href=\"https://ref.ly/Judg2:11\">Juízes 2.11</a></p></li><li><p><a href=\"https://ref.ly/Num22:41\">Números 22.41</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>19:2</strong> Acabe era um homem mau que incentivava as pessoas a adorar um falso deus chamado <strong>Baal</strong>.</p></li><li><p><strong>19:6</strong> Todo o povo do reino de Israel, incluindo os 450 profetas de <strong>Baal</strong>, veio ao Monte Carmelo. Elias disse ao povo: “Até quando vocês vão ficar mudando de ideia? Se Javé é Deus, sirvam-no! Se <strong>Baal</strong> é Deus, sirvam-no!”</p></li><li><p><strong>19:7</strong> Então Elias disse aos profetas de <strong>Baal</strong>: “Matem um touro e preparem-no como sacrifício, mas não acendam o fogo”.</p></li><li><p><strong>19:8</strong> Então os profetas de <strong>Baal</strong> oraram a <strong>Baal</strong>: “Ouça-nos, ó <strong>Baal</strong>!”</p></li><li><p><strong>19:12</strong> Então o povo capturou os profetas de <strong>Baal</strong>. Depois Elias os levou para longe dali e os matou.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1120, G08960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022041",
+          "start_ref_usfm": "NUM 22:41",
+          "end_ref": "04022041",
+          "end_ref_usfm": "NUM 22:41"
+        },
+        {
+          "start_ref": "07002011",
+          "start_ref_usfm": "JDG 2:11",
+          "end_ref": "07002011",
+          "end_ref_usfm": "JDG 2:11"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016031",
+          "end_ref_usfm": "1KI 16:31"
+        },
+        {
+          "start_ref": "45011004",
+          "start_ref_usfm": "ROM 11:4",
+          "end_ref": "45011004",
+          "end_ref_usfm": "ROM 11:4"
+        },
+        {
+          "start_ref": "09007003",
+          "start_ref_usfm": "1SA 7:3",
+          "end_ref": "09007004",
+          "end_ref_usfm": "1SA 7:4"
+        },
+        {
+          "start_ref": "24002007",
+          "start_ref_usfm": "JER 2:7",
+          "end_ref": "24002008",
+          "end_ref_usfm": "JER 2:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25483,
+          "content_id": 237620,
+          "label": "Aserim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 238262,
+          "label": "Prostituta",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

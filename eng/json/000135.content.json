@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26408,
+    "reference_id": 25550,
+    "title": "Book of Life",
+    "media_type": "Text",
+    "index_reference": "book of life",
+    "language": "eng",
+    "content": "<h1>Book of Life</h1><h2>Definition:</h2><p>The term “Book of Life” is used to refer to where God has written the names of all the people whom he has redeemed and given eternal life to.</p><ul><li><p>Revelation refers to this book as “the Lamb’s Book of Life.” This could be translated as “the book of life belonging to Jesus, the Lamb of God.” The sacrifice of Jesus on the cross paid the penalty for people’s sins so that they can have eternal life through faith in him.</p></li><li><p>The word for “book” can also mean “scroll” or “letter” or “writing” or “legal document.” It may be literal or figurative.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_everlasting\" data-resourceType=\"UWTranslationWords\">everlasting</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25951\" data-resourceType=\"UWTranslationWords\">lamb</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_life\" data-resourceType=\"UWTranslationWords\">life</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26205\" data-resourceType=\"UWTranslationWords\">scroll</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Phil4:3\">Philippians 4:3</a></p></li><li><p><a href=\"https://ref.ly/Ps69:28-Ps69:29\">Psalms 69:28–29</a></p></li><li><p><a href=\"https://ref.ly/Rev3:5-Rev3:6\">Revelation 3:5–6</a></p></li><li><p><a href=\"https://ref.ly/Rev20:11-Rev20:12\">Revelation 20:11–12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2416, H5612, G09760, G22220</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02032032",
+          "start_ref_usfm": "EXO 32:32",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        },
+        {
+          "start_ref": "02032033",
+          "start_ref_usfm": "EXO 32:33",
+          "end_ref": "02032033",
+          "end_ref_usfm": "EXO 32:33"
+        },
+        {
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "66003005",
+          "start_ref_usfm": "REV 3:5",
+          "end_ref": "66003005",
+          "end_ref_usfm": "REV 3:5"
+        },
+        {
+          "start_ref": "66013008",
+          "start_ref_usfm": "REV 13:8",
+          "end_ref": "66013008",
+          "end_ref_usfm": "REV 13:8"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66020015",
+          "start_ref_usfm": "REV 20:15",
+          "end_ref": "66020015",
+          "end_ref_usfm": "REV 20:15"
+        },
+        {
+          "start_ref": "66021027",
+          "start_ref_usfm": "REV 21:27",
+          "end_ref": "66021027",
+          "end_ref_usfm": "REV 21:27"
+        },
+        {
+          "start_ref": "66020011",
+          "start_ref_usfm": "REV 20:11",
+          "end_ref": "66020012",
+          "end_ref_usfm": "REV 20:12"
+        },
+        {
+          "start_ref": "19069028",
+          "start_ref_usfm": "PSA 69:28",
+          "end_ref": "19069029",
+          "end_ref_usfm": "PSA 69:29"
+        },
+        {
+          "start_ref": "66003005",
+          "start_ref_usfm": "REV 3:5",
+          "end_ref": "66003006",
+          "end_ref_usfm": "REV 3:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25712,
+          "content_id": 26570,
+          "label": "Eternity",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25951,
+          "content_id": 26809,
+          "label": "Lamb",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26205,
+          "content_id": 27063,
+          "label": "Scroll",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

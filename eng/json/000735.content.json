@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 27009,
+    "reference_id": 26151,
+    "title": "Rahab",
+    "media_type": "Text",
+    "index_reference": "rahab",
+    "language": "eng",
+    "content": "<h1>Rahab</h1><h2>Facts:</h2><p>Rahab was a woman who lived in Jericho when Israel attacked the city. She was a prostitute.</p><ul><li><p>Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.</p></li><li><p>Rahab became a believer in Yahweh.</p></li><li><p>She and her family came to live with the Israelites after the Israelites destroyed Jericho and spared Rahab and her family.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26132\" data-resourceType=\"UWTranslationWords\">prostitute</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:29-Heb11:31\">Hebrews 11:29–31</a></p></li><li><p><a href=\"https://ref.ly/Jas2:25\">James 2:25</a></p></li><li><p><a href=\"https://ref.ly/Josh2:21\">Joshua 2:21</a></p></li><li><p><a href=\"https://ref.ly/Josh6:17-Josh6:19\">Joshua 6:17–19</a></p></li><li><p><a href=\"https://ref.ly/Matt1:5\">Matthew 1:5</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>15:1</strong> In that city there lived a prostitute named <strong>Rahab</strong> who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect <strong>Rahab</strong> and her family when the Israelites would destroy Jericho.</p></li><li><p><strong>15:5</strong> The Israelites destroyed everything in the city as God had commanded. <strong>Rahab</strong> and her family were the only people in the city that they did not kill. They became part of the Israelites.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7343, G44600</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002021",
+          "start_ref_usfm": "JOS 2:21",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006019",
+          "end_ref_usfm": "JOS 6:19"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 26754,
+          "label": "Jericho",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 26990,
+          "label": "Prostitute",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

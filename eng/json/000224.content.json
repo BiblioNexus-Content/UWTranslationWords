@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 26497,
+    "reference_id": 25639,
+    "title": "Cyrus",
+    "media_type": "Text",
+    "index_reference": "cyrus",
+    "language": "eng",
+    "content": "<h1>Cyrus</h1><h2>Facts:</h2><p>Cyrus was a Persian king who founded the Persian empire in about 550 BC, through military conquest. In history he was also known as Cyrus the Great.</p><ul><li><p>King Cyrus conquered the city of Babylon, which led to the release of the Israelites who had been kept in exile there.</p></li><li><p>Cyrus was known for his tolerant attitude toward the people of the nations he conquered. His kindness toward the Jews led to the rebuilding of the Jerusalem temple after the exile.</p></li><li><p>Cyrus was reigning during the time when Daniel, Ezra, and Nehemiah were living.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25643\" data-resourceType=\"UWTranslationWords\">Darius</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Ezra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Persia</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr36:23\">2 Chronicles 36:23</a></p></li><li><p><a href=\"https://ref.ly/Dan1:21\">Daniel 1:21</a></p></li><li><p><a href=\"https://ref.ly/Ezra5:13\">Ezra 5:13</a></p></li><li><p><a href=\"https://ref.ly/Isa44:28\">Isaiah 44:28</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3566</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14036023",
+          "start_ref_usfm": "2CH 36:23",
+          "end_ref": "14036023",
+          "end_ref_usfm": "2CH 36:23"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        },
+        {
+          "start_ref": "15001002",
+          "start_ref_usfm": "EZR 1:2",
+          "end_ref": "15001002",
+          "end_ref_usfm": "EZR 1:2"
+        },
+        {
+          "start_ref": "15001007",
+          "start_ref_usfm": "EZR 1:7",
+          "end_ref": "15001007",
+          "end_ref_usfm": "EZR 1:7"
+        },
+        {
+          "start_ref": "15001008",
+          "start_ref_usfm": "EZR 1:8",
+          "end_ref": "15001008",
+          "end_ref_usfm": "EZR 1:8"
+        },
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "15004003",
+          "start_ref_usfm": "EZR 4:3",
+          "end_ref": "15004003",
+          "end_ref_usfm": "EZR 4:3"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15005013",
+          "start_ref_usfm": "EZR 5:13",
+          "end_ref": "15005013",
+          "end_ref_usfm": "EZR 5:13"
+        },
+        {
+          "start_ref": "15005014",
+          "start_ref_usfm": "EZR 5:14",
+          "end_ref": "15005014",
+          "end_ref_usfm": "EZR 5:14"
+        },
+        {
+          "start_ref": "15005017",
+          "start_ref_usfm": "EZR 5:17",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "15006003",
+          "start_ref_usfm": "EZR 6:3",
+          "end_ref": "15006003",
+          "end_ref_usfm": "EZR 6:3"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "23044028",
+          "start_ref_usfm": "ISA 44:28",
+          "end_ref": "23044028",
+          "end_ref_usfm": "ISA 44:28"
+        },
+        {
+          "start_ref": "27001021",
+          "start_ref_usfm": "DAN 1:21",
+          "end_ref": "27001021",
+          "end_ref_usfm": "DAN 1:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25643,
+          "content_id": 26501,
+          "label": "Darius",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 26582,
+          "label": "Ezra",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 26907,
+          "label": "Nehemiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 26949,
+          "label": "Persia",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

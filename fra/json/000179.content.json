@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 467147,
+    "reference_id": 26010,
+    "title": "Commémoratif",
+    "media_type": "Text",
+    "index_reference": "commémoratif",
+    "language": "fra",
+    "content": "<h1>commémoratif, mémorial offre</h1><h2>Définition :</h2><p>&quot;Le terme «mémoire» fait référence à une action ou un objet qui permet de se souvenir de quelqu&apos;un ou de quelque chose.</p><ul><li><p>Ce mot est aussi utilisé comme un adjectif pour décrire quelque chose qui aide à se rappeler de quelque chose, comme dans une «offrande memoriale», une «portion mémoriale» d&apos;un sacrifice ou «pierres commémoratives*&quot;</p></li><li><p>Dans l&apos;Ancien Testament des offrandes commémoratives ont été apportées pour que les Israélites se souviennent de ce que Dieu avait fait pour eux.</p></li><li><p>Dieu dit aux prêtres israélites de porter des vêtements spéciaux avec des pierres commémoratives ayant les noms des douze tribus d&apos;Israël gravés sur eux* C&apos;était peut-être pour leur rappeler la fidélité de Dieu pour eux.</p></li><li><p>Dans le Nouveau Testament, Dieu a honoré un homme nommé Corneille à cause de ses actes de charité pour les pauvres* Ces actions ont été dites être &quot; un mémorial&quot; devant Dieu.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Cela pourrait aussi être traduit comme «rappel durable*&quot;</p></li><li><p>Une &quot;pierre commémorative&quot; pourrait être traduit comme une «pierre pour leur rappeler</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012014",
+          "start_ref_usfm": "EXO 12:14",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "02013009",
+          "start_ref_usfm": "EXO 13:9",
+          "end_ref": "02013009",
+          "end_ref_usfm": "EXO 13:9"
+        },
+        {
+          "start_ref": "23066003",
+          "start_ref_usfm": "ISA 66:3",
+          "end_ref": "23066003",
+          "end_ref_usfm": "ISA 66:3"
+        },
+        {
+          "start_ref": "44010004",
+          "start_ref_usfm": "ACT 10:4",
+          "end_ref": "44010004",
+          "end_ref_usfm": "ACT 10:4"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "03023023",
+          "start_ref_usfm": "LEV 23:23",
+          "end_ref": "03023025",
+          "end_ref_usfm": "LEV 23:25"
+        },
+        {
+          "start_ref": "06004006",
+          "start_ref_usfm": "JOS 4:6",
+          "end_ref": "06004007",
+          "end_ref_usfm": "JOS 4:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

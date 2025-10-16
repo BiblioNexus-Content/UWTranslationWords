@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466818,
+    "reference_id": 25655,
+    "title": "Delila",
+    "media_type": "Text",
+    "index_reference": "delila",
+    "language": "fra",
+    "content": "<h1>Delila</h1><h2>Définition :</h2><p>Delila était une Philistine qui était aimée par Samson,mais n&apos;était pas sa femme.</p><ul><li><p>Delila aimait plus l&apos;argent que Samson.</p></li><li><p>Les Philistins corrompurent Delila pour tromper Samson de lui dire comment il pourrait devenir faible<em>Quand il a perdu sa force,les Philistins l&apos;ont capturé</em>&quot;</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../other/bribe.md), (../names/philistines.md), (../names/samson.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07016010",
+          "start_ref_usfm": "JDG 16:10",
+          "end_ref": "07016010",
+          "end_ref_usfm": "JDG 16:10"
+        },
+        {
+          "start_ref": "07016018",
+          "start_ref_usfm": "JDG 16:18",
+          "end_ref": "07016018",
+          "end_ref_usfm": "JDG 16:18"
+        },
+        {
+          "start_ref": "07016004",
+          "start_ref_usfm": "JDG 16:4",
+          "end_ref": "07016005",
+          "end_ref_usfm": "JDG 16:5"
+        },
+        {
+          "start_ref": "07016006",
+          "start_ref_usfm": "JDG 16:6",
+          "end_ref": "07016007",
+          "end_ref_usfm": "JDG 16:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25556,
+          "content_id": 466727,
+          "label": "Soudoyer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 467312,
+          "label": "Samson",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

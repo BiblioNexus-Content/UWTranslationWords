@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 179753,
+    "reference_id": 25679,
+    "title": "दण्ड",
+    "media_type": "Text",
+    "index_reference": "दण्ड",
+    "language": "hin",
+    "content": "<h1>दण्ड</h1><h2>परिभाषा:</h2><p>“दण्ड ” शब्द का संदर्भ दण्ड के न्याय से है जिसमें योजना या बचने की संभावना कदापि नहीं होती है।</p><ul><li><p>इस्राएलियों को बेबीलोन में बन्दी बनाकर ले जाया गया था, तब भविष्यद्वक्ता ने कहा था, “हम पर विनाश आ पड़ा है”।</p></li><li><p>प्रकरण के अनुसार इस शब्द का अनुवाद हो सकता है, “आपदा” या “दण्ड” या “आशारहित विनाश”।</p></li></ul><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezek7:5-Ezek7:7\">यहेजकेल 07:5–7</a></p></li><li><p><a href=\"https://ref.ly/Ezek30:8-Ezek30:9\">यहेजकेल 30:8–9</a></p></li><li><p><a href=\"https://ref.ly/Isa6:4-Isa6:5\">यशायाह 06:4–5</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 092:6–7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1820, H3117, H6256, H6843, H8045</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23006005",
+          "start_ref_usfm": "ISA 6:5",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "26030009",
+          "start_ref_usfm": "EZK 30:9",
+          "end_ref": "26030009",
+          "end_ref_usfm": "EZK 30:9"
+        },
+        {
+          "start_ref": "26007005",
+          "start_ref_usfm": "EZK 7:5",
+          "end_ref": "26007007",
+          "end_ref_usfm": "EZK 7:7"
+        },
+        {
+          "start_ref": "19092006",
+          "start_ref_usfm": "PSA 92:6",
+          "end_ref": "19092007",
+          "end_ref_usfm": "PSA 92:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

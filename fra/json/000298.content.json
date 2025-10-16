@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466870,
+    "reference_id": 25711,
+    "title": "Esther",
+    "media_type": "Text",
+    "index_reference": "esther",
+    "language": "fra",
+    "content": "<h1>ESTHER</h1><h2>Informations sur la personne</h2><p>Esther est une femme juive qui est devenue reine du royaume de Perse à l&apos;époque de la captivité des Juifs à Babylone. Son nom perse est «&nbsp;Esther&nbsp;»&nbsp;; son nom hébraïque «&nbsp;Hadassa&nbsp;».</p><ul><li><p>Le livre d&apos;Esther raconte son histoire&nbsp;: comment elle est devenue la femme du roi de Perse, Assuérus, comment elle est devenue reine de Perse et comment Dieu l&apos;a utilisée pour sauver son peuple.</p></li><li><p>Esther est orpheline et est élevée par son cousin, Mardochée. Mardochée est un homme pieux.</p></li><li><p>L&apos;obéissance d&apos;Esther envers Mardochée, son père adoptif, l&apos;aide à obéir à Dieu également.</p></li><li><p>Esther a obéi à Dieu et a risqué sa vie pour sauver son peuple, les Juifs.</p></li><li><p>L&apos;histoire d&apos;Esther illustre le contrôle souverain que Dieu exerce sur les événements de l&apos;Histoire, en particulier comment il protège son peuple et comment il œuvre à travers ceux qui lui obéissent.</p></li></ul><p>Voir&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">Comment traduire les noms</span></p><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Assuérus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26030\" data-resourceType=\"UWTranslationWords\">Mardochée</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Perse</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/Esth2:7\">Esther 2.7</a></p></li><li><p><a href=\"https://ref.ly/Esth2:15\">Esther 2.15</a></p></li><li><p><a href=\"https://ref.ly/Esth7:1\">Esther 7.1</a></p></li><li><p><a href=\"https://ref.ly/Esth8:2\">Esther 8.2</a></p></li></ul><h2>Données sur le mot</h2><ul><li><p>Numéro Strong&nbsp;: H0635</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "17002007",
+          "start_ref_usfm": "EST 2:7",
+          "end_ref": "17002007",
+          "end_ref_usfm": "EST 2:7"
+        },
+        {
+          "start_ref": "17002015",
+          "start_ref_usfm": "EST 2:15",
+          "end_ref": "17002015",
+          "end_ref_usfm": "EST 2:15"
+        },
+        {
+          "start_ref": "17007001",
+          "start_ref_usfm": "EST 7:1",
+          "end_ref": "17007001",
+          "end_ref_usfm": "EST 7:1"
+        },
+        {
+          "start_ref": "17008002",
+          "start_ref_usfm": "EST 8:2",
+          "end_ref": "17008002",
+          "end_ref_usfm": "EST 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 466620,
+          "label": "Assuérus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26030,
+          "content_id": 467167,
+          "label": "Mardochée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

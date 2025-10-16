@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 466896,
+    "reference_id": 25743,
+    "title": "Premiers fruits",
+    "media_type": "Text",
+    "index_reference": "premiers fruits",
+    "language": "fra",
+    "content": "<h1>premiers fruits</h1><h2>Définition :</h2><p>&quot;Le terme «premiers fruits» se réfère à une partie de la première récolte de fruits et légumes qui a été récolté au cours de chaque saison.</p><ul><li><p>Les Israélites ont offert ces prémices à Dieu comme une offrande sacrificielle.</p></li><li><p>Ce terme est également utilisé au sens figuré dans la Bible pour désigner un premier fils comme étant les premiers fruits de la famille* Autrement dit, parce qu&apos;il était le premier fils dans cette famille, il était celui qui portait le nom et l&apos;honneur de la famille.</p></li><li><p>Parce que Jésus est ressuscité des morts, il est appelé le «premier fruit» de tous les croyants qui sont morts, mais qui reviendront un jour à la vie.</p></li><li><p>Les croyants en Jésus sont aussi appelés les «premiers fruits» de toute la création, ce qui indique le privilège spécial et la position de ceux que Jésus a racheté et appelé à être son peuple.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>L&apos;utilisation littérale de ce terme pourrait être traduite comme «première partie</p></li><li><p>If possible, the figurative uses should be translated literally, to allow for different meanings in different contexts. This will also show the correlation between the literal meaning and the figurative uses.</p></li></ul><p>(Voir aussi : (../other/firstborn.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02023016",
+          "start_ref_usfm": "EXO 23:16",
+          "end_ref": "02023016",
+          "end_ref_usfm": "EXO 23:16"
+        },
+        {
+          "start_ref": "02023019",
+          "start_ref_usfm": "EXO 23:19",
+          "end_ref": "02023019",
+          "end_ref_usfm": "EXO 23:19"
+        },
+        {
+          "start_ref": "02034022",
+          "start_ref_usfm": "EXO 34:22",
+          "end_ref": "02034022",
+          "end_ref_usfm": "EXO 34:22"
+        },
+        {
+          "start_ref": "02034026",
+          "start_ref_usfm": "EXO 34:26",
+          "end_ref": "02034026",
+          "end_ref_usfm": "EXO 34:26"
+        },
+        {
+          "start_ref": "16010035",
+          "start_ref_usfm": "NEH 10:35",
+          "end_ref": "16010035",
+          "end_ref_usfm": "NEH 10:35"
+        },
+        {
+          "start_ref": "16012044",
+          "start_ref_usfm": "NEH 12:44",
+          "end_ref": "16012044",
+          "end_ref_usfm": "NEH 12:44"
+        },
+        {
+          "start_ref": "16013031",
+          "start_ref_usfm": "NEH 13:31",
+          "end_ref": "16013031",
+          "end_ref_usfm": "NEH 13:31"
+        },
+        {
+          "start_ref": "18008007",
+          "start_ref_usfm": "JOB 8:7",
+          "end_ref": "18008007",
+          "end_ref_usfm": "JOB 8:7"
+        },
+        {
+          "start_ref": "18040019",
+          "start_ref_usfm": "JOB 40:19",
+          "end_ref": "18040019",
+          "end_ref_usfm": "JOB 40:19"
+        },
+        {
+          "start_ref": "19105036",
+          "start_ref_usfm": "PSA 105:36",
+          "end_ref": "19105036",
+          "end_ref_usfm": "PSA 105:36"
+        },
+        {
+          "start_ref": "20003009",
+          "start_ref_usfm": "PRO 3:9",
+          "end_ref": "20003009",
+          "end_ref_usfm": "PRO 3:9"
+        },
+        {
+          "start_ref": "24002003",
+          "start_ref_usfm": "JER 2:3",
+          "end_ref": "24002003",
+          "end_ref_usfm": "JER 2:3"
+        },
+        {
+          "start_ref": "45008023",
+          "start_ref_usfm": "ROM 8:23",
+          "end_ref": "45008023",
+          "end_ref_usfm": "ROM 8:23"
+        },
+        {
+          "start_ref": "45011016",
+          "start_ref_usfm": "ROM 11:16",
+          "end_ref": "45011016",
+          "end_ref_usfm": "ROM 11:16"
+        },
+        {
+          "start_ref": "45016005",
+          "start_ref_usfm": "ROM 16:5",
+          "end_ref": "45016005",
+          "end_ref_usfm": "ROM 16:5"
+        },
+        {
+          "start_ref": "46015020",
+          "start_ref_usfm": "1CO 15:20",
+          "end_ref": "46015020",
+          "end_ref_usfm": "1CO 15:20"
+        },
+        {
+          "start_ref": "46015023",
+          "start_ref_usfm": "1CO 15:23",
+          "end_ref": "46015023",
+          "end_ref_usfm": "1CO 15:23"
+        },
+        {
+          "start_ref": "46016015",
+          "start_ref_usfm": "1CO 16:15",
+          "end_ref": "46016015",
+          "end_ref_usfm": "1CO 16:15"
+        },
+        {
+          "start_ref": "53002013",
+          "start_ref_usfm": "2TH 2:13",
+          "end_ref": "53002013",
+          "end_ref_usfm": "2TH 2:13"
+        },
+        {
+          "start_ref": "59001018",
+          "start_ref_usfm": "JAS 1:18",
+          "end_ref": "59001018",
+          "end_ref_usfm": "JAS 1:18"
+        },
+        {
+          "start_ref": "66014004",
+          "start_ref_usfm": "REV 14:4",
+          "end_ref": "66014004",
+          "end_ref_usfm": "REV 14:4"
+        },
+        {
+          "start_ref": "14031004",
+          "start_ref_usfm": "2CH 31:4",
+          "end_ref": "14031005",
+          "end_ref_usfm": "2CH 31:5"
+        },
+        {
+          "start_ref": "02023016",
+          "start_ref_usfm": "EXO 23:16",
+          "end_ref": "02023017",
+          "end_ref_usfm": "EXO 23:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25742,
+          "content_id": 466895,
+          "label": "Premier-né",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

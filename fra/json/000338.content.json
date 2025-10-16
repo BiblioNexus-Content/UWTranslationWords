@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467233,
+    "reference_id": 26109,
+    "title": "Gage",
+    "media_type": "Text",
+    "index_reference": "gage",
+    "language": "fra",
+    "content": "<h1>gage</h1><h2>Définition :</h2><p>S&apos;engager ou faire un don&quot; signifie promettre formellement et solennellement de faire quelque chose ou donner quelque chose.</p><ul><li><p>Dans l&apos;Ancien Testament, les responsables d&apos;Israël se sont engagés à être loyaux envers le roi David.</p></li><li><p>Le terme «engagement» fait également référence à un objet donné comme une garantie ou une promesse qu&apos;une dette sera payée.</p></li><li><p>L&apos;objet donné en gage serait retourné à son propriétaire lorsque la promesse a été accomplie.</p></li></ul><p>(Voir aussi : (../kt/promise.md), (../other/oath.md), (../kt/vow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038017",
+          "start_ref_usfm": "GEN 38:17",
+          "end_ref": "01038017",
+          "end_ref_usfm": "GEN 38:17"
+        },
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038020",
+          "start_ref_usfm": "GEN 38:20",
+          "end_ref": "01038020",
+          "end_ref_usfm": "GEN 38:20"
+        },
+        {
+          "start_ref": "01043009",
+          "start_ref_usfm": "GEN 43:9",
+          "end_ref": "01043009",
+          "end_ref_usfm": "GEN 43:9"
+        },
+        {
+          "start_ref": "01044032",
+          "start_ref_usfm": "GEN 44:32",
+          "end_ref": "01044032",
+          "end_ref_usfm": "GEN 44:32"
+        },
+        {
+          "start_ref": "02022026",
+          "start_ref_usfm": "EXO 22:26",
+          "end_ref": "02022026",
+          "end_ref_usfm": "EXO 22:26"
+        },
+        {
+          "start_ref": "20006001",
+          "start_ref_usfm": "PRO 6:1",
+          "end_ref": "20006001",
+          "end_ref_usfm": "PRO 6:1"
+        },
+        {
+          "start_ref": "20011015",
+          "start_ref_usfm": "PRO 11:15",
+          "end_ref": "20011015",
+          "end_ref_usfm": "PRO 11:15"
+        },
+        {
+          "start_ref": "20013013",
+          "start_ref_usfm": "PRO 13:13",
+          "end_ref": "20013013",
+          "end_ref_usfm": "PRO 13:13"
+        },
+        {
+          "start_ref": "20017018",
+          "start_ref_usfm": "PRO 17:18",
+          "end_ref": "20017018",
+          "end_ref_usfm": "PRO 17:18"
+        },
+        {
+          "start_ref": "20020016",
+          "start_ref_usfm": "PRO 20:16",
+          "end_ref": "20020016",
+          "end_ref_usfm": "PRO 20:16"
+        },
+        {
+          "start_ref": "20022026",
+          "start_ref_usfm": "PRO 22:26",
+          "end_ref": "20022026",
+          "end_ref_usfm": "PRO 22:26"
+        },
+        {
+          "start_ref": "20027013",
+          "start_ref_usfm": "PRO 27:13",
+          "end_ref": "20027013",
+          "end_ref_usfm": "PRO 27:13"
+        },
+        {
+          "start_ref": "47001022",
+          "start_ref_usfm": "2CO 1:22",
+          "end_ref": "47001022",
+          "end_ref_usfm": "2CO 1:22"
+        },
+        {
+          "start_ref": "47005005",
+          "start_ref_usfm": "2CO 5:5",
+          "end_ref": "47005005",
+          "end_ref_usfm": "2CO 5:5"
+        },
+        {
+          "start_ref": "49001014",
+          "start_ref_usfm": "EPH 1:14",
+          "end_ref": "49001014",
+          "end_ref_usfm": "EPH 1:14"
+        },
+        {
+          "start_ref": "47005004",
+          "start_ref_usfm": "2CO 5:4",
+          "end_ref": "47005005",
+          "end_ref_usfm": "2CO 5:5"
+        },
+        {
+          "start_ref": "01038017",
+          "start_ref_usfm": "GEN 38:17",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "16010028",
+          "start_ref_usfm": "NEH 10:28",
+          "end_ref": "16010029",
+          "end_ref_usfm": "NEH 10:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26058,
+          "content_id": 467194,
+          "label": "serment, vœu, jurer (par)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 467249,
+          "label": "Promesse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467322,
+    "reference_id": 26203,
+    "title": "sceptre",
+    "media_type": "Text",
+    "index_reference": "sceptre",
+    "language": "fra",
+    "content": "<h1>SCEPTRE</h1><h2>Définition</h2><p>Le terme «&nbsp;sceptre&nbsp;» désigne un bâton orné qui symbolise le commandement. Un sceptre appartient à un roi.</p><ul><li><p>Un sceptre était à l&apos;origine une branche de bois avec des décorations sculptées. Plus tard, les sceptres ont été fabriqués avec des métaux précieux (comme l&apos;or).</p></li><li><p>Le sceptre était un symbole de royauté et d&apos;autorité. Il symbolisait aussi l&apos;honneur et la dignité associés à un roi.</p></li><li><p>Dans l&apos;Ancien Testament, Dieu est décrit comme ayant un sceptre d&apos;équité. Cela signifie que Dieu règne dans la justice.</p></li><li><p>Une prophétie de l&apos;Ancien Testament décrit le Christ comme un sceptre symbolique venant d&apos;Israël et régnant sur toutes les nations.</p></li><li><p>Le mot «&nbsp;sceptre&nbsp;» pourrait être traduit par des expressions comme&nbsp;: </p><ul><li><p>«&nbsp;bâton du commandement&nbsp;»</p></li><li><p>«&nbsp;bâton royal&nbsp;»</p></li><li><p>«&nbsp;bâton de la royauté&nbsp;»</p></li><li><p>«&nbsp;bâton de la souveraineté&nbsp;»</p></li><li><p>«&nbsp;bâton du souverain&nbsp;»</p></li></ul></li></ul><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">autorité</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">roi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26177\" data-resourceType=\"UWTranslationWords\">juste</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/Amos1:5\">Amos 1.5</a></p></li><li><p><a href=\"https://ref.ly/Esth4:11\">Esther 4.11</a></p></li><li><p><a href=\"https://ref.ly/Gen49:10\">Genèse 49.10</a></p></li><li><p><a href=\"https://ref.ly/Heb1:8\">Hébreux 1.8</a></p></li><li><p><a href=\"https://ref.ly/Num21:18\">Nombres 21.18</a></p></li><li><p><a href=\"https://ref.ly/Ps45:6\">Psaumes 45.7</a></p></li></ul><h2>Données sur les mots</h2><ul><li><p>Numéros Strong&nbsp;: H2710, H4294, H7626, H8275, G44640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "04021018",
+          "start_ref_usfm": "NUM 21:18",
+          "end_ref": "04021018",
+          "end_ref_usfm": "NUM 21:18"
+        },
+        {
+          "start_ref": "17004011",
+          "start_ref_usfm": "EST 4:11",
+          "end_ref": "17004011",
+          "end_ref_usfm": "EST 4:11"
+        },
+        {
+          "start_ref": "19045006",
+          "start_ref_usfm": "PSA 45:6",
+          "end_ref": "19045006",
+          "end_ref_usfm": "PSA 45:6"
+        },
+        {
+          "start_ref": "30001005",
+          "start_ref_usfm": "AMO 1:5",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "58001008",
+          "start_ref_usfm": "HEB 1:8",
+          "end_ref": "58001008",
+          "end_ref_usfm": "HEB 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 32921,
+          "label": "autorité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26177,
+          "content_id": 467297,
+          "label": "Juste",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

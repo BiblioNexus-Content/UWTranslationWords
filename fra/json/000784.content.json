@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467341,
+    "reference_id": 26225,
+    "title": "Sem",
+    "media_type": "Text",
+    "index_reference": "sem",
+    "language": "fra",
+    "content": "<h1>Sem</h1><h2>Définition :</h2><p>&quot;Sem était l&apos;un des trois fils de Noé qui sont allés avec lui dans l&apos;arche lors du déluge décrit dans le livre de la Genèse.</p><ul><li><p>Sem était le père du groupe de personnes sémitiques qui a fini par devenir la nation d&apos;Israël.</p></li><li><p>Selon la Bible Sem a vecu près de six cent ans.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../names/arabia.md), (../kt/ark.md), (../other/flood.md), (../names/noah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01005032",
+          "start_ref_usfm": "GEN 5:32",
+          "end_ref": "01005032",
+          "end_ref_usfm": "GEN 5:32"
+        },
+        {
+          "start_ref": "01006010",
+          "start_ref_usfm": "GEN 6:10",
+          "end_ref": "01006010",
+          "end_ref_usfm": "GEN 6:10"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007013",
+          "end_ref_usfm": "GEN 7:13"
+        },
+        {
+          "start_ref": "01009018",
+          "start_ref_usfm": "GEN 9:18",
+          "end_ref": "01009018",
+          "end_ref_usfm": "GEN 9:18"
+        },
+        {
+          "start_ref": "01009023",
+          "start_ref_usfm": "GEN 9:23",
+          "end_ref": "01009023",
+          "end_ref_usfm": "GEN 9:23"
+        },
+        {
+          "start_ref": "01009026",
+          "start_ref_usfm": "GEN 9:26",
+          "end_ref": "01009026",
+          "end_ref_usfm": "GEN 9:26"
+        },
+        {
+          "start_ref": "01009027",
+          "start_ref_usfm": "GEN 9:27",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010001",
+          "end_ref_usfm": "GEN 10:1"
+        },
+        {
+          "start_ref": "01010021",
+          "start_ref_usfm": "GEN 10:21",
+          "end_ref": "01010021",
+          "end_ref_usfm": "GEN 10:21"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01010031",
+          "start_ref_usfm": "GEN 10:31",
+          "end_ref": "01010031",
+          "end_ref_usfm": "GEN 10:31"
+        },
+        {
+          "start_ref": "01011010",
+          "start_ref_usfm": "GEN 11:10",
+          "end_ref": "01011010",
+          "end_ref_usfm": "GEN 11:10"
+        },
+        {
+          "start_ref": "01011011",
+          "start_ref_usfm": "GEN 11:11",
+          "end_ref": "01011011",
+          "end_ref_usfm": "GEN 11:11"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003036",
+          "end_ref_usfm": "LUK 3:36"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007014",
+          "end_ref_usfm": "GEN 7:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25474,
+          "content_id": 466653,
+          "label": "Arche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 466898,
+          "label": "Inondation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

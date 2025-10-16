@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 179508,
+    "reference_id": 25418,
+    "title": "हाबिल",
+    "media_type": "Text",
+    "index_reference": "हाबिल",
+    "language": "hin",
+    "content": "<h1>हाबिल</h1><h2>तथ्य:</h2><p>हाबिल आदम और हव्वा का दूसरा पुत्र था। वह कैन का छोटा भाई था।</p><ul><li><p>हाबिल एक चरवाहा था।</p></li><li><p>हाबिल ने अपने पशुओं में से एक की बलि परमेश्वर को चढ़ाई थी।</p></li><li><p>परमेश्वर हाबिल और उसकी भेंट से प्रसन्न हुआ था।</p></li><li><p>आदम और हव्वा के पहलौठे कैन ने हाबिल की हत्या कर दी थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">कैन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">बलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">चरवाहा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen4:2\">उत्पत्ति 4:2</a></p></li><li><p><a href=\"https://ref.ly/Gen4:9\">उत्पत्ति 4:9</a></p></li><li><p><a href=\"https://ref.ly/Heb12:24\">इब्रानियों 12:24</a></p></li><li><p><a href=\"https://ref.ly/Luke11:49-Luke11:51\">लूका 11:49–51</a></p></li><li><p><a href=\"https://ref.ly/Matt23:35\">मत्ती 23:35</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H01893, G0060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "01004004",
+          "start_ref_usfm": "GEN 4:4",
+          "end_ref": "01004004",
+          "end_ref_usfm": "GEN 4:4"
+        },
+        {
+          "start_ref": "01004008",
+          "start_ref_usfm": "GEN 4:8",
+          "end_ref": "01004008",
+          "end_ref_usfm": "GEN 4:8"
+        },
+        {
+          "start_ref": "01004009",
+          "start_ref_usfm": "GEN 4:9",
+          "end_ref": "01004009",
+          "end_ref_usfm": "GEN 4:9"
+        },
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "40023035",
+          "start_ref_usfm": "MAT 23:35",
+          "end_ref": "40023035",
+          "end_ref_usfm": "MAT 23:35"
+        },
+        {
+          "start_ref": "42011051",
+          "start_ref_usfm": "LUK 11:51",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        },
+        {
+          "start_ref": "58011004",
+          "start_ref_usfm": "HEB 11:4",
+          "end_ref": "58011004",
+          "end_ref_usfm": "HEB 11:4"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        },
+        {
+          "start_ref": "42011049",
+          "start_ref_usfm": "LUK 11:49",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 179647,
+          "label": "कैन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 180246,
+          "label": "बलिदान करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 180281,
+          "label": "चरवाहा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

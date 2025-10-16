@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467037,
+    "reference_id": 25892,
+    "title": "Josaphat",
+    "media_type": "Text",
+    "index_reference": "josaphat",
+    "language": "fra",
+    "content": "<h1>Josaphat</h1><h2>Définition :</h2><p>&quot;Josaphat est le nom d&apos;au moins deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>L&apos;homme le plus connu de ce nom était le roi Josaphat qui était le 4ème roi à régner sur le royaume de Juda.</p></li><li><p>Il rétablit la paix entre Juda et Israël, et détruisit les autels des faux dieux.</p></li><li><p>Un autre Josaphat était un assistant administratif pour le roi David et le roi Salomon.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/altar.md), (../names/david.md), (../kt/falsegod.md), (../kt/israel.md), (../names/judah.md), (../kt/priest.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004017",
+          "start_ref_usfm": "1KI 4:17",
+          "end_ref": "11004017",
+          "end_ref_usfm": "1KI 4:17"
+        },
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14017001",
+          "end_ref_usfm": "2CH 17:1"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "10008015",
+          "start_ref_usfm": "2SA 8:15",
+          "end_ref": "10008018",
+          "end_ref_usfm": "2SA 8:18"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 466628,
+          "label": "Autel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

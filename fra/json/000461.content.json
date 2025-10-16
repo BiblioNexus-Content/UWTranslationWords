@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 467471,
+    "reference_id": 26363,
+    "title": "Joug",
+    "media_type": "Text",
+    "index_reference": "joug",
+    "language": "fra",
+    "content": "<h1>joug</h1><h2>Définition :</h2><p>Un joug est un morceau de bois ou de métal attaché à deux animaux ou plus pour les relier dans le but de tirer une charrue ou un chariot* Il y a aussi plusieurs significations figuratives pour ce terme.</p><ul><li><p>Le terme &quot;joug&quot; est utilisé au sens figuré pour désigner quelque chose qui relie les gens dans le but de travailler ensemble, par exemple en servant Jésus.</p></li><li><p>Paul a utilisé le terme &quot; Camarade de joug&quot; pour désigner quelqu&apos;un qui servait Christ comme il était* Cela pourrait également être traduit par &quot;collègue&quot; ou &quot;Co-serviteur&quot; ou &quot;collaborateur*&quot;</p></li><li><p>Le terme &quot;joug&quot; est aussi souvent utilisé au sens figuré pour désigner une charge lourde que quelqu&apos;un doit porter, par exemple lorsqu&apos;il est opprimé par l&apos;esclavage ou la persécution.</p></li><li><p>Dans la plupart des contextes, il est préférable de traduire littéralement ce terme en utilisant le terme local pour un joug utilisé pour l&apos;agriculture.</p></li><li><p>D’autres façons de traduire l’utilisation figurative de ce terme pourraient être «oppressives charge &quot;ou&quot; lourde &quot;ou&quot; lien &quot;, selon le contexte.</p></li></ul><p>(Voir aussi : (../kt/bond.md), (../other/burden.md), (../other/oppress.md), (../other/persecute.md), (../other/servant.md))</p><h2>Références bibliques:</h2><ul><li><p>Actes 15: 10–11</p></li><li><p>Galates 05: 1–2</p></li><li><p>Genèse 27: 39–40</p></li><li><p>Esaïe 09: 4–5</p></li><li><p>Jérémie 27: 1–4</p></li><li><p>Matthieu 11: 28–30</p></li><li><p>Philippiens 04: 1–3</p></li><li><p>Données Word:</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01027040",
+          "start_ref_usfm": "GEN 27:40",
+          "end_ref": "01027040",
+          "end_ref_usfm": "GEN 27:40"
+        },
+        {
+          "start_ref": "23009004",
+          "start_ref_usfm": "ISA 9:4",
+          "end_ref": "23009004",
+          "end_ref_usfm": "ISA 9:4"
+        },
+        {
+          "start_ref": "24027004",
+          "start_ref_usfm": "JER 27:4",
+          "end_ref": "24027004",
+          "end_ref_usfm": "JER 27:4"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "40011030",
+          "start_ref_usfm": "MAT 11:30",
+          "end_ref": "40011030",
+          "end_ref_usfm": "MAT 11:30"
+        },
+        {
+          "start_ref": "44015010",
+          "start_ref_usfm": "ACT 15:10",
+          "end_ref": "44015010",
+          "end_ref_usfm": "ACT 15:10"
+        },
+        {
+          "start_ref": "47006014",
+          "start_ref_usfm": "2CO 6:14",
+          "end_ref": "47006014",
+          "end_ref_usfm": "2CO 6:14"
+        },
+        {
+          "start_ref": "48005001",
+          "start_ref_usfm": "GAL 5:1",
+          "end_ref": "48005001",
+          "end_ref_usfm": "GAL 5:1"
+        },
+        {
+          "start_ref": "50004003",
+          "start_ref_usfm": "PHP 4:3",
+          "end_ref": "50004003",
+          "end_ref_usfm": "PHP 4:3"
+        },
+        {
+          "start_ref": "54006001",
+          "start_ref_usfm": "1TI 6:1",
+          "end_ref": "54006001",
+          "end_ref_usfm": "1TI 6:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25549,
+          "content_id": 466721,
+          "label": "Lier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 467214,
+          "label": "Persécuter",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26217,
+          "content_id": 467334,
+          "label": "Serviteur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

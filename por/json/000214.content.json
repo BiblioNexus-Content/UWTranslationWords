@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 237743,
+    "reference_id": 25609,
+    "title": "Consagrar",
+    "media_type": "Text",
+    "index_reference": "consagrar",
+    "language": "por",
+    "content": "<h1>consagrar, consagrado, consagração</h1><h2>Definição:</h2><p>Consagrar significa dedicar algo ou alguém para servir a Deus. A pessoa ou objeto que é consagrado é considerado santo e separado para Deus.</p><ul><li><p>O significado deste termo é semelhante a “santificar” ou “tornar santo”, mas com o significado adicional de separar formalmente alguém para o serviço a Deus.</p></li><li><p>Coisas que eram consagradas a Deus incluíam animais para serem sacrificados, o altar de holocausto e o tabernáculo.</p></li><li><p>Pessoas que eram consagradas a Deus incluíam os sacerdotes, o povo de Israel e o filho mais velho.</p></li><li><p>Às vezes, a palavra “consagrar” tem um significado semelhante a “purificar”, especialmente quando se refere a preparar pessoas ou coisas para o serviço de Deus para que sejam limpas e aceitáveis para ele.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Maneiras de traduzir “consagrar” poderiam incluir, “separar para o serviço de Deus” ou “purificar para o serviço de Deus”.</p></li><li><p>Também considere como os termos “santo” e “santificar” são traduzidos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">puro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26195\" data-resourceType=\"UWTranslationWords\">santificar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Tim4:3-1Tim4:5\">1 Timóteo 4.3–5</a></p></li><li><p><a href=\"https://ref.ly/2Chr13:8-2Chr13:9\">2 Crônicas 13.8–9</a></p></li><li><p><a href=\"https://ref.ly/Ezek44:19\">Ezequiel 44.19</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2763, H3027, H4390, H4394, H5144, H5145, H6942, H6944, G14570, G50480</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028038",
+          "start_ref_usfm": "EXO 28:38",
+          "end_ref": "02028038",
+          "end_ref_usfm": "EXO 28:38"
+        },
+        {
+          "start_ref": "02029022",
+          "start_ref_usfm": "EXO 29:22",
+          "end_ref": "02029022",
+          "end_ref_usfm": "EXO 29:22"
+        },
+        {
+          "start_ref": "02029026",
+          "start_ref_usfm": "EXO 29:26",
+          "end_ref": "02029026",
+          "end_ref_usfm": "EXO 29:26"
+        },
+        {
+          "start_ref": "02029027",
+          "start_ref_usfm": "EXO 29:27",
+          "end_ref": "02029027",
+          "end_ref_usfm": "EXO 29:27"
+        },
+        {
+          "start_ref": "02029031",
+          "start_ref_usfm": "EXO 29:31",
+          "end_ref": "02029031",
+          "end_ref_usfm": "EXO 29:31"
+        },
+        {
+          "start_ref": "02029034",
+          "start_ref_usfm": "EXO 29:34",
+          "end_ref": "02029034",
+          "end_ref_usfm": "EXO 29:34"
+        },
+        {
+          "start_ref": "15003005",
+          "start_ref_usfm": "EZR 3:5",
+          "end_ref": "15003005",
+          "end_ref_usfm": "EZR 3:5"
+        },
+        {
+          "start_ref": "16003001",
+          "start_ref_usfm": "NEH 3:1",
+          "end_ref": "16003001",
+          "end_ref_usfm": "NEH 3:1"
+        },
+        {
+          "start_ref": "16012047",
+          "start_ref_usfm": "NEH 12:47",
+          "end_ref": "16012047",
+          "end_ref_usfm": "NEH 12:47"
+        },
+        {
+          "start_ref": "16013022",
+          "start_ref_usfm": "NEH 13:22",
+          "end_ref": "16013022",
+          "end_ref_usfm": "NEH 13:22"
+        },
+        {
+          "start_ref": "26044019",
+          "start_ref_usfm": "EZK 44:19",
+          "end_ref": "26044019",
+          "end_ref_usfm": "EZK 44:19"
+        },
+        {
+          "start_ref": "36001007",
+          "start_ref_usfm": "ZEP 1:7",
+          "end_ref": "36001007",
+          "end_ref_usfm": "ZEP 1:7"
+        },
+        {
+          "start_ref": "54004003",
+          "start_ref_usfm": "1TI 4:3",
+          "end_ref": "54004005",
+          "end_ref_usfm": "1TI 4:5"
+        },
+        {
+          "start_ref": "14013008",
+          "start_ref_usfm": "2CH 13:8",
+          "end_ref": "14013009",
+          "end_ref_usfm": "2CH 13:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25840,
+          "content_id": 237973,
+          "label": "Santo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26142,
+          "content_id": 238272,
+          "label": "Purificar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26195,
+          "content_id": 238324,
+          "label": "Santificar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

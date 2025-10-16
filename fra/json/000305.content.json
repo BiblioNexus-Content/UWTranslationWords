@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466876,
+    "reference_id": 25717,
+    "title": "Eve",
+    "media_type": "Text",
+    "index_reference": "eve",
+    "language": "fra",
+    "content": "<h1>Eve</h1><h2>Définition :</h2><p>C&apos;est le nom de la première femme*Son nom veut dire &quot;vie&quot;ou&quot;vivant&quot;.</p><ul><li><p>Dieu a personnellement formé Eve d&apos;un côte qu&apos;il prit d&apos;Adam.</p></li><li><p>Eve a été créée pour être &quot;une aide &quot;pour Adam*Elle était avec Adam pour l&apos;assister dans le travail que Dieu lui a confié.</p></li><li><p>Eve a été tentée par le serpent(satan)et était la première à pécher en mangeant le fruit que Dieu leur a dit de ne pas manger.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/adam.md), (../kt/life.md), (../kt/satan.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003020",
+          "start_ref_usfm": "GEN 3:20",
+          "end_ref": "01003020",
+          "end_ref_usfm": "GEN 3:20"
+        },
+        {
+          "start_ref": "01004001",
+          "start_ref_usfm": "GEN 4:1",
+          "end_ref": "01004001",
+          "end_ref_usfm": "GEN 4:1"
+        },
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "47011003",
+          "start_ref_usfm": "2CO 11:3",
+          "end_ref": "47011003",
+          "end_ref_usfm": "2CO 11:3"
+        },
+        {
+          "start_ref": "54002013",
+          "start_ref_usfm": "1TI 2:13",
+          "end_ref": "54002013",
+          "end_ref_usfm": "1TI 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 466611,
+          "label": "Adam",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 467318,
+          "label": "Satan",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

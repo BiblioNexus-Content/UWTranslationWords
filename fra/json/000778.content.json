@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 467094,
+    "reference_id": 25953,
+    "title": "Se lamenter",
+    "media_type": "Text",
+    "index_reference": "se lamenter",
+    "language": "fra",
+    "content": "<h1>se lamenter, lamentation</h1><h2>Définition :</h2><p>Les termes « se lamenter » et « lamentation » expriment une forte expression de deuil, de la tristesse ou de la douleur.</p><ul><li><p>Parfois, cela comprend un profond regret pour le péché, ou de la compassion pour les personnes qui ont subi des catastrophes.</p></li><li><p>Une lamentation peut inclure des gémissements, des pleurs ou de la désolation.</p></li></ul><h2>Suggestions poue la traduction :</h2><ul><li><p>Le terme « se lamenter » pourrait être traduit comme « éprouver un deuil profond » ou « hurler dans la douleur » ou « être triste ».</p></li><li><p>Une « lamentation » pourrait se traduire par « gémissements et pleurs bruyants » ou « tristesse profonde » ou « sanglots tristes » ou « gémissements tristes ».</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021016",
+          "start_ref_usfm": "GEN 21:16",
+          "end_ref": "01021016",
+          "end_ref_usfm": "GEN 21:16"
+        },
+        {
+          "start_ref": "01023002",
+          "start_ref_usfm": "GEN 23:2",
+          "end_ref": "01023002",
+          "end_ref_usfm": "GEN 23:2"
+        },
+        {
+          "start_ref": "01027038",
+          "start_ref_usfm": "GEN 27:38",
+          "end_ref": "01027038",
+          "end_ref_usfm": "GEN 27:38"
+        },
+        {
+          "start_ref": "01037035",
+          "start_ref_usfm": "GEN 37:35",
+          "end_ref": "01037035",
+          "end_ref_usfm": "GEN 37:35"
+        },
+        {
+          "start_ref": "01050001",
+          "start_ref_usfm": "GEN 50:1",
+          "end_ref": "01050001",
+          "end_ref_usfm": "GEN 50:1"
+        },
+        {
+          "start_ref": "01050003",
+          "start_ref_usfm": "GEN 50:3",
+          "end_ref": "01050003",
+          "end_ref_usfm": "GEN 50:3"
+        },
+        {
+          "start_ref": "01050010",
+          "start_ref_usfm": "GEN 50:10",
+          "end_ref": "01050010",
+          "end_ref_usfm": "GEN 50:10"
+        },
+        {
+          "start_ref": "24022018",
+          "start_ref_usfm": "JER 22:18",
+          "end_ref": "24022018",
+          "end_ref_usfm": "JER 22:18"
+        },
+        {
+          "start_ref": "25002005",
+          "start_ref_usfm": "LAM 2:5",
+          "end_ref": "25002005",
+          "end_ref_usfm": "LAM 2:5"
+        },
+        {
+          "start_ref": "25002008",
+          "start_ref_usfm": "LAM 2:8",
+          "end_ref": "25002008",
+          "end_ref_usfm": "LAM 2:8"
+        },
+        {
+          "start_ref": "33002004",
+          "start_ref_usfm": "MIC 2:4",
+          "end_ref": "33002004",
+          "end_ref_usfm": "MIC 2:4"
+        },
+        {
+          "start_ref": "38011002",
+          "start_ref_usfm": "ZEC 11:2",
+          "end_ref": "38011002",
+          "end_ref_usfm": "ZEC 11:2"
+        },
+        {
+          "start_ref": "43016020",
+          "start_ref_usfm": "JHN 16:20",
+          "end_ref": "43016020",
+          "end_ref_usfm": "JHN 16:20"
+        },
+        {
+          "start_ref": "44008002",
+          "start_ref_usfm": "ACT 8:2",
+          "end_ref": "44008002",
+          "end_ref_usfm": "ACT 8:2"
+        },
+        {
+          "start_ref": "19102001",
+          "start_ref_usfm": "PSA 102:1",
+          "end_ref": "19102002",
+          "end_ref_usfm": "PSA 102:2"
+        },
+        {
+          "start_ref": "30008009",
+          "start_ref_usfm": "AMO 8:9",
+          "end_ref": "30008010",
+          "end_ref_usfm": "AMO 8:10"
+        },
+        {
+          "start_ref": "26032001",
+          "start_ref_usfm": "EZK 32:1",
+          "end_ref": "26032002",
+          "end_ref_usfm": "EZK 32:2"
+        },
+        {
+          "start_ref": "18027015",
+          "start_ref_usfm": "JOB 27:15",
+          "end_ref": "18027017",
+          "end_ref_usfm": "JOB 27:17"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

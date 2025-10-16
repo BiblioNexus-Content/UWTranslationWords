@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466607,
+    "reference_id": 25425,
+    "title": "Absalom",
+    "media_type": "Text",
+    "index_reference": "absalom",
+    "language": "fra",
+    "content": "<h1>Absalom</h1><h2>Définition :</h2><p>Absalom était le troisième fils du roi David* Il était connu pour sa belle apparence et sa fougue.</p><ul><li><p>Lorsque Tamar, la soeur d&apos;Absalom fut violée par leur demi-frère Amnon, Absalom planifia de le tuer.</p></li><li><p>Après le meurtre d&apos;Amnon, Absalom s&apos;enfuit dans le pays de Gueschur (pays d&apos;origine de sa mère Maaca) et il y resta pendant trois ans* Puis le roi David le fit revenir à Jérusalem* Mais il ne le reçut pas en sa présence pendant deux ans.</p></li><li><p>Absalom monta certaines personnes contre le roi David et il mena une révolte contre lui.</p></li><li><p>L&apos;armée de David combattit Absalom et le tua* David fut beaucoup troublé par cela*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/geshur.md), (../names/amnon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10015002",
+          "start_ref_usfm": "2SA 15:2",
+          "end_ref": "10015002",
+          "end_ref_usfm": "2SA 15:2"
+        },
+        {
+          "start_ref": "10018018",
+          "start_ref_usfm": "2SA 18:18",
+          "end_ref": "10018018",
+          "end_ref_usfm": "2SA 18:18"
+        },
+        {
+          "start_ref": "11001006",
+          "start_ref_usfm": "1KI 1:6",
+          "end_ref": "11001006",
+          "end_ref_usfm": "1KI 1:6"
+        },
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003002",
+          "end_ref_usfm": "PSA 3:2"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003003",
+          "end_ref_usfm": "1CH 3:3"
+        },
+        {
+          "start_ref": "10017001",
+          "start_ref_usfm": "2SA 17:1",
+          "end_ref": "10017004",
+          "end_ref_usfm": "2SA 17:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25453,
+          "content_id": 466634,
+          "label": "Amnon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25775,
+          "content_id": 466924,
+          "label": "Gueshur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

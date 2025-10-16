@@ -1,0 +1,239 @@
+[
+  {
+    "content_id": 466865,
+    "reference_id": 25705,
+    "title": "Envie",
+    "media_type": "Text",
+    "index_reference": "envie",
+    "language": "fra",
+    "content": "<h1>envie, envier, convoitise, convoiter</h1><h2>Définition :</h2><p>Le terme &quot;envie&quot; signifie être jaloux de quelqu&apos;un à cause de ce que cette personne possède ou à cause des qualités admirables de cette personne. Le terme &quot;convoitise&quot; signifie que l’on désire ardemment avoir quelque chose.</p><ul><li><p>&quot;Envier&quot; est normalement un sentiment de dépit causé par le succès d&apos;une autre personne, leur bonne fortune, ou par ce qu&apos;il possède.</p></li><li><p>&quot;Convoiter&quot; est un grand désir d&apos;avoir la propriété de quelqu&apos;un, ou même l&apos;époux ou l&apos;épouse de quelqu&apos;un.</p></li></ul><p>(Pour plus d’information, voir : <span data-bnType=\"resourceReference\" data-resourceId=\"25886\" data-resourceType=\"UWTranslationWords\">jalousie</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01026014",
+          "start_ref_usfm": "GEN 26:14",
+          "end_ref": "01026014",
+          "end_ref_usfm": "GEN 26:14"
+        },
+        {
+          "start_ref": "01030001",
+          "start_ref_usfm": "GEN 30:1",
+          "end_ref": "01030001",
+          "end_ref_usfm": "GEN 30:1"
+        },
+        {
+          "start_ref": "02020017",
+          "start_ref_usfm": "EXO 20:17",
+          "end_ref": "02020017",
+          "end_ref_usfm": "EXO 20:17"
+        },
+        {
+          "start_ref": "20003031",
+          "start_ref_usfm": "PRO 3:31",
+          "end_ref": "20003031",
+          "end_ref_usfm": "PRO 3:31"
+        },
+        {
+          "start_ref": "20014030",
+          "start_ref_usfm": "PRO 14:30",
+          "end_ref": "20014030",
+          "end_ref_usfm": "PRO 14:30"
+        },
+        {
+          "start_ref": "20023017",
+          "start_ref_usfm": "PRO 23:17",
+          "end_ref": "20023017",
+          "end_ref_usfm": "PRO 23:17"
+        },
+        {
+          "start_ref": "20024001",
+          "start_ref_usfm": "PRO 24:1",
+          "end_ref": "20024001",
+          "end_ref_usfm": "PRO 24:1"
+        },
+        {
+          "start_ref": "20024019",
+          "start_ref_usfm": "PRO 24:19",
+          "end_ref": "20024019",
+          "end_ref_usfm": "PRO 24:19"
+        },
+        {
+          "start_ref": "40027018",
+          "start_ref_usfm": "MAT 27:18",
+          "end_ref": "40027018",
+          "end_ref_usfm": "MAT 27:18"
+        },
+        {
+          "start_ref": "41007022",
+          "start_ref_usfm": "MRK 7:22",
+          "end_ref": "41007022",
+          "end_ref_usfm": "MRK 7:22"
+        },
+        {
+          "start_ref": "41015010",
+          "start_ref_usfm": "MRK 15:10",
+          "end_ref": "41015010",
+          "end_ref_usfm": "MRK 15:10"
+        },
+        {
+          "start_ref": "42012015",
+          "start_ref_usfm": "LUK 12:15",
+          "end_ref": "42012015",
+          "end_ref_usfm": "LUK 12:15"
+        },
+        {
+          "start_ref": "44020033",
+          "start_ref_usfm": "ACT 20:33",
+          "end_ref": "44020033",
+          "end_ref_usfm": "ACT 20:33"
+        },
+        {
+          "start_ref": "45001029",
+          "start_ref_usfm": "ROM 1:29",
+          "end_ref": "45001029",
+          "end_ref_usfm": "ROM 1:29"
+        },
+        {
+          "start_ref": "45007007",
+          "start_ref_usfm": "ROM 7:7",
+          "end_ref": "45007007",
+          "end_ref_usfm": "ROM 7:7"
+        },
+        {
+          "start_ref": "45007008",
+          "start_ref_usfm": "ROM 7:8",
+          "end_ref": "45007008",
+          "end_ref_usfm": "ROM 7:8"
+        },
+        {
+          "start_ref": "46005010",
+          "start_ref_usfm": "1CO 5:10",
+          "end_ref": "46005010",
+          "end_ref_usfm": "1CO 5:10"
+        },
+        {
+          "start_ref": "46005011",
+          "start_ref_usfm": "1CO 5:11",
+          "end_ref": "46005011",
+          "end_ref_usfm": "1CO 5:11"
+        },
+        {
+          "start_ref": "46006010",
+          "start_ref_usfm": "1CO 6:10",
+          "end_ref": "46006010",
+          "end_ref_usfm": "1CO 6:10"
+        },
+        {
+          "start_ref": "47009005",
+          "start_ref_usfm": "2CO 9:5",
+          "end_ref": "47009005",
+          "end_ref_usfm": "2CO 9:5"
+        },
+        {
+          "start_ref": "49004019",
+          "start_ref_usfm": "EPH 4:19",
+          "end_ref": "49004019",
+          "end_ref_usfm": "EPH 4:19"
+        },
+        {
+          "start_ref": "49005003",
+          "start_ref_usfm": "EPH 5:3",
+          "end_ref": "49005003",
+          "end_ref_usfm": "EPH 5:3"
+        },
+        {
+          "start_ref": "49005005",
+          "start_ref_usfm": "EPH 5:5",
+          "end_ref": "49005005",
+          "end_ref_usfm": "EPH 5:5"
+        },
+        {
+          "start_ref": "50001015",
+          "start_ref_usfm": "PHP 1:15",
+          "end_ref": "50001015",
+          "end_ref_usfm": "PHP 1:15"
+        },
+        {
+          "start_ref": "51003005",
+          "start_ref_usfm": "COL 3:5",
+          "end_ref": "51003005",
+          "end_ref_usfm": "COL 3:5"
+        },
+        {
+          "start_ref": "52002005",
+          "start_ref_usfm": "1TH 2:5",
+          "end_ref": "52002005",
+          "end_ref_usfm": "1TH 2:5"
+        },
+        {
+          "start_ref": "54006004",
+          "start_ref_usfm": "1TI 6:4",
+          "end_ref": "54006004",
+          "end_ref_usfm": "1TI 6:4"
+        },
+        {
+          "start_ref": "56003003",
+          "start_ref_usfm": "TIT 3:3",
+          "end_ref": "56003003",
+          "end_ref_usfm": "TIT 3:3"
+        },
+        {
+          "start_ref": "59004002",
+          "start_ref_usfm": "JAS 4:2",
+          "end_ref": "59004002",
+          "end_ref_usfm": "JAS 4:2"
+        },
+        {
+          "start_ref": "59004005",
+          "start_ref_usfm": "JAS 4:5",
+          "end_ref": "59004005",
+          "end_ref_usfm": "JAS 4:5"
+        },
+        {
+          "start_ref": "60002001",
+          "start_ref_usfm": "1PE 2:1",
+          "end_ref": "60002001",
+          "end_ref_usfm": "1PE 2:1"
+        },
+        {
+          "start_ref": "61002003",
+          "start_ref_usfm": "2PE 2:3",
+          "end_ref": "61002003",
+          "end_ref_usfm": "2PE 2:3"
+        },
+        {
+          "start_ref": "61002014",
+          "start_ref_usfm": "2PE 2:14",
+          "end_ref": "61002014",
+          "end_ref_usfm": "2PE 2:14"
+        },
+        {
+          "start_ref": "46013004",
+          "start_ref_usfm": "1CO 13:4",
+          "end_ref": "46013007",
+          "end_ref_usfm": "1CO 13:7"
+        },
+        {
+          "start_ref": "41007020",
+          "start_ref_usfm": "MRK 7:20",
+          "end_ref": "41007023",
+          "end_ref_usfm": "MRK 7:23"
+        },
+        {
+          "start_ref": "20003031",
+          "start_ref_usfm": "PRO 3:31",
+          "end_ref": "20003032",
+          "end_ref_usfm": "PRO 3:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25886,
+          "content_id": 467031,
+          "label": "Jaloux",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

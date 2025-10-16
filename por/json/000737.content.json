@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238254,
+    "reference_id": 26124,
+    "title": "Profano",
+    "media_type": "Text",
+    "index_reference": "profano",
+    "language": "por",
+    "content": "<h1>profano, profanado</h1><h2>Definição:</h2><p>Profanar algo significa agir de uma maneira que desrespeita, polui ou desonra algo que é sagrado.</p><ul><li><p>Uma pessoa profana é aquela que age de maneira impura e desonra a Deus.</p></li><li><p>O verbo “profanar” pode ser traduzido como “tratar como impuro” ou “ser irreverente para com” ou “desonrar”.</p></li><li><p>Deus disse aos israelitas que eles se “profanaram” com ídolos, significando que o povo estava se tornando “impuro” ou “desonrado” por esse pecado. Eles também estavam desonrando a Deus.</p></li><li><p>Dependendo do contexto, o adjetivo “profano” pode ser traduzido como “desonroso” ou “ímpio” ou “impuro”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25653\" data-resourceType=\"UWTranslationWords\">contaminar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">sagrado</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">limpo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim2:16-2Tim2:18\">2 Timóteo 2.16–18</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:9\">Ezequiel 20.9</a></p></li><li><p><a href=\"https://ref.ly/Mal1:10-Mal1:12\">Malaquias 1.10–12</a></p></li><li><p><a href=\"https://ref.ly/Matt12:5\">Mateus 12.5</a></p></li><li><p><a href=\"https://ref.ly/Num18:30-Num18:32\">Números 18.30–32</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2455, H2490, H2491, H5234, H8610, G09520, G09530</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02031014",
+          "start_ref_usfm": "EXO 31:14",
+          "end_ref": "02031014",
+          "end_ref_usfm": "EXO 31:14"
+        },
+        {
+          "start_ref": "16013017",
+          "start_ref_usfm": "NEH 13:17",
+          "end_ref": "16013017",
+          "end_ref_usfm": "NEH 13:17"
+        },
+        {
+          "start_ref": "16013018",
+          "start_ref_usfm": "NEH 13:18",
+          "end_ref": "16013018",
+          "end_ref_usfm": "NEH 13:18"
+        },
+        {
+          "start_ref": "26020009",
+          "start_ref_usfm": "EZK 20:9",
+          "end_ref": "26020009",
+          "end_ref_usfm": "EZK 20:9"
+        },
+        {
+          "start_ref": "40012005",
+          "start_ref_usfm": "MAT 12:5",
+          "end_ref": "40012005",
+          "end_ref_usfm": "MAT 12:5"
+        },
+        {
+          "start_ref": "44024006",
+          "start_ref_usfm": "ACT 24:6",
+          "end_ref": "44024006",
+          "end_ref_usfm": "ACT 24:6"
+        },
+        {
+          "start_ref": "54001009",
+          "start_ref_usfm": "1TI 1:9",
+          "end_ref": "54001009",
+          "end_ref_usfm": "1TI 1:9"
+        },
+        {
+          "start_ref": "55002016",
+          "start_ref_usfm": "2TI 2:16",
+          "end_ref": "55002016",
+          "end_ref_usfm": "2TI 2:16"
+        },
+        {
+          "start_ref": "58012016",
+          "start_ref_usfm": "HEB 12:16",
+          "end_ref": "58012016",
+          "end_ref_usfm": "HEB 12:16"
+        },
+        {
+          "start_ref": "55002016",
+          "start_ref_usfm": "2TI 2:16",
+          "end_ref": "55002018",
+          "end_ref_usfm": "2TI 2:18"
+        },
+        {
+          "start_ref": "39001010",
+          "start_ref_usfm": "MAL 1:10",
+          "end_ref": "39001012",
+          "end_ref_usfm": "MAL 1:12"
+        },
+        {
+          "start_ref": "04018030",
+          "start_ref_usfm": "NUM 18:30",
+          "end_ref": "04018032",
+          "end_ref_usfm": "NUM 18:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 237731,
+          "label": "Limpar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25653,
+          "content_id": 237786,
+          "label": "Contaminar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 237973,
+          "label": "Santo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

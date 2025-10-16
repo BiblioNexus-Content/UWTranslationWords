@@ -1,0 +1,106 @@
+[
+  {
+    "content_id": 467288,
+    "reference_id": 26168,
+    "title": "Reste",
+    "media_type": "Text",
+    "index_reference": "reste",
+    "language": "fra",
+    "content": "<h1>reste</h1><h2>Définition :</h2><p>Le terme « reste » se réfère littéralement à des personnes ou des choses qui « subsistent » ou sont des « residus » d&apos;un montant ou d&apos;un grand groupe .</p><ul><li><p>Souvent, un « reste » fait référence aux personnes qui survivent à une situation dangereuse de la vie ou qui restent fidèles à Dieu tout en subissant la persécution.</p></li><li><p>Ésaïe fait référence à un groupe de Juifs comme étant un « reste » qui a survécu aux attaques de l&apos;extérieur et a vécu pour revenir à la Terre promise en Canaan.</p></li><li><p>Paul parle de l&apos;existence d&apos;un « reste » de personnes qui ont été choisis par Dieu pour recevoir sa grâce.</p></li><li><p>Le terme « reste » implique qu&apos;il y avait d&apos;autres personnes qui ne sont pas restées fidèles ou qui n&apos;ont pas survécu ou qui n&apos;ont pas été choisies.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Une phrase comme « le reste de ce peuple » pourrait être traduit par « le reste de ces personnes » ou « les gens qui restent fidèles » ou « les gens qui subsistent ».</p></li><li><p>L&apos;expression « tout ce qui restera du peuple » pourrait être traduit par « tout le reste du peuple » ou « les personnes qui restent ».</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01045007",
+          "start_ref_usfm": "GEN 45:7",
+          "end_ref": "01045007",
+          "end_ref_usfm": "GEN 45:7"
+        },
+        {
+          "start_ref": "02010005",
+          "start_ref_usfm": "EXO 10:5",
+          "end_ref": "02010005",
+          "end_ref_usfm": "EXO 10:5"
+        },
+        {
+          "start_ref": "16007072",
+          "start_ref_usfm": "NEH 7:72",
+          "end_ref": "16007072",
+          "end_ref_usfm": "NEH 7:72"
+        },
+        {
+          "start_ref": "23011011",
+          "start_ref_usfm": "ISA 11:11",
+          "end_ref": "23011011",
+          "end_ref_usfm": "ISA 11:11"
+        },
+        {
+          "start_ref": "30009012",
+          "start_ref_usfm": "AMO 9:12",
+          "end_ref": "30009012",
+          "end_ref_usfm": "AMO 9:12"
+        },
+        {
+          "start_ref": "36002009",
+          "start_ref_usfm": "ZEP 2:9",
+          "end_ref": "36002009",
+          "end_ref_usfm": "ZEP 2:9"
+        },
+        {
+          "start_ref": "36003013",
+          "start_ref_usfm": "ZEP 3:13",
+          "end_ref": "36003013",
+          "end_ref_usfm": "ZEP 3:13"
+        },
+        {
+          "start_ref": "37001012",
+          "start_ref_usfm": "HAG 1:12",
+          "end_ref": "37001012",
+          "end_ref_usfm": "HAG 1:12"
+        },
+        {
+          "start_ref": "37001014",
+          "start_ref_usfm": "HAG 1:14",
+          "end_ref": "37001014",
+          "end_ref_usfm": "HAG 1:14"
+        },
+        {
+          "start_ref": "37002002",
+          "start_ref_usfm": "HAG 2:2",
+          "end_ref": "37002002",
+          "end_ref_usfm": "HAG 2:2"
+        },
+        {
+          "start_ref": "44015017",
+          "start_ref_usfm": "ACT 15:17",
+          "end_ref": "44015017",
+          "end_ref_usfm": "ACT 15:17"
+        },
+        {
+          "start_ref": "45009027",
+          "start_ref_usfm": "ROM 9:27",
+          "end_ref": "45009027",
+          "end_ref_usfm": "ROM 9:27"
+        },
+        {
+          "start_ref": "45011005",
+          "start_ref_usfm": "ROM 11:5",
+          "end_ref": "45011005",
+          "end_ref_usfm": "ROM 11:5"
+        },
+        {
+          "start_ref": "33004006",
+          "start_ref_usfm": "MIC 4:6",
+          "end_ref": "33004008",
+          "end_ref_usfm": "MIC 4:8"
+        },
+        {
+          "start_ref": "26006008",
+          "start_ref_usfm": "EZK 6:8",
+          "end_ref": "26006010",
+          "end_ref_usfm": "EZK 6:10"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

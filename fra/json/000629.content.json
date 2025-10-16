@@ -1,0 +1,130 @@
+[
+  {
+    "content_id": 467080,
+    "reference_id": 25937,
+    "title": "Parenté",
+    "media_type": "Text",
+    "index_reference": "parenté",
+    "language": "fra",
+    "content": "<h1>Parenté, parent</h1><h2>Définition :</h2><p>Le terme «parenté» désigne des personnes liée par un lien de sang* Le mot «parent» se réfère spécifiquement à un parent de sexe masculin.</p><ul><li><p>Un «parent» ou «la parenté» peut se référer à un parent proche, comme un parent, un grand-parent, un frère ou une sœur, ou un parent éloigné, comme une tante, un oncle ou un cousin.</p></li><li><p>Dans l&apos;ancien Israël, si un homme est mort, il était prévu que son parent le plus proche épouse sa veuve, pour gérer ses biens et aider à porter son nom de famille* Ce rapport a été appelé un &quot;droit de rachat*&quot;</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002020",
+          "start_ref_usfm": "RUT 2:20",
+          "end_ref": "08002020",
+          "end_ref_usfm": "RUT 2:20"
+        },
+        {
+          "start_ref": "08003009",
+          "start_ref_usfm": "RUT 3:9",
+          "end_ref": "08003009",
+          "end_ref_usfm": "RUT 3:9"
+        },
+        {
+          "start_ref": "20007004",
+          "start_ref_usfm": "PRO 7:4",
+          "end_ref": "20007004",
+          "end_ref_usfm": "PRO 7:4"
+        },
+        {
+          "start_ref": "41006004",
+          "start_ref_usfm": "MRK 6:4",
+          "end_ref": "41006004",
+          "end_ref_usfm": "MRK 6:4"
+        },
+        {
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
+        },
+        {
+          "start_ref": "42001058",
+          "start_ref_usfm": "LUK 1:58",
+          "end_ref": "42001058",
+          "end_ref_usfm": "LUK 1:58"
+        },
+        {
+          "start_ref": "42001061",
+          "start_ref_usfm": "LUK 1:61",
+          "end_ref": "42001061",
+          "end_ref_usfm": "LUK 1:61"
+        },
+        {
+          "start_ref": "42002044",
+          "start_ref_usfm": "LUK 2:44",
+          "end_ref": "42002044",
+          "end_ref_usfm": "LUK 2:44"
+        },
+        {
+          "start_ref": "42014012",
+          "start_ref_usfm": "LUK 14:12",
+          "end_ref": "42014012",
+          "end_ref_usfm": "LUK 14:12"
+        },
+        {
+          "start_ref": "42021016",
+          "start_ref_usfm": "LUK 21:16",
+          "end_ref": "42021016",
+          "end_ref_usfm": "LUK 21:16"
+        },
+        {
+          "start_ref": "43018026",
+          "start_ref_usfm": "JHN 18:26",
+          "end_ref": "43018026",
+          "end_ref_usfm": "JHN 18:26"
+        },
+        {
+          "start_ref": "44007003",
+          "start_ref_usfm": "ACT 7:3",
+          "end_ref": "44007003",
+          "end_ref_usfm": "ACT 7:3"
+        },
+        {
+          "start_ref": "44007014",
+          "start_ref_usfm": "ACT 7:14",
+          "end_ref": "44007014",
+          "end_ref_usfm": "ACT 7:14"
+        },
+        {
+          "start_ref": "44010024",
+          "start_ref_usfm": "ACT 10:24",
+          "end_ref": "44010024",
+          "end_ref_usfm": "ACT 10:24"
+        },
+        {
+          "start_ref": "45009003",
+          "start_ref_usfm": "ROM 9:3",
+          "end_ref": "45009003",
+          "end_ref_usfm": "ROM 9:3"
+        },
+        {
+          "start_ref": "45016007",
+          "start_ref_usfm": "ROM 16:7",
+          "end_ref": "45016007",
+          "end_ref_usfm": "ROM 16:7"
+        },
+        {
+          "start_ref": "45016011",
+          "start_ref_usfm": "ROM 16:11",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
+        },
+        {
+          "start_ref": "45016021",
+          "start_ref_usfm": "ROM 16:21",
+          "end_ref": "45016021",
+          "end_ref_usfm": "ROM 16:21"
+        },
+        {
+          "start_ref": "45016009",
+          "start_ref_usfm": "ROM 16:9",
+          "end_ref": "45016011",
+          "end_ref_usfm": "ROM 16:11"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

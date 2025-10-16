@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466762,
+    "reference_id": 25594,
+    "title": "Cité de David",
+    "media_type": "Text",
+    "index_reference": "cité de david",
+    "language": "fra",
+    "content": "<h1>cité de David</h1><h2>Définition :</h2><p>Le terme «Cité de David» est un autre nom pour désigner Jérusalem et Bethléem.</p><ul><li><p>Jérusalem est l&apos;endroit où David a vécu alors qu&apos;il etait roi.</p></li><li><p>Bethléem est l&apos;endroit où David est né.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../names/bethlehem.md), (../names/jerusalem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002011",
+          "start_ref_usfm": "LUK 2:11",
+          "end_ref": "42002011",
+          "end_ref_usfm": "LUK 2:11"
+        },
+        {
+          "start_ref": "16003014",
+          "start_ref_usfm": "NEH 3:14",
+          "end_ref": "16003015",
+          "end_ref_usfm": "NEH 3:15"
+        },
+        {
+          "start_ref": "11008001",
+          "start_ref_usfm": "1KI 8:1",
+          "end_ref": "11008002",
+          "end_ref_usfm": "1KI 8:2"
+        },
+        {
+          "start_ref": "10005006",
+          "start_ref_usfm": "2SA 5:6",
+          "end_ref": "10005007",
+          "end_ref_usfm": "2SA 5:7"
+        },
+        {
+          "start_ref": "23022008",
+          "start_ref_usfm": "ISA 22:8",
+          "end_ref": "23022009",
+          "end_ref_usfm": "ISA 22:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 466703,
+          "label": "Bethléhem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

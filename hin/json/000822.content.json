@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 179533,
+    "reference_id": 25444,
+    "title": "व्याकुल",
+    "media_type": "Text",
+    "index_reference": "व्याकुल",
+    "language": "hin",
+    "content": "<h1>व्याकुल, ललकारने, घबरा गया</h1><h2>तथ्य:</h2><p>व्याकुल का अर्थ है किसी हानि के प्रति सतर्क करना। “घबरा जाना” किसी खतरनाक या डरावनी बात से चिन्तित एवं भयभीत होना।</p><ul><li><p>राजा यहोशापात मोआबियों द्वारा यहूदा पर आक्रमण करने की योजना के बारे में सुनकर घबरा गया था।</p></li><li><p>यीशु ने अपने शिष्यों से कहा कि जब वे अन्तिम दिनों में मुसीबतों की चर्चा सुनें तो घबराएं नहीं।</p></li><li><p>“तुरहियों को साँस बाँधकर&nbsp;फूँकना” अर्थात सतर्क करना। प्राचीन युग में मनुष्य तुरहियों को साँस बाँधकर&nbsp;फूँकना बजाकर चेतावनी देता था।</p></li></ul><h2>अनुवाद के सुझाव</h2><ul><li><p>“किसी को घबरा देना” अर्थात “किसी को चिन्तित करना” या “किसी को परेशानी में डाल देना”।</p></li><li><p>“घबराना” का अनुवाद हो सकता है, “चिन्तित होना” या “डर जाना” या “बहुत परेशान हो जाना”।</p></li><li><p>“तुरहियों को साँस बाँधकर&nbsp;फूँकना” का अनुवाद “सार्वजनिक चेतावनी” या “संकट के आने की घोषणा” या “खतरे के बारे में चेतावनी देने के लिए तुरही फूंका”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">यहोशापात</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">मोआब</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Dan11:44-Dan11:45\">दानिय्येल 11:44–45</a></p></li><li><p><a href=\"https://ref.ly/Jer4:19-Jer4:20\">यिर्मयाह 04:19–20</a></p></li><li><p><a href=\"https://ref.ly/Num10:9\">गिनती 10:9</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H7321, H8643</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04010009",
+          "start_ref_usfm": "NUM 10:9",
+          "end_ref": "04010009",
+          "end_ref_usfm": "NUM 10:9"
+        },
+        {
+          "start_ref": "18038007",
+          "start_ref_usfm": "JOB 38:7",
+          "end_ref": "18038007",
+          "end_ref_usfm": "JOB 38:7"
+        },
+        {
+          "start_ref": "27011044",
+          "start_ref_usfm": "DAN 11:44",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "24004019",
+          "start_ref_usfm": "JER 4:19",
+          "end_ref": "24004020",
+          "end_ref_usfm": "JER 4:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25892,
+          "content_id": 179959,
+          "label": "यहोशापात",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 180090,
+          "label": "मोआब",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

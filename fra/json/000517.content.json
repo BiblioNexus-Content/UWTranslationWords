@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467106,
+    "reference_id": 25966,
+    "title": "Léviathan",
+    "media_type": "Text",
+    "index_reference": "léviathan",
+    "language": "fra",
+    "content": "<h1>Léviathan</h1><h2>Définition :</h2><p>&quot;Le terme «Leviathan» fait référence à un très grand animal éteint mentionné dans les premiers écrits de l&apos;Ancien Testament.</p><ul><li><p>Leviathan est décrit comme une grande créature, forte et féroce et capable de rendre l&apos;eau autour de lui &quot;ébullition&quot;* La description de celui-ci sont similaires à celle d&apos;un dinosaure.</p></li><li><p>Ésaïe, le prophète se réfère à Léviathan comme «le serpent glissant&quot;*\\ Job fait mention de la connaissance de première main de Leviathan, de sorte que l&apos;animal existait très probablement au cours de sa vie.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/isaiah.md), (../names/job.md), (../other/serpent.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18003008",
+          "start_ref_usfm": "JOB 3:8",
+          "end_ref": "18003008",
+          "end_ref_usfm": "JOB 3:8"
+        },
+        {
+          "start_ref": "18041001",
+          "start_ref_usfm": "JOB 41:1",
+          "end_ref": "18041001",
+          "end_ref_usfm": "JOB 41:1"
+        },
+        {
+          "start_ref": "19104025",
+          "start_ref_usfm": "PSA 104:25",
+          "end_ref": "19104026",
+          "end_ref_usfm": "PSA 104:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25877,
+          "content_id": 467022,
+          "label": "Esaîe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25908,
+          "content_id": 467053,
+          "label": "Job",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26216,
+          "content_id": 467333,
+          "label": "Serpent",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

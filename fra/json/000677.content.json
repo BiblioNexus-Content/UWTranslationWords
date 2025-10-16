@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467246,
+    "reference_id": 26123,
+    "title": "Priscille&quot;",
+    "media_type": "Text",
+    "index_reference": "priscille&quot;",
+    "language": "fra",
+    "content": "<h1>Priscille&quot;,</h1><h2>Définition :</h2><p>&quot;Priscille était une juive chretienne du premier siècle qui, avec son mari, Aquilas, a travaillé avec Paul dans son oeuvre missionnaire.</p><ul><li><p>Paul a rencontré Aquilas et Priscille à Corinthe.</p></li><li><p>Aquilas et Priscille ont vécu à Rome pour un temps.</p></li><li><p>Le couple a travaillé comme faiseurs de tentes avec Paul, afin de l&apos;aider dans son travail missionnaire.</p></li><li><p>Les deux, Aquilas et Priscille sont mentionnés à plusieurs reprises dans le Nouveau Testament, comme assistants de Paul.</p></li><li><p>Priscille est souvent citée comme un bon exemple de femme de l&apos;église primitive.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/believe.md), (../kt/christian.md), (../names/corinth.md), (../names/ephesus.md), (../names/paul.md), (../names/rome.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018001",
+          "end_ref_usfm": "ACT 18:1"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018026",
+          "start_ref_usfm": "ACT 18:26",
+          "end_ref": "44018026",
+          "end_ref_usfm": "ACT 18:26"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016003",
+          "end_ref_usfm": "ROM 16:3"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 466696,
+          "label": "Croire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 466756,
+          "label": "Chrétiens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25612,
+          "content_id": 466779,
+          "label": "Corinthe ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 466866,
+          "label": "Ephèse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

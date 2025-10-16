@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467395,
+    "reference_id": 26281,
+    "title": "Tarse",
+    "media_type": "Text",
+    "index_reference": "tarse",
+    "language": "fra",
+    "content": "<h1>Tarse</h1><h2>Définition :</h2><p>Tarse était une ville ancienne et prospère située dans la province romaine de Cilicie, dans ce qui est maintenant le centre-sud de la Turquie.</p><ul><li><p>Son emplacement le long d&apos;un grand fleuve et près de la rive de la mer Méditerranée fait d&apos;elle une importante route commerciale.</p></li><li><p>À un moment donné dans l&apos;histoire elle était connue comme la capitale de Cilicie.</p></li><li><p>Tarse était le lieu de naissance de l&apos;apôtre Paul.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cilicia.md), (../names/paul.md), (../other/province.md), (../names/mediterranean.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44009011",
+          "start_ref_usfm": "ACT 9:11",
+          "end_ref": "44009011",
+          "end_ref_usfm": "ACT 9:11"
+        },
+        {
+          "start_ref": "44009030",
+          "start_ref_usfm": "ACT 9:30",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44011025",
+          "start_ref_usfm": "ACT 11:25",
+          "end_ref": "44011025",
+          "end_ref_usfm": "ACT 11:25"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25591,
+          "content_id": 466759,
+          "label": "Cilicie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 467258,
+          "label": "Province",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

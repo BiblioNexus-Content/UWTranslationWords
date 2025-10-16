@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179757,
+    "reference_id": 25683,
+    "title": "अर्घ",
+    "media_type": "Text",
+    "index_reference": "अर्घ",
+    "language": "hin",
+    "content": "<h1>अर्घ</h1><h2>परिभाषा:</h2><p>अर्घ परमेश्वर के लिए एक चढ़ावा था जिसमें वेदी पर दाखमधु उण्डेला जाता था। यह होमबलि और अन्नबलि के साथ चढ़ाया जाता था।</p><ul><li><p>पौलुस अपने जीवन के लिए कहता है कि वह अर्घ की भांति उण्डेला जा रहा है। इसका अर्थ है कि वह परमेश्वर की सेवा में पूर्णतः समर्पित था कि मनुष्यों में सुसमाचार सुनाए,जबकी वह जानता था कि वह इस प्रयोजन निमित्त कष्ट उठाएगा वरन मार डाला भी जाएगा।</p></li><li><p>क्रूस पर यीशु की मृत्यु परम अर्घ था क्योंकि हमारे पापों के कारण क्रूस पर उसका लहू उंडेला गया था।</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>इस शब्द का अनुवाद हो सकता है, “दाखमधु उण्डेलना”</p></li><li><p>पौलुस कहता है कि वह अर्घ के समान उण्डेला जा रहा है तो इसका अनुवाद हो सकता है, “मैं मनुष्यों में परमेश्वर का शुभ सन्देश सुनाने के लिए ठीक वैसे ही पूर्णतः समर्पित हूं जैसे दाखमधु को वेदी पर अर्घ करके चढ़ाया जाता है”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">होमबलि</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">अन्नबलि</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Exod25:29\">निर्गमन 25:29</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:16-Ezek45:17\">यहेजकेल 45:16–17</a></p></li><li><p><a href=\"https://ref.ly/Gen35:14\">उत्पत्ति 35:14</a></p></li><li><p><a href=\"https://ref.ly/Jer7:16-Jer7:18\">यिर्मयाह 7:16–18</a></p></li><li><p><a href=\"https://ref.ly/Num5:15\">गिनती 5:15</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5257, H5261, H5262</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035014",
+          "start_ref_usfm": "GEN 35:14",
+          "end_ref": "01035014",
+          "end_ref_usfm": "GEN 35:14"
+        },
+        {
+          "start_ref": "02025029",
+          "start_ref_usfm": "EXO 25:29",
+          "end_ref": "02025029",
+          "end_ref_usfm": "EXO 25:29"
+        },
+        {
+          "start_ref": "02029040",
+          "start_ref_usfm": "EXO 29:40",
+          "end_ref": "02029040",
+          "end_ref_usfm": "EXO 29:40"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "26045016",
+          "start_ref_usfm": "EZK 45:16",
+          "end_ref": "26045017",
+          "end_ref_usfm": "EZK 45:17"
+        },
+        {
+          "start_ref": "24007016",
+          "start_ref_usfm": "JER 7:16",
+          "end_ref": "24007018",
+          "end_ref_usfm": "JER 7:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 179642,
+          "label": "होमबलि",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 179873,
+          "label": "अन्नबलि",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

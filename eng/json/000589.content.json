@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26862,
+    "reference_id": 26004,
+    "title": "Mediator",
+    "media_type": "Text",
+    "index_reference": "mediator",
+    "language": "eng",
+    "content": "<h1>mediator</h1><h2>Definition:</h2><p>A mediator is a person who helps two or more people to resolve their disagreements or conflicts with each other. He helps them to become reconciled.</p><ul><li><p>Because people have sinned, they are God’s enemies who deserve his wrath and punishment. Because of sin, the relationship between God and his people is broken.</p></li><li><p>Jesus is the mediator between God the Father and his people, restoring that broken relationship through his death as payment for their sin.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Ways to translate “mediator” could be “go-between person” or “reconciler” or “person who brings peace.”</p></li><li><p>Compare this term with how the term “priest” is translated. It is best if the term “mediator” is translated differently.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">reconcile</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Tim2:5\">1 Timothy 2:5</a></p></li><li><p><a href=\"https://ref.ly/Gal3:20\">Galatians 3:20</a></p></li><li><p><a href=\"https://ref.ly/Heb8:6\">Hebrews 8:6</a></p></li><li><p><a href=\"https://ref.ly/Heb12:24\">Hebrews 12:24</a></p></li><li><p><a href=\"https://ref.ly/Luke12:14\">Luke 12:14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3887, G33120, G33160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42012014",
+          "start_ref_usfm": "LUK 12:14",
+          "end_ref": "42012014",
+          "end_ref_usfm": "LUK 12:14"
+        },
+        {
+          "start_ref": "48003020",
+          "start_ref_usfm": "GAL 3:20",
+          "end_ref": "48003020",
+          "end_ref_usfm": "GAL 3:20"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002005",
+          "end_ref_usfm": "1TI 2:5"
+        },
+        {
+          "start_ref": "58008006",
+          "start_ref_usfm": "HEB 8:6",
+          "end_ref": "58008006",
+          "end_ref_usfm": "HEB 8:6"
+        },
+        {
+          "start_ref": "58009015",
+          "start_ref_usfm": "HEB 9:15",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 27018,
+          "label": "Reconcile",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

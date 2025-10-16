@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466956,
+    "reference_id": 25807,
+    "title": "&quot;l'offrande de culpabilité",
+    "media_type": "Text",
+    "index_reference": "&quot;l'offrande de culpabilité",
+    "language": "fra",
+    "content": "<h1>&quot;l&apos;offrande de culpabilité ,</h1><h2>Définition :</h2><p>&quot;Le sacrifice de culpabilité a été l&apos;un des différentes sortes d&apos;offrandes que Dieu exigeait des Israélites* C&apos;était une pénalité pour le dommage accidentel causé à la propriété d&apos;une autre personne ou pour une mauvaise conduite accidentelle.</p><ul><li><p>Cette offrande implique le sacrifice d&apos;un animal et le paiement d&apos;une amende, en argent ou en or.</p></li><li><p>En outre, la personne en faute devait payer pour tout dommage qui avait été fait.</p></li><li><p>Parfois, des offrandes de culpabilité ont été pratiquées par d&apos;autres nations et cultures dans la Bible.</p></li></ul><p>(Voir aussi : (../other/burntoffering.md), (../other/grainoffering.md), (../other/sacrifice.md), (../other/sinoffering.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04006012",
+          "start_ref_usfm": "NUM 6:12",
+          "end_ref": "04006012",
+          "end_ref_usfm": "NUM 6:12"
+        },
+        {
+          "start_ref": "09006003",
+          "start_ref_usfm": "1SA 6:3",
+          "end_ref": "09006003",
+          "end_ref_usfm": "1SA 6:3"
+        },
+        {
+          "start_ref": "12012016",
+          "start_ref_usfm": "2KI 12:16",
+          "end_ref": "12012016",
+          "end_ref_usfm": "2KI 12:16"
+        },
+        {
+          "start_ref": "20014009",
+          "start_ref_usfm": "PRO 14:9",
+          "end_ref": "20014009",
+          "end_ref_usfm": "PRO 14:9"
+        },
+        {
+          "start_ref": "03005005",
+          "start_ref_usfm": "LEV 5:5",
+          "end_ref": "03005006",
+          "end_ref_usfm": "LEV 5:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 466731,
+          "label": "Holocauste ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 466951,
+          "label": "Offrande de grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26242,
+          "content_id": 467357,
+          "label": "Sacrifice de péché",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

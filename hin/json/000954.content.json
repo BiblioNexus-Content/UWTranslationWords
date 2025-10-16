@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179901,
+    "reference_id": 25831,
+    "title": "हेरोदियास",
+    "media_type": "Text",
+    "index_reference": "हेरोदियास",
+    "language": "hin",
+    "content": "<h1>हेरोदियास</h1><h2>तथ्य:</h2><p>हेरोदियास यूहन्ना बपतिस्मा देनेवाले के समय में यहूदिया के हेरोदेस अन्तिपास की पत्नी थी।</p><ul><li><p>हेरोदियास वास्तव में अन्तिपास के भाई फिलिप की पत्नी थी परन्तु अवैध विवाह करके वह हेरोदेस अन्तिपास के साथ आ गई थी।</p></li><li><p>यूहन्ना बपतिस्मा देनेवाला हेरोदेस और हेरोदियास को उनके अवैध विवाह के लिए झिड़़कता था। इस कारण हेरोदेस ने यूहन्ना को बन्दी बना लिया था और बाद में हेरोदियास के कारण उसका सिर कटवा दिया गया था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">हेरोदेस अन्तिपास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">यूहन्ना (बपतिस्मा देनेवाला)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke3:19\">लूका 3:19</a></p></li><li><p><a href=\"https://ref.ly/Mark6:17\">मरकुस 6:17</a></p></li><li><p><a href=\"https://ref.ly/Mark6:22\">मरकुस 6:22</a></p></li><li><p><a href=\"https://ref.ly/Matt14:4\">मत्ती 14:4</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G22660</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014003",
+          "start_ref_usfm": "MAT 14:3",
+          "end_ref": "40014003",
+          "end_ref_usfm": "MAT 14:3"
+        },
+        {
+          "start_ref": "40014004",
+          "start_ref_usfm": "MAT 14:4",
+          "end_ref": "40014004",
+          "end_ref_usfm": "MAT 14:4"
+        },
+        {
+          "start_ref": "40014006",
+          "start_ref_usfm": "MAT 14:6",
+          "end_ref": "40014006",
+          "end_ref_usfm": "MAT 14:6"
+        },
+        {
+          "start_ref": "41006017",
+          "start_ref_usfm": "MRK 6:17",
+          "end_ref": "41006017",
+          "end_ref_usfm": "MRK 6:17"
+        },
+        {
+          "start_ref": "41006019",
+          "start_ref_usfm": "MRK 6:19",
+          "end_ref": "41006019",
+          "end_ref_usfm": "MRK 6:19"
+        },
+        {
+          "start_ref": "41006022",
+          "start_ref_usfm": "MRK 6:22",
+          "end_ref": "41006022",
+          "end_ref_usfm": "MRK 6:22"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 179900,
+          "label": "हेरोदेस अन्तिपास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 179979,
+          "label": "यूहन्ना (बपतिस्मा देनेवाला)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

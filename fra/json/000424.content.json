@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467031,
+    "reference_id": 25886,
+    "title": "Jaloux",
+    "media_type": "Text",
+    "index_reference": "jaloux",
+    "language": "fra",
+    "content": "<h1>jaloux, jalousie</h1><h2>Définition :</h2><p>Les termes «jaloux» et «jalousie» se réfèrent à un fort désir de protéger la pureté d&apos;une relation. Ils peuvent également se référer à un fort désir de garder la possession de quelque chose ou quelqu&apos;un.</p><ul><li><p>Ces termes sont souvent utilisés pour décrire le sentiment de colère qu&apos;une personne a envers un conjoint qui a été infidèle dans leur mariage.</p></li><li><p>Lorsqu&apos;ils sont utilisés dans la Bible, ces termes se réfèrent souvent au fort désir que Dieu a de voir son peuple rester pur et sans tache.</p></li><li><p>Dieu est aussi « jaloux » de son nom, et veut qu&apos;il soit traité avec honneur et respect.</p></li><li><p>Un autre sens de la jalousie implique d&apos;être en colère du fait que quelqu&apos;un d&apos;autre ait réussi ou soit plus populaire. Cela a un sense plus proche du mot « envie ».</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Façons de traduire « jaloux » pourrait inclure, « désir de protection forte » ou « désir possessif ».</p></li><li><p>Le terme « jalousie » pourrait être traduit comme « fort sentiment de protection » ou « sentiment possessif »</p></li><li><p>Quand on parle de Dieu, assurez-vous que la traduction de ces termes ne donnent pas un sens négatif de ressentiment envers quelqu&apos;un d&apos;autre.</p></li><li><p>Dans le contexte des mauvais sentiments que des gens en colère ont envers les autres qui ont plus de succès, les termes « jaloux » et « envie » pourraient être utilisés. Mais ces termes ne doivent pas être utilisés pour Dieu.</p></li></ul><p>(Voir aussi : (../other/envy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037011",
+          "start_ref_usfm": "GEN 37:11",
+          "end_ref": "01037011",
+          "end_ref_usfm": "GEN 37:11"
+        },
+        {
+          "start_ref": "02020005",
+          "start_ref_usfm": "EXO 20:5",
+          "end_ref": "02020005",
+          "end_ref_usfm": "EXO 20:5"
+        },
+        {
+          "start_ref": "02034014",
+          "start_ref_usfm": "EXO 34:14",
+          "end_ref": "02034014",
+          "end_ref_usfm": "EXO 34:14"
+        },
+        {
+          "start_ref": "20006034",
+          "start_ref_usfm": "PRO 6:34",
+          "end_ref": "20006034",
+          "end_ref_usfm": "PRO 6:34"
+        },
+        {
+          "start_ref": "20027004",
+          "start_ref_usfm": "PRO 27:4",
+          "end_ref": "20027004",
+          "end_ref_usfm": "PRO 27:4"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44007009",
+          "start_ref_usfm": "ACT 7:9",
+          "end_ref": "44007009",
+          "end_ref_usfm": "ACT 7:9"
+        },
+        {
+          "start_ref": "44013045",
+          "start_ref_usfm": "ACT 13:45",
+          "end_ref": "44013045",
+          "end_ref_usfm": "ACT 13:45"
+        },
+        {
+          "start_ref": "44017005",
+          "start_ref_usfm": "ACT 17:5",
+          "end_ref": "44017005",
+          "end_ref_usfm": "ACT 17:5"
+        },
+        {
+          "start_ref": "45013013",
+          "start_ref_usfm": "ROM 13:13",
+          "end_ref": "45013013",
+          "end_ref_usfm": "ROM 13:13"
+        },
+        {
+          "start_ref": "46003003",
+          "start_ref_usfm": "1CO 3:3",
+          "end_ref": "46003003",
+          "end_ref_usfm": "1CO 3:3"
+        },
+        {
+          "start_ref": "46010022",
+          "start_ref_usfm": "1CO 10:22",
+          "end_ref": "46010022",
+          "end_ref_usfm": "1CO 10:22"
+        },
+        {
+          "start_ref": "46013004",
+          "start_ref_usfm": "1CO 13:4",
+          "end_ref": "46013004",
+          "end_ref_usfm": "1CO 13:4"
+        },
+        {
+          "start_ref": "47011002",
+          "start_ref_usfm": "2CO 11:2",
+          "end_ref": "47011002",
+          "end_ref_usfm": "2CO 11:2"
+        },
+        {
+          "start_ref": "47012020",
+          "start_ref_usfm": "2CO 12:20",
+          "end_ref": "47012020",
+          "end_ref_usfm": "2CO 12:20"
+        },
+        {
+          "start_ref": "59003014",
+          "start_ref_usfm": "JAS 3:14",
+          "end_ref": "59003014",
+          "end_ref_usfm": "JAS 3:14"
+        },
+        {
+          "start_ref": "59003016",
+          "start_ref_usfm": "JAS 3:16",
+          "end_ref": "59003016",
+          "end_ref_usfm": "JAS 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25705,
+          "content_id": 466865,
+          "label": "Envie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

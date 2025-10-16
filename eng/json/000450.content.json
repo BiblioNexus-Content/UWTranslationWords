@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26722,
+    "reference_id": 25864,
+    "title": "Image of God",
+    "media_type": "Text",
+    "index_reference": "image of god",
+    "language": "eng",
+    "content": "<h1>image of God, image</h1><h2>Definition:</h2><p>The term “image” refers to something that looks like something else or that is like someone in character or essence. The phrase “image of God” is used in different ways, depending on the context.</p><ul><li><p>At the beginning of time, God created human beings “in his image,” that is, “in his likeness.” This means that people have certain characteristics that reflect the image of God, such as the ability to feel emotion, the ability to reason and communicate, and a spirit that lives eternally.</p></li><li><p>The Bible teaches that Jesus, God’s Son, is “the image of God,” that is, he is God himself. Unlike human beings, Jesus was not created. From all eternity God the Son has had all the divine characteristics because he has had the same essence with God the Father.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>When referring to Jesus, “image of God” could be translated as “exact likeness of God” or “same essence as God” or “same being as God.”</p></li><li><p>When referring to human beings, “God created them in his image” could be translated with a phrase that means “God created them to be like him” or “God created them with characteristics like his own.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">image</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Son of God</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26250\" data-resourceType=\"UWTranslationWords\">Son of God</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Cor4:3-2Cor4:4\">2 Corinthians 4:3–4</a></p></li><li><p><a href=\"https://ref.ly/Col3:9-Col3:11\">Colossians 3:9–11</a></p></li><li><p><a href=\"https://ref.ly/Gen1:26-Gen1:27\">Genesis 1:26–27</a></p></li><li><p><a href=\"https://ref.ly/Gen9:6\">Genesis 9:6</a></p></li><li><p><a href=\"https://ref.ly/Jas3:9-Jas3:10\">James 3:9–10</a></p></li><li><p><a href=\"https://ref.ly/Rom8:28-Rom8:30\">Romans 8:28–30</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4541, H1544, H2553, H6456, H6459, H6754, H6816, H8403, G05040, G01790</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001026",
+          "end_ref_usfm": "GEN 1:26"
+        },
+        {
+          "start_ref": "01001027",
+          "start_ref_usfm": "GEN 1:27",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "01009006",
+          "start_ref_usfm": "GEN 9:6",
+          "end_ref": "01009006",
+          "end_ref_usfm": "GEN 9:6"
+        },
+        {
+          "start_ref": "51001015",
+          "start_ref_usfm": "COL 1:15",
+          "end_ref": "51001015",
+          "end_ref_usfm": "COL 1:15"
+        },
+        {
+          "start_ref": "51003010",
+          "start_ref_usfm": "COL 3:10",
+          "end_ref": "51003010",
+          "end_ref_usfm": "COL 3:10"
+        },
+        {
+          "start_ref": "45008028",
+          "start_ref_usfm": "ROM 8:28",
+          "end_ref": "45008030",
+          "end_ref_usfm": "ROM 8:30"
+        },
+        {
+          "start_ref": "01001026",
+          "start_ref_usfm": "GEN 1:26",
+          "end_ref": "01001027",
+          "end_ref_usfm": "GEN 1:27"
+        },
+        {
+          "start_ref": "47004003",
+          "start_ref_usfm": "2CO 4:3",
+          "end_ref": "47004004",
+          "end_ref_usfm": "2CO 4:4"
+        },
+        {
+          "start_ref": "51003009",
+          "start_ref_usfm": "COL 3:9",
+          "end_ref": "51003011",
+          "end_ref_usfm": "COL 3:11"
+        },
+        {
+          "start_ref": "59003009",
+          "start_ref_usfm": "JAS 3:9",
+          "end_ref": "59003010",
+          "end_ref_usfm": "JAS 3:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25863,
+          "content_id": 26721,
+          "label": "Image",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 27108,
+          "label": "Son of God",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

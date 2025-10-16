@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466920,
+    "reference_id": 25769,
+    "title": "Gaza",
+    "media_type": "Text",
+    "index_reference": "gaza",
+    "language": "fra",
+    "content": "<h1>Gaza</h1><h2>Définition :</h2><p>&quot;Dans les temps bibliques, Gaza était une ville philistine importante située sur la zone côtière de la mer Méditerranée, environ 77 kilomètres au sud-ouest de Jérusalem et à 38 kilomètres au sud de Ashdod.</p><ul><li><p>Dans les temps anciens, la bande de Gaza était la porte de terrains militaires et commerciaux entre l&apos;Asie et l&apos;Egypte.</p></li><li><p>Aujourd&apos;hui, la ville de Gaza est toujours un important port maritime dans la bande de Gaza, qui est une région située le long de la côte de la mer Méditerranée, bordée par Israël au nord et à l&apos;est, et au sud par l&apos;Egypte.</p></li><li><p>Gaza était la ville où les Philistins prirent Samson après qu&apos;ils l&apos;eurent capturé.</p></li><li><p>Philippe l&apos;évangéliste se promenait le long de la route du désert à Gaza quand il a rencontré un eunuque éthiopien.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ashdod.md), (../names/philip.md), (../names/philistines.md), (../names/ethiopia.md), (../names/gath.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "44008026",
+          "start_ref_usfm": "ACT 8:26",
+          "end_ref": "44008026",
+          "end_ref_usfm": "ACT 8:26"
+        },
+        {
+          "start_ref": "11004024",
+          "start_ref_usfm": "1KI 4:24",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "07006003",
+          "start_ref_usfm": "JDG 6:3",
+          "end_ref": "07006004",
+          "end_ref_usfm": "JDG 6:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25481,
+          "content_id": 466660,
+          "label": "Asdod",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 466872,
+          "label": "Ethiopie ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 466919,
+          "label": "Gath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 467220,
+          "label": "Philippe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

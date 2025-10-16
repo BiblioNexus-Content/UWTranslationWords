@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467451,
+    "reference_id": 26343,
+    "title": "Tour de garde",
+    "media_type": "Text",
+    "index_reference": "tour de garde",
+    "language": "fra",
+    "content": "<h1>tour de garde, tours de guet, tour</h1><h2>Définition :</h2><p>Le terme &quot;tour de garde&quot; se réfère à une grande structure construite comme un lieu à partir duquel les gardes pouvaient voir venir tout danger* Ces tours étaient souvent en pierre.</p><ul><li><p>Les propriétaires fonciers construisaient parfois des tours de guet à partir desquelles ils pouvaient garder leurs cultures et les protéger contre le vol.</p></li><li><p>Les tours comprenaient souvent des pièces où vivaient les veilleurs ou la famille, de sorte qu’ils pouvaient garder les récoltes jour et nuit.</p></li><li><p>Les tours de guet pour les villes étaient construites plus haut que les murs de la ville pour que les gardiens</p></li><li><p>puissent voir si des ennemis venaient attaquer la ville.</p></li><li><p>Le terme &quot;tour de guet&quot; est également utilisé comme symbole de protection contre les ennemis. (See: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Metaphor</a>)</p></li></ul><p>(Voir aussi : (../other/adversary.md), (../other/watch.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19062002",
+          "start_ref_usfm": "PSA 62:2",
+          "end_ref": "19062002",
+          "end_ref_usfm": "PSA 62:2"
+        },
+        {
+          "start_ref": "20018010",
+          "start_ref_usfm": "PRO 18:10",
+          "end_ref": "20018010",
+          "end_ref_usfm": "PRO 18:10"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012001",
+          "end_ref_usfm": "MRK 12:1"
+        },
+        {
+          "start_ref": "42013004",
+          "start_ref_usfm": "LUK 13:4",
+          "end_ref": "42013004",
+          "end_ref_usfm": "LUK 13:4"
+        },
+        {
+          "start_ref": "42014028",
+          "start_ref_usfm": "LUK 14:28",
+          "end_ref": "42014028",
+          "end_ref_usfm": "LUK 14:28"
+        },
+        {
+          "start_ref": "13027025",
+          "start_ref_usfm": "1CH 27:25",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "26026003",
+          "start_ref_usfm": "EZK 26:3",
+          "end_ref": "26026004",
+          "end_ref_usfm": "EZK 26:4"
+        },
+        {
+          "start_ref": "41012001",
+          "start_ref_usfm": "MRK 12:1",
+          "end_ref": "41012003",
+          "end_ref_usfm": "MRK 12:3"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021034",
+          "end_ref_usfm": "MAT 21:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25434,
+          "content_id": 466616,
+          "label": "Adversaire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26342,
+          "content_id": 467450,
+          "label": "Veiller",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

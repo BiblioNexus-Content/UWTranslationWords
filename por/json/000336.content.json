@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237850,
+    "reference_id": 25717,
+    "title": "Eva",
+    "media_type": "Text",
+    "index_reference": "eva",
+    "language": "por",
+    "content": "<h1>Eva</h1><h2>Fatos:</h2><p>Este foi o nome da primeira mulher. Seu nome significa &quot;vida&quot; ou &quot;vivente&quot;.</p><ul><li><p>Deus formou Eva de uma costela que ele tirou de Adão.</p></li><li><p>Eva foi criada para ser a &quot;ajudadora&quot; de Adão. Ela veio ao lado de Adão para ajudá-lo no trabalho que Deus lhes deu para fazer.</p></li><li><p>Eva foi tentada por Satanás (na forma de uma serpente) e foi a primeira a pecar ao comer o fruto que Deus disse para não comer.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">Adão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_life\" data-resourceType=\"UWTranslationWords\">vida</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26199\" data-resourceType=\"UWTranslationWords\">Satanás</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Tim2:13\">1 Timóteo 2.13</a></p></li><li><p><a href=\"https://ref.ly/2Cor11:3\">2 Coríntios 11.3</a></p></li><li><p><a href=\"https://ref.ly/Gen3:20\">Gênesis 3.20</a></p></li><li><p><a href=\"https://ref.ly/Gen4:2\">Gênesis 4.2</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>1:13</strong> Então Deus pegou uma das costelas de Adão e a transformou em uma mulher e a trouxe para ele.</p></li><li><p><strong>2:2</strong> Mas havia uma serpente astuta no jardim. Ela perguntou à mulher: &quot;Deus realmente disse para você não comer o fruto de nenhuma das árvores do jardim?&quot;</p></li><li><p><strong>2:11</strong> O homem chamou sua esposa de <strong>Eva</strong>, que significa &quot;doadora de vida&quot;, porque ela se tornaria a mãe de todas as pessoas.</p></li><li><p><strong>21:1</strong> Deus prometeu que um descendente de <strong>Eva</strong> nasceria e esmagaria a cabeça da serpente.</p></li><li><p><strong>48:2</strong> Satanás no jardim falou através da serpente a fim de enganar <strong>Eva</strong>.</p></li><li><p><strong>49:8</strong> Quando Adão e <strong>Eva</strong> pecaram, isso afetou todos os seus descendentes.</p></li><li><p><strong>50:16</strong> Porque Adão e <strong>Eva</strong> desobedeceram a Deus e trouxeram o pecado a este mundo, Deus o amaldiçoou e decidiu destruí-lo.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2332, G20960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003020",
+          "start_ref_usfm": "GEN 3:20",
+          "end_ref": "01003020",
+          "end_ref_usfm": "GEN 3:20"
+        },
+        {
+          "start_ref": "01004001",
+          "start_ref_usfm": "GEN 4:1",
+          "end_ref": "01004001",
+          "end_ref_usfm": "GEN 4:1"
+        },
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "47011003",
+          "start_ref_usfm": "2CO 11:3",
+          "end_ref": "47011003",
+          "end_ref_usfm": "2CO 11:3"
+        },
+        {
+          "start_ref": "54002013",
+          "start_ref_usfm": "1TI 2:13",
+          "end_ref": "54002013",
+          "end_ref_usfm": "1TI 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 237567,
+          "label": "Adão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 238328,
+          "label": "Satanás",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

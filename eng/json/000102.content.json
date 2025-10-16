@@ -1,0 +1,467 @@
+[
+  {
+    "content_id": 26375,
+    "reference_id": 25517,
+    "title": "Beast",
+    "media_type": "Text",
+    "index_reference": "beast",
+    "language": "eng",
+    "content": "<h1>beast</h1><h2>Facts:</h2><p>In the Bible, the term “beast” is often just another way of saying “animal.”</p><ul><li><p>A wild beast is a type of animal that lives freely in the forest or fields and has not been trained by people.</p></li><li><p>A domestic beast is an animal that lives with people and is kept for food or for performing work, such as plowing fields. Often the term “livestock” is used to refer to this kind of animal.</p></li><li><p>The Old Testament book of Daniel and the New Testament book of Revelation describe visions which have beasts that represent evil powers and authorities that oppose God. (See: Metaphor)</p></li><li><p>Some of these beasts are described as having strange features, such as several heads and many horns. They often have power and authority, indicating that they may represent countries, nations, or other political powers.</p></li><li><p>Ways to translate this could include “creature” or “created thing” or “animal” or “wild animal,” depending on the context.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">authority</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25970\" data-resourceType=\"UWTranslationWords\">livestock</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26044\" data-resourceType=\"UWTranslationWords\">nation</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">power</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">reveal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25518\" data-resourceType=\"UWTranslationWords\">Beelzebul</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor15:32\">1 Corinthians 15:32</a></p></li><li><p><a href=\"https://ref.ly/1Sam17:44\">1 Samuel 17:44</a></p></li><li><p><a href=\"https://ref.ly/2Chr25:18\">2 Chronicles 25:18</a></p></li><li><p><a href=\"https://ref.ly/Jer16:1-Jer16:4\">Jeremiah 16:1–4</a></p></li><li><p><a href=\"https://ref.ly/Lev7:21\">Leviticus 7:21</a></p></li><li><p><a href=\"https://ref.ly/Ps49:12-Ps49:13\">Psalms 49:12–13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0338, H0929, H1165, H2123, H2416, H2423, H2874, H3753, H4806, H7409, G22260, G23410, G23420, G29340, G49680, G50740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01007002",
+          "start_ref_usfm": "GEN 7:2",
+          "end_ref": "01007002",
+          "end_ref_usfm": "GEN 7:2"
+        },
+        {
+          "start_ref": "01007008",
+          "start_ref_usfm": "GEN 7:8",
+          "end_ref": "01007008",
+          "end_ref_usfm": "GEN 7:8"
+        },
+        {
+          "start_ref": "01008020",
+          "start_ref_usfm": "GEN 8:20",
+          "end_ref": "01008020",
+          "end_ref_usfm": "GEN 8:20"
+        },
+        {
+          "start_ref": "01034023",
+          "start_ref_usfm": "GEN 34:23",
+          "end_ref": "01034023",
+          "end_ref_usfm": "GEN 34:23"
+        },
+        {
+          "start_ref": "01036006",
+          "start_ref_usfm": "GEN 36:6",
+          "end_ref": "01036006",
+          "end_ref_usfm": "GEN 36:6"
+        },
+        {
+          "start_ref": "01045017",
+          "start_ref_usfm": "GEN 45:17",
+          "end_ref": "01045017",
+          "end_ref_usfm": "GEN 45:17"
+        },
+        {
+          "start_ref": "01047018",
+          "start_ref_usfm": "GEN 47:18",
+          "end_ref": "01047018",
+          "end_ref_usfm": "GEN 47:18"
+        },
+        {
+          "start_ref": "02008017",
+          "start_ref_usfm": "EXO 8:17",
+          "end_ref": "02008017",
+          "end_ref_usfm": "EXO 8:17"
+        },
+        {
+          "start_ref": "02008018",
+          "start_ref_usfm": "EXO 8:18",
+          "end_ref": "02008018",
+          "end_ref_usfm": "EXO 8:18"
+        },
+        {
+          "start_ref": "02009009",
+          "start_ref_usfm": "EXO 9:9",
+          "end_ref": "02009009",
+          "end_ref_usfm": "EXO 9:9"
+        },
+        {
+          "start_ref": "02009010",
+          "start_ref_usfm": "EXO 9:10",
+          "end_ref": "02009010",
+          "end_ref_usfm": "EXO 9:10"
+        },
+        {
+          "start_ref": "02009019",
+          "start_ref_usfm": "EXO 9:19",
+          "end_ref": "02009019",
+          "end_ref_usfm": "EXO 9:19"
+        },
+        {
+          "start_ref": "02009022",
+          "start_ref_usfm": "EXO 9:22",
+          "end_ref": "02009022",
+          "end_ref_usfm": "EXO 9:22"
+        },
+        {
+          "start_ref": "02009025",
+          "start_ref_usfm": "EXO 9:25",
+          "end_ref": "02009025",
+          "end_ref_usfm": "EXO 9:25"
+        },
+        {
+          "start_ref": "02011005",
+          "start_ref_usfm": "EXO 11:5",
+          "end_ref": "02011005",
+          "end_ref_usfm": "EXO 11:5"
+        },
+        {
+          "start_ref": "02011007",
+          "start_ref_usfm": "EXO 11:7",
+          "end_ref": "02011007",
+          "end_ref_usfm": "EXO 11:7"
+        },
+        {
+          "start_ref": "02012012",
+          "start_ref_usfm": "EXO 12:12",
+          "end_ref": "02012012",
+          "end_ref_usfm": "EXO 12:12"
+        },
+        {
+          "start_ref": "02012029",
+          "start_ref_usfm": "EXO 12:29",
+          "end_ref": "02012029",
+          "end_ref_usfm": "EXO 12:29"
+        },
+        {
+          "start_ref": "02013002",
+          "start_ref_usfm": "EXO 13:2",
+          "end_ref": "02013002",
+          "end_ref_usfm": "EXO 13:2"
+        },
+        {
+          "start_ref": "02013012",
+          "start_ref_usfm": "EXO 13:12",
+          "end_ref": "02013012",
+          "end_ref_usfm": "EXO 13:12"
+        },
+        {
+          "start_ref": "02013015",
+          "start_ref_usfm": "EXO 13:15",
+          "end_ref": "02013015",
+          "end_ref_usfm": "EXO 13:15"
+        },
+        {
+          "start_ref": "02019013",
+          "start_ref_usfm": "EXO 19:13",
+          "end_ref": "02019013",
+          "end_ref_usfm": "EXO 19:13"
+        },
+        {
+          "start_ref": "02022010",
+          "start_ref_usfm": "EXO 22:10",
+          "end_ref": "02022010",
+          "end_ref_usfm": "EXO 22:10"
+        },
+        {
+          "start_ref": "02022019",
+          "start_ref_usfm": "EXO 22:19",
+          "end_ref": "02022019",
+          "end_ref_usfm": "EXO 22:19"
+        },
+        {
+          "start_ref": "03007021",
+          "start_ref_usfm": "LEV 7:21",
+          "end_ref": "03007021",
+          "end_ref_usfm": "LEV 7:21"
+        },
+        {
+          "start_ref": "09017044",
+          "start_ref_usfm": "1SA 17:44",
+          "end_ref": "09017044",
+          "end_ref_usfm": "1SA 17:44"
+        },
+        {
+          "start_ref": "14025018",
+          "start_ref_usfm": "2CH 25:18",
+          "end_ref": "14025018",
+          "end_ref_usfm": "2CH 25:18"
+        },
+        {
+          "start_ref": "18012007",
+          "start_ref_usfm": "JOB 12:7",
+          "end_ref": "18012007",
+          "end_ref_usfm": "JOB 12:7"
+        },
+        {
+          "start_ref": "20030030",
+          "start_ref_usfm": "PRO 30:30",
+          "end_ref": "20030030",
+          "end_ref_usfm": "PRO 30:30"
+        },
+        {
+          "start_ref": "41001013",
+          "start_ref_usfm": "MRK 1:13",
+          "end_ref": "41001013",
+          "end_ref_usfm": "MRK 1:13"
+        },
+        {
+          "start_ref": "42010034",
+          "start_ref_usfm": "LUK 10:34",
+          "end_ref": "42010034",
+          "end_ref_usfm": "LUK 10:34"
+        },
+        {
+          "start_ref": "44011006",
+          "start_ref_usfm": "ACT 11:6",
+          "end_ref": "44011006",
+          "end_ref_usfm": "ACT 11:6"
+        },
+        {
+          "start_ref": "44023024",
+          "start_ref_usfm": "ACT 23:24",
+          "end_ref": "44023024",
+          "end_ref_usfm": "ACT 23:24"
+        },
+        {
+          "start_ref": "46015032",
+          "start_ref_usfm": "1CO 15:32",
+          "end_ref": "46015032",
+          "end_ref_usfm": "1CO 15:32"
+        },
+        {
+          "start_ref": "46015039",
+          "start_ref_usfm": "1CO 15:39",
+          "end_ref": "46015039",
+          "end_ref_usfm": "1CO 15:39"
+        },
+        {
+          "start_ref": "56001012",
+          "start_ref_usfm": "TIT 1:12",
+          "end_ref": "56001012",
+          "end_ref_usfm": "TIT 1:12"
+        },
+        {
+          "start_ref": "58012020",
+          "start_ref_usfm": "HEB 12:20",
+          "end_ref": "58012020",
+          "end_ref_usfm": "HEB 12:20"
+        },
+        {
+          "start_ref": "59003007",
+          "start_ref_usfm": "JAS 3:7",
+          "end_ref": "59003007",
+          "end_ref_usfm": "JAS 3:7"
+        },
+        {
+          "start_ref": "66006008",
+          "start_ref_usfm": "REV 6:8",
+          "end_ref": "66006008",
+          "end_ref_usfm": "REV 6:8"
+        },
+        {
+          "start_ref": "66011007",
+          "start_ref_usfm": "REV 11:7",
+          "end_ref": "66011007",
+          "end_ref_usfm": "REV 11:7"
+        },
+        {
+          "start_ref": "66013001",
+          "start_ref_usfm": "REV 13:1",
+          "end_ref": "66013001",
+          "end_ref_usfm": "REV 13:1"
+        },
+        {
+          "start_ref": "66013002",
+          "start_ref_usfm": "REV 13:2",
+          "end_ref": "66013002",
+          "end_ref_usfm": "REV 13:2"
+        },
+        {
+          "start_ref": "66013003",
+          "start_ref_usfm": "REV 13:3",
+          "end_ref": "66013003",
+          "end_ref_usfm": "REV 13:3"
+        },
+        {
+          "start_ref": "66013004",
+          "start_ref_usfm": "REV 13:4",
+          "end_ref": "66013004",
+          "end_ref_usfm": "REV 13:4"
+        },
+        {
+          "start_ref": "66013011",
+          "start_ref_usfm": "REV 13:11",
+          "end_ref": "66013011",
+          "end_ref_usfm": "REV 13:11"
+        },
+        {
+          "start_ref": "66013012",
+          "start_ref_usfm": "REV 13:12",
+          "end_ref": "66013012",
+          "end_ref_usfm": "REV 13:12"
+        },
+        {
+          "start_ref": "66013014",
+          "start_ref_usfm": "REV 13:14",
+          "end_ref": "66013014",
+          "end_ref_usfm": "REV 13:14"
+        },
+        {
+          "start_ref": "66013015",
+          "start_ref_usfm": "REV 13:15",
+          "end_ref": "66013015",
+          "end_ref_usfm": "REV 13:15"
+        },
+        {
+          "start_ref": "66013017",
+          "start_ref_usfm": "REV 13:17",
+          "end_ref": "66013017",
+          "end_ref_usfm": "REV 13:17"
+        },
+        {
+          "start_ref": "66013018",
+          "start_ref_usfm": "REV 13:18",
+          "end_ref": "66013018",
+          "end_ref_usfm": "REV 13:18"
+        },
+        {
+          "start_ref": "66014009",
+          "start_ref_usfm": "REV 14:9",
+          "end_ref": "66014009",
+          "end_ref_usfm": "REV 14:9"
+        },
+        {
+          "start_ref": "66014011",
+          "start_ref_usfm": "REV 14:11",
+          "end_ref": "66014011",
+          "end_ref_usfm": "REV 14:11"
+        },
+        {
+          "start_ref": "66015002",
+          "start_ref_usfm": "REV 15:2",
+          "end_ref": "66015002",
+          "end_ref_usfm": "REV 15:2"
+        },
+        {
+          "start_ref": "66016002",
+          "start_ref_usfm": "REV 16:2",
+          "end_ref": "66016002",
+          "end_ref_usfm": "REV 16:2"
+        },
+        {
+          "start_ref": "66016010",
+          "start_ref_usfm": "REV 16:10",
+          "end_ref": "66016010",
+          "end_ref_usfm": "REV 16:10"
+        },
+        {
+          "start_ref": "66016013",
+          "start_ref_usfm": "REV 16:13",
+          "end_ref": "66016013",
+          "end_ref_usfm": "REV 16:13"
+        },
+        {
+          "start_ref": "66017003",
+          "start_ref_usfm": "REV 17:3",
+          "end_ref": "66017003",
+          "end_ref_usfm": "REV 17:3"
+        },
+        {
+          "start_ref": "66017007",
+          "start_ref_usfm": "REV 17:7",
+          "end_ref": "66017007",
+          "end_ref_usfm": "REV 17:7"
+        },
+        {
+          "start_ref": "66017008",
+          "start_ref_usfm": "REV 17:8",
+          "end_ref": "66017008",
+          "end_ref_usfm": "REV 17:8"
+        },
+        {
+          "start_ref": "66017011",
+          "start_ref_usfm": "REV 17:11",
+          "end_ref": "66017011",
+          "end_ref_usfm": "REV 17:11"
+        },
+        {
+          "start_ref": "66017012",
+          "start_ref_usfm": "REV 17:12",
+          "end_ref": "66017012",
+          "end_ref_usfm": "REV 17:12"
+        },
+        {
+          "start_ref": "66017013",
+          "start_ref_usfm": "REV 17:13",
+          "end_ref": "66017013",
+          "end_ref_usfm": "REV 17:13"
+        },
+        {
+          "start_ref": "66017016",
+          "start_ref_usfm": "REV 17:16",
+          "end_ref": "66017016",
+          "end_ref_usfm": "REV 17:16"
+        },
+        {
+          "start_ref": "66017017",
+          "start_ref_usfm": "REV 17:17",
+          "end_ref": "66017017",
+          "end_ref_usfm": "REV 17:17"
+        },
+        {
+          "start_ref": "66019019",
+          "start_ref_usfm": "REV 19:19",
+          "end_ref": "66019019",
+          "end_ref_usfm": "REV 19:19"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020004",
+          "start_ref_usfm": "REV 20:4",
+          "end_ref": "66020004",
+          "end_ref_usfm": "REV 20:4"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "24016001",
+          "start_ref_usfm": "JER 16:1",
+          "end_ref": "24016004",
+          "end_ref_usfm": "JER 16:4"
+        },
+        {
+          "start_ref": "19049012",
+          "start_ref_usfm": "PSA 49:12",
+          "end_ref": "19049013",
+          "end_ref_usfm": "PSA 49:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 26350,
+          "label": "Authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25518,
+          "content_id": 26376,
+          "label": "Beelzebul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 26500,
+          "label": "Daniel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25970,
+          "content_id": 26828,
+          "label": "Livestock",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26044,
+          "content_id": 26902,
+          "label": "Nation",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

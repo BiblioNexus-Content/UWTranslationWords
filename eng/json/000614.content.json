@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26887,
+    "reference_id": 26029,
+    "title": "Molech",
+    "media_type": "Text",
+    "index_reference": "molech",
+    "language": "eng",
+    "content": "<h1>Molech, Moloch</h1><h2>Facts:</h2><p>Molech was the name of one of the false gods that the Canaanites worshiped. Other spellings are “Moloch” and “Molek.”</p><ul><li><p>People who worshiped Molech sacrificed their children to him by means of fire.</p></li><li><p>Some of the Israelites also worshiped Molech instead of the one true God, Yahweh. They followed the evil practices of Molech worshipers, including sacrificing their children.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25718\" data-resourceType=\"UWTranslationWords\">evil</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">God</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">true</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">worship</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs11:7\">1 Kings 11:7</a></p></li><li><p><a href=\"https://ref.ly/2Kgs23:10\">2 Kings 23:10</a></p></li><li><p><a href=\"https://ref.ly/Acts7:43\">Acts 7:43</a></p></li><li><p><a href=\"https://ref.ly/Jer32:33-Jer32:35\">Jeremiah 32:33–35</a></p></li><li><p><a href=\"https://ref.ly/Lev18:21\">Leviticus 18:21</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4428, H4432, G34340</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03018021",
+          "start_ref_usfm": "LEV 18:21",
+          "end_ref": "03018021",
+          "end_ref_usfm": "LEV 18:21"
+        },
+        {
+          "start_ref": "11011007",
+          "start_ref_usfm": "1KI 11:7",
+          "end_ref": "11011007",
+          "end_ref_usfm": "1KI 11:7"
+        },
+        {
+          "start_ref": "12023010",
+          "start_ref_usfm": "2KI 23:10",
+          "end_ref": "12023010",
+          "end_ref_usfm": "2KI 23:10"
+        },
+        {
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        },
+        {
+          "start_ref": "24032033",
+          "start_ref_usfm": "JER 32:33",
+          "end_ref": "24032035",
+          "end_ref_usfm": "JER 32:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25718,
+          "content_id": 26576,
+          "label": "Evil",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25788,
+          "content_id": 26646,
+          "label": "God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 27215,
+          "label": "Worship",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 27218,
+          "label": "Yahweh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

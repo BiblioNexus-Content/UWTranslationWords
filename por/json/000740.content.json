@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238260,
+    "reference_id": 26130,
+    "title": "Propiciação",
+    "media_type": "Text",
+    "index_reference": "propiciação",
+    "language": "por",
+    "content": "<h1>propiciação</h1><h2>Definição:</h2><p>O termo “propiciação” refere-se a um sacrifício feito para satisfazer ou cumprir a justiça de Deus e apaziguar sua ira.</p><ul><li><p>A oferta do sangue sacrificial de Jesus Cristo é a propiciação a Deus pelos pecados da humanidade.</p></li><li><p>A morte de Jesus na cruz apaziguou a ira de Deus contra o pecado. Isso proporcionou um meio para que Deus olhasse para as pessoas com favor e lhes oferecesse a vida eterna.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Este termo poderia ser traduzido como “apaziguamento” ou “causando Deus a perdoar pecados e conceder favor às pessoas”.</p></li><li><p>A palavra “expiação” é próxima em significado a “propiciação”. É importante comparar como esses dois termos são usados.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25490\" data-resourceType=\"UWTranslationWords\">expiação</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_everlasting\" data-resourceType=\"UWTranslationWords\">eterno</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">perdoar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1John2:2\">1 João 2.2</a></p></li><li><p><a href=\"https://ref.ly/1John4:10\">1 João 4.10</a></p></li><li><p><a href=\"https://ref.ly/Rom3:25-Rom3:26\">Romanos 3.25–26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G24340, G24350</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003025",
+          "end_ref_usfm": "ROM 3:25"
+        },
+        {
+          "start_ref": "58002017",
+          "start_ref_usfm": "HEB 2:17",
+          "end_ref": "58002017",
+          "end_ref_usfm": "HEB 2:17"
+        },
+        {
+          "start_ref": "62002002",
+          "start_ref_usfm": "1JN 2:2",
+          "end_ref": "62002002",
+          "end_ref_usfm": "1JN 2:2"
+        },
+        {
+          "start_ref": "62004010",
+          "start_ref_usfm": "1JN 4:10",
+          "end_ref": "62004010",
+          "end_ref_usfm": "1JN 4:10"
+        },
+        {
+          "start_ref": "45003025",
+          "start_ref_usfm": "ROM 3:25",
+          "end_ref": "45003026",
+          "end_ref_usfm": "ROM 3:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25490,
+          "content_id": 237627,
+          "label": "Expiação",
+          "language": "por"
+        },
+        {
+          "reference_id": 25712,
+          "content_id": 237845,
+          "label": "Eternidade",
+          "language": "por"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 237885,
+          "label": "Perdoar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

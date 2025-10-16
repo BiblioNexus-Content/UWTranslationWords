@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 238124,
+    "reference_id": 25994,
+    "title": "Maná",
+    "media_type": "Text",
+    "index_reference": "maná",
+    "language": "por",
+    "content": "<h1>maná</h1><h2>Definição:</h2><p>Maná era um alimento branco, semelhante a grãos, que Deus providenciou para os israelitas comerem durante os 40 anos de vida no deserto após deixarem o Egito.</p><ul><li><p>O maná parecia flocos brancos que apareciam todas as manhãs no chão, cobertos pelo orvalho. Tinha um sabor doce, como mel.</p></li><li><p>Os israelitas recolhiam os flocos de maná todos os dias, exceto no sábado.</p></li><li><p>No dia anterior ao sábado, Deus disse aos israelitas para recolherem o dobro da quantidade de maná para que não precisassem recolhê-lo no dia de descanso.</p></li><li><p>A palavra “maná” significa “o que é isso?”.</p></li><li><p>Na Bíblia, o maná também é referido como “pão do céu” e “grão do céu”.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Outras maneiras de traduzir este termo poderiam incluir “finos flocos brancos de alimento” ou “alimento do céu”.</p></li><li><p>Considere também como este termo é traduzido em uma tradução da Bíblia em uma língua local ou nacional. (Veja: Como Traduzir Desconhecidos)</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25554\" data-resourceType=\"UWTranslationWords\">pão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">deserto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25825\" data-resourceType=\"UWTranslationWords\">céu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26186\" data-resourceType=\"UWTranslationWords\">sábado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut8:3\">Deuteronômio 8.3</a></p></li><li><p><a href=\"https://ref.ly/Exod16:27\">Êxodo 16.27</a></p></li><li><p><a href=\"https://ref.ly/Heb9:3-Heb9:5\">Hebreus 9.3–5</a></p></li><li><p><a href=\"https://ref.ly/John6:30-John6:31\">João 6.30–31</a></p></li><li><p><a href=\"https://ref.ly/Josh5:12\">Josué 5.12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4478, G31310</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02016027",
+          "start_ref_usfm": "EXO 16:27",
+          "end_ref": "02016027",
+          "end_ref_usfm": "EXO 16:27"
+        },
+        {
+          "start_ref": "02016031",
+          "start_ref_usfm": "EXO 16:31",
+          "end_ref": "02016031",
+          "end_ref_usfm": "EXO 16:31"
+        },
+        {
+          "start_ref": "02016033",
+          "start_ref_usfm": "EXO 16:33",
+          "end_ref": "02016033",
+          "end_ref_usfm": "EXO 16:33"
+        },
+        {
+          "start_ref": "02016035",
+          "start_ref_usfm": "EXO 16:35",
+          "end_ref": "02016035",
+          "end_ref_usfm": "EXO 16:35"
+        },
+        {
+          "start_ref": "05008003",
+          "start_ref_usfm": "DEU 8:3",
+          "end_ref": "05008003",
+          "end_ref_usfm": "DEU 8:3"
+        },
+        {
+          "start_ref": "06005012",
+          "start_ref_usfm": "JOS 5:12",
+          "end_ref": "06005012",
+          "end_ref_usfm": "JOS 5:12"
+        },
+        {
+          "start_ref": "16009020",
+          "start_ref_usfm": "NEH 9:20",
+          "end_ref": "16009020",
+          "end_ref_usfm": "NEH 9:20"
+        },
+        {
+          "start_ref": "43006031",
+          "start_ref_usfm": "JHN 6:31",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        },
+        {
+          "start_ref": "43006049",
+          "start_ref_usfm": "JHN 6:49",
+          "end_ref": "43006049",
+          "end_ref_usfm": "JHN 6:49"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009004",
+          "end_ref_usfm": "HEB 9:4"
+        },
+        {
+          "start_ref": "66002017",
+          "start_ref_usfm": "REV 2:17",
+          "end_ref": "66002017",
+          "end_ref_usfm": "REV 2:17"
+        },
+        {
+          "start_ref": "58009003",
+          "start_ref_usfm": "HEB 9:3",
+          "end_ref": "58009005",
+          "end_ref_usfm": "HEB 9:5"
+        },
+        {
+          "start_ref": "43006030",
+          "start_ref_usfm": "JHN 6:30",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25554,
+          "content_id": 237689,
+          "label": "Pão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 237795,
+          "label": "Deserto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 237934,
+          "label": "Grão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25825,
+          "content_id": 237958,
+          "label": "Paraíso",
+          "language": "por"
+        },
+        {
+          "reference_id": 26186,
+          "content_id": 238315,
+          "label": "Sábado",
+          "language": "por"
+        },
+        {
+          "reference_id": 140900,
+          "content_id": 307866,
+          "label": "João 6.31 (#1)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

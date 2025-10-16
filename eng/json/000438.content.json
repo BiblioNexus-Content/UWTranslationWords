@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26710,
+    "reference_id": 25852,
+    "title": "Hosea",
+    "media_type": "Text",
+    "index_reference": "hosea",
+    "language": "eng",
+    "content": "<h1>Hosea</h1><h2>Facts:</h2><p>Hosea was a prophet of Israel who lived and prophesied about 750 years before the time of Christ.</p><ul><li><p>His ministry lasted for many years through the reigns of several kings, such as Jeroboam, Zechariah, Jotham, Ahaz, Hoshea, Uzziah, and Hezekiah.</p></li><li><p>Hosea was told by God to marry a prostitute named Gomer and to continue to love her, even though she was unfaithful to him.</p></li><li><p>This was a picture of God’s love for his unfaithful people, Israel.</p></li><li><p>Hosea prophesied against the people of Israel because of their sin, warning them to turn away from worshipping idols.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25440\" data-resourceType=\"UWTranslationWords\">Ahaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Hezekiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25853\" data-resourceType=\"UWTranslationWords\">Hoshea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25897\" data-resourceType=\"UWTranslationWords\">Jeroboam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25922\" data-resourceType=\"UWTranslationWords\">Jotham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26331\" data-resourceType=\"UWTranslationWords\">Uzziah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26370\" data-resourceType=\"UWTranslationWords\">Zechariah (OT)</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Hos1:1-Hos1:2\">Hosea 1:1–2</a></p></li><li><p><a href=\"https://ref.ly/Hos1:3-Hos1:5\">Hosea 1:3–5</a></p></li><li><p><a href=\"https://ref.ly/Hos1:6-Hos1:7\">Hosea 1:6–7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1954, G56170</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45009025",
+          "start_ref_usfm": "ROM 9:25",
+          "end_ref": "45009025",
+          "end_ref_usfm": "ROM 9:25"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001002",
+          "end_ref_usfm": "HOS 1:2"
+        },
+        {
+          "start_ref": "28001003",
+          "start_ref_usfm": "HOS 1:3",
+          "end_ref": "28001005",
+          "end_ref_usfm": "HOS 1:5"
+        },
+        {
+          "start_ref": "28001006",
+          "start_ref_usfm": "HOS 1:6",
+          "end_ref": "28001007",
+          "end_ref_usfm": "HOS 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 26298,
+          "label": "Ahaz",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 26692,
+          "label": "Hezekiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25853,
+          "content_id": 26711,
+          "label": "Hoshea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 26755,
+          "label": "Jeroboam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25922,
+          "content_id": 26780,
+          "label": "Jotham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26331,
+          "content_id": 27189,
+          "label": "Uzziah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26370,
+          "content_id": 27228,
+          "label": "Zechariah OT",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

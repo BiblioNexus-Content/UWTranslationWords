@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26711,
+    "reference_id": 25853,
+    "title": "Hoshea",
+    "media_type": "Text",
+    "index_reference": "hoshea",
+    "language": "eng",
+    "content": "<h1>Hoshea</h1><h2>Facts:</h2><p>Hoshea was the name of a king of Israel and several other men in the Old Testament.</p><ul><li><p>Hoshea son of Alah was a king of Israel for nine years during part of the reigns of Ahaz and Hezekiah, kings of Judah.</p></li><li><p>Joshua son of Nun was formerly named Hoshea. Moses changed Hoshea’s name to Joshua before sending him and eleven other men to spy out the land of the Canaanites.</p></li><li><p>After Moses died, Joshua led the people of Israel to take possession of the land of Canaan.</p></li><li><p>A different man named Hoshea was a son of Azaziah and was one of the leaders of the Ephraimites.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25440\" data-resourceType=\"UWTranslationWords\">Ahaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">Ephraim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">Hezekiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Joshua</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moses</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:20\">1 Chronicles 27:20</a></p></li><li><p><a href=\"https://ref.ly/2Kgs15:30\">2 Kings 15:30</a></p></li><li><p><a href=\"https://ref.ly/2Kgs17:3\">2 Kings 17:3</a></p></li><li><p><a href=\"https://ref.ly/2Kgs18:1\">2 Kings 18:1</a></p></li><li><p><a href=\"https://ref.ly/2Kgs18:9\">2 Kings 18:9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1954</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12015030",
+          "start_ref_usfm": "2KI 15:30",
+          "end_ref": "12015030",
+          "end_ref_usfm": "2KI 15:30"
+        },
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "12018001",
+          "start_ref_usfm": "2KI 18:1",
+          "end_ref": "12018001",
+          "end_ref_usfm": "2KI 18:1"
+        },
+        {
+          "start_ref": "12018009",
+          "start_ref_usfm": "2KI 18:9",
+          "end_ref": "12018009",
+          "end_ref_usfm": "2KI 18:9"
+        },
+        {
+          "start_ref": "13027020",
+          "start_ref_usfm": "1CH 27:20",
+          "end_ref": "13027020",
+          "end_ref_usfm": "1CH 27:20"
+        },
+        {
+          "start_ref": "16010023",
+          "start_ref_usfm": "NEH 10:23",
+          "end_ref": "16010023",
+          "end_ref_usfm": "NEH 10:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 26298,
+          "label": "Ahaz",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 26566,
+          "label": "Ephraim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 26692,
+          "label": "Hezekiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 26778,
+          "label": "Joshua",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 26889,
+          "label": "Moses",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

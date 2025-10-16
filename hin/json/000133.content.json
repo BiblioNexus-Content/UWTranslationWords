@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179770,
+    "reference_id": 25696,
+    "title": "एलयाकीम",
+    "media_type": "Text",
+    "index_reference": "एलयाकीम",
+    "language": "hin",
+    "content": "<h1>एलयाकीम</h1><h2>तथ्य:</h2><p>एल्याकीम नामक दो पुरूष पुराने नियम में हुए थे।</p><ul><li><p>एलयाकीम नामक एक पुरुष हिजकिय्याह राजा का भण्डारी था।</p></li><li><p>दूसरा एलयाकीम राजा योशिय्याह का पुत्र था। उसे मिस्र के फिरौन नको ने यहूदा का राजा बनाया था।</p></li><li><p>नको ने उसका नाम बदल कर यहोयाकीम रखा था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">हिजकिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">यहोयाकीम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">होशिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">फिरौन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 18:118</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 18:26</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 18:37</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 12:34–35</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H0471, G16620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12018018",
+          "start_ref_usfm": "2KI 18:18",
+          "end_ref": "12018018",
+          "end_ref_usfm": "2KI 18:18"
+        },
+        {
+          "start_ref": "12018026",
+          "start_ref_usfm": "2KI 18:26",
+          "end_ref": "12018026",
+          "end_ref_usfm": "2KI 18:26"
+        },
+        {
+          "start_ref": "12018037",
+          "start_ref_usfm": "2KI 18:37",
+          "end_ref": "12018037",
+          "end_ref_usfm": "2KI 18:37"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "40001013",
+          "start_ref_usfm": "MAT 1:13",
+          "end_ref": "40001013",
+          "end_ref_usfm": "MAT 1:13"
+        },
+        {
+          "start_ref": "42003030",
+          "start_ref_usfm": "LUK 3:30",
+          "end_ref": "42003030",
+          "end_ref_usfm": "LUK 3:30"
+        },
+        {
+          "start_ref": "12023034",
+          "start_ref_usfm": "2KI 23:34",
+          "end_ref": "12023035",
+          "end_ref_usfm": "2KI 23:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25834,
+          "content_id": 179903,
+          "label": "हिजकिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 179957,
+          "label": "यहोयाकीम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 179988,
+          "label": "योशिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 180156,
+          "label": "फ़िरौन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

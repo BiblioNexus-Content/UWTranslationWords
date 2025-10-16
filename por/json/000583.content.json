@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238320,
+    "reference_id": 26191,
+    "title": "Mar Salgado",
+    "media_type": "Text",
+    "index_reference": "mar salgado",
+    "language": "por",
+    "content": "<h1>Mar Salgado, Mar Morto</h1><h2>Fatos:</h2><p>O Mar Salgado (também chamado de Mar Morto) estava localizado entre o sul de Israel a oeste e Moabe a leste.</p><ul><li><p>O Rio Jordão flui para o sul no Mar Salgado.</p></li><li><p>Porque é menor do que a maioria dos mares, poderia ser chamado de “Lago Salgado”.</p></li><li><p>Este mar tem uma concentração tão alta de minerais (ou “sais”) que nada pode viver em suas águas. Sua falta de plantas e animais é a causa do nome “Mar Morto”.</p></li><li><p>No Antigo Testamento, este mar também é chamado de “Mar da Arabá” e “Mar do Neguebe” por causa de sua localização perto das regiões de Arabá e Neguebe.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25452\" data-resourceType=\"UWTranslationWords\">Amom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25469\" data-resourceType=\"UWTranslationWords\">Arabá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Rio Jordão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26048\" data-resourceType=\"UWTranslationWords\">Neguebe</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr20:1-2Chr20:2\">2 Crônicas 20.1–2</a></p></li><li><p><a href=\"https://ref.ly/Deut3:17\">Deuteronômio 3.17</a></p></li><li><p><a href=\"https://ref.ly/Josh3:14-Josh3:16\">Josué 3.14–16</a></p></li><li><p><a href=\"https://ref.ly/Num34:1-Num34:3\">Números 34.1–3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3220, H4417</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014003",
+          "start_ref_usfm": "GEN 14:3",
+          "end_ref": "01014003",
+          "end_ref_usfm": "GEN 14:3"
+        },
+        {
+          "start_ref": "05003017",
+          "start_ref_usfm": "DEU 3:17",
+          "end_ref": "05003017",
+          "end_ref_usfm": "DEU 3:17"
+        },
+        {
+          "start_ref": "06003014",
+          "start_ref_usfm": "JOS 3:14",
+          "end_ref": "06003016",
+          "end_ref_usfm": "JOS 3:16"
+        },
+        {
+          "start_ref": "14020001",
+          "start_ref_usfm": "2CH 20:1",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "04034001",
+          "start_ref_usfm": "NUM 34:1",
+          "end_ref": "04034003",
+          "end_ref_usfm": "NUM 34:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 237590,
+          "label": "Amom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25469,
+          "content_id": 237606,
+          "label": "Arabá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 238050,
+          "label": "Rio Jordão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 238156,
+          "label": "Moabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 26048,
+          "content_id": 238178,
+          "label": "Neguebe",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

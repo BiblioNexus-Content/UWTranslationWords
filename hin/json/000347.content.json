@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179732,
+    "reference_id": 25655,
+    "title": "दलीला",
+    "media_type": "Text",
+    "index_reference": "दलीला",
+    "language": "hin",
+    "content": "<h1>दलीला</h1><h2>तथ्य:</h2><p>दलीला एक पलिश्ती स्त्री थी जिससे शिमशोन प्रेम करने लगा था परन्तु वह उसकी पत्नी नहीं थी।</p><ul><li><p>दलीला शिमशोन से अधिक पैसो से प्रेम करती थी।</p></li><li><p>पलिश्तियों ने दलीला को घूस देकर शिमशोन की शक्तियों को विमुख करने का भेद जानने के लिए कहा। उसकी शक्ति समाप्त हो जाने पर पलिश्तियों ने उसे बन्दी बना लिया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25556\" data-resourceType=\"UWTranslationWords\">घूस</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">पलिश्ती</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26193\" data-resourceType=\"UWTranslationWords\">शिमशोन</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Judg16:4-Judg16:5\">न्यायियों 16:4–5</a></p></li><li><p><a href=\"https://ref.ly/Judg16:6-Judg16:7\">न्यायियों 16:6–7</a></p></li><li><p><a href=\"https://ref.ly/Judg16:10-Judg16:12\">न्यायियों 16:10–12</a></p></li><li><p><a href=\"https://ref.ly/Judg16:18-Judg16:19\">न्यायियों 16:18–19</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1807</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07016010",
+          "start_ref_usfm": "JDG 16:10",
+          "end_ref": "07016010",
+          "end_ref_usfm": "JDG 16:10"
+        },
+        {
+          "start_ref": "07016018",
+          "start_ref_usfm": "JDG 16:18",
+          "end_ref": "07016018",
+          "end_ref_usfm": "JDG 16:18"
+        },
+        {
+          "start_ref": "07016004",
+          "start_ref_usfm": "JDG 16:4",
+          "end_ref": "07016005",
+          "end_ref_usfm": "JDG 16:5"
+        },
+        {
+          "start_ref": "07016006",
+          "start_ref_usfm": "JDG 16:6",
+          "end_ref": "07016007",
+          "end_ref_usfm": "JDG 16:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25556,
+          "content_id": 179638,
+          "label": "घूस",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 180162,
+          "label": "पलिश्तियों",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26193,
+          "content_id": 180251,
+          "label": "शिमशोन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

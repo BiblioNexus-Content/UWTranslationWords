@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26982,
+    "reference_id": 26124,
+    "title": "Profane",
+    "media_type": "Text",
+    "index_reference": "profane",
+    "language": "eng",
+    "content": "<h1>profane, profaned</h1><h2>Definition:</h2><p>To profane something means to act in a way that defiles, pollutes, or disrespects something that is holy.</p><ul><li><p>A profane person is one who acts in a way that is unholy and dishonoring of God.</p></li><li><p>The verb to “profane” could be translated as to “treat as unholy” or to “be irreverent toward” or to “dishonor.”</p></li><li><p>God told the Israelites that they “profaned” themselves with idols, meaning that the people were making themselves “unclean” or “dishonored” by this sin. They were also dishonoring God.</p></li><li><p>Depending on the context, the adjective “profane” could be translated as “dishonoring” or “godless” or “unholy.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25653\" data-resourceType=\"UWTranslationWords\">defile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25840\" data-resourceType=\"UWTranslationWords\">holy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">clean</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim2:16-2Tim2:18\">2 Timothy 2:16–18</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:9\">Ezekiel 20:9</a></p></li><li><p><a href=\"https://ref.ly/Mal1:10-Mal1:12\">Malachi 1:10–12</a></p></li><li><p><a href=\"https://ref.ly/Matt12:5\">Matthew 12:5</a></p></li><li><p><a href=\"https://ref.ly/Num18:30-Num18:32\">Numbers 18:30–32</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2455, H2490, H2491, H5234, H8610, G09520, G09530</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02031014",
+          "start_ref_usfm": "EXO 31:14",
+          "end_ref": "02031014",
+          "end_ref_usfm": "EXO 31:14"
+        },
+        {
+          "start_ref": "16013017",
+          "start_ref_usfm": "NEH 13:17",
+          "end_ref": "16013017",
+          "end_ref_usfm": "NEH 13:17"
+        },
+        {
+          "start_ref": "16013018",
+          "start_ref_usfm": "NEH 13:18",
+          "end_ref": "16013018",
+          "end_ref_usfm": "NEH 13:18"
+        },
+        {
+          "start_ref": "26020009",
+          "start_ref_usfm": "EZK 20:9",
+          "end_ref": "26020009",
+          "end_ref_usfm": "EZK 20:9"
+        },
+        {
+          "start_ref": "40012005",
+          "start_ref_usfm": "MAT 12:5",
+          "end_ref": "40012005",
+          "end_ref_usfm": "MAT 12:5"
+        },
+        {
+          "start_ref": "44024006",
+          "start_ref_usfm": "ACT 24:6",
+          "end_ref": "44024006",
+          "end_ref_usfm": "ACT 24:6"
+        },
+        {
+          "start_ref": "54001009",
+          "start_ref_usfm": "1TI 1:9",
+          "end_ref": "54001009",
+          "end_ref_usfm": "1TI 1:9"
+        },
+        {
+          "start_ref": "55002016",
+          "start_ref_usfm": "2TI 2:16",
+          "end_ref": "55002016",
+          "end_ref_usfm": "2TI 2:16"
+        },
+        {
+          "start_ref": "58012016",
+          "start_ref_usfm": "HEB 12:16",
+          "end_ref": "58012016",
+          "end_ref_usfm": "HEB 12:16"
+        },
+        {
+          "start_ref": "55002016",
+          "start_ref_usfm": "2TI 2:16",
+          "end_ref": "55002018",
+          "end_ref_usfm": "2TI 2:18"
+        },
+        {
+          "start_ref": "39001010",
+          "start_ref_usfm": "MAL 1:10",
+          "end_ref": "39001012",
+          "end_ref_usfm": "MAL 1:12"
+        },
+        {
+          "start_ref": "04018030",
+          "start_ref_usfm": "NUM 18:30",
+          "end_ref": "04018032",
+          "end_ref_usfm": "NUM 18:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25596,
+          "content_id": 26454,
+          "label": "Clean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25653,
+          "content_id": 26511,
+          "label": "Defile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 26698,
+          "label": "Holy",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

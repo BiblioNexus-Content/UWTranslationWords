@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 466967,
+    "reference_id": 25818,
+    "title": "Anne",
+    "media_type": "Text",
+    "index_reference": "anne",
+    "language": "fra",
+    "content": "<h1>Anne</h1><h2>Définition :</h2><p>&quot;Anne était la mère du prophète Samuel dans l&apos;Ancien Testament* Elle était l&apos;une des deux femmes de Elkana.</p><ul><li><p>Anne n&apos;a pas été en mesure de concevoir un enfant, ce qui était un grand chagrin pour elle.</p></li><li><p>Au temple, Anne a instamment prié Dieu de lui donner un fils, lui promettant de le consacrer au service de Dieu.</p></li><li><p>Dieu a exaucé sa demande et lorsque le jeune Samuel fut sevré, elle l&apos;amena pour servir au temple sous la direction du prêtre Eli.</p></li><li><p>Dieu a également donné à Anne d&apos;autres enfants plus tard.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/conceive.md), (../names/samuel.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002001",
+          "start_ref_usfm": "1SA 2:1",
+          "end_ref": "09002001",
+          "end_ref_usfm": "1SA 2:1"
+        },
+        {
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001002",
+          "end_ref_usfm": "1SA 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25603,
+          "content_id": 466771,
+          "label": "Concevoir ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 467313,
+          "label": "Samuel",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

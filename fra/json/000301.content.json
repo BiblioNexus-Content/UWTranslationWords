@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466872,
+    "reference_id": 25713,
+    "title": "Ethiopie",
+    "media_type": "Text",
+    "index_reference": "ethiopie",
+    "language": "fra",
+    "content": "<h1>Ethiopie ,Ethiopiens</h1><h2>Définition :</h2><p>L&apos;Ethiopie était un pays africain situé juste au Sud de l&apos;Egypte,limité par le fleuve Nil à l&apos;Ouest et par la Mer Rouge à l&apos;Est*Une personne qui est de l Ethiopie est appelée un&quot;Ethiopien&quot;.</p><ul><li><p>L&apos;ancienne Ethiopie était située au Sud de l&apos;Egypte y compris le terrain qui est maintenant une partie de plusieurs pays modernes africains,tel que le Soudan,l&apos;Ethiopie moderne,la Somalie,le Kenya,l&apos;Ouganda,l&apos;Afrique centrale ,et le Tchad.</p></li><li><p>Dans la Bible ,l&apos;Ethiopie est souvent appelée &quot;Cusch&quot;&quot;ou&quot;Nubie&quot;.</p></li><li><p>L&apos;Ethiopie(Cusch)et l&apos;Egypte étaient souvent mentionnés ensemble dans la Bible,peut-être parce qu&apos;ils étaient situés côte à côte et leur peuple pourrait avoir un même ancêtre.</p></li><li><p>Dieu a envoyé Philippe l&apos;évangeliste dans un désert où il a partagé la bonne nouvelle de Jésus avec les eunuques Ethiopiens</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cush.md), (../names/egypt.md), (../kt/eunuch.md), (../names/philip.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18028019",
+          "start_ref_usfm": "JOB 28:19",
+          "end_ref": "18028019",
+          "end_ref_usfm": "JOB 28:19"
+        },
+        {
+          "start_ref": "34003009",
+          "start_ref_usfm": "NAM 3:9",
+          "end_ref": "34003009",
+          "end_ref_usfm": "NAM 3:9"
+        },
+        {
+          "start_ref": "36003010",
+          "start_ref_usfm": "ZEP 3:10",
+          "end_ref": "36003010",
+          "end_ref_usfm": "ZEP 3:10"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "44008030",
+          "start_ref_usfm": "ACT 8:30",
+          "end_ref": "44008030",
+          "end_ref_usfm": "ACT 8:30"
+        },
+        {
+          "start_ref": "44008032",
+          "start_ref_usfm": "ACT 8:32",
+          "end_ref": "44008033",
+          "end_ref_usfm": "ACT 8:33"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "23018001",
+          "start_ref_usfm": "ISA 18:1",
+          "end_ref": "23018002",
+          "end_ref_usfm": "ISA 18:2"
+        },
+        {
+          "start_ref": "36003009",
+          "start_ref_usfm": "ZEP 3:9",
+          "end_ref": "36003011",
+          "end_ref_usfm": "ZEP 3:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25634,
+          "content_id": 466798,
+          "label": "Cush",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25714,
+          "content_id": 466873,
+          "label": "Ennuque",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 467220,
+          "label": "Philippe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238049,
+    "reference_id": 25916,
+    "title": "Jorão",
+    "media_type": "Text",
+    "index_reference": "jorão",
+    "language": "por",
+    "content": "<h1>Jorão</h1><h2>Fatos:</h2><p>Jorão, filho de Acabe, foi um rei de Israel. Ele também era às vezes referido como &quot;Jeorão&quot;.</p><ul><li><p>O rei Jorão de Israel reinou ao mesmo tempo que o rei Jeorão de Judá.</p></li><li><p>Jorão foi um rei mau que adorava falsos deuses e fez Israel pecar.</p></li><li><p>O rei Jorão de Israel também reinou durante o tempo dos profetas Elias e Obadias.</p></li><li><p>Outro homem chamado Jorão era filho do rei Toú, de Hamate, quando Davi era rei.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Acabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25814\" data-resourceType=\"UWTranslationWords\">Hamate</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25891\" data-resourceType=\"UWTranslationWords\">Jeorão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26059\" data-resourceType=\"UWTranslationWords\">Obadias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Crônicas 3.10–12</a></p></li><li><p><a href=\"https://ref.ly/2Chr22:4-2Chr22:5\">2 Crônicas 22.4–5</a></p></li><li><p><a href=\"https://ref.ly/2Kgs1:17\">2 Reis 1.17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs8:16\">2 Reis 8.16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3088, H3141, G24960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "12008016",
+          "start_ref_usfm": "2KI 8:16",
+          "end_ref": "12008016",
+          "end_ref_usfm": "2KI 8:16"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14022004",
+          "start_ref_usfm": "2CH 22:4",
+          "end_ref": "14022005",
+          "end_ref_usfm": "2CH 22:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 237576,
+          "label": "Acabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25814,
+          "content_id": 237947,
+          "label": "Hamate",
+          "language": "por"
+        },
+        {
+          "reference_id": 25891,
+          "content_id": 238024,
+          "label": "Jeorão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 238189,
+          "label": "Obadias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

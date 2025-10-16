@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237799,
+    "reference_id": 25666,
+    "title": "Devastar",
+    "media_type": "Text",
+    "index_reference": "devastar",
+    "language": "por",
+    "content": "<h1>devastar, devastação</h1><h2>Definição:</h2><p>O termo “devastado” ou “devastação” refere-se a ter sua propriedade ou terra arruinada ou destruída. Também frequentemente inclui destruir ou capturar as pessoas que vivem nessa terra.</p><ul><li><p>Isso se refere a uma destruição muito severa e completa.</p></li><li><p>Por exemplo, a cidade de Sodoma foi devastada por Deus como punição pelos pecados das pessoas que viviam lá.</p></li><li><p>O termo “devastação” também pode incluir causar grande sofrimento emocional resultante da punição ou destruição.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>O termo “devastar” poderia ser traduzido como “destruir completamente” ou “arruinar completamente”.</p></li><li><p>Dependendo do contexto, “devastação” poderia ser traduzido como “destruição completa” ou “ruína total” ou “desastre”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26183\" data-resourceType=\"UWTranslationWords\">ruína</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan8:24-Dan8:25\">Daniel 8.24–25</a></p></li><li><p><a href=\"https://ref.ly/Jer4:13\">Jeremias 4.13</a></p></li><li><p><a href=\"https://ref.ly/Num21:30\">Números 21.30</a></p></li><li><p><a href=\"https://ref.ly/Zeph1:13\">Sofonias 1.13</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1110, H1238, H2721, H1826, H3615, H3772, H4875, H7701, H7703, H7722, H7843, H8074, H8077</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04021030",
+          "start_ref_usfm": "NUM 21:30",
+          "end_ref": "04021030",
+          "end_ref_usfm": "NUM 21:30"
+        },
+        {
+          "start_ref": "20003025",
+          "start_ref_usfm": "PRO 3:25",
+          "end_ref": "20003025",
+          "end_ref_usfm": "PRO 3:25"
+        },
+        {
+          "start_ref": "24004013",
+          "start_ref_usfm": "JER 4:13",
+          "end_ref": "24004013",
+          "end_ref_usfm": "JER 4:13"
+        },
+        {
+          "start_ref": "36001013",
+          "start_ref_usfm": "ZEP 1:13",
+          "end_ref": "36001013",
+          "end_ref_usfm": "ZEP 1:13"
+        },
+        {
+          "start_ref": "27008024",
+          "start_ref_usfm": "DAN 8:24",
+          "end_ref": "27008025",
+          "end_ref_usfm": "DAN 8:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26183,
+          "content_id": 238313,
+          "label": "Arruinar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

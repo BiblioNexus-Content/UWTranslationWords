@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26662,
+    "reference_id": 25804,
+    "title": "Greece",
+    "media_type": "Text",
+    "index_reference": "greece",
+    "language": "eng",
+    "content": "<h1>Greece, Grecian</h1><h2>Facts:</h2><p>During New Testament times, Greece was a province in the Roman Empire.</p><ul><li><p>Like the modern-day country of Greece, it was located on a peninsula that is bordered by the Mediterranean Sea, the Aegean Sea, and the Ionian Sea.</p></li><li><p>The apostle Paul visited several cities in Greece and established churches in the cities of Corinth, Thessalonica, and Philippi and probably others.</p></li><li><p>People who are from Greece are called “Greeks” and their language is “Greek.” People from other Roman provinces also spoke Greek, including many Jews.</p></li><li><p>Sometimes the term “Greek” is used to refer to a Gentile.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">Corinth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">Gentile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25805\" data-resourceType=\"UWTranslationWords\">Greek</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25826\" data-resourceType=\"UWTranslationWords\">Hebrew</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26097\" data-resourceType=\"UWTranslationWords\">Philippi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26295\" data-resourceType=\"UWTranslationWords\">Thessalonica</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Dan8:21\">Daniel 8:21</a></p></li><li><p><a href=\"https://ref.ly/Dan10:20-Dan10:21\">Daniel 10:20–21</a></p></li><li><p><a href=\"https://ref.ly/Dan11:1-Dan11:2\">Daniel 11:1–2</a></p></li><li><p><a href=\"https://ref.ly/Zech9:13\">Zechariah 9:13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3120, G16710</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010004",
+          "start_ref_usfm": "GEN 10:4",
+          "end_ref": "01010004",
+          "end_ref_usfm": "GEN 10:4"
+        },
+        {
+          "start_ref": "27008021",
+          "start_ref_usfm": "DAN 8:21",
+          "end_ref": "27008021",
+          "end_ref_usfm": "DAN 8:21"
+        },
+        {
+          "start_ref": "38009013",
+          "start_ref_usfm": "ZEC 9:13",
+          "end_ref": "38009013",
+          "end_ref_usfm": "ZEC 9:13"
+        },
+        {
+          "start_ref": "44020002",
+          "start_ref_usfm": "ACT 20:2",
+          "end_ref": "44020002",
+          "end_ref_usfm": "ACT 20:2"
+        },
+        {
+          "start_ref": "27010020",
+          "start_ref_usfm": "DAN 10:20",
+          "end_ref": "27010021",
+          "end_ref_usfm": "DAN 10:21"
+        },
+        {
+          "start_ref": "27011001",
+          "start_ref_usfm": "DAN 11:1",
+          "end_ref": "27011002",
+          "end_ref_usfm": "DAN 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25612,
+          "content_id": 26470,
+          "label": "Corinth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 26631,
+          "label": "Gentile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 26663,
+          "label": "Greek",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25826,
+          "content_id": 26684,
+          "label": "Hebrew",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26097,
+          "content_id": 26955,
+          "label": "Philippi",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 27153,
+          "label": "Thessalonica",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

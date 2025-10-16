@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467171,
+    "reference_id": 26034,
+    "title": "Mont des Oliviers",
+    "media_type": "Text",
+    "index_reference": "mont des oliviers",
+    "language": "fra",
+    "content": "<h1>Mont des Oliviers</h1><h2>Définition :</h2><p>Le Mont des Oliviers est une montagne ou grande colline située près du côté est de la ville de Jérusalem* Il a probablement été nommé à cause des bosquets d&apos;oliviers qui la recouvrent.</p><ul><li><p>Jésus et ses disciples sont allés au Mont des Oliviers à plusieurs reprises pour prier et se reposer.</p></li><li><p>Jésus a été arrêté dans le jardin de Gethsémané, qui est situé sur le Mont des Oliviers.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/gethsemane.md), (../other/olive.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021001",
+          "end_ref_usfm": "MAT 21:1"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024003",
+          "end_ref_usfm": "MAT 24:3"
+        },
+        {
+          "start_ref": "40026030",
+          "start_ref_usfm": "MAT 26:30",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011001",
+          "end_ref_usfm": "MRK 11:1"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "42019029",
+          "start_ref_usfm": "LUK 19:29",
+          "end_ref": "42019029",
+          "end_ref_usfm": "LUK 19:29"
+        },
+        {
+          "start_ref": "42019037",
+          "start_ref_usfm": "LUK 19:37",
+          "end_ref": "42019037",
+          "end_ref_usfm": "LUK 19:37"
+        },
+        {
+          "start_ref": "42021037",
+          "start_ref_usfm": "LUK 21:37",
+          "end_ref": "42021037",
+          "end_ref_usfm": "LUK 21:37"
+        },
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022039",
+          "end_ref_usfm": "LUK 22:39"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001012",
+          "end_ref_usfm": "ACT 1:12"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021003",
+          "end_ref_usfm": "MAT 21:3"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024005",
+          "end_ref_usfm": "MAT 24:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25776,
+          "content_id": 466925,
+          "label": "Gethsémané",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26062,
+          "content_id": 467197,
+          "label": "Olive",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26300,
+    "reference_id": 25442,
+    "title": "Ahijah",
+    "media_type": "Text",
+    "index_reference": "ahijah",
+    "language": "eng",
+    "content": "<h1>Ahijah</h1><h2>Facts:</h2><p>Ahijah was the name of several different men in the Old Testament. The following are some of these men:</p><ul><li><p>Ahijah was the name of a priest in the time of Saul.</p></li><li><p>A man named Ahijah was a secretary during the reign of King Solomon.</p></li><li><p>Ahijah was the name of a prophet from Shiloh who predicted that the nation of Israel would be divided into two kingdoms.</p></li><li><p>The father of King Baasha of Israel was also named Ahijah.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25498\" data-resourceType=\"UWTranslationWords\">Baasha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26228\" data-resourceType=\"UWTranslationWords\">Shiloh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs15:27-1Kgs15:28\">1 Kings 15:27–28</a></p></li><li><p><a href=\"https://ref.ly/1Kgs21:21-1Kgs21:22\">1 Kings 21:21–22</a></p></li><li><p><a href=\"https://ref.ly/1Sam14:19\">1 Samuel 14:19</a></p></li><li><p><a href=\"https://ref.ly/2Chr10:15\">2 Chronicles 10:15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0281</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014019",
+          "start_ref_usfm": "1SA 14:19",
+          "end_ref": "09014019",
+          "end_ref_usfm": "1SA 14:19"
+        },
+        {
+          "start_ref": "14010015",
+          "start_ref_usfm": "2CH 10:15",
+          "end_ref": "14010015",
+          "end_ref_usfm": "2CH 10:15"
+        },
+        {
+          "start_ref": "16010026",
+          "start_ref_usfm": "NEH 10:26",
+          "end_ref": "16010026",
+          "end_ref_usfm": "NEH 10:26"
+        },
+        {
+          "start_ref": "11015027",
+          "start_ref_usfm": "1KI 15:27",
+          "end_ref": "11015028",
+          "end_ref_usfm": "1KI 15:28"
+        },
+        {
+          "start_ref": "11021021",
+          "start_ref_usfm": "1KI 21:21",
+          "end_ref": "11021022",
+          "end_ref_usfm": "1KI 21:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25498,
+          "content_id": 26356,
+          "label": "Baasha",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26228,
+          "content_id": 27086,
+          "label": "Shiloh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

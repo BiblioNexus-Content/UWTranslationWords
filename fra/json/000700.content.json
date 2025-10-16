@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467265,
+    "reference_id": 26144,
+    "title": "Qualifier",
+    "media_type": "Text",
+    "index_reference": "qualifier",
+    "language": "fra",
+    "content": "<h1>qualifier, qualifié</h1><h2>Définition :</h2><p>Le terme «être qualifié» fait référence à gagner le droit de recevoir certaines prestations ou d&apos;être reconnu comme ayant certaines compétences.</p><ul><li><p>Une personne qui est «qualifiée» pour un travail particulier a les compétences et la formation nécessaires pour faire ce travail.</p></li><li><p>Dans sa lettre à l&apos;église de Colosses, l&apos;apôtre Paul écrit que les croyants ont étés qualifiés par Dieu le Père pour participer à son royaume de lumière.</p></li><li><p>Le croyant ne peut pas gagner par lui-même le droit de faire partie du royaume de Dieu* Il est seulement qualifié parce que Dieu l&apos;a racheté avec le sang du Christ.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Selon le contexte, «qualifié» pourrait être traduit par, &quot;équipé&quot; ou &quot;&quot; ou &quot;activé&quot;.</p></li><li><p>qualifier quelqu&apos;un pourrait être traduit par «équiper» ou «autoriser» ou «responsabiliser».</p></li></ul><p>(Voir aussi : (../names/colossae.md), (../kt/godly.md), (../other/kingdom.md), (../other/light.md), (../names/paul.md), (../kt/redeem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001003",
+          "start_ref_usfm": "DAN 1:3",
+          "end_ref": "27001005",
+          "end_ref_usfm": "DAN 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25597,
+          "content_id": 466765,
+          "label": "Colosses ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25789,
+          "content_id": 466938,
+          "label": "Pieux",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25939,
+          "content_id": 467082,
+          "label": "Royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 467281,
+          "label": "Racheter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

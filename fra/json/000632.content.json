@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 467205,
+    "reference_id": 26078,
+    "title": "Patriarche",
+    "media_type": "Text",
+    "index_reference": "patriarche",
+    "language": "fra",
+    "content": "<h1>Patriarche</h1><h2>Définition :</h2><p>Le terme « patriarche » dans la Bible fait référence à quelqu&apos;un qui était un père fondateur du peuple juif, en particulier Abraham, Isaac ou Jacob.</p><ul><li><p>Il peut aussi faire référence aux douze fils de Jacob qui sont devenus les 12 patriarches des 12 tribus d&apos;Israël.</p></li><li><p>Le terme « patriarche » a une signification similaire à « ancêtre », mais se réfère plus spécifiquement aux chefs ancestraux masculins les plus connus d&apos;un groupe de personnes.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_father\" data-resourceType=\"UWTranslationWords\">ancestor, father, forefather</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002029",
+          "end_ref_usfm": "ACT 2:29"
+        },
+        {
+          "start_ref": "44007008",
+          "start_ref_usfm": "ACT 7:8",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "44007009",
+          "start_ref_usfm": "ACT 7:9",
+          "end_ref": "44007009",
+          "end_ref_usfm": "ACT 7:9"
+        },
+        {
+          "start_ref": "45009005",
+          "start_ref_usfm": "ROM 9:5",
+          "end_ref": "45009005",
+          "end_ref_usfm": "ROM 9:5"
+        },
+        {
+          "start_ref": "45011028",
+          "start_ref_usfm": "ROM 11:28",
+          "end_ref": "45011028",
+          "end_ref_usfm": "ROM 11:28"
+        },
+        {
+          "start_ref": "45015008",
+          "start_ref_usfm": "ROM 15:8",
+          "end_ref": "45015008",
+          "end_ref_usfm": "ROM 15:8"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007004",
+          "end_ref_usfm": "HEB 7:4"
+        },
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "44007006",
+          "start_ref_usfm": "ACT 7:6",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "15003012",
+          "start_ref_usfm": "EZR 3:12",
+          "end_ref": "15003013",
+          "end_ref_usfm": "EZR 3:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

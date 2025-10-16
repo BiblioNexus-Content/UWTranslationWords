@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238242,
+    "reference_id": 26112,
+    "title": "Romã",
+    "media_type": "Text",
+    "index_reference": "romã",
+    "language": "por",
+    "content": "<h1>romã</h1><h2>Fatos:</h2><p>Uma romã é um tipo de fruta que tem uma casca grossa e resistente cheia de muitas sementes cobertas com polpa vermelha comestível.</p><ul><li><p>A casca externa é avermelhada e a polpa ao redor das sementes é brilhante e vermelha.</p></li><li><p>As romãs são muito comumente cultivadas em países com clima quente e seco, como Egito e Israel.</p></li><li><p>Javé prometeu aos israelitas que Canaã era uma terra com água abundante e solo fértil, de modo que havia fartura de alimentos lá, incluindo romãs.</p></li><li><p>A construção do templo de Salomão incluía decorações de bronze em forma de romãs.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25559\" data-resourceType=\"UWTranslationWords\">bronze</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs25:16-2Kgs25:17\">2 Reis 25.16–17</a></p></li><li><p><a href=\"https://ref.ly/Deut8:7-Deut8:8\">Deuteronômio 8.7–8</a></p></li><li><p><a href=\"https://ref.ly/Jer52:22-Jer52:23\">Jeremias 52.22–23</a></p></li><li><p><a href=\"https://ref.ly/Num13:23-Num13:24\">Números 13.23–24</a></p></li><li><p><a href=\"https://ref.ly/Num20:5\">Números 20.5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7416</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02028033",
+          "start_ref_usfm": "EXO 28:33",
+          "end_ref": "02028033",
+          "end_ref_usfm": "EXO 28:33"
+        },
+        {
+          "start_ref": "02039024",
+          "start_ref_usfm": "EXO 39:24",
+          "end_ref": "02039024",
+          "end_ref_usfm": "EXO 39:24"
+        },
+        {
+          "start_ref": "04020005",
+          "start_ref_usfm": "NUM 20:5",
+          "end_ref": "04020005",
+          "end_ref_usfm": "NUM 20:5"
+        },
+        {
+          "start_ref": "22004013",
+          "start_ref_usfm": "SNG 4:13",
+          "end_ref": "22004013",
+          "end_ref_usfm": "SNG 4:13"
+        },
+        {
+          "start_ref": "22008002",
+          "start_ref_usfm": "SNG 8:2",
+          "end_ref": "22008002",
+          "end_ref_usfm": "SNG 8:2"
+        },
+        {
+          "start_ref": "04013023",
+          "start_ref_usfm": "NUM 13:23",
+          "end_ref": "04013024",
+          "end_ref_usfm": "NUM 13:24"
+        },
+        {
+          "start_ref": "12025016",
+          "start_ref_usfm": "2KI 25:16",
+          "end_ref": "12025017",
+          "end_ref_usfm": "2KI 25:17"
+        },
+        {
+          "start_ref": "05008007",
+          "start_ref_usfm": "DEU 8:7",
+          "end_ref": "05008008",
+          "end_ref_usfm": "DEU 8:8"
+        },
+        {
+          "start_ref": "24052022",
+          "start_ref_usfm": "JER 52:22",
+          "end_ref": "24052023",
+          "end_ref_usfm": "JER 52:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25559,
+          "content_id": 237694,
+          "label": "Bronze",
+          "language": "por"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 238413,
+          "label": "Templo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

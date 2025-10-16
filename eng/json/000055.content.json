@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26328,
+    "reference_id": 25470,
+    "title": "Arabia",
+    "media_type": "Text",
+    "index_reference": "arabia",
+    "language": "eng",
+    "content": "<h1>Arabia, Arabian</h1><h2>Facts:</h2><p>Arabia is the largest peninsula in the world, covering nearly 3,000,000 square kilometers. It is located southeast of Israel, and is bordered by the Red Sea, the Arabian Sea, and the Persian Gulf.</p><ul><li><p>The term “Arabian” is used to refer to someone who lives in Arabia or to something that is connected with Arabia.</p></li><li><p>The earliest people to live in Arabia were grandchildren of Shem. Other early inhabitants of Arabia included Abraham’s son Ishmael and his descendants, as well as descendants of Esau.</p></li><li><p>The desert region where the Israelites wandered for 40 years was located in Arabia.</p></li><li><p>After becoming a believer in Jesus, the apostle Paul spent a few years in the desert of Arabia.</p></li><li><p>In his letter to the Christians in Galatia, Paul mentioned that Mt. Sinai was located in Arabia.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esau</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25765\" data-resourceType=\"UWTranslationWords\">Galatia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25878\" data-resourceType=\"UWTranslationWords\">Ishmael</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Shem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26241\" data-resourceType=\"UWTranslationWords\">Sinai</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:14-1Kgs10:15\">1 Kings 10:14–15</a></p></li><li><p><a href=\"https://ref.ly/Acts2:11\">Acts 2:11</a></p></li><li><p><a href=\"https://ref.ly/Gal1:15-Gal1:17\">Galatians 1:15–17</a></p></li><li><p><a href=\"https://ref.ly/Gal4:24-Gal4:25\">Galatians 4:24–25</a></p></li><li><p><a href=\"https://ref.ly/Jer25:24-Jer25:26\">Jeremiah 25:24–26</a></p></li><li><p><a href=\"https://ref.ly/Neh2:19-Neh2:20\">Nehemiah 2:19–20</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H6152, H6153, H6163, G06880, G06900</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002011",
+          "start_ref_usfm": "ACT 2:11",
+          "end_ref": "44002011",
+          "end_ref_usfm": "ACT 2:11"
+        },
+        {
+          "start_ref": "48004024",
+          "start_ref_usfm": "GAL 4:24",
+          "end_ref": "48004025",
+          "end_ref_usfm": "GAL 4:25"
+        },
+        {
+          "start_ref": "11010014",
+          "start_ref_usfm": "1KI 10:14",
+          "end_ref": "11010015",
+          "end_ref_usfm": "1KI 10:15"
+        },
+        {
+          "start_ref": "48001015",
+          "start_ref_usfm": "GAL 1:15",
+          "end_ref": "48001017",
+          "end_ref_usfm": "GAL 1:17"
+        },
+        {
+          "start_ref": "24025024",
+          "start_ref_usfm": "JER 25:24",
+          "end_ref": "24025026",
+          "end_ref_usfm": "JER 25:26"
+        },
+        {
+          "start_ref": "16002019",
+          "start_ref_usfm": "NEH 2:19",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25710,
+          "content_id": 26568,
+          "label": "Esau",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25765,
+          "content_id": 26623,
+          "label": "Galatia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 26736,
+          "label": "Ishmael",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 27083,
+          "label": "Shem",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 27099,
+          "label": "Sinai",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

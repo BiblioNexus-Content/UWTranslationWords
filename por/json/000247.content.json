@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 237775,
+    "reference_id": 25642,
+    "title": "Daniel",
+    "media_type": "Text",
+    "index_reference": "daniel",
+    "language": "por",
+    "content": "<h1>Daniel</h1><h2>Fatos:</h2><p>Daniel foi um profeta israelita que, quando jovem, foi levado cativo pelo rei babilônico Nabucodonosor por volta de 600 a.C.</p><ul><li><p>Isso ocorreu durante o período em que muitos outros israelitas de Judá foram mantidos cativos na Babilônia por 70 anos.</p></li><li><p>Daniel recebeu o nome babilônico Beltessazar.</p></li><li><p>Daniel era um jovem honrado e justo que obedecia a Deus.</p></li><li><p>Deus capacitou Daniel a interpretar vários sonhos ou visões para os reis babilônicos.</p></li><li><p>Por causa dessa habilidade e de seu caráter honrado, Daniel foi colocado em uma posição de alta liderança no império babilônico.</p></li><li><p>Muitos anos depois, os inimigos de Daniel enganaram o rei babilônico Dario para que fizesse uma lei proibindo a adoração de qualquer um, exceto o rei. Daniel continuou a orar a Deus, então ele foi preso e jogado em uma cova de leões. Mas Deus o resgatou e ele não foi ferido.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26047\" data-resourceType=\"UWTranslationWords\">Nabucodonosor</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan1:6-Dan1:7\">Daniel 1.6–7</a></p></li><li><p><a href=\"https://ref.ly/Dan5:29\">Daniel 5.29</a></p></li><li><p><a href=\"https://ref.ly/Dan7:28\">Daniel 7.28</a></p></li><li><p><a href=\"https://ref.ly/Ezek14:12-Ezek14:14\">Ezequiel 14.12–14</a></p></li><li><p><a href=\"https://ref.ly/Matt24:15\">Mateus 24.15</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1840, H1841, G11580</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27005029",
+          "start_ref_usfm": "DAN 5:29",
+          "end_ref": "27005029",
+          "end_ref_usfm": "DAN 5:29"
+        },
+        {
+          "start_ref": "27007028",
+          "start_ref_usfm": "DAN 7:28",
+          "end_ref": "27007028",
+          "end_ref_usfm": "DAN 7:28"
+        },
+        {
+          "start_ref": "40024015",
+          "start_ref_usfm": "MAT 24:15",
+          "end_ref": "40024015",
+          "end_ref_usfm": "MAT 24:15"
+        },
+        {
+          "start_ref": "27001006",
+          "start_ref_usfm": "DAN 1:6",
+          "end_ref": "27001007",
+          "end_ref_usfm": "DAN 1:7"
+        },
+        {
+          "start_ref": "26014012",
+          "start_ref_usfm": "EZK 14:12",
+          "end_ref": "26014014",
+          "end_ref_usfm": "EZK 14:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 238177,
+          "label": "Nabucodonosor",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

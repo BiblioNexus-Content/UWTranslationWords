@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467424,
+    "reference_id": 26311,
+    "title": "Bafouer",
+    "media_type": "Text",
+    "index_reference": "bafouer",
+    "language": "fra",
+    "content": "<h1>bafouer</h1><h2>Définition :</h2><p>&quot; &quot;Piétiner&quot; signifie marcher sur quelque chose et l&apos;écraser ou écraser avec les pieds* Souvent, ce terme est utilisé au sens figuré dans la Bible comme bafouer pour se référer à Dieu humiliant le peuple fier et rebelle ou le punissant.</p><ul><li><p>Un grand groupe de gens qui courent sur un pâturage signifie &quot;piétiner&quot; l&apos;herbe sur le terrain.</p></li><li><p>Dans les temps anciens, le vin a parfois été fait par le piétinement des raisins pour enlever le jus.</p></li><li><p>Souvent, le terme «piétinement» est utilisé au sens figuré au sens de punir quelqu&apos;un en l&apos;humiliant, comme dans l&apos;image de piétiner la boue pour faire une aire de battage.</p></li><li><p>Le terme «piétinement» est utilisé au sens figuré pour exprimer comment Yahvé châtiera Babylone ou son peuple d&apos;Israël en les faisant chuter de leur position fière et rebelle.</p></li><li><p>Selon le contexte, cela pourrait être traduit par «écraser avec les pieds» ou «casser vers le bas avec les pieds*&quot;</p></li><li><p>S&apos;il est impossible de garder le langage figuré dans certains contextes, cela pourrait se traduire par «humilier» ou «punir».</p></li></ul><p>(Voir aussi : (../other/grape.md), (../other/humiliate.md), (../other/punish.md), (../other/rebel.md), (../other/thresh.md), (../other/wine.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19007005",
+          "start_ref_usfm": "PSA 7:5",
+          "end_ref": "19007005",
+          "end_ref_usfm": "PSA 7:5"
+        },
+        {
+          "start_ref": "40005013",
+          "start_ref_usfm": "MAT 5:13",
+          "end_ref": "40005013",
+          "end_ref_usfm": "MAT 5:13"
+        },
+        {
+          "start_ref": "40007006",
+          "start_ref_usfm": "MAT 7:6",
+          "end_ref": "40007006",
+          "end_ref_usfm": "MAT 7:6"
+        },
+        {
+          "start_ref": "58010029",
+          "start_ref_usfm": "HEB 10:29",
+          "end_ref": "58010029",
+          "end_ref_usfm": "HEB 10:29"
+        },
+        {
+          "start_ref": "66011002",
+          "start_ref_usfm": "REV 11:2",
+          "end_ref": "66011002",
+          "end_ref_usfm": "REV 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 466952,
+          "label": "Grappe de raisin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 466986,
+          "label": "Héviens",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 467262,
+          "label": "Punir",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 467277,
+          "label": "Rebelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26220,
+          "content_id": 467336,
+          "label": "Honte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26300,
+          "content_id": 467414,
+          "label": "Battre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 467455,
+          "label": "Vin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

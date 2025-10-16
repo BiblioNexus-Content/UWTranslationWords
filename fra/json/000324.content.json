@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467367,
+    "reference_id": 26252,
+    "title": "Fils de Dieu",
+    "media_type": "Text",
+    "index_reference": "fils de dieu",
+    "language": "fra",
+    "content": "<h1>fils de Dieu,</h1><h2>Définition :</h2><p>Le terme « fils de Dieu » est une expression figurative qui a plusieurs significations possibles.</p><ul><li><p>Dans le Nouveau Testament, le terme « fils de Dieu » se réfère à tous les croyants en Jésus et est souvent traduit par « enfants de Dieu », car il comprend à la fois les hommes et les femmes.</p></li><li><p>Cette utilisation du terme parle d&apos;une relation avec Dieu qui est comme la relation entre un fils et son père humain, avec tous les privilèges associés à être fils.</p></li><li><p>Dans la Genèse, chapitre 6, certaines personnes interprètent le terme « fils de Dieu » comme des anges déchus, esprits ou démons. D&apos;autres pensent qu&apos;il peut se référer à de puissants dirigeants politiques ou aux descendants de Seth.</p></li><li><p>Le titre, « Fils de Dieu » est un terme différent, qui fait référence à Jésus, qui est le Fils unique de Dieu.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Lorsque « fils de Dieu » se réfère aux croyants en Jésus, il pourrait être traduit comme « enfants de Dieu ».</p></li><li><p>Dans la Genèse 6 : 2, 4, les manières de traduire « fils de Dieu » pourraient inclure, « anges » ou « êtres spirituels » ou « démons », selon le contexte.</p></li><li><p>Voir aussi le lien pour « fils ».</p></li></ul><p>(Voir aussi : (../kt/angel.md), (../kt/demon.md), (../kt/son.md), (../kt/sonofgod.md), (../other/ruler.md), (../kt/spirit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006002",
+          "start_ref_usfm": "GEN 6:2",
+          "end_ref": "01006002",
+          "end_ref_usfm": "GEN 6:2"
+        },
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "18001006",
+          "start_ref_usfm": "JOB 1:6",
+          "end_ref": "18001006",
+          "end_ref_usfm": "JOB 1:6"
+        },
+        {
+          "start_ref": "40005009",
+          "start_ref_usfm": "MAT 5:9",
+          "end_ref": "40005009",
+          "end_ref_usfm": "MAT 5:9"
+        },
+        {
+          "start_ref": "40005045",
+          "start_ref_usfm": "MAT 5:45",
+          "end_ref": "40005045",
+          "end_ref_usfm": "MAT 5:45"
+        },
+        {
+          "start_ref": "42020036",
+          "start_ref_usfm": "LUK 20:36",
+          "end_ref": "42020036",
+          "end_ref_usfm": "LUK 20:36"
+        },
+        {
+          "start_ref": "45008014",
+          "start_ref_usfm": "ROM 8:14",
+          "end_ref": "45008014",
+          "end_ref_usfm": "ROM 8:14"
+        },
+        {
+          "start_ref": "45008019",
+          "start_ref_usfm": "ROM 8:19",
+          "end_ref": "45008019",
+          "end_ref_usfm": "ROM 8:19"
+        },
+        {
+          "start_ref": "45009026",
+          "start_ref_usfm": "ROM 9:26",
+          "end_ref": "45009026",
+          "end_ref_usfm": "ROM 9:26"
+        },
+        {
+          "start_ref": "47006018",
+          "start_ref_usfm": "2CO 6:18",
+          "end_ref": "47006018",
+          "end_ref_usfm": "2CO 6:18"
+        },
+        {
+          "start_ref": "58012005",
+          "start_ref_usfm": "HEB 12:5",
+          "end_ref": "58012005",
+          "end_ref_usfm": "HEB 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 466639,
+          "label": "Ange",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25658,
+          "content_id": 466820,
+          "label": "Démon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 32928,
+          "label": "dirigeant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 467365,
+          "label": "Fils de Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 467372,
+          "label": "Esprit",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

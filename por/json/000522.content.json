@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238443,
+    "reference_id": 26315,
+    "title": "Julgamento",
+    "media_type": "Text",
+    "index_reference": "julgamento",
+    "language": "por",
+    "content": "<h1>julgamento, provação</h1><h2>Definição:</h2><p>O termo “julgamento” refere-se a uma situação em que algo ou alguém é “julgado” ou testado.</p><ul><li><p>Um julgamento pode ser uma audiência judicial na qual são apresentadas provas para determinar se uma pessoa é inocente ou culpada de alguma infração.</p></li><li><p>O termo “julgamento” também pode se referir a circunstâncias difíceis pelas quais uma pessoa passa enquanto Deus testa sua fé. Outra palavra para isso é “uma prova” ou “uma tentação” é um tipo específico de julgamento.</p></li><li><p>Muitas pessoas na Bíblia foram testadas para ver se continuariam a acreditar e obedecer a Deus. Elas passaram por julgamentos que incluíam ser espancadas, presas ou até mesmo mortas por causa de sua fé.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26285\" data-resourceType=\"UWTranslationWords\">tentar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26292\" data-resourceType=\"UWTranslationWords\">teste</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25869\" data-resourceType=\"UWTranslationWords\">inocente</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25806\" data-resourceType=\"UWTranslationWords\">culpa</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut4:34\">Deuteronômio 4.34</a></p></li><li><p><a href=\"https://ref.ly/Ezek21:12-Ezek21:13\">Ezequiel 21.12–13</a></p></li><li><p><a href=\"https://ref.ly/Lam3:58-Lam3:61\">Lamentações 3.58–61</a></p></li><li><p><a href=\"https://ref.ly/Prov25:7-Prov25:8\">Provérbios 25.7–8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0974, H4531, H4941, H7378, G01780, G13830, G29190, G39860</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05004034",
+          "start_ref_usfm": "DEU 4:34",
+          "end_ref": "05004034",
+          "end_ref_usfm": "DEU 4:34"
+        },
+        {
+          "start_ref": "42022028",
+          "start_ref_usfm": "LUK 22:28",
+          "end_ref": "42022028",
+          "end_ref_usfm": "LUK 22:28"
+        },
+        {
+          "start_ref": "44020019",
+          "start_ref_usfm": "ACT 20:19",
+          "end_ref": "44020019",
+          "end_ref_usfm": "ACT 20:19"
+        },
+        {
+          "start_ref": "59001002",
+          "start_ref_usfm": "JAS 1:2",
+          "end_ref": "59001002",
+          "end_ref_usfm": "JAS 1:2"
+        },
+        {
+          "start_ref": "59001012",
+          "start_ref_usfm": "JAS 1:12",
+          "end_ref": "59001012",
+          "end_ref_usfm": "JAS 1:12"
+        },
+        {
+          "start_ref": "60001006",
+          "start_ref_usfm": "1PE 1:6",
+          "end_ref": "60001006",
+          "end_ref_usfm": "1PE 1:6"
+        },
+        {
+          "start_ref": "60004012",
+          "start_ref_usfm": "1PE 4:12",
+          "end_ref": "60004012",
+          "end_ref_usfm": "1PE 4:12"
+        },
+        {
+          "start_ref": "61002009",
+          "start_ref_usfm": "2PE 2:9",
+          "end_ref": "61002009",
+          "end_ref_usfm": "2PE 2:9"
+        },
+        {
+          "start_ref": "20025007",
+          "start_ref_usfm": "PRO 25:7",
+          "end_ref": "20025008",
+          "end_ref_usfm": "PRO 25:8"
+        },
+        {
+          "start_ref": "26021012",
+          "start_ref_usfm": "EZK 21:12",
+          "end_ref": "26021013",
+          "end_ref_usfm": "EZK 21:13"
+        },
+        {
+          "start_ref": "25003058",
+          "start_ref_usfm": "LAM 3:58",
+          "end_ref": "25003061",
+          "end_ref_usfm": "LAM 3:61"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25806,
+          "content_id": 237939,
+          "label": "Culpa",
+          "language": "por"
+        },
+        {
+          "reference_id": 25869,
+          "content_id": 238002,
+          "label": "Inocente",
+          "language": "por"
+        },
+        {
+          "reference_id": 26285,
+          "content_id": 238414,
+          "label": "Tentar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26292,
+          "content_id": 238421,
+          "label": "Teste",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

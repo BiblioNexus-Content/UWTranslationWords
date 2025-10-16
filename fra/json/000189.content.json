@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466775,
+    "reference_id": 25607,
+    "title": "Confirmer",
+    "media_type": "Text",
+    "index_reference": "confirmer",
+    "language": "fra",
+    "content": "<h1>confirmer ,confirmation</h1><h2>Définition :</h2><p>Les termes «confirmer» et «confirmation» se réfèrent à déclarer ou assurer que quelque chose est vraie ou sûre ou digne de confiance.</p><ul><li><p>Dans l&apos;Ancien Testament, Dieu dit à son peuple qu&apos;il va &quot;confirmer&quot; son alliance avec lui* Cela signifie qu&apos;il déclare tenir les promesses qu&apos;il a faites dans cette alliance.</p></li><li><p>Quand un roi est «confirmé», cela signifie que la décision de le faire roi a été convenu et soutenu par le peuple.</p></li><li><p>Confirmer ce que quelqu&apos;un a écrit c&apos;est dire que ce qui a été écrit est vrai.</p></li><li><p>La «confirmation» de l&apos;Évangile signifie enseigner aux gens les bonnes nouvelles de Jésus de telle manière qu&apos;il montre qu&apos;il est vrai.</p></li><li><p>Donner un serment &quot;en guise de confirmation» c&apos;est déclarer solennellement ou jurer que quelque chose est vraie ou digne de confiance.</p></li><li><p>Des façons de traduire &quot;confirmer&quot; pourraient inclure, &quot; «Prouver que quelque chose est digne de confiance» ou « être d&apos;accord avec la chose» ou «assurer que la chose est vraie» ou «promettre», selon le contexte.</p></li></ul><p>(Voir aussi : (../kt/covenant.md), (../other/oath.md), (../kt/trust.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08004007",
+          "start_ref_usfm": "RUT 4:7",
+          "end_ref": "08004007",
+          "end_ref_usfm": "RUT 4:7"
+        },
+        {
+          "start_ref": "12023003",
+          "start_ref_usfm": "2KI 23:3",
+          "end_ref": "12023003",
+          "end_ref_usfm": "2KI 23:3"
+        },
+        {
+          "start_ref": "45015008",
+          "start_ref_usfm": "ROM 15:8",
+          "end_ref": "45015008",
+          "end_ref_usfm": "ROM 15:8"
+        },
+        {
+          "start_ref": "46001006",
+          "start_ref_usfm": "1CO 1:6",
+          "end_ref": "46001006",
+          "end_ref_usfm": "1CO 1:6"
+        },
+        {
+          "start_ref": "46001008",
+          "start_ref_usfm": "1CO 1:8",
+          "end_ref": "46001008",
+          "end_ref_usfm": "1CO 1:8"
+        },
+        {
+          "start_ref": "47001021",
+          "start_ref_usfm": "2CO 1:21",
+          "end_ref": "47001021",
+          "end_ref_usfm": "2CO 1:21"
+        },
+        {
+          "start_ref": "47002008",
+          "start_ref_usfm": "2CO 2:8",
+          "end_ref": "47002008",
+          "end_ref_usfm": "2CO 2:8"
+        },
+        {
+          "start_ref": "51002007",
+          "start_ref_usfm": "COL 2:7",
+          "end_ref": "51002007",
+          "end_ref_usfm": "COL 2:7"
+        },
+        {
+          "start_ref": "58002003",
+          "start_ref_usfm": "HEB 2:3",
+          "end_ref": "58002003",
+          "end_ref_usfm": "HEB 2:3"
+        },
+        {
+          "start_ref": "58013009",
+          "start_ref_usfm": "HEB 13:9",
+          "end_ref": "58013009",
+          "end_ref_usfm": "HEB 13:9"
+        },
+        {
+          "start_ref": "60005010",
+          "start_ref_usfm": "1PE 5:10",
+          "end_ref": "60005010",
+          "end_ref_usfm": "1PE 5:10"
+        },
+        {
+          "start_ref": "13016015",
+          "start_ref_usfm": "1CH 16:15",
+          "end_ref": "13016018",
+          "end_ref_usfm": "1CH 16:18"
+        },
+        {
+          "start_ref": "58006016",
+          "start_ref_usfm": "HEB 6:16",
+          "end_ref": "58006018",
+          "end_ref_usfm": "HEB 6:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25621,
+          "content_id": 466786,
+          "label": "Alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26058,
+          "content_id": 467194,
+          "label": "serment, vœu, jurer (par)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26322,
+          "content_id": 32930,
+          "label": "Confiance",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

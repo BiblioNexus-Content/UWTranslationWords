@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26892,
+    "reference_id": 26034,
+    "title": "Mount of Olives",
+    "media_type": "Text",
+    "index_reference": "mount of olives",
+    "language": "eng",
+    "content": "<h1>Mount of Olives</h1><h2>Definition:</h2><p>The Mount of Olives is a mountain or large hill located near the east side of the city of Jerusalem. It is about 787 meters high.</p><ul><li><p>In the Old Testament, this mountain is sometimes referred to as “the mountain that is east of Jerusalem.”</p></li><li><p>The New Testament records several occasions when Jesus and his disciples went to the Mount of Olives to pray and rest.</p></li><li><p>Jesus was arrested in the Garden of Gethsemane, which is located on the Mount of Olives.</p></li><li><p>This could also be translated as “Olive Hill” or “Olive Tree Mountain.”</p></li></ul><p>(See also: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25776\" data-resourceType=\"UWTranslationWords\">Gethsemane</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26062\" data-resourceType=\"UWTranslationWords\">olive</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Luke19:29\">Luke 19:29</a></p></li><li><p><a href=\"https://ref.ly/Luke19:37\">Luke 19:37</a></p></li><li><p><a href=\"https://ref.ly/Mark13:3\">Mark 13:3</a></p></li><li><p><a href=\"https://ref.ly/Matt21:1-Matt21:3\">Matthew 21:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt24:3-Matt24:5\">Matthew 24:3–5</a></p></li><li><p><a href=\"https://ref.ly/Matt26:30\">Matthew 26:30</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2022, H2132, G37350, G16360</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021001",
+          "end_ref_usfm": "MAT 21:1"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024003",
+          "end_ref_usfm": "MAT 24:3"
+        },
+        {
+          "start_ref": "40026030",
+          "start_ref_usfm": "MAT 26:30",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011001",
+          "end_ref_usfm": "MRK 11:1"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "42019029",
+          "start_ref_usfm": "LUK 19:29",
+          "end_ref": "42019029",
+          "end_ref_usfm": "LUK 19:29"
+        },
+        {
+          "start_ref": "42019037",
+          "start_ref_usfm": "LUK 19:37",
+          "end_ref": "42019037",
+          "end_ref_usfm": "LUK 19:37"
+        },
+        {
+          "start_ref": "42021037",
+          "start_ref_usfm": "LUK 21:37",
+          "end_ref": "42021037",
+          "end_ref_usfm": "LUK 21:37"
+        },
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022039",
+          "end_ref_usfm": "LUK 22:39"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001012",
+          "end_ref_usfm": "ACT 1:12"
+        },
+        {
+          "start_ref": "40021001",
+          "start_ref_usfm": "MAT 21:1",
+          "end_ref": "40021003",
+          "end_ref_usfm": "MAT 21:3"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024005",
+          "end_ref_usfm": "MAT 24:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25776,
+          "content_id": 26634,
+          "label": "Gethsemane",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26062,
+          "content_id": 26920,
+          "label": "Olive",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

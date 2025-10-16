@@ -1,0 +1,70 @@
+[
+  {
+    "content_id": 237877,
+    "reference_id": 25744,
+    "title": "Pescador",
+    "media_type": "Text",
+    "index_reference": "pescador",
+    "language": "por",
+    "content": "<h1>pescadores</h1><h2>Definição:</h2><p>Pescadores são homens que pegam peixes da água como meio de ganhar dinheiro. No Novo Testamento, os pescadores usavam grandes redes para pegar peixes.</p><ul><li><p>Pedro e outros apóstolos trabalhavam como pescadores antes de serem chamados por Jesus.</p></li><li><p>Como a terra de Israel estava perto da água, a Bíblia tem muitas referências a peixes e pescadores.</p></li><li><p>Este termo poderia ser traduzido com uma frase como “homens que pegam peixes” ou “homens que ganham dinheiro pegando peixes”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezek47:9-Ezek47:10\">Ezequiel 47.9–10</a></p></li><li><p><a href=\"https://ref.ly/Isa19:8\">Isaías 19.8</a></p></li><li><p><a href=\"https://ref.ly/Luke5:1-Luke5:3\">Lucas 5.1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt4:19\">Mateus 4.19</a></p></li><li><p><a href=\"https://ref.ly/Matt13:47\">Mateus 13.47</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1728, H1771, H2271, G02310</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23019008",
+          "start_ref_usfm": "ISA 19:8",
+          "end_ref": "23019008",
+          "end_ref_usfm": "ISA 19:8"
+        },
+        {
+          "start_ref": "40004018",
+          "start_ref_usfm": "MAT 4:18",
+          "end_ref": "40004018",
+          "end_ref_usfm": "MAT 4:18"
+        },
+        {
+          "start_ref": "40004019",
+          "start_ref_usfm": "MAT 4:19",
+          "end_ref": "40004019",
+          "end_ref_usfm": "MAT 4:19"
+        },
+        {
+          "start_ref": "40013047",
+          "start_ref_usfm": "MAT 13:47",
+          "end_ref": "40013047",
+          "end_ref_usfm": "MAT 13:47"
+        },
+        {
+          "start_ref": "41001016",
+          "start_ref_usfm": "MRK 1:16",
+          "end_ref": "41001016",
+          "end_ref_usfm": "MRK 1:16"
+        },
+        {
+          "start_ref": "41001017",
+          "start_ref_usfm": "MRK 1:17",
+          "end_ref": "41001017",
+          "end_ref_usfm": "MRK 1:17"
+        },
+        {
+          "start_ref": "42005002",
+          "start_ref_usfm": "LUK 5:2",
+          "end_ref": "42005002",
+          "end_ref_usfm": "LUK 5:2"
+        },
+        {
+          "start_ref": "26047009",
+          "start_ref_usfm": "EZK 47:9",
+          "end_ref": "26047010",
+          "end_ref_usfm": "EZK 47:10"
+        },
+        {
+          "start_ref": "42005001",
+          "start_ref_usfm": "LUK 5:1",
+          "end_ref": "42005003",
+          "end_ref_usfm": "LUK 5:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

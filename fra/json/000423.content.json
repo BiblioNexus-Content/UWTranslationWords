@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 467027,
+    "reference_id": 25882,
+    "title": "Jacques (frère de Jésus)",
+    "media_type": "Text",
+    "index_reference": "jacques (frère de jésus)",
+    "language": "fra",
+    "content": "<h1>Jacques (frère de Jésus)</h1><h2>Définition :</h2><p>&quot;Jacques était un fils de Marie et Joseph, et a été l&apos;un des demi-frères de Jésus.</p><ul><li><p>Pendant la vie de Jésus, Jacques et ses frères ne croyaient pas que Jésus était le Messie.</p></li><li><p>Plus tard, après que Jésus fut ressuscité des morts, Jacques croyait en lui et est devenu un leader de l&apos;église à Jérusalem.</p></li><li><p>Jacques a écrit une lettre aux chrétiens qui vivaient dans d&apos;autres pays* Cette lettre est dans la Bible et est appelée &quot;Jacques*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/apostle.md), (../kt/christ.md), (../kt/church.md), (../names/judassonofjames.md), (../other/persecute.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "44012017",
+          "start_ref_usfm": "ACT 12:17",
+          "end_ref": "44012017",
+          "end_ref_usfm": "ACT 12:17"
+        },
+        {
+          "start_ref": "44015013",
+          "start_ref_usfm": "ACT 15:13",
+          "end_ref": "44015013",
+          "end_ref_usfm": "ACT 15:13"
+        },
+        {
+          "start_ref": "44021018",
+          "start_ref_usfm": "ACT 21:18",
+          "end_ref": "44021018",
+          "end_ref_usfm": "ACT 21:18"
+        },
+        {
+          "start_ref": "46015007",
+          "start_ref_usfm": "1CO 15:7",
+          "end_ref": "46015007",
+          "end_ref_usfm": "1CO 15:7"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        },
+        {
+          "start_ref": "48001018",
+          "start_ref_usfm": "GAL 1:18",
+          "end_ref": "48001020",
+          "end_ref_usfm": "GAL 1:20"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        },
+        {
+          "start_ref": "48002009",
+          "start_ref_usfm": "GAL 2:9",
+          "end_ref": "48002010",
+          "end_ref_usfm": "GAL 2:10"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001003",
+          "end_ref_usfm": "JAS 1:3"
+        },
+        {
+          "start_ref": "41009001",
+          "start_ref_usfm": "MRK 9:1",
+          "end_ref": "41009003",
+          "end_ref_usfm": "MRK 9:3"
+        },
+        {
+          "start_ref": "40013054",
+          "start_ref_usfm": "MAT 13:54",
+          "end_ref": "40013056",
+          "end_ref_usfm": "MAT 13:56"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 466758,
+          "label": "Église",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25927,
+          "content_id": 467072,
+          "label": "Judas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 467214,
+          "label": "Persécuter",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

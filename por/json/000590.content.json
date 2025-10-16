@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238134,
+    "reference_id": 26004,
+    "title": "Mediador",
+    "media_type": "Text",
+    "index_reference": "mediador",
+    "language": "por",
+    "content": "<h1>mediador</h1><h2>Definição:</h2><p>Um mediador é uma pessoa que ajuda duas ou mais pessoas a resolverem seus desentendimentos ou conflitos entre si. Ele os ajuda a se reconciliarem.</p><ul><li><p>Porque as pessoas pecaram, elas são inimigas de Deus e merecem sua ira e punição. Por causa do pecado, o relacionamento entre Deus e seu povo está quebrado.</p></li><li><p>Jesus é o mediador entre Deus Pai e seu povo, restaurando esse relacionamento quebrado através de sua morte como pagamento pelo pecado deles.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Maneiras de traduzir “mediador” poderiam ser “pessoa intermediária” ou “reconciliador” ou “pessoa que traz paz”.</p></li><li><p>Compare este termo com a forma como o termo “sacerdote” é traduzido. É melhor se o termo “mediador” for traduzido de forma diferente.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">reconciliar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Tim2:5\">1 Timóteo 2.5</a></p></li><li><p><a href=\"https://ref.ly/Gal3:20\">Gálatas 3.20</a></p></li><li><p><a href=\"https://ref.ly/Heb8:6\">Hebreus 8.6</a></p></li><li><p><a href=\"https://ref.ly/Heb12:24\">Hebreus 12.24</a></p></li><li><p><a href=\"https://ref.ly/Luke12:14\">Lucas 12.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3887, G33120, G33160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42012014",
+          "start_ref_usfm": "LUK 12:14",
+          "end_ref": "42012014",
+          "end_ref_usfm": "LUK 12:14"
+        },
+        {
+          "start_ref": "48003020",
+          "start_ref_usfm": "GAL 3:20",
+          "end_ref": "48003020",
+          "end_ref_usfm": "GAL 3:20"
+        },
+        {
+          "start_ref": "54002005",
+          "start_ref_usfm": "1TI 2:5",
+          "end_ref": "54002005",
+          "end_ref_usfm": "1TI 2:5"
+        },
+        {
+          "start_ref": "58008006",
+          "start_ref_usfm": "HEB 8:6",
+          "end_ref": "58008006",
+          "end_ref_usfm": "HEB 8:6"
+        },
+        {
+          "start_ref": "58009015",
+          "start_ref_usfm": "HEB 9:15",
+          "end_ref": "58009015",
+          "end_ref_usfm": "HEB 9:15"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 238290,
+          "label": "Reconciliar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

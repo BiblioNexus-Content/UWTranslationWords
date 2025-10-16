@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466677,
+    "reference_id": 25499,
+    "title": "Babel",
+    "media_type": "Text",
+    "index_reference": "babel",
+    "language": "fra",
+    "content": "<h1>Babel</h1><h2>Définition :</h2><p>Babel était une ville principale dans une région appelée Schinear dans la partie Sud de la Mésopotamie* Schinear a été appelée plus tard Babylonie.</p><ul><li><p>La ville de Babel a été fondée par le grand petit-fils de Ham, Nimrod, qui a gouverné la région de Schinear.</p></li><li><p>Les habitants de Schinear sont devenus fiers et décidèrent de construire une tour assez haute pour atteindre le ciel* Cela fut connu plus tard comme la «Tour de Babel».</p></li><li><p>Parce que les gens qui construisirent la tour ont refusé de se disperser comme Dieu l&apos;avait ordonné, il a confondu leurs langues afin qu&apos;ils ne parviennent plus à se comprendre* Cela les a forcés à se déplacer loin pour vivre dans de nombreux endroits différents sur la terre.</p></li><li><p>Le sens de la racine du mot &quot;Babel&quot; est &quot;confusion&quot;, ce nom a été donné lorsque Dieu a confondu la langue du peuple.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/babylon.md), (../names/ham.md), (../names/mesopotamia.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "01010008",
+          "start_ref_usfm": "GEN 10:8",
+          "end_ref": "01010010",
+          "end_ref_usfm": "GEN 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 466962,
+          "label": "Cham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26014,
+          "content_id": 467151,
+          "label": "Mésopotamie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

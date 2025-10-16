@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467230,
+    "reference_id": 26106,
+    "title": "Fosse",
+    "media_type": "Text",
+    "index_reference": "fosse",
+    "language": "fra",
+    "content": "<h1>fosse</h1><h2>Définition :</h2><p>Une fosse est un trou profond qui a été creusé dans le sol.</p><ul><li><p>Les fosses peuvent être creusées pour trouver de l&apos;eau pour les animaux * Elles peuvent également être utilisées comme un lieu temporaire pour détenir des prisonniers.</p></li><li><p>Dans la loi juive, une personne était responsable des blessures causées à une autre personne ou à un animal domestique lorsque ces derniers tombaient dans une fosse à découvert sur sa propriété.</p></li><li><p>Parfois, l&apos;expression «la fosse» fait référence à la tombe ou à l&apos; enfer.</p></li><li><p>Une fosse très profonde est parfois appelé une &quot;citerne*&quot;</p></li></ul><p>(Voir aussi : (../other/abyss.md), (../kt/hell.md), (../other/prison.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014010",
+          "start_ref_usfm": "GEN 14:10",
+          "end_ref": "01014010",
+          "end_ref_usfm": "GEN 14:10"
+        },
+        {
+          "start_ref": "01040015",
+          "start_ref_usfm": "GEN 40:15",
+          "end_ref": "01040015",
+          "end_ref_usfm": "GEN 40:15"
+        },
+        {
+          "start_ref": "01041014",
+          "start_ref_usfm": "GEN 41:14",
+          "end_ref": "01041014",
+          "end_ref_usfm": "GEN 41:14"
+        },
+        {
+          "start_ref": "02012029",
+          "start_ref_usfm": "EXO 12:29",
+          "end_ref": "02012029",
+          "end_ref_usfm": "EXO 12:29"
+        },
+        {
+          "start_ref": "02021033",
+          "start_ref_usfm": "EXO 21:33",
+          "end_ref": "02021033",
+          "end_ref_usfm": "EXO 21:33"
+        },
+        {
+          "start_ref": "18033018",
+          "start_ref_usfm": "JOB 33:18",
+          "end_ref": "18033018",
+          "end_ref_usfm": "JOB 33:18"
+        },
+        {
+          "start_ref": "20001012",
+          "start_ref_usfm": "PRO 1:12",
+          "end_ref": "20001012",
+          "end_ref_usfm": "PRO 1:12"
+        },
+        {
+          "start_ref": "20022014",
+          "start_ref_usfm": "PRO 22:14",
+          "end_ref": "20022014",
+          "end_ref_usfm": "PRO 22:14"
+        },
+        {
+          "start_ref": "20023027",
+          "start_ref_usfm": "PRO 23:27",
+          "end_ref": "20023027",
+          "end_ref_usfm": "PRO 23:27"
+        },
+        {
+          "start_ref": "20026027",
+          "start_ref_usfm": "PRO 26:27",
+          "end_ref": "20026027",
+          "end_ref_usfm": "PRO 26:27"
+        },
+        {
+          "start_ref": "20028010",
+          "start_ref_usfm": "PRO 28:10",
+          "end_ref": "20028010",
+          "end_ref_usfm": "PRO 28:10"
+        },
+        {
+          "start_ref": "40012011",
+          "start_ref_usfm": "MAT 12:11",
+          "end_ref": "40012011",
+          "end_ref_usfm": "MAT 12:11"
+        },
+        {
+          "start_ref": "40015014",
+          "start_ref_usfm": "MAT 15:14",
+          "end_ref": "40015014",
+          "end_ref_usfm": "MAT 15:14"
+        },
+        {
+          "start_ref": "42006039",
+          "start_ref_usfm": "LUK 6:39",
+          "end_ref": "42006039",
+          "end_ref_usfm": "LUK 6:39"
+        },
+        {
+          "start_ref": "66009001",
+          "start_ref_usfm": "REV 9:1",
+          "end_ref": "66009001",
+          "end_ref_usfm": "REV 9:1"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        },
+        {
+          "start_ref": "01037021",
+          "start_ref_usfm": "GEN 37:21",
+          "end_ref": "01037022",
+          "end_ref_usfm": "GEN 37:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25426,
+          "content_id": 466608,
+          "label": "Abîme",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 466977,
+          "label": "Enfer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238402,
+    "reference_id": 26273,
+    "title": "Enxofre",
+    "media_type": "Text",
+    "index_reference": "enxofre",
+    "language": "por",
+    "content": "<h1>enxofre, sulfuroso</h1><h2>Definição:</h2><p>Enxofre é uma substância amarela que se torna um líquido ardente quando é incendiada.</p><ul><li><p>O enxofre também tem um cheiro muito forte, semelhante ao odor de ovos podres.</p></li><li><p>Na Bíblia, o enxofre ardente é um símbolo do julgamento de Deus sobre pessoas ímpias e rebeldes.</p></li><li><p>Na época de Ló, Deus fez chover fogo e enxofre sobre as cidades ímpias de Sodoma e Gomorra.</p></li><li><p>Em algumas idiomas usam-se termos que expressam quão forte é o enxofre. Por exemplo, no inglês, em algumas Bíblias o enxofre é mencionado como “brimstone”, que literalmente significa “pedra ardente”.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Possíveis traduções para este termo podem ser “pedra amarela que queima” ou “rocha amarelada ardente”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25794\" data-resourceType=\"UWTranslationWords\">Gomorra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">julgar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25976\" data-resourceType=\"UWTranslationWords\">Ló</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26157\" data-resourceType=\"UWTranslationWords\">rebelar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26248\" data-resourceType=\"UWTranslationWords\">Sodoma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25789\" data-resourceType=\"UWTranslationWords\">piedoso</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen19:24\">Gênesis 19:24</a></p></li><li><p><a href=\"https://ref.ly/Isa34:9\">Isaías 34:9</a></p></li><li><p><a href=\"https://ref.ly/Luke17:29\">Lucas 17:29</a></p></li><li><p><a href=\"https://ref.ly/Rev20:10\">Apocalipse 20:10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1614, G23030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019024",
+          "start_ref_usfm": "GEN 19:24",
+          "end_ref": "01019024",
+          "end_ref_usfm": "GEN 19:24"
+        },
+        {
+          "start_ref": "23034009",
+          "start_ref_usfm": "ISA 34:9",
+          "end_ref": "23034009",
+          "end_ref_usfm": "ISA 34:9"
+        },
+        {
+          "start_ref": "42017029",
+          "start_ref_usfm": "LUK 17:29",
+          "end_ref": "42017029",
+          "end_ref_usfm": "LUK 17:29"
+        },
+        {
+          "start_ref": "66009017",
+          "start_ref_usfm": "REV 9:17",
+          "end_ref": "66009017",
+          "end_ref_usfm": "REV 9:17"
+        },
+        {
+          "start_ref": "66009018",
+          "start_ref_usfm": "REV 9:18",
+          "end_ref": "66009018",
+          "end_ref_usfm": "REV 9:18"
+        },
+        {
+          "start_ref": "66014010",
+          "start_ref_usfm": "REV 14:10",
+          "end_ref": "66014010",
+          "end_ref_usfm": "REV 14:10"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66021008",
+          "start_ref_usfm": "REV 21:8",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25789,
+          "content_id": 237922,
+          "label": "Piedoso",
+          "language": "por"
+        },
+        {
+          "reference_id": 25794,
+          "content_id": 237927,
+          "label": "Gomorra",
+          "language": "por"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 238062,
+          "label": "Julgar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 238107,
+          "label": "Ló",
+          "language": "por"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 238287,
+          "label": "Rebelar-se",
+          "language": "por"
+        },
+        {
+          "reference_id": 26248,
+          "content_id": 238377,
+          "label": "Sodoma",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

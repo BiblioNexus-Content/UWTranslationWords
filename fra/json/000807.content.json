@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 466839,
+    "reference_id": 25679,
+    "title": "Sort malheureux",
+    "media_type": "Text",
+    "index_reference": "sort malheureux",
+    "language": "fra",
+    "content": "<h1>sort malheureux</h1><h2>Définition :</h2><p>Le terme &quot;sort malheureux&quot;signifie jugement de condamnation sans possibilité d&apos;appel ou d&apos;échapper.</p><ul><li><p>Comme l&apos;Etat d&apos;Israël était pris en captivité à Babylone,le prophète Ezékiel dit&quot;un sort malheureux leur arrive.</p></li><li><p>Selon le contexte ,ce terme pourrait signifier &quot;désastre&quot;ou&quot;punition&quot;ou&quot;une aide abimée.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23006005",
+          "start_ref_usfm": "ISA 6:5",
+          "end_ref": "23006005",
+          "end_ref_usfm": "ISA 6:5"
+        },
+        {
+          "start_ref": "26030009",
+          "start_ref_usfm": "EZK 30:9",
+          "end_ref": "26030009",
+          "end_ref_usfm": "EZK 30:9"
+        },
+        {
+          "start_ref": "26007005",
+          "start_ref_usfm": "EZK 7:5",
+          "end_ref": "26007007",
+          "end_ref_usfm": "EZK 7:7"
+        },
+        {
+          "start_ref": "19092006",
+          "start_ref_usfm": "PSA 92:6",
+          "end_ref": "19092007",
+          "end_ref_usfm": "PSA 92:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

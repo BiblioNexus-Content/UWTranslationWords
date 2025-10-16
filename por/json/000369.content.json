@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238227,
+    "reference_id": 26097,
+    "title": "Filipos",
+    "media_type": "Text",
+    "index_reference": "filipos",
+    "language": "por",
+    "content": "<h1>Filipos, Filipenses</h1><h2>Fatos:</h2><p>Filipos era uma cidade importante e colônia romana localizada na Macedônia, na parte norte da Grécia antiga. As pessoas em Filipos eram chamadas de filipenses.</p><ul><li><p>Paulo e Silas viajaram para Filipos para pregar sobre Jesus para as pessoas que residiam lá.</p></li><li><p>Enquanto estavam em Filipos, Paulo e Silas foram presos, mas Deus os libertou milagrosamente.</p></li><li><p>O livro do Novo Testamento, Filipenses, é uma carta que o apóstolo Paulo escreveu aos cristãos na igreja de Filipos.</p></li><li><p>Note que esta é uma cidade diferente de Cesareia de Filipe, que estava localizada no nordeste de Israel, perto do Monte Hermom.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25563\" data-resourceType=\"UWTranslationWords\">Cesareia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25588\" data-resourceType=\"UWTranslationWords\">Cristão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">igreja</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25986\" data-resourceType=\"UWTranslationWords\">Macedônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26236\" data-resourceType=\"UWTranslationWords\">Silas</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Thess2:1-1Thess2:2\">1 Tessalonicenses 2.1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts16:11\">Atos 16.11</a></p></li><li><p><a href=\"https://ref.ly/Matt16:13-Matt16:16\">Mateus 16.13–16</a></p></li><li><p><a href=\"https://ref.ly/Phil1:1\">Filipenses 1.1</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>47:1</strong> Um dia, Paulo e seu amigo Silas foram à cidade de <strong>Filipos</strong> para proclamar as boas novas sobre Jesus.</p></li><li><p><strong>47:13</strong> No dia seguinte, os líderes da cidade libertaram Paulo e Silas da prisão e pediram que deixassem <strong>Filipos</strong>.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G53740, G53750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016011",
+          "start_ref_usfm": "ACT 16:11",
+          "end_ref": "44016011",
+          "end_ref_usfm": "ACT 16:11"
+        },
+        {
+          "start_ref": "44016012",
+          "start_ref_usfm": "ACT 16:12",
+          "end_ref": "44016012",
+          "end_ref_usfm": "ACT 16:12"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "50001001",
+          "start_ref_usfm": "PHP 1:1",
+          "end_ref": "50001001",
+          "end_ref_usfm": "PHP 1:1"
+        },
+        {
+          "start_ref": "50004015",
+          "start_ref_usfm": "PHP 4:15",
+          "end_ref": "50004015",
+          "end_ref_usfm": "PHP 4:15"
+        },
+        {
+          "start_ref": "52002002",
+          "start_ref_usfm": "1TH 2:2",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016016",
+          "end_ref_usfm": "MAT 16:16"
+        },
+        {
+          "start_ref": "52002001",
+          "start_ref_usfm": "1TH 2:1",
+          "end_ref": "52002002",
+          "end_ref_usfm": "1TH 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25563,
+          "content_id": 237698,
+          "label": "Cesareia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 237723,
+          "label": "Cristão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 237725,
+          "label": "Igreja",
+          "language": "por"
+        },
+        {
+          "reference_id": 25986,
+          "content_id": 238117,
+          "label": "Macedônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26236,
+          "content_id": 238365,
+          "label": "Silas",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

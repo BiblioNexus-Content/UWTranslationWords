@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 179521,
+    "reference_id": 25431,
+    "title": "अदोनिय्याह",
+    "media_type": "Text",
+    "index_reference": "अदोनिय्याह",
+    "language": "hin",
+    "content": "<h1>अदोनिय्याह</h1><h2>परिभाषा:</h2><p>अदोनिय्याह राजा दाऊद का चौथा पुत्र था</p><ul><li><p>अपने भाई अबशालोम और अम्मोन की मृत्यु के बाद अदोनिय्याह ने इस्राएल का राजा बनने का प्रयास किया।</p></li><li><p>परन्तु परमेश्वर ने राजा दाऊद का सिंहासन सुलैमान को देने की प्रतिज्ञा की थी, अतः अदोनिय्याह की योजना विफल हुई और सुलैमान राजा बना।</p></li><li><p>अदोनिय्याह ने दूसरी बार राजा बनने का प्रयास किया तो सुलैमान ने उसे मरवा दिया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>)</p><h2>बाइबल सन्दर्भ:</h2><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G138</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16010016",
+          "start_ref_usfm": "NEH 10:16",
+          "end_ref": "16010016",
+          "end_ref_usfm": "NEH 10:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

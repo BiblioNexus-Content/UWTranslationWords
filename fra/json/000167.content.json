@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466800,
+    "reference_id": 25637,
+    "title": "Chypre",
+    "media_type": "Text",
+    "index_reference": "chypre",
+    "language": "fra",
+    "content": "<h1>Chypre</h1><h2>Définition :</h2><p>Chypre est une île dans la Mer Méditerranée, à environ 64 kilomètres au Sud du pays moderne de la Turquie.</p><ul><li><p>Barnabas était de Chypre alors il est probable que son cousin Jean- Marc soit aussi de là-bas.</p></li><li><p>Paul et Barnabas ont prêché ensemble sur l&apos;île de Chypre au début de leur premier voyage missionnaire* Jean-Marc est venu pour les aider lors de ce voyage.</p></li><li><p>Plus tard, Barnabas et Marc ont visité à nouveau Chypre.</p></li><li><p>Dans l&apos;Ancien Testament, Chypre est mentionné comme étant une source riche de cyprès*&quot;</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/barnabas.md), (../names/johnmark.md), (../names/mediterranean.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013004",
+          "end_ref_usfm": "ACT 13:4"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44027004",
+          "start_ref_usfm": "ACT 27:4",
+          "end_ref": "44027004",
+          "end_ref_usfm": "ACT 27:4"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "26027006",
+          "start_ref_usfm": "EZK 27:6",
+          "end_ref": "26027007",
+          "end_ref_usfm": "EZK 27:7"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 466684,
+          "label": "Barnabas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 467055,
+          "label": "Jean Marc",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 467143,
+          "label": "La mer",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

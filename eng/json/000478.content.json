@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26750,
+    "reference_id": 25892,
+    "title": "Jehoshaphat",
+    "media_type": "Text",
+    "index_reference": "jehoshaphat",
+    "language": "eng",
+    "content": "<h1>Jehoshaphat</h1><h2>Facts:</h2><p>Jehoshaphat was the name of at least two men in the Old Testament.</p><ul><li><p>The best known man by this name was King Jehoshaphat who was the fourth king to rule over the kingdom of Judah.</p></li><li><p>He restored peace between Judah and Israel and destroyed the altars of false gods.</p></li><li><p>Another Jehoshaphat was a “recorder” for David and Solomon. His job included writing documents for the king to sign and recording the history of the important events that happened in the kingdom.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">altar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Solomon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Chronicles 3:10–12</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:17\">1 Kings 4:17</a></p></li><li><p><a href=\"https://ref.ly/2Chr17:1\">2 Chronicles 17:1</a></p></li><li><p><a href=\"https://ref.ly/2Kgs1:17\">2 Kings 1:17</a></p></li><li><p><a href=\"https://ref.ly/2Sam8:15-2Sam8:18\">2 Samuel 8:15–18</a></p></li><li><p><a href=\"https://ref.ly/Matt1:7-Matt1:8\">Matthew 1:7–8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3092, G24980</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11004017",
+          "start_ref_usfm": "1KI 4:17",
+          "end_ref": "11004017",
+          "end_ref_usfm": "1KI 4:17"
+        },
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "14017001",
+          "start_ref_usfm": "2CH 17:1",
+          "end_ref": "14017001",
+          "end_ref_usfm": "2CH 17:1"
+        },
+        {
+          "start_ref": "40001008",
+          "start_ref_usfm": "MAT 1:8",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        },
+        {
+          "start_ref": "10008015",
+          "start_ref_usfm": "2SA 8:15",
+          "end_ref": "10008018",
+          "end_ref_usfm": "2SA 8:18"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "40001007",
+          "start_ref_usfm": "MAT 1:7",
+          "end_ref": "40001008",
+          "end_ref_usfm": "MAT 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 26305,
+          "label": "Altar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 27107,
+          "label": "Solomon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26560,
+    "reference_id": 25702,
+    "title": "Engedi",
+    "media_type": "Text",
+    "index_reference": "engedi",
+    "language": "eng",
+    "content": "<h1>En Gedi</h1><h2>Definition:</h2><p>En Gedi was the name of a city in the wilderness of Judah southeast of Jerusalem.</p><ul><li><p>En Gedi was located on the western bank of the Salt Sea.</p></li><li><p>Part of its name means “fountain,” referring to a spring which watered the city.</p></li><li><p>En Gedi was known for having beautiful vineyards and other fertile land, probably due to the continual watering by the spring of water.</p></li><li><p>There were strongholds in En Gedi which David fled to when he was being chased by King Saul.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">desert</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25756\" data-resourceType=\"UWTranslationWords\">fountain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_rest\" data-resourceType=\"UWTranslationWords\">rest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Salt Sea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (OT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26266\" data-resourceType=\"UWTranslationWords\">stronghold</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vineyard</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr20:2\">2 Chronicles 20:2</a></p></li><li><p><a href=\"https://ref.ly/Song1:12-Song1:14\">Song of Songs 1:12–14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5872</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14020002",
+          "start_ref_usfm": "2CH 20:2",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "22001014",
+          "start_ref_usfm": "SNG 1:14",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        },
+        {
+          "start_ref": "22001012",
+          "start_ref_usfm": "SNG 1:12",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 26520,
+          "label": "Desert",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25756,
+          "content_id": 26614,
+          "label": "Fountain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 27049,
+          "label": "Saltsea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 27058,
+          "label": "Saul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26266,
+          "content_id": 27124,
+          "label": "Stronghold",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 27194,
+          "label": "Vineyard",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 467272,
+    "reference_id": 26151,
+    "title": "Rahab",
+    "media_type": "Text",
+    "index_reference": "rahab",
+    "language": "fra",
+    "content": "<h1>Rahab</h1><h2>Définition :</h2><p>Rahab était une prostituée qui vivait à Jéricho quand Israël a attaqué la ville.</p><ul><li><p>Rahab a caché les deux Israélites qui sont venus pour espionner Jéricho avant que les Israélites l&apos;attaquent. Elle a aidé les espions à s&apos;échapper pour retouner au camp d&apos;Israël.</p></li><li><p>Rahab est devenue une croyante en Yahvé. Quand les Israélites on détruit Jéricho ils ont epargnés Rahab et sa famille qui sont tous venus vivre avec les Israélites.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/israel.md), (../names/jericho.md), (../other/prostitute.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06002021",
+          "start_ref_usfm": "JOS 2:21",
+          "end_ref": "06002021",
+          "end_ref_usfm": "JOS 2:21"
+        },
+        {
+          "start_ref": "40001005",
+          "start_ref_usfm": "MAT 1:5",
+          "end_ref": "40001005",
+          "end_ref_usfm": "MAT 1:5"
+        },
+        {
+          "start_ref": "58011031",
+          "start_ref_usfm": "HEB 11:31",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "06006017",
+          "start_ref_usfm": "JOS 6:17",
+          "end_ref": "06006019",
+          "end_ref_usfm": "JOS 6:19"
+        },
+        {
+          "start_ref": "58011029",
+          "start_ref_usfm": "HEB 11:29",
+          "end_ref": "58011031",
+          "end_ref_usfm": "HEB 11:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 467254,
+          "label": "Prostitué",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

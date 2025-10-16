@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466981,
+    "reference_id": 25834,
+    "title": "Ezéchias",
+    "media_type": "Text",
+    "index_reference": "ezéchias",
+    "language": "fra",
+    "content": "<h1>Ezéchias</h1><h2>Définition :</h2><p>&quot;Ezéchias était le treizieme roi sur le royaume de Judée* Il était un roi qui croyait et obeissait à Dieu.</p><ul><li><p>Contrairement à son père Achaz qui était un mauvais roi, le roi Ezéchias a institué une reforme réligieuse en supprimant l&apos;adoration des idoles de Judée.</p></li><li><p>Quand Ezéchias pria serieusement, Dieu l&apos;a guéri d&apos;une grave maladie et lui accorda 15 ans de plus.</p></li><li><p>Comme un signe à Ezéchias pour accomplir la promesse, Dieu a permis au soleil de faire un mouvement dans le sens contraire.</p></li></ul><p>(Voir aussi : (../names/ahaz.md), (../names/assyria.md), (../kt/falsegod.md), (../names/judah.md), (../names/sennacherib.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20025001",
+          "start_ref_usfm": "PRO 25:1",
+          "end_ref": "20025001",
+          "end_ref_usfm": "PRO 25:1"
+        },
+        {
+          "start_ref": "28001001",
+          "start_ref_usfm": "HOS 1:1",
+          "end_ref": "28001001",
+          "end_ref_usfm": "HOS 1:1"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001009",
+          "end_ref_usfm": "MAT 1:9"
+        },
+        {
+          "start_ref": "40001010",
+          "start_ref_usfm": "MAT 1:10",
+          "end_ref": "40001010",
+          "end_ref_usfm": "MAT 1:10"
+        },
+        {
+          "start_ref": "40001009",
+          "start_ref_usfm": "MAT 1:9",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        },
+        {
+          "start_ref": "13003013",
+          "start_ref_usfm": "1CH 3:13",
+          "end_ref": "13003014",
+          "end_ref_usfm": "1CH 3:14"
+        },
+        {
+          "start_ref": "12016019",
+          "start_ref_usfm": "2KI 16:19",
+          "end_ref": "12016020",
+          "end_ref_usfm": "2KI 16:20"
+        },
+        {
+          "start_ref": "20025001",
+          "start_ref_usfm": "PRO 25:1",
+          "end_ref": "20025003",
+          "end_ref_usfm": "PRO 25:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25440,
+          "content_id": 466621,
+          "label": "Achaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26214,
+          "content_id": 467332,
+          "label": "Sanchérib",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

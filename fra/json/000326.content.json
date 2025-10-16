@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466899,
+    "reference_id": 25747,
+    "title": "Flûte",
+    "media_type": "Text",
+    "index_reference": "flûte",
+    "language": "fra",
+    "content": "<h1>flûte, pipe</h1><h2>Définition :</h2><p>&quot;Dans les temps bibliques, les trompettes étaient des instruments de musique en os ou en bois avec des trous pour permettre au son de sortir* La plupart des trompettes avaient aussi des roseaux qui vibraient quand on soufflait l&apos;air sur eux.</p><ul><li><p>Une flûte était une sorte de trompette.</p></li><li><p>Les flûtes ont été couramment utilisées par les bergers pour calmer leurs troupeaux.</p></li><li><p>Les Flûtes étaient des instruments de musique que le roi Nebucadnetsar avait choisi pour être joué comme signal pour adorer son idole.</p></li><li><p>Les trompettes et flûtes étaient utilisés pour jouer de la musique triste ou joyeuse.</p></li></ul><p>(Voir aussi : (../other/flock.md), (../other/shepherd.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "40009023",
+          "start_ref_usfm": "MAT 9:23",
+          "end_ref": "40009023",
+          "end_ref_usfm": "MAT 9:23"
+        },
+        {
+          "start_ref": "40011017",
+          "start_ref_usfm": "MAT 11:17",
+          "end_ref": "40011017",
+          "end_ref_usfm": "MAT 11:17"
+        },
+        {
+          "start_ref": "46014007",
+          "start_ref_usfm": "1CO 14:7",
+          "end_ref": "46014007",
+          "end_ref_usfm": "1CO 14:7"
+        },
+        {
+          "start_ref": "66018022",
+          "start_ref_usfm": "REV 18:22",
+          "end_ref": "66018022",
+          "end_ref_usfm": "REV 18:22"
+        },
+        {
+          "start_ref": "11001038",
+          "start_ref_usfm": "1KI 1:38",
+          "end_ref": "11001040",
+          "end_ref_usfm": "1KI 1:40"
+        },
+        {
+          "start_ref": "27003003",
+          "start_ref_usfm": "DAN 3:3",
+          "end_ref": "27003005",
+          "end_ref_usfm": "DAN 3:5"
+        },
+        {
+          "start_ref": "42007031",
+          "start_ref_usfm": "LUK 7:31",
+          "end_ref": "42007032",
+          "end_ref_usfm": "LUK 7:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26226,
+          "content_id": 467342,
+          "label": "Le berger",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

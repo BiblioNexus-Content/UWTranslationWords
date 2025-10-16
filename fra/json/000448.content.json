@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467035,
+    "reference_id": 25890,
+    "title": "Jojakim",
+    "media_type": "Text",
+    "index_reference": "jojakim",
+    "language": "fra",
+    "content": "<h1>Jojakim</h1><h2>Définition :</h2><p>&quot;Jojakim était un mauvais roi qui régna sur le royaume de Juda, autour de 608 av* J<em>-C</em> Il était le fils du roi Josias* Son nom était à l&apos;origine Eliakim.</p><ul><li><p>Le pharaon égyptien, Necho changea le nom de Eliakim en Jojakim et le fit roi de Juda.</p></li><li><p>Necho força Jojakim à payer des taxes élevées à l&apos;Egypte.</p></li><li><p>Lorsque Juda fut plus tard envahi par le roi Nabuchodonosor, Jojakim était parmi ceux qui ont été capturés et emmenés à Babylone.</p></li><li><p>Jojakim était un roi impi qui conduisit Juda loin de Yahvé* Jérémie, le prophète avait fait une prophétie contre lui.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/babylon.md), (../names/eliakim.md), (../names/jeremiah.md), (../names/kingdomofjudah.md), (../names/nebuchadnezzar.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12024001",
+          "start_ref_usfm": "2KI 24:1",
+          "end_ref": "12024001",
+          "end_ref_usfm": "2KI 24:1"
+        },
+        {
+          "start_ref": "24001003",
+          "start_ref_usfm": "JER 1:3",
+          "end_ref": "24001003",
+          "end_ref_usfm": "JER 1:3"
+        },
+        {
+          "start_ref": "27001002",
+          "start_ref_usfm": "DAN 1:2",
+          "end_ref": "27001002",
+          "end_ref_usfm": "DAN 1:2"
+        },
+        {
+          "start_ref": "12023034",
+          "start_ref_usfm": "2KI 23:34",
+          "end_ref": "12023035",
+          "end_ref_usfm": "2KI 23:35"
+        },
+        {
+          "start_ref": "13003015",
+          "start_ref_usfm": "1CH 3:15",
+          "end_ref": "13003016",
+          "end_ref_usfm": "1CH 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25696,
+          "content_id": 466856,
+          "label": "Eliakim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 467040,
+          "label": "Jérémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 467184,
+          "label": "Nébucadnetsar",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

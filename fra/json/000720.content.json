@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467266,
+    "reference_id": 26145,
+    "title": "reine",
+    "media_type": "Text",
+    "index_reference": "reine",
+    "language": "fra",
+    "content": "<h1>REINE</h1><h2>Définition</h2><p>Une reine est une femme qui règne sur un pays ou la femme d&apos;un roi.</p><ul><li><p>Esther devient reine de l&apos;empire perse quand elle épouse le roi Assuérus.</p></li><li><p>La reine Jézabel est connue pour son impiété. C&apos;est la femme du roi Achab.</p></li><li><p>La reine de Séba (ou Saba) était renommée.  Elle rend visite au roi Salomon.</p></li><li><p>L&apos;expression&nbsp;«&nbsp;reine mère&nbsp;» désigne la mère ou la grand-mère d&apos;un roi qui règne, ou la veuve d&apos;un roi défunt. Une reine mère avait beaucoup d&apos;influence. </p></li><li><p>La reine mère Athalie influence le peuple en mal et le pousse à adorer des idoles.</p></li></ul><p>Voir&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25439\" data-resourceType=\"UWTranslationWords\">Assuérus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25489\" data-resourceType=\"UWTranslationWords\">Athalie</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Esther</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">roi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Perse</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">dirigeant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26222\" data-resourceType=\"UWTranslationWords\">Séba</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:10\">1 Rois 10.10</a></p></li><li><p><a href=\"https://ref.ly/1Kgs11:18-1Kgs11:19\">1 Rois 11.18–19</a></p></li><li><p><a href=\"https://ref.ly/2Kgs10:12-2Kgs10:14\">2 Rois 10.12–14</a></p></li><li><p><a href=\"https://ref.ly/Acts8:27\">Actes 8.27</a></p></li><li><p><a href=\"https://ref.ly/Esth1:17\">Esther 1.17</a></p></li><li><p><a href=\"https://ref.ly/Luke11:31\">Luc 11.31</a></p></li><li><p><a href=\"https://ref.ly/Matt12:42\">Matthieu 12.42</a></p></li></ul><h2>Données sur les mots</h2><ul><li><p>Numéros Strong&nbsp;: H1404, H1377, H4410, H4427, H4433, H4436, H4438, H4446, H7694, H8282, G09380</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11010010",
+          "start_ref_usfm": "1KI 10:10",
+          "end_ref": "11010010",
+          "end_ref_usfm": "1KI 10:10"
+        },
+        {
+          "start_ref": "16002006",
+          "start_ref_usfm": "NEH 2:6",
+          "end_ref": "16002006",
+          "end_ref_usfm": "NEH 2:6"
+        },
+        {
+          "start_ref": "17001017",
+          "start_ref_usfm": "EST 1:17",
+          "end_ref": "17001017",
+          "end_ref_usfm": "EST 1:17"
+        },
+        {
+          "start_ref": "40012042",
+          "start_ref_usfm": "MAT 12:42",
+          "end_ref": "40012042",
+          "end_ref_usfm": "MAT 12:42"
+        },
+        {
+          "start_ref": "42011031",
+          "start_ref_usfm": "LUK 11:31",
+          "end_ref": "42011031",
+          "end_ref_usfm": "LUK 11:31"
+        },
+        {
+          "start_ref": "44008027",
+          "start_ref_usfm": "ACT 8:27",
+          "end_ref": "44008027",
+          "end_ref_usfm": "ACT 8:27"
+        },
+        {
+          "start_ref": "66018007",
+          "start_ref_usfm": "REV 18:7",
+          "end_ref": "66018007",
+          "end_ref_usfm": "REV 18:7"
+        },
+        {
+          "start_ref": "12010012",
+          "start_ref_usfm": "2KI 10:12",
+          "end_ref": "12010014",
+          "end_ref_usfm": "2KI 10:14"
+        },
+        {
+          "start_ref": "11011018",
+          "start_ref_usfm": "1KI 11:18",
+          "end_ref": "11011019",
+          "end_ref_usfm": "1KI 11:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25439,
+          "content_id": 466620,
+          "label": "Assuérus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25489,
+          "content_id": 466668,
+          "label": "Athalie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 32928,
+          "label": "dirigeant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 467081,
+          "label": "Roi royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 466870,
+          "label": "Esther",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26222,
+          "content_id": 467338,
+          "label": "Saba",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

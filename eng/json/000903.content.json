@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 27176,
+    "reference_id": 26318,
+    "title": "Tribute",
+    "media_type": "Text",
+    "index_reference": "tribute",
+    "language": "eng",
+    "content": "<h1>tribute, contribution, fined</h1><h2>Definition:</h2><p>The term “tribute” refers to a gift from one ruler to another ruler, for the purpose of protection and for good relations between their nations. A tribute can also be a payment that a ruler or government requires from the people, such as a toll or tax.</p><ul><li><p>In Bible times, traveling kings or rulers sometimes paid a tribute to the king of the region they were traveling through to make sure they would be protected and safe.</p></li><li><p>Often the tribute would include things besides money, such as foods, spices, rich clothing, and expensive metals such as gold.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, “tribute” could be translated as “official gifts” or “special tax” or “required payment.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25791\" data-resourceType=\"UWTranslationWords\">gold</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">ruler</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">tax</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr18:1-1Chr18:2\">1 Chronicles 18:1–2</a></p></li><li><p><a href=\"https://ref.ly/2Chr9:22-2Chr9:24\">2 Chronicles 9:22–24</a></p></li><li><p><a href=\"https://ref.ly/2Kgs17:3\">2 Kings 17:3</a></p></li><li><p><a href=\"https://ref.ly/Luke23:2\">Luke 23:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1093, H4061, H4503, H4530, H4853, H6066, H7862, G54110</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12017003",
+          "start_ref_usfm": "2KI 17:3",
+          "end_ref": "12017003",
+          "end_ref_usfm": "2KI 17:3"
+        },
+        {
+          "start_ref": "15004013",
+          "start_ref_usfm": "EZR 4:13",
+          "end_ref": "15004013",
+          "end_ref_usfm": "EZR 4:13"
+        },
+        {
+          "start_ref": "15004020",
+          "start_ref_usfm": "EZR 4:20",
+          "end_ref": "15004020",
+          "end_ref_usfm": "EZR 4:20"
+        },
+        {
+          "start_ref": "15007024",
+          "start_ref_usfm": "EZR 7:24",
+          "end_ref": "15007024",
+          "end_ref_usfm": "EZR 7:24"
+        },
+        {
+          "start_ref": "40017025",
+          "start_ref_usfm": "MAT 17:25",
+          "end_ref": "40017025",
+          "end_ref_usfm": "MAT 17:25"
+        },
+        {
+          "start_ref": "40022017",
+          "start_ref_usfm": "MAT 22:17",
+          "end_ref": "40022017",
+          "end_ref_usfm": "MAT 22:17"
+        },
+        {
+          "start_ref": "40022019",
+          "start_ref_usfm": "MAT 22:19",
+          "end_ref": "40022019",
+          "end_ref_usfm": "MAT 22:19"
+        },
+        {
+          "start_ref": "41012014",
+          "start_ref_usfm": "MRK 12:14",
+          "end_ref": "41012014",
+          "end_ref_usfm": "MRK 12:14"
+        },
+        {
+          "start_ref": "42023002",
+          "start_ref_usfm": "LUK 23:2",
+          "end_ref": "42023002",
+          "end_ref_usfm": "LUK 23:2"
+        },
+        {
+          "start_ref": "13018001",
+          "start_ref_usfm": "1CH 18:1",
+          "end_ref": "13018002",
+          "end_ref_usfm": "1CH 18:2"
+        },
+        {
+          "start_ref": "14009022",
+          "start_ref_usfm": "2CH 9:22",
+          "end_ref": "14009024",
+          "end_ref_usfm": "2CH 9:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25791,
+          "content_id": 26649,
+          "label": "Gold",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 27042,
+          "label": "Ruler",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 27140,
+          "label": "Tax",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

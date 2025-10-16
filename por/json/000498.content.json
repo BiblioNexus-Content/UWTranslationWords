@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 238043,
+    "reference_id": 25910,
+    "title": "João Marcos",
+    "media_type": "Text",
+    "index_reference": "joão marcos",
+    "language": "por",
+    "content": "<h1>João Marcos</h1><h2>Fatos:</h2><p>João Marcos, também conhecido como &quot;Marcos&quot;, foi um dos homens que viajaram com Paulo em suas jornadas missionárias. Ele é provavelmente o autor do Evangelho de Marcos.</p><ul><li><p>João Marcos acompanhou seu primo Barnabé e Paulo na primeira viagem missionária deles.</p></li><li><p>Quando Pedro foi preso em Jerusalém, os crentes estavam orando por ele na casa da mãe de João Marcos.</p></li><li><p>Marcos não era um apóstolo, mas foi ensinado por Paulo e Pedro e trabalhou com eles no ministério.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">Barnabé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timóteo 4.11–13</a></p></li><li><p><a href=\"https://ref.ly/Acts12:24-Acts12:25\">Atos 12.24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts13:5\">Atos 13.5</a></p></li><li><p><a href=\"https://ref.ly/Acts13:13\">Atos 13.13</a></p></li><li><p><a href=\"https://ref.ly/Acts15:36-Acts15:38\">Atos 15.36–38</a></p></li><li><p><a href=\"https://ref.ly/Acts15:39-Acts15:41\">Atos 15.39–41</a></p></li><li><p><a href=\"https://ref.ly/Col4:10-Col4:11\">Colossenses 4.10–11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G24910, G31380</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "44015037",
+          "start_ref_usfm": "ACT 15:37",
+          "end_ref": "44015037",
+          "end_ref_usfm": "ACT 15:37"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004011",
+          "end_ref_usfm": "COL 4:11"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44012024",
+          "start_ref_usfm": "ACT 12:24",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015038",
+          "end_ref_usfm": "ACT 15:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 237642,
+          "label": "Barnabé",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

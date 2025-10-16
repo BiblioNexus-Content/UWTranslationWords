@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237676,
+    "reference_id": 25540,
+    "title": "Bila",
+    "media_type": "Text",
+    "index_reference": "bila",
+    "language": "por",
+    "content": "<h1><span>Bila</span></h1><h2>Fatos:</h2><p><span>Bila</span> foi uma das esposas de Jacó. Ela deu à luz Dã e Naftali, dois filhos de Jacó cujos descendentes se tornaram tribos de Israel.</p><ul><li><p>Labão deu Bila a Raquel como serva quando Raquel se casou com Jacó.</p></li><li><p>Como Raquel não estava tendo filhos, ela deu Bila a Jacó como esposa para produzir filhos para ela.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26149\" data-resourceType=\"UWTranslationWords\">Raquel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">Dã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">Naftali</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:29\">Gênesis 29.29</a></p></li><li><p><a href=\"https://ref.ly/Gen30:4\">Gênesis 30.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1090</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030003",
+          "end_ref_usfm": "GEN 30:3"
+        },
+        {
+          "start_ref": "01030004",
+          "start_ref_usfm": "GEN 30:4",
+          "end_ref": "01030004",
+          "end_ref_usfm": "GEN 30:4"
+        },
+        {
+          "start_ref": "01030005",
+          "start_ref_usfm": "GEN 30:5",
+          "end_ref": "01030005",
+          "end_ref_usfm": "GEN 30:5"
+        },
+        {
+          "start_ref": "01030007",
+          "start_ref_usfm": "GEN 30:7",
+          "end_ref": "01030007",
+          "end_ref_usfm": "GEN 30:7"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037002",
+          "end_ref_usfm": "GEN 37:2"
+        },
+        {
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25641,
+          "content_id": 237774,
+          "label": "Dã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 238172,
+          "label": "Naftali",
+          "language": "por"
+        },
+        {
+          "reference_id": 26149,
+          "content_id": 238279,
+          "label": "Raquel",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

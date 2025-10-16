@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237769,
+    "reference_id": 25636,
+    "title": "Cipreste",
+    "media_type": "Text",
+    "index_reference": "cipreste",
+    "language": "por",
+    "content": "<h1>cipreste</h1><h2>Definição:</h2><p>O termo “cipreste” refere-se a um tipo de árvore de abeto que era abundante nas regiões onde as pessoas viviam nos tempos bíblicos, especialmente nos países que fazem fronteira com o Mar Mediterrâneo.</p><ul><li><p>Chipre e Líbano são dois lugares especificamente mencionados na Bíblia como tendo muitos ciprestes.</p></li><li><p>A madeira que Noé usou para construir a arca pode ter sido de cipreste.</p></li><li><p>Como a madeira de cipreste é resistente e duradoura, foi usada pelos povos antigos para construir barcos e outras estruturas.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">arca</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25637\" data-resourceType=\"UWTranslationWords\">Chipre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">abeto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25963\" data-resourceType=\"UWTranslationWords\">Líbano</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts11:19-Acts11:21\">Atos 11.19–21</a></p></li><li><p><a href=\"https://ref.ly/Gen6:14\">Gênesis 6.14</a></p></li><li><p><a href=\"https://ref.ly/Hos14:8\">Oseias 14.8</a></p></li><li><p><a href=\"https://ref.ly/Isa44:14\">Isaías 44.14</a></p></li><li><p><a href=\"https://ref.ly/Isa60:13\">Isaías 60.13</a></p></li><li><p><a href=\"https://ref.ly/Zech11:2\">Zacarias 11.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8645</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006014",
+          "start_ref_usfm": "GEN 6:14",
+          "end_ref": "01006014",
+          "end_ref_usfm": "GEN 6:14"
+        },
+        {
+          "start_ref": "23044014",
+          "start_ref_usfm": "ISA 44:14",
+          "end_ref": "23044014",
+          "end_ref_usfm": "ISA 44:14"
+        },
+        {
+          "start_ref": "23060013",
+          "start_ref_usfm": "ISA 60:13",
+          "end_ref": "23060013",
+          "end_ref_usfm": "ISA 60:13"
+        },
+        {
+          "start_ref": "28014008",
+          "start_ref_usfm": "HOS 14:8",
+          "end_ref": "28014008",
+          "end_ref_usfm": "HOS 14:8"
+        },
+        {
+          "start_ref": "38011002",
+          "start_ref_usfm": "ZEC 11:2",
+          "end_ref": "38011002",
+          "end_ref_usfm": "ZEC 11:2"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 237611,
+          "label": "Arca",
+          "language": "por"
+        },
+        {
+          "reference_id": 25637,
+          "content_id": 237770,
+          "label": "Chipre",
+          "language": "por"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 237874,
+          "label": "Abeto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25963,
+          "content_id": 238094,
+          "label": "Líbano",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

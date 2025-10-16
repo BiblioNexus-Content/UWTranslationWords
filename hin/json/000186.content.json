@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 179583,
+    "reference_id": 25495,
+    "title": "कुल्हाड़ा",
+    "media_type": "Text",
+    "index_reference": "कुल्हाड़ा",
+    "language": "hin",
+    "content": "<h1>कुल्हाड़ा, कुल्हाड़े</h1><h2>परिभाषा:</h2><p>कुल्हाड़ी वृक्ष या लकड़ी काटने का साधन है।</p><ul><li><p>कुल्हाड़ी में एक लकड़ी का डंडा और लोहा लगा होता है।</p></li><li><p>यदि आप की भाषा में लकड़ी काटने का एक साधन है तो &quot;कुल्हाड़ी&quot; के स्थान में उस शब्द का प्रयोग करें।</p></li><li><p>इस शब्द के अन्य अनुवाद हो सकते हैं, “पेड़ काटने का साधन”, “लकड़ी में लगा हुआ लोहे का उपकरण”, या “लकड़ी काटने का लंबे डंडे का साधन”</p></li><li><p>पुराने नियम की एक घटना है कि कुल्हाड़ी डंडे में से निकल कर पानी में गिर गई थी, अतः उसके अनुवाद से प्रकट है कि कुल्हाड़ी डंडे से निकल कर गिर सकती है।</p></li></ul><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 6:7–8</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 6:5</a></p></li><li><p><a href=\"https://ref.ly/Judg9:48-Judg9:49\">न्यायियों 9:48–49</a></p></li><li><p><a href=\"https://ref.ly/Luke3:9\">लूका 3:9</a></p></li><li><p><a href=\"https://ref.ly/Matt3:10\">मत्ती 3:10</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 35:3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1631, H4621, H7134, G05130</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12006005",
+          "start_ref_usfm": "2KI 6:5",
+          "end_ref": "12006005",
+          "end_ref_usfm": "2KI 6:5"
+        },
+        {
+          "start_ref": "19035003",
+          "start_ref_usfm": "PSA 35:3",
+          "end_ref": "19035003",
+          "end_ref_usfm": "PSA 35:3"
+        },
+        {
+          "start_ref": "40003010",
+          "start_ref_usfm": "MAT 3:10",
+          "end_ref": "40003010",
+          "end_ref_usfm": "MAT 3:10"
+        },
+        {
+          "start_ref": "42003009",
+          "start_ref_usfm": "LUK 3:9",
+          "end_ref": "42003009",
+          "end_ref_usfm": "LUK 3:9"
+        },
+        {
+          "start_ref": "07009048",
+          "start_ref_usfm": "JDG 9:48",
+          "end_ref": "07009049",
+          "end_ref_usfm": "JDG 9:49"
+        },
+        {
+          "start_ref": "11006007",
+          "start_ref_usfm": "1KI 6:7",
+          "end_ref": "11006008",
+          "end_ref_usfm": "1KI 6:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

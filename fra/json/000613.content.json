@@ -1,0 +1,221 @@
+[
+  {
+    "content_id": 467197,
+    "reference_id": 26062,
+    "title": "Olive",
+    "media_type": "Text",
+    "index_reference": "olive",
+    "language": "fra",
+    "content": "<h1>olive,</h1><h2>Définition :</h2><p>L&apos;olive est le petit fruit ovale d&apos;un olivier, qui est principalement cultivé dans les régions entourant la mer Méditerranée.</p><ul><li><p>Les oliviers sont un type de grands arbustes à feuilles persistantes avec de minuscules fleurs blanches* Ils se développent mieux dans un climat chaud et peuvent survivre bien avec peu d&apos;eau.</p></li><li><p>Le fruit de l&apos;olivier est de couleur verte, changeant au noir lorsqu&apos;ils mûrissent* Les olives sont utilisées pour la consommation et l&apos;extraction de carburant.</p></li><li><p>L&apos;huile d&apos;olive a été utilisée non seulement pour la cuisine, mais aussi pour les lampes d&apos;éclairage et dans les cérémonies religieuses.</p></li><li><p>Dans la Bible, les oliviers et les branches sont parfois utilisés au sens figuré pour désigner les personnes.</p></li></ul><p>(Voir aussi : (../other/lamp.md), (../names/mediterranean.md), (../names/mountofolives.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01008011",
+          "start_ref_usfm": "GEN 8:11",
+          "end_ref": "01008011",
+          "end_ref_usfm": "GEN 8:11"
+        },
+        {
+          "start_ref": "02023011",
+          "start_ref_usfm": "EXO 23:11",
+          "end_ref": "02023011",
+          "end_ref_usfm": "EXO 23:11"
+        },
+        {
+          "start_ref": "02025006",
+          "start_ref_usfm": "EXO 25:6",
+          "end_ref": "02025006",
+          "end_ref_usfm": "EXO 25:6"
+        },
+        {
+          "start_ref": "02027020",
+          "start_ref_usfm": "EXO 27:20",
+          "end_ref": "02027020",
+          "end_ref_usfm": "EXO 27:20"
+        },
+        {
+          "start_ref": "02030024",
+          "start_ref_usfm": "EXO 30:24",
+          "end_ref": "02030024",
+          "end_ref_usfm": "EXO 30:24"
+        },
+        {
+          "start_ref": "02035008",
+          "start_ref_usfm": "EXO 35:8",
+          "end_ref": "02035008",
+          "end_ref_usfm": "EXO 35:8"
+        },
+        {
+          "start_ref": "16005011",
+          "start_ref_usfm": "NEH 5:11",
+          "end_ref": "16005011",
+          "end_ref_usfm": "NEH 5:11"
+        },
+        {
+          "start_ref": "16008015",
+          "start_ref_usfm": "NEH 8:15",
+          "end_ref": "16008015",
+          "end_ref_usfm": "NEH 8:15"
+        },
+        {
+          "start_ref": "16009025",
+          "start_ref_usfm": "NEH 9:25",
+          "end_ref": "16009025",
+          "end_ref_usfm": "NEH 9:25"
+        },
+        {
+          "start_ref": "18029006",
+          "start_ref_usfm": "JOB 29:6",
+          "end_ref": "18029006",
+          "end_ref_usfm": "JOB 29:6"
+        },
+        {
+          "start_ref": "19052008",
+          "start_ref_usfm": "PSA 52:8",
+          "end_ref": "19052008",
+          "end_ref_usfm": "PSA 52:8"
+        },
+        {
+          "start_ref": "22001003",
+          "start_ref_usfm": "SNG 1:3",
+          "end_ref": "22001003",
+          "end_ref_usfm": "SNG 1:3"
+        },
+        {
+          "start_ref": "22004010",
+          "start_ref_usfm": "SNG 4:10",
+          "end_ref": "22004010",
+          "end_ref_usfm": "SNG 4:10"
+        },
+        {
+          "start_ref": "37002012",
+          "start_ref_usfm": "HAG 2:12",
+          "end_ref": "37002012",
+          "end_ref_usfm": "HAG 2:12"
+        },
+        {
+          "start_ref": "40024003",
+          "start_ref_usfm": "MAT 24:3",
+          "end_ref": "40024003",
+          "end_ref_usfm": "MAT 24:3"
+        },
+        {
+          "start_ref": "40026030",
+          "start_ref_usfm": "MAT 26:30",
+          "end_ref": "40026030",
+          "end_ref_usfm": "MAT 26:30"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011001",
+          "end_ref_usfm": "MRK 11:1"
+        },
+        {
+          "start_ref": "41013003",
+          "start_ref_usfm": "MRK 13:3",
+          "end_ref": "41013003",
+          "end_ref_usfm": "MRK 13:3"
+        },
+        {
+          "start_ref": "41014026",
+          "start_ref_usfm": "MRK 14:26",
+          "end_ref": "41014026",
+          "end_ref_usfm": "MRK 14:26"
+        },
+        {
+          "start_ref": "42016006",
+          "start_ref_usfm": "LUK 16:6",
+          "end_ref": "42016006",
+          "end_ref_usfm": "LUK 16:6"
+        },
+        {
+          "start_ref": "42019029",
+          "start_ref_usfm": "LUK 19:29",
+          "end_ref": "42019029",
+          "end_ref_usfm": "LUK 19:29"
+        },
+        {
+          "start_ref": "42019037",
+          "start_ref_usfm": "LUK 19:37",
+          "end_ref": "42019037",
+          "end_ref_usfm": "LUK 19:37"
+        },
+        {
+          "start_ref": "42021037",
+          "start_ref_usfm": "LUK 21:37",
+          "end_ref": "42021037",
+          "end_ref_usfm": "LUK 21:37"
+        },
+        {
+          "start_ref": "42022039",
+          "start_ref_usfm": "LUK 22:39",
+          "end_ref": "42022039",
+          "end_ref_usfm": "LUK 22:39"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001012",
+          "end_ref_usfm": "ACT 1:12"
+        },
+        {
+          "start_ref": "45011017",
+          "start_ref_usfm": "ROM 11:17",
+          "end_ref": "45011017",
+          "end_ref_usfm": "ROM 11:17"
+        },
+        {
+          "start_ref": "45011024",
+          "start_ref_usfm": "ROM 11:24",
+          "end_ref": "45011024",
+          "end_ref_usfm": "ROM 11:24"
+        },
+        {
+          "start_ref": "59003012",
+          "start_ref_usfm": "JAS 3:12",
+          "end_ref": "59003012",
+          "end_ref_usfm": "JAS 3:12"
+        },
+        {
+          "start_ref": "66011004",
+          "start_ref_usfm": "REV 11:4",
+          "end_ref": "66011004",
+          "end_ref_usfm": "REV 11:4"
+        },
+        {
+          "start_ref": "02023010",
+          "start_ref_usfm": "EXO 23:10",
+          "end_ref": "02023011",
+          "end_ref_usfm": "EXO 23:11"
+        },
+        {
+          "start_ref": "13027028",
+          "start_ref_usfm": "1CH 27:28",
+          "end_ref": "13027029",
+          "end_ref_usfm": "1CH 27:29"
+        },
+        {
+          "start_ref": "05006010",
+          "start_ref_usfm": "DEU 6:10",
+          "end_ref": "05006012",
+          "end_ref_usfm": "DEU 6:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25954,
+          "content_id": 467095,
+          "label": "Lampe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 467171,
+          "label": "Mont des Oliviers",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466609,
+    "reference_id": 25427,
+    "title": "Acacia",
+    "media_type": "Text",
+    "index_reference": "acacia",
+    "language": "fra",
+    "content": "<h1>acacia</h1><h2>Définition :</h2><p>Le terme &quot;acacia&quot; est le nom d&apos;un arbuste ou d&apos;arbre populaire qui pousse dans le pays de Canaan dans les temps anciens; il demeure toujours abondant dans cette région de nos jours.</p><ul><li><p>Le bois orange-brun de l&apos;arbre d&apos;acacia est très dur et durable, ce qui fait de lui un matériel très utile dans la construction.</p></li><li><p>Ce bois est très résistant contre la décomposition parce qu&apos;il est tellement dense qu&apos;il empêche l&apos;infiltration de l&apos;eau, et il a des conservateurs naturels qui empêchent les insectes de le détruire.</p></li><li><p>Dans la Bible, le bois d&apos;acacia servit à construire le tabernacle et l&apos;arche de l&apos;alliance.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../kt/arkofthecovenant.md), (../kt/tabernacle.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05010003",
+          "start_ref_usfm": "DEU 10:3",
+          "end_ref": "05010004",
+          "end_ref_usfm": "DEU 10:4"
+        },
+        {
+          "start_ref": "02025003",
+          "start_ref_usfm": "EXO 25:3",
+          "end_ref": "02025007",
+          "end_ref_usfm": "EXO 25:7"
+        },
+        {
+          "start_ref": "02038006",
+          "start_ref_usfm": "EXO 38:6",
+          "end_ref": "02038007",
+          "end_ref_usfm": "EXO 38:7"
+        },
+        {
+          "start_ref": "23041019",
+          "start_ref_usfm": "ISA 41:19",
+          "end_ref": "23041020",
+          "end_ref_usfm": "ISA 41:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 466654,
+          "label": "L'arche de l'alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 467392,
+          "label": "Tabernacle",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

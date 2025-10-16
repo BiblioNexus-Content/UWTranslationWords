@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26574,
+    "reference_id": 25716,
+    "title": "Evangelist",
+    "media_type": "Text",
+    "index_reference": "evangelist",
+    "language": "eng",
+    "content": "<h1>evangelist</h1><h2>Definition:</h2><p>An “evangelist” is a person who tells other people the good news about Jesus Christ.</p><ul><li><p>The literal meaning of “evangelist” is “someone who preaches the good news.”</p></li><li><p>Jesus sent his apostles out to spread the good news about how to be part of God’s kingdom through trusting in Jesus and his sacrifice for sin.</p></li><li><p>All Christians are exhorted to share this good news.</p></li><li><p>Some Christians are given a special spiritual gift to effectively tell the gospel to others. These people are said to have the gift of evangelism and are called “evangelists.”</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term “evangelist” could be translated as “someone who preaches the good news” or “teacher of the good news” or “person who proclaims the good news (about Jesus)” or “good news proclaimer.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">good news</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">spirit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_gift\" data-resourceType=\"UWTranslationWords\">gift</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Tim4:5\">2 Timothy 4:5</a></p></li><li><p><a href=\"https://ref.ly/Eph4:11-Eph4:13\">Ephesians 4:11–13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G20990</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004011",
+          "end_ref_usfm": "EPH 4:11"
+        },
+        {
+          "start_ref": "55004005",
+          "start_ref_usfm": "2TI 4:5",
+          "end_ref": "55004005",
+          "end_ref_usfm": "2TI 4:5"
+        },
+        {
+          "start_ref": "49004011",
+          "start_ref_usfm": "EPH 4:11",
+          "end_ref": "49004013",
+          "end_ref_usfm": "EPH 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25796,
+          "content_id": 26654,
+          "label": "Good News",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 27115,
+          "label": "Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

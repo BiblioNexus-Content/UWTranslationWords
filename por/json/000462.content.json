@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 238003,
+    "reference_id": 25870,
+    "title": "Inquirir",
+    "media_type": "Text",
+    "index_reference": "inquirir",
+    "language": "por",
+    "content": "<h1>inquirir, inquéritos</h1><h2>Fatos:</h2><p>O termo “inquirir” significa pedir informações a alguém. A expressão “inquirir de” é frequentemente usada para se referir a pedir sabedoria ou ajuda a Deus.</p><ul><li><p>O Antigo Testamento registra várias instâncias onde as pessoas inquiriram a Deus.</p></li><li><p>A palavra também pode ser usada para um rei ou oficial do governo fazer uma busca através de registros escritos oficiais.</p></li><li><p>Dependendo do contexto, “inquirir” pode ser traduzido como “perguntar” ou “pedir informações”.</p></li><li><p>A expressão “inquirir de Javé” pode ser traduzida como “pedir orientação a Javé” ou “perguntar a Javé o que fazer”.</p></li><li><p>“Inquirir sobre” algo pode ser traduzido como “fazer perguntas sobre” ou “pedir informações sobre”.</p></li><li><p>Quando Javé diz “Eu não serei inquirido por vocês”, isso pode ser traduzido como “Eu não permitirei que vocês me perguntem por informações” ou “vocês não terão permissão para buscar ajuda de mim”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Deut19:18\">Deuteronômio 19.18</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:1\">Ezequiel 20.1</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:30-Ezek20:32\">Ezequiel 20.30–32</a></p></li><li><p><a href=\"https://ref.ly/Ezra7:14\">Esdras 7.14</a></p></li><li><p><a href=\"https://ref.ly/Job10:7\">Jó 10.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1240, H1245, H1875, G18300</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02018015",
+          "start_ref_usfm": "EXO 18:15",
+          "end_ref": "02018015",
+          "end_ref_usfm": "EXO 18:15"
+        },
+        {
+          "start_ref": "05019018",
+          "start_ref_usfm": "DEU 19:18",
+          "end_ref": "05019018",
+          "end_ref_usfm": "DEU 19:18"
+        },
+        {
+          "start_ref": "15007014",
+          "start_ref_usfm": "EZR 7:14",
+          "end_ref": "15007014",
+          "end_ref_usfm": "EZR 7:14"
+        },
+        {
+          "start_ref": "18010007",
+          "start_ref_usfm": "JOB 10:7",
+          "end_ref": "18010007",
+          "end_ref_usfm": "JOB 10:7"
+        },
+        {
+          "start_ref": "26020001",
+          "start_ref_usfm": "EZK 20:1",
+          "end_ref": "26020001",
+          "end_ref_usfm": "EZK 20:1"
+        },
+        {
+          "start_ref": "26020030",
+          "start_ref_usfm": "EZK 20:30",
+          "end_ref": "26020032",
+          "end_ref_usfm": "EZK 20:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

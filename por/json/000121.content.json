@@ -1,0 +1,485 @@
+[
+  {
+    "content_id": 237639,
+    "reference_id": 25503,
+    "title": "Batizar",
+    "media_type": "Text",
+    "index_reference": "batizar",
+    "language": "por",
+    "content": "<h1>batizar, batizado, batismo</h1><h2>Definição:</h2><p>No Novo Testamento, os termos “batizar” e “batismo” geralmente se referem ao ato ritual de banhar um cristão com água para mostrar que ele foi purificado do pecado e unido a Cristo.</p><h2>Sugestões de Tradução:</h2><ul><li><p>Os cristãos têm diferentes opiniões sobre como uma pessoa deve ser batizada com água. Provavelmente é melhor traduzir esse termo de uma maneira geral que permita diferentes formas de aplicação da água.</p></li><li><p>Dependendo do contexto, o termo “batizar” poderia ser traduzido como “purificar”, “derramar sobre”, “mergulhar (ou imergir) em”, “lavar”. Por exemplo, “batizar você com água” poderia ser traduzido como “mergulhar você na água”.</p></li><li><p>O termo “batismo” poderia ser traduzido como “purificação”, “um derramamento”, “uma imersão”, “uma limpeza”.</p></li><li><p>Considere também como esse termo é traduzido em uma tradução da Bíblia em uma língua local ou nacional.</p></li></ul><p>(Veja também: Como traduzir desconhecidos)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">João Batista</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">arrependa-se</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:38\">Atos 2.38</a></p></li><li><p><a href=\"https://ref.ly/Acts8:36\">Atos 8.36</a></p></li><li><p><a href=\"https://ref.ly/Acts9:18\">Atos 9.18</a></p></li><li><p><a href=\"https://ref.ly/Acts10:48\">Atos 10.48</a></p></li><li><p><a href=\"https://ref.ly/Luke3:16\">Lucas 3.16</a></p></li><li><p><a href=\"https://ref.ly/Matt3:14\">Mateus 3.14</a></p></li><li><p><a href=\"https://ref.ly/Matt28:18-Matt28:19\">Mateus 28.18–19</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>24:3</strong> Quando as pessoas ouviram a mensagem de João, muitas delas se arrependeram de seus pecados, e João as <strong>batizou</strong>. Muitos líderes religiosos também vieram para ser <strong>batizados</strong> por João, mas eles não se arrependeram nem confessaram seus pecados.</p></li><li><p><strong>24:6</strong> No dia seguinte, Jesus veio para ser <strong>batizado</strong> por João.</p></li><li><p><strong>24:7</strong> João disse a Jesus, “Eu não sou digno de <strong>batizar</strong> você. Em vez disso, você deveria me <strong>batizar</strong>”.</p></li><li><p><strong>42:10</strong> “Portanto, vão, façam discípulos de todos os povos, <strong>batizando</strong>-os em nome do Pai, do Filho e do Espírito Santo e ensinando-os a obedecer tudo o que eu lhes ordenei”.</p></li><li><p><strong>43:11</strong> Pedro respondeu-lhes, “Cada um de vocês deve se arrepender e ser <strong>batizado</strong> em nome de Jesus Cristo para que Deus perdoe seus pecados”.</p></li><li><p><strong>43:12</strong> Cerca de 3.000 pessoas acreditaram no que Pedro disse e se tornaram discípulos de Jesus. Eles foram <strong>batizados</strong> e se tornaram parte da igreja em Jerusalém.</p></li><li><p><strong>45:11</strong> Enquanto Filipe e o etíope viajavam, chegaram a um pouco de água. O etíope disse, “Olhe! Há um pouco de água! Posso ser <strong>batizado</strong>?”</p></li><li><p><strong>46:5</strong> Saulo imediatamente foi capaz de ver novamente, e Ananias o <strong>batizou</strong>.</p></li><li><p><strong>49:14</strong> Jesus convida você a acreditar nele e ser <strong>batizado</strong>.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G09070</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003006",
+          "start_ref_usfm": "MAT 3:6",
+          "end_ref": "40003006",
+          "end_ref_usfm": "MAT 3:6"
+        },
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40003011",
+          "start_ref_usfm": "MAT 3:11",
+          "end_ref": "40003011",
+          "end_ref_usfm": "MAT 3:11"
+        },
+        {
+          "start_ref": "40003013",
+          "start_ref_usfm": "MAT 3:13",
+          "end_ref": "40003013",
+          "end_ref_usfm": "MAT 3:13"
+        },
+        {
+          "start_ref": "40003014",
+          "start_ref_usfm": "MAT 3:14",
+          "end_ref": "40003014",
+          "end_ref_usfm": "MAT 3:14"
+        },
+        {
+          "start_ref": "40003016",
+          "start_ref_usfm": "MAT 3:16",
+          "end_ref": "40003016",
+          "end_ref_usfm": "MAT 3:16"
+        },
+        {
+          "start_ref": "40021025",
+          "start_ref_usfm": "MAT 21:25",
+          "end_ref": "40021025",
+          "end_ref_usfm": "MAT 21:25"
+        },
+        {
+          "start_ref": "40028019",
+          "start_ref_usfm": "MAT 28:19",
+          "end_ref": "40028019",
+          "end_ref_usfm": "MAT 28:19"
+        },
+        {
+          "start_ref": "41001004",
+          "start_ref_usfm": "MRK 1:4",
+          "end_ref": "41001004",
+          "end_ref_usfm": "MRK 1:4"
+        },
+        {
+          "start_ref": "41001005",
+          "start_ref_usfm": "MRK 1:5",
+          "end_ref": "41001005",
+          "end_ref_usfm": "MRK 1:5"
+        },
+        {
+          "start_ref": "41001008",
+          "start_ref_usfm": "MRK 1:8",
+          "end_ref": "41001008",
+          "end_ref_usfm": "MRK 1:8"
+        },
+        {
+          "start_ref": "41001009",
+          "start_ref_usfm": "MRK 1:9",
+          "end_ref": "41001009",
+          "end_ref_usfm": "MRK 1:9"
+        },
+        {
+          "start_ref": "41006014",
+          "start_ref_usfm": "MRK 6:14",
+          "end_ref": "41006014",
+          "end_ref_usfm": "MRK 6:14"
+        },
+        {
+          "start_ref": "41006024",
+          "start_ref_usfm": "MRK 6:24",
+          "end_ref": "41006024",
+          "end_ref_usfm": "MRK 6:24"
+        },
+        {
+          "start_ref": "41006025",
+          "start_ref_usfm": "MRK 6:25",
+          "end_ref": "41006025",
+          "end_ref_usfm": "MRK 6:25"
+        },
+        {
+          "start_ref": "41010038",
+          "start_ref_usfm": "MRK 10:38",
+          "end_ref": "41010038",
+          "end_ref_usfm": "MRK 10:38"
+        },
+        {
+          "start_ref": "41010039",
+          "start_ref_usfm": "MRK 10:39",
+          "end_ref": "41010039",
+          "end_ref_usfm": "MRK 10:39"
+        },
+        {
+          "start_ref": "41011030",
+          "start_ref_usfm": "MRK 11:30",
+          "end_ref": "41011030",
+          "end_ref_usfm": "MRK 11:30"
+        },
+        {
+          "start_ref": "42003003",
+          "start_ref_usfm": "LUK 3:3",
+          "end_ref": "42003003",
+          "end_ref_usfm": "LUK 3:3"
+        },
+        {
+          "start_ref": "42003007",
+          "start_ref_usfm": "LUK 3:7",
+          "end_ref": "42003007",
+          "end_ref_usfm": "LUK 3:7"
+        },
+        {
+          "start_ref": "42003012",
+          "start_ref_usfm": "LUK 3:12",
+          "end_ref": "42003012",
+          "end_ref_usfm": "LUK 3:12"
+        },
+        {
+          "start_ref": "42003016",
+          "start_ref_usfm": "LUK 3:16",
+          "end_ref": "42003016",
+          "end_ref_usfm": "LUK 3:16"
+        },
+        {
+          "start_ref": "42003021",
+          "start_ref_usfm": "LUK 3:21",
+          "end_ref": "42003021",
+          "end_ref_usfm": "LUK 3:21"
+        },
+        {
+          "start_ref": "42007029",
+          "start_ref_usfm": "LUK 7:29",
+          "end_ref": "42007029",
+          "end_ref_usfm": "LUK 7:29"
+        },
+        {
+          "start_ref": "42007030",
+          "start_ref_usfm": "LUK 7:30",
+          "end_ref": "42007030",
+          "end_ref_usfm": "LUK 7:30"
+        },
+        {
+          "start_ref": "42012050",
+          "start_ref_usfm": "LUK 12:50",
+          "end_ref": "42012050",
+          "end_ref_usfm": "LUK 12:50"
+        },
+        {
+          "start_ref": "42020004",
+          "start_ref_usfm": "LUK 20:4",
+          "end_ref": "42020004",
+          "end_ref_usfm": "LUK 20:4"
+        },
+        {
+          "start_ref": "43001025",
+          "start_ref_usfm": "JHN 1:25",
+          "end_ref": "43001025",
+          "end_ref_usfm": "JHN 1:25"
+        },
+        {
+          "start_ref": "43001026",
+          "start_ref_usfm": "JHN 1:26",
+          "end_ref": "43001026",
+          "end_ref_usfm": "JHN 1:26"
+        },
+        {
+          "start_ref": "43001028",
+          "start_ref_usfm": "JHN 1:28",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "43001031",
+          "start_ref_usfm": "JHN 1:31",
+          "end_ref": "43001031",
+          "end_ref_usfm": "JHN 1:31"
+        },
+        {
+          "start_ref": "43001033",
+          "start_ref_usfm": "JHN 1:33",
+          "end_ref": "43001033",
+          "end_ref_usfm": "JHN 1:33"
+        },
+        {
+          "start_ref": "43003022",
+          "start_ref_usfm": "JHN 3:22",
+          "end_ref": "43003022",
+          "end_ref_usfm": "JHN 3:22"
+        },
+        {
+          "start_ref": "43003023",
+          "start_ref_usfm": "JHN 3:23",
+          "end_ref": "43003023",
+          "end_ref_usfm": "JHN 3:23"
+        },
+        {
+          "start_ref": "43003026",
+          "start_ref_usfm": "JHN 3:26",
+          "end_ref": "43003026",
+          "end_ref_usfm": "JHN 3:26"
+        },
+        {
+          "start_ref": "43004001",
+          "start_ref_usfm": "JHN 4:1",
+          "end_ref": "43004001",
+          "end_ref_usfm": "JHN 4:1"
+        },
+        {
+          "start_ref": "43004002",
+          "start_ref_usfm": "JHN 4:2",
+          "end_ref": "43004002",
+          "end_ref_usfm": "JHN 4:2"
+        },
+        {
+          "start_ref": "43010040",
+          "start_ref_usfm": "JHN 10:40",
+          "end_ref": "43010040",
+          "end_ref_usfm": "JHN 10:40"
+        },
+        {
+          "start_ref": "44001005",
+          "start_ref_usfm": "ACT 1:5",
+          "end_ref": "44001005",
+          "end_ref_usfm": "ACT 1:5"
+        },
+        {
+          "start_ref": "44001022",
+          "start_ref_usfm": "ACT 1:22",
+          "end_ref": "44001022",
+          "end_ref_usfm": "ACT 1:22"
+        },
+        {
+          "start_ref": "44002038",
+          "start_ref_usfm": "ACT 2:38",
+          "end_ref": "44002038",
+          "end_ref_usfm": "ACT 2:38"
+        },
+        {
+          "start_ref": "44002041",
+          "start_ref_usfm": "ACT 2:41",
+          "end_ref": "44002041",
+          "end_ref_usfm": "ACT 2:41"
+        },
+        {
+          "start_ref": "44008012",
+          "start_ref_usfm": "ACT 8:12",
+          "end_ref": "44008012",
+          "end_ref_usfm": "ACT 8:12"
+        },
+        {
+          "start_ref": "44008013",
+          "start_ref_usfm": "ACT 8:13",
+          "end_ref": "44008013",
+          "end_ref_usfm": "ACT 8:13"
+        },
+        {
+          "start_ref": "44008016",
+          "start_ref_usfm": "ACT 8:16",
+          "end_ref": "44008016",
+          "end_ref_usfm": "ACT 8:16"
+        },
+        {
+          "start_ref": "44008036",
+          "start_ref_usfm": "ACT 8:36",
+          "end_ref": "44008036",
+          "end_ref_usfm": "ACT 8:36"
+        },
+        {
+          "start_ref": "44008038",
+          "start_ref_usfm": "ACT 8:38",
+          "end_ref": "44008038",
+          "end_ref_usfm": "ACT 8:38"
+        },
+        {
+          "start_ref": "44009018",
+          "start_ref_usfm": "ACT 9:18",
+          "end_ref": "44009018",
+          "end_ref_usfm": "ACT 9:18"
+        },
+        {
+          "start_ref": "44010037",
+          "start_ref_usfm": "ACT 10:37",
+          "end_ref": "44010037",
+          "end_ref_usfm": "ACT 10:37"
+        },
+        {
+          "start_ref": "44010047",
+          "start_ref_usfm": "ACT 10:47",
+          "end_ref": "44010047",
+          "end_ref_usfm": "ACT 10:47"
+        },
+        {
+          "start_ref": "44010048",
+          "start_ref_usfm": "ACT 10:48",
+          "end_ref": "44010048",
+          "end_ref_usfm": "ACT 10:48"
+        },
+        {
+          "start_ref": "44011016",
+          "start_ref_usfm": "ACT 11:16",
+          "end_ref": "44011016",
+          "end_ref_usfm": "ACT 11:16"
+        },
+        {
+          "start_ref": "44013024",
+          "start_ref_usfm": "ACT 13:24",
+          "end_ref": "44013024",
+          "end_ref_usfm": "ACT 13:24"
+        },
+        {
+          "start_ref": "44016015",
+          "start_ref_usfm": "ACT 16:15",
+          "end_ref": "44016015",
+          "end_ref_usfm": "ACT 16:15"
+        },
+        {
+          "start_ref": "44016033",
+          "start_ref_usfm": "ACT 16:33",
+          "end_ref": "44016033",
+          "end_ref_usfm": "ACT 16:33"
+        },
+        {
+          "start_ref": "44018008",
+          "start_ref_usfm": "ACT 18:8",
+          "end_ref": "44018008",
+          "end_ref_usfm": "ACT 18:8"
+        },
+        {
+          "start_ref": "44018025",
+          "start_ref_usfm": "ACT 18:25",
+          "end_ref": "44018025",
+          "end_ref_usfm": "ACT 18:25"
+        },
+        {
+          "start_ref": "44019003",
+          "start_ref_usfm": "ACT 19:3",
+          "end_ref": "44019003",
+          "end_ref_usfm": "ACT 19:3"
+        },
+        {
+          "start_ref": "44019004",
+          "start_ref_usfm": "ACT 19:4",
+          "end_ref": "44019004",
+          "end_ref_usfm": "ACT 19:4"
+        },
+        {
+          "start_ref": "44019005",
+          "start_ref_usfm": "ACT 19:5",
+          "end_ref": "44019005",
+          "end_ref_usfm": "ACT 19:5"
+        },
+        {
+          "start_ref": "44022016",
+          "start_ref_usfm": "ACT 22:16",
+          "end_ref": "44022016",
+          "end_ref_usfm": "ACT 22:16"
+        },
+        {
+          "start_ref": "45006003",
+          "start_ref_usfm": "ROM 6:3",
+          "end_ref": "45006003",
+          "end_ref_usfm": "ROM 6:3"
+        },
+        {
+          "start_ref": "45006004",
+          "start_ref_usfm": "ROM 6:4",
+          "end_ref": "45006004",
+          "end_ref_usfm": "ROM 6:4"
+        },
+        {
+          "start_ref": "46001013",
+          "start_ref_usfm": "1CO 1:13",
+          "end_ref": "46001013",
+          "end_ref_usfm": "1CO 1:13"
+        },
+        {
+          "start_ref": "46001014",
+          "start_ref_usfm": "1CO 1:14",
+          "end_ref": "46001014",
+          "end_ref_usfm": "1CO 1:14"
+        },
+        {
+          "start_ref": "46001015",
+          "start_ref_usfm": "1CO 1:15",
+          "end_ref": "46001015",
+          "end_ref_usfm": "1CO 1:15"
+        },
+        {
+          "start_ref": "46001016",
+          "start_ref_usfm": "1CO 1:16",
+          "end_ref": "46001016",
+          "end_ref_usfm": "1CO 1:16"
+        },
+        {
+          "start_ref": "46001017",
+          "start_ref_usfm": "1CO 1:17",
+          "end_ref": "46001017",
+          "end_ref_usfm": "1CO 1:17"
+        },
+        {
+          "start_ref": "46010002",
+          "start_ref_usfm": "1CO 10:2",
+          "end_ref": "46010002",
+          "end_ref_usfm": "1CO 10:2"
+        },
+        {
+          "start_ref": "46012013",
+          "start_ref_usfm": "1CO 12:13",
+          "end_ref": "46012013",
+          "end_ref_usfm": "1CO 12:13"
+        },
+        {
+          "start_ref": "46015029",
+          "start_ref_usfm": "1CO 15:29",
+          "end_ref": "46015029",
+          "end_ref_usfm": "1CO 15:29"
+        },
+        {
+          "start_ref": "49004005",
+          "start_ref_usfm": "EPH 4:5",
+          "end_ref": "49004005",
+          "end_ref_usfm": "EPH 4:5"
+        },
+        {
+          "start_ref": "51002012",
+          "start_ref_usfm": "COL 2:12",
+          "end_ref": "51002012",
+          "end_ref_usfm": "COL 2:12"
+        },
+        {
+          "start_ref": "60003021",
+          "start_ref_usfm": "1PE 3:21",
+          "end_ref": "60003021",
+          "end_ref_usfm": "1PE 3:21"
+        },
+        {
+          "start_ref": "40028018",
+          "start_ref_usfm": "MAT 28:18",
+          "end_ref": "40028019",
+          "end_ref_usfm": "MAT 28:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 238045,
+          "label": "João Batista",
+          "language": "por"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 238300,
+          "label": "Arrepender",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

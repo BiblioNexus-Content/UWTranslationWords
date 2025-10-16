@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237563,
+    "reference_id": 25425,
+    "title": "Absalão",
+    "media_type": "Text",
+    "index_reference": "absalão",
+    "language": "por",
+    "content": "<h1>Absalão</h1><h2>Fatos:</h2><p>Absalão foi o terceiro filho do Rei Davi. Ele era conhecido por sua aparência atraente e temperamento impetuoso.</p><ul><li><p>Quando a irmã de Absalão, Tamar, foi estuprada pelo meio-irmão deles, Amnom, Absalão fez um plano para matar Amnom.</p></li><li><p>Após o assassinato de Amnom, Absalão fugiu para a região de Gesur (de onde sua mãe Maaca era) e ficou lá por três anos. Então o Rei Davi mandou chamá-lo de volta a Jerusalém, mas não permitiu que Absalão viesse à sua presença por dois anos.</p></li><li><p>Absalão virou algumas pessoas contra o Rei Davi e liderou uma revolta contra ele.</p></li><li><p>O exército de Davi lutou contra Absalão e o matou. Davi ficou muito triste quando isso aconteceu.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25775\" data-resourceType=\"UWTranslationWords\">Gesur</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25453\" data-resourceType=\"UWTranslationWords\">Amnom</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:1-1Chr3:3\">1 Crônicas 3.1–3</a></p></li><li><p><a href=\"https://ref.ly/1Kgs1:6\">1 Reis 1.6</a></p></li><li><p><a href=\"https://ref.ly/2Sam15:2\">2 Samuel 15.2</a></p></li><li><p><a href=\"https://ref.ly/2Sam17:1-2Sam17:4\">2 Samuel 17.1–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam18:18\">2 Samuel 18.18</a></p></li><li><p><a href=\"https://ref.ly/Ps3:1-Ps3:2\">Salmo 3.1–2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0053</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10015002",
+          "start_ref_usfm": "2SA 15:2",
+          "end_ref": "10015002",
+          "end_ref_usfm": "2SA 15:2"
+        },
+        {
+          "start_ref": "10018018",
+          "start_ref_usfm": "2SA 18:18",
+          "end_ref": "10018018",
+          "end_ref_usfm": "2SA 18:18"
+        },
+        {
+          "start_ref": "11001006",
+          "start_ref_usfm": "1KI 1:6",
+          "end_ref": "11001006",
+          "end_ref_usfm": "1KI 1:6"
+        },
+        {
+          "start_ref": "19003001",
+          "start_ref_usfm": "PSA 3:1",
+          "end_ref": "19003002",
+          "end_ref_usfm": "PSA 3:2"
+        },
+        {
+          "start_ref": "13003001",
+          "start_ref_usfm": "1CH 3:1",
+          "end_ref": "13003003",
+          "end_ref_usfm": "1CH 3:3"
+        },
+        {
+          "start_ref": "10017001",
+          "start_ref_usfm": "2SA 17:1",
+          "end_ref": "10017004",
+          "end_ref_usfm": "2SA 17:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25453,
+          "content_id": 237591,
+          "label": "Amnom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25775,
+          "content_id": 237908,
+          "label": "Gesur",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238385,
+    "reference_id": 26256,
+    "title": "Lança",
+    "media_type": "Text",
+    "index_reference": "lança",
+    "language": "por",
+    "content": "<h1>lança, lanceiros</h1><h2>Definição:</h2><p>Uma lança é uma arma com um longo cabo de madeira e uma lâmina de metal afiada em uma extremidade, que é lançada a longa distância.</p><ul><li><p>As lanças eram comumente usadas para guerra nos tempos bíblicos. Às vezes elas ainda são usadas em conflitos atuais entre certos grupos de pessoas.</p></li><li><p>Uma lança foi usada por um soldado romano para perfurar o lado de Jesus enquanto ele estava pendurado na cruz.</p></li><li><p>Às vezes, as pessoas usam lanças para pegar peixes ou outras presas para comer.</p></li><li><p>Uma arma semelhante é o “dardo”.</p></li><li><p>Certifique-se de que a tradução de “lança” seja diferente da tradução de “espada”, que é uma arma usada para perfurar ou cortar, não para lançar. Além disso, uma espada tem uma lâmina longa com um cabo, enquanto uma lança tem uma pequena lâmina na extremidade de um longo cabo.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">presa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26275\" data-resourceType=\"UWTranslationWords\">espada</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26340\" data-resourceType=\"UWTranslationWords\">guerreiro</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1 Samuel 13.19–21</a></p></li><li><p><a href=\"https://ref.ly/2Sam21:19\">2 Samuel 21.19</a></p></li><li><p><a href=\"https://ref.ly/Neh4:12-Neh4:14\">Neemias 4.12–14</a></p></li><li><p><a href=\"https://ref.ly/Ps35:3\">Salmo 35.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1265, H2595, H3591, H6767, H7013, H7420, G30570</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10021019",
+          "start_ref_usfm": "2SA 21:19",
+          "end_ref": "10021019",
+          "end_ref_usfm": "2SA 21:19"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "16004021",
+          "start_ref_usfm": "NEH 4:21",
+          "end_ref": "16004021",
+          "end_ref_usfm": "NEH 4:21"
+        },
+        {
+          "start_ref": "19035003",
+          "start_ref_usfm": "PSA 35:3",
+          "end_ref": "19035003",
+          "end_ref_usfm": "PSA 35:3"
+        },
+        {
+          "start_ref": "43019034",
+          "start_ref_usfm": "JHN 19:34",
+          "end_ref": "43019034",
+          "end_ref_usfm": "JHN 19:34"
+        },
+        {
+          "start_ref": "09013019",
+          "start_ref_usfm": "1SA 13:19",
+          "end_ref": "09013021",
+          "end_ref_usfm": "1SA 13:21"
+        },
+        {
+          "start_ref": "16004012",
+          "start_ref_usfm": "NEH 4:12",
+          "end_ref": "16004014",
+          "end_ref_usfm": "NEH 4:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26120,
+          "content_id": 238250,
+          "label": "Presa",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        },
+        {
+          "reference_id": 26275,
+          "content_id": 238404,
+          "label": "Espada",
+          "language": "por"
+        },
+        {
+          "reference_id": 26340,
+          "content_id": 238466,
+          "label": "Guerreiro",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

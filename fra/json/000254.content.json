@@ -1,0 +1,275 @@
+[
+  {
+    "content_id": 467410,
+    "reference_id": 26296,
+    "title": "Douze",
+    "media_type": "Text",
+    "index_reference": "douze",
+    "language": "fra",
+    "content": "<h1>Douze, Onze</h1><h2>Définition :</h2><p>&quot;Le terme « Douze » désigne les douze hommes que Jésus a choisis pour être ses disciples les plus proches, ou apôtres. Après le suicide de Judas, ils ont été appelés les « Onze ».</p><ul><li><p>Jésus avait beaucoup d&apos;autres disciples, mais le titre « les Douze » distinguait ceux qui le suivaient tout au long de son ministère de trois ans.</p></li><li><p>Les noms de ces douze disciples sont énumérés dans Matthieu 10, Marc 3, et Luc 6.</p></li><li><p>Quelques temps après le retour de Jésus au ciel, les « onze » ont choisi un disciple nommé Matthias pour prendre la place de Judas. Ensuite, ils ont été appelés de nouveau « les douze ».</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Pour de nombreuses langues, il peut être plus clair ou plus naturel d&apos;ajouter le nom disciples et de dire : « les douze apôtres » ou « douze disciples les plus proches de Jésus ».</p></li><li><p>« Les onze » pourrait aussi être traduit par les « onze disciples qui sont restés avec Jésus ».</p></li><li><p>Certaines traductions peuvent préférer utiliser une lettre majuscule pour indiquer qu&apos;il a été utilisé comme un titre, comme dans « les Douze » et « les Onze ».</p></li></ul><p>(Voir aussi : (../kt/apostle.md), (../kt/disciple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010001",
+          "start_ref_usfm": "MAT 10:1",
+          "end_ref": "40010001",
+          "end_ref_usfm": "MAT 10:1"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010002",
+          "end_ref_usfm": "MAT 10:2"
+        },
+        {
+          "start_ref": "40010005",
+          "start_ref_usfm": "MAT 10:5",
+          "end_ref": "40010005",
+          "end_ref_usfm": "MAT 10:5"
+        },
+        {
+          "start_ref": "40010007",
+          "start_ref_usfm": "MAT 10:7",
+          "end_ref": "40010007",
+          "end_ref_usfm": "MAT 10:7"
+        },
+        {
+          "start_ref": "40011001",
+          "start_ref_usfm": "MAT 11:1",
+          "end_ref": "40011001",
+          "end_ref_usfm": "MAT 11:1"
+        },
+        {
+          "start_ref": "40020017",
+          "start_ref_usfm": "MAT 20:17",
+          "end_ref": "40020017",
+          "end_ref_usfm": "MAT 20:17"
+        },
+        {
+          "start_ref": "40026014",
+          "start_ref_usfm": "MAT 26:14",
+          "end_ref": "40026014",
+          "end_ref_usfm": "MAT 26:14"
+        },
+        {
+          "start_ref": "40026020",
+          "start_ref_usfm": "MAT 26:20",
+          "end_ref": "40026020",
+          "end_ref_usfm": "MAT 26:20"
+        },
+        {
+          "start_ref": "40026047",
+          "start_ref_usfm": "MAT 26:47",
+          "end_ref": "40026047",
+          "end_ref_usfm": "MAT 26:47"
+        },
+        {
+          "start_ref": "40028016",
+          "start_ref_usfm": "MAT 28:16",
+          "end_ref": "40028016",
+          "end_ref_usfm": "MAT 28:16"
+        },
+        {
+          "start_ref": "41003014",
+          "start_ref_usfm": "MRK 3:14",
+          "end_ref": "41003014",
+          "end_ref_usfm": "MRK 3:14"
+        },
+        {
+          "start_ref": "41003016",
+          "start_ref_usfm": "MRK 3:16",
+          "end_ref": "41003016",
+          "end_ref_usfm": "MRK 3:16"
+        },
+        {
+          "start_ref": "41004010",
+          "start_ref_usfm": "MRK 4:10",
+          "end_ref": "41004010",
+          "end_ref_usfm": "MRK 4:10"
+        },
+        {
+          "start_ref": "41006007",
+          "start_ref_usfm": "MRK 6:7",
+          "end_ref": "41006007",
+          "end_ref_usfm": "MRK 6:7"
+        },
+        {
+          "start_ref": "41009035",
+          "start_ref_usfm": "MRK 9:35",
+          "end_ref": "41009035",
+          "end_ref_usfm": "MRK 9:35"
+        },
+        {
+          "start_ref": "41010032",
+          "start_ref_usfm": "MRK 10:32",
+          "end_ref": "41010032",
+          "end_ref_usfm": "MRK 10:32"
+        },
+        {
+          "start_ref": "41011011",
+          "start_ref_usfm": "MRK 11:11",
+          "end_ref": "41011011",
+          "end_ref_usfm": "MRK 11:11"
+        },
+        {
+          "start_ref": "41014010",
+          "start_ref_usfm": "MRK 14:10",
+          "end_ref": "41014010",
+          "end_ref_usfm": "MRK 14:10"
+        },
+        {
+          "start_ref": "41014017",
+          "start_ref_usfm": "MRK 14:17",
+          "end_ref": "41014017",
+          "end_ref_usfm": "MRK 14:17"
+        },
+        {
+          "start_ref": "41014020",
+          "start_ref_usfm": "MRK 14:20",
+          "end_ref": "41014020",
+          "end_ref_usfm": "MRK 14:20"
+        },
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014043",
+          "end_ref_usfm": "MRK 14:43"
+        },
+        {
+          "start_ref": "42006013",
+          "start_ref_usfm": "LUK 6:13",
+          "end_ref": "42006013",
+          "end_ref_usfm": "LUK 6:13"
+        },
+        {
+          "start_ref": "42008001",
+          "start_ref_usfm": "LUK 8:1",
+          "end_ref": "42008001",
+          "end_ref_usfm": "LUK 8:1"
+        },
+        {
+          "start_ref": "42009001",
+          "start_ref_usfm": "LUK 9:1",
+          "end_ref": "42009001",
+          "end_ref_usfm": "LUK 9:1"
+        },
+        {
+          "start_ref": "42009012",
+          "start_ref_usfm": "LUK 9:12",
+          "end_ref": "42009012",
+          "end_ref_usfm": "LUK 9:12"
+        },
+        {
+          "start_ref": "42018031",
+          "start_ref_usfm": "LUK 18:31",
+          "end_ref": "42018031",
+          "end_ref_usfm": "LUK 18:31"
+        },
+        {
+          "start_ref": "42022003",
+          "start_ref_usfm": "LUK 22:3",
+          "end_ref": "42022003",
+          "end_ref_usfm": "LUK 22:3"
+        },
+        {
+          "start_ref": "42022047",
+          "start_ref_usfm": "LUK 22:47",
+          "end_ref": "42022047",
+          "end_ref_usfm": "LUK 22:47"
+        },
+        {
+          "start_ref": "42024009",
+          "start_ref_usfm": "LUK 24:9",
+          "end_ref": "42024009",
+          "end_ref_usfm": "LUK 24:9"
+        },
+        {
+          "start_ref": "42024033",
+          "start_ref_usfm": "LUK 24:33",
+          "end_ref": "42024033",
+          "end_ref_usfm": "LUK 24:33"
+        },
+        {
+          "start_ref": "43006067",
+          "start_ref_usfm": "JHN 6:67",
+          "end_ref": "43006067",
+          "end_ref_usfm": "JHN 6:67"
+        },
+        {
+          "start_ref": "43006070",
+          "start_ref_usfm": "JHN 6:70",
+          "end_ref": "43006070",
+          "end_ref_usfm": "JHN 6:70"
+        },
+        {
+          "start_ref": "43006071",
+          "start_ref_usfm": "JHN 6:71",
+          "end_ref": "43006071",
+          "end_ref_usfm": "JHN 6:71"
+        },
+        {
+          "start_ref": "43020024",
+          "start_ref_usfm": "JHN 20:24",
+          "end_ref": "43020024",
+          "end_ref_usfm": "JHN 20:24"
+        },
+        {
+          "start_ref": "44001026",
+          "start_ref_usfm": "ACT 1:26",
+          "end_ref": "44001026",
+          "end_ref_usfm": "ACT 1:26"
+        },
+        {
+          "start_ref": "44002014",
+          "start_ref_usfm": "ACT 2:14",
+          "end_ref": "44002014",
+          "end_ref_usfm": "ACT 2:14"
+        },
+        {
+          "start_ref": "44006002",
+          "start_ref_usfm": "ACT 6:2",
+          "end_ref": "44006002",
+          "end_ref_usfm": "ACT 6:2"
+        },
+        {
+          "start_ref": "46015005",
+          "start_ref_usfm": "1CO 15:5",
+          "end_ref": "46015005",
+          "end_ref_usfm": "1CO 15:5"
+        },
+        {
+          "start_ref": "66021014",
+          "start_ref_usfm": "REV 21:14",
+          "end_ref": "66021014",
+          "end_ref_usfm": "REV 21:14"
+        },
+        {
+          "start_ref": "41010032",
+          "start_ref_usfm": "MRK 10:32",
+          "end_ref": "41010034",
+          "end_ref_usfm": "MRK 10:34"
+        },
+        {
+          "start_ref": "46015005",
+          "start_ref_usfm": "1CO 15:5",
+          "end_ref": "46015007",
+          "end_ref_usfm": "1CO 15:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25669,
+          "content_id": 466831,
+          "label": "Disciple",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

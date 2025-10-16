@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 180354,
+    "reference_id": 26301,
+    "title": "डेवढ़ी",
+    "media_type": "Text",
+    "index_reference": "डेवढ़ी",
+    "language": "hin",
+    "content": "<h1>डेवढ़ी, डेवढ़ियों</h1><h2>परिभाषा:</h2><p>&quot;डेवढी&quot; का सन्दर्भ द्वार के निचले भाग से है या “डेवढ़ी” भवन का वह भाग भी होता है जो प्रवेश द्वार के भीतर का भाग है।</p><ul><li><p>कभी-कभी डेवढ़ी लकड़ी या पत्थर की एक पट्टी होती है, जिस पर पाँव रख कर कमरे या भवन में प्रवेश किया जाता था।</p></li><li><p>फाटक और तम्बू के द्वार दोनों के लिए डेवढ़ी हो सकती है।</p></li><li><p>इस शब्द का अनुवाद लक्षित भाषा के उस शब्द में किया जाना चाहिए जो एक घर के प्रवेश द्वार पर स्थान को संदर्भित करता है जहाँ से एक व्यक्ति घर में प्रवेश करता है।</p></li><li><p>यदि “डेवढ़ी” लिए कोई शब्द नहीं है, तो इसका अनुवाद &quot;द्वार&quot; या &quot;खोलने&quot; या &quot;प्रवेश द्वार&quot; के रूप में भी किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25767\" data-resourceType=\"UWTranslationWords\">फाटक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26287\" data-resourceType=\"UWTranslationWords\">तम्बू</span>)</p><h2>बाइबल सन्दर्भ</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 09:17–19</a></p></li><li><p><a href=\"https://ref.ly/Ezek9:3\">यहेजकेल 09:03</a></p></li><li><p><a href=\"https://ref.ly/Isa6:4\">यशायाह 06:04</a></p></li><li><p><a href=\"https://ref.ly/Prov17:19\">नीतिवचन 17:19</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H624, H4670, H5592</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017019",
+          "start_ref_usfm": "PRO 17:19",
+          "end_ref": "20017019",
+          "end_ref_usfm": "PRO 17:19"
+        },
+        {
+          "start_ref": "23006004",
+          "start_ref_usfm": "ISA 6:4",
+          "end_ref": "23006004",
+          "end_ref_usfm": "ISA 6:4"
+        },
+        {
+          "start_ref": "26009003",
+          "start_ref_usfm": "EZK 9:3",
+          "end_ref": "26009003",
+          "end_ref_usfm": "EZK 9:3"
+        },
+        {
+          "start_ref": "13009017",
+          "start_ref_usfm": "1CH 9:17",
+          "end_ref": "13009019",
+          "end_ref_usfm": "1CH 9:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 179840,
+          "label": "फाटक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26287,
+          "content_id": 180340,
+          "label": "तम्बू",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

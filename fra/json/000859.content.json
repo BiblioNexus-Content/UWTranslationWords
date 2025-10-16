@@ -1,0 +1,239 @@
+[
+  {
+    "content_id": 467426,
+    "reference_id": 26313,
+    "title": "Trembler",
+    "media_type": "Text",
+    "index_reference": "trembler",
+    "language": "fra",
+    "content": "<h1>trembler</h1><h2>Définition :</h2><p>Le terme «trembler» signifie être secoué ou trembler de peur ou de détresse extrême.</p><ul><li><p>Cela est également utilisé au sens figuré pour signifier &quot;avoir très peur*&quot;</p></li><li><p>Parfois, le mot se réfère à un grand bruit provoquant le tremblement du sol.</p></li><li><p>La Bible dit que dans la présence du Seigneur la terre tremblera* Cela pourrait signifier que les gens de la terre seront secoués à cause de la peur de Dieu, ou que la terre elle-même va etre secouée.</p></li><li><p>Ce terme pourrait être traduit par «avoir peur» ou «craindre Dieu» ou «être secoué de peur», selon le contexte.</p></li></ul><p>(Voir aussi : (../other/earth.md), (../kt/fear.md), (../kt/lord.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004012",
+          "start_ref_usfm": "GEN 4:12",
+          "end_ref": "01004012",
+          "end_ref_usfm": "GEN 4:12"
+        },
+        {
+          "start_ref": "01004014",
+          "start_ref_usfm": "GEN 4:14",
+          "end_ref": "01004014",
+          "end_ref_usfm": "GEN 4:14"
+        },
+        {
+          "start_ref": "01027033",
+          "start_ref_usfm": "GEN 27:33",
+          "end_ref": "01027033",
+          "end_ref_usfm": "GEN 27:33"
+        },
+        {
+          "start_ref": "01042028",
+          "start_ref_usfm": "GEN 42:28",
+          "end_ref": "01042028",
+          "end_ref_usfm": "GEN 42:28"
+        },
+        {
+          "start_ref": "01045024",
+          "start_ref_usfm": "GEN 45:24",
+          "end_ref": "01045024",
+          "end_ref_usfm": "GEN 45:24"
+        },
+        {
+          "start_ref": "02015014",
+          "start_ref_usfm": "EXO 15:14",
+          "end_ref": "02015014",
+          "end_ref_usfm": "EXO 15:14"
+        },
+        {
+          "start_ref": "02015015",
+          "start_ref_usfm": "EXO 15:15",
+          "end_ref": "02015015",
+          "end_ref_usfm": "EXO 15:15"
+        },
+        {
+          "start_ref": "02019016",
+          "start_ref_usfm": "EXO 19:16",
+          "end_ref": "02019016",
+          "end_ref_usfm": "EXO 19:16"
+        },
+        {
+          "start_ref": "02020018",
+          "start_ref_usfm": "EXO 20:18",
+          "end_ref": "02020018",
+          "end_ref_usfm": "EXO 20:18"
+        },
+        {
+          "start_ref": "15009004",
+          "start_ref_usfm": "EZR 9:4",
+          "end_ref": "15009004",
+          "end_ref_usfm": "EZR 9:4"
+        },
+        {
+          "start_ref": "15010003",
+          "start_ref_usfm": "EZR 10:3",
+          "end_ref": "15010003",
+          "end_ref_usfm": "EZR 10:3"
+        },
+        {
+          "start_ref": "15010009",
+          "start_ref_usfm": "EZR 10:9",
+          "end_ref": "15010009",
+          "end_ref_usfm": "EZR 10:9"
+        },
+        {
+          "start_ref": "20028014",
+          "start_ref_usfm": "PRO 28:14",
+          "end_ref": "20028014",
+          "end_ref_usfm": "PRO 28:14"
+        },
+        {
+          "start_ref": "20029009",
+          "start_ref_usfm": "PRO 29:9",
+          "end_ref": "20029009",
+          "end_ref_usfm": "PRO 29:9"
+        },
+        {
+          "start_ref": "20030021",
+          "start_ref_usfm": "PRO 30:21",
+          "end_ref": "20030021",
+          "end_ref_usfm": "PRO 30:21"
+        },
+        {
+          "start_ref": "24005022",
+          "start_ref_usfm": "JER 5:22",
+          "end_ref": "24005022",
+          "end_ref_usfm": "JER 5:22"
+        },
+        {
+          "start_ref": "37002006",
+          "start_ref_usfm": "HAG 2:6",
+          "end_ref": "37002006",
+          "end_ref_usfm": "HAG 2:6"
+        },
+        {
+          "start_ref": "37002021",
+          "start_ref_usfm": "HAG 2:21",
+          "end_ref": "37002021",
+          "end_ref_usfm": "HAG 2:21"
+        },
+        {
+          "start_ref": "40027051",
+          "start_ref_usfm": "MAT 27:51",
+          "end_ref": "40027051",
+          "end_ref_usfm": "MAT 27:51"
+        },
+        {
+          "start_ref": "40028004",
+          "start_ref_usfm": "MAT 28:4",
+          "end_ref": "40028004",
+          "end_ref_usfm": "MAT 28:4"
+        },
+        {
+          "start_ref": "41005033",
+          "start_ref_usfm": "MRK 5:33",
+          "end_ref": "41005033",
+          "end_ref_usfm": "MRK 5:33"
+        },
+        {
+          "start_ref": "41016008",
+          "start_ref_usfm": "MRK 16:8",
+          "end_ref": "41016008",
+          "end_ref_usfm": "MRK 16:8"
+        },
+        {
+          "start_ref": "42008047",
+          "start_ref_usfm": "LUK 8:47",
+          "end_ref": "42008047",
+          "end_ref_usfm": "LUK 8:47"
+        },
+        {
+          "start_ref": "44007032",
+          "start_ref_usfm": "ACT 7:32",
+          "end_ref": "44007032",
+          "end_ref_usfm": "ACT 7:32"
+        },
+        {
+          "start_ref": "44016029",
+          "start_ref_usfm": "ACT 16:29",
+          "end_ref": "44016029",
+          "end_ref_usfm": "ACT 16:29"
+        },
+        {
+          "start_ref": "46002003",
+          "start_ref_usfm": "1CO 2:3",
+          "end_ref": "46002003",
+          "end_ref_usfm": "1CO 2:3"
+        },
+        {
+          "start_ref": "47007015",
+          "start_ref_usfm": "2CO 7:15",
+          "end_ref": "47007015",
+          "end_ref_usfm": "2CO 7:15"
+        },
+        {
+          "start_ref": "49006005",
+          "start_ref_usfm": "EPH 6:5",
+          "end_ref": "49006005",
+          "end_ref_usfm": "EPH 6:5"
+        },
+        {
+          "start_ref": "50002012",
+          "start_ref_usfm": "PHP 2:12",
+          "end_ref": "50002012",
+          "end_ref_usfm": "PHP 2:12"
+        },
+        {
+          "start_ref": "58012021",
+          "start_ref_usfm": "HEB 12:21",
+          "end_ref": "58012021",
+          "end_ref_usfm": "HEB 12:21"
+        },
+        {
+          "start_ref": "59002019",
+          "start_ref_usfm": "JAS 2:19",
+          "end_ref": "59002019",
+          "end_ref_usfm": "JAS 2:19"
+        },
+        {
+          "start_ref": "61002010",
+          "start_ref_usfm": "2PE 2:10",
+          "end_ref": "61002010",
+          "end_ref_usfm": "2PE 2:10"
+        },
+        {
+          "start_ref": "10022044",
+          "start_ref_usfm": "2SA 22:44",
+          "end_ref": "10022046",
+          "end_ref_usfm": "2SA 22:46"
+        },
+        {
+          "start_ref": "44016029",
+          "start_ref_usfm": "ACT 16:29",
+          "end_ref": "44016031",
+          "end_ref_usfm": "ACT 16:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25687,
+          "content_id": 466847,
+          "label": "Terre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25735,
+          "content_id": 466889,
+          "label": "Peur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 467113,
+          "label": "Seigneur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 238493,
+    "reference_id": 26367,
+    "title": "Zebedeu",
+    "media_type": "Text",
+    "index_reference": "zebedeu",
+    "language": "por",
+    "content": "<h1>Zebedeu</h1><h2>Fatos:</h2><p>Zebedeu era um pescador da Galileia conhecido por causa de seus filhos, Tiago e João, que eram discípulos de Jesus. Eles são frequentemente identificados no Novo Testamento como os “filhos de Zebedeu”.</p><ul><li><p>Os filhos de Zebedeu também eram pescadores e trabalhavam com ele para pegar peixes.</p></li><li><p>Tiago e João deixaram seu trabalho de pesca com seu pai Zebedeu e foram seguir Jesus.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25669\" data-resourceType=\"UWTranslationWords\">discípulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25744\" data-resourceType=\"UWTranslationWords\">pescadores</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25884\" data-resourceType=\"UWTranslationWords\">Tiago (filho de Zebedeu)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25911\" data-resourceType=\"UWTranslationWords\">João (o apóstolo)</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/John21:1-John21:3\">João 21.1–3</a></p></li><li><p><a href=\"https://ref.ly/Luke5:8-Luke5:11\">Lucas 5.8–11</a></p></li><li><p><a href=\"https://ref.ly/Mark1:19-Mark1:20\">Marcos 1.19–20</a></p></li><li><p><a href=\"https://ref.ly/Matt4:21-Matt4:22\">Mateus 4.21–22</a></p></li><li><p><a href=\"https://ref.ly/Matt20:20\">Mateus 20.20</a></p></li><li><p><a href=\"https://ref.ly/Matt26:36-Matt26:38\">Mateus 26.36–38</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G21990</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40004021",
+          "start_ref_usfm": "MAT 4:21",
+          "end_ref": "40004021",
+          "end_ref_usfm": "MAT 4:21"
+        },
+        {
+          "start_ref": "40010002",
+          "start_ref_usfm": "MAT 10:2",
+          "end_ref": "40010002",
+          "end_ref_usfm": "MAT 10:2"
+        },
+        {
+          "start_ref": "40020020",
+          "start_ref_usfm": "MAT 20:20",
+          "end_ref": "40020020",
+          "end_ref_usfm": "MAT 20:20"
+        },
+        {
+          "start_ref": "40026037",
+          "start_ref_usfm": "MAT 26:37",
+          "end_ref": "40026037",
+          "end_ref_usfm": "MAT 26:37"
+        },
+        {
+          "start_ref": "40027056",
+          "start_ref_usfm": "MAT 27:56",
+          "end_ref": "40027056",
+          "end_ref_usfm": "MAT 27:56"
+        },
+        {
+          "start_ref": "41001019",
+          "start_ref_usfm": "MRK 1:19",
+          "end_ref": "41001019",
+          "end_ref_usfm": "MRK 1:19"
+        },
+        {
+          "start_ref": "41001020",
+          "start_ref_usfm": "MRK 1:20",
+          "end_ref": "41001020",
+          "end_ref_usfm": "MRK 1:20"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003017",
+          "end_ref_usfm": "MRK 3:17"
+        },
+        {
+          "start_ref": "41010035",
+          "start_ref_usfm": "MRK 10:35",
+          "end_ref": "41010035",
+          "end_ref_usfm": "MRK 10:35"
+        },
+        {
+          "start_ref": "42005010",
+          "start_ref_usfm": "LUK 5:10",
+          "end_ref": "42005010",
+          "end_ref_usfm": "LUK 5:10"
+        },
+        {
+          "start_ref": "43021002",
+          "start_ref_usfm": "JHN 21:2",
+          "end_ref": "43021002",
+          "end_ref_usfm": "JHN 21:2"
+        },
+        {
+          "start_ref": "41001019",
+          "start_ref_usfm": "MRK 1:19",
+          "end_ref": "41001020",
+          "end_ref_usfm": "MRK 1:20"
+        },
+        {
+          "start_ref": "40004021",
+          "start_ref_usfm": "MAT 4:21",
+          "end_ref": "40004022",
+          "end_ref_usfm": "MAT 4:22"
+        },
+        {
+          "start_ref": "40026036",
+          "start_ref_usfm": "MAT 26:36",
+          "end_ref": "40026038",
+          "end_ref_usfm": "MAT 26:38"
+        },
+        {
+          "start_ref": "43021001",
+          "start_ref_usfm": "JHN 21:1",
+          "end_ref": "43021003",
+          "end_ref_usfm": "JHN 21:3"
+        },
+        {
+          "start_ref": "42005008",
+          "start_ref_usfm": "LUK 5:8",
+          "end_ref": "42005011",
+          "end_ref_usfm": "LUK 5:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25669,
+          "content_id": 237802,
+          "label": "Discípulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25744,
+          "content_id": 237877,
+          "label": "Pescador",
+          "language": "por"
+        },
+        {
+          "reference_id": 25884,
+          "content_id": 238017,
+          "label": "Tiago, filho de Zebedeu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25911,
+          "content_id": 238044,
+          "label": "João, o Apóstolo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238357,
+    "reference_id": 26228,
+    "title": "Siló",
+    "media_type": "Text",
+    "index_reference": "siló",
+    "language": "por",
+    "content": "<h1>Siló</h1><h2>Fatos:</h2><p>Siló era uma cidade cananeia murada que foi conquistada pelos israelitas sob a liderança de Josué.</p><ul><li><p>A cidade de Siló estava localizada a oeste do Rio Jordão e a nordeste da cidade de Betel.</p></li><li><p>Durante o tempo em que Josué liderava Israel, a cidade de Siló era um ponto de encontro para o povo de Israel.</p></li><li><p>As doze tribos de Israel se reuniram em Siló para ouvir Josué dizer-lhes qual porção da terra de Canaã havia sido atribuída a cada uma delas.</p></li><li><p>Antes de qualquer templo ser construído em Jerusalém, Siló era o lugar onde os israelitas vinham para sacrificar a Deus.</p></li><li><p>Quando Samuel era um menino, sua mãe Ana o levou para viver em Siló para ser treinado pelo sacerdote Eli para servir a Javé.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25529\" data-resourceType=\"UWTranslationWords\">Betel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25651\" data-resourceType=\"UWTranslationWords\">dedicar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25818\" data-resourceType=\"UWTranslationWords\">Ana</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Rio Jordão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26194\" data-resourceType=\"UWTranslationWords\">Samuel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">templo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs2:26-1Kgs2:27\">1 Reis 2.26–27</a></p></li><li><p><a href=\"https://ref.ly/1Sam1:9-1Sam1:10\">1 Samuel 1.9–10</a></p></li><li><p><a href=\"https://ref.ly/Josh18:1-Josh18:2\">Josué 18.1–2</a></p></li><li><p><a href=\"https://ref.ly/Judg18:30-Judg18:31\">Juízes 18.30–31</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7886, H7887</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "11002026",
+          "start_ref_usfm": "1KI 2:26",
+          "end_ref": "11002027",
+          "end_ref_usfm": "1KI 2:27"
+        },
+        {
+          "start_ref": "07018030",
+          "start_ref_usfm": "JDG 18:30",
+          "end_ref": "07018031",
+          "end_ref_usfm": "JDG 18:31"
+        },
+        {
+          "start_ref": "09001009",
+          "start_ref_usfm": "1SA 1:9",
+          "end_ref": "09001010",
+          "end_ref_usfm": "1SA 1:10"
+        },
+        {
+          "start_ref": "06018001",
+          "start_ref_usfm": "JOS 18:1",
+          "end_ref": "06018002",
+          "end_ref_usfm": "JOS 18:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25529,
+          "content_id": 237665,
+          "label": "Betel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25651,
+          "content_id": 237784,
+          "label": "Dedicar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25818,
+          "content_id": 237951,
+          "label": "Ana",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 238050,
+          "label": "Rio Jordão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 238323,
+          "label": "Samuel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 238413,
+          "label": "Templo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

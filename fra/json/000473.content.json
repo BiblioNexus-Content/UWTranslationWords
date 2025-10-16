@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467077,
+    "reference_id": 25933,
+    "title": "Kadesh",
+    "media_type": "Text",
+    "index_reference": "kadesh",
+    "language": "fra",
+    "content": "<h1>Kadesh</h1><h2>Définition :</h2><p>&quot;Kadesh ou Kadesh-Barnéa était le nom d&apos;une ville importante dans l&apos;histoire d&apos;Israël située dans ce qui est maintenant le pays de la Syrie.</p><ul><li><p>Kadesh était une oasis au milieu du désert de Tsin.</p></li><li><p>Abraham a voyagé à travers Kadesh.</p></li><li><p>Israël campa à Kadesh au cours de l&apos;errance dans le désert.</p></li><li><p>L&apos;entrée dans la terre promise à Kadesh a été refusée à Moïse à cause de la désobéissance aux instructions de Dieu concernant la manière d&apos;obtenir l&apos;eau d&apos;un rocher.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/desert.md), (../names/edom.md), (../kt/holy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016014",
+          "start_ref_usfm": "GEN 16:14",
+          "end_ref": "01016014",
+          "end_ref_usfm": "GEN 16:14"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020001",
+          "end_ref_usfm": "GEN 20:1"
+        },
+        {
+          "start_ref": "04020001",
+          "start_ref_usfm": "NUM 20:1",
+          "end_ref": "04020001",
+          "end_ref_usfm": "NUM 20:1"
+        },
+        {
+          "start_ref": "26048028",
+          "start_ref_usfm": "EZK 48:28",
+          "end_ref": "26048028",
+          "end_ref_usfm": "EZK 48:28"
+        },
+        {
+          "start_ref": "06010040",
+          "start_ref_usfm": "JOS 10:40",
+          "end_ref": "06010041",
+          "end_ref_usfm": "JOS 10:41"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020003",
+          "end_ref_usfm": "GEN 20:3"
+        },
+        {
+          "start_ref": "01014007",
+          "start_ref_usfm": "GEN 14:7",
+          "end_ref": "01014009",
+          "end_ref_usfm": "GEN 14:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25689,
+          "content_id": 466849,
+          "label": "Edom ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

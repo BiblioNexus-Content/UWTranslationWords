@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179930,
+    "reference_id": 25862,
+    "title": "इकुनियुम",
+    "media_type": "Text",
+    "index_reference": "इकुनियुम",
+    "language": "hin",
+    "content": "<h1>इकुनियुम</h1><h2>तथ्य:</h2><p>इकुनियुम आज के तुर्किस्तान के दक्षिणी मध्य भाग में एक नगर था।</p><ul><li><p>पौलुस पहली प्रचार यात्रा में बरनबास के साथ इकुनियुम नगर गया था क्योंकि यहूदियों ने अन्ताकिया में उसका विरोध किया था।</p></li><li><p>इकुनियुम में भी विश्वास नहीं करने वाले यहूदियों और अन्यजातियों ने पौलुस और उसके साथियों को पत्थरवाह करने की योजना बनाई थी परन्तु पौलुस पास के नगर लुस्त्रा चला गया था</p></li><li><p>उसके बाद अन्ताकिया और इकुनियुम से अनेक पुरुषों ने आकर लुस्त्रा में भी लोगों को पौलुस पर पत्थरवाह करने के लिए भड़काया।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">बरनबास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25984\" data-resourceType=\"UWTranslationWords\">लुस्त्रा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26262\" data-resourceType=\"UWTranslationWords\">पत्थर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमुथियुस 3:10–13</a></p></li><li><p><a href=\"https://ref.ly/Acts14:1\">प्रे.का. 14:1</a></p></li><li><p><a href=\"https://ref.ly/Acts14:19-Acts14:20\">प्रे.का. 14:19–20</a></p></li><li><p><a href=\"https://ref.ly/Acts16:1-Acts16:3\">प्रे.का. 16:1–3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44013051",
+          "start_ref_usfm": "ACT 13:51",
+          "end_ref": "44013051",
+          "end_ref_usfm": "ACT 13:51"
+        },
+        {
+          "start_ref": "44014001",
+          "start_ref_usfm": "ACT 14:1",
+          "end_ref": "44014001",
+          "end_ref_usfm": "ACT 14:1"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44016002",
+          "start_ref_usfm": "ACT 16:2",
+          "end_ref": "44016002",
+          "end_ref_usfm": "ACT 16:2"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016003",
+          "end_ref_usfm": "ACT 16:3"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014020",
+          "end_ref_usfm": "ACT 14:20"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 179594,
+          "label": "बरनबास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25984,
+          "content_id": 180049,
+          "label": "लुस्त्रा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26262,
+          "content_id": 180316,
+          "label": "पत्थर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

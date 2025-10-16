@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466996,
+    "reference_id": 25849,
+    "title": "Horreur",
+    "media_type": "Text",
+    "index_reference": "horreur",
+    "language": "fra",
+    "content": "<h1>Horreur, Horrifié</h1><h2>Définition :</h2><p>&quot;Le terme &apos;&apos;Horreur&quot; se refère à une sensation forte de peur ou de terreur* La personne qui se sent en horreur est dite être &quot; horrifiée&quot;.</p><ul><li><p>l&apos;horreur est plus dramatique et intense qu&apos;une peur ordinaire.</p></li><li><p>Habituellement quand une personne est térrifiée elle est aussi sous le choc ou étourdie.</p></li></ul><p>(Voir aussi : (../kt/fear.md), (../other/terror.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05028037",
+          "start_ref_usfm": "DEU 28:37",
+          "end_ref": "05028037",
+          "end_ref_usfm": "DEU 28:37"
+        },
+        {
+          "start_ref": "19055005",
+          "start_ref_usfm": "PSA 55:5",
+          "end_ref": "19055005",
+          "end_ref_usfm": "PSA 55:5"
+        },
+        {
+          "start_ref": "26023033",
+          "start_ref_usfm": "EZK 23:33",
+          "end_ref": "26023033",
+          "end_ref_usfm": "EZK 23:33"
+        },
+        {
+          "start_ref": "24002012",
+          "start_ref_usfm": "JER 2:12",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        },
+        {
+          "start_ref": "18021004",
+          "start_ref_usfm": "JOB 21:4",
+          "end_ref": "18021006",
+          "end_ref_usfm": "JOB 21:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 466889,
+          "label": "Peur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26291,
+          "content_id": 467405,
+          "label": "Terreur",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

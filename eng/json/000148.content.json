@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 26421,
+    "reference_id": 25563,
+    "title": "Caesarea",
+    "media_type": "Text",
+    "index_reference": "caesarea",
+    "language": "eng",
+    "content": "<h1>Caesarea, Caesarea Philippi</h1><h2>Facts:</h2><p>Caesarea was an important city on the coast of the Mediterranean Sea, about 39 km south of Mount Carmel. Caesarea Philippi was a city located in the northeastern part of Israel, near Mount Hermon.</p><ul><li><p>These cities were named for the Caesars who ruled the Roman empire.</p></li><li><p>The coastal Caesarea became the capital city of the Roman province of Judea around the time of the birth of Jesus.</p></li><li><p>The apostle Peter first preached to the Gentiles in Caesarea.</p></li><li><p>Paul sailed from Caesarea to Tarsus and also passed through this city on two of his missionary journeys.</p></li><li><p>Jesus and his disciples traveled in the region surrounding Caesarea Philippi in Syria. Both cities were named after Herod Philip.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25562\" data-resourceType=\"UWTranslationWords\">Caesar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">Gentile</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">the sea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25575\" data-resourceType=\"UWTranslationWords\">Carmel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26033\" data-resourceType=\"UWTranslationWords\">Mount Hermon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26281\" data-resourceType=\"UWTranslationWords\">Tarsus</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts9:30\">Acts 9:30</a></p></li><li><p><a href=\"https://ref.ly/Acts10:1-Acts10:2\">Acts 10:1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts25:1\">Acts 25:1</a></p></li><li><p><a href=\"https://ref.ly/Acts25:14\">Acts 25:14</a></p></li><li><p><a href=\"https://ref.ly/Mark8:27\">Mark 8:27</a></p></li><li><p><a href=\"https://ref.ly/Matt16:13-Matt16:16\">Matthew 16:13–16</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G25420, G53760</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016013",
+          "end_ref_usfm": "MAT 16:13"
+        },
+        {
+          "start_ref": "41008027",
+          "start_ref_usfm": "MRK 8:27",
+          "end_ref": "41008027",
+          "end_ref_usfm": "MRK 8:27"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44009030",
+          "start_ref_usfm": "ACT 9:30",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010001",
+          "end_ref_usfm": "ACT 10:1"
+        },
+        {
+          "start_ref": "44010024",
+          "start_ref_usfm": "ACT 10:24",
+          "end_ref": "44010024",
+          "end_ref_usfm": "ACT 10:24"
+        },
+        {
+          "start_ref": "44011011",
+          "start_ref_usfm": "ACT 11:11",
+          "end_ref": "44011011",
+          "end_ref_usfm": "ACT 11:11"
+        },
+        {
+          "start_ref": "44012019",
+          "start_ref_usfm": "ACT 12:19",
+          "end_ref": "44012019",
+          "end_ref_usfm": "ACT 12:19"
+        },
+        {
+          "start_ref": "44018022",
+          "start_ref_usfm": "ACT 18:22",
+          "end_ref": "44018022",
+          "end_ref_usfm": "ACT 18:22"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "44023033",
+          "start_ref_usfm": "ACT 23:33",
+          "end_ref": "44023033",
+          "end_ref_usfm": "ACT 23:33"
+        },
+        {
+          "start_ref": "44025001",
+          "start_ref_usfm": "ACT 25:1",
+          "end_ref": "44025001",
+          "end_ref_usfm": "ACT 25:1"
+        },
+        {
+          "start_ref": "44025004",
+          "start_ref_usfm": "ACT 25:4",
+          "end_ref": "44025004",
+          "end_ref_usfm": "ACT 25:4"
+        },
+        {
+          "start_ref": "44025006",
+          "start_ref_usfm": "ACT 25:6",
+          "end_ref": "44025006",
+          "end_ref_usfm": "ACT 25:6"
+        },
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44025013",
+          "end_ref_usfm": "ACT 25:13"
+        },
+        {
+          "start_ref": "44025014",
+          "start_ref_usfm": "ACT 25:14",
+          "end_ref": "44025014",
+          "end_ref_usfm": "ACT 25:14"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016016",
+          "end_ref_usfm": "MAT 16:16"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010002",
+          "end_ref_usfm": "ACT 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25562,
+          "content_id": 26420,
+          "label": "Caesar",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25575,
+          "content_id": 26433,
+          "label": "Carmel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 26631,
+          "label": "Gentile",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 26864,
+          "label": "Mediterranean",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26033,
+          "content_id": 26891,
+          "label": "Mount Hermon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26281,
+          "content_id": 27139,
+          "label": "Tarsus",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

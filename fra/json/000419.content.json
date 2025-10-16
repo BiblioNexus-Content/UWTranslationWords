@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 466844,
+    "reference_id": 25684,
+    "title": "Ivre",
+    "media_type": "Text",
+    "index_reference": "ivre",
+    "language": "fra",
+    "content": "<h1>ivre , ivrogne</h1><h2>Définition :</h2><p>Le terme &quot;ivre&quot;veut dire être intoxiqué en buvant beaucoup de boisson alcoolisée.</p><ul><li><p>Un &quot;ivrogne&quot; est une personne qui est souvent ivre*Ce genre de personne pourrait être qualifiée d&apos;&quot; alcoolique&quot;.</p></li><li><p>La Bible dit aux croyants de ne pas être ivres des boissons alcoolisées mais d&apos;être contrôlés par l&apos;esprit saint de Dieu.</p></li><li><p>La Bible enseigne que l&apos;ivresse est imprudent et influence une personne à commettre des péchés.</p></li><li><p>Autres manières de traduire le mot&quot;ivre&quot;: &quot;sâoul&quot;ou&quot;avoir bu trop d&apos;alcool&quot;ou&quot;rempli d&apos;une boisson fermentée&quot;</p></li></ul><p>(Voir aussi : (../other/wine.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009021",
+          "start_ref_usfm": "GEN 9:21",
+          "end_ref": "01009021",
+          "end_ref_usfm": "GEN 9:21"
+        },
+        {
+          "start_ref": "01043034",
+          "start_ref_usfm": "GEN 43:34",
+          "end_ref": "01043034",
+          "end_ref_usfm": "GEN 43:34"
+        },
+        {
+          "start_ref": "09025036",
+          "start_ref_usfm": "1SA 25:36",
+          "end_ref": "09025036",
+          "end_ref_usfm": "1SA 25:36"
+        },
+        {
+          "start_ref": "20026009",
+          "start_ref_usfm": "PRO 26:9",
+          "end_ref": "20026009",
+          "end_ref_usfm": "PRO 26:9"
+        },
+        {
+          "start_ref": "24013013",
+          "start_ref_usfm": "JER 13:13",
+          "end_ref": "24013013",
+          "end_ref_usfm": "JER 13:13"
+        },
+        {
+          "start_ref": "40011019",
+          "start_ref_usfm": "MAT 11:19",
+          "end_ref": "40011019",
+          "end_ref_usfm": "MAT 11:19"
+        },
+        {
+          "start_ref": "40024049",
+          "start_ref_usfm": "MAT 24:49",
+          "end_ref": "40024049",
+          "end_ref_usfm": "MAT 24:49"
+        },
+        {
+          "start_ref": "42007034",
+          "start_ref_usfm": "LUK 7:34",
+          "end_ref": "42007034",
+          "end_ref_usfm": "LUK 7:34"
+        },
+        {
+          "start_ref": "42012045",
+          "start_ref_usfm": "LUK 12:45",
+          "end_ref": "42012045",
+          "end_ref_usfm": "LUK 12:45"
+        },
+        {
+          "start_ref": "42021034",
+          "start_ref_usfm": "LUK 21:34",
+          "end_ref": "42021034",
+          "end_ref_usfm": "LUK 21:34"
+        },
+        {
+          "start_ref": "43002010",
+          "start_ref_usfm": "JHN 2:10",
+          "end_ref": "43002010",
+          "end_ref_usfm": "JHN 2:10"
+        },
+        {
+          "start_ref": "44002015",
+          "start_ref_usfm": "ACT 2:15",
+          "end_ref": "44002015",
+          "end_ref_usfm": "ACT 2:15"
+        },
+        {
+          "start_ref": "45013013",
+          "start_ref_usfm": "ROM 13:13",
+          "end_ref": "45013013",
+          "end_ref_usfm": "ROM 13:13"
+        },
+        {
+          "start_ref": "46005011",
+          "start_ref_usfm": "1CO 5:11",
+          "end_ref": "46005011",
+          "end_ref_usfm": "1CO 5:11"
+        },
+        {
+          "start_ref": "46006010",
+          "start_ref_usfm": "1CO 6:10",
+          "end_ref": "46006010",
+          "end_ref_usfm": "1CO 6:10"
+        },
+        {
+          "start_ref": "46011021",
+          "start_ref_usfm": "1CO 11:21",
+          "end_ref": "46011021",
+          "end_ref_usfm": "1CO 11:21"
+        },
+        {
+          "start_ref": "49005018",
+          "start_ref_usfm": "EPH 5:18",
+          "end_ref": "49005018",
+          "end_ref_usfm": "EPH 5:18"
+        },
+        {
+          "start_ref": "52005007",
+          "start_ref_usfm": "1TH 5:7",
+          "end_ref": "52005007",
+          "end_ref_usfm": "1TH 5:7"
+        },
+        {
+          "start_ref": "60004003",
+          "start_ref_usfm": "1PE 4:3",
+          "end_ref": "60004003",
+          "end_ref_usfm": "1PE 4:3"
+        },
+        {
+          "start_ref": "66017002",
+          "start_ref_usfm": "REV 17:2",
+          "end_ref": "66017002",
+          "end_ref_usfm": "REV 17:2"
+        },
+        {
+          "start_ref": "66017006",
+          "start_ref_usfm": "REV 17:6",
+          "end_ref": "66017006",
+          "end_ref_usfm": "REV 17:6"
+        },
+        {
+          "start_ref": "20023019",
+          "start_ref_usfm": "PRO 23:19",
+          "end_ref": "20023021",
+          "end_ref_usfm": "PRO 23:21"
+        },
+        {
+          "start_ref": "46005011",
+          "start_ref_usfm": "1CO 5:11",
+          "end_ref": "46005013",
+          "end_ref_usfm": "1CO 5:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26347,
+          "content_id": 467455,
+          "label": "Vin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

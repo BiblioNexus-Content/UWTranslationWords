@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 466644,
+    "reference_id": 25464,
+    "title": "Antioche",
+    "media_type": "Text",
+    "index_reference": "antioche",
+    "language": "fra",
+    "content": "<h1>Antioche</h1><h2>Définition :</h2><p>Antioche était le nom de deux villes dans le Nouveau Testament* L&apos;une était en Syrie, près de la côte de la Méditéranée* L&apos;autre était en Pisidie près de la ville de Colosses.</p><ul><li><p>L&apos;église locale à Antioche en Syrie était là où ceux qui crurent en Jésus furent appelés &quot;Chrétiens&quot; pour la première fois* L&apos;église était aussi active en envoyant des missionnaires vers les païens.</p></li><li><p>Paul, Barnabas et Jean Marc voyagèrent à Antioche en Pisidie pour annoncer l&apos;Evangile* Certains Juifs vinrent d&apos;autres villes pour agiter la foule et essayèrent de tuer Paul* Mais beaucoup, Juifs comme païens, écoutèrent les enseignements et crurent en Jésus.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi :(../names/barnabas.md), (../names/colossae.md), (../names/johnmark.md), (../names/paul.md), (../other/province.md), (../names/rome.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006005",
+          "end_ref_usfm": "ACT 6:5"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44011022",
+          "start_ref_usfm": "ACT 11:22",
+          "end_ref": "44011022",
+          "end_ref_usfm": "ACT 11:22"
+        },
+        {
+          "start_ref": "44011026",
+          "start_ref_usfm": "ACT 11:26",
+          "end_ref": "44011026",
+          "end_ref_usfm": "ACT 11:26"
+        },
+        {
+          "start_ref": "44011027",
+          "start_ref_usfm": "ACT 11:27",
+          "end_ref": "44011027",
+          "end_ref_usfm": "ACT 11:27"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "44014019",
+          "start_ref_usfm": "ACT 14:19",
+          "end_ref": "44014019",
+          "end_ref_usfm": "ACT 14:19"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44014026",
+          "start_ref_usfm": "ACT 14:26",
+          "end_ref": "44014026",
+          "end_ref_usfm": "ACT 14:26"
+        },
+        {
+          "start_ref": "44015022",
+          "start_ref_usfm": "ACT 15:22",
+          "end_ref": "44015022",
+          "end_ref_usfm": "ACT 15:22"
+        },
+        {
+          "start_ref": "44015023",
+          "start_ref_usfm": "ACT 15:23",
+          "end_ref": "44015023",
+          "end_ref_usfm": "ACT 15:23"
+        },
+        {
+          "start_ref": "44015030",
+          "start_ref_usfm": "ACT 15:30",
+          "end_ref": "44015030",
+          "end_ref_usfm": "ACT 15:30"
+        },
+        {
+          "start_ref": "44015035",
+          "start_ref_usfm": "ACT 15:35",
+          "end_ref": "44015035",
+          "end_ref_usfm": "ACT 15:35"
+        },
+        {
+          "start_ref": "44018022",
+          "start_ref_usfm": "ACT 18:22",
+          "end_ref": "44018022",
+          "end_ref_usfm": "ACT 18:22"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44006005",
+          "start_ref_usfm": "ACT 6:5",
+          "end_ref": "44006006",
+          "end_ref_usfm": "ACT 6:6"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        },
+        {
+          "start_ref": "48002011",
+          "start_ref_usfm": "GAL 2:11",
+          "end_ref": "48002012",
+          "end_ref_usfm": "GAL 2:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 466684,
+          "label": "Barnabas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25597,
+          "content_id": 466765,
+          "label": "Colosses ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 467055,
+          "label": "Jean Marc",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 467258,
+          "label": "Province",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

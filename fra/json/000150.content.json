@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 466750,
+    "reference_id": 25582,
+    "title": "Chaldéé",
+    "media_type": "Text",
+    "index_reference": "chaldéé",
+    "language": "fra",
+    "content": "<h1>Chaldéé ,Chaldéen</h1><h2>Définition :</h2><p>Chaldée était une région dans la partie Sud de la Mésopotamie ou en Babylonie* Les gens qui vivaient dans cette région ont été appelés Chaldéens.</p><ul><li><p>La ville d&apos;Ur, où Abraham était originaire, était située en Chaldée* Elle est souvent désignée comme «Ur des Chaldéens*&quot;</p></li><li><p>Le roi Nebucadnetsar était l&apos;un des Chaldéens qui est devenu roi sur Babylone.</p></li><li><p>Après de nombreuses années, vers six cent avant Jésus-Christ, le terme «chaldéen» est venu à signifier «Babylone».</p></li><li><p>Dans le livre de Daniel, le terme «chaldéen» fait également référence à une classe spéciale d&apos;hommes qui a été très instruite et qui a étudié les étoiles.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md), (../names/babylon.md), (../names/shinar.md), (../names/ur.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011028",
+          "start_ref_usfm": "GEN 11:28",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011031",
+          "end_ref_usfm": "GEN 11:31"
+        },
+        {
+          "start_ref": "01015007",
+          "start_ref_usfm": "GEN 15:7",
+          "end_ref": "01015007",
+          "end_ref_usfm": "GEN 15:7"
+        },
+        {
+          "start_ref": "15005012",
+          "start_ref_usfm": "EZR 5:12",
+          "end_ref": "15005012",
+          "end_ref_usfm": "EZR 5:12"
+        },
+        {
+          "start_ref": "16009007",
+          "start_ref_usfm": "NEH 9:7",
+          "end_ref": "16009007",
+          "end_ref_usfm": "NEH 9:7"
+        },
+        {
+          "start_ref": "18001017",
+          "start_ref_usfm": "JOB 1:17",
+          "end_ref": "18001017",
+          "end_ref_usfm": "JOB 1:17"
+        },
+        {
+          "start_ref": "23013019",
+          "start_ref_usfm": "ISA 13:19",
+          "end_ref": "23013019",
+          "end_ref_usfm": "ISA 13:19"
+        },
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001001",
+          "end_ref_usfm": "EZK 1:1"
+        },
+        {
+          "start_ref": "44007004",
+          "start_ref_usfm": "ACT 7:4",
+          "end_ref": "44007004",
+          "end_ref_usfm": "ACT 7:4"
+        },
+        {
+          "start_ref": "01011031",
+          "start_ref_usfm": "GEN 11:31",
+          "end_ref": "01011032",
+          "end_ref_usfm": "GEN 11:32"
+        },
+        {
+          "start_ref": "44007004",
+          "start_ref_usfm": "ACT 7:4",
+          "end_ref": "44007005",
+          "end_ref_usfm": "ACT 7:5"
+        },
+        {
+          "start_ref": "01011027",
+          "start_ref_usfm": "GEN 11:27",
+          "end_ref": "01011028",
+          "end_ref_usfm": "GEN 11:28"
+        },
+        {
+          "start_ref": "01015006",
+          "start_ref_usfm": "GEN 15:6",
+          "end_ref": "01015008",
+          "end_ref_usfm": "GEN 15:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26230,
+          "content_id": 467346,
+          "label": "Schinear",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

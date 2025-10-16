@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 26906,
+    "reference_id": 26048,
+    "title": "Negev",
+    "media_type": "Text",
+    "index_reference": "negev",
+    "language": "eng",
+    "content": "<h1>Negev</h1><h2>Facts:</h2><p>The Negev is a desert region in the southern part of Israel, southwest of the Salt Sea.</p><ul><li><p>The original word means “the South,” and some English versions translate it this way.</p></li><li><p>It could be that the “South” is not located where the Negev Desert is today.</p></li><li><p>When Abraham lived in the city of Kadesh, he was in the Negev or southern region.</p></li><li><p>Isaac was living in the Negev when Rebekah traveled to meet him and become his wife.</p></li><li><p>The Jewish tribes of Judah and Simeon lived in this southern region.</p></li><li><p>The largest city in the Negev region was Beersheba.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25424\" data-resourceType=\"UWTranslationWords\">Abraham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">Beersheba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25933\" data-resourceType=\"UWTranslationWords\">Kadesh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Salt Sea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26238\" data-resourceType=\"UWTranslationWords\">Simeon</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen12:9\">Genesis 12:9</a></p></li><li><p><a href=\"https://ref.ly/Gen20:1-Gen20:3\">Genesis 20:1–3</a></p></li><li><p><a href=\"https://ref.ly/Gen24:62\">Genesis 24:62</a></p></li><li><p><a href=\"https://ref.ly/Josh3:14-Josh3:16\">Joshua 3:14–16</a></p></li><li><p><a href=\"https://ref.ly/Num13:17-Num13:20\">Numbers 13:17–20</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5045, H6160</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012009",
+          "start_ref_usfm": "GEN 12:9",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "01013001",
+          "start_ref_usfm": "GEN 13:1",
+          "end_ref": "01013001",
+          "end_ref_usfm": "GEN 13:1"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013003",
+          "end_ref_usfm": "GEN 13:3"
+        },
+        {
+          "start_ref": "01013014",
+          "start_ref_usfm": "GEN 13:14",
+          "end_ref": "01013014",
+          "end_ref_usfm": "GEN 13:14"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020001",
+          "end_ref_usfm": "GEN 20:1"
+        },
+        {
+          "start_ref": "01024062",
+          "start_ref_usfm": "GEN 24:62",
+          "end_ref": "01024062",
+          "end_ref_usfm": "GEN 24:62"
+        },
+        {
+          "start_ref": "01028014",
+          "start_ref_usfm": "GEN 28:14",
+          "end_ref": "01028014",
+          "end_ref_usfm": "GEN 28:14"
+        },
+        {
+          "start_ref": "31001019",
+          "start_ref_usfm": "OBA 1:19",
+          "end_ref": "31001019",
+          "end_ref_usfm": "OBA 1:19"
+        },
+        {
+          "start_ref": "31001020",
+          "start_ref_usfm": "OBA 1:20",
+          "end_ref": "31001020",
+          "end_ref_usfm": "OBA 1:20"
+        },
+        {
+          "start_ref": "04013017",
+          "start_ref_usfm": "NUM 13:17",
+          "end_ref": "04013020",
+          "end_ref_usfm": "NUM 13:20"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020003",
+          "end_ref_usfm": "GEN 20:3"
+        },
+        {
+          "start_ref": "06003014",
+          "start_ref_usfm": "JOS 3:14",
+          "end_ref": "06003016",
+          "end_ref_usfm": "JOS 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 26282,
+          "label": "Abraham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25519,
+          "content_id": 26377,
+          "label": "Beersheba",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 26737,
+          "label": "Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25933,
+          "content_id": 26791,
+          "label": "Kadesh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 27049,
+          "label": "Saltsea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26238,
+          "content_id": 27096,
+          "label": "Simeon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

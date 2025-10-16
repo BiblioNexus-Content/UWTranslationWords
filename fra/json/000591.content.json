@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467180,
+    "reference_id": 26043,
+    "title": "Nathan",
+    "media_type": "Text",
+    "index_reference": "nathan",
+    "language": "fra",
+    "content": "<h1>Nathan</h1><h2>Données :</h2><p>Nathan était un prophète fidèle à Dieu qui a vécu pendant le temps où David était roi sur Israël.</p><ul><li><p>Dieu a envoyé Nathan pour confronter David après le péché grave de celui-ci contre Urie.</p></li><li><p>Nathan a réprimandé David malgré le fait que David était le roi.</p></li><li><p>David s&apos;est repenti de son péché après avoir été confronté par Nathan.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../kt/faithful.md), (../kt/prophet.md), (../names/uriah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14009029",
+          "start_ref_usfm": "2CH 9:29",
+          "end_ref": "14009029",
+          "end_ref_usfm": "2CH 9:29"
+        },
+        {
+          "start_ref": "15008016",
+          "start_ref_usfm": "EZR 8:16",
+          "end_ref": "15008016",
+          "end_ref_usfm": "EZR 8:16"
+        },
+        {
+          "start_ref": "15010039",
+          "start_ref_usfm": "EZR 10:39",
+          "end_ref": "15010039",
+          "end_ref_usfm": "EZR 10:39"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051001",
+          "end_ref_usfm": "PSA 51:1"
+        },
+        {
+          "start_ref": "42003031",
+          "start_ref_usfm": "LUK 3:31",
+          "end_ref": "42003031",
+          "end_ref_usfm": "LUK 3:31"
+        },
+        {
+          "start_ref": "13017001",
+          "start_ref_usfm": "1CH 17:1",
+          "end_ref": "13017002",
+          "end_ref_usfm": "1CH 17:2"
+        },
+        {
+          "start_ref": "10012001",
+          "start_ref_usfm": "2SA 12:1",
+          "end_ref": "10012003",
+          "end_ref_usfm": "2SA 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25726,
+          "content_id": 466881,
+          "label": "Fidèle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26330,
+          "content_id": 467440,
+          "label": "Urie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

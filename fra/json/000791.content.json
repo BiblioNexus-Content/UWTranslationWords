@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466840,
+    "reference_id": 25680,
+    "title": "Seuil",
+    "media_type": "Text",
+    "index_reference": "seuil",
+    "language": "fra",
+    "content": "<h1>seuil</h1><h2>Définition :</h2><p>Le&quot;seuil&quot;est une planche verticale sur chaque côté d&apos;une porte,qui supporte le haut du cadre de la porte.</p><ul><li><p>Juste avant que Dieu n&apos;aide les Israëlites,il leur a ordonné de tuer un agneau et mettre son sang sur leur seuil.</p></li><li><p>Dans l&apos;Ancien Testament,un esclave qui a le désir de servir son maître tout au long de sa vie mettrait son oreille sur le seuil de la maison de son maître pour être martelé à travers son oreille dans le seuil.</p></li><li><p>Ceci pourrait être traduit comme &quot;un poste en bois sur chaque côté de la porte&quot;ou &quot;les côtés d&apos;un cadre en bois&quot;ou&quot;planche en bois sur les côtés de l&apos;encadrement de la porte.</p></li></ul><p>(Voir aussi : (../names/egypt.md), (../kt/passover.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012007",
+          "start_ref_usfm": "EXO 12:7",
+          "end_ref": "02012007",
+          "end_ref_usfm": "EXO 12:7"
+        },
+        {
+          "start_ref": "02012022",
+          "start_ref_usfm": "EXO 12:22",
+          "end_ref": "02012022",
+          "end_ref_usfm": "EXO 12:22"
+        },
+        {
+          "start_ref": "02012023",
+          "start_ref_usfm": "EXO 12:23",
+          "end_ref": "02012023",
+          "end_ref_usfm": "EXO 12:23"
+        },
+        {
+          "start_ref": "05011020",
+          "start_ref_usfm": "DEU 11:20",
+          "end_ref": "05011020",
+          "end_ref_usfm": "DEU 11:20"
+        },
+        {
+          "start_ref": "20008034",
+          "start_ref_usfm": "PRO 8:34",
+          "end_ref": "20008034",
+          "end_ref_usfm": "PRO 8:34"
+        },
+        {
+          "start_ref": "23057007",
+          "start_ref_usfm": "ISA 57:7",
+          "end_ref": "23057008",
+          "end_ref_usfm": "ISA 57:8"
+        },
+        {
+          "start_ref": "11006031",
+          "start_ref_usfm": "1KI 6:31",
+          "end_ref": "11006032",
+          "end_ref_usfm": "1KI 6:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26076,
+          "content_id": 467204,
+          "label": "La Pâques",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

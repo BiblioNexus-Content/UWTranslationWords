@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237701,
+    "reference_id": 25566,
+    "title": "Calebe",
+    "media_type": "Text",
+    "index_reference": "calebe",
+    "language": "por",
+    "content": "<h1>Calebe</h1><h2>Fatos:</h2><p>Calebe foi um dos doze espiões israelitas que Moisés enviou para explorar a terra de Canaã.</p><ul><li><p>Ele e Josué disseram ao povo para confiar em Deus para ajudá-los a derrotar os cananeus.</p></li><li><p>Josué e Calebe foram os únicos homens de sua geração que foram permitidos entrar na Terra Prometida de Canaã.</p></li><li><p>Calebe pediu que a terra de Hebrom fosse dada a ele e sua família. Ele sabia que Deus o ajudaria a derrotar as pessoas que viviam lá.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25827\" data-resourceType=\"UWTranslationWords\">Hebrom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Josué</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr4:13\">1 Crônicas 4.13</a></p></li><li><p><a href=\"https://ref.ly/Josh14:6-Josh14:7\">Josué 14.6–7</a></p></li><li><p><a href=\"https://ref.ly/Judg1:12\">Juízes 1.12</a></p></li><li><p><a href=\"https://ref.ly/Num32:10-Num32:12\">Números 32.10–12</a></p></li></ul><h2>Exemplos das histórias da Bíblia:</h2><ul><li><p><strong>14:4</strong> Quando os israelitas chegaram à beira de Canaã, Moisés escolheu doze homens, um de cada tribo de Israel. Ele deu instruções aos homens para irem espiar a terra e ver como ela era.</p></li><li><p><strong>14:6</strong> Imediatamente <strong>Calebe</strong> e Josué, os outros dois espiões, disseram: “É verdade que o povo de Canaã é alto e forte, mas certamente podemos derrotá-los! Deus lutará por nós!”</p></li><li><p><strong>14:8</strong> “Exceto por Josué e <strong>Calebe</strong>, todos que têm vinte anos ou mais morrerão lá e nunca entrarão na Terra Prometida.”</p></li></ul><p>para que pudessem viver em paz naquela terra.</p><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3612, H3614</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001012",
+          "start_ref_usfm": "JDG 1:12",
+          "end_ref": "07001012",
+          "end_ref_usfm": "JDG 1:12"
+        },
+        {
+          "start_ref": "13004013",
+          "start_ref_usfm": "1CH 4:13",
+          "end_ref": "13004013",
+          "end_ref_usfm": "1CH 4:13"
+        },
+        {
+          "start_ref": "06014006",
+          "start_ref_usfm": "JOS 14:6",
+          "end_ref": "06014007",
+          "end_ref_usfm": "JOS 14:7"
+        },
+        {
+          "start_ref": "04032010",
+          "start_ref_usfm": "NUM 32:10",
+          "end_ref": "04032012",
+          "end_ref_usfm": "NUM 32:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25827,
+          "content_id": 237960,
+          "label": "Hebrom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 238053,
+          "label": "Josué",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

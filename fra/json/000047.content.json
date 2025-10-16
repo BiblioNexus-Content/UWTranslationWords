@@ -1,0 +1,124 @@
+[
+  {
+    "content_id": 466635,
+    "reference_id": 25454,
+    "title": "Amoreens",
+    "media_type": "Text",
+    "index_reference": "amoreens",
+    "language": "fra",
+    "content": "<h1>Amoreens</h1><h2>Définition :</h2><p>Les Amoréens étaient un peuple puissant descendant de Canaan, le petit-fils de Noé.</p><ul><li><p>Leur nom signifie « qui est grand » ce qui peut faire référance, peut-être, aux régions montagneuses où ils vivaient ou bien au fait qu&apos;ils étaient connus pour leurs tailles très grandes.</p></li><li><p>Les Amoréens vivaient dans les régions situées des deux côtés du Jourdain. La ville d&apos;Aï était habitée par des Amoréens.</p></li><li><p>Dieu a fait mention du « péché des Amoréens » qui comprenait l&apos;adoration de faux dieux et les pratiques immorales qui y étaient associées.</p></li><li><p>Josué a mené les Israélites à détruire les Amoréens comme Dieu leur avait ordonné de le faire.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010016",
+          "start_ref_usfm": "GEN 10:16",
+          "end_ref": "01010016",
+          "end_ref_usfm": "GEN 10:16"
+        },
+        {
+          "start_ref": "01014007",
+          "start_ref_usfm": "GEN 14:7",
+          "end_ref": "01014007",
+          "end_ref_usfm": "GEN 14:7"
+        },
+        {
+          "start_ref": "01014013",
+          "start_ref_usfm": "GEN 14:13",
+          "end_ref": "01014013",
+          "end_ref_usfm": "GEN 14:13"
+        },
+        {
+          "start_ref": "01015016",
+          "start_ref_usfm": "GEN 15:16",
+          "end_ref": "01015016",
+          "end_ref_usfm": "GEN 15:16"
+        },
+        {
+          "start_ref": "01015021",
+          "start_ref_usfm": "GEN 15:21",
+          "end_ref": "01015021",
+          "end_ref_usfm": "GEN 15:21"
+        },
+        {
+          "start_ref": "01048022",
+          "start_ref_usfm": "GEN 48:22",
+          "end_ref": "01048022",
+          "end_ref_usfm": "GEN 48:22"
+        },
+        {
+          "start_ref": "02003008",
+          "start_ref_usfm": "EXO 3:8",
+          "end_ref": "02003008",
+          "end_ref_usfm": "EXO 3:8"
+        },
+        {
+          "start_ref": "02003017",
+          "start_ref_usfm": "EXO 3:17",
+          "end_ref": "02003017",
+          "end_ref_usfm": "EXO 3:17"
+        },
+        {
+          "start_ref": "02013005",
+          "start_ref_usfm": "EXO 13:5",
+          "end_ref": "02013005",
+          "end_ref_usfm": "EXO 13:5"
+        },
+        {
+          "start_ref": "02023023",
+          "start_ref_usfm": "EXO 23:23",
+          "end_ref": "02023023",
+          "end_ref_usfm": "EXO 23:23"
+        },
+        {
+          "start_ref": "02033002",
+          "start_ref_usfm": "EXO 33:2",
+          "end_ref": "02033002",
+          "end_ref_usfm": "EXO 33:2"
+        },
+        {
+          "start_ref": "02034011",
+          "start_ref_usfm": "EXO 34:11",
+          "end_ref": "02034011",
+          "end_ref_usfm": "EXO 34:11"
+        },
+        {
+          "start_ref": "06009010",
+          "start_ref_usfm": "JOS 9:10",
+          "end_ref": "06009010",
+          "end_ref_usfm": "JOS 9:10"
+        },
+        {
+          "start_ref": "15009001",
+          "start_ref_usfm": "EZR 9:1",
+          "end_ref": "15009001",
+          "end_ref_usfm": "EZR 9:1"
+        },
+        {
+          "start_ref": "16009008",
+          "start_ref_usfm": "NEH 9:8",
+          "end_ref": "16009008",
+          "end_ref_usfm": "NEH 9:8"
+        },
+        {
+          "start_ref": "26016003",
+          "start_ref_usfm": "EZK 16:3",
+          "end_ref": "26016003",
+          "end_ref_usfm": "EZK 16:3"
+        },
+        {
+          "start_ref": "30002009",
+          "start_ref_usfm": "AMO 2:9",
+          "end_ref": "30002009",
+          "end_ref_usfm": "AMO 2:9"
+        },
+        {
+          "start_ref": "01015014",
+          "start_ref_usfm": "GEN 15:14",
+          "end_ref": "01015016",
+          "end_ref_usfm": "GEN 15:16"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

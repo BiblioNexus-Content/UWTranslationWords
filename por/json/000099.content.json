@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237577,
+    "reference_id": 25439,
+    "title": "Assuero",
+    "media_type": "Text",
+    "index_reference": "assuero",
+    "language": "por",
+    "content": "<h1>Assuero</h1><h2>Fatos:</h2><p>Assuero foi um rei que governou o antigo reino da Pérsia por vinte anos.</p><ul><li><p>Isso foi durante o tempo em que os judeus exilados estavam vivendo na Babilônia, que havia ficado sob domínio persa.</p></li><li><p>Outro nome para este rei pode ter sido Xerxes.</p></li><li><p>Depois de mandar embora sua rainha em um acesso de raiva, o Rei Assuero mais tarde escolheu uma mulher judia chamada Ester para ser sua nova esposa e rainha.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Ester</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Etiópia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exílio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Pérsia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan9:1\">Daniel 9.1</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Ester 10.1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra4:7-Ezra4:8\">Esdras 4.7–8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0325</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "27009001",
+          "start_ref_usfm": "DAN 9:1",
+          "end_ref": "27009001",
+          "end_ref_usfm": "DAN 9:1"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        },
+        {
+          "start_ref": "15004007",
+          "start_ref_usfm": "EZR 4:7",
+          "end_ref": "15004008",
+          "end_ref_usfm": "EZR 4:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 237844,
+          "label": "Esther",
+          "language": "por"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 237846,
+          "label": "Etiópia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 237854,
+          "label": "Exílio",
+          "language": "por"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 238221,
+          "label": "Pérsia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

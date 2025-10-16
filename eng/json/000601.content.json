@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 26874,
+    "reference_id": 26016,
+    "title": "Micah",
+    "media_type": "Text",
+    "index_reference": "micah",
+    "language": "eng",
+    "content": "<h1>Micah</h1><h2>Facts:</h2><p>Micah was a prophet of Judah around 700 years before Christ, when the prophet Isaiah was also ministering to Judah. Another man named Micah lived during the time of the judges.</p><ul><li><p>The book of Micah is near the end of the Old Testament.</p></li><li><p>Micah prophesied about the destruction of Samaria by the Assyrians.</p></li><li><p>Micah rebuked the people of Judah for disobeying God and warned them that their enemies would attack them.</p></li><li><p>His prophecy ends with a message of hope in God, who is faithful and saves his people.</p></li><li><p>In the book of Judges, the story is told of a man named Micah living in Ephraim who made an idol out of silver. A young Levite priest who came to live with him stole the idol and other things, and took off with a group of Danites. Eventually the Danites and the priest settled in the city of Laish and they set up that same silver idol to worship.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assyria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">Dan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25708\" data-resourceType=\"UWTranslationWords\">Ephraim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25877\" data-resourceType=\"UWTranslationWords\">Isaiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">judge</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26192\" data-resourceType=\"UWTranslationWords\">Samaria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26237\" data-resourceType=\"UWTranslationWords\">silver</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Jer26:18-Jer26:19\">Jeremiah 26:18–19</a></p></li><li><p><a href=\"https://ref.ly/Mic1:1\">Micah 1:1</a></p></li><li><p><a href=\"https://ref.ly/Mic6:2\">Micah 6:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4318</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16011017",
+          "start_ref_usfm": "NEH 11:17",
+          "end_ref": "16011017",
+          "end_ref_usfm": "NEH 11:17"
+        },
+        {
+          "start_ref": "33001001",
+          "start_ref_usfm": "MIC 1:1",
+          "end_ref": "33001001",
+          "end_ref_usfm": "MIC 1:1"
+        },
+        {
+          "start_ref": "33006002",
+          "start_ref_usfm": "MIC 6:2",
+          "end_ref": "33006002",
+          "end_ref_usfm": "MIC 6:2"
+        },
+        {
+          "start_ref": "24026018",
+          "start_ref_usfm": "JER 26:18",
+          "end_ref": "24026019",
+          "end_ref_usfm": "JER 26:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 26346,
+          "label": "Assyria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25641,
+          "content_id": 26499,
+          "label": "Dan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 26566,
+          "label": "Ephraim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 26735,
+          "label": "Isaiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 26787,
+          "label": "Judge",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 26788,
+          "label": "Judge Position",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 26825,
+          "label": "Levite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 27050,
+          "label": "Samaria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 27095,
+          "label": "Silver",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

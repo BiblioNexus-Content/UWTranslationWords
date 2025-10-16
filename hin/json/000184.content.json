@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 180140,
+    "reference_id": 26078,
+    "title": "कुलपति",
+    "media_type": "Text",
+    "index_reference": "कुलपति",
+    "language": "hin",
+    "content": "<h1>कुलपति, कुलपतियों</h1><h2>परिभाषा:</h2><p>“कुलपति” शब्द पुराने नियम में यहूदियों के मूल पिताओं का संदर्भ देता है, विशेष करके अब्राहम, इसहाक और याकूब।</p><ul><li><p>यह शब्द याकूब के बारह पुत्रों के संदर्भ में भी काम में लिया गया है जो इस्राएल के बारह गोत्रों के कुलपति हुए थे।</p></li><li><p>“कुलपति” शब्द का अर्थ “पूर्वज” ही है परन्तु इसका विशेष संदर्भ जाति के सर्वाधिक जनमान्य पुरुष पूर्वज से है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_father\" data-resourceType=\"UWTranslationWords\">पूर्वज, पिता, पुरखा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:29-Acts2:31\">प्रे.का. 02:29–31</a></p></li><li><p><a href=\"https://ref.ly/Acts7:6-Acts7:8\">प्रे.का. 07:6–8</a></p></li><li><p><a href=\"https://ref.ly/Acts7:9-Acts7:10\">प्रे.का. 07:9–10</a></p></li><li><p><a href=\"https://ref.ly/Ezra3:12-Ezra3:13\">एज्रा 03:12–13</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1, H7218, G3966</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002029",
+          "end_ref_usfm": "ACT 2:29"
+        },
+        {
+          "start_ref": "44007008",
+          "start_ref_usfm": "ACT 7:8",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "44007009",
+          "start_ref_usfm": "ACT 7:9",
+          "end_ref": "44007009",
+          "end_ref_usfm": "ACT 7:9"
+        },
+        {
+          "start_ref": "45009005",
+          "start_ref_usfm": "ROM 9:5",
+          "end_ref": "45009005",
+          "end_ref_usfm": "ROM 9:5"
+        },
+        {
+          "start_ref": "45011028",
+          "start_ref_usfm": "ROM 11:28",
+          "end_ref": "45011028",
+          "end_ref_usfm": "ROM 11:28"
+        },
+        {
+          "start_ref": "45015008",
+          "start_ref_usfm": "ROM 15:8",
+          "end_ref": "45015008",
+          "end_ref_usfm": "ROM 15:8"
+        },
+        {
+          "start_ref": "58007004",
+          "start_ref_usfm": "HEB 7:4",
+          "end_ref": "58007004",
+          "end_ref_usfm": "HEB 7:4"
+        },
+        {
+          "start_ref": "44002029",
+          "start_ref_usfm": "ACT 2:29",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "44007006",
+          "start_ref_usfm": "ACT 7:6",
+          "end_ref": "44007008",
+          "end_ref_usfm": "ACT 7:8"
+        },
+        {
+          "start_ref": "15003012",
+          "start_ref_usfm": "EZR 3:12",
+          "end_ref": "15003013",
+          "end_ref_usfm": "EZR 3:13"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

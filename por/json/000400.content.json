@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237913,
+    "reference_id": 25780,
+    "title": "Gideão",
+    "media_type": "Text",
+    "index_reference": "gideão",
+    "language": "por",
+    "content": "<h1>Gideão</h1><h2>Fatos:</h2><p>Gideão foi um homem israelita que Deus levantou para libertar os israelitas de seus inimigos.</p><ul><li><p>Durante o tempo em que Gideão viveu, um grupo de pessoas chamado midianitas continuava atacando os israelitas e destruindo suas colheitas.</p></li><li><p>Mesmo que Gideão estivesse com medo, Deus o usou para liderar os israelitas a lutar contra os midianitas e derrotá-los.</p></li><li><p>Gideão também obedeceu a Deus derrubando altares aos falsos deuses Baal e Aserá.</p></li><li><p>Ele não apenas liderou o povo na derrota de seus inimigos, mas também os encorajou a obedecer e adorar a Yahweh, o único Deus verdadeiro.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_asherah\" data-resourceType=\"UWTranslationWords\">Aserá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_deliver\" data-resourceType=\"UWTranslationWords\">libertar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26018\" data-resourceType=\"UWTranslationWords\">Midiã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Heb11:32-Heb11:34\">Hebreus 11.32–34</a></p></li><li><p><a href=\"https://ref.ly/Judg6:11\">Juízes 6.11</a></p></li><li><p><a href=\"https://ref.ly/Judg6:23\">Juízes 6.23</a></p></li><li><p><a href=\"https://ref.ly/Judg8:17\">Juízes 8.17</a></p></li></ul><h2>Exemplos das histórias bíblicas:</h2><ul><li><p><strong>16:5</strong> O anjo de Yahweh veio a <strong>Gideão</strong> e disse: “Deus está com você, guerreiro valente. Vá e salve Israel dos midianitas.”</p></li><li><p><strong>16:6</strong> O pai de <strong>Gideão</strong> tinha um altar dedicado a um ídolo. Deus disse a <strong>Gideão</strong> para derrubar aquele altar.</p></li><li><p><strong>16:8</strong> Havia tantos deles (midianitas) que não podiam ser contados. <strong>Gideão</strong> convocou os israelitas para lutar contra eles.</p></li><li><p><strong>16:8</strong> <strong>Gideão</strong> pediu a Deus dois sinais para ter certeza de que Deus o usaria para salvar Israel.</p></li><li><p><strong>16:10</strong> 32.000 soldados israelitas vieram a <strong>Gideão</strong>, mas Deus disse que eram muitos.</p></li><li><p><strong>16:12</strong> Então <strong>Gideão </strong>voltou para seus soldados e deu a cada um deles uma trombeta, um pote de barro e uma tocha.</p></li><li><p><strong>16:15</strong> O povo queria fazer de <strong>Gideão</strong> seu rei.</p></li><li><p><strong>16:16</strong> Então <strong>Gideão</strong> usou o ouro para fazer uma vestimenta especial como a que o sumo sacerdote costumava usar. Mas o povo começou a adorá-la como se fosse um ídolo.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1439, H1441</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006011",
+          "end_ref_usfm": "JDG 6:11"
+        },
+        {
+          "start_ref": "07006023",
+          "start_ref_usfm": "JDG 6:23",
+          "end_ref": "07006023",
+          "end_ref_usfm": "JDG 6:23"
+        },
+        {
+          "start_ref": "07008017",
+          "start_ref_usfm": "JDG 8:17",
+          "end_ref": "07008017",
+          "end_ref_usfm": "JDG 8:17"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25483,
+          "content_id": 237620,
+          "label": "Aserim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25657,
+          "content_id": 237790,
+          "label": "Libertar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26018,
+          "content_id": 238148,
+          "label": "Midiã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

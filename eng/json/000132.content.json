@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 26405,
+    "reference_id": 25547,
+    "title": "Blotout",
+    "media_type": "Text",
+    "index_reference": "blotout",
+    "language": "eng",
+    "content": "<h1>blot out, wipe out</h1><h2>Definition:</h2><p>The terms “blot out” and “wipe out” are expressions that mean to completely remove or destroy something or someone.</p><ul><li><p>These expressions can be used in a positive sense, as when God “blots out” sins by forgiving them and choosing not to remember them.</p></li><li><p>It is also often used in a negative sense, as when God “blots out” or “wipes out” a people group, destroying them because of their sin.</p></li><li><p>The Bible talks about a person’s name being “blotted out” or “wiped out” of God’s Book of Life, which means that the person will not receive eternal life.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Depending on the context, these expressions could be translated as “get rid of” or “remove” or “completely destroy” or “completely remove.”</p></li><li><p>When referring to blotting someone’s name out of the Book of Life, this could be translated as “removed from” or “erased.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut29:20\">Deuteronomy 29:20</a></p></li><li><p><a href=\"https://ref.ly/Exod32:30-Exod32:32\">Exodus 32:30–32</a></p></li><li><p><a href=\"https://ref.ly/Gen7:23\">Genesis 7:23</a></p></li><li><p><a href=\"https://ref.ly/Ps51:1\">Psalm 51:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4229, H8045, G18130</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006007",
+          "start_ref_usfm": "GEN 6:7",
+          "end_ref": "01006007",
+          "end_ref_usfm": "GEN 6:7"
+        },
+        {
+          "start_ref": "01007004",
+          "start_ref_usfm": "GEN 7:4",
+          "end_ref": "01007004",
+          "end_ref_usfm": "GEN 7:4"
+        },
+        {
+          "start_ref": "01007023",
+          "start_ref_usfm": "GEN 7:23",
+          "end_ref": "01007023",
+          "end_ref_usfm": "GEN 7:23"
+        },
+        {
+          "start_ref": "02017014",
+          "start_ref_usfm": "EXO 17:14",
+          "end_ref": "02017014",
+          "end_ref_usfm": "EXO 17:14"
+        },
+        {
+          "start_ref": "02032032",
+          "start_ref_usfm": "EXO 32:32",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        },
+        {
+          "start_ref": "02032033",
+          "start_ref_usfm": "EXO 32:33",
+          "end_ref": "02032033",
+          "end_ref_usfm": "EXO 32:33"
+        },
+        {
+          "start_ref": "05029020",
+          "start_ref_usfm": "DEU 29:20",
+          "end_ref": "05029020",
+          "end_ref_usfm": "DEU 29:20"
+        },
+        {
+          "start_ref": "16004005",
+          "start_ref_usfm": "NEH 4:5",
+          "end_ref": "16004005",
+          "end_ref_usfm": "NEH 4:5"
+        },
+        {
+          "start_ref": "16013014",
+          "start_ref_usfm": "NEH 13:14",
+          "end_ref": "16013014",
+          "end_ref_usfm": "NEH 13:14"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051001",
+          "end_ref_usfm": "PSA 51:1"
+        },
+        {
+          "start_ref": "20006033",
+          "start_ref_usfm": "PRO 6:33",
+          "end_ref": "20006033",
+          "end_ref_usfm": "PRO 6:33"
+        },
+        {
+          "start_ref": "20031003",
+          "start_ref_usfm": "PRO 31:3",
+          "end_ref": "20031003",
+          "end_ref_usfm": "PRO 31:3"
+        },
+        {
+          "start_ref": "02032030",
+          "start_ref_usfm": "EXO 32:30",
+          "end_ref": "02032032",
+          "end_ref_usfm": "EXO 32:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

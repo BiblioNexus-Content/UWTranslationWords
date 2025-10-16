@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237835,
+    "reference_id": 25702,
+    "title": "Ein-Gedi",
+    "media_type": "Text",
+    "index_reference": "ein-gedi",
+    "language": "por",
+    "content": "<h1>Ein-Gedi</h1><h2>Definição:</h2><p>Ein-Gedi era o nome de uma cidade no deserto de Judá, sudeste de Jerusalém.</p><ul><li><p>Ein-Gedi estava localizada na margem ocidental do Mar Salgado.</p></li><li><p>Parte do seu nome significa “fonte”, referindo-se a uma nascente que abastecia a cidade.</p></li><li><p>Ein-Gedi era conhecida por ter belas vinhas e outras terras férteis, provavelmente devido à irrigação contínua pela nascente de água.</p></li><li><p>Havia fortalezas em Ein-Gedi para onde Davi fugiu quando estava sendo perseguido pelo Rei Saul.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">deserto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25756\" data-resourceType=\"UWTranslationWords\">fonte</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_rest\" data-resourceType=\"UWTranslationWords\">descanso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Mar Salgado</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (AT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26266\" data-resourceType=\"UWTranslationWords\">fortaleza</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vinhedo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr20:2\">2 Crônicas 20.2</a></p></li><li><p><a href=\"https://ref.ly/Song1:12-Song1:14\">Cânticos 1.12–14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H5872</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14020002",
+          "start_ref_usfm": "2CH 20:2",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "22001014",
+          "start_ref_usfm": "SNG 1:14",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        },
+        {
+          "start_ref": "22001012",
+          "start_ref_usfm": "SNG 1:12",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 237795,
+          "label": "Deserto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25756,
+          "content_id": 237889,
+          "label": "Fonte",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 238320,
+          "label": "Mar Salgado",
+          "language": "por"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 238329,
+          "label": "Saul",
+          "language": "por"
+        },
+        {
+          "reference_id": 26266,
+          "content_id": 238395,
+          "label": "Fortaleza",
+          "language": "por"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 238462,
+          "label": "Vinhedo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

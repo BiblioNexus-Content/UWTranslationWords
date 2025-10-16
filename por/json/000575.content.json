@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 238122,
+    "reference_id": 25991,
+    "title": "Malaquias",
+    "media_type": "Text",
+    "index_reference": "malaquias",
+    "language": "por",
+    "content": "<h1>Malaquias</h1><h2>Fatos:</h2><p>Malaquias foi um dos profetas de Deus para o reino de Judá. Ele viveu cerca de 500 anos antes de Cristo estar na terra.</p><ul><li><p>Malaquias profetizou durante o período em que o templo de Israel estava sendo reconstruído após o retorno do cativeiro babilônico.</p></li><li><p>Esdras e Neemias viveram aproximadamente na mesma época que Malaquias.</p></li><li><p>O livro de Malaquias é o último livro do Antigo Testamento.</p></li><li><p>Como todos os profetas do Antigo Testamento, Malaquias exortou o povo a se arrepender de seus pecados e a voltar a adorar Javé.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25574\" data-resourceType=\"UWTranslationWords\">cativo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Esdras</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Neemias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">profeta</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">arrepender</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_turn\" data-resourceType=\"UWTranslationWords\">converter</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Mal1:1\">Malaquias 1.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4401</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 237709,
+          "label": "Cativo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 237857,
+          "label": "Esdras",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 238074,
+          "label": "Reino de Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 238179,
+          "label": "Neemias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 238259,
+          "label": "Profeta",
+          "language": "por"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 238300,
+          "label": "Arrepender",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 238310,
+    "reference_id": 26180,
+    "title": "Vara",
+    "media_type": "Text",
+    "index_reference": "vara",
+    "language": "por",
+    "content": "<h1>vara</h1><h2>Definição:</h2><p>O termo “vara” refere-se a uma ferramenta estreita, sólida e semelhante a um bastão que era usada de várias maneiras diferentes. Provavelmente tinha pelo menos um metro de comprimento.</p><ul><li><p>Uma vara de madeira era usada por um pastor para defender as ovelhas de outros animais. Também era lançada em direção a uma ovelha desgarrada para trazê-la de volta ao rebanho.</p></li><li><p>No Salmo 23, o Rei Davi usou os termos “vara” e “cajado” como metáforas para se referir à orientação e disciplina de Deus para seu povo.</p></li><li><p>A vara de um pastor também era usada para contar as ovelhas à medida que passavam por baixo dela.</p></li><li><p>Outra expressão metafórica, “vara de ferro”, refere-se ao castigo de Deus para as pessoas que se rebelam contra Ele e fazem coisas más.</p></li><li><p>Nos tempos antigos, varas de medição feitas de metal, madeira ou pedra eram usadas para medir o comprimento de um edifício ou objeto.</p></li><li><p>Na Bíblia, uma vara de madeira também era referida como um instrumento para disciplinar crianças.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26259\" data-resourceType=\"UWTranslationWords\">cajado</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">ovelha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">pastor</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:21\">1 Coríntios 4.21</a></p></li><li><p><a href=\"https://ref.ly/1Sam14:43-1Sam14:44\">1 Samuel 14.43–44</a></p></li><li><p><a href=\"https://ref.ly/Acts16:23\">Atos 16.23</a></p></li><li><p><a href=\"https://ref.ly/Exod27:9-Exod27:10\">Êxodo 27.9–10</a></p></li><li><p><a href=\"https://ref.ly/Rev11:1\">Apocalipse 11.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2415, H4294, H4731, H7626, G25630, G44630, G44640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20010013",
+          "start_ref_usfm": "PRO 10:13",
+          "end_ref": "20010013",
+          "end_ref_usfm": "PRO 10:13"
+        },
+        {
+          "start_ref": "20013024",
+          "start_ref_usfm": "PRO 13:24",
+          "end_ref": "20013024",
+          "end_ref_usfm": "PRO 13:24"
+        },
+        {
+          "start_ref": "20014003",
+          "start_ref_usfm": "PRO 14:3",
+          "end_ref": "20014003",
+          "end_ref_usfm": "PRO 14:3"
+        },
+        {
+          "start_ref": "20022008",
+          "start_ref_usfm": "PRO 22:8",
+          "end_ref": "20022008",
+          "end_ref_usfm": "PRO 22:8"
+        },
+        {
+          "start_ref": "20022015",
+          "start_ref_usfm": "PRO 22:15",
+          "end_ref": "20022015",
+          "end_ref_usfm": "PRO 22:15"
+        },
+        {
+          "start_ref": "20023013",
+          "start_ref_usfm": "PRO 23:13",
+          "end_ref": "20023013",
+          "end_ref_usfm": "PRO 23:13"
+        },
+        {
+          "start_ref": "20023014",
+          "start_ref_usfm": "PRO 23:14",
+          "end_ref": "20023014",
+          "end_ref_usfm": "PRO 23:14"
+        },
+        {
+          "start_ref": "20026003",
+          "start_ref_usfm": "PRO 26:3",
+          "end_ref": "20026003",
+          "end_ref_usfm": "PRO 26:3"
+        },
+        {
+          "start_ref": "20029015",
+          "start_ref_usfm": "PRO 29:15",
+          "end_ref": "20029015",
+          "end_ref_usfm": "PRO 29:15"
+        },
+        {
+          "start_ref": "44016023",
+          "start_ref_usfm": "ACT 16:23",
+          "end_ref": "44016023",
+          "end_ref_usfm": "ACT 16:23"
+        },
+        {
+          "start_ref": "46004021",
+          "start_ref_usfm": "1CO 4:21",
+          "end_ref": "46004021",
+          "end_ref_usfm": "1CO 4:21"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009004",
+          "end_ref_usfm": "HEB 9:4"
+        },
+        {
+          "start_ref": "66002027",
+          "start_ref_usfm": "REV 2:27",
+          "end_ref": "66002027",
+          "end_ref_usfm": "REV 2:27"
+        },
+        {
+          "start_ref": "66011001",
+          "start_ref_usfm": "REV 11:1",
+          "end_ref": "66011001",
+          "end_ref_usfm": "REV 11:1"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "66019015",
+          "start_ref_usfm": "REV 19:15",
+          "end_ref": "66019015",
+          "end_ref_usfm": "REV 19:15"
+        },
+        {
+          "start_ref": "09014043",
+          "start_ref_usfm": "1SA 14:43",
+          "end_ref": "09014044",
+          "end_ref_usfm": "1SA 14:44"
+        },
+        {
+          "start_ref": "02027009",
+          "start_ref_usfm": "EXO 27:9",
+          "end_ref": "02027010",
+          "end_ref_usfm": "EXO 27:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26224,
+          "content_id": 238353,
+          "label": "Ovelha",
+          "language": "por"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 238355,
+          "label": "Pastor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26259,
+          "content_id": 238388,
+          "label": "Cajado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

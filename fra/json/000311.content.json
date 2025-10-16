@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 559325,
+    "reference_id": 25723,
+    "title": "Ézéchiel",
+    "media_type": "Text",
+    "index_reference": "ézéchiel",
+    "language": "fra",
+    "content": "<h1>Ézéchiel</h1><h1>Faits :</h1><p>Ézéchiel était un <strong>prophète de Dieu</strong> pendant la période de l&apos;exil, lorsque de nombreux Juifs ont été emmenés à Babylone.</p><ol><li><p>Ézéchiel était un prêtre vivant dans le royaume de Juda lorsqu&apos;il fut capturé, ainsi que de nombreux autres Juifs, par l&apos;armée babylonienne.</p></li><li><p>Pendant plus de vingt ans, lui et sa femme ont vécu à Babylone près d&apos;une rivière, et les Juifs venaient là pour l&apos;entendre prononcer des messages de Dieu.</p></li><li><p>Parmi d&apos;autres choses, Ézéchiel a prophétisé la destruction et la restauration de Jérusalem et du temple.</p></li><li><p>Il a également prophétisé sur le futur royaume du Messie.</p></li></ol><p>(Suggestions de traduction&nbsp;: Comment traduire les noms)</p><p>(Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylone</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exil</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophète</span>)</p><h2>Références bibliques :</h2><ul><li><p><a href=\"https://ref.ly/Ezek1:3\">Ézéchiel 1.3</a></p></li><li><p><a href=\"https://ref.ly/Ezek24:24\">Ézéchiel 24.24</a></p></li></ul><h2>Données sur le mot :</h2><ul><li><p>Strong’s&nbsp;: H3168</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26001003",
+          "start_ref_usfm": "EZK 1:3",
+          "end_ref": "26001003",
+          "end_ref_usfm": "EZK 1:3"
+        },
+        {
+          "start_ref": "26024024",
+          "start_ref_usfm": "EZK 24:24",
+          "end_ref": "26024024",
+          "end_ref_usfm": "EZK 24:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 559324,
+          "label": "Exil",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

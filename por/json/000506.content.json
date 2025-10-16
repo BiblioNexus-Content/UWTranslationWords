@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238047,
+    "reference_id": 25914,
+    "title": "Jônatas",
+    "media_type": "Text",
+    "index_reference": "jônatas",
+    "language": "por",
+    "content": "<h1>Jônatas</h1><h2>Fatos:</h2><p>Jônatas foi o nome de pelo menos dez homens no Antigo Testamento. O nome significa &quot;Javé deu&quot;.</p><ul><li><p>O melhor amigo de Davi, Jônatas, é o Jônatas mais conhecido na Bíblia com esse nome. Este Jônatas era o filho mais velho do rei Saul.</p></li><li><p>Outros Jônatas mencionados no Antigo Testamento incluem um descendente de Moisés; um sobrinho do rei Davi; vários sacerdotes, incluindo um filho de Abiatar; e um escriba do Antigo Testamento em cuja casa o profeta Jeremias foi preso.</p></li></ul><p>(Veja também: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25419\" data-resourceType=\"UWTranslationWords\">Abiatar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moisés</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25895\" data-resourceType=\"UWTranslationWords\">Jeremias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">sacerdote</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26200\" data-resourceType=\"UWTranslationWords\">Saul (AT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26204\" data-resourceType=\"UWTranslationWords\">escriba</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs1:41-1Kgs1:42\">1 Reis 1.41–42</a></p></li><li><p><a href=\"https://ref.ly/1Sam14:1\">1 Samuel 14.1</a></p></li><li><p><a href=\"https://ref.ly/1Sam20:2\">1 Samuel 20.2</a></p></li><li><p><a href=\"https://ref.ly/2Sam1:3-2Sam1:5\">2 Samuel 1.3–5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3083, H3129</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09014001",
+          "start_ref_usfm": "1SA 14:1",
+          "end_ref": "09014001",
+          "end_ref_usfm": "1SA 14:1"
+        },
+        {
+          "start_ref": "09020002",
+          "start_ref_usfm": "1SA 20:2",
+          "end_ref": "09020002",
+          "end_ref_usfm": "1SA 20:2"
+        },
+        {
+          "start_ref": "11001041",
+          "start_ref_usfm": "1KI 1:41",
+          "end_ref": "11001042",
+          "end_ref_usfm": "1KI 1:42"
+        },
+        {
+          "start_ref": "10001003",
+          "start_ref_usfm": "2SA 1:3",
+          "end_ref": "10001005",
+          "end_ref_usfm": "2SA 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25419,
+          "content_id": 237557,
+          "label": "Abiatar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25895,
+          "content_id": 238028,
+          "label": "Jeremias",
+          "language": "por"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 238161,
+          "label": "Moisés",
+          "language": "por"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 238251,
+          "label": "Sacerdote",
+          "language": "por"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 238329,
+          "label": "Saul",
+          "language": "por"
+        },
+        {
+          "reference_id": 26204,
+          "content_id": 238333,
+          "label": "Escriba",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

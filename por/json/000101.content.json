@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 238360,
+    "reference_id": 26231,
+    "title": "Astuto",
+    "media_type": "Text",
+    "index_reference": "astuto",
+    "language": "por",
+    "content": "<h1>astuto, sagaz</h1><h2>Definição:</h2><p>O termo “astuto” descreve uma pessoa que é inteligente e esperta, especialmente em questões práticas.</p><ul><li><p>Frequentemente, o termo “astuto” tem um significado parcialmente negativo, pois geralmente também envolve ser egoísta.</p></li><li><p>Uma pessoa astuta geralmente está focada em ajudar a si mesma, não aos outros.</p></li><li><p>Outras maneiras de traduzir esse termo podem incluir “sagaz” ou “astucioso” ou “esperto” ou “inteligente”, dependendo do contexto.</p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2450, H6175, G54290</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01003001",
+          "start_ref_usfm": "GEN 3:1",
+          "end_ref": "01003001",
+          "end_ref_usfm": "GEN 3:1"
+        },
+        {
+          "start_ref": "02021014",
+          "start_ref_usfm": "EXO 21:14",
+          "end_ref": "02021014",
+          "end_ref_usfm": "EXO 21:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

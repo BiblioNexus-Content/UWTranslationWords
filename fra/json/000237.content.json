@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466828,
+    "reference_id": 25666,
+    "title": "Devaster",
+    "media_type": "Text",
+    "index_reference": "devaster",
+    "language": "fra",
+    "content": "<h1>devaster , devastation</h1><h2>Définition :</h2><p>Le terme &quot;dévaster&quot;ou&quot;dévastation&quot; signifie &quot;avoir ses biens ou son terrain ruiné ou détruit*Ceci inclu souvent&quot;détruire ou capturer les hommes vivant sur ce terrain&quot;.</p><ul><li><p>Ceci signifie également &quot;une destruction grave et complète&quot;.</p></li><li><p>Par exemple la cité de Sodome était dévastée par Dieu comme punition pour les péchés des hommes qui y vivent.</p></li><li><p>Le terme &quot;dévastation&quot;peut aussi inclure &quot;provoquer une grande émotion, une douleur résultant de la punition ou la destruction.</p></li></ul><h2>Translation Suggestions</h2><ul><li><p>The term “devastate” could be translated as “completely destroy” or “completely ruin.”</p></li><li><p>Depending on the context, “devastation” could be translated as “complete destruction” or “total ruin” or “overwhelming grief” or “disaster.”</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04021030",
+          "start_ref_usfm": "NUM 21:30",
+          "end_ref": "04021030",
+          "end_ref_usfm": "NUM 21:30"
+        },
+        {
+          "start_ref": "20003025",
+          "start_ref_usfm": "PRO 3:25",
+          "end_ref": "20003025",
+          "end_ref_usfm": "PRO 3:25"
+        },
+        {
+          "start_ref": "24004013",
+          "start_ref_usfm": "JER 4:13",
+          "end_ref": "24004013",
+          "end_ref_usfm": "JER 4:13"
+        },
+        {
+          "start_ref": "36001013",
+          "start_ref_usfm": "ZEP 1:13",
+          "end_ref": "36001013",
+          "end_ref_usfm": "ZEP 1:13"
+        },
+        {
+          "start_ref": "27008024",
+          "start_ref_usfm": "DAN 8:24",
+          "end_ref": "27008025",
+          "end_ref_usfm": "DAN 8:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26183,
+          "content_id": 467303,
+          "label": "Ruine",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

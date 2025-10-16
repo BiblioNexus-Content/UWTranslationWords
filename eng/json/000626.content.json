@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26899,
+    "reference_id": 26041,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "nahum",
+    "language": "eng",
+    "content": "<h1>Nahum</h1><h2>Facts:</h2><p>Nahum was a prophet who preached during the time when the evil King Manasseh was ruling over Judah.</p><ul><li><p>Nahum was from the town of Elkosh, which was about 20 miles from Jerusalem.</p></li><li><p>The Old Testament book of Nahum records his prophecies about the destruction of the Assyrian city of Nineveh.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25488\" data-resourceType=\"UWTranslationWords\">Assyria</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manasseh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26054\" data-resourceType=\"UWTranslationWords\">Nineveh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Nah1:1\">Nahum 1:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5151, G34860</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 26346,
+          "label": "Assyria",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 26851,
+          "label": "Manasseh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 26912,
+          "label": "Nineveh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

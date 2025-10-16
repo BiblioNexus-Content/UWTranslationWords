@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 26852,
+    "reference_id": 25994,
+    "title": "Manna",
+    "media_type": "Text",
+    "index_reference": "manna",
+    "language": "eng",
+    "content": "<h1>manna</h1><h2>Definition:</h2><p>Manna was a white, grain-like food that God provided for the Israelites to eat during the 40 years of living in the wilderness after they left Egypt.</p><ul><li><p>Manna looked like white flakes which appeared each morning on the ground under the dew. It tasted sweet, like honey.</p></li><li><p>The Israelites gathered the manna flakes every day except on the Sabbath.</p></li><li><p>On the day before the Sabbath, God told the Israelites to gather twice the amount of manna so they wouldn’t have to gather it on their day of rest.</p></li><li><p>The word “manna” means “what is it?”</p></li><li><p>In the Bible, manna is also referred to as “bread from heaven” and “grain from heaven.”</p></li></ul><h2>Translation Suggestions</h2><ul><li><p>Other ways to translate this term could include “thin white flakes of food” or “food from heaven.”</p></li><li><p>Also consider how this term is translated in a Bible translation in a local or national language. (See: How to Translate Unknowns)</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25554\" data-resourceType=\"UWTranslationWords\">bread</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">desert</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25825\" data-resourceType=\"UWTranslationWords\">heaven</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26186\" data-resourceType=\"UWTranslationWords\">Sabbath</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut8:3\">Deuteronomy 8:3</a></p></li><li><p><a href=\"https://ref.ly/Exod16:27\">Exodus 16:27</a></p></li><li><p><a href=\"https://ref.ly/Heb9:3-Heb9:5\">Hebrews 9:3–5</a></p></li><li><p><a href=\"https://ref.ly/John6:30-John6:31\">John 6:30–31</a></p></li><li><p><a href=\"https://ref.ly/Josh5:12\">Joshua 5:12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4478, G31310</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02016027",
+          "start_ref_usfm": "EXO 16:27",
+          "end_ref": "02016027",
+          "end_ref_usfm": "EXO 16:27"
+        },
+        {
+          "start_ref": "02016031",
+          "start_ref_usfm": "EXO 16:31",
+          "end_ref": "02016031",
+          "end_ref_usfm": "EXO 16:31"
+        },
+        {
+          "start_ref": "02016033",
+          "start_ref_usfm": "EXO 16:33",
+          "end_ref": "02016033",
+          "end_ref_usfm": "EXO 16:33"
+        },
+        {
+          "start_ref": "02016035",
+          "start_ref_usfm": "EXO 16:35",
+          "end_ref": "02016035",
+          "end_ref_usfm": "EXO 16:35"
+        },
+        {
+          "start_ref": "05008003",
+          "start_ref_usfm": "DEU 8:3",
+          "end_ref": "05008003",
+          "end_ref_usfm": "DEU 8:3"
+        },
+        {
+          "start_ref": "06005012",
+          "start_ref_usfm": "JOS 5:12",
+          "end_ref": "06005012",
+          "end_ref_usfm": "JOS 5:12"
+        },
+        {
+          "start_ref": "16009020",
+          "start_ref_usfm": "NEH 9:20",
+          "end_ref": "16009020",
+          "end_ref_usfm": "NEH 9:20"
+        },
+        {
+          "start_ref": "43006031",
+          "start_ref_usfm": "JHN 6:31",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        },
+        {
+          "start_ref": "43006049",
+          "start_ref_usfm": "JHN 6:49",
+          "end_ref": "43006049",
+          "end_ref_usfm": "JHN 6:49"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009004",
+          "end_ref_usfm": "HEB 9:4"
+        },
+        {
+          "start_ref": "66002017",
+          "start_ref_usfm": "REV 2:17",
+          "end_ref": "66002017",
+          "end_ref_usfm": "REV 2:17"
+        },
+        {
+          "start_ref": "58009003",
+          "start_ref_usfm": "HEB 9:3",
+          "end_ref": "58009005",
+          "end_ref_usfm": "HEB 9:5"
+        },
+        {
+          "start_ref": "43006030",
+          "start_ref_usfm": "JHN 6:30",
+          "end_ref": "43006031",
+          "end_ref_usfm": "JHN 6:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25554,
+          "content_id": 26412,
+          "label": "Bread",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 26520,
+          "label": "Desert",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 26659,
+          "label": "Grain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25825,
+          "content_id": 26683,
+          "label": "Heaven",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26186,
+          "content_id": 27044,
+          "label": "Sabbath",
+          "language": "eng"
+        },
+        {
+          "reference_id": 140900,
+          "content_id": 211427,
+          "label": "John 6:31 (#1)",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

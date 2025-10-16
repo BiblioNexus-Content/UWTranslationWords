@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 27093,
+    "reference_id": 26235,
+    "title": "Sihon",
+    "media_type": "Text",
+    "index_reference": "sihon",
+    "language": "eng",
+    "content": "<h1>Sihon</h1><p>Sihon is the name of a man who was an Amorite king who ruled over the land of Heshbon.</p><ul><li><p>The Israelites conquered Sihon and his people and land.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25454\" data-resourceType=\"UWTranslationWords\">Amorite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25833\" data-resourceType=\"UWTranslationWords\">Heshbon</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25454,
+          "content_id": 26312,
+          "label": "Amorite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25833,
+          "content_id": 26691,
+          "label": "Heshbon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

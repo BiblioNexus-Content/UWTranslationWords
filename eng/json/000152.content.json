@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26425,
+    "reference_id": 25567,
+    "title": "Call-Speak Loudly",
+    "media_type": "Text",
+    "index_reference": "call-speak loudly",
+    "language": "eng",
+    "content": "<h1>call, called, call out, called out</h1><h2>Definition:</h2><p>The terms “call” and “call out,” in this sense, mean to speak loudly.</p><ul><li><p>To “call out” to someone means to shout, to announce, or to proclaim. It can also mean to ask someone for help, especially God.</p></li><li><p>In some contexts the terms “call” and “call out” mean to loudly ask for help.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The expression “call out to you” could be translated as “ask you for help” or “pray to you urgently.”</p></li><li><p>When the Bible says that God has “called” us to be his servants, this could be translated as “specially chose us” or “appointed us” to be his servants.</p></li><li><p>“You must call his name” can also be translated as “you must name him.”</p></li><li><p>“His name is called” could also be translated as “his name is” or “he is named.”</p></li><li><p>To “call out” could be translated as “say loudly” or “shout” or “say with a loud voice.” Make sure the translation of this does not sound like the person is angry.</p></li><li><p>The expression “your calling” could be translated as “your purpose” or “God’s purpose for you” or “God’s special work for you.”</p></li><li><p>To “call on the name of the Lord” could be translated as “seek the Lord and depend on him” or “trust in the Lord and obey him.”</p></li><li><p>To “call for” something could be translated by “demand” or “ask for” or “command.”</p></li><li><p>The expression “you are called by my name” could be translated as “I have given you my name, showing that you belong to me.”</p></li><li><p>When God says, “I have called you by name,” this could be translated as “I know you and have chosen you.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26117\" data-resourceType=\"UWTranslationWords\">pray</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25630\" data-resourceType=\"UWTranslationWords\">cry</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25569\" data-resourceType=\"UWTranslationWords\">call to summon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25568\" data-resourceType=\"UWTranslationWords\">call name</span>)</p><h2>Bible References:</h2><h2>Word Data:</h2><ul><li><p>Strong’s: H0559, H2199, H4744, H6817, H7121, H7123, H7769, H7773, G01540, G03630, G14580, G15280, G19410, G19510, G20280, G20460, G25640, G28210, G28220, G28400, G29190, G30040, G31060, G33330, G33430, G36030, G36860, G36870, G43160, G43410, G43770, G47790, G48670, G54550, G55370, G55810</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "41001003",
+          "start_ref_usfm": "MRK 1:3",
+          "end_ref": "41001003",
+          "end_ref_usfm": "MRK 1:3"
+        },
+        {
+          "start_ref": "41015034",
+          "start_ref_usfm": "MRK 15:34",
+          "end_ref": "41015034",
+          "end_ref_usfm": "MRK 15:34"
+        },
+        {
+          "start_ref": "41015037",
+          "start_ref_usfm": "MRK 15:37",
+          "end_ref": "41015037",
+          "end_ref_usfm": "MRK 15:37"
+        },
+        {
+          "start_ref": "55002022",
+          "start_ref_usfm": "2TI 2:22",
+          "end_ref": "55002022",
+          "end_ref_usfm": "2TI 2:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25568,
+          "content_id": 26426,
+          "label": "Call-To Name",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25569,
+          "content_id": 26427,
+          "label": "Call-To Summon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26117,
+          "content_id": 26975,
+          "label": "Pray",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25630,
+          "content_id": 26488,
+          "label": "Cry",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

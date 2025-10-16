@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 467178,
+    "reference_id": 26041,
+    "title": "Nahum",
+    "media_type": "Text",
+    "index_reference": "nahum",
+    "language": "fra",
+    "content": "<h1>Nahum</h1><h2>Définition :</h2><p>Nahum était un prophète qui a prêché pendant le temps où le mavais roi Manassé régnait sur Juda.</p><ul><li><p>Nahum était de la ville de Elkosh, à environ 20 miles de Jérusalem.</p></li><li><p>Le livre de Nahum parlent des prophéties sur la destruction de la ville assyrienne de Ninive.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/assyria.md), (../names/manasseh.md), (../kt/prophet.md), (../names/nineveh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "34001001",
+          "start_ref_usfm": "NAM 1:1",
+          "end_ref": "34001001",
+          "end_ref_usfm": "NAM 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 467131,
+          "label": "Manassé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26054,
+          "content_id": 467190,
+          "label": "Ninive",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

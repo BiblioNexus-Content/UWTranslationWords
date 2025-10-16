@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 27207,
+    "reference_id": 26349,
+    "title": "Winnow",
+    "media_type": "Text",
+    "index_reference": "winnow",
+    "language": "eng",
+    "content": "<h1>winnow, sift</h1><h2>Definition:</h2><p>The terms “winnow” and “sift” mean to separate grain from unwanted materials. In the Bible, both words can also be used to refer to separating or dividing people.</p><ul><li><p>To “winnow” means to separate grain from the unwanted parts of the plant by tossing both the grain and chaff into the air, allowing the wind to blow the chaff away.</p></li><li><p>The word “sift” refers to shaking the winnowed grain in a sieve to get rid of any remaining unwanted materials, such as dirt or stones.</p></li><li><p>In the Old Testament, “winnow” and “sift” are used figuratively to describe hardship that separates the righteous people from the unrighteous people.</p></li><li><p>Jesus also used the term “sift” in this figurative way when he was telling Simon Peter about how he and the other disciples would be tested in their faith.</p></li><li><p>To translate these terms, use the words or phrases in the project language that refer to these activities; possible translations might be “shaking” or “fanning.” If winnowing or sifting are not known, then these terms could be translated by a term that refers to a different method of separating grain from chaff or dirt, or by describing this process.</p></li></ul><p>(See also: How to Translate Unknowns)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25581\" data-resourceType=\"UWTranslationWords\">chaff</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grain</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Isa21:10\">Isaiah 21:10</a></p></li><li><p><a href=\"https://ref.ly/Luke22:31\">Luke 22:31</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">Matthew 3:12</a></p></li><li><p><a href=\"https://ref.ly/Prov20:8\">Proverbs 20:8</a></p></li><li><p><a href=\"https://ref.ly/Ruth3:2\">Ruth 3:2</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2219, H5128, H5130, G44250, G46170</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "18018015",
+          "start_ref_usfm": "JOB 18:15",
+          "end_ref": "18018015",
+          "end_ref_usfm": "JOB 18:15"
+        },
+        {
+          "start_ref": "20020008",
+          "start_ref_usfm": "PRO 20:8",
+          "end_ref": "20020008",
+          "end_ref_usfm": "PRO 20:8"
+        },
+        {
+          "start_ref": "23021010",
+          "start_ref_usfm": "ISA 21:10",
+          "end_ref": "23021010",
+          "end_ref_usfm": "ISA 21:10"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42022031",
+          "start_ref_usfm": "LUK 22:31",
+          "end_ref": "42022031",
+          "end_ref_usfm": "LUK 22:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25581,
+          "content_id": 26439,
+          "label": "Chaff",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 26659,
+          "label": "Grain",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

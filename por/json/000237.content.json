@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237724,
+    "reference_id": 25589,
+    "title": "Crônicas",
+    "media_type": "Text",
+    "index_reference": "crônicas",
+    "language": "por",
+    "content": "<h1>crônicas</h1><h2>Definição:</h2><p>O termo “crônica” refere-se a um registro escrito de eventos ao longo de um período de tempo.</p><ul><li><p>Dois livros do Antigo Testamento são chamados de “Primeiro Livro das Crônicas” e “Segundo Livro das Crônicas”.</p></li><li><p>Os livros chamados “Crônicas” registram parte da história do povo israelita, começando com uma lista de pessoas em cada geração desde Adão.</p></li><li><p>O “Primeiro Livro das Crônicas” registra o fim da vida do Rei Saul e os eventos do reinado do Rei Davi.</p></li><li><p>O “Segundo Livro das Crônicas” registra os reinados do Rei Salomão e de vários outros reis, incluindo a construção do templo e a separação do reino do norte de Israel do reino do sul de Judá.</p></li><li><p>O final de 2 Crônicas descreve o início do exílio babilônico.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exílio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judá</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:24\">1 Crônicas 27.24</a></p></li><li><p><a href=\"https://ref.ly/2Chr33:19\">2 Crônicas 33.19</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Ester 10.1–2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1697</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13027024",
+          "start_ref_usfm": "1CH 27:24",
+          "end_ref": "13027024",
+          "end_ref_usfm": "1CH 27:24"
+        },
+        {
+          "start_ref": "14033019",
+          "start_ref_usfm": "2CH 33:19",
+          "end_ref": "14033019",
+          "end_ref_usfm": "2CH 33:19"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 237854,
+          "label": "Exílio",
+          "language": "por"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 238057,
+          "label": "Judá",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

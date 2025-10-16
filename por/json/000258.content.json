@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237682,
+    "reference_id": 25546,
+    "title": "Derramamento de sangue",
+    "media_type": "Text",
+    "index_reference": "derramamento de sangue",
+    "language": "por",
+    "content": "<h1>derramamento de sangue</h1><h2>Definição:</h2><p>O termo “derramamento de sangue” refere-se à morte de seres humanos devido a assassinato, guerra ou algum outro ato violento.</p><ul><li><p>Este termo literalmente significa “sangue sendo derramado”, que se refere a quando o sangue sai do corpo de uma pessoa por uma ferida aberta.</p></li><li><p>O termo “derramamento de sangue” é frequentemente usado para se referir à matança generalizada de pessoas.</p></li><li><p>Também é usado como uma referência geral ao pecado do assassinato.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>“O derramamento de sangue” poderia ser traduzido como “a matança de pessoas” ou “as muitas pessoas que foram mortas”.</p></li><li><p>“Através do derramamento de sangue” também poderia ser traduzido como “matando pessoas”.</p></li><li><p>“Derramamento de sangue inocente” poderia ser traduzido como “matando pessoas inocentes”.</p></li><li><p>“Derramamento de sangue segue derramamento de sangue” poderia ser traduzido como “eles continuam matando pessoas” ou “a matança de pessoas continua” ou “eles mataram muitas pessoas e continuam fazendo isso” ou “as pessoas continuam matando outras pessoas”.</p></li><li><p>Outro uso figurativo, “o derramamento de sangue te perseguirá,” poderia ser traduzido como “seu povo continuará a experimentar derramamento de sangue” ou “seu povo continuará sendo morto” ou “seu povo continuará em guerra com outras nações e pessoas continuarão morrendo”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_blood\" data-resourceType=\"UWTranslationWords\">sangue</span>; <span data-bnType=\"resourceReference\" data-resourceId=\"26245\" data-resourceType=\"UWTranslationWords\">abate</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr22:6-1Chr22:8\">1 Crônicas 22.6–8</a></p></li><li><p><a href=\"https://ref.ly/Gen9:5-Gen9:7\">Gênesis 9.5–7</a></p></li><li><p><a href=\"https://ref.ly/Heb9:21-Heb9:22\">Hebreus 9.21–22</a></p></li><li><p><a href=\"https://ref.ly/Isa26:21\">Isaías 26.21</a></p></li><li><p><a href=\"https://ref.ly/Matt23:29-Matt23:31\">Mateus 23.29–31</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1818</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02022002",
+          "start_ref_usfm": "EXO 22:2",
+          "end_ref": "02022002",
+          "end_ref_usfm": "EXO 22:2"
+        },
+        {
+          "start_ref": "02022003",
+          "start_ref_usfm": "EXO 22:3",
+          "end_ref": "02022003",
+          "end_ref_usfm": "EXO 22:3"
+        },
+        {
+          "start_ref": "20029010",
+          "start_ref_usfm": "PRO 29:10",
+          "end_ref": "20029010",
+          "end_ref_usfm": "PRO 29:10"
+        },
+        {
+          "start_ref": "23026021",
+          "start_ref_usfm": "ISA 26:21",
+          "end_ref": "23026021",
+          "end_ref_usfm": "ISA 26:21"
+        },
+        {
+          "start_ref": "01009005",
+          "start_ref_usfm": "GEN 9:5",
+          "end_ref": "01009007",
+          "end_ref_usfm": "GEN 9:7"
+        },
+        {
+          "start_ref": "40023029",
+          "start_ref_usfm": "MAT 23:29",
+          "end_ref": "40023031",
+          "end_ref_usfm": "MAT 23:31"
+        },
+        {
+          "start_ref": "13022006",
+          "start_ref_usfm": "1CH 22:6",
+          "end_ref": "13022008",
+          "end_ref_usfm": "1CH 22:8"
+        },
+        {
+          "start_ref": "58009021",
+          "start_ref_usfm": "HEB 9:21",
+          "end_ref": "58009022",
+          "end_ref_usfm": "HEB 9:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26245,
+          "content_id": 238374,
+          "label": "Abate",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

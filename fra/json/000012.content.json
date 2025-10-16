@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466600,
+    "reference_id": 25418,
+    "title": "Abel",
+    "media_type": "Text",
+    "index_reference": "abel",
+    "language": "fra",
+    "content": "<h1>Abel</h1><h2>Définition :</h2><p>Abel était le deuxième fils d&apos;Adam et Eve* Il était le frère cadet de Caïn.</p><ul><li><p>Abel était berger.</p></li><li><p>Abel offrit certains de ses animaux en sacrifice à Dieu.</p></li><li><p>Dieu agréa Abel et son offrande.</p></li><li><p>Caïn, fils ainé d&apos;Adam et Eve, tua Abel.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cain.md), (../other/sacrifice.md), (../other/shepherd.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004002",
+          "start_ref_usfm": "GEN 4:2",
+          "end_ref": "01004002",
+          "end_ref_usfm": "GEN 4:2"
+        },
+        {
+          "start_ref": "01004004",
+          "start_ref_usfm": "GEN 4:4",
+          "end_ref": "01004004",
+          "end_ref_usfm": "GEN 4:4"
+        },
+        {
+          "start_ref": "01004008",
+          "start_ref_usfm": "GEN 4:8",
+          "end_ref": "01004008",
+          "end_ref_usfm": "GEN 4:8"
+        },
+        {
+          "start_ref": "01004009",
+          "start_ref_usfm": "GEN 4:9",
+          "end_ref": "01004009",
+          "end_ref_usfm": "GEN 4:9"
+        },
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "40023035",
+          "start_ref_usfm": "MAT 23:35",
+          "end_ref": "40023035",
+          "end_ref_usfm": "MAT 23:35"
+        },
+        {
+          "start_ref": "42011051",
+          "start_ref_usfm": "LUK 11:51",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        },
+        {
+          "start_ref": "58011004",
+          "start_ref_usfm": "HEB 11:4",
+          "end_ref": "58011004",
+          "end_ref_usfm": "HEB 11:4"
+        },
+        {
+          "start_ref": "58012024",
+          "start_ref_usfm": "HEB 12:24",
+          "end_ref": "58012024",
+          "end_ref_usfm": "HEB 12:24"
+        },
+        {
+          "start_ref": "42011049",
+          "start_ref_usfm": "LUK 11:49",
+          "end_ref": "42011051",
+          "end_ref_usfm": "LUK 11:51"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 466736,
+          "label": "Caïn",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 467307,
+          "label": "Sacrificer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 467342,
+          "label": "Le berger",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 467152,
+    "reference_id": 26015,
+    "title": "Messager",
+    "media_type": "Text",
+    "index_reference": "messager",
+    "language": "fra",
+    "content": "<h1>messager, message</h1><h2>Définition :</h2><p>Le terme &quot;messager&quot; fait référence à quelqu&apos;un qui reçoit un message qu&apos;il va transmettre à quelqu’un d’autre.</p><ul><li><p>Dans les temps anciens, un messager on envoyait un &quot;messager&quot; du champ de bataille pour annoncer ce qui se passait aux gens de la ville.</p></li><li><p>Un ange est un type spécial de messager que Dieu envoie pour donner aux gens des &quot;messages&quot;. Certaines traductions de la Bible appellent un &quot;ange&quot; un &quot;messager&quot;.</p></li><li><p>Un prophète est une personne qui donne à d&apos;autres personnes les enseignements de Dieu, les avertissements et les autres types de messages.</p></li><li><p>Jean-Baptiste a été appelé un messager qui est venu avant Jésus pour annoncer la venue du Messie et de préparer les gens à le recevoir.</p></li><li><p>Les apôtres de Jésus étaient ses messagers pour aller partager avec d&apos;autres personnes les bonnes nouvelles du royaume de Dieu.</p></li></ul><p>(Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">ange</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apôtre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">Jean (le Baptiste)</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01032003",
+          "start_ref_usfm": "GEN 32:3",
+          "end_ref": "01032003",
+          "end_ref_usfm": "GEN 32:3"
+        },
+        {
+          "start_ref": "01032006",
+          "start_ref_usfm": "GEN 32:6",
+          "end_ref": "01032006",
+          "end_ref_usfm": "GEN 32:6"
+        },
+        {
+          "start_ref": "02014019",
+          "start_ref_usfm": "EXO 14:19",
+          "end_ref": "02014019",
+          "end_ref_usfm": "EXO 14:19"
+        },
+        {
+          "start_ref": "09006021",
+          "start_ref_usfm": "1SA 6:21",
+          "end_ref": "09006021",
+          "end_ref_usfm": "1SA 6:21"
+        },
+        {
+          "start_ref": "16006003",
+          "start_ref_usfm": "NEH 6:3",
+          "end_ref": "16006003",
+          "end_ref_usfm": "NEH 6:3"
+        },
+        {
+          "start_ref": "18033023",
+          "start_ref_usfm": "JOB 33:23",
+          "end_ref": "18033023",
+          "end_ref_usfm": "JOB 33:23"
+        },
+        {
+          "start_ref": "20013017",
+          "start_ref_usfm": "PRO 13:17",
+          "end_ref": "20013017",
+          "end_ref_usfm": "PRO 13:17"
+        },
+        {
+          "start_ref": "20016014",
+          "start_ref_usfm": "PRO 16:14",
+          "end_ref": "20016014",
+          "end_ref_usfm": "PRO 16:14"
+        },
+        {
+          "start_ref": "20017011",
+          "start_ref_usfm": "PRO 17:11",
+          "end_ref": "20017011",
+          "end_ref_usfm": "PRO 17:11"
+        },
+        {
+          "start_ref": "20025013",
+          "start_ref_usfm": "PRO 25:13",
+          "end_ref": "20025013",
+          "end_ref_usfm": "PRO 25:13"
+        },
+        {
+          "start_ref": "31001001",
+          "start_ref_usfm": "OBA 1:1",
+          "end_ref": "31001001",
+          "end_ref_usfm": "OBA 1:1"
+        },
+        {
+          "start_ref": "37001013",
+          "start_ref_usfm": "HAG 1:13",
+          "end_ref": "37001013",
+          "end_ref_usfm": "HAG 1:13"
+        },
+        {
+          "start_ref": "40011010",
+          "start_ref_usfm": "MAT 11:10",
+          "end_ref": "40011010",
+          "end_ref_usfm": "MAT 11:10"
+        },
+        {
+          "start_ref": "41001002",
+          "start_ref_usfm": "MRK 1:2",
+          "end_ref": "41001002",
+          "end_ref_usfm": "MRK 1:2"
+        },
+        {
+          "start_ref": "42007024",
+          "start_ref_usfm": "LUK 7:24",
+          "end_ref": "42007024",
+          "end_ref_usfm": "LUK 7:24"
+        },
+        {
+          "start_ref": "42007027",
+          "start_ref_usfm": "LUK 7:27",
+          "end_ref": "42007027",
+          "end_ref_usfm": "LUK 7:27"
+        },
+        {
+          "start_ref": "42009052",
+          "start_ref_usfm": "LUK 9:52",
+          "end_ref": "42009052",
+          "end_ref_usfm": "LUK 9:52"
+        },
+        {
+          "start_ref": "43013016",
+          "start_ref_usfm": "JHN 13:16",
+          "end_ref": "43013016",
+          "end_ref_usfm": "JHN 13:16"
+        },
+        {
+          "start_ref": "47008023",
+          "start_ref_usfm": "2CO 8:23",
+          "end_ref": "47008023",
+          "end_ref_usfm": "2CO 8:23"
+        },
+        {
+          "start_ref": "47012007",
+          "start_ref_usfm": "2CO 12:7",
+          "end_ref": "47012007",
+          "end_ref_usfm": "2CO 12:7"
+        },
+        {
+          "start_ref": "50002025",
+          "start_ref_usfm": "PHP 2:25",
+          "end_ref": "50002025",
+          "end_ref_usfm": "PHP 2:25"
+        },
+        {
+          "start_ref": "59002025",
+          "start_ref_usfm": "JAS 2:25",
+          "end_ref": "59002025",
+          "end_ref_usfm": "JAS 2:25"
+        },
+        {
+          "start_ref": "11019001",
+          "start_ref_usfm": "1KI 19:1",
+          "end_ref": "11019003",
+          "end_ref_usfm": "1KI 19:3"
+        },
+        {
+          "start_ref": "12001001",
+          "start_ref_usfm": "2KI 1:1",
+          "end_ref": "12001002",
+          "end_ref_usfm": "2KI 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 466639,
+          "label": "Ange",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25466,
+          "content_id": 466645,
+          "label": "Apôtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25912,
+          "content_id": 467057,
+          "label": "Jean (le Baptiste)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,377 @@
+[
+  {
+    "content_id": 467228,
+    "reference_id": 26104,
+    "title": "Pilate",
+    "media_type": "Text",
+    "index_reference": "pilate",
+    "language": "fra",
+    "content": "<h1>Pilate</h1><h2>Données :</h2><p>Pilate était le gouverneur de la province romaine de Judée qui a condamné Jésus à mort.</p><ul><li><p>Parce que Pilate était gouverneur, il avait le pouvoir de mettre à mort les criminels.</p></li><li><p>Les chefs religieux juifs voulaient que Pilate crucifie Jésus, donc ils ont menti et ont dit que Jésus était un criminel.</p></li><li><p>Pilate s&apos;est rendu compte que Jésus n&apos;était pas coupable, mais il avait peur de la foule et voulait leur plaire, alors il a ordonné à ses soldats de crucifier Jésus.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/crucify.md), (../other/governor.md), (../kt/guilt.md), (../names/judea.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027002",
+          "start_ref_usfm": "MAT 27:2",
+          "end_ref": "40027002",
+          "end_ref_usfm": "MAT 27:2"
+        },
+        {
+          "start_ref": "40027013",
+          "start_ref_usfm": "MAT 27:13",
+          "end_ref": "40027013",
+          "end_ref_usfm": "MAT 27:13"
+        },
+        {
+          "start_ref": "40027017",
+          "start_ref_usfm": "MAT 27:17",
+          "end_ref": "40027017",
+          "end_ref_usfm": "MAT 27:17"
+        },
+        {
+          "start_ref": "40027022",
+          "start_ref_usfm": "MAT 27:22",
+          "end_ref": "40027022",
+          "end_ref_usfm": "MAT 27:22"
+        },
+        {
+          "start_ref": "40027024",
+          "start_ref_usfm": "MAT 27:24",
+          "end_ref": "40027024",
+          "end_ref_usfm": "MAT 27:24"
+        },
+        {
+          "start_ref": "40027058",
+          "start_ref_usfm": "MAT 27:58",
+          "end_ref": "40027058",
+          "end_ref_usfm": "MAT 27:58"
+        },
+        {
+          "start_ref": "40027062",
+          "start_ref_usfm": "MAT 27:62",
+          "end_ref": "40027062",
+          "end_ref_usfm": "MAT 27:62"
+        },
+        {
+          "start_ref": "40027065",
+          "start_ref_usfm": "MAT 27:65",
+          "end_ref": "40027065",
+          "end_ref_usfm": "MAT 27:65"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015002",
+          "start_ref_usfm": "MRK 15:2",
+          "end_ref": "41015002",
+          "end_ref_usfm": "MRK 15:2"
+        },
+        {
+          "start_ref": "41015004",
+          "start_ref_usfm": "MRK 15:4",
+          "end_ref": "41015004",
+          "end_ref_usfm": "MRK 15:4"
+        },
+        {
+          "start_ref": "41015005",
+          "start_ref_usfm": "MRK 15:5",
+          "end_ref": "41015005",
+          "end_ref_usfm": "MRK 15:5"
+        },
+        {
+          "start_ref": "41015009",
+          "start_ref_usfm": "MRK 15:9",
+          "end_ref": "41015009",
+          "end_ref_usfm": "MRK 15:9"
+        },
+        {
+          "start_ref": "41015012",
+          "start_ref_usfm": "MRK 15:12",
+          "end_ref": "41015012",
+          "end_ref_usfm": "MRK 15:12"
+        },
+        {
+          "start_ref": "41015014",
+          "start_ref_usfm": "MRK 15:14",
+          "end_ref": "41015014",
+          "end_ref_usfm": "MRK 15:14"
+        },
+        {
+          "start_ref": "41015015",
+          "start_ref_usfm": "MRK 15:15",
+          "end_ref": "41015015",
+          "end_ref_usfm": "MRK 15:15"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "41015044",
+          "start_ref_usfm": "MRK 15:44",
+          "end_ref": "41015044",
+          "end_ref_usfm": "MRK 15:44"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42013001",
+          "start_ref_usfm": "LUK 13:1",
+          "end_ref": "42013001",
+          "end_ref_usfm": "LUK 13:1"
+        },
+        {
+          "start_ref": "42023001",
+          "start_ref_usfm": "LUK 23:1",
+          "end_ref": "42023001",
+          "end_ref_usfm": "LUK 23:1"
+        },
+        {
+          "start_ref": "42023002",
+          "start_ref_usfm": "LUK 23:2",
+          "end_ref": "42023002",
+          "end_ref_usfm": "LUK 23:2"
+        },
+        {
+          "start_ref": "42023003",
+          "start_ref_usfm": "LUK 23:3",
+          "end_ref": "42023003",
+          "end_ref_usfm": "LUK 23:3"
+        },
+        {
+          "start_ref": "42023004",
+          "start_ref_usfm": "LUK 23:4",
+          "end_ref": "42023004",
+          "end_ref_usfm": "LUK 23:4"
+        },
+        {
+          "start_ref": "42023006",
+          "start_ref_usfm": "LUK 23:6",
+          "end_ref": "42023006",
+          "end_ref_usfm": "LUK 23:6"
+        },
+        {
+          "start_ref": "42023011",
+          "start_ref_usfm": "LUK 23:11",
+          "end_ref": "42023011",
+          "end_ref_usfm": "LUK 23:11"
+        },
+        {
+          "start_ref": "42023012",
+          "start_ref_usfm": "LUK 23:12",
+          "end_ref": "42023012",
+          "end_ref_usfm": "LUK 23:12"
+        },
+        {
+          "start_ref": "42023013",
+          "start_ref_usfm": "LUK 23:13",
+          "end_ref": "42023013",
+          "end_ref_usfm": "LUK 23:13"
+        },
+        {
+          "start_ref": "42023020",
+          "start_ref_usfm": "LUK 23:20",
+          "end_ref": "42023020",
+          "end_ref_usfm": "LUK 23:20"
+        },
+        {
+          "start_ref": "42023024",
+          "start_ref_usfm": "LUK 23:24",
+          "end_ref": "42023024",
+          "end_ref_usfm": "LUK 23:24"
+        },
+        {
+          "start_ref": "42023052",
+          "start_ref_usfm": "LUK 23:52",
+          "end_ref": "42023052",
+          "end_ref_usfm": "LUK 23:52"
+        },
+        {
+          "start_ref": "43018029",
+          "start_ref_usfm": "JHN 18:29",
+          "end_ref": "43018029",
+          "end_ref_usfm": "JHN 18:29"
+        },
+        {
+          "start_ref": "43018031",
+          "start_ref_usfm": "JHN 18:31",
+          "end_ref": "43018031",
+          "end_ref_usfm": "JHN 18:31"
+        },
+        {
+          "start_ref": "43018033",
+          "start_ref_usfm": "JHN 18:33",
+          "end_ref": "43018033",
+          "end_ref_usfm": "JHN 18:33"
+        },
+        {
+          "start_ref": "43018035",
+          "start_ref_usfm": "JHN 18:35",
+          "end_ref": "43018035",
+          "end_ref_usfm": "JHN 18:35"
+        },
+        {
+          "start_ref": "43018037",
+          "start_ref_usfm": "JHN 18:37",
+          "end_ref": "43018037",
+          "end_ref_usfm": "JHN 18:37"
+        },
+        {
+          "start_ref": "43018038",
+          "start_ref_usfm": "JHN 18:38",
+          "end_ref": "43018038",
+          "end_ref_usfm": "JHN 18:38"
+        },
+        {
+          "start_ref": "43019001",
+          "start_ref_usfm": "JHN 19:1",
+          "end_ref": "43019001",
+          "end_ref_usfm": "JHN 19:1"
+        },
+        {
+          "start_ref": "43019004",
+          "start_ref_usfm": "JHN 19:4",
+          "end_ref": "43019004",
+          "end_ref_usfm": "JHN 19:4"
+        },
+        {
+          "start_ref": "43019006",
+          "start_ref_usfm": "JHN 19:6",
+          "end_ref": "43019006",
+          "end_ref_usfm": "JHN 19:6"
+        },
+        {
+          "start_ref": "43019008",
+          "start_ref_usfm": "JHN 19:8",
+          "end_ref": "43019008",
+          "end_ref_usfm": "JHN 19:8"
+        },
+        {
+          "start_ref": "43019010",
+          "start_ref_usfm": "JHN 19:10",
+          "end_ref": "43019010",
+          "end_ref_usfm": "JHN 19:10"
+        },
+        {
+          "start_ref": "43019012",
+          "start_ref_usfm": "JHN 19:12",
+          "end_ref": "43019012",
+          "end_ref_usfm": "JHN 19:12"
+        },
+        {
+          "start_ref": "43019013",
+          "start_ref_usfm": "JHN 19:13",
+          "end_ref": "43019013",
+          "end_ref_usfm": "JHN 19:13"
+        },
+        {
+          "start_ref": "43019015",
+          "start_ref_usfm": "JHN 19:15",
+          "end_ref": "43019015",
+          "end_ref_usfm": "JHN 19:15"
+        },
+        {
+          "start_ref": "43019019",
+          "start_ref_usfm": "JHN 19:19",
+          "end_ref": "43019019",
+          "end_ref_usfm": "JHN 19:19"
+        },
+        {
+          "start_ref": "43019021",
+          "start_ref_usfm": "JHN 19:21",
+          "end_ref": "43019021",
+          "end_ref_usfm": "JHN 19:21"
+        },
+        {
+          "start_ref": "43019022",
+          "start_ref_usfm": "JHN 19:22",
+          "end_ref": "43019022",
+          "end_ref_usfm": "JHN 19:22"
+        },
+        {
+          "start_ref": "43019031",
+          "start_ref_usfm": "JHN 19:31",
+          "end_ref": "43019031",
+          "end_ref_usfm": "JHN 19:31"
+        },
+        {
+          "start_ref": "43019038",
+          "start_ref_usfm": "JHN 19:38",
+          "end_ref": "43019038",
+          "end_ref_usfm": "JHN 19:38"
+        },
+        {
+          "start_ref": "44003013",
+          "start_ref_usfm": "ACT 3:13",
+          "end_ref": "44003013",
+          "end_ref_usfm": "ACT 3:13"
+        },
+        {
+          "start_ref": "44004027",
+          "start_ref_usfm": "ACT 4:27",
+          "end_ref": "44004027",
+          "end_ref_usfm": "ACT 4:27"
+        },
+        {
+          "start_ref": "44013028",
+          "start_ref_usfm": "ACT 13:28",
+          "end_ref": "44013028",
+          "end_ref_usfm": "ACT 13:28"
+        },
+        {
+          "start_ref": "54006013",
+          "start_ref_usfm": "1TI 6:13",
+          "end_ref": "54006013",
+          "end_ref_usfm": "1TI 6:13"
+        },
+        {
+          "start_ref": "44004027",
+          "start_ref_usfm": "ACT 4:27",
+          "end_ref": "44004028",
+          "end_ref_usfm": "ACT 4:28"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25629,
+          "content_id": 466793,
+          "label": "Crucifier",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25799,
+          "content_id": 466948,
+          "label": "Gouverneur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25806,
+          "content_id": 466955,
+          "label": "Culpabilité",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 467073,
+          "label": "Judée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238423,
+    "reference_id": 26294,
+    "title": "Tetrarca",
+    "media_type": "Text",
+    "index_reference": "tetrarca",
+    "language": "por",
+    "content": "<h1>tetrarca</h1><h2>Definição:</h2><p>O termo “tetrarca” refere-se a um oficial governante que governava parte do Império Romano. Cada tetrarca estava sob a autoridade do imperador romano.</p><ul><li><p>O título “tetrarca” significa “um dos quatro governantes conjuntos”.</p></li><li><p>Começando sob o imperador Diocleciano, havia quatro grandes divisões do Império Romano e cada tetrarca governava uma divisão.</p></li><li><p>O reino de Herodes “o Grande”, que era rei na época do nascimento de Jesus, foi dividido em quatro seções após sua morte, e governado por seus filhos como “tetrarcas”, ou “governantes de um quarto”.</p></li><li><p>Cada divisão tinha uma ou mais partes menores chamadas “províncias”, como Galileia ou Samaria.</p></li><li><p>“Herodes o tetrarca” é mencionado várias vezes no Novo Testamento. Ele também é conhecido como “Herodes Antipas”.</p></li><li><p>O termo “tetrarca” também poderia ser traduzido como “governador regional”, “governador provincial”, “governante” ou “governador”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25799\" data-resourceType=\"UWTranslationWords\">governador</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herodes Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">província</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26184\" data-resourceType=\"UWTranslationWords\">governante</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Luke3:1-Luke3:2\">Lucas 3.1–2</a></p></li><li><p><a href=\"https://ref.ly/Luke9:7\">Lucas 9.7</a></p></li><li><p><a href=\"https://ref.ly/Matt14:1-Matt14:2\">Mateus 14.1–2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G50750, G50760</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014001",
+          "end_ref_usfm": "MAT 14:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009007",
+          "end_ref_usfm": "LUK 9:7"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25799,
+          "content_id": 237932,
+          "label": "Governador",
+          "language": "por"
+        },
+        {
+          "reference_id": 25830,
+          "content_id": 237963,
+          "label": "Herodes Antipas",
+          "language": "por"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 191642,
+          "label": "Governante",
+          "language": "por"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 238267,
+          "label": "Província",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

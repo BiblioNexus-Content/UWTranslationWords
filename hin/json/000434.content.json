@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 180195,
+    "reference_id": 26136,
+    "title": "नीतिवचन",
+    "media_type": "Text",
+    "index_reference": "नीतिवचन",
+    "language": "hin",
+    "content": "<h1>नीतिवचन,</h1><h2>परिभाषा:</h2><p>नीतिवचन एक छोटी उक्ति है जो बुद्धि की बात या सत्य प्रकट करती है।</p><ul><li><p>नीतिवचन प्रभावशाली होते है क्योंकि उन्हें स्मरण रखना और दोहराना आसान होता है।</p></li><li><p>नीतिवचन में अधिकतर दैनिक जीवन के व्यावहारिक उदाहरण होते हैं।</p></li><li><p>कुछ नीतिवचन स्पष्ट एवं सीधे होते है जबकि कुछ नीतिवचन समझने में कठिन होते हैं।</p></li><li><p>राजा सुलैमान अपनी बुद्धि के लिए प्रसिद्ध था, उसने 1,000 से अधिक नीतिवचन लिखे थे।</p></li><li><p>यीशु मनुष्यों को शिक्षा देने के लिए प्रायः नीतिवचनों एवं दृष्टान्तों का उपयोग करता था।</p></li><li><p>“नीतिवचन” का अनुवाद हो सकता है, “बुद्धि की बातें” या “सत्य वचन”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">सुलैमान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_true\" data-resourceType=\"UWTranslationWords\">सत्य</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26350\" data-resourceType=\"UWTranslationWords\">बुद्धिमान</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 4:32–34</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 24:12–13</a></p></li><li><p><a href=\"https://ref.ly/2Pet0:0\">2 पतरस 2:22</a></p></li><li><p><a href=\"https://ref.ly/Luke4:24\">लूका 4:24</a></p></li><li><p><a href=\"https://ref.ly/Prov1:1-Prov1:3\">नीतिवचन 1:1–3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H2420, H4911, H4912, G38500, G39420</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001001",
+          "end_ref_usfm": "PRO 1:1"
+        },
+        {
+          "start_ref": "20001006",
+          "start_ref_usfm": "PRO 1:6",
+          "end_ref": "20001006",
+          "end_ref_usfm": "PRO 1:6"
+        },
+        {
+          "start_ref": "20010001",
+          "start_ref_usfm": "PRO 10:1",
+          "end_ref": "20010001",
+          "end_ref_usfm": "PRO 10:1"
+        },
+        {
+          "start_ref": "20025001",
+          "start_ref_usfm": "PRO 25:1",
+          "end_ref": "20025001",
+          "end_ref_usfm": "PRO 25:1"
+        },
+        {
+          "start_ref": "20026007",
+          "start_ref_usfm": "PRO 26:7",
+          "end_ref": "20026007",
+          "end_ref_usfm": "PRO 26:7"
+        },
+        {
+          "start_ref": "20026009",
+          "start_ref_usfm": "PRO 26:9",
+          "end_ref": "20026009",
+          "end_ref_usfm": "PRO 26:9"
+        },
+        {
+          "start_ref": "42004023",
+          "start_ref_usfm": "LUK 4:23",
+          "end_ref": "42004023",
+          "end_ref_usfm": "LUK 4:23"
+        },
+        {
+          "start_ref": "42004024",
+          "start_ref_usfm": "LUK 4:24",
+          "end_ref": "42004024",
+          "end_ref_usfm": "LUK 4:24"
+        },
+        {
+          "start_ref": "61002022",
+          "start_ref_usfm": "2PE 2:22",
+          "end_ref": "61002022",
+          "end_ref_usfm": "2PE 2:22"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "09024012",
+          "start_ref_usfm": "1SA 24:12",
+          "end_ref": "09024013",
+          "end_ref_usfm": "1SA 24:13"
+        },
+        {
+          "start_ref": "20001001",
+          "start_ref_usfm": "PRO 1:1",
+          "end_ref": "20001003",
+          "end_ref_usfm": "PRO 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26249,
+          "content_id": 180303,
+          "label": "सुलैमान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26350,
+          "content_id": 180402,
+          "label": "बुद्धिमान",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

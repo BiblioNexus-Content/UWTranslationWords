@@ -1,0 +1,94 @@
+[
+  {
+    "content_id": 466612,
+    "reference_id": 25430,
+    "title": "Exhorter",
+    "media_type": "Text",
+    "index_reference": "exhorter",
+    "language": "fra",
+    "content": "<h1>exhorter</h1><h2>Définition :</h2><p>Le terme &quot;exhorter&quot; signifie &quot;avertir&quot; fermement, encourager ou persuader quelqu&apos;un.</p><ul><li><p>Souvent &quot;exhorter&quot; signifie encourager ou persuader quelqu&apos;un de ne pas faire quelque chose.</p></li><li><p>Dans l&apos;Église de Jésus Christ, on apprend aux croyants de s&apos;exhorter les uns les autres, d&apos;éviter de pécher et de vivre une vie sainte.</p></li><li><p>Le mot &quot;exhorter&quot; pourrait être traduit par, &quot;encourager à ne pas pécher&quot; ou &quot;persuader à ne pas pécher&quot;.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02021029",
+          "start_ref_usfm": "EXO 21:29",
+          "end_ref": "02021029",
+          "end_ref_usfm": "EXO 21:29"
+        },
+        {
+          "start_ref": "44020031",
+          "start_ref_usfm": "ACT 20:31",
+          "end_ref": "44020031",
+          "end_ref_usfm": "ACT 20:31"
+        },
+        {
+          "start_ref": "45015014",
+          "start_ref_usfm": "ROM 15:14",
+          "end_ref": "45015014",
+          "end_ref_usfm": "ROM 15:14"
+        },
+        {
+          "start_ref": "46004014",
+          "start_ref_usfm": "1CO 4:14",
+          "end_ref": "46004014",
+          "end_ref_usfm": "1CO 4:14"
+        },
+        {
+          "start_ref": "46010011",
+          "start_ref_usfm": "1CO 10:11",
+          "end_ref": "46010011",
+          "end_ref_usfm": "1CO 10:11"
+        },
+        {
+          "start_ref": "49006004",
+          "start_ref_usfm": "EPH 6:4",
+          "end_ref": "49006004",
+          "end_ref_usfm": "EPH 6:4"
+        },
+        {
+          "start_ref": "51001028",
+          "start_ref_usfm": "COL 1:28",
+          "end_ref": "51001028",
+          "end_ref_usfm": "COL 1:28"
+        },
+        {
+          "start_ref": "51003016",
+          "start_ref_usfm": "COL 3:16",
+          "end_ref": "51003016",
+          "end_ref_usfm": "COL 3:16"
+        },
+        {
+          "start_ref": "52005012",
+          "start_ref_usfm": "1TH 5:12",
+          "end_ref": "52005012",
+          "end_ref_usfm": "1TH 5:12"
+        },
+        {
+          "start_ref": "52005014",
+          "start_ref_usfm": "1TH 5:14",
+          "end_ref": "52005014",
+          "end_ref_usfm": "1TH 5:14"
+        },
+        {
+          "start_ref": "53003015",
+          "start_ref_usfm": "2TH 3:15",
+          "end_ref": "53003015",
+          "end_ref_usfm": "2TH 3:15"
+        },
+        {
+          "start_ref": "56003010",
+          "start_ref_usfm": "TIT 3:10",
+          "end_ref": "56003010",
+          "end_ref_usfm": "TIT 3:10"
+        },
+        {
+          "start_ref": "16009032",
+          "start_ref_usfm": "NEH 9:32",
+          "end_ref": "16009034",
+          "end_ref_usfm": "NEH 9:34"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

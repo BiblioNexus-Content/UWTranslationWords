@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467054,
+    "reference_id": 25909,
+    "title": "Joël",
+    "media_type": "Text",
+    "index_reference": "joël",
+    "language": "fra",
+    "content": "<h1>Joël</h1><h2>Définition :</h2><p>&quot;Joël est le nom d&apos;un prophète qui a écrit un livre de l&apos;Ancien Testament ** Le livre de Joël est l&apos;un des douze livres prophétiques courts qui constituent la dernière partie de l&apos;Ancien Testament.</p><ul><li><p>Le seul renseignement personnel que nous avons sur le prophète Joël est que le nom de son père était Pethuel.</p></li><li><p>Du contenu de son livre, il est probable que Joël a prophétisé en Juda, qui était le royaume israélite du sud.</p></li><li><p>On ne sait pas quand le prophète Joël a vécu et prophétisé, mais sur la base du contenu de son livre certains pensent qu&apos;il vivait pendant le règne du roi Joas.</p></li><li><p>Dans son sermon à la Pentecôte, l&apos;apôtre Pierre a cité le livre de Joël.</p></li><li><p>Il y avait d&apos;autres hommes dans la Bible nommés Joël* Certaines langues peuvent préférer l&apos;orthographe de leurs noms un peu différemment à préciser qu&apos;ils étaient des personnes différentes.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/joash.md), (../names/kingdomofjudah.md), (../kt/pentecost.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15010043",
+          "start_ref_usfm": "EZR 10:43",
+          "end_ref": "15010043",
+          "end_ref_usfm": "EZR 10:43"
+        },
+        {
+          "start_ref": "16011009",
+          "start_ref_usfm": "NEH 11:9",
+          "end_ref": "16011009",
+          "end_ref_usfm": "NEH 11:9"
+        },
+        {
+          "start_ref": "29001002",
+          "start_ref_usfm": "JOL 1:2",
+          "end_ref": "29001002",
+          "end_ref_usfm": "JOL 1:2"
+        },
+        {
+          "start_ref": "44002016",
+          "start_ref_usfm": "ACT 2:16",
+          "end_ref": "44002016",
+          "end_ref_usfm": "ACT 2:16"
+        },
+        {
+          "start_ref": "09008001",
+          "start_ref_usfm": "1SA 8:1",
+          "end_ref": "09008003",
+          "end_ref_usfm": "1SA 8:3"
+        },
+        {
+          "start_ref": "13006033",
+          "start_ref_usfm": "1CH 6:33",
+          "end_ref": "13006035",
+          "end_ref_usfm": "1CH 6:35"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25907,
+          "content_id": 467052,
+          "label": "Joas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 467209,
+          "label": "Pentecôte",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

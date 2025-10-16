@@ -1,0 +1,227 @@
+[
+  {
+    "content_id": 467405,
+    "reference_id": 26291,
+    "title": "Terreur",
+    "media_type": "Text",
+    "index_reference": "terreur",
+    "language": "fra",
+    "content": "<h1>terreur, épouvante</h1><h2>Définition :</h2><p>&quot;Le terme «terrorisme» fait référence à une émotion de peur extrême, à la peur, ou à une profonde crainte de quelque chose ou de quelqu&apos;un.</p><ul><li><p>La terreur peut aussi être quelque chose ou quelqu&apos;un qui provoque une grande peur ou crainte.</p></li><li><p>L&apos; avancée d&apos;une armée attaquante peut provoquer la terreur chez ses ennemis.</p></li><li><p>Le jugement de Dieu provoquera un jour la terreur chez les personnes impénitentes qui rejettent sa grâce.</p></li><li><p>La «terreur de l&apos;Éternel» pourrait être traduit par «la présence terrifiante de Yahvé» ou «le jugement redoutable de l&apos;Eternel*&quot;</p></li><li><p>&quot;terrifier&quot; quelqu&apos;un veut dire faire très peur à cette personne.</p></li><li><p>Quelque chose qui est &quot;terrifiante&quot; provoque la peur et la terreur.</p></li></ul><p>(Voir aussi : (../other/adversary.md), (../kt/fear.md), (../kt/judge.md), (../other/plague.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01009002",
+          "start_ref_usfm": "GEN 9:2",
+          "end_ref": "01009002",
+          "end_ref_usfm": "GEN 9:2"
+        },
+        {
+          "start_ref": "01015012",
+          "start_ref_usfm": "GEN 15:12",
+          "end_ref": "01015012",
+          "end_ref_usfm": "GEN 15:12"
+        },
+        {
+          "start_ref": "01028017",
+          "start_ref_usfm": "GEN 28:17",
+          "end_ref": "01028017",
+          "end_ref_usfm": "GEN 28:17"
+        },
+        {
+          "start_ref": "01035005",
+          "start_ref_usfm": "GEN 35:5",
+          "end_ref": "01035005",
+          "end_ref_usfm": "GEN 35:5"
+        },
+        {
+          "start_ref": "01045003",
+          "start_ref_usfm": "GEN 45:3",
+          "end_ref": "01045003",
+          "end_ref_usfm": "GEN 45:3"
+        },
+        {
+          "start_ref": "02014010",
+          "start_ref_usfm": "EXO 14:10",
+          "end_ref": "02014010",
+          "end_ref_usfm": "EXO 14:10"
+        },
+        {
+          "start_ref": "02015015",
+          "start_ref_usfm": "EXO 15:15",
+          "end_ref": "02015015",
+          "end_ref_usfm": "EXO 15:15"
+        },
+        {
+          "start_ref": "02015016",
+          "start_ref_usfm": "EXO 15:16",
+          "end_ref": "02015016",
+          "end_ref_usfm": "EXO 15:16"
+        },
+        {
+          "start_ref": "02023027",
+          "start_ref_usfm": "EXO 23:27",
+          "end_ref": "02023027",
+          "end_ref_usfm": "EXO 23:27"
+        },
+        {
+          "start_ref": "05002025",
+          "start_ref_usfm": "DEU 2:25",
+          "end_ref": "05002025",
+          "end_ref_usfm": "DEU 2:25"
+        },
+        {
+          "start_ref": "18020025",
+          "start_ref_usfm": "JOB 20:25",
+          "end_ref": "18020025",
+          "end_ref_usfm": "JOB 20:25"
+        },
+        {
+          "start_ref": "18033007",
+          "start_ref_usfm": "JOB 33:7",
+          "end_ref": "18033007",
+          "end_ref_usfm": "JOB 33:7"
+        },
+        {
+          "start_ref": "18039020",
+          "start_ref_usfm": "JOB 39:20",
+          "end_ref": "18039020",
+          "end_ref_usfm": "JOB 39:20"
+        },
+        {
+          "start_ref": "18041014",
+          "start_ref_usfm": "JOB 41:14",
+          "end_ref": "18041014",
+          "end_ref_usfm": "JOB 41:14"
+        },
+        {
+          "start_ref": "20001026",
+          "start_ref_usfm": "PRO 1:26",
+          "end_ref": "20001026",
+          "end_ref_usfm": "PRO 1:26"
+        },
+        {
+          "start_ref": "20001027",
+          "start_ref_usfm": "PRO 1:27",
+          "end_ref": "20001027",
+          "end_ref_usfm": "PRO 1:27"
+        },
+        {
+          "start_ref": "20001033",
+          "start_ref_usfm": "PRO 1:33",
+          "end_ref": "20001033",
+          "end_ref_usfm": "PRO 1:33"
+        },
+        {
+          "start_ref": "20003024",
+          "start_ref_usfm": "PRO 3:24",
+          "end_ref": "20003024",
+          "end_ref_usfm": "PRO 3:24"
+        },
+        {
+          "start_ref": "20003025",
+          "start_ref_usfm": "PRO 3:25",
+          "end_ref": "20003025",
+          "end_ref_usfm": "PRO 3:25"
+        },
+        {
+          "start_ref": "20010024",
+          "start_ref_usfm": "PRO 10:24",
+          "end_ref": "20010024",
+          "end_ref_usfm": "PRO 10:24"
+        },
+        {
+          "start_ref": "20020002",
+          "start_ref_usfm": "PRO 20:2",
+          "end_ref": "20020002",
+          "end_ref_usfm": "PRO 20:2"
+        },
+        {
+          "start_ref": "20021015",
+          "start_ref_usfm": "PRO 21:15",
+          "end_ref": "20021015",
+          "end_ref_usfm": "PRO 21:15"
+        },
+        {
+          "start_ref": "42021009",
+          "start_ref_usfm": "LUK 21:9",
+          "end_ref": "42021009",
+          "end_ref_usfm": "LUK 21:9"
+        },
+        {
+          "start_ref": "42024005",
+          "start_ref_usfm": "LUK 24:5",
+          "end_ref": "42024005",
+          "end_ref_usfm": "LUK 24:5"
+        },
+        {
+          "start_ref": "42024037",
+          "start_ref_usfm": "LUK 24:37",
+          "end_ref": "42024037",
+          "end_ref_usfm": "LUK 24:37"
+        },
+        {
+          "start_ref": "44024025",
+          "start_ref_usfm": "ACT 24:25",
+          "end_ref": "44024025",
+          "end_ref_usfm": "ACT 24:25"
+        },
+        {
+          "start_ref": "45013003",
+          "start_ref_usfm": "ROM 13:3",
+          "end_ref": "45013003",
+          "end_ref_usfm": "ROM 13:3"
+        },
+        {
+          "start_ref": "60003006",
+          "start_ref_usfm": "1PE 3:6",
+          "end_ref": "60003006",
+          "end_ref_usfm": "1PE 3:6"
+        },
+        {
+          "start_ref": "66011013",
+          "start_ref_usfm": "REV 11:13",
+          "end_ref": "66011013",
+          "end_ref_usfm": "REV 11:13"
+        },
+        {
+          "start_ref": "41006048",
+          "start_ref_usfm": "MRK 6:48",
+          "end_ref": "41006050",
+          "end_ref_usfm": "MRK 6:50"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25434,
+          "content_id": 466616,
+          "label": "Adversaire",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25735,
+          "content_id": 466889,
+          "label": "Peur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26107,
+          "content_id": 467231,
+          "label": "Peste",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

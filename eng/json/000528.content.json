@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26800,
+    "reference_id": 25942,
+    "title": "Kingdom of Judah",
+    "media_type": "Text",
+    "index_reference": "kingdom of judah",
+    "language": "eng",
+    "content": "<h1>Judah, kingdom of Judah</h1><h2>Facts:</h2><p>The tribe of Judah was the largest of the twelve tribes of Israel. The kingdom of Judah was made up of the tribes of Judah and Benjamin.</p><ul><li><p>After King Solomon died, the nation of Israel was divided into two kingdoms: Israel and Judah. The kingdom of Judah was the southern kingdom, located west of the Salt Sea.</p></li><li><p>The capital city of the kingdom of Judah was Jerusalem.</p></li><li><p>Eight kings of Judah obeyed Yahweh and led the people to worship him. The other kings of Judah were evil and led the people to worship idols.</p></li><li><p>Over 120 years after Assyria defeated Israel (the northern kingdom), Judah was conquered by the nation of Babylon. The Babylonians destroyed the city and the temple, and took most of the people of Judah to Babylon as captives.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Salt Sea</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam30:26-1Sam30:28\">1 Samuel 30:26–28</a></p></li><li><p><a href=\"https://ref.ly/2Sam12:8\">2 Samuel 12:8</a></p></li><li><p><a href=\"https://ref.ly/Hos5:14\">Hosea 5:14</a></p></li><li><p><a href=\"https://ref.ly/Jer7:33\">Jeremiah 7:33</a></p></li><li><p><a href=\"https://ref.ly/Judg1:16-Judg1:17\">Judges 1:16–17</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>18:7</strong> Only two tribes remained faithful to him (Rehoboam). These two tribes became the <strong>kingdom of Judah</strong>.</p></li><li><p><strong>18:10</strong> The <strong>kingdoms of Judah</strong> and Israel became enemies and often fought against each other.</p></li><li><p><strong>18:13</strong> The <strong>kings of Judah</strong> were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of <strong>Judah’s</strong> kings were evil, corrupt, and they worshiped idols.</p></li><li><p><strong>20:1</strong> The <strong>kingdoms of Israel and Judah</strong> both sinned against God.</p></li><li><p><strong>20:5</strong> The people in the <strong>kingdom of Judah</strong> saw how God had punished the people of the kingdom of Israel for not believing and obeying him. But they still worshiped idols, including the gods of the Canaanites.</p></li><li><p><strong>20:6</strong> About 100 years after the Assyrians destroyed the kingdom of Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack the <strong>kingdom of Judah</strong>.</p></li><li><p><strong>20:9</strong> Nebuchadnezzar and his army took almost all of the people of <strong>the kingdom of Judah</strong> to Babylon, leaving only the poorest people behind to plant the fields.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4438, H3063</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10012008",
+          "start_ref_usfm": "2SA 12:8",
+          "end_ref": "10012008",
+          "end_ref_usfm": "2SA 12:8"
+        },
+        {
+          "start_ref": "24007033",
+          "start_ref_usfm": "JER 7:33",
+          "end_ref": "24007033",
+          "end_ref_usfm": "JER 7:33"
+        },
+        {
+          "start_ref": "28005014",
+          "start_ref_usfm": "HOS 5:14",
+          "end_ref": "28005014",
+          "end_ref_usfm": "HOS 5:14"
+        },
+        {
+          "start_ref": "09030026",
+          "start_ref_usfm": "1SA 30:26",
+          "end_ref": "09030028",
+          "end_ref_usfm": "1SA 30:28"
+        },
+        {
+          "start_ref": "07001016",
+          "start_ref_usfm": "JDG 1:16",
+          "end_ref": "07001017",
+          "end_ref_usfm": "JDG 1:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 27049,
+          "label": "Saltsea",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

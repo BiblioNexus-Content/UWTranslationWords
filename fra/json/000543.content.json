@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467130,
+    "reference_id": 25991,
+    "title": "Malachie",
+    "media_type": "Text",
+    "index_reference": "malachie",
+    "language": "fra",
+    "content": "<h1>Malachie</h1><h2>Définition :</h2><p>&quot;Malachie a été l&apos;un des prophètes de Dieu pour la nation d&apos;Israël.</p><ul><li><p>Malachie prophétisa pendant la période où le temple d&apos;Israël a été reconstruit après le retour de la captivité babylonienne.</p></li><li><p>Malachie a probablement vécu pendant le temps où Néhémie et Esdras étaient vivants.</p></li><li><p>Le livre de Malachie est le dernier livre de l&apos;Ancien Testament et traditionnellement fait partie de la section «petits prophètes».</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/babylon.md), (../other/captive.md), (../names/ezra.md), (../names/kingdomofjudah.md), (../names/nehemiah.md), (../kt/prophet.md), (../kt/repent.md), (../other/turn.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "39001001",
+          "start_ref_usfm": "MAL 1:1",
+          "end_ref": "39001001",
+          "end_ref_usfm": "MAL 1:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25574,
+          "content_id": 466742,
+          "label": "Captif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 467186,
+          "label": "Néhémie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 467290,
+          "label": "Repentir",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

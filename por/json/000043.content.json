@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237957,
+    "reference_id": 25824,
+    "title": "Altivo",
+    "media_type": "Text",
+    "index_reference": "altivo",
+    "language": "por",
+    "content": "<h1>altivo, soberbo</h1><h2>Definição:</h2><p>O termo “altivo” significa ser orgulhoso ou arrogante. Alguém que é “altivo” pensa muito bem de si mesmo.</p><ul><li><p>Frequentemente, este termo descreve uma pessoa orgulhosa que persiste em pecar contra Deus.</p></li><li><p>Geralmente, uma pessoa que é altiva se gaba de si mesma.</p></li><li><p>Uma pessoa altiva é tola, não sábia.</p></li><li><p>Este termo também pode ser traduzido como “orgulhoso” ou “arrogante” ou “egocêntrico”.</p></li><li><p>A expressão figurativa “olhos altivos” também pode ser traduzida como “maneira orgulhosa de olhar” ou “olhar para os outros como menos importantes” ou “pessoa orgulhosa que despreza os outros”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_boast\" data-resourceType=\"UWTranslationWords\">gabar-se</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26135\" data-resourceType=\"UWTranslationWords\">orgulhoso</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Tim3:1-2Tim3:4\">2 Timóteo 3.1–4</a></p></li><li><p><a href=\"https://ref.ly/Isa2:17\">Isaías 2.17</a></p></li><li><p><a href=\"https://ref.ly/Prov16:18\">Provérbios 16.18</a></p></li><li><p><a href=\"https://ref.ly/Prov21:24\">Provérbios 21.24</a></p></li><li><p><a href=\"https://ref.ly/Ps131:1\">Salmo 131.1</a></p></li></ul><h2>Dados de Palavras:</h2><ul><li><p>Strong’s: H1361, H1363, H1364, H3093, H7312</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19131001",
+          "start_ref_usfm": "PSA 131:1",
+          "end_ref": "19131001",
+          "end_ref_usfm": "PSA 131:1"
+        },
+        {
+          "start_ref": "20016018",
+          "start_ref_usfm": "PRO 16:18",
+          "end_ref": "20016018",
+          "end_ref_usfm": "PRO 16:18"
+        },
+        {
+          "start_ref": "20021024",
+          "start_ref_usfm": "PRO 21:24",
+          "end_ref": "20021024",
+          "end_ref_usfm": "PRO 21:24"
+        },
+        {
+          "start_ref": "23002017",
+          "start_ref_usfm": "ISA 2:17",
+          "end_ref": "23002017",
+          "end_ref_usfm": "ISA 2:17"
+        },
+        {
+          "start_ref": "55003001",
+          "start_ref_usfm": "2TI 3:1",
+          "end_ref": "55003004",
+          "end_ref_usfm": "2TI 3:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26135,
+          "content_id": 238265,
+          "label": "Orgulhoso",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

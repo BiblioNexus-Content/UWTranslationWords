@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180003,
+    "reference_id": 25936,
+    "title": "किद्रोन नाला",
+    "media_type": "Text",
+    "index_reference": "किद्रोन नाला",
+    "language": "hin",
+    "content": "<h1>किद्रोन नाला</h1><h2>तथ्य:</h2><p>किद्रोन नाला यरूशलेम के ठीक बाहर अर्थात पूर्वी दीवार और जैतून पर्वत के मध्य एक गहरी घाटी है।</p><ul><li><p>यह घाटी 1,000 मीटर से अधिक गहरी और लगभग 32 किलोमीटर लम्बी है।</p></li><li><p>जब राजा दाऊद अपने पुत्र, अबशालेम से बचकर भाग रहा था तब वह किद्रोन नाले से होकर जैतून पर्वत पर चढ़ा था।</p></li><li><p>यहूदा के राजा आसा और योशिय्याह ने आज्ञा दी थी कि सब ऊंचे स्थान और झूठे देवताओं की वेदियां जला कर ध्वंस कर दी जाएं तब उनकी राख किद्रोन नाले में डाल दी गई थी।</p></li><li><p>राजा हिजकिय्याह के राज्यकाल में याजक मन्दिर से निकाली गई किसी भी अशुद्ध वस्तु को किद्रोन घाटी में फेंक देते थे।</p></li><li><p>दुष्ट रानी अतल्याह इसी घाटी में घात की गई थी क्योंकि उसने बहुत दुष्टता के काम किए थे।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">अबशालोम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25479\" data-resourceType=\"UWTranslationWords\">आसा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25489\" data-resourceType=\"UWTranslationWords\">अतल्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">दाऊद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">झूठे देवता</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25834\" data-resourceType=\"UWTranslationWords\">हिजकिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25835\" data-resourceType=\"UWTranslationWords\">ऊंचे स्थान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25921\" data-resourceType=\"UWTranslationWords\">योशिय्याह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25942\" data-resourceType=\"UWTranslationWords\">यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26034\" data-resourceType=\"UWTranslationWords\">जैतून पर्वत</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/John18:1\">यूहन्ना 18:1</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H5674, H6939, G27480, G54930</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43018001",
+          "start_ref_usfm": "JHN 18:1",
+          "end_ref": "43018001",
+          "end_ref_usfm": "JHN 18:1"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 179515,
+          "label": "अबशालोम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25479,
+          "content_id": 179567,
+          "label": "आसा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25489,
+          "content_id": 179577,
+          "label": "अतल्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 179722,
+          "label": "दाऊद",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 179801,
+          "label": "देवता",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25834,
+          "content_id": 179903,
+          "label": "हिजकिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25835,
+          "content_id": 179904,
+          "label": "ऊँचे स्थान",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25921,
+          "content_id": 179988,
+          "label": "योशिय्याह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 179991,
+          "label": "यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 180098,
+          "label": "जैतून पर्वत",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

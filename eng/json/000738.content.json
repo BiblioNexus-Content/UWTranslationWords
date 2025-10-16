@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 27012,
+    "reference_id": 26154,
+    "title": "Ransom",
+    "media_type": "Text",
+    "index_reference": "ransom",
+    "language": "eng",
+    "content": "<h1>ransom, ransomed</h1><h2>Definition:</h2><p>The term “ransom” refers to a sum of money or other payment that is demanded or paid for the release of a person who is held captive.</p><ul><li><p>As a verb, to “ransom” means to make a payment or to do something self-sacrificially in order to rescue someone who has been captured, enslaved or imprisoned. This meaning of “buy back” is similar to the meaning of “redeem.”</p></li><li><p>Jesus allowed himself to be killed as a ransom to free sinful people from their enslavement to sin. This act of God buying back his people through paying the penalty of their sin is also called “redemption” in the Bible.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>The term to “ransom” could also be translated as to “pay to release” or to “pay a price to free” or to “buy back.”</p></li><li><p>The phrase to “pay a ransom” could be translated as to “pay the price (of freedom)” or to “pay the penalty (to free people)” or to “make the required payment.”</p></li><li><p>The noun “ransom” could be translated as “a buying back” or “a penalty paid” or “the price paid” (to free or buy back people or land).</p></li><li><p>The terms a “ransom” and a “redemption” have the same meaning in English but are sometimes used slightly differently. Other languages may have only one term for this concept.</p></li><li><p>Make sure this is translated differently from “atonement.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25490\" data-resourceType=\"UWTranslationWords\">atonement</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">redeem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Tim2:6\">1 Timothy 2:6</a></p></li><li><p><a href=\"https://ref.ly/Isa43:3\">Isaiah 43:3</a></p></li><li><p><a href=\"https://ref.ly/Job6:23\">Job 6:23</a></p></li><li><p><a href=\"https://ref.ly/Lev19:20\">Leviticus 19:20</a></p></li><li><p><a href=\"https://ref.ly/Matt20:28\">Matthew 20:28</a></p></li><li><p><a href=\"https://ref.ly/Ps49:7\">Psalms 49:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1350, H3724, H6299, H6306, G04870, G30830</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02013013",
+          "start_ref_usfm": "EXO 13:13",
+          "end_ref": "02013013",
+          "end_ref_usfm": "EXO 13:13"
+        },
+        {
+          "start_ref": "02013015",
+          "start_ref_usfm": "EXO 13:15",
+          "end_ref": "02013015",
+          "end_ref_usfm": "EXO 13:15"
+        },
+        {
+          "start_ref": "02021030",
+          "start_ref_usfm": "EXO 21:30",
+          "end_ref": "02021030",
+          "end_ref_usfm": "EXO 21:30"
+        },
+        {
+          "start_ref": "02030012",
+          "start_ref_usfm": "EXO 30:12",
+          "end_ref": "02030012",
+          "end_ref_usfm": "EXO 30:12"
+        },
+        {
+          "start_ref": "02030015",
+          "start_ref_usfm": "EXO 30:15",
+          "end_ref": "02030015",
+          "end_ref_usfm": "EXO 30:15"
+        },
+        {
+          "start_ref": "02030016",
+          "start_ref_usfm": "EXO 30:16",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "02034020",
+          "start_ref_usfm": "EXO 34:20",
+          "end_ref": "02034020",
+          "end_ref_usfm": "EXO 34:20"
+        },
+        {
+          "start_ref": "03019020",
+          "start_ref_usfm": "LEV 19:20",
+          "end_ref": "03019020",
+          "end_ref_usfm": "LEV 19:20"
+        },
+        {
+          "start_ref": "18006023",
+          "start_ref_usfm": "JOB 6:23",
+          "end_ref": "18006023",
+          "end_ref_usfm": "JOB 6:23"
+        },
+        {
+          "start_ref": "19049007",
+          "start_ref_usfm": "PSA 49:7",
+          "end_ref": "19049007",
+          "end_ref_usfm": "PSA 49:7"
+        },
+        {
+          "start_ref": "20006035",
+          "start_ref_usfm": "PRO 6:35",
+          "end_ref": "20006035",
+          "end_ref_usfm": "PRO 6:35"
+        },
+        {
+          "start_ref": "20013008",
+          "start_ref_usfm": "PRO 13:8",
+          "end_ref": "20013008",
+          "end_ref_usfm": "PRO 13:8"
+        },
+        {
+          "start_ref": "20021018",
+          "start_ref_usfm": "PRO 21:18",
+          "end_ref": "20021018",
+          "end_ref_usfm": "PRO 21:18"
+        },
+        {
+          "start_ref": "23043003",
+          "start_ref_usfm": "ISA 43:3",
+          "end_ref": "23043003",
+          "end_ref_usfm": "ISA 43:3"
+        },
+        {
+          "start_ref": "40020028",
+          "start_ref_usfm": "MAT 20:28",
+          "end_ref": "40020028",
+          "end_ref_usfm": "MAT 20:28"
+        },
+        {
+          "start_ref": "41010045",
+          "start_ref_usfm": "MRK 10:45",
+          "end_ref": "41010045",
+          "end_ref_usfm": "MRK 10:45"
+        },
+        {
+          "start_ref": "54002006",
+          "start_ref_usfm": "1TI 2:6",
+          "end_ref": "54002006",
+          "end_ref_usfm": "1TI 2:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25490,
+          "content_id": 26348,
+          "label": "Atonement",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 27019,
+          "label": "Redeem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

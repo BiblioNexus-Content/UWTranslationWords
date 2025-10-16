@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237884,
+    "reference_id": 25751,
+    "title": "Predestinar",
+    "media_type": "Text",
+    "index_reference": "predestinar",
+    "language": "por",
+    "content": "<h1>presciência, pré-conhecimento</h1><h2>Definição:</h2><p>Os termos “previu” e “pré-conhecimento” vêm da palavra “presciência” que significa saber algo antes que aconteça.</p><ul><li><p>Deus não é limitado pelo tempo. Ele sabe tudo o que acontece no passado, presente e futuro.</p></li><li><p>Esta palavra é frequentemente usada no contexto de Deus já saber quem será salvo ao receber Jesus como Salvador.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo “presciência” também poderia ser traduzido como “sabia antes” ou “sabia com antecedência” ou “sabia de antemão” ou “já sabia.”</p></li><li><p>O termo “pré-conhecimento” poderia ser traduzido como “saber antes” ou “saber com antecedência” ou “já saber” ou “saber de antemão.”</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25946\" data-resourceType=\"UWTranslationWords\">saber</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26119\" data-resourceType=\"UWTranslationWords\">predestinar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Rom8:29\">Romanos 8.29</a></p></li><li><p><a href=\"https://ref.ly/Rom11:2\">Romanos 11.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G42670, G42680</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002023",
+          "start_ref_usfm": "ACT 2:23",
+          "end_ref": "44002023",
+          "end_ref_usfm": "ACT 2:23"
+        },
+        {
+          "start_ref": "45008029",
+          "start_ref_usfm": "ROM 8:29",
+          "end_ref": "45008029",
+          "end_ref_usfm": "ROM 8:29"
+        },
+        {
+          "start_ref": "45011002",
+          "start_ref_usfm": "ROM 11:2",
+          "end_ref": "45011002",
+          "end_ref_usfm": "ROM 11:2"
+        },
+        {
+          "start_ref": "60001002",
+          "start_ref_usfm": "1PE 1:2",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        },
+        {
+          "start_ref": "60001020",
+          "start_ref_usfm": "1PE 1:20",
+          "end_ref": "60001020",
+          "end_ref_usfm": "1PE 1:20"
+        },
+        {
+          "start_ref": "61003017",
+          "start_ref_usfm": "2PE 3:17",
+          "end_ref": "61003017",
+          "end_ref_usfm": "2PE 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25946,
+          "content_id": 238078,
+          "label": "Conhecer",
+          "language": "por"
+        },
+        {
+          "reference_id": 26119,
+          "content_id": 238249,
+          "label": "Predestinar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

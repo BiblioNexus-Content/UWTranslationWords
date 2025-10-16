@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467353,
+    "reference_id": 26238,
+    "title": "Siméon",
+    "media_type": "Text",
+    "index_reference": "siméon",
+    "language": "fra",
+    "content": "<h1>Siméon</h1><h2>Définition :</h2><p>Dans la Bible, il y a plusieurs hommes nommés Siméon.</p><ul><li><p>Dans l&apos;Ancien Testament, le second fils de Jacob (Israël) et Lea a été nommé Siméon* Ses descendants ont constitué l&apos;une des douze tribus d&apos;Israël.</p></li><li><p>La tribu de Siméon occupait le territoire le plus méridional dans la terre promise de Canaan, une région qui faisait partie de l&apos;héritage de Juda.</p></li><li><p>Dans le Nouveau Testament, un homme pieux appelé Siméon était dans le temple de Jérusalem, quand Joseph et Marie y ont apporté l&apos;enfant Jésus pour le consacrer à Dieu* Siméon bénit Jésus et loua Dieu d&apos;avoir donné le Messie qui serait le Sauveur de tous.</p></li><li><p>Pour qu&apos;il soit clair que differents hommes portaient le nom Siméon , certains traducteurs ont choisi d&apos;écrire ce nom différemment.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../kt/christ.md), (../other/dedicate.md), (../names/jacob.md), (../names/judah.md), (../kt/temple.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029033",
+          "start_ref_usfm": "GEN 29:33",
+          "end_ref": "01029033",
+          "end_ref_usfm": "GEN 29:33"
+        },
+        {
+          "start_ref": "01034025",
+          "start_ref_usfm": "GEN 34:25",
+          "end_ref": "01034025",
+          "end_ref_usfm": "GEN 34:25"
+        },
+        {
+          "start_ref": "01034030",
+          "start_ref_usfm": "GEN 34:30",
+          "end_ref": "01034030",
+          "end_ref_usfm": "GEN 34:30"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01042024",
+          "start_ref_usfm": "GEN 42:24",
+          "end_ref": "01042024",
+          "end_ref_usfm": "GEN 42:24"
+        },
+        {
+          "start_ref": "01042036",
+          "start_ref_usfm": "GEN 42:36",
+          "end_ref": "01042036",
+          "end_ref_usfm": "GEN 42:36"
+        },
+        {
+          "start_ref": "01043023",
+          "start_ref_usfm": "GEN 43:23",
+          "end_ref": "01043023",
+          "end_ref_usfm": "GEN 43:23"
+        },
+        {
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01049005",
+          "start_ref_usfm": "GEN 49:5",
+          "end_ref": "01049005",
+          "end_ref_usfm": "GEN 49:5"
+        },
+        {
+          "start_ref": "02001002",
+          "start_ref_usfm": "EXO 1:2",
+          "end_ref": "02001002",
+          "end_ref_usfm": "EXO 1:2"
+        },
+        {
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
+        },
+        {
+          "start_ref": "42002025",
+          "start_ref_usfm": "LUK 2:25",
+          "end_ref": "42002025",
+          "end_ref_usfm": "LUK 2:25"
+        },
+        {
+          "start_ref": "42002034",
+          "start_ref_usfm": "LUK 2:34",
+          "end_ref": "42002034",
+          "end_ref_usfm": "LUK 2:34"
+        },
+        {
+          "start_ref": "66007007",
+          "start_ref_usfm": "REV 7:7",
+          "end_ref": "66007007",
+          "end_ref_usfm": "REV 7:7"
+        },
+        {
+          "start_ref": "01042035",
+          "start_ref_usfm": "GEN 42:35",
+          "end_ref": "01042036",
+          "end_ref_usfm": "GEN 42:36"
+        },
+        {
+          "start_ref": "01043021",
+          "start_ref_usfm": "GEN 43:21",
+          "end_ref": "01043023",
+          "end_ref_usfm": "GEN 43:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 467101,
+          "label": "Lea",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

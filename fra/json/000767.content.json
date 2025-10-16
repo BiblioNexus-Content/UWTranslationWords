@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466894,
+    "reference_id": 25741,
+    "title": "Sapin",
+    "media_type": "Text",
+    "index_reference": "sapin",
+    "language": "fra",
+    "content": "<h1>sapin</h1><h2>Définition :</h2><p>&quot;Le terme «sapin» se réfère à une sorte d&apos;arbre avec des aiguilles qui restent vertes toute l&apos;année et qui a des cônes contenant les graines.</p><ul><li><p>Les sapins sont également appelés «arbre à feuilles persistantes&quot;.</p></li><li><p>Dans les temps anciens, le bois de sapins a été utilisé pour la fabrication des instruments de musique et pour la construction de structures telles que des bateaux, des maisons et le temple.</p></li><li><p>Quelques exemples de sapins mentionnés dans la Bible sont le pin, le cèdre, le cyprès, et le genévrier.</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../other/cedar.md), (../other/cypress.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23044014",
+          "start_ref_usfm": "ISA 44:14",
+          "end_ref": "23044014",
+          "end_ref_usfm": "ISA 44:14"
+        },
+        {
+          "start_ref": "23041019",
+          "start_ref_usfm": "ISA 41:19",
+          "end_ref": "23041020",
+          "end_ref_usfm": "ISA 41:20"
+        },
+        {
+          "start_ref": "26027004",
+          "start_ref_usfm": "EZK 27:4",
+          "end_ref": "26027005",
+          "end_ref_usfm": "EZK 27:5"
+        },
+        {
+          "start_ref": "23037024",
+          "start_ref_usfm": "ISA 37:24",
+          "end_ref": "23037025",
+          "end_ref_usfm": "ISA 37:25"
+        },
+        {
+          "start_ref": "23060012",
+          "start_ref_usfm": "ISA 60:12",
+          "end_ref": "23060013",
+          "end_ref_usfm": "ISA 60:13"
+        },
+        {
+          "start_ref": "19104016",
+          "start_ref_usfm": "PSA 104:16",
+          "end_ref": "19104018",
+          "end_ref_usfm": "PSA 104:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 466746,
+          "label": "Cèdre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25636,
+          "content_id": 559323,
+          "label": "Cyprès",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

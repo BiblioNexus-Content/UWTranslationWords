@@ -1,0 +1,203 @@
+[
+  {
+    "content_id": 467135,
+    "reference_id": 25998,
+    "title": "Marie",
+    "media_type": "Text",
+    "index_reference": "marie",
+    "language": "fra",
+    "content": "<h1>Marie, la mère de Jésus</h1><h2>Données :</h2><p>Mary était une jeune femme vivant dans la ville de Nazareth. Elle était engagée à épouser un homme du nom de Joseph. Dieu a choisi Marie pour être la mère de Jésus le Messie, le Fils de Dieu.</p><ul><li><p>Le Saint-Esprit a miraculeusement permis à Marie de devenir enceinte alors qu&apos;elle était vierge.</p></li><li><p>Un ange a dit à Marie que le bébé qu&apos;elle allait enfanter était le Fils de Dieu et qu&apos;elle devait le nommer Jésus.</p></li><li><p>Marie aimait Dieu et le louait pour sa grâce.</p></li><li><p>Joseph a épousé Marie, mais elle est restée vierge jusqu&apos;à la naissance du bébé.</p></li><li><p>Marie réfléchit profondément aux choses étonnantes que les bergers et les sages ont dites à propos de l&apos;enfant Jésus.</p></li><li><p>Quand le bébé est né, Marie et Joseph lui ont donné le nom de Jésus.</p></li><li><p>Marie et Joseph ont emmené l&apos;enfant Jésus pour qu&apos;il soit consacré au temple. Plus tard, ils l&apos;ont emmené en Égypte pour échapper au complot du roi Hérode visant à tuer le bébé. Finalement, ils sont retournés à Nazareth.</p></li><li><p>Lorsque Jésus était adulte, Marie était avec lui quand il a changé l&apos;eau en vin pendant un mariage à Cana.</p></li><li><p>Les évangiles mentionnent aussi que Marie était au pied de la croix lorsque Jésus était en train de mourir. Il a dit à son disciple, Jean, de prendre soin d&apos;elle comme de sa propre mère.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cana.md), (../names/egypt.md), (../names/herodthegreat.md), (../kt/jesus.md), (../names/josephnt.md), (../kt/sonofgod.md), (../other/virgin.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40001016",
+          "start_ref_usfm": "MAT 1:16",
+          "end_ref": "40001016",
+          "end_ref_usfm": "MAT 1:16"
+        },
+        {
+          "start_ref": "40001018",
+          "start_ref_usfm": "MAT 1:18",
+          "end_ref": "40001018",
+          "end_ref_usfm": "MAT 1:18"
+        },
+        {
+          "start_ref": "40001019",
+          "start_ref_usfm": "MAT 1:19",
+          "end_ref": "40001019",
+          "end_ref_usfm": "MAT 1:19"
+        },
+        {
+          "start_ref": "40001020",
+          "start_ref_usfm": "MAT 1:20",
+          "end_ref": "40001020",
+          "end_ref_usfm": "MAT 1:20"
+        },
+        {
+          "start_ref": "40002011",
+          "start_ref_usfm": "MAT 2:11",
+          "end_ref": "40002011",
+          "end_ref_usfm": "MAT 2:11"
+        },
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "41006003",
+          "start_ref_usfm": "MRK 6:3",
+          "end_ref": "41006003",
+          "end_ref_usfm": "MRK 6:3"
+        },
+        {
+          "start_ref": "42001027",
+          "start_ref_usfm": "LUK 1:27",
+          "end_ref": "42001027",
+          "end_ref_usfm": "LUK 1:27"
+        },
+        {
+          "start_ref": "42001029",
+          "start_ref_usfm": "LUK 1:29",
+          "end_ref": "42001029",
+          "end_ref_usfm": "LUK 1:29"
+        },
+        {
+          "start_ref": "42001030",
+          "start_ref_usfm": "LUK 1:30",
+          "end_ref": "42001030",
+          "end_ref_usfm": "LUK 1:30"
+        },
+        {
+          "start_ref": "42001034",
+          "start_ref_usfm": "LUK 1:34",
+          "end_ref": "42001034",
+          "end_ref_usfm": "LUK 1:34"
+        },
+        {
+          "start_ref": "42001035",
+          "start_ref_usfm": "LUK 1:35",
+          "end_ref": "42001035",
+          "end_ref_usfm": "LUK 1:35"
+        },
+        {
+          "start_ref": "42001038",
+          "start_ref_usfm": "LUK 1:38",
+          "end_ref": "42001038",
+          "end_ref_usfm": "LUK 1:38"
+        },
+        {
+          "start_ref": "42001039",
+          "start_ref_usfm": "LUK 1:39",
+          "end_ref": "42001039",
+          "end_ref_usfm": "LUK 1:39"
+        },
+        {
+          "start_ref": "42001041",
+          "start_ref_usfm": "LUK 1:41",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        },
+        {
+          "start_ref": "42001046",
+          "start_ref_usfm": "LUK 1:46",
+          "end_ref": "42001046",
+          "end_ref_usfm": "LUK 1:46"
+        },
+        {
+          "start_ref": "42001056",
+          "start_ref_usfm": "LUK 1:56",
+          "end_ref": "42001056",
+          "end_ref_usfm": "LUK 1:56"
+        },
+        {
+          "start_ref": "42002005",
+          "start_ref_usfm": "LUK 2:5",
+          "end_ref": "42002005",
+          "end_ref_usfm": "LUK 2:5"
+        },
+        {
+          "start_ref": "42002016",
+          "start_ref_usfm": "LUK 2:16",
+          "end_ref": "42002016",
+          "end_ref_usfm": "LUK 2:16"
+        },
+        {
+          "start_ref": "42002019",
+          "start_ref_usfm": "LUK 2:19",
+          "end_ref": "42002019",
+          "end_ref_usfm": "LUK 2:19"
+        },
+        {
+          "start_ref": "42002034",
+          "start_ref_usfm": "LUK 2:34",
+          "end_ref": "42002034",
+          "end_ref_usfm": "LUK 2:34"
+        },
+        {
+          "start_ref": "43002004",
+          "start_ref_usfm": "JHN 2:4",
+          "end_ref": "43002004",
+          "end_ref_usfm": "JHN 2:4"
+        },
+        {
+          "start_ref": "43002012",
+          "start_ref_usfm": "JHN 2:12",
+          "end_ref": "43002012",
+          "end_ref_usfm": "JHN 2:12"
+        },
+        {
+          "start_ref": "44001014",
+          "start_ref_usfm": "ACT 1:14",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25571,
+          "content_id": 466739,
+          "label": "Cana",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25832,
+          "content_id": 466980,
+          "label": "Hérode le grand",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25900,
+          "content_id": 467045,
+          "label": "Jésus",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25918,
+          "content_id": 467063,
+          "label": "Joseph (NT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26250,
+          "content_id": 467365,
+          "label": "Fils de Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26337,
+          "content_id": 467446,
+          "label": "Vierge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238097,
+    "reference_id": 25966,
+    "title": "Leviatã",
+    "media_type": "Text",
+    "index_reference": "leviatã",
+    "language": "por",
+    "content": "<h1>Leviatã</h1><h2>Fatos:</h2><p>O termo “Leviatã” refere-se a um animal muito grande e extinto mencionado nos primeiros escritos do Antigo Testamento, nos livros de Jó, Salmos e Isaías.</p><ul><li><p>Leviatã é descrito como uma grande criatura semelhante a uma serpente, forte e feroz, capaz de fazer a água ao seu redor “ferver”. As descrições dele eram semelhantes às de um dinossauro.</p></li><li><p>O profeta Isaías referiu-se a Leviatã como “a serpente deslizante”.</p></li><li><p>Jó escreveu sobre o Leviatã a partir de conhecimento direto, portanto, é provável que o animal estivesse vivo durante sua vida.</p></li></ul><p>(Sugestões de tradução: Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25877\" data-resourceType=\"UWTranslationWords\">Isaías</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25908\" data-resourceType=\"UWTranslationWords\">Jó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26216\" data-resourceType=\"UWTranslationWords\">serpente</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Job3:8\">Jó 3.8</a></p></li><li><p><a href=\"https://ref.ly/Ps104:25-Ps104:26\">Salmos 104.25–26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3882</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18003008",
+          "start_ref_usfm": "JOB 3:8",
+          "end_ref": "18003008",
+          "end_ref_usfm": "JOB 3:8"
+        },
+        {
+          "start_ref": "18041001",
+          "start_ref_usfm": "JOB 41:1",
+          "end_ref": "18041001",
+          "end_ref_usfm": "JOB 41:1"
+        },
+        {
+          "start_ref": "19104025",
+          "start_ref_usfm": "PSA 104:25",
+          "end_ref": "19104026",
+          "end_ref_usfm": "PSA 104:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25877,
+          "content_id": 238010,
+          "label": "Isaías",
+          "language": "por"
+        },
+        {
+          "reference_id": 25908,
+          "content_id": 238041,
+          "label": "Jó",
+          "language": "por"
+        },
+        {
+          "reference_id": 26216,
+          "content_id": 238345,
+          "label": "Serpente",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

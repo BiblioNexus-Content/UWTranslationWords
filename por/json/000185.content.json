@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 237770,
+    "reference_id": 25637,
+    "title": "Chipre",
+    "media_type": "Text",
+    "index_reference": "chipre",
+    "language": "por",
+    "content": "<h1>Chipre</h1><h2>Fatos:</h2><p>Chipre é uma ilha no Mar Mediterrâneo, cerca de 64 quilômetros ao sul do país moderno da Turquia.</p><ul><li><p>Barnabé era de Chipre, então é provável que seu primo João Marcos também fosse de lá.</p></li><li><p>Paulo e Barnabé pregaram juntos na ilha de Chipre no início de sua primeira viagem missionária. João Marcos foi junto para ajudá-los nessa viagem.</p></li><li><p>Mais tarde, Barnabé e Marcos visitaram Chipre novamente.</p></li><li><p>No Antigo Testamento, Chipre é mencionado como sendo uma rica fonte de ciprestes.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">Barnabé</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25910\" data-resourceType=\"UWTranslationWords\">João Marcos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">o mar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:36-Acts4:37\">Atos 4.36–37</a></p></li><li><p><a href=\"https://ref.ly/Acts13:5\">Atos 13.5</a></p></li><li><p><a href=\"https://ref.ly/Acts15:41\">Atos 15.41</a></p></li><li><p><a href=\"https://ref.ly/Acts27:4\">Atos 27.4</a></p></li><li><p><a href=\"https://ref.ly/Ezek27:6-Ezek27:7\">Ezequiel 27.6–7</a></p></li><li><p><a href=\"https://ref.ly/Isa23:10-Isa23:12\">Isaías 23.10–12</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G29530, G29540</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004036",
+          "end_ref_usfm": "ACT 4:36"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011019",
+          "end_ref_usfm": "ACT 11:19"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44013004",
+          "start_ref_usfm": "ACT 13:4",
+          "end_ref": "44013004",
+          "end_ref_usfm": "ACT 13:4"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44027004",
+          "start_ref_usfm": "ACT 27:4",
+          "end_ref": "44027004",
+          "end_ref_usfm": "ACT 27:4"
+        },
+        {
+          "start_ref": "44004036",
+          "start_ref_usfm": "ACT 4:36",
+          "end_ref": "44004037",
+          "end_ref_usfm": "ACT 4:37"
+        },
+        {
+          "start_ref": "26027006",
+          "start_ref_usfm": "EZK 27:6",
+          "end_ref": "26027007",
+          "end_ref_usfm": "EZK 27:7"
+        },
+        {
+          "start_ref": "23023010",
+          "start_ref_usfm": "ISA 23:10",
+          "end_ref": "23023012",
+          "end_ref_usfm": "ISA 23:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 237642,
+          "label": "Barnabé",
+          "language": "por"
+        },
+        {
+          "reference_id": 25910,
+          "content_id": 238043,
+          "label": "João Marcos",
+          "language": "por"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 238136,
+          "label": "Mediterrâneo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

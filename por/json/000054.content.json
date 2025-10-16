@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 237594,
+    "reference_id": 25456,
+    "title": "Amoz",
+    "media_type": "Text",
+    "index_reference": "amoz",
+    "language": "por",
+    "content": "<h1>Amoz</h1><h2>Fatos:</h2><p>Amoz foi o pai do profeta Isaías.</p><ul><li><p>As únicas vezes em que ele é mencionado na Bíblia são quando Isaías é identificado como o “filho de Amoz”.</p></li><li><p>Este nome é diferente do nome do profeta Amós e deve ser escrito de forma diferente.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25455\" data-resourceType=\"UWTranslationWords\">Amós</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25877\" data-resourceType=\"UWTranslationWords\">Isaías</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs19:2\">2 Reis 19.2</a></p></li><li><p><a href=\"https://ref.ly/Isa37:1-Isa37:2\">Isaías 37.1–2</a></p></li><li><p><a href=\"https://ref.ly/Isa37:21-Isa37:23\">Isaías 37.21–23</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0531</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12019002",
+          "start_ref_usfm": "2KI 19:2",
+          "end_ref": "12019002",
+          "end_ref_usfm": "2KI 19:2"
+        },
+        {
+          "start_ref": "23037001",
+          "start_ref_usfm": "ISA 37:1",
+          "end_ref": "23037002",
+          "end_ref_usfm": "ISA 37:2"
+        },
+        {
+          "start_ref": "23037021",
+          "start_ref_usfm": "ISA 37:21",
+          "end_ref": "23037023",
+          "end_ref_usfm": "ISA 37:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25455,
+          "content_id": 237593,
+          "label": "Amós",
+          "language": "por"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 238010,
+          "label": "Isaías",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

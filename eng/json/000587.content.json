@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 26860,
+    "reference_id": 26002,
+    "title": "Meal Offering",
+    "media_type": "Text",
+    "index_reference": "meal offering",
+    "language": "eng",
+    "content": "<h1>grain offering, meal offerings</h1><h2>Definition:</h2><p>A “meal offering” or “grain offering” was a sacrifice to God in the form of grain or bread made out of grain flour.</p><ul><li><p>The term “meal” refers to grain that has been ground up into flour.</p></li><li><p>The flour was mixed with water or oil to make a flat bread. Sometimes oil was spread on top of the bread.</p></li><li><p>This kind of offering was usually offered together with a burnt offering.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">burnt offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifice</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek44:30-Ezek44:31\">Ezekiel 44:30–31</a></p></li><li><p><a href=\"https://ref.ly/Joel2:14\">Joel 2:14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4503, H8641</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "29002014",
+          "start_ref_usfm": "JOL 2:14",
+          "end_ref": "29002014",
+          "end_ref_usfm": "JOL 2:14"
+        },
+        {
+          "start_ref": "26044030",
+          "start_ref_usfm": "EZK 44:30",
+          "end_ref": "26044031",
+          "end_ref_usfm": "EZK 44:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 26418,
+          "label": "Burnt Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 26659,
+          "label": "Grain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 27046,
+          "label": "Sacrifice",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "content_id": 466857,
+    "reference_id": 25697,
+    "title": "Élie",
+    "media_type": "Text",
+    "index_reference": "élie",
+    "language": "fra",
+    "content": "<h1>Élie</h1><h2>Données :</h2><p>Élie était un prophète important de Yahvé. Élie a prophétisé durant les règnes de plusieurs rois d&apos;Israël et de Juda, y compris le roi Achab.</p><ul><li><p>Dieu a fait de nombreux miracles par Élie, y compris la réssuscitation d&apos;un garçon mort.</p></li><li><p>Elie a réprimandé le roi Achab pour avoir adoré le faux dieu Baal.</p></li><li><p>Il a mis au défi les prophètes de Baal de participer à un test qui a prouvé que Yahvé est le seul vrai Dieu.</p></li><li><p>A la fin de la vie d&apos;Elie, Dieu l&apos;a miraculeusement emmené au ciel alors qu&apos;il était encore vivant.</p></li><li><p>Des centaines d&apos;années plus tard, Élie et Moïse sont apparus avec Jésus sur une montagne, et ils ont parlé ensemble de la souffrance et de la mort qui attendaient Jésus à Jérusalem.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/miracle.md), (../kt/prophet.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11017001",
+          "start_ref_usfm": "1KI 17:1",
+          "end_ref": "11017001",
+          "end_ref_usfm": "1KI 17:1"
+        },
+        {
+          "start_ref": "15010021",
+          "start_ref_usfm": "EZR 10:21",
+          "end_ref": "15010021",
+          "end_ref_usfm": "EZR 10:21"
+        },
+        {
+          "start_ref": "15010026",
+          "start_ref_usfm": "EZR 10:26",
+          "end_ref": "15010026",
+          "end_ref_usfm": "EZR 10:26"
+        },
+        {
+          "start_ref": "40011014",
+          "start_ref_usfm": "MAT 11:14",
+          "end_ref": "40011014",
+          "end_ref_usfm": "MAT 11:14"
+        },
+        {
+          "start_ref": "40016014",
+          "start_ref_usfm": "MAT 16:14",
+          "end_ref": "40016014",
+          "end_ref_usfm": "MAT 16:14"
+        },
+        {
+          "start_ref": "40017003",
+          "start_ref_usfm": "MAT 17:3",
+          "end_ref": "40017003",
+          "end_ref_usfm": "MAT 17:3"
+        },
+        {
+          "start_ref": "40017004",
+          "start_ref_usfm": "MAT 17:4",
+          "end_ref": "40017004",
+          "end_ref_usfm": "MAT 17:4"
+        },
+        {
+          "start_ref": "40017010",
+          "start_ref_usfm": "MAT 17:10",
+          "end_ref": "40017010",
+          "end_ref_usfm": "MAT 17:10"
+        },
+        {
+          "start_ref": "40017011",
+          "start_ref_usfm": "MAT 17:11",
+          "end_ref": "40017011",
+          "end_ref_usfm": "MAT 17:11"
+        },
+        {
+          "start_ref": "40017012",
+          "start_ref_usfm": "MAT 17:12",
+          "end_ref": "40017012",
+          "end_ref_usfm": "MAT 17:12"
+        },
+        {
+          "start_ref": "40027047",
+          "start_ref_usfm": "MAT 27:47",
+          "end_ref": "40027047",
+          "end_ref_usfm": "MAT 27:47"
+        },
+        {
+          "start_ref": "40027049",
+          "start_ref_usfm": "MAT 27:49",
+          "end_ref": "40027049",
+          "end_ref_usfm": "MAT 27:49"
+        },
+        {
+          "start_ref": "41006015",
+          "start_ref_usfm": "MRK 6:15",
+          "end_ref": "41006015",
+          "end_ref_usfm": "MRK 6:15"
+        },
+        {
+          "start_ref": "41008028",
+          "start_ref_usfm": "MRK 8:28",
+          "end_ref": "41008028",
+          "end_ref_usfm": "MRK 8:28"
+        },
+        {
+          "start_ref": "41009004",
+          "start_ref_usfm": "MRK 9:4",
+          "end_ref": "41009004",
+          "end_ref_usfm": "MRK 9:4"
+        },
+        {
+          "start_ref": "41009005",
+          "start_ref_usfm": "MRK 9:5",
+          "end_ref": "41009005",
+          "end_ref_usfm": "MRK 9:5"
+        },
+        {
+          "start_ref": "41009011",
+          "start_ref_usfm": "MRK 9:11",
+          "end_ref": "41009011",
+          "end_ref_usfm": "MRK 9:11"
+        },
+        {
+          "start_ref": "41009012",
+          "start_ref_usfm": "MRK 9:12",
+          "end_ref": "41009012",
+          "end_ref_usfm": "MRK 9:12"
+        },
+        {
+          "start_ref": "41009013",
+          "start_ref_usfm": "MRK 9:13",
+          "end_ref": "41009013",
+          "end_ref_usfm": "MRK 9:13"
+        },
+        {
+          "start_ref": "41015035",
+          "start_ref_usfm": "MRK 15:35",
+          "end_ref": "41015035",
+          "end_ref_usfm": "MRK 15:35"
+        },
+        {
+          "start_ref": "41015036",
+          "start_ref_usfm": "MRK 15:36",
+          "end_ref": "41015036",
+          "end_ref_usfm": "MRK 15:36"
+        },
+        {
+          "start_ref": "42001017",
+          "start_ref_usfm": "LUK 1:17",
+          "end_ref": "42001017",
+          "end_ref_usfm": "LUK 1:17"
+        },
+        {
+          "start_ref": "42004025",
+          "start_ref_usfm": "LUK 4:25",
+          "end_ref": "42004025",
+          "end_ref_usfm": "LUK 4:25"
+        },
+        {
+          "start_ref": "42004026",
+          "start_ref_usfm": "LUK 4:26",
+          "end_ref": "42004026",
+          "end_ref_usfm": "LUK 4:26"
+        },
+        {
+          "start_ref": "42009008",
+          "start_ref_usfm": "LUK 9:8",
+          "end_ref": "42009008",
+          "end_ref_usfm": "LUK 9:8"
+        },
+        {
+          "start_ref": "42009019",
+          "start_ref_usfm": "LUK 9:19",
+          "end_ref": "42009019",
+          "end_ref_usfm": "LUK 9:19"
+        },
+        {
+          "start_ref": "42009030",
+          "start_ref_usfm": "LUK 9:30",
+          "end_ref": "42009030",
+          "end_ref_usfm": "LUK 9:30"
+        },
+        {
+          "start_ref": "42009033",
+          "start_ref_usfm": "LUK 9:33",
+          "end_ref": "42009033",
+          "end_ref_usfm": "LUK 9:33"
+        },
+        {
+          "start_ref": "43001021",
+          "start_ref_usfm": "JHN 1:21",
+          "end_ref": "43001021",
+          "end_ref_usfm": "JHN 1:21"
+        },
+        {
+          "start_ref": "43001025",
+          "start_ref_usfm": "JHN 1:25",
+          "end_ref": "43001025",
+          "end_ref_usfm": "JHN 1:25"
+        },
+        {
+          "start_ref": "45011002",
+          "start_ref_usfm": "ROM 11:2",
+          "end_ref": "45011002",
+          "end_ref_usfm": "ROM 11:2"
+        },
+        {
+          "start_ref": "59005017",
+          "start_ref_usfm": "JAS 5:17",
+          "end_ref": "59005017",
+          "end_ref_usfm": "JAS 5:17"
+        },
+        {
+          "start_ref": "12001003",
+          "start_ref_usfm": "2KI 1:3",
+          "end_ref": "12001004",
+          "end_ref_usfm": "2KI 1:4"
+        },
+        {
+          "start_ref": "59005016",
+          "start_ref_usfm": "JAS 5:16",
+          "end_ref": "59005018",
+          "end_ref_usfm": "JAS 5:18"
+        },
+        {
+          "start_ref": "43001019",
+          "start_ref_usfm": "JHN 1:19",
+          "end_ref": "43001021",
+          "end_ref_usfm": "JHN 1:21"
+        },
+        {
+          "start_ref": "43001024",
+          "start_ref_usfm": "JHN 1:24",
+          "end_ref": "43001025",
+          "end_ref_usfm": "JHN 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26022,
+          "content_id": 467159,
+          "label": "Miracle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

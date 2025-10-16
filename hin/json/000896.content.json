@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 182435,
+    "reference_id": 26235,
+    "title": "सीहोन",
+    "media_type": "Text",
+    "index_reference": "सीहोन",
+    "language": "hin",
+    "content": "<h1><span><strong>सीहोन</strong></span></h1><p><span>सीहोन एक व्यक्ति का नाम है जो हेशबोन की भूमि पर शासन करने वाला एक एमोरी राजा था।</span></p><ul><li><p><span>इस्राएलियों ने सीहोन और उसके लोगों और भूमि को जीत लिया।</span></p></li></ul><p>(अनुवाद सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25454\" data-resourceType=\"UWTranslationWords\">एमोरी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25833\" data-resourceType=\"UWTranslationWords\">हेशबोन</span>)</p><h2>बाइबल संदर्भ:</h2><h2><span><strong>शब्द सूची:</strong></span></h2><ul><li><p><span>मजबूत का:</span></p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25454,
+          "content_id": 179543,
+          "label": "एमोरी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25833,
+          "content_id": 182420,
+          "label": "हेशबोन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

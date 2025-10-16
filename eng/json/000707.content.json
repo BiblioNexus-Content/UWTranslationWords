@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 26981,
+    "reference_id": 26123,
+    "title": "Priscilla",
+    "media_type": "Text",
+    "index_reference": "priscilla",
+    "language": "eng",
+    "content": "<h1>Priscilla, Prisca</h1><h2>Facts:</h2><p>Priscilla and her husband Aquila were Jewish Christians who worked with the apostle Paul in his missionary work.</p><ul><li><p>Priscilla and Aquila had left Rome because the emperor had forced the Christians to leave there.</p></li><li><p>Paul met Aquila and Priscilla in Corinth. They were tentmakers and Paul joined them in this work.</p></li><li><p>When Paul left Corinth to go to Syria, Priscilla and Aquila went with him.</p></li><li><p>From Syria, the three of them went to Ephesus. When Paul left Ephesus, Priscilla and Aquila stayed behind and continued the work of preaching the gospel there.</p></li><li><p>They especially taught a man named Apollos in Ephesus who believed in Jesus and was a gifted speaker and teacher.</p></li><li><p>Priscilla&apos;s name is shortened to “Prisca” in Romans 16:3.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">believe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25588\" data-resourceType=\"UWTranslationWords\">Christian</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25612\" data-resourceType=\"UWTranslationWords\">Corinth</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25706\" data-resourceType=\"UWTranslationWords\">Ephesus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">Syria</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor16:19-1Cor16:20\">1 Corinthians 16:19–20</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:19-2Tim4:22\">2 Timothy 4:19–22</a></p></li><li><p><a href=\"https://ref.ly/Acts18:1\">Acts 18:1</a></p></li><li><p><a href=\"https://ref.ly/Acts18:24\">Acts 18:24</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G42520, G42510</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44018001",
+          "start_ref_usfm": "ACT 18:1",
+          "end_ref": "44018001",
+          "end_ref_usfm": "ACT 18:1"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "44018018",
+          "start_ref_usfm": "ACT 18:18",
+          "end_ref": "44018018",
+          "end_ref_usfm": "ACT 18:18"
+        },
+        {
+          "start_ref": "44018024",
+          "start_ref_usfm": "ACT 18:24",
+          "end_ref": "44018024",
+          "end_ref_usfm": "ACT 18:24"
+        },
+        {
+          "start_ref": "44018026",
+          "start_ref_usfm": "ACT 18:26",
+          "end_ref": "44018026",
+          "end_ref_usfm": "ACT 18:26"
+        },
+        {
+          "start_ref": "45016003",
+          "start_ref_usfm": "ROM 16:3",
+          "end_ref": "45016003",
+          "end_ref_usfm": "ROM 16:3"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016019",
+          "end_ref_usfm": "1CO 16:19"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004019",
+          "end_ref_usfm": "2TI 4:19"
+        },
+        {
+          "start_ref": "46016019",
+          "start_ref_usfm": "1CO 16:19",
+          "end_ref": "46016020",
+          "end_ref_usfm": "1CO 16:20"
+        },
+        {
+          "start_ref": "55004019",
+          "start_ref_usfm": "2TI 4:19",
+          "end_ref": "55004022",
+          "end_ref_usfm": "2TI 4:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 26381,
+          "label": "Believe",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25588,
+          "content_id": 26446,
+          "label": "Christian",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25612,
+          "content_id": 26470,
+          "label": "Corinth",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25706,
+          "content_id": 26564,
+          "label": "Ephesus",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 27135,
+          "label": "Syria",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

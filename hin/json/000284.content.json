@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180420,
+    "reference_id": 26368,
+    "title": "जबूलून",
+    "media_type": "Text",
+    "index_reference": "जबूलून",
+    "language": "hin",
+    "content": "<h1>जबूलून</h1><h2>तथ्य:</h2><p>जबूलून याकूब और लिआ: का आखरी पुत्र था और इस्राएल के बारह गोत्रों में से एक गोत्र का नाम था।</p><ul><li><p>जबूलून के गोत्र को खारे ताल के पश्चिम में भूमि दी गई थी।</p></li><li><p>कभी-कभी इस गोत्र के निवास स्थान को भी &quot;जबूलून&quot; कह कर पुकारा जाता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">याकूब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25961\" data-resourceType=\"UWTranslationWords\">लिआ:</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">खारे ताल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">निर्गमन 01:1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen30:19-Gen30:21\">उत्पत्ति 30:19–21</a></p></li><li><p><a href=\"https://ref.ly/Isa9:1-Isa9:2\">यशायाह 09:1–2</a></p></li><li><p><a href=\"https://ref.ly/Judg4:10\">न्यायियों 04:10</a></p></li><li><p><a href=\"https://ref.ly/Matt4:12-Matt4:13\">मत्ती 04:12–13</a></p></li><li><p><a href=\"https://ref.ly/Matt4:14-Matt4:16\">मत्ती 04:14–16</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2074, H2075, G2194</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030020",
+          "start_ref_usfm": "GEN 30:20",
+          "end_ref": "01030020",
+          "end_ref_usfm": "GEN 30:20"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01046014",
+          "start_ref_usfm": "GEN 46:14",
+          "end_ref": "01046014",
+          "end_ref_usfm": "GEN 46:14"
+        },
+        {
+          "start_ref": "01049013",
+          "start_ref_usfm": "GEN 49:13",
+          "end_ref": "01049013",
+          "end_ref_usfm": "GEN 49:13"
+        },
+        {
+          "start_ref": "02001003",
+          "start_ref_usfm": "EXO 1:3",
+          "end_ref": "02001003",
+          "end_ref_usfm": "EXO 1:3"
+        },
+        {
+          "start_ref": "07004010",
+          "start_ref_usfm": "JDG 4:10",
+          "end_ref": "07004010",
+          "end_ref_usfm": "JDG 4:10"
+        },
+        {
+          "start_ref": "23009001",
+          "start_ref_usfm": "ISA 9:1",
+          "end_ref": "23009001",
+          "end_ref_usfm": "ISA 9:1"
+        },
+        {
+          "start_ref": "40004013",
+          "start_ref_usfm": "MAT 4:13",
+          "end_ref": "40004013",
+          "end_ref_usfm": "MAT 4:13"
+        },
+        {
+          "start_ref": "40004015",
+          "start_ref_usfm": "MAT 4:15",
+          "end_ref": "40004015",
+          "end_ref_usfm": "MAT 4:15"
+        },
+        {
+          "start_ref": "40004016",
+          "start_ref_usfm": "MAT 4:16",
+          "end_ref": "40004016",
+          "end_ref_usfm": "MAT 4:16"
+        },
+        {
+          "start_ref": "66007008",
+          "start_ref_usfm": "REV 7:8",
+          "end_ref": "66007008",
+          "end_ref_usfm": "REV 7:8"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 180026,
+          "label": "लिआ:",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

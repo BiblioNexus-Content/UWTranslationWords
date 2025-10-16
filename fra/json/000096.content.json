@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466676,
+    "reference_id": 25498,
+    "title": "Baesha",
+    "media_type": "Text",
+    "index_reference": "baesha",
+    "language": "fra",
+    "content": "<h1>Baesha</h1><h2>Définition :</h2><p>Baescha était l&apos;un des mauvais rois d&apos;Israël, qui a influencé les Israélites pour adorer des idoles.</p><ul><li><p>Baescha était le troisième roi d&apos;Israël et régna pendant vingt-quatre ans, à l&apos;époque où Asa était roi de Juda.</p></li><li><p>Il était un commandant militaire qui devint roi en tuant le roi précédent, Nadab.</p></li><li><p>Pendant le règne de Baescha, il y avait de nombreuses guerres entre les royaumes d&apos;Israël et de Juda, en particulier avec le roi Asa de Juda.</p></li><li><p>Les nombreux péchés causés par Baesha poussa Dieu à l&apos;enlever de ses fonctions par sa mort.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/asa.md), (../kt/falsegod.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11015017",
+          "start_ref_usfm": "1KI 15:17",
+          "end_ref": "11015017",
+          "end_ref_usfm": "1KI 15:17"
+        },
+        {
+          "start_ref": "12009009",
+          "start_ref_usfm": "2KI 9:9",
+          "end_ref": "12009009",
+          "end_ref_usfm": "2KI 9:9"
+        },
+        {
+          "start_ref": "24041009",
+          "start_ref_usfm": "JER 41:9",
+          "end_ref": "24041009",
+          "end_ref_usfm": "JER 41:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25479,
+          "content_id": 466658,
+          "label": "Asa",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

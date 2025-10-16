@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467408,
+    "reference_id": 26294,
+    "title": "Tétrarque",
+    "media_type": "Text",
+    "index_reference": "tétrarque",
+    "language": "fra",
+    "content": "<h1>tétrarque</h1><h2>Définition :</h2><p>Un tétrarque était un fonctionnaire de l&apos;administration qui régnait sur une division de l&apos;Empire romain. Chaque tétrarque était sous l&apos;autorité de l&apos;empereur romain.</p><ul><li><p>Le titre « tétrarque » signifie «l&apos;un des quatre dirigeants conjoints».</p></li><li><p>À partir de l&apos;empereur Dioclétien, il y avait quatre grandes divisions de l&apos;Empire romain et chaque tétrarque régnait sur une division.</p></li><li><p>Le royaume d&apos;Hérode « le Grand », qui était roi au moment de la naissance de Jésus, a été divisé en quatre sections après sa mort, et a été gouverné par ses fils en tant que « tétrarques » ou « dirigeants d&apos;un quatrième ».</p></li><li><p>Chaque division couvrait une ou plusieurs provinces, comme la Galilée ou la Samarie.</p></li><li><p>« Hérode le tétrarque » est mentionné à plusieurs reprises dans le Nouveau Testament. Il est également connu sous le nom de « Hérode Antipas ».</p></li><li><p>Le terme « tétrarque » pourrait également être traduit par « gouverneur régional » ou « souverain provincial » ou « souverain » ou « gouverneur ».</p></li></ul><p>(Voir aussi : (../other/governor.md), (../names/herodantipas.md), (../other/province.md), (../names/rome.md), (../other/ruler.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014001",
+          "end_ref_usfm": "MAT 14:1"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003001",
+          "end_ref_usfm": "LUK 3:1"
+        },
+        {
+          "start_ref": "42003019",
+          "start_ref_usfm": "LUK 3:19",
+          "end_ref": "42003019",
+          "end_ref_usfm": "LUK 3:19"
+        },
+        {
+          "start_ref": "42009007",
+          "start_ref_usfm": "LUK 9:7",
+          "end_ref": "42009007",
+          "end_ref_usfm": "LUK 9:7"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "40014001",
+          "start_ref_usfm": "MAT 14:1",
+          "end_ref": "40014002",
+          "end_ref_usfm": "MAT 14:2"
+        },
+        {
+          "start_ref": "42003001",
+          "start_ref_usfm": "LUK 3:1",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25799,
+          "content_id": 466948,
+          "label": "Gouverneur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25830,
+          "content_id": 466978,
+          "label": "Hérode Antipas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26184,
+          "content_id": 32928,
+          "label": "dirigeant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 467258,
+          "label": "Province",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "content_id": 467375,
+    "reference_id": 26260,
+    "title": "Lois",
+    "media_type": "Text",
+    "index_reference": "lois",
+    "language": "fra",
+    "content": "<h1>lois, statuts</h1><h2>Définition :</h2><p>Une loi est une prescription écrite qui prodigue des conseils pour la vie d&apos;un peuple</p><ul><li><p>Le terme «statut» est similaire dans le sens de «ordonnance»* ou &quot;commandement&quot; ou &quot;droit&quot; ou &quot;décret*&quot; Tous ces termes mentionnent des instructions et des exigences que Dieu donne à son peuple.</p></li><li><p>Le roi David a dit qu&apos;il se plaisait dans les statuts de l&apos;Eternel.</p></li><li><p>Le terme «statut» peut aussi être traduit par &quot;commandement spécifique&quot; ou &quot;décret spécial*&quot;</p></li></ul><p>(Voir aussi : (../kt/command.md), (../other/decree.md), (../kt/lawofmoses.md), (../other/ordinance.md), (../kt/yahweh.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01026005",
+          "start_ref_usfm": "GEN 26:5",
+          "end_ref": "01026005",
+          "end_ref_usfm": "GEN 26:5"
+        },
+        {
+          "start_ref": "01047026",
+          "start_ref_usfm": "GEN 47:26",
+          "end_ref": "01047026",
+          "end_ref_usfm": "GEN 47:26"
+        },
+        {
+          "start_ref": "02012014",
+          "start_ref_usfm": "EXO 12:14",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "02012017",
+          "start_ref_usfm": "EXO 12:17",
+          "end_ref": "02012017",
+          "end_ref_usfm": "EXO 12:17"
+        },
+        {
+          "start_ref": "02012024",
+          "start_ref_usfm": "EXO 12:24",
+          "end_ref": "02012024",
+          "end_ref_usfm": "EXO 12:24"
+        },
+        {
+          "start_ref": "02012043",
+          "start_ref_usfm": "EXO 12:43",
+          "end_ref": "02012043",
+          "end_ref_usfm": "EXO 12:43"
+        },
+        {
+          "start_ref": "02015025",
+          "start_ref_usfm": "EXO 15:25",
+          "end_ref": "02015025",
+          "end_ref_usfm": "EXO 15:25"
+        },
+        {
+          "start_ref": "02018016",
+          "start_ref_usfm": "EXO 18:16",
+          "end_ref": "02018016",
+          "end_ref_usfm": "EXO 18:16"
+        },
+        {
+          "start_ref": "02018020",
+          "start_ref_usfm": "EXO 18:20",
+          "end_ref": "02018020",
+          "end_ref_usfm": "EXO 18:20"
+        },
+        {
+          "start_ref": "02028043",
+          "start_ref_usfm": "EXO 28:43",
+          "end_ref": "02028043",
+          "end_ref_usfm": "EXO 28:43"
+        },
+        {
+          "start_ref": "02029009",
+          "start_ref_usfm": "EXO 29:9",
+          "end_ref": "02029009",
+          "end_ref_usfm": "EXO 29:9"
+        },
+        {
+          "start_ref": "02030021",
+          "start_ref_usfm": "EXO 30:21",
+          "end_ref": "02030021",
+          "end_ref_usfm": "EXO 30:21"
+        },
+        {
+          "start_ref": "04019002",
+          "start_ref_usfm": "NUM 19:2",
+          "end_ref": "04019002",
+          "end_ref_usfm": "NUM 19:2"
+        },
+        {
+          "start_ref": "15007010",
+          "start_ref_usfm": "EZR 7:10",
+          "end_ref": "15007010",
+          "end_ref_usfm": "EZR 7:10"
+        },
+        {
+          "start_ref": "15007011",
+          "start_ref_usfm": "EZR 7:11",
+          "end_ref": "15007011",
+          "end_ref_usfm": "EZR 7:11"
+        },
+        {
+          "start_ref": "16001007",
+          "start_ref_usfm": "NEH 1:7",
+          "end_ref": "16001007",
+          "end_ref_usfm": "NEH 1:7"
+        },
+        {
+          "start_ref": "16009013",
+          "start_ref_usfm": "NEH 9:13",
+          "end_ref": "16009013",
+          "end_ref_usfm": "NEH 9:13"
+        },
+        {
+          "start_ref": "16009014",
+          "start_ref_usfm": "NEH 9:14",
+          "end_ref": "16009014",
+          "end_ref_usfm": "NEH 9:14"
+        },
+        {
+          "start_ref": "16010029",
+          "start_ref_usfm": "NEH 10:29",
+          "end_ref": "16010029",
+          "end_ref_usfm": "NEH 10:29"
+        },
+        {
+          "start_ref": "18014005",
+          "start_ref_usfm": "JOB 14:5",
+          "end_ref": "18014005",
+          "end_ref_usfm": "JOB 14:5"
+        },
+        {
+          "start_ref": "18014013",
+          "start_ref_usfm": "JOB 14:13",
+          "end_ref": "18014013",
+          "end_ref_usfm": "JOB 14:13"
+        },
+        {
+          "start_ref": "18023014",
+          "start_ref_usfm": "JOB 23:14",
+          "end_ref": "18023014",
+          "end_ref_usfm": "JOB 23:14"
+        },
+        {
+          "start_ref": "18026010",
+          "start_ref_usfm": "JOB 26:10",
+          "end_ref": "18026010",
+          "end_ref_usfm": "JOB 26:10"
+        },
+        {
+          "start_ref": "18028026",
+          "start_ref_usfm": "JOB 28:26",
+          "end_ref": "18028026",
+          "end_ref_usfm": "JOB 28:26"
+        },
+        {
+          "start_ref": "18036006",
+          "start_ref_usfm": "JOB 36:6",
+          "end_ref": "18036006",
+          "end_ref_usfm": "JOB 36:6"
+        },
+        {
+          "start_ref": "18036017",
+          "start_ref_usfm": "JOB 36:17",
+          "end_ref": "18036017",
+          "end_ref_usfm": "JOB 36:17"
+        },
+        {
+          "start_ref": "18037023",
+          "start_ref_usfm": "JOB 37:23",
+          "end_ref": "18037023",
+          "end_ref_usfm": "JOB 37:23"
+        },
+        {
+          "start_ref": "18038010",
+          "start_ref_usfm": "JOB 38:10",
+          "end_ref": "18038010",
+          "end_ref_usfm": "JOB 38:10"
+        },
+        {
+          "start_ref": "26033015",
+          "start_ref_usfm": "EZK 33:15",
+          "end_ref": "26033015",
+          "end_ref_usfm": "EZK 33:15"
+        },
+        {
+          "start_ref": "36002002",
+          "start_ref_usfm": "ZEP 2:2",
+          "end_ref": "36002002",
+          "end_ref_usfm": "ZEP 2:2"
+        },
+        {
+          "start_ref": "11011011",
+          "start_ref_usfm": "1KI 11:11",
+          "end_ref": "11011013",
+          "end_ref_usfm": "1KI 11:13"
+        },
+        {
+          "start_ref": "05006020",
+          "start_ref_usfm": "DEU 6:20",
+          "end_ref": "05006023",
+          "end_ref_usfm": "DEU 6:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25650,
+          "content_id": 466813,
+          "label": "décret, édit, publier un décret",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 467468,
+          "label": "L'Éternel, Yahvé",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

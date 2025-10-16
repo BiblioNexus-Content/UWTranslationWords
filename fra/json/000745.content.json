@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467338,
+    "reference_id": 26222,
+    "title": "Saba",
+    "media_type": "Text",
+    "index_reference": "saba",
+    "language": "fra",
+    "content": "<h1>Saba</h1><h2>Définition :</h2><p>Dans les temps anciens, Saba était une civilisation; une région qui se trouvait quelque part dans le sud de l&apos;Arabie.</p><ul><li><p>Saba existait près de l&apos;actuel Yémen ou de l&apos;Ethiopie, à partir de 1200 av J-C à 275 apr* J*-C.</p></li><li><p>Ses habitants étaient probablement les descendants de Cham.</p></li><li><p>La reine de Saba est venue visiter le roi Salomon quand elle a entendu la renommée de ses richesses et de sa sagesse.</p></li><li><p>Il y a aussi plusieurs hommes nommés «Saba» dans l&apos;Ancien Testament.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/arabia.md), (../names/beersheba.md), (../names/ethiopia.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010007",
+          "start_ref_usfm": "GEN 10:7",
+          "end_ref": "01010007",
+          "end_ref_usfm": "GEN 10:7"
+        },
+        {
+          "start_ref": "01010028",
+          "start_ref_usfm": "GEN 10:28",
+          "end_ref": "01010028",
+          "end_ref_usfm": "GEN 10:28"
+        },
+        {
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
+        },
+        {
+          "start_ref": "19072010",
+          "start_ref_usfm": "PSA 72:10",
+          "end_ref": "19072010",
+          "end_ref_usfm": "PSA 72:10"
+        },
+        {
+          "start_ref": "13001008",
+          "start_ref_usfm": "1CH 1:8",
+          "end_ref": "13001010",
+          "end_ref_usfm": "1CH 1:10"
+        },
+        {
+          "start_ref": "11010001",
+          "start_ref_usfm": "1KI 10:1",
+          "end_ref": "11010002",
+          "end_ref_usfm": "1KI 10:2"
+        },
+        {
+          "start_ref": "23060006",
+          "start_ref_usfm": "ISA 60:6",
+          "end_ref": "23060007",
+          "end_ref_usfm": "ISA 60:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25519,
+          "content_id": 466694,
+          "label": "Beersheba",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 466872,
+          "label": "Ethiopie ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

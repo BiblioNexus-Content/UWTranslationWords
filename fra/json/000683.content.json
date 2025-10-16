@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 467243,
+    "reference_id": 26120,
+    "title": "Proies",
+    "media_type": "Text",
+    "index_reference": "proies",
+    "language": "fra",
+    "content": "<h1>proies, des proies sur</h1><h2>Définition :</h2><p>&quot;Le terme «proie» fait référence à quelque chose qui est chassé, généralement un animal qui est utilisé pour l&apos;alimentation.</p><ul><li><p>Dans un sens figuré, «proie» peut se référer à une personne dont on a profit, qui est abusée, ou opprimée par une personne plus puissante.</p></li><li><p>Quand &quot;proies&quot;se réfere à des gens cela signifie tirer profit d&apos;eux en les opprimant ou en les volant .</p></li></ul><p>(Voir aussi : (../other/oppress.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049009",
+          "start_ref_usfm": "GEN 49:9",
+          "end_ref": "01049009",
+          "end_ref_usfm": "GEN 49:9"
+        },
+        {
+          "start_ref": "01049027",
+          "start_ref_usfm": "GEN 49:27",
+          "end_ref": "01049027",
+          "end_ref_usfm": "GEN 49:27"
+        },
+        {
+          "start_ref": "19104021",
+          "start_ref_usfm": "PSA 104:21",
+          "end_ref": "19104021",
+          "end_ref_usfm": "PSA 104:21"
+        },
+        {
+          "start_ref": "24012009",
+          "start_ref_usfm": "JER 12:9",
+          "end_ref": "24012009",
+          "end_ref_usfm": "JER 12:9"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

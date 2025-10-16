@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466735,
+    "reference_id": 25564,
+    "title": "Caïphe",
+    "media_type": "Text",
+    "index_reference": "caïphe",
+    "language": "fra",
+    "content": "<h1>Caïphe</h1><h2>Définition :</h2><p>Caïphe était le grand prêtre d&apos;Israël pendant le temps de Jean-Baptiste et Jésus.</p><ul><li><p>Caïphe a joué un rôle majeur dans le procès et la condamnation de Jésus.</p></li><li><p>Les grands prêtres Anne et Caïphe étaient au procès de Pierre et Jean quand ils ont été arrêtés après la guérison d&apos;un infirme.</p></li><li><p>Caïphe est celui qui a dit qu&apos;il valait mieux pour un homme de mourir pour la nation tout entière que toute la nation périsse* Dieu lui fit dire cela comme une prophétie sur la façon dont Jésus allait mourir pour sauver son peuple.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/annas.md), (../kt/highpriest.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026003",
+          "end_ref_usfm": "MAT 26:3"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026057",
+          "end_ref_usfm": "MAT 26:57"
+        },
+        {
+          "start_ref": "42003002",
+          "start_ref_usfm": "LUK 3:2",
+          "end_ref": "42003002",
+          "end_ref_usfm": "LUK 3:2"
+        },
+        {
+          "start_ref": "43011049",
+          "start_ref_usfm": "JHN 11:49",
+          "end_ref": "43011049",
+          "end_ref_usfm": "JHN 11:49"
+        },
+        {
+          "start_ref": "43018012",
+          "start_ref_usfm": "JHN 18:12",
+          "end_ref": "43018012",
+          "end_ref_usfm": "JHN 18:12"
+        },
+        {
+          "start_ref": "43018013",
+          "start_ref_usfm": "JHN 18:13",
+          "end_ref": "43018013",
+          "end_ref_usfm": "JHN 18:13"
+        },
+        {
+          "start_ref": "43018014",
+          "start_ref_usfm": "JHN 18:14",
+          "end_ref": "43018014",
+          "end_ref_usfm": "JHN 18:14"
+        },
+        {
+          "start_ref": "43018024",
+          "start_ref_usfm": "JHN 18:24",
+          "end_ref": "43018024",
+          "end_ref_usfm": "JHN 18:24"
+        },
+        {
+          "start_ref": "43018028",
+          "start_ref_usfm": "JHN 18:28",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        },
+        {
+          "start_ref": "44004006",
+          "start_ref_usfm": "ACT 4:6",
+          "end_ref": "44004006",
+          "end_ref_usfm": "ACT 4:6"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "44004005",
+          "start_ref_usfm": "ACT 4:5",
+          "end_ref": "44004007",
+          "end_ref_usfm": "ACT 4:7"
+        },
+        {
+          "start_ref": "40026057",
+          "start_ref_usfm": "MAT 26:57",
+          "end_ref": "40026058",
+          "end_ref_usfm": "MAT 26:58"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25461,
+          "content_id": 466641,
+          "label": "Anne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

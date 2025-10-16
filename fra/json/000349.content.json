@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 466934,
+    "reference_id": 25785,
+    "title": "Glaner",
+    "media_type": "Text",
+    "index_reference": "glaner",
+    "language": "fra",
+    "content": "<h1>glaner, glanant</h1><h2>Définition :</h2><p>&quot;Glaner&quot; c&apos;est de passer par un champ ou un verger pour ramasser quelques grains ou fruits que les moissonneurs ont laissés derrière eux.</p><ul><li><p>Dieu dit aux Israélites de laisser les veuves, les pauvres et les étrangers glaner le grain restant dans le but de fournir de la nourriture pour eux-mêmes quotidiennement.</p></li><li><p>Parfois, le propriétaire du terrain permettait aux glaneurs d&apos;aller juste derrière les moissonneurs pour glaner, ce qui leur permettait d&apos;avoir beaucoup plus de grain.</p></li><li><p>Un exemple clair de la façon dont cela a fonctionné est dans l&apos;histoire de Ruth où on a permis à Ruth, veuve, de glaner généreusement parmi les moissonneurs les champs de Boaz* nD&apos;autres façons de traduire &quot;glaner&quot; peuvent être, &quot; ou &quot;rassembler&quot; ou &quot;collecter</p></li></ul><p>(Voir aussi : (../names/boaz.md), (../other/grain.md), (../other/harvest.md), (../names/ruth.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "08002002",
+          "start_ref_usfm": "RUT 2:2",
+          "end_ref": "08002002",
+          "end_ref_usfm": "RUT 2:2"
+        },
+        {
+          "start_ref": "08002003",
+          "start_ref_usfm": "RUT 2:3",
+          "end_ref": "08002003",
+          "end_ref_usfm": "RUT 2:3"
+        },
+        {
+          "start_ref": "08002007",
+          "start_ref_usfm": "RUT 2:7",
+          "end_ref": "08002007",
+          "end_ref_usfm": "RUT 2:7"
+        },
+        {
+          "start_ref": "08002008",
+          "start_ref_usfm": "RUT 2:8",
+          "end_ref": "08002008",
+          "end_ref_usfm": "RUT 2:8"
+        },
+        {
+          "start_ref": "08002015",
+          "start_ref_usfm": "RUT 2:15",
+          "end_ref": "08002015",
+          "end_ref_usfm": "RUT 2:15"
+        },
+        {
+          "start_ref": "08002016",
+          "start_ref_usfm": "RUT 2:16",
+          "end_ref": "08002016",
+          "end_ref_usfm": "RUT 2:16"
+        },
+        {
+          "start_ref": "08002017",
+          "start_ref_usfm": "RUT 2:17",
+          "end_ref": "08002017",
+          "end_ref_usfm": "RUT 2:17"
+        },
+        {
+          "start_ref": "08002018",
+          "start_ref_usfm": "RUT 2:18",
+          "end_ref": "08002018",
+          "end_ref_usfm": "RUT 2:18"
+        },
+        {
+          "start_ref": "08002019",
+          "start_ref_usfm": "RUT 2:19",
+          "end_ref": "08002019",
+          "end_ref_usfm": "RUT 2:19"
+        },
+        {
+          "start_ref": "08002023",
+          "start_ref_usfm": "RUT 2:23",
+          "end_ref": "08002023",
+          "end_ref_usfm": "RUT 2:23"
+        },
+        {
+          "start_ref": "18024006",
+          "start_ref_usfm": "JOB 24:6",
+          "end_ref": "18024006",
+          "end_ref_usfm": "JOB 24:6"
+        },
+        {
+          "start_ref": "31001005",
+          "start_ref_usfm": "OBA 1:5",
+          "end_ref": "31001005",
+          "end_ref_usfm": "OBA 1:5"
+        },
+        {
+          "start_ref": "05024021",
+          "start_ref_usfm": "DEU 24:21",
+          "end_ref": "05024022",
+          "end_ref_usfm": "DEU 24:22"
+        },
+        {
+          "start_ref": "23017004",
+          "start_ref_usfm": "ISA 17:4",
+          "end_ref": "23017005",
+          "end_ref_usfm": "ISA 17:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25548,
+          "content_id": 466720,
+          "label": "Boaz",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25823,
+          "content_id": 466971,
+          "label": "Récolte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26185,
+          "content_id": 467304,
+          "label": "Ruth",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

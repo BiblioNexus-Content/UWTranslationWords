@@ -1,0 +1,100 @@
+[
+  {
+    "content_id": 237643,
+    "reference_id": 25507,
+    "title": "Estéril",
+    "media_type": "Text",
+    "index_reference": "estéril",
+    "language": "por",
+    "content": "<h1>estéril, seco</h1><h2>Definição:</h2><p>Ser “estéril” significa não ser fértil ou frutífero.</p><ul><li><p>Solo ou terra que é estéril não é capaz de produzir plantas.</p></li><li><p>Uma mulher que é estéril é aquela que fisicamente não pode conceber ou dar à luz um filho.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Quando “estéril” é usado para se referir à terra, pode ser traduzido como “não fértil” ou “infrutífero” ou “sem plantas”.</p></li><li><p>Quando se refere a uma mulher estéril, pode ser traduzido como “sem filhos” ou “não capaz de gerar filhos” ou “incapaz de conceber um filho”.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam2:5\">1 Samuel 2.5</a></p></li><li><p><a href=\"https://ref.ly/Gal4:27\">Gálatas 4.27</a></p></li><li><p><a href=\"https://ref.ly/Gen11:30\">Gênesis 11.30</a></p></li><li><p><a href=\"https://ref.ly/Job3:7\">Jó 3.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4420, H6115, H6135, H6723, H7921, G06920, G47230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01011030",
+          "start_ref_usfm": "GEN 11:30",
+          "end_ref": "01011030",
+          "end_ref_usfm": "GEN 11:30"
+        },
+        {
+          "start_ref": "01025021",
+          "start_ref_usfm": "GEN 25:21",
+          "end_ref": "01025021",
+          "end_ref_usfm": "GEN 25:21"
+        },
+        {
+          "start_ref": "01029031",
+          "start_ref_usfm": "GEN 29:31",
+          "end_ref": "01029031",
+          "end_ref_usfm": "GEN 29:31"
+        },
+        {
+          "start_ref": "02023026",
+          "start_ref_usfm": "EXO 23:26",
+          "end_ref": "02023026",
+          "end_ref_usfm": "EXO 23:26"
+        },
+        {
+          "start_ref": "09002005",
+          "start_ref_usfm": "1SA 2:5",
+          "end_ref": "09002005",
+          "end_ref_usfm": "1SA 2:5"
+        },
+        {
+          "start_ref": "18003007",
+          "start_ref_usfm": "JOB 3:7",
+          "end_ref": "18003007",
+          "end_ref_usfm": "JOB 3:7"
+        },
+        {
+          "start_ref": "18024019",
+          "start_ref_usfm": "JOB 24:19",
+          "end_ref": "18024019",
+          "end_ref_usfm": "JOB 24:19"
+        },
+        {
+          "start_ref": "18030003",
+          "start_ref_usfm": "JOB 30:3",
+          "end_ref": "18030003",
+          "end_ref_usfm": "JOB 30:3"
+        },
+        {
+          "start_ref": "20030016",
+          "start_ref_usfm": "PRO 30:16",
+          "end_ref": "20030016",
+          "end_ref_usfm": "PRO 30:16"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "42001007",
+          "start_ref_usfm": "LUK 1:7",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
+        },
+        {
+          "start_ref": "42023029",
+          "start_ref_usfm": "LUK 23:29",
+          "end_ref": "42023029",
+          "end_ref_usfm": "LUK 23:29"
+        },
+        {
+          "start_ref": "48004027",
+          "start_ref_usfm": "GAL 4:27",
+          "end_ref": "48004027",
+          "end_ref_usfm": "GAL 4:27"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

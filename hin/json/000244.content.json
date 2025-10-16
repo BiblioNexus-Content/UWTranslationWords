@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 179759,
+    "reference_id": 25685,
+    "title": "गोबर",
+    "media_type": "Text",
+    "index_reference": "गोबर",
+    "language": "hin",
+    "content": "<h1>गोबर, खाद</h1><h2>परिभाषा:</h2><p>“गोबर” मनुष्य और पशुओं का मल होता है जिसे विष्ठा कहते हैं। जब इसका उपयोग भूमि की उर्वरता बढ़ाने के लिए किया जाता है तो इसे खाद कहते हैं।</p><ul><li><p>इन शब्दों को प्रतीकात्मक रूप में किसी निकम्मी या महत्वहीन वस्तु के लिए काम में लिया गया है।</p></li><li><p>पशुओं का सूखा हुआ गोबर ईंधन के लिए काम में लिया जाता था।</p></li><li><p>“भूमि के ऊपर खाद के समान पड़ी रहेंगी” का अनुवाद हो सकता है, “निकम्मे गोबर के समान पृथ्वी पर विसर्जित किए गए।”</p></li><li><p>“कूड़ा फाटक” यरूशलेम की दक्षिणी दीवार में था जो संभवतः नगर का कूड़ा बाहर ले जाने के लिए काम में आता था।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25767\" data-resourceType=\"UWTranslationWords\">फाटक</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 14:9–10</a></p></li><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 06:24–26</a></p></li><li><p><a href=\"https://ref.ly/Isa25:9-Isa25:10\">यशायाह 25:9–10</a></p></li><li><p><a href=\"https://ref.ly/Jer8:1-Jer8:3\">यिर्मयाह 08:1–3</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H830, H1119, H1557, H1561, H1686, H1828, H6569, H6675, G906, G4657</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11014010",
+          "start_ref_usfm": "1KI 14:10",
+          "end_ref": "11014010",
+          "end_ref_usfm": "1KI 14:10"
+        },
+        {
+          "start_ref": "12006025",
+          "start_ref_usfm": "2KI 6:25",
+          "end_ref": "12006025",
+          "end_ref_usfm": "2KI 6:25"
+        },
+        {
+          "start_ref": "23025010",
+          "start_ref_usfm": "ISA 25:10",
+          "end_ref": "23025010",
+          "end_ref_usfm": "ISA 25:10"
+        },
+        {
+          "start_ref": "24008002",
+          "start_ref_usfm": "JER 8:2",
+          "end_ref": "24008002",
+          "end_ref_usfm": "JER 8:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 179840,
+          "label": "फाटक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

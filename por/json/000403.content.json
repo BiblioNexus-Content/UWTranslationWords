@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 237915,
+    "reference_id": 25782,
+    "title": "Gilgal",
+    "media_type": "Text",
+    "index_reference": "gilgal",
+    "language": "por",
+    "content": "<h1>Gilgal</h1><h2>Fatos:</h2><p>Gilgal era uma cidade ao norte de Jericó e foi o primeiro lugar onde os israelitas acamparam após cruzar o Rio Jordão para entrar em Canaã.</p><ul><li><p>Em Gilgal, Josué ergueu doze pedras tiradas do leito seco do Rio Jordão que eles haviam acabado de atravessar.</p></li><li><p>Gilgal foi a cidade que Elias e Eliseu estavam deixando ao cruzar o Jordão quando Elias foi levado ao céu.</p></li><li><p>Havia também vários outros lugares chamados “Gilgal” no Antigo Testamento.</p></li><li><p>A palavra “gilgal” significa “círculo de pedras”, talvez referindo-se a um lugar onde um altar circular foi construído.</p></li><li><p>No Antigo Testamento, esse nome quase sempre aparece como “o gilgal”. Isso pode indicar que não era um nome de lugar específico, mas sim uma descrição de um certo tipo de lugar.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25698\" data-resourceType=\"UWTranslationWords\">Eliseu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25896\" data-resourceType=\"UWTranslationWords\">Jericó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25917\" data-resourceType=\"UWTranslationWords\">Rio Jordão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam7:15-1Sam7:17\">1 Samuel 7.15–17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs2:1-2Kgs2:2\">2 Reis 2.1–2</a></p></li><li><p><a href=\"https://ref.ly/Hos4:15\">Oseias 4.15</a></p></li><li><p><a href=\"https://ref.ly/Judg2:1\">Juízes 2.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1537</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07002001",
+          "start_ref_usfm": "JDG 2:1",
+          "end_ref": "07002001",
+          "end_ref_usfm": "JDG 2:1"
+        },
+        {
+          "start_ref": "16012029",
+          "start_ref_usfm": "NEH 12:29",
+          "end_ref": "16012029",
+          "end_ref_usfm": "NEH 12:29"
+        },
+        {
+          "start_ref": "28004015",
+          "start_ref_usfm": "HOS 4:15",
+          "end_ref": "28004015",
+          "end_ref_usfm": "HOS 4:15"
+        },
+        {
+          "start_ref": "09007015",
+          "start_ref_usfm": "1SA 7:15",
+          "end_ref": "09007017",
+          "end_ref_usfm": "1SA 7:17"
+        },
+        {
+          "start_ref": "12002001",
+          "start_ref_usfm": "2KI 2:1",
+          "end_ref": "12002002",
+          "end_ref_usfm": "2KI 2:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25697,
+          "content_id": 237830,
+          "label": "Elias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 237831,
+          "label": "Eliseu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25896,
+          "content_id": 238029,
+          "label": "Jericó",
+          "language": "por"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 238050,
+          "label": "Rio Jordão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

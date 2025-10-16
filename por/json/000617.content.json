@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 238158,
+    "reference_id": 26028,
+    "title": "Molde",
+    "media_type": "Text",
+    "index_reference": "molde",
+    "language": "por",
+    "content": "<h1>molde, moldado, moldes, moldador</h1><h2>Definição:</h2><p>Um molde é uma peça oca de madeira, metal ou argila que é usada para formar objetos de ouro, prata ou outros materiais que podem ser amolecidos e depois moldados pelo molde.</p><ul><li><p>Os moldes eram usados para fazer joias, pratos e utensílios para refeições, entre outras coisas.</p></li><li><p>Na Bíblia, os moldes são mencionados, principalmente, em conexão com a moldagem de estátuas para serem usadas como ídolos.</p></li><li><p>Os metais precisam ser aquecidos a uma temperatura muito alta para que possam ser derramados no molde.</p></li><li><p>Moldar algo significa formar um objeto em uma certa forma ou semelhança usando um molde ou as mãos para modelar uma certa forma.</p></li><li><p>Um “moldador” é alguém que molda ou modela algo.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Este termo também pode ser traduzido como, “formar” ou “modelar” ou “preparar”.</p></li><li><p>A palavra “moldado” pode ser traduzida como “modelado” ou “formado”.</p></li><li><p>O objeto “molde” pode possivelmente ser traduzido com uma frase ou palavra que significa “recipiente moldado” ou “prato esculpido”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25791\" data-resourceType=\"UWTranslationWords\">ouro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26237\" data-resourceType=\"UWTranslationWords\">prata</span>)</p><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4541, H4165, G41100, G41110</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25791,
+          "content_id": 237924,
+          "label": "Ouro",
+          "language": "por"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 238366,
+          "label": "Prata",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

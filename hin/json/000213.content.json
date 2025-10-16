@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 180168,
+    "reference_id": 26106,
+    "title": "गड्ढा",
+    "media_type": "Text",
+    "index_reference": "गड्ढा",
+    "language": "hin",
+    "content": "<h1>गड्ढा, गड्ढे, फंदों, कुण्ड</h1><h2>परिभाषा:</h2><p>गड्ढा भूमि में खोदा गया गड्ढा होता है।</p><ul><li><p>&quot;कुण्ड &quot; जल संग्रह के लिए खोदा गया गड्ढा होता था|</p></li><li><p>भूमि में गड्ढा खोदने के दो कारण मुख्य थे, पशुओं को फंसाना या पानी निकालना।</p></li><li><p>गड्ढा बन्दी को रखने का अस्थाई स्थान भी होता है।</p></li><li><p>कभी-कभी “गड्ढा” शब्द कब्र या नरक के लिए भी काम में लिया गया है। कभी-कभी इसका संदर्भ “अथाह-कुंड” से भी है।</p></li><li><p>“गड्ढा” शब्द का उपयोग लाक्षणिक भाषा में भी किया गया है, जैसे, “विनाश का गर्त” जिसका अर्थ है विनाशकारी परिस्थिति में फंसना या पापी विनाशक अभ्यासों में पड़ जाना।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25426\" data-resourceType=\"UWTranslationWords\">अथाह कुण्ड</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25829\" data-resourceType=\"UWTranslationWords\">नरक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_prison\" data-resourceType=\"UWTranslationWords\">बन्दीगृह</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen37:21-Gen37:22\">उत्पत्ति 37:21–22</a></p></li><li><p><a href=\"https://ref.ly/Job33:18\">अय्यूब 33:18</a></p></li><li><p><a href=\"https://ref.ly/Luke6:39\">लूका 6:39</a></p></li><li><p><a href=\"https://ref.ly/Prov1:12\">नीतिवचन 1:12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H0875, H0953, H1356, H1475, H2352, H4087, H4113, H4379, H6354, H7585, H7745, H7816, H7825, H7845, H7882, G00120, G09990, G54210</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014010",
+          "start_ref_usfm": "GEN 14:10",
+          "end_ref": "01014010",
+          "end_ref_usfm": "GEN 14:10"
+        },
+        {
+          "start_ref": "01040015",
+          "start_ref_usfm": "GEN 40:15",
+          "end_ref": "01040015",
+          "end_ref_usfm": "GEN 40:15"
+        },
+        {
+          "start_ref": "01041014",
+          "start_ref_usfm": "GEN 41:14",
+          "end_ref": "01041014",
+          "end_ref_usfm": "GEN 41:14"
+        },
+        {
+          "start_ref": "02012029",
+          "start_ref_usfm": "EXO 12:29",
+          "end_ref": "02012029",
+          "end_ref_usfm": "EXO 12:29"
+        },
+        {
+          "start_ref": "02021033",
+          "start_ref_usfm": "EXO 21:33",
+          "end_ref": "02021033",
+          "end_ref_usfm": "EXO 21:33"
+        },
+        {
+          "start_ref": "18033018",
+          "start_ref_usfm": "JOB 33:18",
+          "end_ref": "18033018",
+          "end_ref_usfm": "JOB 33:18"
+        },
+        {
+          "start_ref": "20001012",
+          "start_ref_usfm": "PRO 1:12",
+          "end_ref": "20001012",
+          "end_ref_usfm": "PRO 1:12"
+        },
+        {
+          "start_ref": "20022014",
+          "start_ref_usfm": "PRO 22:14",
+          "end_ref": "20022014",
+          "end_ref_usfm": "PRO 22:14"
+        },
+        {
+          "start_ref": "20023027",
+          "start_ref_usfm": "PRO 23:27",
+          "end_ref": "20023027",
+          "end_ref_usfm": "PRO 23:27"
+        },
+        {
+          "start_ref": "20026027",
+          "start_ref_usfm": "PRO 26:27",
+          "end_ref": "20026027",
+          "end_ref_usfm": "PRO 26:27"
+        },
+        {
+          "start_ref": "20028010",
+          "start_ref_usfm": "PRO 28:10",
+          "end_ref": "20028010",
+          "end_ref_usfm": "PRO 28:10"
+        },
+        {
+          "start_ref": "40012011",
+          "start_ref_usfm": "MAT 12:11",
+          "end_ref": "40012011",
+          "end_ref_usfm": "MAT 12:11"
+        },
+        {
+          "start_ref": "40015014",
+          "start_ref_usfm": "MAT 15:14",
+          "end_ref": "40015014",
+          "end_ref_usfm": "MAT 15:14"
+        },
+        {
+          "start_ref": "42006039",
+          "start_ref_usfm": "LUK 6:39",
+          "end_ref": "42006039",
+          "end_ref_usfm": "LUK 6:39"
+        },
+        {
+          "start_ref": "66009001",
+          "start_ref_usfm": "REV 9:1",
+          "end_ref": "66009001",
+          "end_ref_usfm": "REV 9:1"
+        },
+        {
+          "start_ref": "66009002",
+          "start_ref_usfm": "REV 9:2",
+          "end_ref": "66009002",
+          "end_ref_usfm": "REV 9:2"
+        },
+        {
+          "start_ref": "01037021",
+          "start_ref_usfm": "GEN 37:21",
+          "end_ref": "01037022",
+          "end_ref_usfm": "GEN 37:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25426,
+          "content_id": 179516,
+          "label": "अथाह कुण्ड",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 179899,
+          "label": "नरक",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

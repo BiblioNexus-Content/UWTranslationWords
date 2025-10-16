@@ -1,0 +1,257 @@
+[
+  {
+    "content_id": 466783,
+    "reference_id": 25616,
+    "title": "Conseil",
+    "media_type": "Text",
+    "index_reference": "conseil",
+    "language": "fra",
+    "content": "<h1>conseil</h1><h2>Définition :</h2><p>Un conseil est un groupe de personnes qui se réunissent pour discuter, donner des conseils et prendre des décisions sur des questions importantes.</p><ul><li><p>Un conseil est généralement organisé de manière officielle et quelque peu permanente dans un but précis, par exemple la prise de décisions sur des questions juridiques.</p></li><li><p>Le Conseil juif le plus important était aussi connu comme le Sanhédrin* Le Sanhédrin comptait 70 membres, qui comprenaient des dirigeants juifs comme les principaux sacrificateurs, les anciens, les scribes, les pharisiens et les sadducéens.</p></li><li><p>L&apos;apôtre Paul a été amené devant un concile romain quand il a été arrêté pour l&apos;enseignement de l&apos;Évangile.</p></li><li><p>Selon le contexte, le mot «conseil» peut aussi être traduit par une «assemblée juridique» ou une «assemblée politique*&quot;</p></li><li><p>Le terme «en conseil» signifie être dans une réunion spéciale afin de décider de quelque chose.</p></li><li><p>Notez que ceci est différent de «l&apos;avocat», ce qui signifie, &quot; donner des conseils*&quot;</p></li></ul><p>(Voir aussi : (../other/assembly.md), (../other/counselor.md), (../kt/pharisee.md), (../kt/lawofmoses.md), (../kt/priest.md), (../kt/sadducee.md), (../kt/scribe.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049006",
+          "start_ref_usfm": "GEN 49:6",
+          "end_ref": "01049006",
+          "end_ref_usfm": "GEN 49:6"
+        },
+        {
+          "start_ref": "40005022",
+          "start_ref_usfm": "MAT 5:22",
+          "end_ref": "40005022",
+          "end_ref_usfm": "MAT 5:22"
+        },
+        {
+          "start_ref": "40010017",
+          "start_ref_usfm": "MAT 10:17",
+          "end_ref": "40010017",
+          "end_ref_usfm": "MAT 10:17"
+        },
+        {
+          "start_ref": "40026059",
+          "start_ref_usfm": "MAT 26:59",
+          "end_ref": "40026059",
+          "end_ref_usfm": "MAT 26:59"
+        },
+        {
+          "start_ref": "41013009",
+          "start_ref_usfm": "MRK 13:9",
+          "end_ref": "41013009",
+          "end_ref_usfm": "MRK 13:9"
+        },
+        {
+          "start_ref": "41014055",
+          "start_ref_usfm": "MRK 14:55",
+          "end_ref": "41014055",
+          "end_ref_usfm": "MRK 14:55"
+        },
+        {
+          "start_ref": "41015001",
+          "start_ref_usfm": "MRK 15:1",
+          "end_ref": "41015001",
+          "end_ref_usfm": "MRK 15:1"
+        },
+        {
+          "start_ref": "41015043",
+          "start_ref_usfm": "MRK 15:43",
+          "end_ref": "41015043",
+          "end_ref_usfm": "MRK 15:43"
+        },
+        {
+          "start_ref": "42022066",
+          "start_ref_usfm": "LUK 22:66",
+          "end_ref": "42022066",
+          "end_ref_usfm": "LUK 22:66"
+        },
+        {
+          "start_ref": "42022068",
+          "start_ref_usfm": "LUK 22:68",
+          "end_ref": "42022068",
+          "end_ref_usfm": "LUK 22:68"
+        },
+        {
+          "start_ref": "42023050",
+          "start_ref_usfm": "LUK 23:50",
+          "end_ref": "42023050",
+          "end_ref_usfm": "LUK 23:50"
+        },
+        {
+          "start_ref": "43003002",
+          "start_ref_usfm": "JHN 3:2",
+          "end_ref": "43003002",
+          "end_ref_usfm": "JHN 3:2"
+        },
+        {
+          "start_ref": "43011047",
+          "start_ref_usfm": "JHN 11:47",
+          "end_ref": "43011047",
+          "end_ref_usfm": "JHN 11:47"
+        },
+        {
+          "start_ref": "44004015",
+          "start_ref_usfm": "ACT 4:15",
+          "end_ref": "44004015",
+          "end_ref_usfm": "ACT 4:15"
+        },
+        {
+          "start_ref": "44005021",
+          "start_ref_usfm": "ACT 5:21",
+          "end_ref": "44005021",
+          "end_ref_usfm": "ACT 5:21"
+        },
+        {
+          "start_ref": "44005027",
+          "start_ref_usfm": "ACT 5:27",
+          "end_ref": "44005027",
+          "end_ref_usfm": "ACT 5:27"
+        },
+        {
+          "start_ref": "44005034",
+          "start_ref_usfm": "ACT 5:34",
+          "end_ref": "44005034",
+          "end_ref_usfm": "ACT 5:34"
+        },
+        {
+          "start_ref": "44005041",
+          "start_ref_usfm": "ACT 5:41",
+          "end_ref": "44005041",
+          "end_ref_usfm": "ACT 5:41"
+        },
+        {
+          "start_ref": "44006012",
+          "start_ref_usfm": "ACT 6:12",
+          "end_ref": "44006012",
+          "end_ref_usfm": "ACT 6:12"
+        },
+        {
+          "start_ref": "44006015",
+          "start_ref_usfm": "ACT 6:15",
+          "end_ref": "44006015",
+          "end_ref_usfm": "ACT 6:15"
+        },
+        {
+          "start_ref": "44022030",
+          "start_ref_usfm": "ACT 22:30",
+          "end_ref": "44022030",
+          "end_ref_usfm": "ACT 22:30"
+        },
+        {
+          "start_ref": "44023001",
+          "start_ref_usfm": "ACT 23:1",
+          "end_ref": "44023001",
+          "end_ref_usfm": "ACT 23:1"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023006",
+          "end_ref_usfm": "ACT 23:6"
+        },
+        {
+          "start_ref": "44023015",
+          "start_ref_usfm": "ACT 23:15",
+          "end_ref": "44023015",
+          "end_ref_usfm": "ACT 23:15"
+        },
+        {
+          "start_ref": "44023020",
+          "start_ref_usfm": "ACT 23:20",
+          "end_ref": "44023020",
+          "end_ref_usfm": "ACT 23:20"
+        },
+        {
+          "start_ref": "44023028",
+          "start_ref_usfm": "ACT 23:28",
+          "end_ref": "44023028",
+          "end_ref_usfm": "ACT 23:28"
+        },
+        {
+          "start_ref": "44024020",
+          "start_ref_usfm": "ACT 24:20",
+          "end_ref": "44024020",
+          "end_ref_usfm": "ACT 24:20"
+        },
+        {
+          "start_ref": "44025012",
+          "start_ref_usfm": "ACT 25:12",
+          "end_ref": "44025012",
+          "end_ref_usfm": "ACT 25:12"
+        },
+        {
+          "start_ref": "44007057",
+          "start_ref_usfm": "ACT 7:57",
+          "end_ref": "44007058",
+          "end_ref_usfm": "ACT 7:58"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25486,
+          "content_id": 466665,
+          "label": "Assemblage",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25617,
+          "content_id": 466784,
+          "label": "Avocat ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 467219,
+          "label": "Pharisien",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26189,
+          "content_id": 467308,
+          "label": "Sadducéen",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25957,
+          "content_id": 467098,
+          "label": "loi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 140401,
+          "content_id": 357033,
+          "label": "Jean 3.1 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141129,
+          "content_id": 357761,
+          "label": "Jean 7.26 (#3)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141188,
+          "content_id": 357820,
+          "label": "Jean 7.48 (#2)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 141867,
+          "content_id": 358499,
+          "label": "Jean 12.42 (#1)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26204,
+          "content_id": 467323,
+          "label": "Scribe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

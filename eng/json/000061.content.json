@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 26334,
+    "reference_id": 25476,
+    "title": "Armor",
+    "media_type": "Text",
+    "index_reference": "armor",
+    "language": "eng",
+    "content": "<h1>armor, armory</h1><h2>Definition:</h2><p>The term “armor” refers to the equipment a soldier uses to fight in a battle and protect himself from enemy attacks. It is also used in a figurative way to refer to spiritual armor.</p><ul><li><p>Parts of a soldier’s armor include a helmet, a shield, a breastplate, leg coverings, and a sword.</p></li><li><p>Using the term figuratively, the apostle Paul compares physical armor to spiritual armor that God gives the believer to help him fight spiritual battles.</p></li><li><p>The spiritual armor God gives his people to fight against sin and Satan includes truth, righteousness, the gospel of peace, faith, salvation, and the Holy Spirit.</p></li><li><p>This could be translated with a term that means “soldier gear” or “protective battle clothing” or “protective covering” or “weapons.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">faith</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Holy Spirit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26080\" data-resourceType=\"UWTranslationWords\">peace</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26201\" data-resourceType=\"UWTranslationWords\">save</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">spirit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam31:9-1Sam31:10\">1 Samuel 31:9–10</a></p></li><li><p><a href=\"https://ref.ly/2Sam20:8\">2 Samuel 20:8</a></p></li><li><p><a href=\"https://ref.ly/Eph6:11\">Ephesians 6:11</a></p></li><li><p><a href=\"https://ref.ly/Jer51:3-Jer51:4\">Jeremiah 51:3–4</a></p></li><li><p><a href=\"https://ref.ly/Luke11:22\">Luke 11:22</a></p></li><li><p><a href=\"https://ref.ly/Neh4:15-Neh4:16\">Nehemiah 4:15–16</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2290, H2488, H3627, H4055, H5402, G36960, G38330</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10020008",
+          "start_ref_usfm": "2SA 20:8",
+          "end_ref": "10020008",
+          "end_ref_usfm": "2SA 20:8"
+        },
+        {
+          "start_ref": "42011022",
+          "start_ref_usfm": "LUK 11:22",
+          "end_ref": "42011022",
+          "end_ref_usfm": "LUK 11:22"
+        },
+        {
+          "start_ref": "45006013",
+          "start_ref_usfm": "ROM 6:13",
+          "end_ref": "45006013",
+          "end_ref_usfm": "ROM 6:13"
+        },
+        {
+          "start_ref": "45013012",
+          "start_ref_usfm": "ROM 13:12",
+          "end_ref": "45013012",
+          "end_ref_usfm": "ROM 13:12"
+        },
+        {
+          "start_ref": "47006007",
+          "start_ref_usfm": "2CO 6:7",
+          "end_ref": "47006007",
+          "end_ref_usfm": "2CO 6:7"
+        },
+        {
+          "start_ref": "47010004",
+          "start_ref_usfm": "2CO 10:4",
+          "end_ref": "47010004",
+          "end_ref_usfm": "2CO 10:4"
+        },
+        {
+          "start_ref": "49006011",
+          "start_ref_usfm": "EPH 6:11",
+          "end_ref": "49006011",
+          "end_ref_usfm": "EPH 6:11"
+        },
+        {
+          "start_ref": "49006013",
+          "start_ref_usfm": "EPH 6:13",
+          "end_ref": "49006013",
+          "end_ref_usfm": "EPH 6:13"
+        },
+        {
+          "start_ref": "09031009",
+          "start_ref_usfm": "1SA 31:9",
+          "end_ref": "09031010",
+          "end_ref_usfm": "1SA 31:10"
+        },
+        {
+          "start_ref": "24051003",
+          "start_ref_usfm": "JER 51:3",
+          "end_ref": "24051004",
+          "end_ref_usfm": "JER 51:4"
+        },
+        {
+          "start_ref": "16004015",
+          "start_ref_usfm": "NEH 4:15",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 26583,
+          "label": "Faith",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 26702,
+          "label": "Holy Spirit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26080,
+          "content_id": 26938,
+          "label": "Peace",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26201,
+          "content_id": 27059,
+          "label": "Save",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 27115,
+          "label": "Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

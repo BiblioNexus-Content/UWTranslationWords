@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467261,
+    "reference_id": 26140,
+    "title": "Psaume",
+    "media_type": "Text",
+    "index_reference": "psaume",
+    "language": "fra",
+    "content": "<h1>psaume</h1><h2>Définition :</h2><p>Le terme « psaume » fait référence à une chanson sacrée, souvent sous la forme d&apos;un poème écrit pour être chanté. Le livre de l&apos;Ancien Testament contient des Psaumes qui sont une collection de chansons écrites par les Israélites.</p><ul><li><p>Le livre des psaumes de l&apos;Ancien Testament contient une collection de ces chansons écrites par le roi David et d&apos;autres Israélites tels que Moïse, Salomon et Asaph, entre autres.</p></li><li><p>Moïse et le roi David ont tous les deux écrit des psaumes qui ont été utilisés par la nation d&apos;Israël dans leur adoration de Dieu.</p></li><li><p>Les Psaumes peuvent être utilisés pour exprimer la joie, la foi et le respect, ainsi que la douleur et le chagrin.</p></li><li><p>Dans le Nouveau Testament, les chrétiens ont pour instruction de chanter des psaumes à Dieu comme moyen de l&apos;adorer.</p></li></ul><p>(Voir aussi : (../names/david.md), (../kt/faith.md), (../other/joy.md), (../names/moses.md), (../kt/holy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42020042",
+          "start_ref_usfm": "LUK 20:42",
+          "end_ref": "42020042",
+          "end_ref_usfm": "LUK 20:42"
+        },
+        {
+          "start_ref": "44013033",
+          "start_ref_usfm": "ACT 13:33",
+          "end_ref": "44013033",
+          "end_ref_usfm": "ACT 13:33"
+        },
+        {
+          "start_ref": "44013035",
+          "start_ref_usfm": "ACT 13:35",
+          "end_ref": "44013035",
+          "end_ref_usfm": "ACT 13:35"
+        },
+        {
+          "start_ref": "46014026",
+          "start_ref_usfm": "1CO 14:26",
+          "end_ref": "46014026",
+          "end_ref_usfm": "1CO 14:26"
+        },
+        {
+          "start_ref": "49005019",
+          "start_ref_usfm": "EPH 5:19",
+          "end_ref": "49005019",
+          "end_ref_usfm": "EPH 5:19"
+        },
+        {
+          "start_ref": "51003016",
+          "start_ref_usfm": "COL 3:16",
+          "end_ref": "51003016",
+          "end_ref_usfm": "COL 3:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25725,
+          "content_id": 466880,
+          "label": "La foi",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25923,
+          "content_id": 467068,
+          "label": "Joie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

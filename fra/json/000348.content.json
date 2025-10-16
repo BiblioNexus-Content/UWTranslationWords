@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 466925,
+    "reference_id": 25776,
+    "title": "Gethsémané",
+    "media_type": "Text",
+    "index_reference": "gethsémané",
+    "language": "fra",
+    "content": "<h1>Gethsémané</h1><h2>Définition :</h2><p>&quot;Gethsémané était un jardin d&apos;oliviers à l&apos;est de Jérusalem, au-delà de la vallée du Cédron et à proximité du mont des Oliviers.</p><ul><li><p>Le jardin de Gethsémané était un endroit où Jésus et ses disciples allaient se reposer, loin de la foule.</p></li><li><p>C&apos;est le lieu où Jésus agonisait dans la prière avant d&apos;être trahi par Judas et arrêté.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/judasiscariot.md), (../names/kidronvalley.md), (../names/mountofolives.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40026036",
+          "start_ref_usfm": "MAT 26:36",
+          "end_ref": "40026036",
+          "end_ref_usfm": "MAT 26:36"
+        },
+        {
+          "start_ref": "41014032",
+          "start_ref_usfm": "MRK 14:32",
+          "end_ref": "41014032",
+          "end_ref_usfm": "MRK 14:32"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25926,
+          "content_id": 467071,
+          "label": "Judas Iscariote",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 467171,
+          "label": "Mont des Oliviers",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

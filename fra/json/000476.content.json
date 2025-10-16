@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466752,
+    "reference_id": 25584,
+    "title": "Kéréthiens",
+    "media_type": "Text",
+    "index_reference": "kéréthiens",
+    "language": "fra",
+    "content": "<h1>kéréthiens</h1><h2>Définition :</h2><p>Les Keréthiens étaient un groupe de personnes qui étaient sans doute une partie des Philistins* on peut aussi l&apos;écrire &quot;Kéréthiens*&quot;</p><ul><li><p>Le &quot;Kéréthiens et Peléthiens&quot; étaient un groupe spécial de soldats de l&apos;armée du roi David qui ont été spécialement consacrés à lui comme ses gardes du corps.</p></li><li><p>Benaja, fils de Jehojada, un membre du corps administratif de David, était le chef des Kéréthiens et des Péléthiens.</p></li><li><p>Les Keréthiens sont restés avec David quand il a dû fuir Jérusalem à cause de la révolte d&apos;Absalom.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/absalom.md), (../names/benaiah.md), (../names/david.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "36002005",
+          "start_ref_usfm": "ZEP 2:5",
+          "end_ref": "36002005",
+          "end_ref_usfm": "ZEP 2:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25525,
+          "content_id": 466698,
+          "label": "Benaja",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467040,
+    "reference_id": 25895,
+    "title": "Jérémie",
+    "media_type": "Text",
+    "index_reference": "jérémie",
+    "language": "fra",
+    "content": "<h1>Jérémie</h1><h2>Données :</h2><p>Jérémie était un prophète de Dieu dans le royaume de Juda. Le livre de Jérémie, dans l&apos;Ancien Testament, contient ses prophéties.</p><ul><li><p>Comme la plupart des prophètes, Jérémie a souvent dû avertir le peuple d&apos;Israël que Dieu allait le punir pour ses péchés.</p></li><li><p>Jérémie a prophétisé que les Babyloniens allaient s&apos;emparer de Jérusalem, ce qui a mis certains des habitants de Juda en colère. Alors ils l&apos;ont mis dans un puits profond et sec et l&apos;ont laissé là pour mourir. Mais le roi de Juda a ordonné à ses serviteurs de sauver Jérémie du puits.</p></li><li><p>Jérémie a écrit qu&apos;il souhaitait que ses yeux puissent être une « fontaine de larmes », pour exprimer sa profonde tristesse en face de la rébellion et des souffrances de son peuple. (Voir aussi : (rc://fr/ta/man/translate/translate-names))</p></li></ul><p>(Voir aussi : (../names/babylon.md), (../names/kingdomofjudah.md), (../kt/prophet.md), (../other/rebel.md), (../other/suffer.md), (../other/well.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035025",
+          "start_ref_usfm": "2CH 35:25",
+          "end_ref": "14035025",
+          "end_ref_usfm": "2CH 35:25"
+        },
+        {
+          "start_ref": "15001001",
+          "start_ref_usfm": "EZR 1:1",
+          "end_ref": "15001001",
+          "end_ref_usfm": "EZR 1:1"
+        },
+        {
+          "start_ref": "16010002",
+          "start_ref_usfm": "NEH 10:2",
+          "end_ref": "16010002",
+          "end_ref_usfm": "NEH 10:2"
+        },
+        {
+          "start_ref": "16012001",
+          "start_ref_usfm": "NEH 12:1",
+          "end_ref": "16012001",
+          "end_ref_usfm": "NEH 12:1"
+        },
+        {
+          "start_ref": "16012012",
+          "start_ref_usfm": "NEH 12:12",
+          "end_ref": "16012012",
+          "end_ref_usfm": "NEH 12:12"
+        },
+        {
+          "start_ref": "16012034",
+          "start_ref_usfm": "NEH 12:34",
+          "end_ref": "16012034",
+          "end_ref_usfm": "NEH 12:34"
+        },
+        {
+          "start_ref": "24001002",
+          "start_ref_usfm": "JER 1:2",
+          "end_ref": "24001002",
+          "end_ref_usfm": "JER 1:2"
+        },
+        {
+          "start_ref": "24011001",
+          "start_ref_usfm": "JER 11:1",
+          "end_ref": "24011001",
+          "end_ref_usfm": "JER 11:1"
+        },
+        {
+          "start_ref": "40002017",
+          "start_ref_usfm": "MAT 2:17",
+          "end_ref": "40002017",
+          "end_ref_usfm": "MAT 2:17"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "40016014",
+          "start_ref_usfm": "MAT 16:14",
+          "end_ref": "40016014",
+          "end_ref_usfm": "MAT 16:14"
+        },
+        {
+          "start_ref": "40027009",
+          "start_ref_usfm": "MAT 27:9",
+          "end_ref": "40027009",
+          "end_ref_usfm": "MAT 27:9"
+        },
+        {
+          "start_ref": "40027010",
+          "start_ref_usfm": "MAT 27:10",
+          "end_ref": "40027010",
+          "end_ref_usfm": "MAT 27:10"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016016",
+          "end_ref_usfm": "MAT 16:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 467277,
+          "label": "Rebelle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 467386,
+          "label": "Souffrir",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26344,
+          "content_id": 467452,
+          "label": "Citerne",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

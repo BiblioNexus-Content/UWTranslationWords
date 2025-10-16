@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 466759,
+    "reference_id": 25591,
+    "title": "Cilicie",
+    "media_type": "Text",
+    "index_reference": "cilicie",
+    "language": "fra",
+    "content": "<h1>Cilicie</h1><h2>Définition :</h2><p>Cilicie était une petite province romaine située dans la partie Sud-Est de ce qui est maintenant le pays moderne de la Turquie* Elle est bordée par la Mer Égée.</p><ul><li><p>L&apos;apôtre Paul était un citoyen de la ville de Tarse située en Cilicie.</p></li><li><p>Paul a passé plusieurs années en Cilicie après sa rencontre avec Jésus sur le chemin de Damas.</p></li><li><p>Certains des Juifs de Cilicie ont été parmi ceux qui ont confronté Etienne et qui ont influencé les gens à le lapider à mort.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/paul.md), (../names/stephen.md), (../names/tarsus.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44015041",
+          "start_ref_usfm": "ACT 15:41",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022003",
+          "start_ref_usfm": "ACT 22:3",
+          "end_ref": "44022003",
+          "end_ref_usfm": "ACT 22:3"
+        },
+        {
+          "start_ref": "44023034",
+          "start_ref_usfm": "ACT 23:34",
+          "end_ref": "44023034",
+          "end_ref_usfm": "ACT 23:34"
+        },
+        {
+          "start_ref": "44027005",
+          "start_ref_usfm": "ACT 27:5",
+          "end_ref": "44027005",
+          "end_ref_usfm": "ACT 27:5"
+        },
+        {
+          "start_ref": "44006008",
+          "start_ref_usfm": "ACT 6:8",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
+        },
+        {
+          "start_ref": "48001021",
+          "start_ref_usfm": "GAL 1:21",
+          "end_ref": "48001024",
+          "end_ref_usfm": "GAL 1:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26261,
+          "content_id": 467376,
+          "label": "Etienne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26281,
+          "content_id": 467395,
+          "label": "Tarse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

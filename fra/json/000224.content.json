@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466814,
+    "reference_id": 25651,
+    "title": "Dédier",
+    "media_type": "Text",
+    "index_reference": "dédier",
+    "language": "fra",
+    "content": "<h1>dédier ,dédidace</h1><h2>Définition :</h2><p>Consacrer c&apos;est de mettre à part ou commettre quelque chose pour un but ou fonction spécial.</p><ul><li><p>David a consacré son or et son argent au Seigneur.</p></li><li><p>Souvent le mot &quot;consécration&quot;se refère à un évènement formel ou une cérémonie pour écarter quelque chose pour un but spécial.</p></li><li><p>La consécration de l&apos;autel comprend un offre de sacrifice à Dieu.</p></li><li><p>Néhémie a dirigé les Israelites à rebâtir les murs de Jérusalem avec une promesse renouvellée pour servir Yahweh et prendre soin de sa cité*Cet évènement comprend les remerciements à Dieu avec des instruments musicaux et des chants.</p></li><li><p>Le terme &quot;consacrer&quot;pourrait être aussi traduit par :&quot;un but spécialement assigné &quot;ou&quot;initier quelque chose qui sera utilisée pour un usage spécifique&quot;ou&quot; confier une tâche spéciale à quelqu un.</p></li></ul><p>(Voir aussi : (../other/commit.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11007051",
+          "start_ref_usfm": "1KI 7:51",
+          "end_ref": "11007051",
+          "end_ref_usfm": "1KI 7:51"
+        },
+        {
+          "start_ref": "15006016",
+          "start_ref_usfm": "EZR 6:16",
+          "end_ref": "15006016",
+          "end_ref_usfm": "EZR 6:16"
+        },
+        {
+          "start_ref": "15006017",
+          "start_ref_usfm": "EZR 6:17",
+          "end_ref": "15006017",
+          "end_ref_usfm": "EZR 6:17"
+        },
+        {
+          "start_ref": "16012027",
+          "start_ref_usfm": "NEH 12:27",
+          "end_ref": "16012027",
+          "end_ref_usfm": "NEH 12:27"
+        },
+        {
+          "start_ref": "54004005",
+          "start_ref_usfm": "1TI 4:5",
+          "end_ref": "54004005",
+          "end_ref_usfm": "1TI 4:5"
+        },
+        {
+          "start_ref": "58009018",
+          "start_ref_usfm": "HEB 9:18",
+          "end_ref": "58009018",
+          "end_ref_usfm": "HEB 9:18"
+        },
+        {
+          "start_ref": "58010020",
+          "start_ref_usfm": "HEB 10:20",
+          "end_ref": "58010020",
+          "end_ref_usfm": "HEB 10:20"
+        },
+        {
+          "start_ref": "46006009",
+          "start_ref_usfm": "1CO 6:9",
+          "end_ref": "46006011",
+          "end_ref_usfm": "1CO 6:11"
+        },
+        {
+          "start_ref": "42002022",
+          "start_ref_usfm": "LUK 2:22",
+          "end_ref": "42002024",
+          "end_ref_usfm": "LUK 2:24"
+        },
+        {
+          "start_ref": "13015011",
+          "start_ref_usfm": "1CH 15:11",
+          "end_ref": "13015012",
+          "end_ref_usfm": "1CH 15:12"
+        },
+        {
+          "start_ref": "14002004",
+          "start_ref_usfm": "2CH 2:4",
+          "end_ref": "14002005",
+          "end_ref_usfm": "2CH 2:5"
+        },
+        {
+          "start_ref": "43017018",
+          "start_ref_usfm": "JHN 17:18",
+          "end_ref": "43017019",
+          "end_ref_usfm": "JHN 17:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25600,
+          "content_id": 466768,
+          "label": "Commettre ",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

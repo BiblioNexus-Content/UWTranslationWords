@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26362,
+    "reference_id": 25504,
+    "title": "Barabbas",
+    "media_type": "Text",
+    "index_reference": "barabbas",
+    "language": "eng",
+    "content": "<h1>Barabbas</h1><h2>Facts:</h2><p>Barabbas was a prisoner in Jerusalem at the time when Jesus was arrested.</p><ul><li><p>Barabbas was a criminal who had committed crimes of murder and rebellion against the Roman government.</p></li><li><p>When Pontius Pilate offered to either release Barabbas or Jesus, the people chose Barabbas.</p></li><li><p>So Pilate allowed Barabbas to go free, but condemned Jesus to be killed.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26104\" data-resourceType=\"UWTranslationWords\">Pilate</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John18:40\">John 18:40</a></p></li><li><p><a href=\"https://ref.ly/Luke23:19\">Luke 23:19</a></p></li><li><p><a href=\"https://ref.ly/Mark15:7\">Mark 15:7</a></p></li><li><p><a href=\"https://ref.ly/Matt27:15-Matt27:16\">Matthew 27:15–16</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G09120</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027016",
+          "start_ref_usfm": "MAT 27:16",
+          "end_ref": "40027016",
+          "end_ref_usfm": "MAT 27:16"
+        },
+        {
+          "start_ref": "40027017",
+          "start_ref_usfm": "MAT 27:17",
+          "end_ref": "40027017",
+          "end_ref_usfm": "MAT 27:17"
+        },
+        {
+          "start_ref": "40027020",
+          "start_ref_usfm": "MAT 27:20",
+          "end_ref": "40027020",
+          "end_ref_usfm": "MAT 27:20"
+        },
+        {
+          "start_ref": "40027021",
+          "start_ref_usfm": "MAT 27:21",
+          "end_ref": "40027021",
+          "end_ref_usfm": "MAT 27:21"
+        },
+        {
+          "start_ref": "40027026",
+          "start_ref_usfm": "MAT 27:26",
+          "end_ref": "40027026",
+          "end_ref_usfm": "MAT 27:26"
+        },
+        {
+          "start_ref": "41015007",
+          "start_ref_usfm": "MRK 15:7",
+          "end_ref": "41015007",
+          "end_ref_usfm": "MRK 15:7"
+        },
+        {
+          "start_ref": "41015011",
+          "start_ref_usfm": "MRK 15:11",
+          "end_ref": "41015011",
+          "end_ref_usfm": "MRK 15:11"
+        },
+        {
+          "start_ref": "41015015",
+          "start_ref_usfm": "MRK 15:15",
+          "end_ref": "41015015",
+          "end_ref_usfm": "MRK 15:15"
+        },
+        {
+          "start_ref": "42023018",
+          "start_ref_usfm": "LUK 23:18",
+          "end_ref": "42023018",
+          "end_ref_usfm": "LUK 23:18"
+        },
+        {
+          "start_ref": "42023019",
+          "start_ref_usfm": "LUK 23:19",
+          "end_ref": "42023019",
+          "end_ref_usfm": "LUK 23:19"
+        },
+        {
+          "start_ref": "43018040",
+          "start_ref_usfm": "JHN 18:40",
+          "end_ref": "43018040",
+          "end_ref_usfm": "JHN 18:40"
+        },
+        {
+          "start_ref": "40027015",
+          "start_ref_usfm": "MAT 27:15",
+          "end_ref": "40027016",
+          "end_ref_usfm": "MAT 27:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26104,
+          "content_id": 26962,
+          "label": "Pilate",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

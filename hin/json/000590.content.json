@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 179598,
+    "reference_id": 25510,
+    "title": "बाशान",
+    "media_type": "Text",
+    "index_reference": "बाशान",
+    "language": "hin",
+    "content": "<h1>बाशान</h1><h2>तथ्य:</h2><p>बशान गलील सागर के पूर्व का क्षेत्र था। वह क्षेत्र आज के सीरिया और गोलन ऊंचाईयों के क्षेत्र का एक भाग है।</p><ul><li><p>पुराने नियम का एक शरण नगर, “गोलन” बाशान क्षेत्र में था।</p></li><li><p>बाशान एक अत्यधिक उपजाऊ प्रदेश था जो बांज वृक्षों और चारागाहों के लिए प्रसिद्ध था।</p></li><li><p>उत्पत्ति 14 में लिखा है कि बाशान अनेक राजाओं और उनके देशों में युद्ध का स्थान था।</p></li><li><p>मिस्र से पलायन करने के बाद जब इस्राएल जंगल में था तब उन्होंने बाशान के एक भाग पर अधिकार कर लिया था।</p></li><li><p>वर्षों बाद राजा सुलैमान उस क्षेत्र से आपूर्ति प्राप्त करता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">मिस्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26057\" data-resourceType=\"UWTranslationWords\">बांज</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">गलील सागर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26277\" data-resourceType=\"UWTranslationWords\">सूरिया</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 4:13</a></p></li><li><p><a href=\"https://ref.ly/Amos4:1\">आमोस 4:1</a></p></li><li><p><a href=\"https://ref.ly/Jer22:20-Jer22:21\">यिर्मयाह 22:20–21</a></p></li><li><p><a href=\"https://ref.ly/Josh9:10\">यहोशू 9:10</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06009010",
+          "start_ref_usfm": "JOS 9:10",
+          "end_ref": "06009010",
+          "end_ref_usfm": "JOS 9:10"
+        },
+        {
+          "start_ref": "11004013",
+          "start_ref_usfm": "1KI 4:13",
+          "end_ref": "11004013",
+          "end_ref_usfm": "1KI 4:13"
+        },
+        {
+          "start_ref": "16009022",
+          "start_ref_usfm": "NEH 9:22",
+          "end_ref": "16009022",
+          "end_ref_usfm": "NEH 9:22"
+        },
+        {
+          "start_ref": "30004001",
+          "start_ref_usfm": "AMO 4:1",
+          "end_ref": "30004001",
+          "end_ref_usfm": "AMO 4:1"
+        },
+        {
+          "start_ref": "24022020",
+          "start_ref_usfm": "JER 22:20",
+          "end_ref": "24022021",
+          "end_ref_usfm": "JER 22:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 179764,
+          "label": "मिस्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26057,
+          "content_id": 180120,
+          "label": "बांज वृक्ष",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 180265,
+          "label": "गलील सागर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 180330,
+          "label": "सीरिया",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

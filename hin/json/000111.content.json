@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179656,
+    "reference_id": 25577,
+    "title": "उठा लिया गया",
+    "media_type": "Text",
+    "index_reference": "उठा लिया गया",
+    "language": "hin",
+    "content": "<h1>उठा लिया गया</h1><h2>परिभाषा:</h2><p>“उठा लिया गया” प्रायः परमेश्वर द्वारा किसी को अकस्मात ही चमत्कारी रूप से स्वर्ग में उठा लेने के संदर्भ में होता है।</p><ul><li><p>“साथ हो लिया” शीग्रता करके किसी के निकट पहुंचना इसी का समानार्थक शब्द है, “आगे निकलना”</p></li><li><p>प्रेरित पौलुस तीसरे स्वर्ग में “उठा लिए जाने” की चर्चा करता है। इसका अनुवाद “ऊपर ले लेना” भी हो सकता है</p></li><li><p>पौलुस कहता है कि जब मसीह पुनः आएगा तब विश्वासी उससे आकाश में भेंट करने के लिए “उठा लिए जाएंगे”।</p></li><li><p>यह प्रतीकात्मक अभिव्यक्ति “मेरे अधर्म के कामों ने मुझे आ पकड़ा” इसका अनुवाद हो सकता है “मैं अपने पापों का परिणाम भोग रहा हूं” या “मेरे पापों के कारण मैं दुःख उठा रहा हूं” या “मेरा पाप मुझे कष्ट दे रहा है।&quot;</p></li></ul><p>(देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26022\" data-resourceType=\"UWTranslationWords\">आश्चर्यकर्म</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26068\" data-resourceType=\"UWTranslationWords\">घेरना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26272\" data-resourceType=\"UWTranslationWords\">दु:ख उठाना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26320\" data-resourceType=\"UWTranslationWords\">समस्या</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Cor0:0\">2 कुरिन्थियों 12:1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts8:39-Acts8:40\">प्रे.का. 8:39–40</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H1692, G0726</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "47012002",
+          "start_ref_usfm": "2CO 12:2",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        },
+        {
+          "start_ref": "47012004",
+          "start_ref_usfm": "2CO 12:4",
+          "end_ref": "47012004",
+          "end_ref_usfm": "2CO 12:4"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "47012001",
+          "start_ref_usfm": "2CO 12:1",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26022,
+          "content_id": 180086,
+          "label": "चमत्कार",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26068,
+          "content_id": 180130,
+          "label": "आ पड़े",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 180325,
+          "label": "दुःख उठाना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26320,
+          "content_id": 180373,
+          "label": "दुःख",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

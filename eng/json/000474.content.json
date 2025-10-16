@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26746,
+    "reference_id": 25888,
+    "title": "Jehoiachin",
+    "media_type": "Text",
+    "index_reference": "jehoiachin",
+    "language": "eng",
+    "content": "<h1>Jehoiachin</h1><h2>Facts:</h2><p>Jehoiachin was a king who ruled over the kingdom of Judah.</p><ul><li><p>Jehoiachin became king when he was 18 years old. He only reigned three months, and after that he was captured by the Babylonian army and taken to Babylon.</p></li><li><p>During his short reign, Jehoiachin did evil things like the ones his grandfather King Manasseh and his father King Jehoiakim had done.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25890\" data-resourceType=\"UWTranslationWords\">Jehoiakim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">Manasseh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr36:8\">2 Chronicles 36:8</a></p></li><li><p><a href=\"https://ref.ly/2Kgs24:15-2Kgs24:17\">2 Kings 24:15–17</a></p></li><li><p><a href=\"https://ref.ly/Esth2:6\">Esther 2:6</a></p></li><li><p><a href=\"https://ref.ly/Ezek1:1-Ezek1:3\">Ezekiel 1:1–3</a></p></li><li><p><a href=\"https://ref.ly/Jer22:24\">Jeremiah 22:24</a></p></li><li><p><a href=\"https://ref.ly/Jer37:1\">Jeremiah 37:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3078, H3112, H3204, H3659</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14036008",
+          "start_ref_usfm": "2CH 36:8",
+          "end_ref": "14036008",
+          "end_ref_usfm": "2CH 36:8"
+        },
+        {
+          "start_ref": "17002006",
+          "start_ref_usfm": "EST 2:6",
+          "end_ref": "17002006",
+          "end_ref_usfm": "EST 2:6"
+        },
+        {
+          "start_ref": "24022024",
+          "start_ref_usfm": "JER 22:24",
+          "end_ref": "24022024",
+          "end_ref_usfm": "JER 22:24"
+        },
+        {
+          "start_ref": "24037001",
+          "start_ref_usfm": "JER 37:1",
+          "end_ref": "24037001",
+          "end_ref_usfm": "JER 37:1"
+        },
+        {
+          "start_ref": "26001001",
+          "start_ref_usfm": "EZK 1:1",
+          "end_ref": "26001003",
+          "end_ref_usfm": "EZK 1:3"
+        },
+        {
+          "start_ref": "12024015",
+          "start_ref_usfm": "2KI 24:15",
+          "end_ref": "12024017",
+          "end_ref_usfm": "2KI 24:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 26358,
+          "label": "Babylon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25890,
+          "content_id": 26748,
+          "label": "Jehoiakim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25993,
+          "content_id": 26851,
+          "label": "Manasseh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

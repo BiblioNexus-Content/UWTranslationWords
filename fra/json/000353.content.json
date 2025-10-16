@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 466943,
+    "reference_id": 25794,
+    "title": "Gomorrhe",
+    "media_type": "Text",
+    "index_reference": "gomorrhe",
+    "language": "fra",
+    "content": "<h1>Gomorrhe</h1><h2>Définition :</h2><p>&quot;Gomorrhe était une ville située dans une vallée fertile, quelque part à l&apos;est de la région de la Babylonie.</p><ul><li><p>Gomorrhe est presque toujours mentionnée avec la ville de Sodome; les habitants de ces villes avaient la réputation d&apos;être méchant.</p></li><li><p>Il y avait beaucoup de rois en guerre dans la région où se trouvaient Sodome et Gomorrhe.</p></li><li><p>Quand la famille de Lot fut capturée dans un conflit entre Sodome et d&apos;autres villes, Abraham et ses hommes les ont sauvés.</p></li><li><p>Peu de temps après, Sodome et Gomorrhe ont été détruites par Dieu à cause de la méchanceté des gens qui y vivaient.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/abraham.md) , (../names/babylon.md), (../names/lot.md), (../names/saltsea.md), (../names/sodom.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "01013010",
+          "start_ref_usfm": "GEN 13:10",
+          "end_ref": "01013010",
+          "end_ref_usfm": "GEN 13:10"
+        },
+        {
+          "start_ref": "01014002",
+          "start_ref_usfm": "GEN 14:2",
+          "end_ref": "01014002",
+          "end_ref_usfm": "GEN 14:2"
+        },
+        {
+          "start_ref": "01014008",
+          "start_ref_usfm": "GEN 14:8",
+          "end_ref": "01014008",
+          "end_ref_usfm": "GEN 14:8"
+        },
+        {
+          "start_ref": "01014010",
+          "start_ref_usfm": "GEN 14:10",
+          "end_ref": "01014010",
+          "end_ref_usfm": "GEN 14:10"
+        },
+        {
+          "start_ref": "01014011",
+          "start_ref_usfm": "GEN 14:11",
+          "end_ref": "01014011",
+          "end_ref_usfm": "GEN 14:11"
+        },
+        {
+          "start_ref": "01018020",
+          "start_ref_usfm": "GEN 18:20",
+          "end_ref": "01018020",
+          "end_ref_usfm": "GEN 18:20"
+        },
+        {
+          "start_ref": "01018021",
+          "start_ref_usfm": "GEN 18:21",
+          "end_ref": "01018021",
+          "end_ref_usfm": "GEN 18:21"
+        },
+        {
+          "start_ref": "01019024",
+          "start_ref_usfm": "GEN 19:24",
+          "end_ref": "01019024",
+          "end_ref_usfm": "GEN 19:24"
+        },
+        {
+          "start_ref": "01019028",
+          "start_ref_usfm": "GEN 19:28",
+          "end_ref": "01019028",
+          "end_ref_usfm": "GEN 19:28"
+        },
+        {
+          "start_ref": "23001009",
+          "start_ref_usfm": "ISA 1:9",
+          "end_ref": "23001009",
+          "end_ref_usfm": "ISA 1:9"
+        },
+        {
+          "start_ref": "36002009",
+          "start_ref_usfm": "ZEP 2:9",
+          "end_ref": "36002009",
+          "end_ref_usfm": "ZEP 2:9"
+        },
+        {
+          "start_ref": "40010015",
+          "start_ref_usfm": "MAT 10:15",
+          "end_ref": "40010015",
+          "end_ref_usfm": "MAT 10:15"
+        },
+        {
+          "start_ref": "45009029",
+          "start_ref_usfm": "ROM 9:29",
+          "end_ref": "45009029",
+          "end_ref_usfm": "ROM 9:29"
+        },
+        {
+          "start_ref": "61002006",
+          "start_ref_usfm": "2PE 2:6",
+          "end_ref": "61002006",
+          "end_ref_usfm": "2PE 2:6"
+        },
+        {
+          "start_ref": "65001007",
+          "start_ref_usfm": "JUD 1:7",
+          "end_ref": "65001007",
+          "end_ref_usfm": "JUD 1:7"
+        },
+        {
+          "start_ref": "01014001",
+          "start_ref_usfm": "GEN 14:1",
+          "end_ref": "01014002",
+          "end_ref_usfm": "GEN 14:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 467116,
+          "label": "Lot",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26248,
+          "content_id": 467363,
+          "label": "Sodome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

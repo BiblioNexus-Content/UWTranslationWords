@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 237627,
+    "reference_id": 25490,
+    "title": "Expiação",
+    "media_type": "Text",
+    "index_reference": "expiação",
+    "language": "por",
+    "content": "<h1>expiação, expiar, expiado</h1><h2>Definição:</h2><p>Os termos “expiar” e “expiação” referem-se a como Deus providenciou um sacrifício para pagar pelos pecados das pessoas e apaziguar sua ira pelo pecado.</p><ul><li><p>Nos tempos do Antigo Testamento, Deus permitia que a expiação temporária fosse feita pelos pecados dos israelitas através da oferta de um sacrifício de sangue, que envolvia matar um animal.</p></li><li><p>Conforme registrado no Novo Testamento, a morte de Cristo na cruz é a única expiação verdadeira e permanente pelo pecado.</p></li><li><p>Quando Jesus morreu, ele tomou o castigo que as pessoas merecem por causa de seus pecados. Ele pagou o preço da expiação com sua morte sacrificial.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>O termo “expiar” poderia ser traduzido por uma palavra ou frase que significa “pagar por” ou “providenciar pagamento por” ou “fazer com que os pecados de alguém sejam perdoados” ou “fazer reparações por um crime”.</p></li><li><p>Maneiras de traduzir “expiação” poderiam incluir “pagamento” ou “sacrifício para pagar pelo pecado” ou “providenciar os meios de perdão”.</p></li><li><p>Certifique-se de que a tradução deste termo não se refira ao pagamento de dinheiro.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25752\" data-resourceType=\"UWTranslationWords\">propiciatório, perdoar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26130\" data-resourceType=\"UWTranslationWords\">propiciação</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26160\" data-resourceType=\"UWTranslationWords\">reconciliar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">redimir</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Ezek43:25-Ezek43:27\">Ezequiel 43.25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:18-Ezek45:20\">Ezequiel 45.18–20</a></p></li><li><p><a href=\"https://ref.ly/Lev4:20\">Levítico 4.20</a></p></li><li><p><a href=\"https://ref.ly/Num5:8\">Números 5.8</a></p></li><li><p><a href=\"https://ref.ly/Num28:22\">Números 28.22</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3722, H3725, G26430</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029033",
+          "start_ref_usfm": "EXO 29:33",
+          "end_ref": "02029033",
+          "end_ref_usfm": "EXO 29:33"
+        },
+        {
+          "start_ref": "02029036",
+          "start_ref_usfm": "EXO 29:36",
+          "end_ref": "02029036",
+          "end_ref_usfm": "EXO 29:36"
+        },
+        {
+          "start_ref": "02030010",
+          "start_ref_usfm": "EXO 30:10",
+          "end_ref": "02030010",
+          "end_ref_usfm": "EXO 30:10"
+        },
+        {
+          "start_ref": "02030016",
+          "start_ref_usfm": "EXO 30:16",
+          "end_ref": "02030016",
+          "end_ref_usfm": "EXO 30:16"
+        },
+        {
+          "start_ref": "02032030",
+          "start_ref_usfm": "EXO 32:30",
+          "end_ref": "02032030",
+          "end_ref_usfm": "EXO 32:30"
+        },
+        {
+          "start_ref": "03004020",
+          "start_ref_usfm": "LEV 4:20",
+          "end_ref": "03004020",
+          "end_ref_usfm": "LEV 4:20"
+        },
+        {
+          "start_ref": "04005008",
+          "start_ref_usfm": "NUM 5:8",
+          "end_ref": "04005008",
+          "end_ref_usfm": "NUM 5:8"
+        },
+        {
+          "start_ref": "04028022",
+          "start_ref_usfm": "NUM 28:22",
+          "end_ref": "04028022",
+          "end_ref_usfm": "NUM 28:22"
+        },
+        {
+          "start_ref": "26043025",
+          "start_ref_usfm": "EZK 43:25",
+          "end_ref": "26043027",
+          "end_ref_usfm": "EZK 43:27"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045020",
+          "end_ref_usfm": "EZK 45:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25491,
+          "content_id": 237628,
+          "label": "Propiciatório",
+          "language": "por"
+        },
+        {
+          "reference_id": 25752,
+          "content_id": 237885,
+          "label": "Perdoar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26130,
+          "content_id": 238260,
+          "label": "Propiciação",
+          "language": "por"
+        },
+        {
+          "reference_id": 26160,
+          "content_id": 238290,
+          "label": "Reconciliar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 238291,
+          "label": "Redimir",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

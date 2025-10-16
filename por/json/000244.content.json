@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 237774,
+    "reference_id": 25641,
+    "title": "Dã",
+    "media_type": "Text",
+    "index_reference": "dã",
+    "language": "por",
+    "content": "<h1>Dã</h1><h2>Fatos:</h2><p>Dã foi o quinto filho de Jacó. Ele foi o primeiro filho de Bila. Seus descendentes se tornaram uma das tribos de Israel.</p><ul><li><p>Seu nome soa semelhante à palavra hebraica para “juiz”.</p></li><li><p>A tribo de Dã se estabeleceu na parte norte de Canaã. Quando usado como o nome de uma região de terra, o termo “Dã” se refere à terra dada à tribo de Dã.</p></li><li><p>“Dã” também era o nome de uma cidade israelita localizada cerca de 60 quilômetros ao norte de Jerusalém. Nos tempos do Antigo Testamento, a cidade de Dã servia como um marco para a fronteira norte do país de Israel, oposta à cidade de Berseba como um marco para a fronteira sul.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25540\" data-resourceType=\"UWTranslationWords\">Bila</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr12:35\">1 Crônicas 12.35</a></p></li><li><p><a href=\"https://ref.ly/1Kgs4:25\">1 Reis 4.25</a></p></li><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">Êxodo 1.1–5</a></p></li><li><p><a href=\"https://ref.ly/Gen14:14\">Gênesis 14.14</a></p></li><li><p><a href=\"https://ref.ly/Gen30:6\">Gênesis 30.6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1835, H1839, H2051</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014014",
+          "start_ref_usfm": "GEN 14:14",
+          "end_ref": "01014014",
+          "end_ref_usfm": "GEN 14:14"
+        },
+        {
+          "start_ref": "01030006",
+          "start_ref_usfm": "GEN 30:6",
+          "end_ref": "01030006",
+          "end_ref_usfm": "GEN 30:6"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01046023",
+          "start_ref_usfm": "GEN 46:23",
+          "end_ref": "01046023",
+          "end_ref_usfm": "GEN 46:23"
+        },
+        {
+          "start_ref": "01049017",
+          "start_ref_usfm": "GEN 49:17",
+          "end_ref": "01049017",
+          "end_ref_usfm": "GEN 49:17"
+        },
+        {
+          "start_ref": "02001004",
+          "start_ref_usfm": "EXO 1:4",
+          "end_ref": "02001004",
+          "end_ref_usfm": "EXO 1:4"
+        },
+        {
+          "start_ref": "02031006",
+          "start_ref_usfm": "EXO 31:6",
+          "end_ref": "02031006",
+          "end_ref_usfm": "EXO 31:6"
+        },
+        {
+          "start_ref": "02035034",
+          "start_ref_usfm": "EXO 35:34",
+          "end_ref": "02035034",
+          "end_ref_usfm": "EXO 35:34"
+        },
+        {
+          "start_ref": "02038023",
+          "start_ref_usfm": "EXO 38:23",
+          "end_ref": "02038023",
+          "end_ref_usfm": "EXO 38:23"
+        },
+        {
+          "start_ref": "11004025",
+          "start_ref_usfm": "1KI 4:25",
+          "end_ref": "11004025",
+          "end_ref_usfm": "1KI 4:25"
+        },
+        {
+          "start_ref": "13012035",
+          "start_ref_usfm": "1CH 12:35",
+          "end_ref": "13012035",
+          "end_ref_usfm": "1CH 12:35"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25540,
+          "content_id": 237676,
+          "label": "Bila",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

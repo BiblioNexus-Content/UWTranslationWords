@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466846,
+    "reference_id": 25686,
+    "title": "Aigle",
+    "media_type": "Text",
+    "index_reference": "aigle",
+    "language": "fra",
+    "content": "<h1>aigle</h1><h2>Définition :</h2><p>Un aigle est un oiseau large et puissant qui mange de petits animaux tels que le poisson,les souris,les serpents et poussins.</p><ul><li><p>La Bible compare la vitesse et la force d&apos;une armée à l&apos;allure et la rapidité avec laquelle un aigle pique et capture sa proie.</p></li><li><p>Esaïe dit que ceux qui ont confiance au Seigneur planeront comme le fait un aigle**Ceci est un langage au sens figuré employé pour décrire la liberté et la force qu&apos;on obtient lorsqu&apos;on croit et obéit à Dieu.</p></li><li><p>Dans le livre de Daniel la longueur des cheveux du roi Nebuchadnetsar était comparée à la longueur des plumes d&apos;un aigle,qui peut avoir plus de 50 centimètres de long*&quot;</p></li></ul><p>(Voir aussi : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Unknowns</a>)</p><p>(Voir aussi : (../names/daniel.md), (../other/free.md), (../names/nebuchadnezzar.md), (../kt/power.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10001023",
+          "start_ref_usfm": "2SA 1:23",
+          "end_ref": "10001023",
+          "end_ref_usfm": "2SA 1:23"
+        },
+        {
+          "start_ref": "20023005",
+          "start_ref_usfm": "PRO 23:5",
+          "end_ref": "20023005",
+          "end_ref_usfm": "PRO 23:5"
+        },
+        {
+          "start_ref": "20030019",
+          "start_ref_usfm": "PRO 30:19",
+          "end_ref": "20030019",
+          "end_ref_usfm": "PRO 30:19"
+        },
+        {
+          "start_ref": "27007004",
+          "start_ref_usfm": "DAN 7:4",
+          "end_ref": "27007004",
+          "end_ref_usfm": "DAN 7:4"
+        },
+        {
+          "start_ref": "31001004",
+          "start_ref_usfm": "OBA 1:4",
+          "end_ref": "31001004",
+          "end_ref_usfm": "OBA 1:4"
+        },
+        {
+          "start_ref": "40024028",
+          "start_ref_usfm": "MAT 24:28",
+          "end_ref": "40024028",
+          "end_ref_usfm": "MAT 24:28"
+        },
+        {
+          "start_ref": "42017037",
+          "start_ref_usfm": "LUK 17:37",
+          "end_ref": "42017037",
+          "end_ref_usfm": "LUK 17:37"
+        },
+        {
+          "start_ref": "66004007",
+          "start_ref_usfm": "REV 4:7",
+          "end_ref": "66004007",
+          "end_ref_usfm": "REV 4:7"
+        },
+        {
+          "start_ref": "66008013",
+          "start_ref_usfm": "REV 8:13",
+          "end_ref": "66008013",
+          "end_ref_usfm": "REV 8:13"
+        },
+        {
+          "start_ref": "66012014",
+          "start_ref_usfm": "REV 12:14",
+          "end_ref": "66012014",
+          "end_ref_usfm": "REV 12:14"
+        },
+        {
+          "start_ref": "24004013",
+          "start_ref_usfm": "JER 4:13",
+          "end_ref": "24004015",
+          "end_ref_usfm": "JER 4:15"
+        },
+        {
+          "start_ref": "03011013",
+          "start_ref_usfm": "LEV 11:13",
+          "end_ref": "03011016",
+          "end_ref_usfm": "LEV 11:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25642,
+          "content_id": 466805,
+          "label": "Daniel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25758,
+          "content_id": 466909,
+          "label": "Libre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 467184,
+          "label": "Nébucadnetsar",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

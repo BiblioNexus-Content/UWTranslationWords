@@ -1,0 +1,269 @@
+[
+  {
+    "content_id": 26597,
+    "reference_id": 25739,
+    "title": "Festival",
+    "media_type": "Text",
+    "index_reference": "festival",
+    "language": "eng",
+    "content": "<h1>festival, feast, celebrate</h1><h2>Definition:</h2><p>In general, a festival is a celebration held by a community of people.</p><ul><li><p>The word for “festival” in the Old Testament literally means “appointed time.”</p></li><li><p>The festivals celebrated by the Israelites were specially appointed times or seasons that God had commanded them to observe.</p></li><li><p>In some English translations, the word “feast” is used instead of festival because the celebrations included having a large meal together.</p></li><li><p>There were several main festivals that the Israelites celebrated every year:</p><ul><li><p>Passover</p></li><li><p>Festival of Unleavened Bread</p></li><li><p>Firstfruits</p></li><li><p>Festival of Weeks (Pentecost)</p></li><li><p>Festival of Trumpets</p></li><li><p>Day of Atonement</p></li><li><p>Festival of Shelters</p></li></ul></li><li><p>The purpose of these festivals was to thank God and to remember the amazing things he had done to rescue, protect, and provide for his people.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25736\" data-resourceType=\"UWTranslationWords\">feast</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr23:31\">1 Chronicles 23:31</a></p></li><li><p><a href=\"https://ref.ly/2Chr8:13\">2 Chronicles 8:13</a></p></li><li><p><a href=\"https://ref.ly/Exod5:1\">Exodus 5:1</a></p></li><li><p><a href=\"https://ref.ly/John4:45\">John 4:45</a></p></li><li><p><a href=\"https://ref.ly/Luke22:1\">Luke 22:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1974, H2166, H2282, H2287, H6213, H4150, G14560, G18580, G18590</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02005001",
+          "start_ref_usfm": "EXO 5:1",
+          "end_ref": "02005001",
+          "end_ref_usfm": "EXO 5:1"
+        },
+        {
+          "start_ref": "02010009",
+          "start_ref_usfm": "EXO 10:9",
+          "end_ref": "02010009",
+          "end_ref_usfm": "EXO 10:9"
+        },
+        {
+          "start_ref": "02012014",
+          "start_ref_usfm": "EXO 12:14",
+          "end_ref": "02012014",
+          "end_ref_usfm": "EXO 12:14"
+        },
+        {
+          "start_ref": "02013006",
+          "start_ref_usfm": "EXO 13:6",
+          "end_ref": "02013006",
+          "end_ref_usfm": "EXO 13:6"
+        },
+        {
+          "start_ref": "02023014",
+          "start_ref_usfm": "EXO 23:14",
+          "end_ref": "02023014",
+          "end_ref_usfm": "EXO 23:14"
+        },
+        {
+          "start_ref": "02023015",
+          "start_ref_usfm": "EXO 23:15",
+          "end_ref": "02023015",
+          "end_ref_usfm": "EXO 23:15"
+        },
+        {
+          "start_ref": "02023016",
+          "start_ref_usfm": "EXO 23:16",
+          "end_ref": "02023016",
+          "end_ref_usfm": "EXO 23:16"
+        },
+        {
+          "start_ref": "02023018",
+          "start_ref_usfm": "EXO 23:18",
+          "end_ref": "02023018",
+          "end_ref_usfm": "EXO 23:18"
+        },
+        {
+          "start_ref": "02032005",
+          "start_ref_usfm": "EXO 32:5",
+          "end_ref": "02032005",
+          "end_ref_usfm": "EXO 32:5"
+        },
+        {
+          "start_ref": "02034018",
+          "start_ref_usfm": "EXO 34:18",
+          "end_ref": "02034018",
+          "end_ref_usfm": "EXO 34:18"
+        },
+        {
+          "start_ref": "02034022",
+          "start_ref_usfm": "EXO 34:22",
+          "end_ref": "02034022",
+          "end_ref_usfm": "EXO 34:22"
+        },
+        {
+          "start_ref": "02034025",
+          "start_ref_usfm": "EXO 34:25",
+          "end_ref": "02034025",
+          "end_ref_usfm": "EXO 34:25"
+        },
+        {
+          "start_ref": "13023031",
+          "start_ref_usfm": "1CH 23:31",
+          "end_ref": "13023031",
+          "end_ref_usfm": "1CH 23:31"
+        },
+        {
+          "start_ref": "14008013",
+          "start_ref_usfm": "2CH 8:13",
+          "end_ref": "14008013",
+          "end_ref_usfm": "2CH 8:13"
+        },
+        {
+          "start_ref": "15003004",
+          "start_ref_usfm": "EZR 3:4",
+          "end_ref": "15003004",
+          "end_ref_usfm": "EZR 3:4"
+        },
+        {
+          "start_ref": "15006022",
+          "start_ref_usfm": "EZR 6:22",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "40026005",
+          "start_ref_usfm": "MAT 26:5",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "40027015",
+          "start_ref_usfm": "MAT 27:15",
+          "end_ref": "40027015",
+          "end_ref_usfm": "MAT 27:15"
+        },
+        {
+          "start_ref": "41014002",
+          "start_ref_usfm": "MRK 14:2",
+          "end_ref": "41014002",
+          "end_ref_usfm": "MRK 14:2"
+        },
+        {
+          "start_ref": "41015006",
+          "start_ref_usfm": "MRK 15:6",
+          "end_ref": "41015006",
+          "end_ref_usfm": "MRK 15:6"
+        },
+        {
+          "start_ref": "42002041",
+          "start_ref_usfm": "LUK 2:41",
+          "end_ref": "42002041",
+          "end_ref_usfm": "LUK 2:41"
+        },
+        {
+          "start_ref": "42002042",
+          "start_ref_usfm": "LUK 2:42",
+          "end_ref": "42002042",
+          "end_ref_usfm": "LUK 2:42"
+        },
+        {
+          "start_ref": "42022001",
+          "start_ref_usfm": "LUK 22:1",
+          "end_ref": "42022001",
+          "end_ref_usfm": "LUK 22:1"
+        },
+        {
+          "start_ref": "43002023",
+          "start_ref_usfm": "JHN 2:23",
+          "end_ref": "43002023",
+          "end_ref_usfm": "JHN 2:23"
+        },
+        {
+          "start_ref": "43004045",
+          "start_ref_usfm": "JHN 4:45",
+          "end_ref": "43004045",
+          "end_ref_usfm": "JHN 4:45"
+        },
+        {
+          "start_ref": "43005001",
+          "start_ref_usfm": "JHN 5:1",
+          "end_ref": "43005001",
+          "end_ref_usfm": "JHN 5:1"
+        },
+        {
+          "start_ref": "43006004",
+          "start_ref_usfm": "JHN 6:4",
+          "end_ref": "43006004",
+          "end_ref_usfm": "JHN 6:4"
+        },
+        {
+          "start_ref": "43007002",
+          "start_ref_usfm": "JHN 7:2",
+          "end_ref": "43007002",
+          "end_ref_usfm": "JHN 7:2"
+        },
+        {
+          "start_ref": "43007008",
+          "start_ref_usfm": "JHN 7:8",
+          "end_ref": "43007008",
+          "end_ref_usfm": "JHN 7:8"
+        },
+        {
+          "start_ref": "43007010",
+          "start_ref_usfm": "JHN 7:10",
+          "end_ref": "43007010",
+          "end_ref_usfm": "JHN 7:10"
+        },
+        {
+          "start_ref": "43007011",
+          "start_ref_usfm": "JHN 7:11",
+          "end_ref": "43007011",
+          "end_ref_usfm": "JHN 7:11"
+        },
+        {
+          "start_ref": "43007014",
+          "start_ref_usfm": "JHN 7:14",
+          "end_ref": "43007014",
+          "end_ref_usfm": "JHN 7:14"
+        },
+        {
+          "start_ref": "43007037",
+          "start_ref_usfm": "JHN 7:37",
+          "end_ref": "43007037",
+          "end_ref_usfm": "JHN 7:37"
+        },
+        {
+          "start_ref": "43010022",
+          "start_ref_usfm": "JHN 10:22",
+          "end_ref": "43010022",
+          "end_ref_usfm": "JHN 10:22"
+        },
+        {
+          "start_ref": "43011056",
+          "start_ref_usfm": "JHN 11:56",
+          "end_ref": "43011056",
+          "end_ref_usfm": "JHN 11:56"
+        },
+        {
+          "start_ref": "43012012",
+          "start_ref_usfm": "JHN 12:12",
+          "end_ref": "43012012",
+          "end_ref_usfm": "JHN 12:12"
+        },
+        {
+          "start_ref": "43012020",
+          "start_ref_usfm": "JHN 12:20",
+          "end_ref": "43012020",
+          "end_ref_usfm": "JHN 12:20"
+        },
+        {
+          "start_ref": "43013001",
+          "start_ref_usfm": "JHN 13:1",
+          "end_ref": "43013001",
+          "end_ref_usfm": "JHN 13:1"
+        },
+        {
+          "start_ref": "43013029",
+          "start_ref_usfm": "JHN 13:29",
+          "end_ref": "43013029",
+          "end_ref_usfm": "JHN 13:29"
+        },
+        {
+          "start_ref": "46005008",
+          "start_ref_usfm": "1CO 5:8",
+          "end_ref": "46005008",
+          "end_ref_usfm": "1CO 5:8"
+        },
+        {
+          "start_ref": "51002016",
+          "start_ref_usfm": "COL 2:16",
+          "end_ref": "51002016",
+          "end_ref_usfm": "COL 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25736,
+          "content_id": 26594,
+          "label": "Feast",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

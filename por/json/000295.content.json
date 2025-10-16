@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237842,
+    "reference_id": 25709,
+    "title": "Efrata",
+    "media_type": "Text",
+    "index_reference": "efrata",
+    "language": "por",
+    "content": "<h1>Efrata, Efrate</h1><h2>Fatos:</h2><p>O nome “Efrata” refere-se a um clã de Judá, bem como ao território que eles ocupavam, que estava centrado na cidade de Belém. Às vezes, o nome usado é “Efrate”.</p><ul><li><p>O clã de Efrata provavelmente foi nomeado em homenagem a uma mulher chamada “Efrata”, que era esposa de Calebe e avó dos fundadores das cidades de Quiriate-Jearim, Belém e Bete-Gader (1Cr 2.50–51).</p></li><li><p>As cidades de Belém (Gn 35.19; 48.7) e Quiriate-Jearim (Sl 132.6) às vezes são chamadas de “Efrata”.</p></li><li><p>Raquel morreu a caminho de uma cidade chamada “Efrata”.</p></li><li><p>É possível que houvesse uma cidade diferente chamada “Efrata” mais ao norte, perto de Ramá, e que Raquel tenha sido enterrada lá perto (1Sm 10.2; Jr 31.15).</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Belém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25548\" data-resourceType=\"UWTranslationWords\">Boaz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25566\" data-resourceType=\"UWTranslationWords\">Calebe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25879\" data-resourceType=\"UWTranslationWords\">Israel</span>)</p><h2>Referências Bíblicas:</h2><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0672, H0673</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "01048007",
+          "start_ref_usfm": "GEN 48:7",
+          "end_ref": "01048007",
+          "end_ref_usfm": "GEN 48:7"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25530,
+          "content_id": 237666,
+          "label": "Belém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25548,
+          "content_id": 237684,
+          "label": "Boaz",
+          "language": "por"
+        },
+        {
+          "reference_id": 25566,
+          "content_id": 237701,
+          "label": "Calebe",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 238012,
+          "label": "Israel",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

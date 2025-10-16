@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466672,
+    "reference_id": 25494,
+    "title": "Emerveillement impressionnant",
+    "media_type": "Text",
+    "index_reference": "emerveillement impressionnant",
+    "language": "fra",
+    "content": "<h1>emerveillement impressionnant</h1><h2>Définition :</h2><p>Le terme &apos;&apos; émerveillement&apos;&apos; se refère à ce qui est étonnant et mêlé de respect provenant de la découverte d&apos;une chose fantastique, puissante et magnifique.</p><ul><li><p>Le terme &apos;&apos; impressionnant&apos;&apos; décrit quelqu&apos;un ou quelque chose de magnifique.</p></li><li><p>La vision de la gloire de Dieu vue par le prophète Ezéchiel était &apos;&apos;impressionnante&apos;&apos; ou &apos;&apos;inspiration merveilleuse&apos;&apos;.</p></li><li><p>D&apos;habitude la réaction de l&apos;être humain présente la magnificence de Dieu en incluant: la peur, l&apos;abaissement ou l&apos;agenouillement, couverture de la face et le tremblement.</p></li></ul><p>(Voir aussi : (../kt/fear.md), (../kt/glory.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017021",
+          "start_ref_usfm": "1CH 17:21",
+          "end_ref": "13017021",
+          "end_ref_usfm": "1CH 17:21"
+        },
+        {
+          "start_ref": "19022023",
+          "start_ref_usfm": "PSA 22:23",
+          "end_ref": "19022023",
+          "end_ref_usfm": "PSA 22:23"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "19147004",
+          "start_ref_usfm": "PSA 147:4",
+          "end_ref": "19147005",
+          "end_ref_usfm": "PSA 147:5"
+        },
+        {
+          "start_ref": "01028016",
+          "start_ref_usfm": "GEN 28:16",
+          "end_ref": "01028017",
+          "end_ref_usfm": "GEN 28:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 466889,
+          "label": "Peur",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25786,
+          "content_id": 466935,
+          "label": "Gloire",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 26607,
+    "reference_id": 25749,
+    "title": "Footstool",
+    "media_type": "Text",
+    "index_reference": "footstool",
+    "language": "eng",
+    "content": "<h1>footstool</h1><h2>Definition:</h2><p>The term “footstool” refers to an object which a person puts his feet on, usually to rest them while sitting. This term also has figurative meanings of submission and lower status.</p><ul><li><p>People in Bible times considered feet to be the least honorable parts of the body. So a “footstool” was of even lower honor because feet were rested on it.</p></li><li><p>When God says “I will make my enemies a footstool for my feet” he is declaring power, control, and victory over the people who rebel against him. They will be humbled and conquered to the point of submitting to God’s will.</p></li><li><p>To “worship at God’s footstool” means to bow down in worship before him as he sits on his throne. This again communicates humility and submission to God.</p></li><li><p>David refers to the temple as God’s “footstool.” This could refer to his absolute authority over his people. This could also be picturing God the King on his throne, with his feet resting on his footstool, which represents all that is in submission to him.</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:49\">Acts 7:49</a></p></li><li><p><a href=\"https://ref.ly/Isa66:1\">Isaiah 66:1</a></p></li><li><p><a href=\"https://ref.ly/Luke20:43\">Luke 20:43</a></p></li><li><p><a href=\"https://ref.ly/Matt5:35\">Matthew 5:35</a></p></li><li><p><a href=\"https://ref.ly/Matt22:44\">Matthew 22:44</a></p></li><li><p><a href=\"https://ref.ly/Ps110:1\">Psalm 110:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1916, H3534, H7272, G42280, G52860</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19110001",
+          "start_ref_usfm": "PSA 110:1",
+          "end_ref": "19110001",
+          "end_ref_usfm": "PSA 110:1"
+        },
+        {
+          "start_ref": "23066001",
+          "start_ref_usfm": "ISA 66:1",
+          "end_ref": "23066001",
+          "end_ref_usfm": "ISA 66:1"
+        },
+        {
+          "start_ref": "40005035",
+          "start_ref_usfm": "MAT 5:35",
+          "end_ref": "40005035",
+          "end_ref_usfm": "MAT 5:35"
+        },
+        {
+          "start_ref": "40022044",
+          "start_ref_usfm": "MAT 22:44",
+          "end_ref": "40022044",
+          "end_ref_usfm": "MAT 22:44"
+        },
+        {
+          "start_ref": "42020043",
+          "start_ref_usfm": "LUK 20:43",
+          "end_ref": "42020043",
+          "end_ref_usfm": "LUK 20:43"
+        },
+        {
+          "start_ref": "44002035",
+          "start_ref_usfm": "ACT 2:35",
+          "end_ref": "44002035",
+          "end_ref_usfm": "ACT 2:35"
+        },
+        {
+          "start_ref": "44007049",
+          "start_ref_usfm": "ACT 7:49",
+          "end_ref": "44007049",
+          "end_ref_usfm": "ACT 7:49"
+        },
+        {
+          "start_ref": "58001013",
+          "start_ref_usfm": "HEB 1:13",
+          "end_ref": "58001013",
+          "end_ref_usfm": "HEB 1:13"
+        },
+        {
+          "start_ref": "58010013",
+          "start_ref_usfm": "HEB 10:13",
+          "end_ref": "58010013",
+          "end_ref_usfm": "HEB 10:13"
+        },
+        {
+          "start_ref": "59002003",
+          "start_ref_usfm": "JAS 2:3",
+          "end_ref": "59002003",
+          "end_ref_usfm": "JAS 2:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "content_id": 180324,
+    "reference_id": 26271,
+    "title": "सुक्कोत",
+    "media_type": "Text",
+    "index_reference": "सुक्कोत",
+    "language": "hin",
+    "content": "<h1>सुक्कोत</h1><h2>परिभाषा:</h2><p>सुक्कोत पुराने नियम में दो नगरों का नाम था। सुक्कोत शब्द का अर्थ है “शरण स्थान”</p><ul><li><p>पहला सुक्कोत नगर यरदन नदी के पूर्व में था।</p></li><li><p>याकूब अपने परिवार और पशुओं के साथ सुक्कोत में रूका जहां उसने अपने लिए झोपड़ियां बनाई थी।</p></li><li><p>सैंकड़ों वर्ष बाद गिदोन और उसके योद्धा मिद्यानियों का पीछा करते हुए थककर सुक्कोत में रूके थे परन्तु वहां के निवासियों ने उन्हें भोजन देने से इन्कार कर दिया था।</p></li><li><p>दूसरा सुक्कोत मिस्र की उत्तरी सीमा पर था जहां इस्राएली लाल सागर पार करने के बाद रुके थे, जब वे मिस्र से पलायन कर रहे थे।</p></li></ul><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 07:46–47</a></p></li><li><p><a href=\"https://ref.ly/Exod12:37-Exod12:40\">निर्गमन 12:37–40</a></p></li><li><p><a href=\"https://ref.ly/Josh13:27-Josh13:28\">यहोशू 13:27–28</a></p></li><li><p><a href=\"https://ref.ly/Judg8:4-Judg8:5\">न्यायियों 08:4–5</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H5523, H5524</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01033017",
+          "start_ref_usfm": "GEN 33:17",
+          "end_ref": "01033017",
+          "end_ref_usfm": "GEN 33:17"
+        },
+        {
+          "start_ref": "02012037",
+          "start_ref_usfm": "EXO 12:37",
+          "end_ref": "02012037",
+          "end_ref_usfm": "EXO 12:37"
+        },
+        {
+          "start_ref": "02013020",
+          "start_ref_usfm": "EXO 13:20",
+          "end_ref": "02013020",
+          "end_ref_usfm": "EXO 13:20"
+        },
+        {
+          "start_ref": "11007046",
+          "start_ref_usfm": "1KI 7:46",
+          "end_ref": "11007046",
+          "end_ref_usfm": "1KI 7:46"
+        },
+        {
+          "start_ref": "02012037",
+          "start_ref_usfm": "EXO 12:37",
+          "end_ref": "02012040",
+          "end_ref_usfm": "EXO 12:40"
+        },
+        {
+          "start_ref": "06013027",
+          "start_ref_usfm": "JOS 13:27",
+          "end_ref": "06013028",
+          "end_ref_usfm": "JOS 13:28"
+        },
+        {
+          "start_ref": "07008004",
+          "start_ref_usfm": "JDG 8:4",
+          "end_ref": "07008005",
+          "end_ref_usfm": "JDG 8:5"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

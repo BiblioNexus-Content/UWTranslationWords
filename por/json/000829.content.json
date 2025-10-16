@@ -1,0 +1,233 @@
+[
+  {
+    "content_id": 238335,
+    "reference_id": 26206,
+    "title": "Selo",
+    "media_type": "Text",
+    "index_reference": "selo",
+    "language": "por",
+    "content": "<h1>selo, selado, não selado</h1><h2>Definição:</h2><p>Quando se refere a uma ação, o termo “selo” significa fechar um objeto com algo (geralmente chamado de “selo”) que torna o objeto impossível de abrir sem quebrar o selo. Quando se refere a um objeto, o termo “selo” refere-se a algo feito de madeira, metal ou pedra que foi formado em um modelo para que pudesse ser usado para carimbar algo (fazer uma impressão nele).</p><ul><li><p>Um selo era marcado com um modelo para mostrar a quem pertencia.</p></li><li><p>Selos eram usados para marcar diferentes objetos com o propósito de mostrar que a coisa pertencia ao proprietário, tinha vindo do proprietário ou era aprovada pelo proprietário.</p></li><li><p>Selos eram usados para indicar a autenticidade de algo como derivado do proprietário, aprovado pelo proprietário ou pertencente ao proprietário de alguma forma.</p></li><li><p>Às vezes, um selo era colocado no topo de um anel para que o dono do anel pudesse pressionar o selo em algo e fazer uma impressão nele.</p></li><li><p>Às vezes, selos eram presos a uma corda ou cordão e usados ao redor do pescoço.</p></li><li><p>Cera derretida era usada para selar cartas ou outros documentos que precisavam ser protegidos. Quando a cera esfriava e endurecia, a carta não podia ser aberta sem quebrar o selo de cera. A pessoa que recebia a carta via o selo intacto e sabia que ninguém a tinha aberto.</p></li><li><p>Um selo foi colocado na pedra em frente ao túmulo de Jesus para impedir que alguém movesse a pedra.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26307\" data-resourceType=\"UWTranslationWords\">túmulo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod2:3\">Êxodo 2.3</a></p></li><li><p><a href=\"https://ref.ly/Isa29:11\">Isaías 29.11</a></p></li><li><p><a href=\"https://ref.ly/John6:27\">João 6.27</a></p></li><li><p><a href=\"https://ref.ly/Matt27:66\">Mateus 27.66</a></p></li><li><p><a href=\"https://ref.ly/Rev5:2\">Apocalipse 5.2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2368, H2560, H2856, H2857, H2858, H5640, G26960, G49720, G49730</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038025",
+          "start_ref_usfm": "GEN 38:25",
+          "end_ref": "01038025",
+          "end_ref_usfm": "GEN 38:25"
+        },
+        {
+          "start_ref": "02002003",
+          "start_ref_usfm": "EXO 2:3",
+          "end_ref": "02002003",
+          "end_ref_usfm": "EXO 2:3"
+        },
+        {
+          "start_ref": "23029011",
+          "start_ref_usfm": "ISA 29:11",
+          "end_ref": "23029011",
+          "end_ref_usfm": "ISA 29:11"
+        },
+        {
+          "start_ref": "40027066",
+          "start_ref_usfm": "MAT 27:66",
+          "end_ref": "40027066",
+          "end_ref_usfm": "MAT 27:66"
+        },
+        {
+          "start_ref": "43003033",
+          "start_ref_usfm": "JHN 3:33",
+          "end_ref": "43003033",
+          "end_ref_usfm": "JHN 3:33"
+        },
+        {
+          "start_ref": "43006027",
+          "start_ref_usfm": "JHN 6:27",
+          "end_ref": "43006027",
+          "end_ref_usfm": "JHN 6:27"
+        },
+        {
+          "start_ref": "45004011",
+          "start_ref_usfm": "ROM 4:11",
+          "end_ref": "45004011",
+          "end_ref_usfm": "ROM 4:11"
+        },
+        {
+          "start_ref": "45015028",
+          "start_ref_usfm": "ROM 15:28",
+          "end_ref": "45015028",
+          "end_ref_usfm": "ROM 15:28"
+        },
+        {
+          "start_ref": "46009002",
+          "start_ref_usfm": "1CO 9:2",
+          "end_ref": "46009002",
+          "end_ref_usfm": "1CO 9:2"
+        },
+        {
+          "start_ref": "47001022",
+          "start_ref_usfm": "2CO 1:22",
+          "end_ref": "47001022",
+          "end_ref_usfm": "2CO 1:22"
+        },
+        {
+          "start_ref": "49001013",
+          "start_ref_usfm": "EPH 1:13",
+          "end_ref": "49001013",
+          "end_ref_usfm": "EPH 1:13"
+        },
+        {
+          "start_ref": "49004030",
+          "start_ref_usfm": "EPH 4:30",
+          "end_ref": "49004030",
+          "end_ref_usfm": "EPH 4:30"
+        },
+        {
+          "start_ref": "55002019",
+          "start_ref_usfm": "2TI 2:19",
+          "end_ref": "55002019",
+          "end_ref_usfm": "2TI 2:19"
+        },
+        {
+          "start_ref": "66005002",
+          "start_ref_usfm": "REV 5:2",
+          "end_ref": "66005002",
+          "end_ref_usfm": "REV 5:2"
+        },
+        {
+          "start_ref": "66005005",
+          "start_ref_usfm": "REV 5:5",
+          "end_ref": "66005005",
+          "end_ref_usfm": "REV 5:5"
+        },
+        {
+          "start_ref": "66005009",
+          "start_ref_usfm": "REV 5:9",
+          "end_ref": "66005009",
+          "end_ref_usfm": "REV 5:9"
+        },
+        {
+          "start_ref": "66006001",
+          "start_ref_usfm": "REV 6:1",
+          "end_ref": "66006001",
+          "end_ref_usfm": "REV 6:1"
+        },
+        {
+          "start_ref": "66006003",
+          "start_ref_usfm": "REV 6:3",
+          "end_ref": "66006003",
+          "end_ref_usfm": "REV 6:3"
+        },
+        {
+          "start_ref": "66006005",
+          "start_ref_usfm": "REV 6:5",
+          "end_ref": "66006005",
+          "end_ref_usfm": "REV 6:5"
+        },
+        {
+          "start_ref": "66006007",
+          "start_ref_usfm": "REV 6:7",
+          "end_ref": "66006007",
+          "end_ref_usfm": "REV 6:7"
+        },
+        {
+          "start_ref": "66006009",
+          "start_ref_usfm": "REV 6:9",
+          "end_ref": "66006009",
+          "end_ref_usfm": "REV 6:9"
+        },
+        {
+          "start_ref": "66006012",
+          "start_ref_usfm": "REV 6:12",
+          "end_ref": "66006012",
+          "end_ref_usfm": "REV 6:12"
+        },
+        {
+          "start_ref": "66007002",
+          "start_ref_usfm": "REV 7:2",
+          "end_ref": "66007002",
+          "end_ref_usfm": "REV 7:2"
+        },
+        {
+          "start_ref": "66007003",
+          "start_ref_usfm": "REV 7:3",
+          "end_ref": "66007003",
+          "end_ref_usfm": "REV 7:3"
+        },
+        {
+          "start_ref": "66007004",
+          "start_ref_usfm": "REV 7:4",
+          "end_ref": "66007004",
+          "end_ref_usfm": "REV 7:4"
+        },
+        {
+          "start_ref": "66007005",
+          "start_ref_usfm": "REV 7:5",
+          "end_ref": "66007005",
+          "end_ref_usfm": "REV 7:5"
+        },
+        {
+          "start_ref": "66007008",
+          "start_ref_usfm": "REV 7:8",
+          "end_ref": "66007008",
+          "end_ref_usfm": "REV 7:8"
+        },
+        {
+          "start_ref": "66008001",
+          "start_ref_usfm": "REV 8:1",
+          "end_ref": "66008001",
+          "end_ref_usfm": "REV 8:1"
+        },
+        {
+          "start_ref": "66009004",
+          "start_ref_usfm": "REV 9:4",
+          "end_ref": "66009004",
+          "end_ref_usfm": "REV 9:4"
+        },
+        {
+          "start_ref": "66010004",
+          "start_ref_usfm": "REV 10:4",
+          "end_ref": "66010004",
+          "end_ref_usfm": "REV 10:4"
+        },
+        {
+          "start_ref": "66020003",
+          "start_ref_usfm": "REV 20:3",
+          "end_ref": "66020003",
+          "end_ref_usfm": "REV 20:3"
+        },
+        {
+          "start_ref": "66022010",
+          "start_ref_usfm": "REV 22:10",
+          "end_ref": "66022010",
+          "end_ref_usfm": "REV 22:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26307,
+          "content_id": 238435,
+          "label": "Túmulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 140528,
+          "content_id": 307494,
+          "label": "João 3.33 (#3)",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 180211,
+    "reference_id": 26152,
+    "title": "रामा",
+    "media_type": "Text",
+    "index_reference": "रामा",
+    "language": "hin",
+    "content": "<h1>रामा</h1><h2>तथ्य:</h2><p>रामा यरूशलेम से आठ कि.मी. दूर एक प्राचीन इस्राएली नगर था। यह नगर उस क्षत्र में था जहां बिन्यामीन गोत्र के लोग रहते थे।</p><ul><li><p>रामा में राहेल की मृत्यु हुई थी जब उसने बिन्यामीन को जन्म दिया था।</p></li><li><p>बेबीलोन की सेना इस्राएलियों को बन्दी बना कर ले जा रही थी तब वे बेबीलोन पहुंचने से पूर्व रामा लाए गए थे।</p></li><li><p>शमूएल के माता पिता का घर भी रामा में था।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">बिन्यामीन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 27:27</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 2:11</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 16:1</a></p></li><li><p><a href=\"https://ref.ly/Jer31:15\">यिर्मयाह 31:15</a></p></li><li><p><a href=\"https://ref.ly/Josh18:25-Josh18:28\">यहोशू 18:25–28</a></p></li><li><p><a href=\"https://ref.ly/Matt2:17-Matt2:18\">मत्ती 02:17–18</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H7414, G4471</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09002011",
+          "end_ref_usfm": "1SA 2:11"
+        },
+        {
+          "start_ref": "13027027",
+          "start_ref_usfm": "1CH 27:27",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "14016001",
+          "start_ref_usfm": "2CH 16:1",
+          "end_ref": "14016001",
+          "end_ref_usfm": "2CH 16:1"
+        },
+        {
+          "start_ref": "15002026",
+          "start_ref_usfm": "EZR 2:26",
+          "end_ref": "15002026",
+          "end_ref_usfm": "EZR 2:26"
+        },
+        {
+          "start_ref": "16007030",
+          "start_ref_usfm": "NEH 7:30",
+          "end_ref": "16007030",
+          "end_ref_usfm": "NEH 7:30"
+        },
+        {
+          "start_ref": "16011033",
+          "start_ref_usfm": "NEH 11:33",
+          "end_ref": "16011033",
+          "end_ref_usfm": "NEH 11:33"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "06018025",
+          "start_ref_usfm": "JOS 18:25",
+          "end_ref": "06018028",
+          "end_ref_usfm": "JOS 18:28"
+        },
+        {
+          "start_ref": "40002017",
+          "start_ref_usfm": "MAT 2:17",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 179609,
+          "label": "बिन्यामीन",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

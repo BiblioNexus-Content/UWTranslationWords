@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 238364,
+    "reference_id": 26235,
+    "title": "Seom",
+    "media_type": "Text",
+    "index_reference": "seom",
+    "language": "por",
+    "content": "<h1>Seom</h1><p>Seom é o nome de um homem que foi um rei amorreu que governou a terra de Hesbom.</p><ul><li><p>Os israelitas conquistaram Seom, seu povo e sua terra.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25454\" data-resourceType=\"UWTranslationWords\">Amorreu</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25833\" data-resourceType=\"UWTranslationWords\">Hesbom</span>)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25454,
+          "content_id": 237592,
+          "label": "Amorreu",
+          "language": "por"
+        },
+        {
+          "reference_id": 25833,
+          "content_id": 237966,
+          "label": "Hesbom",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

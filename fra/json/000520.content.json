@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467103,
+    "reference_id": 25963,
+    "title": "Liban",
+    "media_type": "Text",
+    "index_reference": "liban",
+    "language": "fra",
+    "content": "<h1>Liban</h1><h2>Définition :</h2><p>&quot;Le Liban est une belle région montagneuse située le long de la côte de la mer Méditerranée, au nord d&apos;Israël* Dans les temps bibliques cette région était abondamment boisée</p><ul><li><p>Le roi Salomon a envoyé des travailleurs au Liban pour récolter des arbres de cèdre pour une utilisation dans la construction du temple de Dieu.</p></li><li><p>L&apos;ancien Liban a été habitée par des phéniciens qui étaient des constructeurs qualifiés de navires qu&apos;ils ont utilisés pour réussir dans le trafic industriel.</p></li><li><p>Les villes de Tyr et de Sidon étaient situés au Liban* Ce fut dans ces villes qu&apos;on a utilisé premièrement un colorant violet précieux.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../other/cedar.md), (../other/cypress.md), (../other/fir.md), (../names/phonecia.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "22003009",
+          "start_ref_usfm": "SNG 3:9",
+          "end_ref": "22003009",
+          "end_ref_usfm": "SNG 3:9"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "22004011",
+          "start_ref_usfm": "SNG 4:11",
+          "end_ref": "22004011",
+          "end_ref_usfm": "SNG 4:11"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "22005015",
+          "start_ref_usfm": "SNG 5:15",
+          "end_ref": "22005015",
+          "end_ref_usfm": "SNG 5:15"
+        },
+        {
+          "start_ref": "22007004",
+          "start_ref_usfm": "SNG 7:4",
+          "end_ref": "22007004",
+          "end_ref_usfm": "SNG 7:4"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "14002008",
+          "start_ref_usfm": "2CH 2:8",
+          "end_ref": "14002010",
+          "end_ref_usfm": "2CH 2:10"
+        },
+        {
+          "start_ref": "05001007",
+          "start_ref_usfm": "DEU 1:7",
+          "end_ref": "05001008",
+          "end_ref_usfm": "DEU 1:8"
+        },
+        {
+          "start_ref": "19029003",
+          "start_ref_usfm": "PSA 29:3",
+          "end_ref": "19029005",
+          "end_ref_usfm": "PSA 29:5"
+        },
+        {
+          "start_ref": "38010008",
+          "start_ref_usfm": "ZEC 10:8",
+          "end_ref": "38010010",
+          "end_ref_usfm": "ZEC 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 466746,
+          "label": "Cèdre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25636,
+          "content_id": 559323,
+          "label": "Cyprès",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 466894,
+          "label": "Sapin",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

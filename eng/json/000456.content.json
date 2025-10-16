@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 26728,
+    "reference_id": 25870,
+    "title": "Inquire",
+    "media_type": "Text",
+    "index_reference": "inquire",
+    "language": "eng",
+    "content": "<h1>inquire, inquiries</h1><h2>Facts:</h2><p>The term “inquire” means to ask someone for information. The expression “inquire of” is often used to refer to asking God for wisdom or help.</p><ul><li><p>The Old Testament records several instances where people inquired of God.</p></li><li><p>The word can also be used of a king or government official making a search through official written records.</p></li><li><p>Depending on the context, “inquire” could be translated as “ask” or “ask for information.”</p></li><li><p>The expression “inquire of Yahweh” could be translated as “ask Yahweh for guidance” or “ask Yahweh what to do.”</p></li><li><p>To “inquire after” something could be translated as “ask questions about” or “ask for information about.”</p></li><li><p>When Yahweh says “I will not be inquired of by you,” this could be translated as “I will not allow you to ask me for information” or “you will not be permitted to seek help from me.”</p></li></ul><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut19:18\">Deuteronomy 19:18</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:1\">Ezekiel 20:1</a></p></li><li><p><a href=\"https://ref.ly/Ezek20:30-Ezek20:32\">Ezekiel 20:30–32</a></p></li><li><p><a href=\"https://ref.ly/Ezra7:14\">Ezra 7:14</a></p></li><li><p><a href=\"https://ref.ly/Job10:7\">Job 10:7</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1240, H1245, H1875, G18300</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02018015",
+          "start_ref_usfm": "EXO 18:15",
+          "end_ref": "02018015",
+          "end_ref_usfm": "EXO 18:15"
+        },
+        {
+          "start_ref": "05019018",
+          "start_ref_usfm": "DEU 19:18",
+          "end_ref": "05019018",
+          "end_ref_usfm": "DEU 19:18"
+        },
+        {
+          "start_ref": "15007014",
+          "start_ref_usfm": "EZR 7:14",
+          "end_ref": "15007014",
+          "end_ref_usfm": "EZR 7:14"
+        },
+        {
+          "start_ref": "18010007",
+          "start_ref_usfm": "JOB 10:7",
+          "end_ref": "18010007",
+          "end_ref_usfm": "JOB 10:7"
+        },
+        {
+          "start_ref": "26020001",
+          "start_ref_usfm": "EZK 20:1",
+          "end_ref": "26020001",
+          "end_ref_usfm": "EZK 20:1"
+        },
+        {
+          "start_ref": "26020030",
+          "start_ref_usfm": "EZK 20:30",
+          "end_ref": "26020032",
+          "end_ref_usfm": "EZK 20:32"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

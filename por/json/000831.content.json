@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237674,
+    "reference_id": 25538,
+    "title": "Semana no período bíblico",
+    "media_type": "Text",
+    "index_reference": "semana no período bíblico",
+    "language": "por",
+    "content": "<h1>semana</h1><h2>Definição:</h2><p>O termo “semana” refere-se literalmente a um período de tempo que dura sete dias.</p><ul><li><p>No sistema judaico de contagem do tempo, uma semana começa ao pôr do sol no sábado e termina ao pôr do sol no sábado seguinte.</p></li><li><p>Na Bíblia, o termo “semana” às vezes é usado figurativamente para se referir a um grupo de sete unidades de tempo, como sete anos.</p></li><li><p>O “Festival das Semanas” é uma celebração da colheita que ocorre sete semanas após a Páscoa. Também é chamado de “Pentecostes”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26082\" data-resourceType=\"UWTranslationWords\">Pentecostes</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts20:7-Acts20:8\">Atos 20.7–8</a></p></li><li><p><a href=\"https://ref.ly/Deut16:9\">Deuteronômio 16.9</a></p></li><li><p><a href=\"https://ref.ly/Lev23:15-Lev23:16\">Levítico 23.15–16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7620, G45210</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029027",
+          "start_ref_usfm": "GEN 29:27",
+          "end_ref": "01029027",
+          "end_ref_usfm": "GEN 29:27"
+        },
+        {
+          "start_ref": "01029028",
+          "start_ref_usfm": "GEN 29:28",
+          "end_ref": "01029028",
+          "end_ref_usfm": "GEN 29:28"
+        },
+        {
+          "start_ref": "05016009",
+          "start_ref_usfm": "DEU 16:9",
+          "end_ref": "05016009",
+          "end_ref_usfm": "DEU 16:9"
+        },
+        {
+          "start_ref": "44020007",
+          "start_ref_usfm": "ACT 20:7",
+          "end_ref": "44020008",
+          "end_ref_usfm": "ACT 20:8"
+        },
+        {
+          "start_ref": "03023015",
+          "start_ref_usfm": "LEV 23:15",
+          "end_ref": "03023016",
+          "end_ref_usfm": "LEV 23:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26082,
+          "content_id": 238212,
+          "label": "Pentecostes",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

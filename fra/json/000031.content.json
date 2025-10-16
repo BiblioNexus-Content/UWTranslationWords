@@ -1,0 +1,341 @@
+[
+  {
+    "content_id": 466617,
+    "reference_id": 25435,
+    "title": "Affliger",
+    "media_type": "Text",
+    "index_reference": "affliger",
+    "language": "fra",
+    "content": "<h1>affliger, affliction</h1><h2>Définition :</h2><p>Le terme &quot;affliger&quot; signifie causer de la détresse ou des souffrances à quelqu&apos;un. Une &quot;affliction&quot; peut être la maladie, le chagrin émotionnel, ou toute autre calamité qui en découle.</p><ul><li><p>Dieu affligeait son peuple de maladies ou d&apos;autres difficultés pour les amener à se repentir de leurs péchés et les faire revenir à lui.</p></li><li><p>Dieu a provoqué des afflictions ou des fléaux sur le peuple d&apos;Égypte parce que leur roi refusait de lui obéir.</p></li><li><p>Le terme, &quot;être affligé de&quot;, signifie souffrir d&apos;une sorte de détresse, telle qu&apos;une maladie, une persécution ou un chagrin émotionnel.</p></li><li><p>Dans certains contextes de l&apos;Ancien Testament, l&apos;idée de &quot;s&apos;affliger soi-même&quot; ou &quot;d&apos;affliger son âme&quot; signifie s&apos;abstenir de manger de la nourriture.</p></li></ul><h2>Suggestions pour la traduction :</h2><p>Affliger quelqu&apos;un peut être traduit par &quot;causer des problèmes à quelqu&apos;un&quot;, &quot;faire souffrir quelqu&apos;un&quot; ou &quot;provoquer la souffrance&quot;.</p><ul><li><p>On peut traduire une expression comme &quot;affliger quelqu&apos;un de la lèpre&quot; par &quot;faire en sorte que quelqu&apos;un soit malade de la lèpre&quot;.</p></li><li><p>Lorsqu&apos;une maladie ou un désastre est destiné à &quot;affliger&quot; des personnes ou des animaux, cela pourrait être traduit par &quot; causer de la souffrance à. &quot;</p></li><li><p>Selon le contexte, le terme &quot;affliction&quot; pourrait être traduit par &quot;calamité&quot; ou &quot;maladie&quot; ou &quot;souffrance&quot; ou &quot;grande détresse&quot;.</p></li><li><p>L&apos;expression, &quot; être affligé de&quot;, pourrait également être traduite par &quot; souffrant de &quot; ou &quot; malade de &quot;.</p></li></ul><p>(Pour plus d’information, voir aussi : (../other/leprosy.md), (../other/plague.md), (../other/suffer.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01016011",
+          "start_ref_usfm": "GEN 16:11",
+          "end_ref": "01016011",
+          "end_ref_usfm": "GEN 16:11"
+        },
+        {
+          "start_ref": "01029032",
+          "start_ref_usfm": "GEN 29:32",
+          "end_ref": "01029032",
+          "end_ref_usfm": "GEN 29:32"
+        },
+        {
+          "start_ref": "01031042",
+          "start_ref_usfm": "GEN 31:42",
+          "end_ref": "01031042",
+          "end_ref_usfm": "GEN 31:42"
+        },
+        {
+          "start_ref": "01031050",
+          "start_ref_usfm": "GEN 31:50",
+          "end_ref": "01031050",
+          "end_ref_usfm": "GEN 31:50"
+        },
+        {
+          "start_ref": "01041052",
+          "start_ref_usfm": "GEN 41:52",
+          "end_ref": "01041052",
+          "end_ref_usfm": "GEN 41:52"
+        },
+        {
+          "start_ref": "01043006",
+          "start_ref_usfm": "GEN 43:6",
+          "end_ref": "01043006",
+          "end_ref_usfm": "GEN 43:6"
+        },
+        {
+          "start_ref": "02001011",
+          "start_ref_usfm": "EXO 1:11",
+          "end_ref": "02001011",
+          "end_ref_usfm": "EXO 1:11"
+        },
+        {
+          "start_ref": "02001012",
+          "start_ref_usfm": "EXO 1:12",
+          "end_ref": "02001012",
+          "end_ref_usfm": "EXO 1:12"
+        },
+        {
+          "start_ref": "02003007",
+          "start_ref_usfm": "EXO 3:7",
+          "end_ref": "02003007",
+          "end_ref_usfm": "EXO 3:7"
+        },
+        {
+          "start_ref": "02003017",
+          "start_ref_usfm": "EXO 3:17",
+          "end_ref": "02003017",
+          "end_ref_usfm": "EXO 3:17"
+        },
+        {
+          "start_ref": "02004031",
+          "start_ref_usfm": "EXO 4:31",
+          "end_ref": "02004031",
+          "end_ref_usfm": "EXO 4:31"
+        },
+        {
+          "start_ref": "02005019",
+          "start_ref_usfm": "EXO 5:19",
+          "end_ref": "02005019",
+          "end_ref_usfm": "EXO 5:19"
+        },
+        {
+          "start_ref": "02005022",
+          "start_ref_usfm": "EXO 5:22",
+          "end_ref": "02005022",
+          "end_ref_usfm": "EXO 5:22"
+        },
+        {
+          "start_ref": "02005023",
+          "start_ref_usfm": "EXO 5:23",
+          "end_ref": "02005023",
+          "end_ref_usfm": "EXO 5:23"
+        },
+        {
+          "start_ref": "02022022",
+          "start_ref_usfm": "EXO 22:22",
+          "end_ref": "02022022",
+          "end_ref_usfm": "EXO 22:22"
+        },
+        {
+          "start_ref": "02022023",
+          "start_ref_usfm": "EXO 22:23",
+          "end_ref": "02022023",
+          "end_ref_usfm": "EXO 22:23"
+        },
+        {
+          "start_ref": "15008021",
+          "start_ref_usfm": "EZR 8:21",
+          "end_ref": "15008021",
+          "end_ref_usfm": "EZR 8:21"
+        },
+        {
+          "start_ref": "16009009",
+          "start_ref_usfm": "NEH 9:9",
+          "end_ref": "16009009",
+          "end_ref_usfm": "NEH 9:9"
+        },
+        {
+          "start_ref": "18008020",
+          "start_ref_usfm": "JOB 8:20",
+          "end_ref": "18008020",
+          "end_ref_usfm": "JOB 8:20"
+        },
+        {
+          "start_ref": "18010015",
+          "start_ref_usfm": "JOB 10:15",
+          "end_ref": "18010015",
+          "end_ref_usfm": "JOB 10:15"
+        },
+        {
+          "start_ref": "18030016",
+          "start_ref_usfm": "JOB 30:16",
+          "end_ref": "18030016",
+          "end_ref_usfm": "JOB 30:16"
+        },
+        {
+          "start_ref": "18030027",
+          "start_ref_usfm": "JOB 30:27",
+          "end_ref": "18030027",
+          "end_ref_usfm": "JOB 30:27"
+        },
+        {
+          "start_ref": "18036008",
+          "start_ref_usfm": "JOB 36:8",
+          "end_ref": "18036008",
+          "end_ref_usfm": "JOB 36:8"
+        },
+        {
+          "start_ref": "20011008",
+          "start_ref_usfm": "PRO 11:8",
+          "end_ref": "20011008",
+          "end_ref_usfm": "PRO 11:8"
+        },
+        {
+          "start_ref": "20013020",
+          "start_ref_usfm": "PRO 13:20",
+          "end_ref": "20013020",
+          "end_ref_usfm": "PRO 13:20"
+        },
+        {
+          "start_ref": "20014021",
+          "start_ref_usfm": "PRO 14:21",
+          "end_ref": "20014021",
+          "end_ref_usfm": "PRO 14:21"
+        },
+        {
+          "start_ref": "20015015",
+          "start_ref_usfm": "PRO 15:15",
+          "end_ref": "20015015",
+          "end_ref_usfm": "PRO 15:15"
+        },
+        {
+          "start_ref": "20016019",
+          "start_ref_usfm": "PRO 16:19",
+          "end_ref": "20016019",
+          "end_ref_usfm": "PRO 16:19"
+        },
+        {
+          "start_ref": "20022022",
+          "start_ref_usfm": "PRO 22:22",
+          "end_ref": "20022022",
+          "end_ref_usfm": "PRO 22:22"
+        },
+        {
+          "start_ref": "20030014",
+          "start_ref_usfm": "PRO 30:14",
+          "end_ref": "20030014",
+          "end_ref_usfm": "PRO 30:14"
+        },
+        {
+          "start_ref": "20031005",
+          "start_ref_usfm": "PRO 31:5",
+          "end_ref": "20031005",
+          "end_ref_usfm": "PRO 31:5"
+        },
+        {
+          "start_ref": "20031009",
+          "start_ref_usfm": "PRO 31:9",
+          "end_ref": "20031009",
+          "end_ref_usfm": "PRO 31:9"
+        },
+        {
+          "start_ref": "20031020",
+          "start_ref_usfm": "PRO 31:20",
+          "end_ref": "20031020",
+          "end_ref_usfm": "PRO 31:20"
+        },
+        {
+          "start_ref": "30005012",
+          "start_ref_usfm": "AMO 5:12",
+          "end_ref": "30005012",
+          "end_ref_usfm": "AMO 5:12"
+        },
+        {
+          "start_ref": "31001012",
+          "start_ref_usfm": "OBA 1:12",
+          "end_ref": "31001012",
+          "end_ref_usfm": "OBA 1:12"
+        },
+        {
+          "start_ref": "32002002",
+          "start_ref_usfm": "JON 2:2",
+          "end_ref": "32002002",
+          "end_ref_usfm": "JON 2:2"
+        },
+        {
+          "start_ref": "36001012",
+          "start_ref_usfm": "ZEP 1:12",
+          "end_ref": "36001012",
+          "end_ref_usfm": "ZEP 1:12"
+        },
+        {
+          "start_ref": "42007021",
+          "start_ref_usfm": "LUK 7:21",
+          "end_ref": "42007021",
+          "end_ref_usfm": "LUK 7:21"
+        },
+        {
+          "start_ref": "44028008",
+          "start_ref_usfm": "ACT 28:8",
+          "end_ref": "44028008",
+          "end_ref_usfm": "ACT 28:8"
+        },
+        {
+          "start_ref": "47004008",
+          "start_ref_usfm": "2CO 4:8",
+          "end_ref": "47004008",
+          "end_ref_usfm": "2CO 4:8"
+        },
+        {
+          "start_ref": "47008013",
+          "start_ref_usfm": "2CO 8:13",
+          "end_ref": "47008013",
+          "end_ref_usfm": "2CO 8:13"
+        },
+        {
+          "start_ref": "50004014",
+          "start_ref_usfm": "PHP 4:14",
+          "end_ref": "50004014",
+          "end_ref_usfm": "PHP 4:14"
+        },
+        {
+          "start_ref": "51001024",
+          "start_ref_usfm": "COL 1:24",
+          "end_ref": "51001024",
+          "end_ref_usfm": "COL 1:24"
+        },
+        {
+          "start_ref": "52003003",
+          "start_ref_usfm": "1TH 3:3",
+          "end_ref": "52003003",
+          "end_ref_usfm": "1TH 3:3"
+        },
+        {
+          "start_ref": "52003007",
+          "start_ref_usfm": "1TH 3:7",
+          "end_ref": "52003007",
+          "end_ref_usfm": "1TH 3:7"
+        },
+        {
+          "start_ref": "53001004",
+          "start_ref_usfm": "2TH 1:4",
+          "end_ref": "53001004",
+          "end_ref_usfm": "2TH 1:4"
+        },
+        {
+          "start_ref": "53001006",
+          "start_ref_usfm": "2TH 1:6",
+          "end_ref": "53001006",
+          "end_ref_usfm": "2TH 1:6"
+        },
+        {
+          "start_ref": "53001007",
+          "start_ref_usfm": "2TH 1:7",
+          "end_ref": "53001007",
+          "end_ref_usfm": "2TH 1:7"
+        },
+        {
+          "start_ref": "02022022",
+          "start_ref_usfm": "EXO 22:22",
+          "end_ref": "02022024",
+          "end_ref_usfm": "EXO 22:24"
+        },
+        {
+          "start_ref": "01012017",
+          "start_ref_usfm": "GEN 12:17",
+          "end_ref": "01012020",
+          "end_ref_usfm": "GEN 12:20"
+        },
+        {
+          "start_ref": "01015012",
+          "start_ref_usfm": "GEN 15:12",
+          "end_ref": "01015013",
+          "end_ref_usfm": "GEN 15:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25965,
+          "content_id": 467105,
+          "label": "Lèpre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26107,
+          "content_id": 467231,
+          "label": "Peste",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 467386,
+          "label": "Souffrir",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

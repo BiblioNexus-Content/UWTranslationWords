@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238215,
+    "reference_id": 26085,
+    "title": "Peor",
+    "media_type": "Text",
+    "index_reference": "peor",
+    "language": "por",
+    "content": "<h1>Peor, Monte Peor, Baal-Peor</h1><h2>Definição:</h2><p>Os termos “Peor” e “Monte Peor” referem-se a uma montanha localizada a nordeste do Mar Morto, na região de Moabe.</p><ul><li><p>O nome “Bete-Peor” era o nome de uma cidade, provavelmente localizada nessa montanha ou perto dela. Foi onde Moisés morreu depois que Deus lhe mostrou a Terra Prometida.</p></li><li><p>“Baal-Peor” era um falso deus dos moabitas que eles adoravam no Monte Peor. Os israelitas também começaram a adorar esse ídolo e Deus os puniu por isso.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26026\" data-resourceType=\"UWTranslationWords\">Moabe</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26191\" data-resourceType=\"UWTranslationWords\">Mar Morto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26357\" data-resourceType=\"UWTranslationWords\">adorar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Num23:28-Num23:30\">Números 23.28–30</a></p></li><li><p><a href=\"https://ref.ly/Num31:16-Num31:17\">Números 31.16–17</a></p></li><li><p><a href=\"https://ref.ly/Ps106:28-Ps106:29\">Salmos 106.28–29</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1047, H1187, H6465</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04023028",
+          "start_ref_usfm": "NUM 23:28",
+          "end_ref": "04023030",
+          "end_ref_usfm": "NUM 23:30"
+        },
+        {
+          "start_ref": "04031016",
+          "start_ref_usfm": "NUM 31:16",
+          "end_ref": "04031017",
+          "end_ref_usfm": "NUM 31:17"
+        },
+        {
+          "start_ref": "19106028",
+          "start_ref_usfm": "PSA 106:28",
+          "end_ref": "19106029",
+          "end_ref_usfm": "PSA 106:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 26026,
+          "content_id": 238156,
+          "label": "Moabe",
+          "language": "por"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 238320,
+          "label": "Mar Salgado",
+          "language": "por"
+        },
+        {
+          "reference_id": 26357,
+          "content_id": 238483,
+          "label": "Adorar",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

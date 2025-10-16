@@ -1,0 +1,34 @@
+[
+  {
+    "content_id": 237988,
+    "reference_id": 25855,
+    "title": "Casa-descendentes_nação",
+    "media_type": "Text",
+    "index_reference": "casa-descendentes_nação",
+    "language": "por",
+    "content": "<h1>casa, família, casa de Israel, casa de Davi</h1><h2>Definição:</h2><p>O termo “casa”, neste sentido, refere-se a “descendentes”.</p><ul><li><p>O termo “casa”, neste sentido, significa “família” ou “descendentes”, e refere-se a todas as pessoas relacionadas ou descendentes de uma pessoa específica. Por exemplo, a frase “casa de Davi” refere-se a todos os descendentes do Rei Davi.</p></li><li><p>A frase “casa de Israel” pode referir-se geralmente a toda a nação de Israel ou mais especificamente às tribos do reino do norte de Israel.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Dependendo do contexto, “casa” poderia ser traduzido como “família” ou “povo” ou “descendentes”.</p></li><li><p>A frase “casa de Davi” poderia ser traduzida como “clã de Davi” ou “família de Davi” ou “descendentes de Davi”. Expressões relacionadas poderiam ser traduzidas de maneira semelhante.</p></li><li><p>Diferentes maneiras de traduzir “casa de Israel” poderiam incluir “povo de Israel” ou “descendentes de Israel” ou “israelitas”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendente</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25858\" data-resourceType=\"UWTranslationWords\">casa de Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">reino de Israel</span>)</p>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 237793,
+          "label": "Descendente",
+          "language": "por"
+        },
+        {
+          "reference_id": 25858,
+          "content_id": 237991,
+          "label": "Casa de David",
+          "language": "por"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 238073,
+          "label": "Reino de Israel",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

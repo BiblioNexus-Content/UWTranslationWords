@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466649,
+    "reference_id": 25470,
+    "title": "Arabie",
+    "media_type": "Text",
+    "index_reference": "arabie",
+    "language": "fra",
+    "content": "<h1>Arabie, Arabe</h1><h2>Définition :</h2><p>L&apos;Arabie est la plus grande péninsule du monde qui s&apos;étend sur près de 3 000 000 de kilomètres carrés* Elle est située au Sud-Est d&apos;Israël, et est limitée par la Mer Rouge, la Mer d&apos;Arabie, et le Golfe Persique.</p><ul><li><p>Le terme &quot;arabe&quot; est utilisé en référence à quelqu&apos;un qui vit en Arabie ou à quelque chose qui est en relation avec l&apos;Arabie.</p></li><li><p>Le premier peuple à habiter en Arabie était les descendants de Shem* On peut aussi citer Ismaël, fils d&apos;Abraham et ses descendants, aussi bien que les descendants d&apos;Esaü.</p></li><li><p>La région désertique où les Israélites errèrent pendant 40 ans était située en Arabie.</p></li><li><p>Après sa conversion, l&apos;apôtre Paul passa quelques années dans la désert d&apos;Arabie.</p></li><li><p>Dans sa lettre aux Chrétiens de la Galatie, Paul mentionne que le Mont Sinaï était situé en Arabie.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/esau.md), (../names/galatia.md), (../names/ishmael.md), (../names/shem.md), (../names/sinai.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002011",
+          "start_ref_usfm": "ACT 2:11",
+          "end_ref": "44002011",
+          "end_ref_usfm": "ACT 2:11"
+        },
+        {
+          "start_ref": "48004024",
+          "start_ref_usfm": "GAL 4:24",
+          "end_ref": "48004025",
+          "end_ref_usfm": "GAL 4:25"
+        },
+        {
+          "start_ref": "11010014",
+          "start_ref_usfm": "1KI 10:14",
+          "end_ref": "11010015",
+          "end_ref_usfm": "1KI 10:15"
+        },
+        {
+          "start_ref": "48001015",
+          "start_ref_usfm": "GAL 1:15",
+          "end_ref": "48001017",
+          "end_ref_usfm": "GAL 1:17"
+        },
+        {
+          "start_ref": "24025024",
+          "start_ref_usfm": "JER 25:24",
+          "end_ref": "24025026",
+          "end_ref_usfm": "JER 25:26"
+        },
+        {
+          "start_ref": "16002019",
+          "start_ref_usfm": "NEH 2:19",
+          "end_ref": "16002020",
+          "end_ref_usfm": "NEH 2:20"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25710,
+          "content_id": 466869,
+          "label": "Ésaü",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25765,
+          "content_id": 466916,
+          "label": "Galatie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25878,
+          "content_id": 467023,
+          "label": "Ismaël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 467341,
+          "label": "Sem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 467356,
+          "label": "Sinaï",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

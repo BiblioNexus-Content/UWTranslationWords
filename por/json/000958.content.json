@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238500,
+    "reference_id": 26374,
+    "title": "Zilpa",
+    "media_type": "Text",
+    "index_reference": "zilpa",
+    "language": "por",
+    "content": "<h1>Zilpa</h1><h2>Fatos:</h2><p>Zilpa foi uma das esposas de Jacó. Ela foi a mãe dos dois filhos de Jacó, Gade e Aser.</p><ul><li><p>Labão deu Zilpa a Leia como serva quando Leia se casou com Jacó.</p></li><li><p>Quando Leia parou de ter filhos, ela deu Zilpa a Jacó como esposa para ter mais filhos para ela.</p></li></ul><p>(Sugestões de Tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacó</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25961\" data-resourceType=\"UWTranslationWords\">Leia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">Gade</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25482\" data-resourceType=\"UWTranslationWords\">Aser</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:23\">Gênesis 29.23</a></p></li><li><p><a href=\"https://ref.ly/Gen30:9\">Gênesis 30.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2153</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029023",
+          "start_ref_usfm": "GEN 29:23",
+          "end_ref": "01029023",
+          "end_ref_usfm": "GEN 29:23"
+        },
+        {
+          "start_ref": "01029024",
+          "start_ref_usfm": "GEN 29:24",
+          "end_ref": "01029024",
+          "end_ref_usfm": "GEN 29:24"
+        },
+        {
+          "start_ref": "01030009",
+          "start_ref_usfm": "GEN 30:9",
+          "end_ref": "01030009",
+          "end_ref_usfm": "GEN 30:9"
+        },
+        {
+          "start_ref": "01030010",
+          "start_ref_usfm": "GEN 30:10",
+          "end_ref": "01030010",
+          "end_ref_usfm": "GEN 30:10"
+        },
+        {
+          "start_ref": "01030012",
+          "start_ref_usfm": "GEN 30:12",
+          "end_ref": "01030012",
+          "end_ref_usfm": "GEN 30:12"
+        },
+        {
+          "start_ref": "01035026",
+          "start_ref_usfm": "GEN 35:26",
+          "end_ref": "01035026",
+          "end_ref_usfm": "GEN 35:26"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037002",
+          "end_ref_usfm": "GEN 37:2"
+        },
+        {
+          "start_ref": "01046018",
+          "start_ref_usfm": "GEN 46:18",
+          "end_ref": "01046018",
+          "end_ref_usfm": "GEN 46:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25482,
+          "content_id": 237619,
+          "label": "Aser",
+          "language": "por"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 237897,
+          "label": "Gade",
+          "language": "por"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 238014,
+          "label": "Jacó",
+          "language": "por"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 238092,
+          "label": "Lia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 237908,
+    "reference_id": 25775,
+    "title": "Gesur",
+    "media_type": "Text",
+    "index_reference": "gesur",
+    "language": "por",
+    "content": "<h1>Gesur, gesuritas</h1><h2>Definição:</h2><p>Durante o tempo do Rei Davi, Gesur era um pequeno reino localizado no lado leste do Mar da Galileia entre os países de Israel e Aram.</p><ul><li><p>O Rei Davi casou-se com Maaca, a filha do rei de Gesur, e ela lhe deu um filho, Absalão.</p></li><li><p>Após assassinar seu meio-irmão Amnom, Absalão fugiu em direção à região nordeste de Jerusalém para Gesur, uma distância de cerca de 140 quilômetros. Ele ficou lá por três anos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">Absalão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25453\" data-resourceType=\"UWTranslationWords\">Amnom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Aram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Mar da Galileia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr2:23\">1 Crônicas 2.23</a></p></li><li><p><a href=\"https://ref.ly/2Sam3:2-2Sam3:3\">2 Samuel 3.2–3</a></p></li><li><p><a href=\"https://ref.ly/Deut3:14\">Deuteronômio 3.14</a></p></li><li><p><a href=\"https://ref.ly/Josh12:3-Josh12:5\">Josué 12.3–5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003014",
+          "start_ref_usfm": "DEU 3:14",
+          "end_ref": "05003014",
+          "end_ref_usfm": "DEU 3:14"
+        },
+        {
+          "start_ref": "13002023",
+          "start_ref_usfm": "1CH 2:23",
+          "end_ref": "13002023",
+          "end_ref_usfm": "1CH 2:23"
+        },
+        {
+          "start_ref": "10003002",
+          "start_ref_usfm": "2SA 3:2",
+          "end_ref": "10003003",
+          "end_ref_usfm": "2SA 3:3"
+        },
+        {
+          "start_ref": "06012003",
+          "start_ref_usfm": "JOS 12:3",
+          "end_ref": "06012005",
+          "end_ref_usfm": "JOS 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 237563,
+          "label": "Absalão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25453,
+          "content_id": 237591,
+          "label": "Amnom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 237608,
+          "label": "Arã",
+          "language": "por"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 238336,
+          "label": "Mar da Galileia",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

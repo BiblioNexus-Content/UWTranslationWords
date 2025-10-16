@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466761,
+    "reference_id": 25593,
+    "title": "Citoyen",
+    "media_type": "Text",
+    "index_reference": "citoyen",
+    "language": "fra",
+    "content": "<h1>citoyen, citoyenneté</h1><h2>Définition :</h2><p>Un citoyen est une personne qui vit dans une ville, un pays ou un royaume spécifique. Il s&apos;agit en particulier de quelqu&apos;un qui est reconnu officiellement comme étant un résident légal d&apos;un lieu donné.</p><ul><li><p>Selon le contexte, on pourrait également traduire ce terme par &quot;habitant&quot; ou &quot;résident officiel&quot;.</p></li><li><p>Un citoyen pouvait vivre dans une région qui fait partie d&apos;un royaume ou d&apos;un empire plus vaste, gouverné par un roi, un empereur ou un autre dirigeant. Par exemple, Paul était un citoyen de l&apos;Empire romain, qui se composait de nombreuses provinces différentes ; Paul vivait dans l&apos;une de ces provinces.</p></li><li><p>Au sens figuré, les croyants en Jésus sont appelés &quot;citoyens&quot; du ciel dans le sens où ils y vivront un jour. Comme citoyen d&apos;un pays, le chrétien appartient au Royaume de Dieu.</p></li></ul><p>(Pour plus d’information, voir : (../other/kingdom.md), (../names/paul.md), (../other/province.md), (../names/rome.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23003003",
+          "start_ref_usfm": "ISA 3:3",
+          "end_ref": "23003003",
+          "end_ref_usfm": "ISA 3:3"
+        },
+        {
+          "start_ref": "42015015",
+          "start_ref_usfm": "LUK 15:15",
+          "end_ref": "42015015",
+          "end_ref_usfm": "LUK 15:15"
+        },
+        {
+          "start_ref": "42019014",
+          "start_ref_usfm": "LUK 19:14",
+          "end_ref": "42019014",
+          "end_ref_usfm": "LUK 19:14"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021039",
+          "end_ref_usfm": "ACT 21:39"
+        },
+        {
+          "start_ref": "44022028",
+          "start_ref_usfm": "ACT 22:28",
+          "end_ref": "44022028",
+          "end_ref_usfm": "ACT 22:28"
+        },
+        {
+          "start_ref": "44023001",
+          "start_ref_usfm": "ACT 23:1",
+          "end_ref": "44023001",
+          "end_ref_usfm": "ACT 23:1"
+        },
+        {
+          "start_ref": "49002012",
+          "start_ref_usfm": "EPH 2:12",
+          "end_ref": "49002012",
+          "end_ref_usfm": "EPH 2:12"
+        },
+        {
+          "start_ref": "49002019",
+          "start_ref_usfm": "EPH 2:19",
+          "end_ref": "49002019",
+          "end_ref_usfm": "EPH 2:19"
+        },
+        {
+          "start_ref": "50003020",
+          "start_ref_usfm": "PHP 3:20",
+          "end_ref": "50003020",
+          "end_ref_usfm": "PHP 3:20"
+        },
+        {
+          "start_ref": "58008011",
+          "start_ref_usfm": "HEB 8:11",
+          "end_ref": "58008011",
+          "end_ref_usfm": "HEB 8:11"
+        },
+        {
+          "start_ref": "44021039",
+          "start_ref_usfm": "ACT 21:39",
+          "end_ref": "44021040",
+          "end_ref_usfm": "ACT 21:40"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25939,
+          "content_id": 467082,
+          "label": "Royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 467258,
+          "label": "Province",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

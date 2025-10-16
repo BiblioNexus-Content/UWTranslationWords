@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238439,
+    "reference_id": 26311,
+    "title": "Pisotear",
+    "media_type": "Text",
+    "index_reference": "pisotear",
+    "language": "por",
+    "content": "<h1>pisotear</h1><h2>Definição:</h2><p>“Pisotear” significa pisar em algo e esmagá-lo com os pés. Este termo também é usado figurativamente na Bíblia para significar “destruir”, “derrotar” ou “humilhar”.</p><ul><li><p>Um exemplo de “pisotear” seria o ato das pessoas pressionarem a grama com seus pés correndo em um campo.</p></li><li><p>Nos tempos antigos, o vinho às vezes era feito pisoteando uvas para extrair o suco delas.</p></li><li><p>Às vezes, o termo “pisotear” tem um sentido figurado de “punir humilhando”, comparando-o a pisotear lama para uma eira.</p></li><li><p>O termo “pisotear” foi usado figurativamente para expressar como Javé puniria seu povo Israel por seu orgulho e rebelião.</p></li><li><p>Outras maneiras de traduzir “pisotear” podem ser “esmagar com os pés”, “pisar e esmagar” ou “esmagar no chão”.</p></li><li><p>Dependendo do contexto, esse termo também pode ser traduzido como “atropelar”, “andar por cima” ou “esmagar sob os pés”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25803\" data-resourceType=\"UWTranslationWords\">uva</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26220\" data-resourceType=\"UWTranslationWords\">vergonha</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">punir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26157\" data-resourceType=\"UWTranslationWords\">rebelar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26300\" data-resourceType=\"UWTranslationWords\">debulhar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">vinho</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Heb10:29\">Hebreus 10.29</a></p></li><li><p><a href=\"https://ref.ly/Ps7:5\">Salmos 7.5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0947, H1758, H1869, H4001, H4823, H7429, H7512, G26620, G39610</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19007005",
+          "start_ref_usfm": "PSA 7:5",
+          "end_ref": "19007005",
+          "end_ref_usfm": "PSA 7:5"
+        },
+        {
+          "start_ref": "40005013",
+          "start_ref_usfm": "MAT 5:13",
+          "end_ref": "40005013",
+          "end_ref_usfm": "MAT 5:13"
+        },
+        {
+          "start_ref": "40007006",
+          "start_ref_usfm": "MAT 7:6",
+          "end_ref": "40007006",
+          "end_ref_usfm": "MAT 7:6"
+        },
+        {
+          "start_ref": "58010029",
+          "start_ref_usfm": "HEB 10:29",
+          "end_ref": "58010029",
+          "end_ref_usfm": "HEB 10:29"
+        },
+        {
+          "start_ref": "66011002",
+          "start_ref_usfm": "REV 11:2",
+          "end_ref": "66011002",
+          "end_ref_usfm": "REV 11:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25803,
+          "content_id": 237936,
+          "label": "Uva",
+          "language": "por"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 237972,
+          "label": "Heveu",
+          "language": "por"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 238271,
+          "label": "Punir",
+          "language": "por"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 238287,
+          "label": "Rebelar-se",
+          "language": "por"
+        },
+        {
+          "reference_id": 26220,
+          "content_id": 238349,
+          "label": "Vergonha",
+          "language": "por"
+        },
+        {
+          "reference_id": 26300,
+          "content_id": 238429,
+          "label": "Debulhar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 238473,
+          "label": "Vinho",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

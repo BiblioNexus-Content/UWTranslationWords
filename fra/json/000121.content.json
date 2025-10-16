@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 466701,
+    "reference_id": 25528,
+    "title": "Bethanie",
+    "media_type": "Text",
+    "index_reference": "bethanie",
+    "language": "fra",
+    "content": "<h1>Bethanie</h1><h2>Définition :</h2><p>La ville de Béthanie était située à la base de la pente orientale du mont des Oliviers, à environ 5 kilomètres à l&apos;est de Jérusalem,</p><ul><li><p>Béthanie était près de la route qui est entre Jérusalem et Jéricho.</p></li><li><p>Jésus a souvent visité Béthanie où ses amis proches Lazare, Marthe et Marie ont vécu.</p></li><li><p>Béthanie est surtout connue comme le lieu où Jésus a ressuscité Lazare d&apos;entre les morts.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/jericho.md), (../names/jerusalem.md), (../names/lazarus.md), (../names/martha.md), (../names/marysisterofmartha.md), (../names/mountofolives.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40021017",
+          "start_ref_usfm": "MAT 21:17",
+          "end_ref": "40021017",
+          "end_ref_usfm": "MAT 21:17"
+        },
+        {
+          "start_ref": "40026006",
+          "start_ref_usfm": "MAT 26:6",
+          "end_ref": "40026006",
+          "end_ref_usfm": "MAT 26:6"
+        },
+        {
+          "start_ref": "41011001",
+          "start_ref_usfm": "MRK 11:1",
+          "end_ref": "41011001",
+          "end_ref_usfm": "MRK 11:1"
+        },
+        {
+          "start_ref": "41011011",
+          "start_ref_usfm": "MRK 11:11",
+          "end_ref": "41011011",
+          "end_ref_usfm": "MRK 11:11"
+        },
+        {
+          "start_ref": "41011012",
+          "start_ref_usfm": "MRK 11:12",
+          "end_ref": "41011012",
+          "end_ref_usfm": "MRK 11:12"
+        },
+        {
+          "start_ref": "41014003",
+          "start_ref_usfm": "MRK 14:3",
+          "end_ref": "41014003",
+          "end_ref_usfm": "MRK 14:3"
+        },
+        {
+          "start_ref": "42019029",
+          "start_ref_usfm": "LUK 19:29",
+          "end_ref": "42019029",
+          "end_ref_usfm": "LUK 19:29"
+        },
+        {
+          "start_ref": "42024050",
+          "start_ref_usfm": "LUK 24:50",
+          "end_ref": "42024050",
+          "end_ref_usfm": "LUK 24:50"
+        },
+        {
+          "start_ref": "43001028",
+          "start_ref_usfm": "JHN 1:28",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011001",
+          "end_ref_usfm": "JHN 11:1"
+        },
+        {
+          "start_ref": "43011018",
+          "start_ref_usfm": "JHN 11:18",
+          "end_ref": "43011018",
+          "end_ref_usfm": "JHN 11:18"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012001",
+          "end_ref_usfm": "JHN 12:1"
+        },
+        {
+          "start_ref": "42024050",
+          "start_ref_usfm": "LUK 24:50",
+          "end_ref": "42024051",
+          "end_ref_usfm": "LUK 24:51"
+        },
+        {
+          "start_ref": "43001026",
+          "start_ref_usfm": "JHN 1:26",
+          "end_ref": "43001028",
+          "end_ref_usfm": "JHN 1:28"
+        },
+        {
+          "start_ref": "40021015",
+          "start_ref_usfm": "MAT 21:15",
+          "end_ref": "40021017",
+          "end_ref_usfm": "MAT 21:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25896,
+          "content_id": 467041,
+          "label": "Jéricho",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25960,
+          "content_id": 467100,
+          "label": "Lazare",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25997,
+          "content_id": 467134,
+          "label": "Marthe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26000,
+          "content_id": 467137,
+          "label": "Marie soeur da Marthe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26034,
+          "content_id": 467171,
+          "label": "Mont des Oliviers",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

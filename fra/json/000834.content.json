@@ -1,0 +1,251 @@
+[
+  {
+    "content_id": 467401,
+    "reference_id": 26287,
+    "title": "Tente",
+    "media_type": "Text",
+    "index_reference": "tente",
+    "language": "fra",
+    "content": "<h1>tente</h1><h2>Définition :</h2><p>&quot;Une tente est un abri portable en tissu robuste qui couvre une structure de piquets et attaché à eux.</p><ul><li><p>Les tentes sont utilisées comme lieux d&apos;habitation permanents pour de nombreuses personnes* Par exemple, la famille d&apos;Abraham a vécu pendant des années dans des grandes et lourdes tentes.</p></li><li><p>Israël vivait dans des tentes au cours de leurs pérégrinations à travers le désert du Sinaï.</p></li><li><p>Le bâtiment du tabernacle était une sorte de très grande tente, avec des murs épais faits avec des rideaux en tissu.</p></li><li><p>L&apos;apôtre Paul a fait des tentes pour gagner de l&apos;argent pour faire face à ses besoins tout en voyageant de ville en ville pour propager l&apos;évangile.</p></li><li><p>Le terme «tentes» est parfois utilisé au sens figuré pour désigner généralement l&apos;endroit où les gens vivent* Cela pourrait être traduit par «maisons» ou «logements» ou «demeures»* (Voir: [[: fr: ta: vol2: traduire: figs_synecdoche]])</p></li></ul><p>(Voir aussi : (../names/abraham.md), (../names/canaan.md), (../other/curtain.md), (../names/paul.md), (../names/sinai.md), (../kt/tabernacle.md), (../other/tentofmeeting.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004020",
+          "start_ref_usfm": "GEN 4:20",
+          "end_ref": "01004020",
+          "end_ref_usfm": "GEN 4:20"
+        },
+        {
+          "start_ref": "01009021",
+          "start_ref_usfm": "GEN 9:21",
+          "end_ref": "01009021",
+          "end_ref_usfm": "GEN 9:21"
+        },
+        {
+          "start_ref": "01009027",
+          "start_ref_usfm": "GEN 9:27",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "01012008",
+          "start_ref_usfm": "GEN 12:8",
+          "end_ref": "01012008",
+          "end_ref_usfm": "GEN 12:8"
+        },
+        {
+          "start_ref": "01012009",
+          "start_ref_usfm": "GEN 12:9",
+          "end_ref": "01012009",
+          "end_ref_usfm": "GEN 12:9"
+        },
+        {
+          "start_ref": "01013003",
+          "start_ref_usfm": "GEN 13:3",
+          "end_ref": "01013003",
+          "end_ref_usfm": "GEN 13:3"
+        },
+        {
+          "start_ref": "01013005",
+          "start_ref_usfm": "GEN 13:5",
+          "end_ref": "01013005",
+          "end_ref_usfm": "GEN 13:5"
+        },
+        {
+          "start_ref": "01013012",
+          "start_ref_usfm": "GEN 13:12",
+          "end_ref": "01013012",
+          "end_ref_usfm": "GEN 13:12"
+        },
+        {
+          "start_ref": "01013018",
+          "start_ref_usfm": "GEN 13:18",
+          "end_ref": "01013018",
+          "end_ref_usfm": "GEN 13:18"
+        },
+        {
+          "start_ref": "01018001",
+          "start_ref_usfm": "GEN 18:1",
+          "end_ref": "01018001",
+          "end_ref_usfm": "GEN 18:1"
+        },
+        {
+          "start_ref": "01018002",
+          "start_ref_usfm": "GEN 18:2",
+          "end_ref": "01018002",
+          "end_ref_usfm": "GEN 18:2"
+        },
+        {
+          "start_ref": "01018006",
+          "start_ref_usfm": "GEN 18:6",
+          "end_ref": "01018006",
+          "end_ref_usfm": "GEN 18:6"
+        },
+        {
+          "start_ref": "01018009",
+          "start_ref_usfm": "GEN 18:9",
+          "end_ref": "01018009",
+          "end_ref_usfm": "GEN 18:9"
+        },
+        {
+          "start_ref": "01018010",
+          "start_ref_usfm": "GEN 18:10",
+          "end_ref": "01018010",
+          "end_ref_usfm": "GEN 18:10"
+        },
+        {
+          "start_ref": "01024067",
+          "start_ref_usfm": "GEN 24:67",
+          "end_ref": "01024067",
+          "end_ref_usfm": "GEN 24:67"
+        },
+        {
+          "start_ref": "01025027",
+          "start_ref_usfm": "GEN 25:27",
+          "end_ref": "01025027",
+          "end_ref_usfm": "GEN 25:27"
+        },
+        {
+          "start_ref": "01026025",
+          "start_ref_usfm": "GEN 26:25",
+          "end_ref": "01026025",
+          "end_ref_usfm": "GEN 26:25"
+        },
+        {
+          "start_ref": "01031025",
+          "start_ref_usfm": "GEN 31:25",
+          "end_ref": "01031025",
+          "end_ref_usfm": "GEN 31:25"
+        },
+        {
+          "start_ref": "01031033",
+          "start_ref_usfm": "GEN 31:33",
+          "end_ref": "01031033",
+          "end_ref_usfm": "GEN 31:33"
+        },
+        {
+          "start_ref": "01031034",
+          "start_ref_usfm": "GEN 31:34",
+          "end_ref": "01031034",
+          "end_ref_usfm": "GEN 31:34"
+        },
+        {
+          "start_ref": "01033019",
+          "start_ref_usfm": "GEN 33:19",
+          "end_ref": "01033019",
+          "end_ref_usfm": "GEN 33:19"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035021",
+          "end_ref_usfm": "GEN 35:21"
+        },
+        {
+          "start_ref": "02016018",
+          "start_ref_usfm": "EXO 16:18",
+          "end_ref": "02016018",
+          "end_ref_usfm": "EXO 16:18"
+        },
+        {
+          "start_ref": "02035011",
+          "start_ref_usfm": "EXO 35:11",
+          "end_ref": "02035011",
+          "end_ref_usfm": "EXO 35:11"
+        },
+        {
+          "start_ref": "02039033",
+          "start_ref_usfm": "EXO 39:33",
+          "end_ref": "02039033",
+          "end_ref_usfm": "EXO 39:33"
+        },
+        {
+          "start_ref": "13005010",
+          "start_ref_usfm": "1CH 5:10",
+          "end_ref": "13005010",
+          "end_ref_usfm": "1CH 5:10"
+        },
+        {
+          "start_ref": "20014011",
+          "start_ref_usfm": "PRO 14:11",
+          "end_ref": "20014011",
+          "end_ref_usfm": "PRO 14:11"
+        },
+        {
+          "start_ref": "27011045",
+          "start_ref_usfm": "DAN 11:45",
+          "end_ref": "27011045",
+          "end_ref_usfm": "DAN 11:45"
+        },
+        {
+          "start_ref": "44018003",
+          "start_ref_usfm": "ACT 18:3",
+          "end_ref": "44018003",
+          "end_ref_usfm": "ACT 18:3"
+        },
+        {
+          "start_ref": "47005001",
+          "start_ref_usfm": "2CO 5:1",
+          "end_ref": "47005001",
+          "end_ref_usfm": "2CO 5:1"
+        },
+        {
+          "start_ref": "47005004",
+          "start_ref_usfm": "2CO 5:4",
+          "end_ref": "47005004",
+          "end_ref_usfm": "2CO 5:4"
+        },
+        {
+          "start_ref": "58011009",
+          "start_ref_usfm": "HEB 11:9",
+          "end_ref": "58011009",
+          "end_ref_usfm": "HEB 11:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25424,
+          "content_id": 466606,
+          "label": "Abraham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25633,
+          "content_id": 466797,
+          "label": "Rideau",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 467356,
+          "label": "Sinaï",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26278,
+          "content_id": 467392,
+          "label": "Tabernacle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26289,
+          "content_id": 467403,
+          "label": "Tente de la Rencontre",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

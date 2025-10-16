@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26747,
+    "reference_id": 25889,
+    "title": "Jehoiada",
+    "media_type": "Text",
+    "index_reference": "jehoiada",
+    "language": "eng",
+    "content": "<h1>Jehoiada</h1><h2>Facts:</h2><p>Jehoiada was a priest who helped hide and protect King Ahaziah’s son Joash until he was old enough to be declared king.</p><ul><li><p>Jehoiada arranged for hundreds of bodyguards to protect young Joash as he was proclaimed king by the people in the temple.</p></li><li><p>Jehoiada led the people in getting rid of all the altars of the false god Baal.</p></li><li><p>For the rest of his life, Jehoiada the priest advised King Joash to help him obey God and rule the people wisely.</p></li><li><p>Another man named Jehoiada was the father of Benaiah.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25441\" data-resourceType=\"UWTranslationWords\">Ahaziah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25525\" data-resourceType=\"UWTranslationWords\">Benaiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25907\" data-resourceType=\"UWTranslationWords\">Joash</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs11:4\">2 Kings 11:4</a></p></li><li><p><a href=\"https://ref.ly/2Kgs12:1-2Kgs12:3\">2 Kings 12:1–3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3077</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011004",
+          "start_ref_usfm": "2KI 11:4",
+          "end_ref": "12011004",
+          "end_ref_usfm": "2KI 11:4"
+        },
+        {
+          "start_ref": "12012001",
+          "start_ref_usfm": "2KI 12:1",
+          "end_ref": "12012003",
+          "end_ref_usfm": "2KI 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 26299,
+          "label": "Ahaziah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 26355,
+          "label": "Baal",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25525,
+          "content_id": 26383,
+          "label": "Benaiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25907,
+          "content_id": 26765,
+          "label": "Joash",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

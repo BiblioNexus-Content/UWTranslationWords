@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 466781,
+    "reference_id": 25614,
+    "title": "Pierre angulaire",
+    "media_type": "Text",
+    "index_reference": "pierre angulaire",
+    "language": "fra",
+    "content": "<h1>pierre angulaire, pierre principale de l’angle</h1><h2>Définition :</h2><p>Le terme &quot;pierre angulaire&quot; fait référence à une grosse pierre qui a été spécialement coupée et placée dans le coin des fondations d&apos;un bâtiment.</p><ul><li><p>Toutes les autres pierres d&apos;un bâtiment sont mesurées et placées par rapport à la &quot;pierre angulaire&quot;.</p></li><li><p>La pierre angulaire est très importante pour la force et la stabilité de toute la structure.</p></li><li><p>Dans le Nouveau Testament, l&apos;assemblée des croyants est métaphoriquement comparée à un bâtiment dont Jésus-Christ est &quot;pierre angulaire&quot;.</p></li><li><p>De la même façon que la &quot;pierre angulaire&quot; d&apos;un bâtiment soutient et détermine la position de l&apos;ensemble du bâtiment, Jésus-Christ est la &quot;pierre principale de l’angle&quot; sur laquelle l&apos;assemblée des croyants est fondée et soutenue.</p></li></ul><h2>Traduction suggestions</h2><ul><li><p>Le terme &quot;pierre angulaire&quot; pourrait aussi être traduit par &quot;pierre principale de l’angle&quot; ou &quot;première de fondation&quot;.</p></li><li><p>Considérez si la langue cible a un terme pour la partie de la fondation d&apos;un bâtiment qui en est le principal soutien.</p></li><li><p>Une autre façon de traduire une &quot;pierre angulaire&quot; serait &quot;une pierre de fondation utilisée pour le coin d&apos;un bâtiment&quot;.</p></li><li><p>Il est important d’observer le fait que la &quot;pierre angulaire&quot; doit être une grande pierre taillée, utilisée en tant que fondation solide et sûre. Si les pierres ne sont pas utilisées pour la construction de bâtiments dans la langue cible, on pourrait employer un autre mot qui signifie &quot;grosse pierre&quot;, comme un rocher ou un bloc.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19118022",
+          "start_ref_usfm": "PSA 118:22",
+          "end_ref": "19118022",
+          "end_ref_usfm": "PSA 118:22"
+        },
+        {
+          "start_ref": "40021042",
+          "start_ref_usfm": "MAT 21:42",
+          "end_ref": "40021042",
+          "end_ref_usfm": "MAT 21:42"
+        },
+        {
+          "start_ref": "41012010",
+          "start_ref_usfm": "MRK 12:10",
+          "end_ref": "41012010",
+          "end_ref_usfm": "MRK 12:10"
+        },
+        {
+          "start_ref": "42020017",
+          "start_ref_usfm": "LUK 20:17",
+          "end_ref": "42020017",
+          "end_ref_usfm": "LUK 20:17"
+        },
+        {
+          "start_ref": "44004011",
+          "start_ref_usfm": "ACT 4:11",
+          "end_ref": "44004011",
+          "end_ref_usfm": "ACT 4:11"
+        },
+        {
+          "start_ref": "49002020",
+          "start_ref_usfm": "EPH 2:20",
+          "end_ref": "49002020",
+          "end_ref_usfm": "EPH 2:20"
+        },
+        {
+          "start_ref": "60002006",
+          "start_ref_usfm": "1PE 2:6",
+          "end_ref": "60002006",
+          "end_ref_usfm": "1PE 2:6"
+        },
+        {
+          "start_ref": "60002007",
+          "start_ref_usfm": "1PE 2:7",
+          "end_ref": "60002007",
+          "end_ref_usfm": "1PE 2:7"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

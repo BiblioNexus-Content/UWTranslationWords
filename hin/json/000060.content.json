@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 179737,
+    "reference_id": 25661,
+    "title": "अशुद्ध करना",
+    "media_type": "Text",
+    "index_reference": "अशुद्ध करना",
+    "language": "hin",
+    "content": "<h1>अशुद्ध करना, अशुद्ध किया, अपवित्र</h1><h2>परिभाषा:</h2><p>“अशुद्ध करना” अर्थात किसी पवित्र स्थान को या पवित्र वस्तु के नष्ट-भ्रष्ट करना कि वह आराधना में उपयोग के योग्य न रह जाए।</p><ul><li><p>“अपवित्र करने” में प्रायः उसके प्रति घोर अपमान की भावना होती है।</p></li><li><p>उदाहरणार्थ अन्यजाति राजाओं ने परमेश्वर के मन्दिर के पवित्र पात्रों को अपने राजमहल में भोज के समय मदिरा पान के लिए काम में लिए थे।</p></li><li><p>इस्राएल के शत्रु मृतकों की हड्डियों द्वारा परमेश्वर के मन्दिर को पवित्र करते थे।</p></li><li><p>इस शब्द का अनुवाद किया जा सकता है, “अपवित्र करने का कारण होना” या “अपवित्र करके अनादर करना” या “अपमानजनक अपवित्र” या “अशुद्धता का कारण उत्पन्न करना”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25447\" data-resourceType=\"UWTranslationWords\">वेदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25653\" data-resourceType=\"UWTranslationWords\">अशुद्ध</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25672\" data-resourceType=\"UWTranslationWords\">अनादर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26124\" data-resourceType=\"UWTranslationWords\">अशुद्ध करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26142\" data-resourceType=\"UWTranslationWords\">शुद्ध</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">मन्दिर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_unholy\" data-resourceType=\"UWTranslationWords\">अपवित्र</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Acts24:4-Acts24:6\">प्रे.का. 24:4–6</a></p></li><li><p><a href=\"https://ref.ly/Isa30:22\">यशायाह 30:22</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 074:7–8</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 089:38–40</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H2490, H2610, H2930, G953</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19089039",
+          "start_ref_usfm": "PSA 89:39",
+          "end_ref": "19089039",
+          "end_ref_usfm": "PSA 89:39"
+        },
+        {
+          "start_ref": "23030022",
+          "start_ref_usfm": "ISA 30:22",
+          "end_ref": "23030022",
+          "end_ref_usfm": "ISA 30:22"
+        },
+        {
+          "start_ref": "44024004",
+          "start_ref_usfm": "ACT 24:4",
+          "end_ref": "44024006",
+          "end_ref_usfm": "ACT 24:6"
+        },
+        {
+          "start_ref": "19074007",
+          "start_ref_usfm": "PSA 74:7",
+          "end_ref": "19074008",
+          "end_ref_usfm": "PSA 74:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25447,
+          "content_id": 179536,
+          "label": "वेदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25653,
+          "content_id": 179730,
+          "label": "अशुद्ध",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25672,
+          "content_id": 179746,
+          "label": "निरादर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 179909,
+          "label": "पवित्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26124,
+          "content_id": 180185,
+          "label": "अशुद्ध करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 180337,
+          "label": "मन्दिर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

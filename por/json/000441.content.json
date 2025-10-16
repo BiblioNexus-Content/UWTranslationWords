@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238093,
+    "reference_id": 25962,
+    "title": "Homens Instruídos",
+    "media_type": "Text",
+    "index_reference": "homens instruídos",
+    "language": "por",
+    "content": "<h1>homens instruídos, astrólogos</h1><h2>Definição:</h2><p>No relato de Mateus sobre o nascimento de Cristo, os homens &quot;instruídos&quot; ou &quot;educados&quot; eram os &quot;homens sábios&quot; que trouxeram presentes para Jesus em Belém algum tempo após seu nascimento. Eles podem ter sido &quot;astrólogos&quot;, pessoas que estudam as estrelas.</p><ul><li><p>Esses homens viajaram uma longa distância de um país ao leste de Israel. Não se sabe exatamente de onde vieram ou quem eram. Mas eram obviamente estudiosos que haviam estudado as estrelas.</p></li><li><p>Eles podem ter sido descendentes dos sábios que serviram aos reis babilônicos na época de Daniel e que foram treinados em muitas coisas, incluindo o estudo das estrelas e a interpretação de sonhos.</p></li><li><p>Tradicionalmente, diz-se que havia três homens sábios ou instruídos por causa dos três presentes que trouxeram para Jesus. No entanto, o texto bíblico não diz quantos eram.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babilônia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25530\" data-resourceType=\"UWTranslationWords\">Belém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25642\" data-resourceType=\"UWTranslationWords\">Daniel</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan2:27\">Daniel 2.27</a></p></li><li><p><a href=\"https://ref.ly/Dan5:7\">Daniel 5.7</a></p></li><li><p><a href=\"https://ref.ly/Matt2:1\">Mateus 2.1</a></p></li><li><p><a href=\"https://ref.ly/Matt2:7\">Mateus 2.7</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Mateus 2.16</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1505, G30970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27002027",
+          "start_ref_usfm": "DAN 2:27",
+          "end_ref": "27002027",
+          "end_ref_usfm": "DAN 2:27"
+        },
+        {
+          "start_ref": "27005007",
+          "start_ref_usfm": "DAN 5:7",
+          "end_ref": "27005007",
+          "end_ref_usfm": "DAN 5:7"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 237636,
+          "label": "Babilônia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25530,
+          "content_id": 237666,
+          "label": "Belém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25642,
+          "content_id": 237775,
+          "label": "Daniel",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

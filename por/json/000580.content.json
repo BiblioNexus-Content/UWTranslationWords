@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 238137,
+    "reference_id": 26007,
+    "title": "Manso",
+    "media_type": "Text",
+    "index_reference": "manso",
+    "language": "por",
+    "content": "<h1>manso, mansidão</h1><h2>Definição:</h2><p>O termo “manso” descreve uma pessoa que é gentil, submissa e disposta a sofrer injustiça. Mansidão é a capacidade de ser gentil mesmo quando a dureza ou a força podem parecer apropriadas.</p><ul><li><p>Mansidão é frequentemente associada à humildade.</p></li><li><p>Este termo também pode ser traduzido como “gentil” ou “de temperamento brando” ou “de temperamento doce”.</p></li><li><p>O termo “mansidão” pode ser traduzido como “gentileza” ou “humildade”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25860\" data-resourceType=\"UWTranslationWords\">humilde</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Pet3:15-1Pet3:17\">1 Pedro 3.15–17</a></p></li><li><p><a href=\"https://ref.ly/2Cor10:1-2Cor10:2\">2 Coríntios 10.1–2</a></p></li><li><p><a href=\"https://ref.ly/2Tim2:25\">2 Timóteo 2.25</a></p></li><li><p><a href=\"https://ref.ly/Matt5:5\">Mateus 5.5</a></p></li><li><p><a href=\"https://ref.ly/Matt11:29\">Mateus 11.29</a></p></li><li><p><a href=\"https://ref.ly/Ps37:11\">Salmos 37.11</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6035, H6037, G42350, G42360, G42390, G42400</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "19037011",
+          "start_ref_usfm": "PSA 37:11",
+          "end_ref": "19037011",
+          "end_ref_usfm": "PSA 37:11"
+        },
+        {
+          "start_ref": "40005005",
+          "start_ref_usfm": "MAT 5:5",
+          "end_ref": "40005005",
+          "end_ref_usfm": "MAT 5:5"
+        },
+        {
+          "start_ref": "40011029",
+          "start_ref_usfm": "MAT 11:29",
+          "end_ref": "40011029",
+          "end_ref_usfm": "MAT 11:29"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010001",
+          "end_ref_usfm": "2CO 10:1"
+        },
+        {
+          "start_ref": "55002025",
+          "start_ref_usfm": "2TI 2:25",
+          "end_ref": "55002025",
+          "end_ref_usfm": "2TI 2:25"
+        },
+        {
+          "start_ref": "59001010",
+          "start_ref_usfm": "JAS 1:10",
+          "end_ref": "59001010",
+          "end_ref_usfm": "JAS 1:10"
+        },
+        {
+          "start_ref": "59003013",
+          "start_ref_usfm": "JAS 3:13",
+          "end_ref": "59003013",
+          "end_ref_usfm": "JAS 3:13"
+        },
+        {
+          "start_ref": "60003015",
+          "start_ref_usfm": "1PE 3:15",
+          "end_ref": "60003017",
+          "end_ref_usfm": "1PE 3:17"
+        },
+        {
+          "start_ref": "47010001",
+          "start_ref_usfm": "2CO 10:1",
+          "end_ref": "47010002",
+          "end_ref_usfm": "2CO 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25860,
+          "content_id": 237993,
+          "label": "Humilde",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "content_id": 467449,
+    "reference_id": 26341,
+    "title": "Déchets",
+    "media_type": "Text",
+    "index_reference": "déchets",
+    "language": "fra",
+    "content": "<h1>déchets, déchets, gaspillé, gaspillage, terres à l&apos;abandon, terres désolées</h1><h2>Définition :</h2><p>Perdre ou gaspiller quelque chose signifie le jeter négligemment ou l&apos;utiliser imprudemment.</p><ul><li><p>Quelque chose qui est une &quot;terre désolée&quot; ou &quot;à l’abandon&quot; se réfère à une terre ou une ville qui a été détruite pour que plus rien n&apos;y vive.</p></li><li><p>Le terme &quot;gaspillage&quot; est une expression qui signifie devenir de plus en plus malade ou ruiné* Une personne qui dépérit devient généralement très mince en raison de sa maladie ou du manque de nourriture.</p></li><li><p>«Dévaster» pour une ville ou un terrain signifie le détruire.</p></li><li><p>Un autre mot pour un &quot;désert&quot; pourrait être &quot;terre désolée&quot; ou &quot;terre abandonnée &quot;* Mais la terre désolée suppose également que des gens vivaient là-bas et la terre avait l&apos;habitude d’avoir des arbres et des plantes qui produisent de la nourriture.</p></li></ul><h2>Références bibliques:</h2><ul><li><p>Ezéchiel 06: 6–7</p></li><li><p>Lévitique 26: 37–39</p></li><li><p>Matthieu 26: 6–9</p></li><li><p>Apocalypse 18: 15–17</p></li><li><p>Zacharie 07: 13–14</p></li><li><p>Données Word:</p></li><li><p>Forte: H535, H1086, H1104, H1110, H1197, H1326, H2100, H2490, H2522,</p></li><li><p>H2717, H2720, H2721, H2723, H3615, H3765, H3856, H4087, H4127, H4198,</p></li><li><p>H4592, H4743, H4875, H5307, H5327, H7334, H7582, H7703, H7722, H7736,</p></li><li><p>H7843, H8047, H8074, H8077, H8414, H8437, G684, G1287, G2049, G2673, G4199</p></li><li><p>1251</p></li><li><p>Autre</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "03026039",
+          "start_ref_usfm": "LEV 26:39",
+          "end_ref": "03026039",
+          "end_ref_usfm": "LEV 26:39"
+        },
+        {
+          "start_ref": "18015021",
+          "start_ref_usfm": "JOB 15:21",
+          "end_ref": "18015021",
+          "end_ref_usfm": "JOB 15:21"
+        },
+        {
+          "start_ref": "26006006",
+          "start_ref_usfm": "EZK 6:6",
+          "end_ref": "26006006",
+          "end_ref_usfm": "EZK 6:6"
+        },
+        {
+          "start_ref": "40026008",
+          "start_ref_usfm": "MAT 26:8",
+          "end_ref": "40026008",
+          "end_ref_usfm": "MAT 26:8"
+        },
+        {
+          "start_ref": "41014004",
+          "start_ref_usfm": "MRK 14:4",
+          "end_ref": "41014004",
+          "end_ref_usfm": "MRK 14:4"
+        },
+        {
+          "start_ref": "42013007",
+          "start_ref_usfm": "LUK 13:7",
+          "end_ref": "42013007",
+          "end_ref_usfm": "LUK 13:7"
+        },
+        {
+          "start_ref": "42015013",
+          "start_ref_usfm": "LUK 15:13",
+          "end_ref": "42015013",
+          "end_ref_usfm": "LUK 15:13"
+        },
+        {
+          "start_ref": "42016001",
+          "start_ref_usfm": "LUK 16:1",
+          "end_ref": "42016001",
+          "end_ref_usfm": "LUK 16:1"
+        },
+        {
+          "start_ref": "66018015",
+          "start_ref_usfm": "REV 18:15",
+          "end_ref": "66018017",
+          "end_ref_usfm": "REV 18:17"
+        },
+        {
+          "start_ref": "38007013",
+          "start_ref_usfm": "ZEC 7:13",
+          "end_ref": "38007014",
+          "end_ref_usfm": "ZEC 7:14"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

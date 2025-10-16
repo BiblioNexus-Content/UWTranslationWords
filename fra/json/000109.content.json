@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466688,
+    "reference_id": 25510,
+    "title": "Basan",
+    "media_type": "Text",
+    "index_reference": "basan",
+    "language": "fra",
+    "content": "<h1>Basan</h1><h2>Définition :</h2><p>Basan était une région de l&apos;Est de la mer de Galilée* Il couvre une superficie qui fait maintenant partie de la Syrie et des hauteurs du Golan.</p><ul><li><p>Une ville de refuge de l&apos;Ancien Testament appelée &quot;Golan&quot; était située dans la région de Basan.</p></li><li><p>Basan était une région très fertile connue pour ses chênes et les animaux de paturage.</p></li><li><p>Genèses 14 enregistrements que Basan était le site d&apos;une guerre entre plusieurs rois et leurs nations.</p></li><li><p>Pendant les pérégrinations d&apos;Israël dans le désert après leur fuite d&apos;Egypte, ils ont pris possession d&apos;une partie de la région de Basan.</p></li><li><p>Des années plus tard, le roi Salomon a obtenu des fournitures de cette région.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/egypt.md), (../other/oak.md), (../names/seaofgalilee.md), (../names/syria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "06009010",
+          "start_ref_usfm": "JOS 9:10",
+          "end_ref": "06009010",
+          "end_ref_usfm": "JOS 9:10"
+        },
+        {
+          "start_ref": "11004013",
+          "start_ref_usfm": "1KI 4:13",
+          "end_ref": "11004013",
+          "end_ref_usfm": "1KI 4:13"
+        },
+        {
+          "start_ref": "16009022",
+          "start_ref_usfm": "NEH 9:22",
+          "end_ref": "16009022",
+          "end_ref_usfm": "NEH 9:22"
+        },
+        {
+          "start_ref": "30004001",
+          "start_ref_usfm": "AMO 4:1",
+          "end_ref": "30004001",
+          "end_ref_usfm": "AMO 4:1"
+        },
+        {
+          "start_ref": "24022020",
+          "start_ref_usfm": "JER 22:20",
+          "end_ref": "24022021",
+          "end_ref_usfm": "JER 22:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26057,
+          "content_id": 467193,
+          "label": "Chêne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 467326,
+          "label": "Mer de Galilée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26277,
+          "content_id": 467391,
+          "label": "Syrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

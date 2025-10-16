@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 27047,
+    "reference_id": 26189,
+    "title": "Sadducee",
+    "media_type": "Text",
+    "index_reference": "sadducee",
+    "language": "eng",
+    "content": "<h1>Sadducee</h1><h2>Definition:</h2><p>The Sadducees were a political group of Jewish priests during the time of Jesus Christ. They supported Roman rule and did not believe in the resurrection.</p><ul><li><p>Many Sadducees were wealthy, upper-class Jews who held powerful leadership positions such as chief priest and high priest.</p></li><li><p>The duties of the Sadducees included taking care of the temple complex and priestly tasks such as offering sacrifices.</p></li><li><p>The Sadducees and the Pharisees strongly influenced the Roman leaders to crucify Jesus.</p></li><li><p>Jesus spoke against these two religious groups because of their selfishness and hypocrisy.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">chief priests</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25616\" data-resourceType=\"UWTranslationWords\">council</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">high priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25861\" data-resourceType=\"UWTranslationWords\">hypocrite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25903\" data-resourceType=\"UWTranslationWords\">Jewish leaders</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26095\" data-resourceType=\"UWTranslationWords\">Pharisee</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts4:3\">Acts 4:3</a></p></li><li><p><a href=\"https://ref.ly/Acts5:17-Acts5:18\">Acts 5:17–18</a></p></li><li><p><a href=\"https://ref.ly/Luke20:27\">Luke 20:27</a></p></li><li><p><a href=\"https://ref.ly/Matt3:7\">Matthew 3:7</a></p></li><li><p><a href=\"https://ref.ly/Matt16:1\">Matthew 16:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G45230</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40003007",
+          "start_ref_usfm": "MAT 3:7",
+          "end_ref": "40003007",
+          "end_ref_usfm": "MAT 3:7"
+        },
+        {
+          "start_ref": "40016001",
+          "start_ref_usfm": "MAT 16:1",
+          "end_ref": "40016001",
+          "end_ref_usfm": "MAT 16:1"
+        },
+        {
+          "start_ref": "40016006",
+          "start_ref_usfm": "MAT 16:6",
+          "end_ref": "40016006",
+          "end_ref_usfm": "MAT 16:6"
+        },
+        {
+          "start_ref": "40016011",
+          "start_ref_usfm": "MAT 16:11",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40016012",
+          "start_ref_usfm": "MAT 16:12",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "40022023",
+          "start_ref_usfm": "MAT 22:23",
+          "end_ref": "40022023",
+          "end_ref_usfm": "MAT 22:23"
+        },
+        {
+          "start_ref": "40022034",
+          "start_ref_usfm": "MAT 22:34",
+          "end_ref": "40022034",
+          "end_ref_usfm": "MAT 22:34"
+        },
+        {
+          "start_ref": "41012018",
+          "start_ref_usfm": "MRK 12:18",
+          "end_ref": "41012018",
+          "end_ref_usfm": "MRK 12:18"
+        },
+        {
+          "start_ref": "42020027",
+          "start_ref_usfm": "LUK 20:27",
+          "end_ref": "42020027",
+          "end_ref_usfm": "LUK 20:27"
+        },
+        {
+          "start_ref": "44004001",
+          "start_ref_usfm": "ACT 4:1",
+          "end_ref": "44004001",
+          "end_ref_usfm": "ACT 4:1"
+        },
+        {
+          "start_ref": "44004003",
+          "start_ref_usfm": "ACT 4:3",
+          "end_ref": "44004003",
+          "end_ref_usfm": "ACT 4:3"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005017",
+          "end_ref_usfm": "ACT 5:17"
+        },
+        {
+          "start_ref": "44023006",
+          "start_ref_usfm": "ACT 23:6",
+          "end_ref": "44023006",
+          "end_ref_usfm": "ACT 23:6"
+        },
+        {
+          "start_ref": "44023007",
+          "start_ref_usfm": "ACT 23:7",
+          "end_ref": "44023007",
+          "end_ref_usfm": "ACT 23:7"
+        },
+        {
+          "start_ref": "44023008",
+          "start_ref_usfm": "ACT 23:8",
+          "end_ref": "44023008",
+          "end_ref_usfm": "ACT 23:8"
+        },
+        {
+          "start_ref": "44005017",
+          "start_ref_usfm": "ACT 5:17",
+          "end_ref": "44005018",
+          "end_ref_usfm": "ACT 5:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 26474,
+          "label": "Council",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 26694,
+          "label": "High Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25861,
+          "content_id": 26719,
+          "label": "Hypocrite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25903,
+          "content_id": 26761,
+          "label": "Jewish Leaders",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 26953,
+          "label": "Pharisee",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

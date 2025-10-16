@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466768,
+    "reference_id": 25600,
+    "title": "Commettre",
+    "media_type": "Text",
+    "index_reference": "commettre",
+    "language": "fra",
+    "content": "<h1>commettre ,commis ,engagement</h1><h2>Définition :</h2><p>Le terme «engagement» fait référence à une décision ou une promesse de faire quelque chose.</p><ul><li><p>Une personne qui promet de faire quelque chose est aussi décrit comme étant «engagé» à le faire.</p></li><li><p>Le mot &quot;commettre&quot; quelqu&apos;un à quelque chose signifie assigner cette personne à une tâche* Par exemple, dans 2 Corinthiens Paul dit que Dieu nous a donné» le ministère d&apos;aider les gens à être réconciliés avec lui.</p></li><li><p>Les termes «commettre» se réfèrent aussi souvent à faire une certaine mauvaise action comme &quot;commettre un péché» ou «commettre l&apos;adultère» ou «commettre un assassinat*&quot;</p></li><li><p>L&apos;expression «engagé à une tâche&quot; pourrait aussi être traduite par &quot;lui a confier la tâche»*&quot;</p></li><li><p>Le terme «engagement» pourrait être traduit par «la tâche qui a été donné» ou «la promesse qui a été faite*&quot;</p></li></ul><p>(Voir aussi : (../kt/adultery.md), (../kt/faithful.md), (../kt/promise.md), (../kt/sin.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13028007",
+          "start_ref_usfm": "1CH 28:7",
+          "end_ref": "13028007",
+          "end_ref_usfm": "1CH 28:7"
+        },
+        {
+          "start_ref": "19058002",
+          "start_ref_usfm": "PSA 58:2",
+          "end_ref": "19058002",
+          "end_ref_usfm": "PSA 58:2"
+        },
+        {
+          "start_ref": "40013041",
+          "start_ref_usfm": "MAT 13:41",
+          "end_ref": "40013041",
+          "end_ref_usfm": "MAT 13:41"
+        },
+        {
+          "start_ref": "42012048",
+          "start_ref_usfm": "LUK 12:48",
+          "end_ref": "42012048",
+          "end_ref_usfm": "LUK 12:48"
+        },
+        {
+          "start_ref": "42023046",
+          "start_ref_usfm": "LUK 23:46",
+          "end_ref": "42023046",
+          "end_ref_usfm": "LUK 23:46"
+        },
+        {
+          "start_ref": "44014023",
+          "start_ref_usfm": "ACT 14:23",
+          "end_ref": "44014023",
+          "end_ref_usfm": "ACT 14:23"
+        },
+        {
+          "start_ref": "44015040",
+          "start_ref_usfm": "ACT 15:40",
+          "end_ref": "44015040",
+          "end_ref_usfm": "ACT 15:40"
+        },
+        {
+          "start_ref": "44020032",
+          "start_ref_usfm": "ACT 20:32",
+          "end_ref": "44020032",
+          "end_ref_usfm": "ACT 20:32"
+        },
+        {
+          "start_ref": "45001027",
+          "start_ref_usfm": "ROM 1:27",
+          "end_ref": "45001027",
+          "end_ref_usfm": "ROM 1:27"
+        },
+        {
+          "start_ref": "46005003",
+          "start_ref_usfm": "1CO 5:3",
+          "end_ref": "46005003",
+          "end_ref_usfm": "1CO 5:3"
+        },
+        {
+          "start_ref": "46005005",
+          "start_ref_usfm": "1CO 5:5",
+          "end_ref": "46005005",
+          "end_ref_usfm": "1CO 5:5"
+        },
+        {
+          "start_ref": "54001020",
+          "start_ref_usfm": "1TI 1:20",
+          "end_ref": "54001020",
+          "end_ref_usfm": "1TI 1:20"
+        },
+        {
+          "start_ref": "60002023",
+          "start_ref_usfm": "1PE 2:23",
+          "end_ref": "60002023",
+          "end_ref_usfm": "1PE 2:23"
+        },
+        {
+          "start_ref": "60002021",
+          "start_ref_usfm": "1PE 2:21",
+          "end_ref": "60002023",
+          "end_ref_usfm": "1PE 2:23"
+        },
+        {
+          "start_ref": "24002012",
+          "start_ref_usfm": "JER 2:12",
+          "end_ref": "24002013",
+          "end_ref_usfm": "JER 2:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25433,
+          "content_id": 466615,
+          "label": "L’adultère",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 467355,
+          "label": "Péché",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

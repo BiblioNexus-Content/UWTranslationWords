@@ -1,0 +1,47 @@
+[
+  {
+    "content_id": 466926,
+    "reference_id": 25777,
+    "title": "Géant",
+    "media_type": "Text",
+    "index_reference": "géant",
+    "language": "fra",
+    "content": "<h1>géant</h1><h2>Définition :</h2><p>&quot;Un géant se réfère généralement à une personne qui est exceptionnellement élevée en taille et en force.</p><ul><li><p>Goliath, un soldat Philistin que David a combattu, était appelé un géant, parce qu&apos;il était un homme très grand et fort.</p></li><li><p>Les espions israélites qui ont exploré le pays de Canaan ont dit que les gens qui y vivaient sont comme des géants.</p></li></ul><p>(Voir aussi : (../names/canaan.md), (../names/goliath.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01006004",
+          "start_ref_usfm": "GEN 6:4",
+          "end_ref": "01006004",
+          "end_ref_usfm": "GEN 6:4"
+        },
+        {
+          "start_ref": "04013032",
+          "start_ref_usfm": "NUM 13:32",
+          "end_ref": "04013033",
+          "end_ref_usfm": "NUM 13:33"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25793,
+          "content_id": 466942,
+          "label": "Goliath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

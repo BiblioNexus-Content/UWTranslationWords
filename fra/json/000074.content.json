@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 466659,
+    "reference_id": 25480,
+    "title": "Asaph",
+    "media_type": "Text",
+    "index_reference": "asaph",
+    "language": "fra",
+    "content": "<h1>Asaph</h1><h2>Définition :</h2><p>Asaph était un sacrificateur Lévite et un musicien talentueux qui fit des compositions musicales pour les Psaumes du roi David* Il écrit aussi ses propres psaumes.</p><ul><li><p>Asaph était nommé par le Roi David pour être l&apos;un des trois musiciens qui avaient la responsabilité de fournir les chants nécessaires à l&apos;adoration dans le temple* Certains de ses chants étaient aussi des prophéties.</p></li><li><p>Asaph forma ses fils qui suivirent ses traces, jouant des instruments musicaux et prophétisant dans le temple.</p></li><li><p>Parmi les instruments musicaux utilisés*Il y avait le luth, la harpe, la trompête et les cymbales.</p></li><li><p>Asaph serait l&apos;auteur des Psaumes 50, 73, 83* C&apos;est probable que ces psaumes eussent été écrits par les membres de sa famille.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../other/descendant.md), (../other/harp.md), (../other/lute.md), (../kt/prophet.md), (../kt/psalm.md), (../other/trumpet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035015",
+          "start_ref_usfm": "2CH 35:15",
+          "end_ref": "14035015",
+          "end_ref_usfm": "2CH 35:15"
+        },
+        {
+          "start_ref": "15002041",
+          "start_ref_usfm": "EZR 2:41",
+          "end_ref": "15002041",
+          "end_ref_usfm": "EZR 2:41"
+        },
+        {
+          "start_ref": "15003010",
+          "start_ref_usfm": "EZR 3:10",
+          "end_ref": "15003010",
+          "end_ref_usfm": "EZR 3:10"
+        },
+        {
+          "start_ref": "16002008",
+          "start_ref_usfm": "NEH 2:8",
+          "end_ref": "16002008",
+          "end_ref_usfm": "NEH 2:8"
+        },
+        {
+          "start_ref": "16007044",
+          "start_ref_usfm": "NEH 7:44",
+          "end_ref": "16007044",
+          "end_ref_usfm": "NEH 7:44"
+        },
+        {
+          "start_ref": "16011017",
+          "start_ref_usfm": "NEH 11:17",
+          "end_ref": "16011017",
+          "end_ref_usfm": "NEH 11:17"
+        },
+        {
+          "start_ref": "16011022",
+          "start_ref_usfm": "NEH 11:22",
+          "end_ref": "16011022",
+          "end_ref_usfm": "NEH 11:22"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012046",
+          "start_ref_usfm": "NEH 12:46",
+          "end_ref": "16012046",
+          "end_ref_usfm": "NEH 12:46"
+        },
+        {
+          "start_ref": "19050001",
+          "start_ref_usfm": "PSA 50:1",
+          "end_ref": "19050002",
+          "end_ref_usfm": "PSA 50:2"
+        },
+        {
+          "start_ref": "13006039",
+          "start_ref_usfm": "1CH 6:39",
+          "end_ref": "13006043",
+          "end_ref_usfm": "1CH 6:43"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25660,
+          "content_id": 466822,
+          "label": "Descendant",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25822,
+          "content_id": 466970,
+          "label": "Harpe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25983,
+          "content_id": 467123,
+          "label": "Luth",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26140,
+          "content_id": 467261,
+          "label": "Psaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26321,
+          "content_id": 467434,
+          "label": "Trompette",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

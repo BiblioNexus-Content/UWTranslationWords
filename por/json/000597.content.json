@@ -1,0 +1,35 @@
+[
+  {
+    "content_id": 238141,
+    "reference_id": 26011,
+    "title": "Mênfis",
+    "media_type": "Text",
+    "index_reference": "mênfis",
+    "language": "por",
+    "content": "<h1>Mênfis</h1><h2>Definição:</h2><p>Mênfis foi uma antiga cidade capital no Egito, ao longo do Rio Nilo.</p><ul><li><p>Mênfis estava localizada no Baixo Egito, ao sul do delta do Rio Nilo, onde o solo era muito fértil e as colheitas eram abundantes.</p></li><li><p>Seu solo fértil e localização importante, entre o Alto e o Baixo Egito, fizeram de Mênfis uma cidade importante para negócios e comércio.</p></li></ul><p>(Sugestões de tradução: Traduzindo Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26053\" data-resourceType=\"UWTranslationWords\">Rio Nilo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Hos9:6\">Oséias 9.6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4644, H5297</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "28009006",
+          "start_ref_usfm": "HOS 9:6",
+          "end_ref": "28009006",
+          "end_ref_usfm": "HOS 9:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 26053,
+          "content_id": 238183,
+          "label": "Rio Nilo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

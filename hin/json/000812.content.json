@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 180048,
+    "reference_id": 25983,
+    "title": "वीणा",
+    "media_type": "Text",
+    "index_reference": "वीणा",
+    "language": "hin",
+    "content": "<h1>वीणा, तार वाला बाजा, सारंगियाँ</h1><h2>परिभाषा:</h2><p>“वीणा” और “तारवाला बाजा” ये वाद्य-यंत्र परमेश्वर की आराधना में इस्राएल द्वारा काम में लिए जाते थे।</p><ul><li><p>वाद्य एक छोटे वीणा की तरह दिखती है, जिसमें एक चौखटे में तार लगा होता था।</p></li><li><p>जिसे तारवाला बाजा कहा गया है वह काफी कुछ आज के गिटार जैसा होता था एक खोखला डब्बा और लम्बी डंडी जिस पर तार कसे होते थे।</p></li><li><p>वाद्यों को बजाने के लिए एक हाथ से तारों को दबाया जाता था और दूसरे हाथ से उन तारों को छेड़ा जाता था।</p></li><li><p>वीणा, तारवाला बाजा और सारंगी सबको तार छेड़ कर बजाया जाता था।</p></li><li><p>इनके तारों की संख्या अलग-अलग थी परन्तु पुराने नियम में स्पष्ट उल्लेख किया गया है कि दस तार वाले बाजे।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25822\" data-resourceType=\"UWTranslationWords\">वीणा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 10:11–12</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 10:5–6</a></p></li><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 05:11–12</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3658, H5035, H5443</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004021",
+          "start_ref_usfm": "GEN 4:21",
+          "end_ref": "01004021",
+          "end_ref_usfm": "GEN 4:21"
+        },
+        {
+          "start_ref": "01031027",
+          "start_ref_usfm": "GEN 31:27",
+          "end_ref": "01031027",
+          "end_ref_usfm": "GEN 31:27"
+        },
+        {
+          "start_ref": "11010011",
+          "start_ref_usfm": "1KI 10:11",
+          "end_ref": "11010012",
+          "end_ref_usfm": "1KI 10:12"
+        },
+        {
+          "start_ref": "09010005",
+          "start_ref_usfm": "1SA 10:5",
+          "end_ref": "09010006",
+          "end_ref_usfm": "1SA 10:6"
+        },
+        {
+          "start_ref": "14005011",
+          "start_ref_usfm": "2CH 5:11",
+          "end_ref": "14005012",
+          "end_ref_usfm": "2CH 5:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25822,
+          "content_id": 179892,
+          "label": "वीणा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

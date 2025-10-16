@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180049,
+    "reference_id": 25984,
+    "title": "लुस्त्रा",
+    "media_type": "Text",
+    "index_reference": "लुस्त्रा",
+    "language": "hin",
+    "content": "<h1>लुस्त्रा</h1><h2>तथ्य:</h2><p>लुस्त्रा प्राचीन एशिया माइनर में एक नगर था जहां पौलुस ने अपने प्रचार यात्रा के दौरान दौरा किया था। वह लुकाउनिया क्षेत्र में था जो आज के तुर्किस्तान का भाग है।</p><ul><li><p>पौलुस और उसके साथी इकुनियुम में यहूदियों की धमकी के कारण दिरबे और लुस्त्रा चले गए थे।</p></li><li><p>लुस्त्रा में पौलुस की भेंट तीमुथियुस से हुई थी, तीमुथियुस पौलुस का साथी प्रचारक और कलीसिया का संस्थापक हुआ।</p></li><li><p>लुस्त्रा में एक लंगड़े मनुष्य को स्वास्थ्य प्रदान करने के कारण वहां के लोगों ने पौलुस और बरनबास की पूजा करने का प्रबन्ध किया वे उन्हें देवता समझने लगे थे परन्तु पौलुस ने उन्हें झिड़क कर ऐसा अनर्थ करने से रोका।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25716\" data-resourceType=\"UWTranslationWords\">सुसमाचार प्रचारक</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25862\" data-resourceType=\"UWTranslationWords\">इकुनियुम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26304\" data-resourceType=\"UWTranslationWords\">तीमुथियुस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमु. 3:10–13</a></p></li><li><p><a href=\"https://ref.ly/Acts14:6\">प्रे.का. 14:6</a></p></li><li><p><a href=\"https://ref.ly/Acts14:8\">प्रे.का. 14:8</a></p></li><li><p><a href=\"https://ref.ly/Acts14:21-Acts14:22\">प्रे.का. 14:21–22</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G3082</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44014006",
+          "start_ref_usfm": "ACT 14:6",
+          "end_ref": "44014006",
+          "end_ref_usfm": "ACT 14:6"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014008",
+          "end_ref_usfm": "ACT 14:8"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
+        },
+        {
+          "start_ref": "44016002",
+          "start_ref_usfm": "ACT 16:2",
+          "end_ref": "44016002",
+          "end_ref_usfm": "ACT 16:2"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014022",
+          "end_ref_usfm": "ACT 14:22"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25716,
+          "content_id": 179789,
+          "label": "सुसमाचार प्रचारक",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25862,
+          "content_id": 179930,
+          "label": "इकुनियुम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 180357,
+          "label": "तीमुथियुस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

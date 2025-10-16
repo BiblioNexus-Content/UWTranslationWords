@@ -1,0 +1,28 @@
+[
+  {
+    "content_id": 182404,
+    "reference_id": 25514,
+    "title": "गवाही देना_साक्षी होना",
+    "media_type": "Text",
+    "index_reference": "गवाही देना_साक्षी होना",
+    "language": "hin",
+    "content": "<h1>सहना, गवाही देना, झूठी गवाही देना, गवाही दी, गवाही दी गई</h1><h2>तथ्य:</h2><p>इस अर्थ में उपयोग, वाक्यांश “गवाही देना” का अर्थ है किसी चीज़ के बारे में साक्षी देना या किसी चीज़ के बारे में बयान देना।</p><ul><li><p>अभिव्यक्ति “गवाही देना” का अर्थ है “साक्षी होना” या “जो देखा या अनुभव किया है उसका बयान करना है।”</p></li><li><p>अभिव्यक्ति “झूठी गवाही देना” का अर्थ है “झूठी साक्षी देना” या “जो देखा या अनुभव किया है, उसका झूठा बयान देना।”</p></li><li><p>संदर्भ के आधार पर, वाक्यांश “गवाही देना” का अनुवाद “साक्षी होना” या “बयान देना” के रूप में किया जा सकता है।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"26171\" data-resourceType=\"UWTranslationWords\">बयान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26293\" data-resourceType=\"UWTranslationWords\">गवाही</span>)</p><h2>बाइबिल संदर्भ:</h2><h2>शब्द विवरण:</h2><ul><li><p>स्ट्रॉन्ग का:</p></li></ul>",
+    "associations": {
+      "passage": [],
+      "resource": [
+        {
+          "reference_id": 26171,
+          "content_id": 180229,
+          "label": "समाचार",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26293,
+          "content_id": 180346,
+          "label": "गवाही",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

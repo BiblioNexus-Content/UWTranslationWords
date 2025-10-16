@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 238245,
+    "reference_id": 26115,
+    "title": "Potifar",
+    "media_type": "Text",
+    "index_reference": "potifar",
+    "language": "por",
+    "content": "<h1>Potifar</h1><h2>Fatos:</h2><p>Potifar foi um oficial importante para o faraó do Egito durante o tempo em que José foi vendido como escravo para alguns ismaelitas.</p><ul><li><p>Potifar comprou José dos ismaelitas e o nomeou para ser responsável por sua casa.</p></li><li><p>Quando José foi falsamente acusado de fazer algo errado, Potifar colocou José na prisão.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25919\" data-resourceType=\"UWTranslationWords\">José (AT)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">Faraó</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Gen37:34-Gen37:36\">Gênesis 37.34–36</a></p></li><li><p><a href=\"https://ref.ly/Gen39:2\">Gênesis 39.2</a></p></li><li><p><a href=\"https://ref.ly/Gen39:14\">Gênesis 39.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H6318</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037036",
+          "start_ref_usfm": "GEN 37:36",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "01039001",
+          "start_ref_usfm": "GEN 39:1",
+          "end_ref": "01039001",
+          "end_ref_usfm": "GEN 39:1"
+        },
+        {
+          "start_ref": "01039002",
+          "start_ref_usfm": "GEN 39:2",
+          "end_ref": "01039002",
+          "end_ref_usfm": "GEN 39:2"
+        },
+        {
+          "start_ref": "01039014",
+          "start_ref_usfm": "GEN 39:14",
+          "end_ref": "01039014",
+          "end_ref_usfm": "GEN 39:14"
+        },
+        {
+          "start_ref": "01037034",
+          "start_ref_usfm": "GEN 37:34",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 25919,
+          "content_id": 238052,
+          "label": "José AT",
+          "language": "por"
+        },
+        {
+          "reference_id": 26094,
+          "content_id": 238224,
+          "label": "Faraó",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

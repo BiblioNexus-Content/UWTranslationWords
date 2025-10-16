@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467414,
+    "reference_id": 26300,
+    "title": "Battre",
+    "media_type": "Text",
+    "index_reference": "battre",
+    "language": "fra",
+    "content": "<h1>Battre, battage</h1><h2>Définition :</h2><p>&quot;Les termes «battre» et «battage» font référence au processus de séparation du grain de blé du reste de la plante.</p><ul><li><p>Les plantes étaient d&apos;abord battus (ou piétinés par des bœufs) pour séparer la paille du grain et de l&apos;ivraie* Ensuite, le grain et la paille étaient jetés en l&apos;air, ce qui permettait au vent de souffler la balle loin tandis que le grain tombait vers le bas sur l&apos;aire de battage.</p></li><li><p>Une «aire de battage&quot; est une grande surface plane et solide, qui est utilisée pour battre le grain.</p></li><li><p>Dans les temps bibliques, une aire de battage était un grand rocher plat ou une zone de terre battue, qui donnait une surface dure pour écraser les tiges de céréales et enlever le grain.</p></li><li><p>Un «panier de battage&quot; ou &quot;roue de battage&quot; était utilisé pour écraser le grain et aider à le séparer de l&apos;ivraie.</p></li><li><p>Un «traîneau de battage» était utilisé pour séparer le grain* Il était fait de planches de bois qui avaient des pointes métalliques au bout.</p></li></ul><p>(Voir aussi : (../other/chaff.md), (../other/grain.md), (../other/winnow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01050010",
+          "start_ref_usfm": "GEN 50:10",
+          "end_ref": "01050010",
+          "end_ref_usfm": "GEN 50:10"
+        },
+        {
+          "start_ref": "01050011",
+          "start_ref_usfm": "GEN 50:11",
+          "end_ref": "01050011",
+          "end_ref_usfm": "GEN 50:11"
+        },
+        {
+          "start_ref": "08003002",
+          "start_ref_usfm": "RUT 3:2",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        },
+        {
+          "start_ref": "08003003",
+          "start_ref_usfm": "RUT 3:3",
+          "end_ref": "08003003",
+          "end_ref_usfm": "RUT 3:3"
+        },
+        {
+          "start_ref": "08003006",
+          "start_ref_usfm": "RUT 3:6",
+          "end_ref": "08003006",
+          "end_ref_usfm": "RUT 3:6"
+        },
+        {
+          "start_ref": "08003014",
+          "start_ref_usfm": "RUT 3:14",
+          "end_ref": "08003014",
+          "end_ref_usfm": "RUT 3:14"
+        },
+        {
+          "start_ref": "10024016",
+          "start_ref_usfm": "2SA 24:16",
+          "end_ref": "10024016",
+          "end_ref_usfm": "2SA 24:16"
+        },
+        {
+          "start_ref": "12013007",
+          "start_ref_usfm": "2KI 13:7",
+          "end_ref": "12013007",
+          "end_ref_usfm": "2KI 13:7"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        },
+        {
+          "start_ref": "46009009",
+          "start_ref_usfm": "1CO 9:9",
+          "end_ref": "46009009",
+          "end_ref_usfm": "1CO 9:9"
+        },
+        {
+          "start_ref": "46009010",
+          "start_ref_usfm": "1CO 9:10",
+          "end_ref": "46009010",
+          "end_ref_usfm": "1CO 9:10"
+        },
+        {
+          "start_ref": "54005018",
+          "start_ref_usfm": "1TI 5:18",
+          "end_ref": "54005018",
+          "end_ref_usfm": "1TI 5:18"
+        },
+        {
+          "start_ref": "14003001",
+          "start_ref_usfm": "2CH 3:1",
+          "end_ref": "14003003",
+          "end_ref_usfm": "2CH 3:3"
+        },
+        {
+          "start_ref": "08003001",
+          "start_ref_usfm": "RUT 3:1",
+          "end_ref": "08003002",
+          "end_ref_usfm": "RUT 3:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25581,
+          "content_id": 466749,
+          "label": "Balle",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 466950,
+          "label": "Grain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 467457,
+          "label": "Vanner",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

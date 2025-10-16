@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467134,
+    "reference_id": 25997,
+    "title": "Marthe",
+    "media_type": "Text",
+    "index_reference": "marthe",
+    "language": "fra",
+    "content": "<h1>Marthe</h1><h2>Définition :</h2><p>&quot;Marthe était une femme de Béthanie qui suivait Jésus.</p><ul><li><p>Marthe avait une soeur nommée Marie et un frère nommé Lazare, qui a également suivi Jésus.</p></li><li><p>Une fois Marthe était distraite par la préparation des repas tandis que sa sœur était assise et écoutait Jésus enseigner.</p></li><li><p>Lorsque Lazare mourut, Marthe dit à Jésus qu&apos;elle croyait que Jésus était le Christ, le Fils de Dieu.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/lazarus.md), (../names/marysisterofmartha.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42010038",
+          "start_ref_usfm": "LUK 10:38",
+          "end_ref": "42010038",
+          "end_ref_usfm": "LUK 10:38"
+        },
+        {
+          "start_ref": "42010039",
+          "start_ref_usfm": "LUK 10:39",
+          "end_ref": "42010039",
+          "end_ref_usfm": "LUK 10:39"
+        },
+        {
+          "start_ref": "42010040",
+          "start_ref_usfm": "LUK 10:40",
+          "end_ref": "42010040",
+          "end_ref_usfm": "LUK 10:40"
+        },
+        {
+          "start_ref": "42010041",
+          "start_ref_usfm": "LUK 10:41",
+          "end_ref": "42010041",
+          "end_ref_usfm": "LUK 10:41"
+        },
+        {
+          "start_ref": "43011001",
+          "start_ref_usfm": "JHN 11:1",
+          "end_ref": "43011001",
+          "end_ref_usfm": "JHN 11:1"
+        },
+        {
+          "start_ref": "43011002",
+          "start_ref_usfm": "JHN 11:2",
+          "end_ref": "43011002",
+          "end_ref_usfm": "JHN 11:2"
+        },
+        {
+          "start_ref": "43011005",
+          "start_ref_usfm": "JHN 11:5",
+          "end_ref": "43011005",
+          "end_ref_usfm": "JHN 11:5"
+        },
+        {
+          "start_ref": "43011019",
+          "start_ref_usfm": "JHN 11:19",
+          "end_ref": "43011019",
+          "end_ref_usfm": "JHN 11:19"
+        },
+        {
+          "start_ref": "43011020",
+          "start_ref_usfm": "JHN 11:20",
+          "end_ref": "43011020",
+          "end_ref_usfm": "JHN 11:20"
+        },
+        {
+          "start_ref": "43011021",
+          "start_ref_usfm": "JHN 11:21",
+          "end_ref": "43011021",
+          "end_ref_usfm": "JHN 11:21"
+        },
+        {
+          "start_ref": "43011024",
+          "start_ref_usfm": "JHN 11:24",
+          "end_ref": "43011024",
+          "end_ref_usfm": "JHN 11:24"
+        },
+        {
+          "start_ref": "43011030",
+          "start_ref_usfm": "JHN 11:30",
+          "end_ref": "43011030",
+          "end_ref_usfm": "JHN 11:30"
+        },
+        {
+          "start_ref": "43011039",
+          "start_ref_usfm": "JHN 11:39",
+          "end_ref": "43011039",
+          "end_ref_usfm": "JHN 11:39"
+        },
+        {
+          "start_ref": "43012002",
+          "start_ref_usfm": "JHN 12:2",
+          "end_ref": "43012002",
+          "end_ref_usfm": "JHN 12:2"
+        },
+        {
+          "start_ref": "43012001",
+          "start_ref_usfm": "JHN 12:1",
+          "end_ref": "43012003",
+          "end_ref_usfm": "JHN 12:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25960,
+          "content_id": 467100,
+          "label": "Lazare",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26000,
+          "content_id": 467137,
+          "label": "Marie soeur da Marthe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

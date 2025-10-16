@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 238347,
+    "reference_id": 26218,
+    "title": "Sete",
+    "media_type": "Text",
+    "index_reference": "sete",
+    "language": "por",
+    "content": "<h1>Sete</h1><h2>Fatos:</h2><p>No livro de Gênesis, Sete foi o terceiro filho de Adão e Eva.</p><ul><li><p>Eva disse que Sete foi dado a ela no lugar de seu filho Abel, que foi assassinado por seu irmão Caim.</p></li><li><p>Noé foi um dos descendentes de Sete, então todos que viveram desde a época do Dilúvio também são descendentes de Sete.</p></li><li><p>Seth e sua família foram as primeiras pessoas a “invocar o nome do Senhor”.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25418\" data-resourceType=\"UWTranslationWords\">Abel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25565\" data-resourceType=\"UWTranslationWords\">Caim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_call\" data-resourceType=\"UWTranslationWords\">invocar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25660\" data-resourceType=\"UWTranslationWords\">descendente</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ancestor\" data-resourceType=\"UWTranslationWords\">ancestral</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25746\" data-resourceType=\"UWTranslationWords\">dilúvio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:1\">1 Crônicas 1.1</a></p></li><li><p><a href=\"https://ref.ly/Luke3:36-Luke3:38\">Lucas 3.36–38</a></p></li><li><p><a href=\"https://ref.ly/Num24:17\">Números 24.17</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8352, G45890</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004025",
+          "start_ref_usfm": "GEN 4:25",
+          "end_ref": "01004025",
+          "end_ref_usfm": "GEN 4:25"
+        },
+        {
+          "start_ref": "01004026",
+          "start_ref_usfm": "GEN 4:26",
+          "end_ref": "01004026",
+          "end_ref_usfm": "GEN 4:26"
+        },
+        {
+          "start_ref": "01005003",
+          "start_ref_usfm": "GEN 5:3",
+          "end_ref": "01005003",
+          "end_ref_usfm": "GEN 5:3"
+        },
+        {
+          "start_ref": "01005004",
+          "start_ref_usfm": "GEN 5:4",
+          "end_ref": "01005004",
+          "end_ref_usfm": "GEN 5:4"
+        },
+        {
+          "start_ref": "01005006",
+          "start_ref_usfm": "GEN 5:6",
+          "end_ref": "01005006",
+          "end_ref_usfm": "GEN 5:6"
+        },
+        {
+          "start_ref": "01005007",
+          "start_ref_usfm": "GEN 5:7",
+          "end_ref": "01005007",
+          "end_ref_usfm": "GEN 5:7"
+        },
+        {
+          "start_ref": "01005008",
+          "start_ref_usfm": "GEN 5:8",
+          "end_ref": "01005008",
+          "end_ref_usfm": "GEN 5:8"
+        },
+        {
+          "start_ref": "04024017",
+          "start_ref_usfm": "NUM 24:17",
+          "end_ref": "04024017",
+          "end_ref_usfm": "NUM 24:17"
+        },
+        {
+          "start_ref": "13001001",
+          "start_ref_usfm": "1CH 1:1",
+          "end_ref": "13001001",
+          "end_ref_usfm": "1CH 1:1"
+        },
+        {
+          "start_ref": "42003038",
+          "start_ref_usfm": "LUK 3:38",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25418,
+          "content_id": 237556,
+          "label": "Abel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25565,
+          "content_id": 237700,
+          "label": "Caim",
+          "language": "por"
+        },
+        {
+          "reference_id": 25660,
+          "content_id": 237793,
+          "label": "Descendente",
+          "language": "por"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 237879,
+          "label": "Dilúvio ",
+          "language": "por"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 238185,
+          "label": "Noé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

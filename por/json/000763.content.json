@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238282,
+    "reference_id": 26152,
+    "title": "Ramá",
+    "media_type": "Text",
+    "index_reference": "ramá",
+    "language": "por",
+    "content": "<h1>Ramá</h1><h2>Fatos:</h2><p>Ramá era uma antiga cidade israelita localizada a cerca de 8 km de Jerusalém. Estava na região onde vivia a tribo de Benjamim.</p><ul><li><p>Ramá foi onde Raquel morreu após dar à luz Benjamim.</p></li><li><p>Quando os israelitas foram levados cativos para a Babilônia, eles foram primeiro trazidos para Ramá antes de serem movidos para a Babilônia.</p></li><li><p>Ramá era a casa da mãe e do pai de Samuel.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25526\" data-resourceType=\"UWTranslationWords\">Benjamim</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">doze tribos de Israel</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr27:27\">1 Crônicas 27.27</a></p></li><li><p><a href=\"https://ref.ly/1Sam2:11\">1 Samuel 2.11</a></p></li><li><p><a href=\"https://ref.ly/2Chr16:1\">2 Crônicas 16.1</a></p></li><li><p><a href=\"https://ref.ly/Jer31:15\">Jeremias 31.15</a></p></li><li><p><a href=\"https://ref.ly/Josh18:25-Josh18:28\">Josué 18.25–28</a></p></li><li><p><a href=\"https://ref.ly/Matt2:17-Matt2:18\">Mateus 2.17–18</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7414, G44710</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002011",
+          "start_ref_usfm": "1SA 2:11",
+          "end_ref": "09002011",
+          "end_ref_usfm": "1SA 2:11"
+        },
+        {
+          "start_ref": "13027027",
+          "start_ref_usfm": "1CH 27:27",
+          "end_ref": "13027027",
+          "end_ref_usfm": "1CH 27:27"
+        },
+        {
+          "start_ref": "14016001",
+          "start_ref_usfm": "2CH 16:1",
+          "end_ref": "14016001",
+          "end_ref_usfm": "2CH 16:1"
+        },
+        {
+          "start_ref": "15002026",
+          "start_ref_usfm": "EZR 2:26",
+          "end_ref": "15002026",
+          "end_ref_usfm": "EZR 2:26"
+        },
+        {
+          "start_ref": "16007030",
+          "start_ref_usfm": "NEH 7:30",
+          "end_ref": "16007030",
+          "end_ref_usfm": "NEH 7:30"
+        },
+        {
+          "start_ref": "16011033",
+          "start_ref_usfm": "NEH 11:33",
+          "end_ref": "16011033",
+          "end_ref_usfm": "NEH 11:33"
+        },
+        {
+          "start_ref": "24031015",
+          "start_ref_usfm": "JER 31:15",
+          "end_ref": "24031015",
+          "end_ref_usfm": "JER 31:15"
+        },
+        {
+          "start_ref": "40002018",
+          "start_ref_usfm": "MAT 2:18",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        },
+        {
+          "start_ref": "06018025",
+          "start_ref_usfm": "JOS 18:25",
+          "end_ref": "06018028",
+          "end_ref_usfm": "JOS 18:28"
+        },
+        {
+          "start_ref": "40002017",
+          "start_ref_usfm": "MAT 2:17",
+          "end_ref": "40002018",
+          "end_ref_usfm": "MAT 2:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 237554,
+          "label": "12 tribos de Israel",
+          "language": "por"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 237662,
+          "label": "Benjamim",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

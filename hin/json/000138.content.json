@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 179773,
+    "reference_id": 25699,
+    "title": "एलीशिबा",
+    "media_type": "Text",
+    "index_reference": "एलीशिबा",
+    "language": "hin",
+    "content": "<h1>एलीशिबा</h1><h2>तथ्य:</h2><p>इलीशिबा यूहन्ना बपतिस्मा देनेवाले की माता का नाम था। उसके पति का नाम जकर्याह था।</p><ul><li><p>जकर्याह और इलीशिबा के पास कोई सन्तान नहीं थी परन्तु उनकी वृद्धावस्था में परमेश्वर ने जकर्याह से प्रतिज्ञा की कि एलिशीबा उसके लिए एक पुत्र को जन्म देगी।</p></li><li><p>परमेश्वर ने अपनी प्रतिज्ञा पूरी की और शीघ्र ही एलिशीबा गर्भवती हुई और एक पुत्र को जन्म दिया| उन्होंने उस बालक का नाम यूहन्ना रखा।</p></li><li><p>इलीशिबा यीशु की माता मरियम की संबन्धी थी।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25912\" data-resourceType=\"UWTranslationWords\">यूहन्ना (बपतिस्मा देनेवाला)</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26369\" data-resourceType=\"UWTranslationWords\">जकर्याह (नया नियम)</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke1:5\">लूका 1:5</a></p></li><li><p><a href=\"https://ref.ly/Luke1:24-Luke1:25\">लूका 1:24–25</a></p></li><li><p><a href=\"https://ref.ly/Luke1:41\">लूका 1:41</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G166500</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        },
+        {
+          "start_ref": "42001007",
+          "start_ref_usfm": "LUK 1:7",
+          "end_ref": "42001007",
+          "end_ref_usfm": "LUK 1:7"
+        },
+        {
+          "start_ref": "42001013",
+          "start_ref_usfm": "LUK 1:13",
+          "end_ref": "42001013",
+          "end_ref_usfm": "LUK 1:13"
+        },
+        {
+          "start_ref": "42001024",
+          "start_ref_usfm": "LUK 1:24",
+          "end_ref": "42001024",
+          "end_ref_usfm": "LUK 1:24"
+        },
+        {
+          "start_ref": "42001036",
+          "start_ref_usfm": "LUK 1:36",
+          "end_ref": "42001036",
+          "end_ref_usfm": "LUK 1:36"
+        },
+        {
+          "start_ref": "42001040",
+          "start_ref_usfm": "LUK 1:40",
+          "end_ref": "42001040",
+          "end_ref_usfm": "LUK 1:40"
+        },
+        {
+          "start_ref": "42001041",
+          "start_ref_usfm": "LUK 1:41",
+          "end_ref": "42001041",
+          "end_ref_usfm": "LUK 1:41"
+        },
+        {
+          "start_ref": "42001057",
+          "start_ref_usfm": "LUK 1:57",
+          "end_ref": "42001057",
+          "end_ref_usfm": "LUK 1:57"
+        },
+        {
+          "start_ref": "42001024",
+          "start_ref_usfm": "LUK 1:24",
+          "end_ref": "42001025",
+          "end_ref_usfm": "LUK 1:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25912,
+          "content_id": 179979,
+          "label": "यूहन्ना (बपतिस्मा देनेवाला)",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26369,
+          "content_id": 180421,
+          "label": "जकर्याह (नया नियम)",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

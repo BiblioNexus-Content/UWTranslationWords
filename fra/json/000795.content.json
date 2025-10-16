@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 467349,
+    "reference_id": 26233,
+    "title": "Siège",
+    "media_type": "Text",
+    "index_reference": "siège",
+    "language": "fra",
+    "content": "<h1>siège, assiéger</h1><h2>Définition :</h2><p>Le terme «siège» fait penser à une armée attaquante entourant une ville et l&apos;empêchant d&apos;être en mesure de recevoir toutes provisions d&apos;eau et de nourriture/ &quot;assiéger&quot; une ville c&apos;est mettre cette ville sous un siège.</p><ul><li><p>Lorsque Babylone, vint attaquer Israël, il a utilisé la tactique de siège de Jérusalem pour affaiblir les gens à l&apos;intérieur de la ville.</p></li><li><p>Souvent, lors d&apos;une attaque de siège, des rampes de terre sont progressivement construites pour permettre à l&apos;armée attaquante de traverser les murs de la ville et de l&apos;envahir.</p></li><li><p>L&apos;idiome &quot;assiéger&quot; signifie effectuer un siège* Il a la même signification que «assiéger».</p></li><li><p>L&apos;idiome &quot;en état de siège&quot; décrit une ville qu&apos;une armée ennemie entoure* La ville est dite&quot;assiégée&quot;.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020001",
+          "end_ref_usfm": "1CH 20:1"
+        },
+        {
+          "start_ref": "24033004",
+          "start_ref_usfm": "JER 33:4",
+          "end_ref": "24033004",
+          "end_ref_usfm": "JER 33:4"
+        },
+        {
+          "start_ref": "09011001",
+          "start_ref_usfm": "1SA 11:1",
+          "end_ref": "09011002",
+          "end_ref_usfm": "1SA 11:2"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020003",
+          "end_ref_usfm": "1KI 20:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

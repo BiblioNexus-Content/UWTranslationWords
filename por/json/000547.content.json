@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 238094,
+    "reference_id": 25963,
+    "title": "Líbano",
+    "media_type": "Text",
+    "index_reference": "líbano",
+    "language": "por",
+    "content": "<h1>Líbano</h1><h2>Fatos:</h2><p>O Líbano é uma bela região montanhosa localizada ao longo da costa do Mar Mediterrâneo, ao norte de Israel. Nos tempos bíblicos, essa região era densamente arborizada com árvores de abeto, como cedro e cipreste.</p><ul><li><p>O rei Salomão enviou trabalhadores ao Líbano para colher cedros para uso na construção do templo de Deus.</p></li><li><p>O antigo Líbano era habitado por pessoas fenícias, que eram construtores habilidosos de navios usados em uma indústria de comércio bem-sucedida.</p></li><li><p>As cidades de Tiro e Sidom estavam localizadas no Líbano. Foi nessas cidades que um valioso corante roxo foi usado pela primeira vez.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25578\" data-resourceType=\"UWTranslationWords\">cedro</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25636\" data-resourceType=\"UWTranslationWords\">cipreste</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25741\" data-resourceType=\"UWTranslationWords\">abeto</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_phoenicia\" data-resourceType=\"UWTranslationWords\">Fenícia</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:32-1Kgs4:34\">1 Reis 4.32–34</a></p></li><li><p><a href=\"https://ref.ly/2Chr2:8-2Chr2:10\">2 Crônicas 2.8–10</a></p></li><li><p><a href=\"https://ref.ly/Deut1:7-Deut1:8\">Deuteronômio 1.7–8</a></p></li><li><p><a href=\"https://ref.ly/Ps29:3-Ps29:5\">Salmos 29.3–5</a></p></li><li><p><a href=\"https://ref.ly/Zech10:8-Zech10:10\">Zacarias 10.8–10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3844</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "22003009",
+          "start_ref_usfm": "SNG 3:9",
+          "end_ref": "22003009",
+          "end_ref_usfm": "SNG 3:9"
+        },
+        {
+          "start_ref": "22004008",
+          "start_ref_usfm": "SNG 4:8",
+          "end_ref": "22004008",
+          "end_ref_usfm": "SNG 4:8"
+        },
+        {
+          "start_ref": "22004011",
+          "start_ref_usfm": "SNG 4:11",
+          "end_ref": "22004011",
+          "end_ref_usfm": "SNG 4:11"
+        },
+        {
+          "start_ref": "22004015",
+          "start_ref_usfm": "SNG 4:15",
+          "end_ref": "22004015",
+          "end_ref_usfm": "SNG 4:15"
+        },
+        {
+          "start_ref": "22005015",
+          "start_ref_usfm": "SNG 5:15",
+          "end_ref": "22005015",
+          "end_ref_usfm": "SNG 5:15"
+        },
+        {
+          "start_ref": "22007004",
+          "start_ref_usfm": "SNG 7:4",
+          "end_ref": "22007004",
+          "end_ref_usfm": "SNG 7:4"
+        },
+        {
+          "start_ref": "11004032",
+          "start_ref_usfm": "1KI 4:32",
+          "end_ref": "11004034",
+          "end_ref_usfm": "1KI 4:34"
+        },
+        {
+          "start_ref": "14002008",
+          "start_ref_usfm": "2CH 2:8",
+          "end_ref": "14002010",
+          "end_ref_usfm": "2CH 2:10"
+        },
+        {
+          "start_ref": "05001007",
+          "start_ref_usfm": "DEU 1:7",
+          "end_ref": "05001008",
+          "end_ref_usfm": "DEU 1:8"
+        },
+        {
+          "start_ref": "19029003",
+          "start_ref_usfm": "PSA 29:3",
+          "end_ref": "19029005",
+          "end_ref_usfm": "PSA 29:5"
+        },
+        {
+          "start_ref": "38010008",
+          "start_ref_usfm": "ZEC 10:8",
+          "end_ref": "38010010",
+          "end_ref_usfm": "ZEC 10:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25578,
+          "content_id": 237713,
+          "label": "Cedro",
+          "language": "por"
+        },
+        {
+          "reference_id": 25636,
+          "content_id": 237769,
+          "label": "Cipreste",
+          "language": "por"
+        },
+        {
+          "reference_id": 25741,
+          "content_id": 237874,
+          "label": "Abeto",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 466689,
+    "reference_id": 25511,
+    "title": "Bath-shéba",
+    "media_type": "Text",
+    "index_reference": "bath-shéba",
+    "language": "fra",
+    "content": "<h1>Bath-shéba</h1><h2>Données :</h2><p>Bath-séba était la femme d&apos;Urie, un soldat dans l&apos;armée du roi David. Après la mort d&apos;Urie, elle est devenue la femme de David et la mère de Salomon.</p><ul><li><p>David a commis l&apos;adultère avec Bath-séba alors qu&apos;elle était l&apos;épouse d&apos;Urie.</p></li><li><p>Quand Bath-séba est devenue enceinte de David, David a ordonné que Urie soit tué au combat.</p></li><li><p>David a ensuite épousé Bath-shéba et elle a donné naissance à leur enfant.</p></li><li><p>Dieu a puni David pour son péché en laissant mourir l&apos;enfant plusieurs jours après sa naissance.</p></li><li><p>Plus tard, Bath-shéba a donné naissance à un autre fils, Salomon, qui, après avoir grandi, est devenu roi après David.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/david.md), (../names/solomon.md). (../names/uriah.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10011003",
+          "start_ref_usfm": "2SA 11:3",
+          "end_ref": "10011003",
+          "end_ref_usfm": "2SA 11:3"
+        },
+        {
+          "start_ref": "11001011",
+          "start_ref_usfm": "1KI 1:11",
+          "end_ref": "11001011",
+          "end_ref_usfm": "1KI 1:11"
+        },
+        {
+          "start_ref": "19051001",
+          "start_ref_usfm": "PSA 51:1",
+          "end_ref": "19051002",
+          "end_ref_usfm": "PSA 51:2"
+        },
+        {
+          "start_ref": "13003004",
+          "start_ref_usfm": "1CH 3:4",
+          "end_ref": "13003005",
+          "end_ref_usfm": "1CH 3:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26330,
+          "content_id": 467440,
+          "label": "Urie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

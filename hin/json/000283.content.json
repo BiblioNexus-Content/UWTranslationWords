@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 180416,
+    "reference_id": 26364,
+    "title": "जक्कई",
+    "media_type": "Text",
+    "index_reference": "जक्कई",
+    "language": "hin",
+    "content": "<h1>जक्कई</h1><h2>तथ्य:</h2><p>जक्कई यरीहो में चुंगी लेनेवाला अधिकारी था, वह यीशु को देखने के लिए पेड़ पर चढ़ गया था।</p><ul><li><p>यीशु में विश्वास करके जक्कई पूर्णतः बदल गया था।</p></li><li><p>उसने लोगों को धोका देने के पाप का पश्चाताप किया और अपनी आधी सम्पत्ति गरीबों में बांटने की प्रतिज्ञा की थी।</p></li><li><p>उसने यह प्रतिज्ञा भी की थी कि जिनसे उसने अवैध कर वसूल किया है उन्हें वह चारगुणा लौटा देगा।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">विश्वास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26127\" data-resourceType=\"UWTranslationWords\">प्रतिज्ञा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">मन फिराव</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">पाप</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">कर</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26282\" data-resourceType=\"UWTranslationWords\">चुंगी लेनेवाला</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Luke19:2\">लूका 19:2</a></p></li><li><p><a href=\"https://ref.ly/Luke19:6\">लूका 19:6</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G21950</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "42019002",
+          "start_ref_usfm": "LUK 19:2",
+          "end_ref": "42019002",
+          "end_ref_usfm": "LUK 19:2"
+        },
+        {
+          "start_ref": "42019005",
+          "start_ref_usfm": "LUK 19:5",
+          "end_ref": "42019005",
+          "end_ref_usfm": "LUK 19:5"
+        },
+        {
+          "start_ref": "42019006",
+          "start_ref_usfm": "LUK 19:6",
+          "end_ref": "42019006",
+          "end_ref_usfm": "LUK 19:6"
+        },
+        {
+          "start_ref": "42019008",
+          "start_ref_usfm": "LUK 19:8",
+          "end_ref": "42019008",
+          "end_ref_usfm": "LUK 19:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 179606,
+          "label": "विश्वास करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26127,
+          "content_id": 180187,
+          "label": "प्रतिज्ञा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 180228,
+          "label": "मन फिराना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 180294,
+          "label": "पाप",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26282,
+          "content_id": 180335,
+          "label": "कर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

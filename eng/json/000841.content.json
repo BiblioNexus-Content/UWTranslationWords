@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 27114,
+    "reference_id": 26256,
+    "title": "Spear",
+    "media_type": "Text",
+    "index_reference": "spear",
+    "language": "eng",
+    "content": "<h1>spear, spearmen</h1><h2>Definition:</h2><p>A spear is a weapon with a long wooden handle and sharp metal blade on one end that is thrown a long distance.</p><ul><li><p>Spears were commonly used for war in biblical times. They are sometimes still used in present-day conflicts between certain people groups.</p></li><li><p>A spear was used by a Roman soldier to pierce the side of Jesus while he hung on the cross.</p></li><li><p>Sometimes people throw spears to catch fish or other prey to eat.</p></li><li><p>Similar weapons are the “javelin” or “lance.”</p></li><li><p>Make sure that the translation of “spear” is different from the translation of “sword,” which is a weapon that is used for thrusting or stabbing, not throwing. Also, a sword has a long blade with a handle, while a spear has a small blade on the end of a long shaft.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">prey</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26275\" data-resourceType=\"UWTranslationWords\">sword</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26340\" data-resourceType=\"UWTranslationWords\">warrior</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam13:19-1Sam13:21\">1 Samuel 13:19–21</a></p></li><li><p><a href=\"https://ref.ly/2Sam21:19\">2 Samuel 21:19</a></p></li><li><p><a href=\"https://ref.ly/Neh4:12-Neh4:14\">Nehemiah 4:12–14</a></p></li><li><p><a href=\"https://ref.ly/Ps35:3\">Psalm 35:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1265, H2595, H3591, H6767, H7013, H7420, G30570</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10021019",
+          "start_ref_usfm": "2SA 21:19",
+          "end_ref": "10021019",
+          "end_ref_usfm": "2SA 21:19"
+        },
+        {
+          "start_ref": "16004013",
+          "start_ref_usfm": "NEH 4:13",
+          "end_ref": "16004013",
+          "end_ref_usfm": "NEH 4:13"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "16004021",
+          "start_ref_usfm": "NEH 4:21",
+          "end_ref": "16004021",
+          "end_ref_usfm": "NEH 4:21"
+        },
+        {
+          "start_ref": "19035003",
+          "start_ref_usfm": "PSA 35:3",
+          "end_ref": "19035003",
+          "end_ref_usfm": "PSA 35:3"
+        },
+        {
+          "start_ref": "43019034",
+          "start_ref_usfm": "JHN 19:34",
+          "end_ref": "43019034",
+          "end_ref_usfm": "JHN 19:34"
+        },
+        {
+          "start_ref": "09013019",
+          "start_ref_usfm": "1SA 13:19",
+          "end_ref": "09013021",
+          "end_ref_usfm": "1SA 13:21"
+        },
+        {
+          "start_ref": "16004012",
+          "start_ref_usfm": "NEH 4:12",
+          "end_ref": "16004014",
+          "end_ref_usfm": "NEH 4:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26120,
+          "content_id": 26978,
+          "label": "Prey",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26275,
+          "content_id": 27133,
+          "label": "Sword",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26340,
+          "content_id": 27198,
+          "label": "Warrior",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

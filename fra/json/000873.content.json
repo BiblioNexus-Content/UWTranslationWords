@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 467437,
+    "reference_id": 26326,
+    "title": "Tyr",
+    "media_type": "Text",
+    "index_reference": "tyr",
+    "language": "fra",
+    "content": "<h1>Tyr</h1><h2>Définition :</h2><p>Tyr était une ancienne ville cananéenne sur la côte de la mer Méditerranée dans ce qui est maintenant le pays du Liban* Une partie de la ville est située sur une île dans la mer, à environ un kilomètre de la côte.</p><ul><li><p>La ville de Tyr existait avant que les Israélites ne viennent à Canaan* Il a toujours été une ville païenne.</p></li><li><p>En raison de son emplacement et de ses précieuses ressources naturelles, la ville de Tyr avait une industrie du commerce prospère et était très riche.</p></li><li><p>Les habitants de Tyr avaient la réputation de vivre dans l&apos;immoralité.</p></li><li><p>Tyr était souvent associée à l&apos;ancienne ville voisine de Sidon.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../other/cedar.md), (../kt/israel.md), (../names/mediterranean.md), (../names/phonecia.md), (../names/sidon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "40011022",
+          "start_ref_usfm": "MAT 11:22",
+          "end_ref": "40011022",
+          "end_ref_usfm": "MAT 11:22"
+        },
+        {
+          "start_ref": "40015021",
+          "start_ref_usfm": "MAT 15:21",
+          "end_ref": "40015021",
+          "end_ref_usfm": "MAT 15:21"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015022",
+          "end_ref_usfm": "MAT 15:22"
+        },
+        {
+          "start_ref": "41003008",
+          "start_ref_usfm": "MRK 3:8",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        },
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007024",
+          "end_ref_usfm": "MRK 7:24"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007031",
+          "end_ref_usfm": "MRK 7:31"
+        },
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006017",
+          "end_ref_usfm": "LUK 6:17"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "42010014",
+          "start_ref_usfm": "LUK 10:14",
+          "end_ref": "42010014",
+          "end_ref_usfm": "LUK 10:14"
+        },
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012020",
+          "end_ref_usfm": "ACT 12:20"
+        },
+        {
+          "start_ref": "44021003",
+          "start_ref_usfm": "ACT 21:3",
+          "end_ref": "44021003",
+          "end_ref_usfm": "ACT 21:3"
+        },
+        {
+          "start_ref": "44021007",
+          "start_ref_usfm": "ACT 21:7",
+          "end_ref": "44021007",
+          "end_ref_usfm": "ACT 21:7"
+        },
+        {
+          "start_ref": "41003007",
+          "start_ref_usfm": "MRK 3:7",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25578,
+          "content_id": 466746,
+          "label": "Cèdre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26232,
+          "content_id": 467348,
+          "label": "Sidon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

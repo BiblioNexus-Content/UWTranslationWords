@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 26929,
+    "reference_id": 26071,
+    "title": "Palace",
+    "media_type": "Text",
+    "index_reference": "palace",
+    "language": "eng",
+    "content": "<h1>palace, house</h1><h2>Definition:</h2><p>The term “palace” refers to the building or house where a king lived, along with his family members and servants.</p><ul><li><p>The high priest also lived in a palace complex, as mentioned in the New Testament.</p></li><li><p>Palaces were very ornate, with beautiful architecture and furnishings.</p></li><li><p>The buildings and furnishings of a palace were constructed of stone or wood, and often were overlaid with expensive wood, gold, or ivory.</p></li><li><p>Many other people also lived and worked in the palace complex, which usually included several buildings and courtyards.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_courtyard\" data-resourceType=\"UWTranslationWords\">courtyard</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25836\" data-resourceType=\"UWTranslationWords\">high priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Chr28:7-2Chr28:8\">2 Chronicles 28:7–8</a></p></li><li><p><a href=\"https://ref.ly/2Sam11:2-2Sam11:3\">2 Samuel 11:2–3</a></p></li><li><p><a href=\"https://ref.ly/Dan5:5-Dan5:6\">Daniel 5:5–6</a></p></li><li><p><a href=\"https://ref.ly/Matt26:3-Matt26:5\">Matthew 26:3–5</a></p></li><li><p><a href=\"https://ref.ly/Ps45:8\">Psalms 45:8</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0759, H1002, H1004, H1055, H1406, H1964, H1965, G08330, G09330, G42320</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02007023",
+          "start_ref_usfm": "EXO 7:23",
+          "end_ref": "02007023",
+          "end_ref_usfm": "EXO 7:23"
+        },
+        {
+          "start_ref": "02008003",
+          "start_ref_usfm": "EXO 8:3",
+          "end_ref": "02008003",
+          "end_ref_usfm": "EXO 8:3"
+        },
+        {
+          "start_ref": "02008024",
+          "start_ref_usfm": "EXO 8:24",
+          "end_ref": "02008024",
+          "end_ref_usfm": "EXO 8:24"
+        },
+        {
+          "start_ref": "15004014",
+          "start_ref_usfm": "EZR 4:14",
+          "end_ref": "15004014",
+          "end_ref_usfm": "EZR 4:14"
+        },
+        {
+          "start_ref": "19045008",
+          "start_ref_usfm": "PSA 45:8",
+          "end_ref": "19045008",
+          "end_ref_usfm": "PSA 45:8"
+        },
+        {
+          "start_ref": "20030028",
+          "start_ref_usfm": "PRO 30:28",
+          "end_ref": "20030028",
+          "end_ref_usfm": "PRO 30:28"
+        },
+        {
+          "start_ref": "41015016",
+          "start_ref_usfm": "MRK 15:16",
+          "end_ref": "41015016",
+          "end_ref_usfm": "MRK 15:16"
+        },
+        {
+          "start_ref": "42007025",
+          "start_ref_usfm": "LUK 7:25",
+          "end_ref": "42007025",
+          "end_ref_usfm": "LUK 7:25"
+        },
+        {
+          "start_ref": "43018028",
+          "start_ref_usfm": "JHN 18:28",
+          "end_ref": "43018028",
+          "end_ref_usfm": "JHN 18:28"
+        },
+        {
+          "start_ref": "43018033",
+          "start_ref_usfm": "JHN 18:33",
+          "end_ref": "43018033",
+          "end_ref_usfm": "JHN 18:33"
+        },
+        {
+          "start_ref": "43019009",
+          "start_ref_usfm": "JHN 19:9",
+          "end_ref": "43019009",
+          "end_ref_usfm": "JHN 19:9"
+        },
+        {
+          "start_ref": "44023035",
+          "start_ref_usfm": "ACT 23:35",
+          "end_ref": "44023035",
+          "end_ref_usfm": "ACT 23:35"
+        },
+        {
+          "start_ref": "50001013",
+          "start_ref_usfm": "PHP 1:13",
+          "end_ref": "50001013",
+          "end_ref_usfm": "PHP 1:13"
+        },
+        {
+          "start_ref": "40026003",
+          "start_ref_usfm": "MAT 26:3",
+          "end_ref": "40026005",
+          "end_ref_usfm": "MAT 26:5"
+        },
+        {
+          "start_ref": "27005005",
+          "start_ref_usfm": "DAN 5:5",
+          "end_ref": "27005006",
+          "end_ref_usfm": "DAN 5:6"
+        },
+        {
+          "start_ref": "14028007",
+          "start_ref_usfm": "2CH 28:7",
+          "end_ref": "14028008",
+          "end_ref_usfm": "2CH 28:8"
+        },
+        {
+          "start_ref": "10011002",
+          "start_ref_usfm": "2SA 11:2",
+          "end_ref": "10011003",
+          "end_ref_usfm": "2SA 11:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25836,
+          "content_id": 26694,
+          "label": "High Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

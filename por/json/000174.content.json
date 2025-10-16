@@ -1,0 +1,40 @@
+[
+  {
+    "content_id": 238362,
+    "reference_id": 26233,
+    "title": "Cerco",
+    "media_type": "Text",
+    "index_reference": "cerco",
+    "language": "por",
+    "content": "<h1>cerco, sitiar, sitiado, obras de cerco</h1><h2>Definição:</h2><p>Um “cerco” ocorre quando um exército atacante cerca uma cidade e impede que ela receba qualquer suprimento de comida e água. “Sitiar” uma cidade ou colocá-la “sob cerco” significa atacá-la por meio de um cerco.</p><ul><li><p>Quando os babilônios vieram atacar Israel, usaram a tática de cerco contra Jerusalém para enfraquecer as pessoas dentro da cidade.</p></li><li><p>Frequentemente, durante um cerco, rampas de terra são gradualmente construídas para permitir que o exército atacante atravesse as muralhas da cidade e invada a cidade.</p></li><li><p>“Sitiar” uma cidade também pode ser expresso como “fazer um cerco” a ela ou “realizar um cerco” nela.</p></li><li><p>O termo “sitiado” tem o mesmo significado que a expressão “sob cerco”. Ambas as expressões descrevem uma cidade que um exército inimigo está cercando e sitiando.</p></li></ul><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr20:1\">1 Crônicas 20.1</a></p></li><li><p><a href=\"https://ref.ly/1Kgs20:1-1Kgs20:3\">1 Reis 20.1–3</a></p></li><li><p><a href=\"https://ref.ly/1Sam11:1-1Sam11:2\">1 Samuel 11.1–2</a></p></li><li><p><a href=\"https://ref.ly/Jer33:4\">Jeremias 33.4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4692, H4693, H5341, H5437, H5564, H6693, H6696, H6887</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020001",
+          "end_ref_usfm": "1CH 20:1"
+        },
+        {
+          "start_ref": "24033004",
+          "start_ref_usfm": "JER 33:4",
+          "end_ref": "24033004",
+          "end_ref_usfm": "JER 33:4"
+        },
+        {
+          "start_ref": "09011001",
+          "start_ref_usfm": "1SA 11:1",
+          "end_ref": "09011002",
+          "end_ref_usfm": "1SA 11:2"
+        },
+        {
+          "start_ref": "11020001",
+          "start_ref_usfm": "1KI 20:1",
+          "end_ref": "11020003",
+          "end_ref_usfm": "1KI 20:3"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

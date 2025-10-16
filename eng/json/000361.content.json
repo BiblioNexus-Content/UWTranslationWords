@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 26633,
+    "reference_id": 25775,
+    "title": "Geshur",
+    "media_type": "Text",
+    "index_reference": "geshur",
+    "language": "eng",
+    "content": "<h1>Geshur, Geshurites</h1><h2>Definition:</h2><p>During the time of King David, Geshur was a small kingdom located on the east side of the Sea of Galilee between the countries of Israel and Aram.</p><ul><li><p>King David married Maacah, the daughter of Geshur’s king, and she bore him a son, Absalom.</p></li><li><p>After murdering his half-brother Amnon, Absalom fled northeast from Jerusalem to Geshur, a distance of about 140 kilometers. He stayed there three years.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">Absalom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25453\" data-resourceType=\"UWTranslationWords\">Amnon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">Aram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">Sea of Galilee</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr2:23\">1 Chronicles 2:23</a></p></li><li><p><a href=\"https://ref.ly/2Sam3:2-2Sam3:3\">2 Samuel 3:2–3</a></p></li><li><p><a href=\"https://ref.ly/Deut3:14\">Deuteronomy 3:14</a></p></li><li><p><a href=\"https://ref.ly/Josh12:3-Josh12:5\">Joshua 12:3–5</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003014",
+          "start_ref_usfm": "DEU 3:14",
+          "end_ref": "05003014",
+          "end_ref_usfm": "DEU 3:14"
+        },
+        {
+          "start_ref": "13002023",
+          "start_ref_usfm": "1CH 2:23",
+          "end_ref": "13002023",
+          "end_ref_usfm": "1CH 2:23"
+        },
+        {
+          "start_ref": "10003002",
+          "start_ref_usfm": "2SA 3:2",
+          "end_ref": "10003003",
+          "end_ref_usfm": "2SA 3:3"
+        },
+        {
+          "start_ref": "06012003",
+          "start_ref_usfm": "JOS 12:3",
+          "end_ref": "06012005",
+          "end_ref_usfm": "JOS 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 26283,
+          "label": "Absalom",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25453,
+          "content_id": 26311,
+          "label": "Amnon",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 26329,
+          "label": "Aram",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 27065,
+          "label": "Sea of Galilee",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467124,
+    "reference_id": 25984,
+    "title": "Lystre",
+    "media_type": "Text",
+    "index_reference": "lystre",
+    "language": "fra",
+    "content": "<h1>Lystre</h1><h2>Définition :</h2><p>&quot;Lystre est le nom d&apos;une ville dans l&apos;ancienne Asie Mineure que Paul a visité au cours de l&apos;un de ses voyages missionnaires* Il était situé dans la région de Lycaonie qui est maintenant dans le pays moderne de la Turquie.</p><ul><li><p>Lors de ce voyage à Lystre, Paul a rencontré Timothée, qui est devenu un compagnon évangéliste et implanteur d&apos;église.</p></li><li><p>Après la guerison d&apos;un que Paul d&apos; un homme infirme par Paul et Barnabas, les gens de Lystre ont essayé d&apos;adorer Paul et Barnabas comme des dieux, mais ceux ci ont refusé fermement .</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/evangelism.md), (../names/iconium.md), (../names/timothy.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44014006",
+          "start_ref_usfm": "ACT 14:6",
+          "end_ref": "44014006",
+          "end_ref_usfm": "ACT 14:6"
+        },
+        {
+          "start_ref": "44014008",
+          "start_ref_usfm": "ACT 14:8",
+          "end_ref": "44014008",
+          "end_ref_usfm": "ACT 14:8"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014021",
+          "end_ref_usfm": "ACT 14:21"
+        },
+        {
+          "start_ref": "44016001",
+          "start_ref_usfm": "ACT 16:1",
+          "end_ref": "44016001",
+          "end_ref_usfm": "ACT 16:1"
+        },
+        {
+          "start_ref": "44016002",
+          "start_ref_usfm": "ACT 16:2",
+          "end_ref": "44016002",
+          "end_ref_usfm": "ACT 16:2"
+        },
+        {
+          "start_ref": "55003011",
+          "start_ref_usfm": "2TI 3:11",
+          "end_ref": "55003011",
+          "end_ref_usfm": "2TI 3:11"
+        },
+        {
+          "start_ref": "44014021",
+          "start_ref_usfm": "ACT 14:21",
+          "end_ref": "44014022",
+          "end_ref_usfm": "ACT 14:22"
+        },
+        {
+          "start_ref": "55003010",
+          "start_ref_usfm": "2TI 3:10",
+          "end_ref": "55003013",
+          "end_ref_usfm": "2TI 3:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25716,
+          "content_id": 466875,
+          "label": "Évangéliste",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25862,
+          "content_id": 467008,
+          "label": "Iconium",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 467418,
+          "label": "Timothée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

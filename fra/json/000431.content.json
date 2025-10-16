@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467038,
+    "reference_id": 25893,
+    "title": "Jéhu",
+    "media_type": "Text",
+    "index_reference": "jéhu",
+    "language": "fra",
+    "content": "<h1>Jéhu</h1><h2>Définition :</h2><p>&quot;Jéhu était le nom de deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un homme nommé Jéhu était prophète sous le règne du roi Achab d&apos;Israël et du roi Josaphat de Juda.</p></li><li><p>Il y avait aussi un général nommé Jéhu qui devint roi sur Juda et régna pendant vingt-huit ans.</p></li><li><p>Jéhu tua tous les parents de l&apos;ex-roi Achab, y compris la méchante reine Jézabel.</p></li><li><p>Il avait également tué deux mauvais rois qui étaient liés à Achab: Joram d&apos;Israël et Ochozias.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahab.md), (../names/ahaziah.md), (../names/baal.md), (../names/elisha.md), (../names/jehoshaphat.md), (../names/jehu.md), (../names/jezebel.md), (../names/joram.md), (../names/kingdomofjudah.md), (../names/samaria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11016002",
+          "start_ref_usfm": "1KI 16:2",
+          "end_ref": "11016002",
+          "end_ref_usfm": "1KI 16:2"
+        },
+        {
+          "start_ref": "12010009",
+          "start_ref_usfm": "2KI 10:9",
+          "end_ref": "12010009",
+          "end_ref_usfm": "2KI 10:9"
+        },
+        {
+          "start_ref": "13004035",
+          "start_ref_usfm": "1CH 4:35",
+          "end_ref": "13004035",
+          "end_ref_usfm": "1CH 4:35"
+        },
+        {
+          "start_ref": "28001004",
+          "start_ref_usfm": "HOS 1:4",
+          "end_ref": "28001004",
+          "end_ref_usfm": "HOS 1:4"
+        },
+        {
+          "start_ref": "14019001",
+          "start_ref_usfm": "2CH 19:1",
+          "end_ref": "14019003",
+          "end_ref_usfm": "2CH 19:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25441,
+          "content_id": 466622,
+          "label": "Achazia",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25698,
+          "content_id": 466858,
+          "label": "Elisée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 467038,
+          "label": "Jéhu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25904,
+          "content_id": 467049,
+          "label": "Jézabel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 467061,
+          "label": "Joram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 467311,
+          "label": "Samarie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

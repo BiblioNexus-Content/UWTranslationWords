@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 237644,
+    "reference_id": 25508,
+    "title": "Bartolomeu",
+    "media_type": "Text",
+    "index_reference": "bartolomeu",
+    "language": "por",
+    "content": "<h1>Bartolomeu</h1><h2>Fatos:</h2><p><span>Bartolomeu</span> foi um dos doze apóstolos de Jesus.</p><ul><li><p>Junto com os outros apóstolos, <span>Bartolomeu</span> foi enviado para pregar o evangelho e fazer milagres em nome de Jesus.</p></li><li><p>Ele também foi um dos que viram Jesus retornar ao céu.</p></li><li><p>Algumas semanas depois disso, ele estava com os outros apóstolos em Jerusalém no Pentecostes quando o Espírito Santo veio sobre eles.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apóstolo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">boas novas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26022\" data-resourceType=\"UWTranslationWords\">milagre</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26082\" data-resourceType=\"UWTranslationWords\">Pentecostes</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26296\" data-resourceType=\"UWTranslationWords\">os doze</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts1:12-Acts1:14\">Atos 1.12–14</a></p></li><li><p><a href=\"https://ref.ly/Luke6:14-Luke6:16\">Lucas 6.14–16</a></p></li><li><p><a href=\"https://ref.ly/Mark3:17-Mark3:19\">Marcos 3.17–19</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G09180</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40010003",
+          "start_ref_usfm": "MAT 10:3",
+          "end_ref": "40010003",
+          "end_ref_usfm": "MAT 10:3"
+        },
+        {
+          "start_ref": "41003018",
+          "start_ref_usfm": "MRK 3:18",
+          "end_ref": "41003018",
+          "end_ref_usfm": "MRK 3:18"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006014",
+          "end_ref_usfm": "LUK 6:14"
+        },
+        {
+          "start_ref": "44001013",
+          "start_ref_usfm": "ACT 1:13",
+          "end_ref": "44001013",
+          "end_ref_usfm": "ACT 1:13"
+        },
+        {
+          "start_ref": "44001012",
+          "start_ref_usfm": "ACT 1:12",
+          "end_ref": "44001014",
+          "end_ref_usfm": "ACT 1:14"
+        },
+        {
+          "start_ref": "42006014",
+          "start_ref_usfm": "LUK 6:14",
+          "end_ref": "42006016",
+          "end_ref_usfm": "LUK 6:16"
+        },
+        {
+          "start_ref": "41003017",
+          "start_ref_usfm": "MRK 3:17",
+          "end_ref": "41003019",
+          "end_ref_usfm": "MRK 3:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 237603,
+          "label": "Apóstolo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 237929,
+          "label": "Boas Notícias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26022,
+          "content_id": 238152,
+          "label": "Milagre",
+          "language": "por"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 238212,
+          "label": "Pentecostes",
+          "language": "por"
+        },
+        {
+          "reference_id": 26296,
+          "content_id": 238425,
+          "label": "Os Doze",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

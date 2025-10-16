@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 467274,
+    "reference_id": 26153,
+    "title": "Ramoth",
+    "media_type": "Text",
+    "index_reference": "ramoth",
+    "language": "fra",
+    "content": "<h1>Ramoth</h1><h2>Définition :</h2><p>Ramoth était une ville importante dans les montagnes de Galaad* Elle a également été appelée Ramoth Galaad.</p><ul><li><p>Ramoth appartenait à la tribu israélite de Gad et a été désignée comme une ville de refuge.</p></li><li><p>Le roi Achab d&apos;Israël et le roi Josaphat de Juda ont fait la guerre contre le roi d&apos;Aram à Ramoth* Achab a été tué dans cette bataille.</p></li><li><p>Plus tard, le roi Achazia et le roi Joram ont essayé de prendre la ville de Ramoth des mains du roi d&apos;Aram, mais Joram a été blessé* Les deux ont été tués par Jéhu qui a ensuite été oint roi d&apos;Israël à Ramoth.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahab.md), (../names/ahaziah.md), (../names/aram.md), (../names/gad.md), (../names/jehoshaphat.md), (../names/jehu.md), (../names/joram.md), (../names/jordanriver.md), (../names/kingdomofjudah.md), (../other/refuge.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11022003",
+          "start_ref_usfm": "1KI 22:3",
+          "end_ref": "11022003",
+          "end_ref_usfm": "1KI 22:3"
+        },
+        {
+          "start_ref": "13006073",
+          "start_ref_usfm": "1CH 6:73",
+          "end_ref": "13006073",
+          "end_ref_usfm": "1CH 6:73"
+        },
+        {
+          "start_ref": "14018003",
+          "start_ref_usfm": "2CH 18:3",
+          "end_ref": "14018003",
+          "end_ref_usfm": "2CH 18:3"
+        },
+        {
+          "start_ref": "12008028",
+          "start_ref_usfm": "2KI 8:28",
+          "end_ref": "12008029",
+          "end_ref_usfm": "2KI 8:29"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25441,
+          "content_id": 466622,
+          "label": "Achazia",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25764,
+          "content_id": 466915,
+          "label": "Gad",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 467037,
+          "label": "Josaphat",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25893,
+          "content_id": 467038,
+          "label": "Jéhu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25916,
+          "content_id": 467061,
+          "label": "Joram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25917,
+          "content_id": 467062,
+          "label": "Le Jourdain",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26164,
+          "content_id": 467284,
+          "label": "Refuge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

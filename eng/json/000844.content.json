@@ -1,0 +1,233 @@
+[
+  {
+    "content_id": 27117,
+    "reference_id": 26259,
+    "title": "Staff",
+    "media_type": "Text",
+    "index_reference": "staff",
+    "language": "eng",
+    "content": "<h1>staff, clubs</h1><h2>Definition:</h2><p>A staff is a long wooden stick or rod, often used as a walking stick.</p><ul><li><p>When Jacob was old, he used a staff to help him walk.</p></li><li><p>God turned Moses’ staff into a snake to show his power to Pharaoh.</p></li><li><p>Shepherds also used a staff to help guide their sheep, or to rescue the sheep when they fell or wandered.</p></li><li><p>The shepherd’s staff had a hook on the end, so it differed from the shepherd’s rod, which was straight and was used to kill wild animals that were trying to attack the sheep.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26094\" data-resourceType=\"UWTranslationWords\">Pharaoh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_power\" data-resourceType=\"UWTranslationWords\">power</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">sheep</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26226\" data-resourceType=\"UWTranslationWords\">shepherd</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Exod4:1-Exod4:3\">Exodus 4:1–3</a></p></li><li><p><a href=\"https://ref.ly/Exod7:9\">Exodus 7:9</a></p></li><li><p><a href=\"https://ref.ly/Luke9:3\">Luke 9:3</a></p></li><li><p><a href=\"https://ref.ly/Mark6:7-Mark6:9\">Mark 6:7–9</a></p></li><li><p><a href=\"https://ref.ly/Matt10:8-Matt10:10\">Matthew 10:8–10</a></p></li><li><p><a href=\"https://ref.ly/Matt27:29\">Matthew 27:29</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4132, H4294, H4731, H4938, H6086, H6418, H7626, G25630, G35860, G44640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01038018",
+          "start_ref_usfm": "GEN 38:18",
+          "end_ref": "01038018",
+          "end_ref_usfm": "GEN 38:18"
+        },
+        {
+          "start_ref": "01038025",
+          "start_ref_usfm": "GEN 38:25",
+          "end_ref": "01038025",
+          "end_ref_usfm": "GEN 38:25"
+        },
+        {
+          "start_ref": "02004002",
+          "start_ref_usfm": "EXO 4:2",
+          "end_ref": "02004002",
+          "end_ref_usfm": "EXO 4:2"
+        },
+        {
+          "start_ref": "02004004",
+          "start_ref_usfm": "EXO 4:4",
+          "end_ref": "02004004",
+          "end_ref_usfm": "EXO 4:4"
+        },
+        {
+          "start_ref": "02004017",
+          "start_ref_usfm": "EXO 4:17",
+          "end_ref": "02004017",
+          "end_ref_usfm": "EXO 4:17"
+        },
+        {
+          "start_ref": "02004020",
+          "start_ref_usfm": "EXO 4:20",
+          "end_ref": "02004020",
+          "end_ref_usfm": "EXO 4:20"
+        },
+        {
+          "start_ref": "02007009",
+          "start_ref_usfm": "EXO 7:9",
+          "end_ref": "02007009",
+          "end_ref_usfm": "EXO 7:9"
+        },
+        {
+          "start_ref": "02007010",
+          "start_ref_usfm": "EXO 7:10",
+          "end_ref": "02007010",
+          "end_ref_usfm": "EXO 7:10"
+        },
+        {
+          "start_ref": "02007012",
+          "start_ref_usfm": "EXO 7:12",
+          "end_ref": "02007012",
+          "end_ref_usfm": "EXO 7:12"
+        },
+        {
+          "start_ref": "02007015",
+          "start_ref_usfm": "EXO 7:15",
+          "end_ref": "02007015",
+          "end_ref_usfm": "EXO 7:15"
+        },
+        {
+          "start_ref": "02007017",
+          "start_ref_usfm": "EXO 7:17",
+          "end_ref": "02007017",
+          "end_ref_usfm": "EXO 7:17"
+        },
+        {
+          "start_ref": "02007019",
+          "start_ref_usfm": "EXO 7:19",
+          "end_ref": "02007019",
+          "end_ref_usfm": "EXO 7:19"
+        },
+        {
+          "start_ref": "02007020",
+          "start_ref_usfm": "EXO 7:20",
+          "end_ref": "02007020",
+          "end_ref_usfm": "EXO 7:20"
+        },
+        {
+          "start_ref": "02008005",
+          "start_ref_usfm": "EXO 8:5",
+          "end_ref": "02008005",
+          "end_ref_usfm": "EXO 8:5"
+        },
+        {
+          "start_ref": "02008016",
+          "start_ref_usfm": "EXO 8:16",
+          "end_ref": "02008016",
+          "end_ref_usfm": "EXO 8:16"
+        },
+        {
+          "start_ref": "02008017",
+          "start_ref_usfm": "EXO 8:17",
+          "end_ref": "02008017",
+          "end_ref_usfm": "EXO 8:17"
+        },
+        {
+          "start_ref": "02009023",
+          "start_ref_usfm": "EXO 9:23",
+          "end_ref": "02009023",
+          "end_ref_usfm": "EXO 9:23"
+        },
+        {
+          "start_ref": "02010013",
+          "start_ref_usfm": "EXO 10:13",
+          "end_ref": "02010013",
+          "end_ref_usfm": "EXO 10:13"
+        },
+        {
+          "start_ref": "02012011",
+          "start_ref_usfm": "EXO 12:11",
+          "end_ref": "02012011",
+          "end_ref_usfm": "EXO 12:11"
+        },
+        {
+          "start_ref": "02014016",
+          "start_ref_usfm": "EXO 14:16",
+          "end_ref": "02014016",
+          "end_ref_usfm": "EXO 14:16"
+        },
+        {
+          "start_ref": "02017005",
+          "start_ref_usfm": "EXO 17:5",
+          "end_ref": "02017005",
+          "end_ref_usfm": "EXO 17:5"
+        },
+        {
+          "start_ref": "02017009",
+          "start_ref_usfm": "EXO 17:9",
+          "end_ref": "02017009",
+          "end_ref_usfm": "EXO 17:9"
+        },
+        {
+          "start_ref": "02021019",
+          "start_ref_usfm": "EXO 21:19",
+          "end_ref": "02021019",
+          "end_ref_usfm": "EXO 21:19"
+        },
+        {
+          "start_ref": "40010010",
+          "start_ref_usfm": "MAT 10:10",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "40027029",
+          "start_ref_usfm": "MAT 27:29",
+          "end_ref": "40027029",
+          "end_ref_usfm": "MAT 27:29"
+        },
+        {
+          "start_ref": "40027030",
+          "start_ref_usfm": "MAT 27:30",
+          "end_ref": "40027030",
+          "end_ref_usfm": "MAT 27:30"
+        },
+        {
+          "start_ref": "41006008",
+          "start_ref_usfm": "MRK 6:8",
+          "end_ref": "41006008",
+          "end_ref_usfm": "MRK 6:8"
+        },
+        {
+          "start_ref": "42009003",
+          "start_ref_usfm": "LUK 9:3",
+          "end_ref": "42009003",
+          "end_ref_usfm": "LUK 9:3"
+        },
+        {
+          "start_ref": "58011021",
+          "start_ref_usfm": "HEB 11:21",
+          "end_ref": "58011021",
+          "end_ref_usfm": "HEB 11:21"
+        },
+        {
+          "start_ref": "66011001",
+          "start_ref_usfm": "REV 11:1",
+          "end_ref": "66011001",
+          "end_ref_usfm": "REV 11:1"
+        },
+        {
+          "start_ref": "40010008",
+          "start_ref_usfm": "MAT 10:8",
+          "end_ref": "40010010",
+          "end_ref_usfm": "MAT 10:10"
+        },
+        {
+          "start_ref": "41006007",
+          "start_ref_usfm": "MRK 6:7",
+          "end_ref": "41006009",
+          "end_ref_usfm": "MRK 6:9"
+        },
+        {
+          "start_ref": "02004001",
+          "start_ref_usfm": "EXO 4:1",
+          "end_ref": "02004003",
+          "end_ref_usfm": "EXO 4:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26094,
+          "content_id": 26952,
+          "label": "Pharaoh",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 27082,
+          "label": "Sheep",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 27084,
+          "label": "Shepherd",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

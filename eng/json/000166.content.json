@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 26439,
+    "reference_id": 25581,
+    "title": "Chaff",
+    "media_type": "Text",
+    "index_reference": "chaff",
+    "language": "eng",
+    "content": "<h1>chaff</h1><h2>Definition:</h2><p>Chaff is a dry protective covering of a grain seed. The chaff is not good for food so people separate it from the seed and throw it away.</p><ul><li><p>Often, the chaff is separated from the seed by throwing the heads of grain up into the air. The wind blows the chaff away and the seed falls on the ground. This process is called “winnowing.”</p></li><li><p>In the Bible, this term is also used figuratively to refer to evil people and evil, worthless things.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">grain</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26345\" data-resourceType=\"UWTranslationWords\">wheat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26349\" data-resourceType=\"UWTranslationWords\">winnow</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Dan2:35\">Daniel 2:35</a></p></li><li><p><a href=\"https://ref.ly/Job21:18\">Job 21:18</a></p></li><li><p><a href=\"https://ref.ly/Luke3:17\">Luke 3:17</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">Matthew 3:12</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2842, H4671, H5784, H8401, G08920</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18021018",
+          "start_ref_usfm": "JOB 21:18",
+          "end_ref": "18021018",
+          "end_ref_usfm": "JOB 21:18"
+        },
+        {
+          "start_ref": "27002035",
+          "start_ref_usfm": "DAN 2:35",
+          "end_ref": "27002035",
+          "end_ref_usfm": "DAN 2:35"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25801,
+          "content_id": 26659,
+          "label": "Grain",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26345,
+          "content_id": 27203,
+          "label": "Wheat",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26349,
+          "content_id": 27207,
+          "label": "Winnow",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

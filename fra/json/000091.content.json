@@ -1,0 +1,305 @@
+[
+  {
+    "content_id": 466784,
+    "reference_id": 25617,
+    "title": "Avocat",
+    "media_type": "Text",
+    "index_reference": "avocat",
+    "language": "fra",
+    "content": "<h1>avocat ,conseiller ,conseil</h1><h2>Définition :</h2><p>Les termes «conseiller» et «conseil» ont la même signification et se réfèrent à aider quelqu&apos;un à décider à bon escient sur ce qu&apos;il faut faire dans une certaine situation* Un «conseiller» sage ou un «conseiller» est celui qui donne des conseils ou l&apos;avocat qui va aider une personne à faire des choix justes.</p><ul><li><p>Les rois ont souvent des conseillers officiels ou des conseillers pour les aider à décider des questions importantes qui affectent les personnes qu&apos;ils gouvernent.</p></li><li><p>Parfois, le conseil ou l&apos;avocat qui est donné n&apos;est pas bon* Les mauvais conseillers peuvent pousser un roi à prendre des mesures ou à rédiger un décret qui nuisent au roi ou son peuple.</p></li><li><p>Selon le contexte, «avis» ou «conseil» pourrait aussi être traduit par &quot;aider à décider» ou «avertissements» ou «exhortations» ou «conseils».</p></li><li><p>Le terme, &quot;avocat&quot; pourrait être traduit par «conseiller» ou « faire des suggestions» ou «exhorter».</p></li><li><p>Notez que cette définition du mot «conseil» est différente de la définition du mot «conseil», qui fait référence à un groupe de personnes.</p></li></ul><p>(Voir aussi : (../kt/exhort.md), (../kt/holyspirit.md), (../kt/wise.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02018019",
+          "start_ref_usfm": "EXO 18:19",
+          "end_ref": "02018019",
+          "end_ref_usfm": "EXO 18:19"
+        },
+        {
+          "start_ref": "15004005",
+          "start_ref_usfm": "EZR 4:5",
+          "end_ref": "15004005",
+          "end_ref_usfm": "EZR 4:5"
+        },
+        {
+          "start_ref": "15007014",
+          "start_ref_usfm": "EZR 7:14",
+          "end_ref": "15007014",
+          "end_ref_usfm": "EZR 7:14"
+        },
+        {
+          "start_ref": "15007015",
+          "start_ref_usfm": "EZR 7:15",
+          "end_ref": "15007015",
+          "end_ref_usfm": "EZR 7:15"
+        },
+        {
+          "start_ref": "15007028",
+          "start_ref_usfm": "EZR 7:28",
+          "end_ref": "15007028",
+          "end_ref_usfm": "EZR 7:28"
+        },
+        {
+          "start_ref": "15008025",
+          "start_ref_usfm": "EZR 8:25",
+          "end_ref": "15008025",
+          "end_ref_usfm": "EZR 8:25"
+        },
+        {
+          "start_ref": "15010003",
+          "start_ref_usfm": "EZR 10:3",
+          "end_ref": "15010003",
+          "end_ref_usfm": "EZR 10:3"
+        },
+        {
+          "start_ref": "15010008",
+          "start_ref_usfm": "EZR 10:8",
+          "end_ref": "15010008",
+          "end_ref_usfm": "EZR 10:8"
+        },
+        {
+          "start_ref": "18003014",
+          "start_ref_usfm": "JOB 3:14",
+          "end_ref": "18003014",
+          "end_ref_usfm": "JOB 3:14"
+        },
+        {
+          "start_ref": "18012017",
+          "start_ref_usfm": "JOB 12:17",
+          "end_ref": "18012017",
+          "end_ref_usfm": "JOB 12:17"
+        },
+        {
+          "start_ref": "18026003",
+          "start_ref_usfm": "JOB 26:3",
+          "end_ref": "18026003",
+          "end_ref_usfm": "JOB 26:3"
+        },
+        {
+          "start_ref": "20001025",
+          "start_ref_usfm": "PRO 1:25",
+          "end_ref": "20001025",
+          "end_ref_usfm": "PRO 1:25"
+        },
+        {
+          "start_ref": "20001030",
+          "start_ref_usfm": "PRO 1:30",
+          "end_ref": "20001030",
+          "end_ref_usfm": "PRO 1:30"
+        },
+        {
+          "start_ref": "20003032",
+          "start_ref_usfm": "PRO 3:32",
+          "end_ref": "20003032",
+          "end_ref_usfm": "PRO 3:32"
+        },
+        {
+          "start_ref": "20008014",
+          "start_ref_usfm": "PRO 8:14",
+          "end_ref": "20008014",
+          "end_ref_usfm": "PRO 8:14"
+        },
+        {
+          "start_ref": "20011014",
+          "start_ref_usfm": "PRO 11:14",
+          "end_ref": "20011014",
+          "end_ref_usfm": "PRO 11:14"
+        },
+        {
+          "start_ref": "20012015",
+          "start_ref_usfm": "PRO 12:15",
+          "end_ref": "20012015",
+          "end_ref_usfm": "PRO 12:15"
+        },
+        {
+          "start_ref": "20012020",
+          "start_ref_usfm": "PRO 12:20",
+          "end_ref": "20012020",
+          "end_ref_usfm": "PRO 12:20"
+        },
+        {
+          "start_ref": "20013010",
+          "start_ref_usfm": "PRO 13:10",
+          "end_ref": "20013010",
+          "end_ref_usfm": "PRO 13:10"
+        },
+        {
+          "start_ref": "20015022",
+          "start_ref_usfm": "PRO 15:22",
+          "end_ref": "20015022",
+          "end_ref_usfm": "PRO 15:22"
+        },
+        {
+          "start_ref": "20019020",
+          "start_ref_usfm": "PRO 19:20",
+          "end_ref": "20019020",
+          "end_ref_usfm": "PRO 19:20"
+        },
+        {
+          "start_ref": "20019021",
+          "start_ref_usfm": "PRO 19:21",
+          "end_ref": "20019021",
+          "end_ref_usfm": "PRO 19:21"
+        },
+        {
+          "start_ref": "20020005",
+          "start_ref_usfm": "PRO 20:5",
+          "end_ref": "20020005",
+          "end_ref_usfm": "PRO 20:5"
+        },
+        {
+          "start_ref": "20020018",
+          "start_ref_usfm": "PRO 20:18",
+          "end_ref": "20020018",
+          "end_ref_usfm": "PRO 20:18"
+        },
+        {
+          "start_ref": "20021030",
+          "start_ref_usfm": "PRO 21:30",
+          "end_ref": "20021030",
+          "end_ref_usfm": "PRO 21:30"
+        },
+        {
+          "start_ref": "20022020",
+          "start_ref_usfm": "PRO 22:20",
+          "end_ref": "20022020",
+          "end_ref_usfm": "PRO 22:20"
+        },
+        {
+          "start_ref": "20024006",
+          "start_ref_usfm": "PRO 24:6",
+          "end_ref": "20024006",
+          "end_ref_usfm": "PRO 24:6"
+        },
+        {
+          "start_ref": "20027009",
+          "start_ref_usfm": "PRO 27:9",
+          "end_ref": "20027009",
+          "end_ref_usfm": "PRO 27:9"
+        },
+        {
+          "start_ref": "40012014",
+          "start_ref_usfm": "MAT 12:14",
+          "end_ref": "40012014",
+          "end_ref_usfm": "MAT 12:14"
+        },
+        {
+          "start_ref": "40022015",
+          "start_ref_usfm": "MAT 22:15",
+          "end_ref": "40022015",
+          "end_ref_usfm": "MAT 22:15"
+        },
+        {
+          "start_ref": "40027001",
+          "start_ref_usfm": "MAT 27:1",
+          "end_ref": "40027001",
+          "end_ref_usfm": "MAT 27:1"
+        },
+        {
+          "start_ref": "40027007",
+          "start_ref_usfm": "MAT 27:7",
+          "end_ref": "40027007",
+          "end_ref_usfm": "MAT 27:7"
+        },
+        {
+          "start_ref": "40028012",
+          "start_ref_usfm": "MAT 28:12",
+          "end_ref": "40028012",
+          "end_ref_usfm": "MAT 28:12"
+        },
+        {
+          "start_ref": "41003006",
+          "start_ref_usfm": "MRK 3:6",
+          "end_ref": "41003006",
+          "end_ref_usfm": "MRK 3:6"
+        },
+        {
+          "start_ref": "42014031",
+          "start_ref_usfm": "LUK 14:31",
+          "end_ref": "42014031",
+          "end_ref_usfm": "LUK 14:31"
+        },
+        {
+          "start_ref": "43011053",
+          "start_ref_usfm": "JHN 11:53",
+          "end_ref": "43011053",
+          "end_ref_usfm": "JHN 11:53"
+        },
+        {
+          "start_ref": "43012010",
+          "start_ref_usfm": "JHN 12:10",
+          "end_ref": "43012010",
+          "end_ref_usfm": "JHN 12:10"
+        },
+        {
+          "start_ref": "43018014",
+          "start_ref_usfm": "JHN 18:14",
+          "end_ref": "43018014",
+          "end_ref_usfm": "JHN 18:14"
+        },
+        {
+          "start_ref": "44002023",
+          "start_ref_usfm": "ACT 2:23",
+          "end_ref": "44002023",
+          "end_ref_usfm": "ACT 2:23"
+        },
+        {
+          "start_ref": "44004028",
+          "start_ref_usfm": "ACT 4:28",
+          "end_ref": "44004028",
+          "end_ref_usfm": "ACT 4:28"
+        },
+        {
+          "start_ref": "44013036",
+          "start_ref_usfm": "ACT 13:36",
+          "end_ref": "44013036",
+          "end_ref_usfm": "ACT 13:36"
+        },
+        {
+          "start_ref": "44020027",
+          "start_ref_usfm": "ACT 20:27",
+          "end_ref": "44020027",
+          "end_ref_usfm": "ACT 20:27"
+        },
+        {
+          "start_ref": "45011034",
+          "start_ref_usfm": "ROM 11:34",
+          "end_ref": "45011034",
+          "end_ref_usfm": "ROM 11:34"
+        },
+        {
+          "start_ref": "49001011",
+          "start_ref_usfm": "EPH 1:11",
+          "end_ref": "49001011",
+          "end_ref_usfm": "EPH 1:11"
+        },
+        {
+          "start_ref": "66003018",
+          "start_ref_usfm": "REV 3:18",
+          "end_ref": "66003018",
+          "end_ref_usfm": "REV 3:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25720,
+          "content_id": 466879,
+          "label": "Exhorter",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 466991,
+          "label": "Saint-Esprit",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26350,
+          "content_id": 467458,
+          "label": "Sage",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

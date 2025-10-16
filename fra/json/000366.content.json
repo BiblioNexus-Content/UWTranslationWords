@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466924,
+    "reference_id": 25775,
+    "title": "Gueshur",
+    "media_type": "Text",
+    "index_reference": "gueshur",
+    "language": "fra",
+    "content": "<h1>Gueshur</h1><h2>Définition :</h2><p>&quot;Pendant le temps du roi David, Gueshur était un petit royaume situé sur la côte est de la mer de Galilée, entre les pays d&apos;Israël et Aram.</p><ul><li><p>David a scellé une alliance avec Gueshur en épousant Maaca, fille de son roi.</p></li><li><p>Maaca a donné à David un fils, Absalom.</p></li><li><p>Après le meurtre de son demi-frère Amnon, Absalom a fui au nord-est de Jérusalem à Gueschur, une distance d&apos;environ 141,622 km.</p></li></ul><p>(Voir aussi : (../names/absalom.md), (../names/amnon.md), (../names/aram.md), (../names/seaofgalilee.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003014",
+          "start_ref_usfm": "DEU 3:14",
+          "end_ref": "05003014",
+          "end_ref_usfm": "DEU 3:14"
+        },
+        {
+          "start_ref": "13002023",
+          "start_ref_usfm": "1CH 2:23",
+          "end_ref": "13002023",
+          "end_ref_usfm": "1CH 2:23"
+        },
+        {
+          "start_ref": "10003002",
+          "start_ref_usfm": "2SA 3:2",
+          "end_ref": "10003003",
+          "end_ref_usfm": "2SA 3:3"
+        },
+        {
+          "start_ref": "06012003",
+          "start_ref_usfm": "JOS 12:3",
+          "end_ref": "06012005",
+          "end_ref_usfm": "JOS 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 466607,
+          "label": "Absalom",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25453,
+          "content_id": 466634,
+          "label": "Amnon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 466650,
+          "label": "Aram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 467326,
+          "label": "Mer de Galilée",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

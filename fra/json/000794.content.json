@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 467348,
+    "reference_id": 26232,
+    "title": "Sidon",
+    "media_type": "Text",
+    "index_reference": "sidon",
+    "language": "fra",
+    "content": "<h1>Sidon, Sidoniens</h1><h2>Définition :</h2><p>Sidon était le fils aîné de Canaan* Il y a aussi une ville cananéenne appelée Sidon.</p><ul><li><p>La ville de Sidon est située sur la côte de la mer Méditerranée dans une région qui fait maintenant partie du pays actuel du Liban.</p></li><li><p>Les «Sidoniens» étaient un groupe de personnes ayant vécu dans l&apos;ancienne Sidon et la région qui l&apos;entoure* Ces gens étaient des gentils.</p></li><li><p>Dans la Bible, Sidon est étroitement associée à la ville de Tyr, et les deux villes ont été connues pour leurs richesses et le comportement immoral de leur peuple</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/canaan.md), (../names/noah.md), (../names/phonecia.md), (../names/mediterranean.md), (../names/tyre.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010015",
+          "end_ref_usfm": "GEN 10:15"
+        },
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "01049013",
+          "start_ref_usfm": "GEN 49:13",
+          "end_ref": "01049013",
+          "end_ref_usfm": "GEN 49:13"
+        },
+        {
+          "start_ref": "15003007",
+          "start_ref_usfm": "EZR 3:7",
+          "end_ref": "15003007",
+          "end_ref_usfm": "EZR 3:7"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "40011022",
+          "start_ref_usfm": "MAT 11:22",
+          "end_ref": "40011022",
+          "end_ref_usfm": "MAT 11:22"
+        },
+        {
+          "start_ref": "40015021",
+          "start_ref_usfm": "MAT 15:21",
+          "end_ref": "40015021",
+          "end_ref_usfm": "MAT 15:21"
+        },
+        {
+          "start_ref": "40015022",
+          "start_ref_usfm": "MAT 15:22",
+          "end_ref": "40015022",
+          "end_ref_usfm": "MAT 15:22"
+        },
+        {
+          "start_ref": "41003008",
+          "start_ref_usfm": "MRK 3:8",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        },
+        {
+          "start_ref": "41007024",
+          "start_ref_usfm": "MRK 7:24",
+          "end_ref": "41007024",
+          "end_ref_usfm": "MRK 7:24"
+        },
+        {
+          "start_ref": "41007031",
+          "start_ref_usfm": "MRK 7:31",
+          "end_ref": "41007031",
+          "end_ref_usfm": "MRK 7:31"
+        },
+        {
+          "start_ref": "42004026",
+          "start_ref_usfm": "LUK 4:26",
+          "end_ref": "42004026",
+          "end_ref_usfm": "LUK 4:26"
+        },
+        {
+          "start_ref": "42006017",
+          "start_ref_usfm": "LUK 6:17",
+          "end_ref": "42006017",
+          "end_ref_usfm": "LUK 6:17"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "42010014",
+          "start_ref_usfm": "LUK 10:14",
+          "end_ref": "42010014",
+          "end_ref_usfm": "LUK 10:14"
+        },
+        {
+          "start_ref": "44012020",
+          "start_ref_usfm": "ACT 12:20",
+          "end_ref": "44012020",
+          "end_ref_usfm": "ACT 12:20"
+        },
+        {
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027003",
+          "end_ref_usfm": "ACT 27:3"
+        },
+        {
+          "start_ref": "41003007",
+          "start_ref_usfm": "MRK 3:7",
+          "end_ref": "41003008",
+          "end_ref_usfm": "MRK 3:8"
+        },
+        {
+          "start_ref": "01010015",
+          "start_ref_usfm": "GEN 10:15",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "44027003",
+          "start_ref_usfm": "ACT 27:3",
+          "end_ref": "44027006",
+          "end_ref_usfm": "ACT 27:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26102,
+          "content_id": 467226,
+          "label": "Phénicie&quot;",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26326,
+          "content_id": 467437,
+          "label": "Tyr",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

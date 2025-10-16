@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 467415,
+    "reference_id": 26301,
+    "title": "Seuil",
+    "media_type": "Text",
+    "index_reference": "seuil",
+    "language": "fra",
+    "content": "<h1>seuil</h1><h2>Définition :</h2><p>&quot;Le «seuil» est la partie inférieure d&apos;une porte* Lorsque vous entrez dans un bâtiment, il est nécessaire de marcher sur le seuil.</p><ul><li><p>Parfois, le seuil comprend également la partie du bâtiment qui est juste à l&apos;intérieur de la porte.</p></li><li><p>Une porte a également un seuil.</p></li></ul><p>(Voir aussi : (../other/gate.md), (../other/tent.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017019",
+          "start_ref_usfm": "PRO 17:19",
+          "end_ref": "20017019",
+          "end_ref_usfm": "PRO 17:19"
+        },
+        {
+          "start_ref": "23006004",
+          "start_ref_usfm": "ISA 6:4",
+          "end_ref": "23006004",
+          "end_ref_usfm": "ISA 6:4"
+        },
+        {
+          "start_ref": "26009003",
+          "start_ref_usfm": "EZK 9:3",
+          "end_ref": "26009003",
+          "end_ref_usfm": "EZK 9:3"
+        },
+        {
+          "start_ref": "13009017",
+          "start_ref_usfm": "1CH 9:17",
+          "end_ref": "13009019",
+          "end_ref_usfm": "1CH 9:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 466918,
+          "label": "Porte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26287,
+          "content_id": 467401,
+          "label": "Tente",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

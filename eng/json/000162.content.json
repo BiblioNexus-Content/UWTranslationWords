@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26435,
+    "reference_id": 25577,
+    "title": "Caught Up",
+    "media_type": "Text",
+    "index_reference": "caught up",
+    "language": "eng",
+    "content": "<h1>caught up</h1><h2>Definition:</h2><p>The term “caught up” often refers to God taking a person up to heaven in a sudden, miraculous way.</p><ul><li><p>The phrase “caught up with” refers to coming up to someone after hurrying to reach him. A term with a similar meaning is “overtake.”</p></li><li><p>The apostle Paul talked about being “caught up” to the third heaven. This could also be translated as “taken up.”</p></li><li><p>Paul said that when Christ comes back, Christians will be “caught up” together to meet him in the air.</p></li><li><p>The figurative expression, “my sins have caught up with me” could be translated as “I am receiving the consequences of my sin” or “because of my sin I am suffering” or “my sin is causing me trouble.”</p></li></ul><p>(see: <span data-bnType=\"resourceReference\" data-resourceId=\"26022\" data-resourceType=\"UWTranslationWords\">miracle</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26068\" data-resourceType=\"UWTranslationWords\">overtake</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26272\" data-resourceType=\"UWTranslationWords\">suffer</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26320\" data-resourceType=\"UWTranslationWords\">trouble</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/2Cor12:1-2Cor12:2\">2 Corinthians 12:1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts8:39-Acts8:40\">Acts 8:39–40</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1692, G07260</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031023",
+          "start_ref_usfm": "GEN 31:23",
+          "end_ref": "01031023",
+          "end_ref_usfm": "GEN 31:23"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008039",
+          "end_ref_usfm": "ACT 8:39"
+        },
+        {
+          "start_ref": "47012002",
+          "start_ref_usfm": "2CO 12:2",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        },
+        {
+          "start_ref": "47012004",
+          "start_ref_usfm": "2CO 12:4",
+          "end_ref": "47012004",
+          "end_ref_usfm": "2CO 12:4"
+        },
+        {
+          "start_ref": "52004017",
+          "start_ref_usfm": "1TH 4:17",
+          "end_ref": "52004017",
+          "end_ref_usfm": "1TH 4:17"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "44008039",
+          "start_ref_usfm": "ACT 8:39",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "47012001",
+          "start_ref_usfm": "2CO 12:1",
+          "end_ref": "47012002",
+          "end_ref_usfm": "2CO 12:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26022,
+          "content_id": 26880,
+          "label": "Miracle",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26068,
+          "content_id": 26926,
+          "label": "Overtake",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26272,
+          "content_id": 27130,
+          "label": "Suffer",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26320,
+          "content_id": 27178,
+          "label": "Trouble",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 467169,
+    "reference_id": 26032,
+    "title": "Très Haut",
+    "media_type": "Text",
+    "index_reference": "très haut",
+    "language": "fra",
+    "content": "<h1>Très Haut</h1><h2>Définition :</h2><p>Le terme « Très Haut » est un titre pour Dieu qui fait référence à sa grandeur ou à son autorité.</p><ul><li><p>La signification de ce terme est semblable à « souverain » ou « suprême ».</p></li><li><p>Le mot « haut » dans ce titre ne se réfère pas à la hauteur physique ou son élévation. Il se réfère à la grandeur.</p></li></ul><h2>traduction Suggestions</h2><ul><li><p>Ce terme peut aussi être traduit par « Dieu Très-Haut » ou « l&apos;Être Suprême » ou « Dieu, qui est plus grand que tout » ou « Dieu le plus élevé ».</p></li><li><p>Si un mot comme « élevé » est utilisé, assurez-vous qu&apos;il ne se réfère pas à être physiquement élevé ou grand.</p></li></ul><p>(Voir aussi : (../kt/god.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014018",
+          "start_ref_usfm": "GEN 14:18",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "01014019",
+          "start_ref_usfm": "GEN 14:19",
+          "end_ref": "01014019",
+          "end_ref_usfm": "GEN 14:19"
+        },
+        {
+          "start_ref": "01014020",
+          "start_ref_usfm": "GEN 14:20",
+          "end_ref": "01014020",
+          "end_ref_usfm": "GEN 14:20"
+        },
+        {
+          "start_ref": "01014022",
+          "start_ref_usfm": "GEN 14:22",
+          "end_ref": "01014022",
+          "end_ref_usfm": "GEN 14:22"
+        },
+        {
+          "start_ref": "25003035",
+          "start_ref_usfm": "LAM 3:35",
+          "end_ref": "25003035",
+          "end_ref_usfm": "LAM 3:35"
+        },
+        {
+          "start_ref": "28007016",
+          "start_ref_usfm": "HOS 7:16",
+          "end_ref": "28007016",
+          "end_ref_usfm": "HOS 7:16"
+        },
+        {
+          "start_ref": "41005007",
+          "start_ref_usfm": "MRK 5:7",
+          "end_ref": "41005007",
+          "end_ref_usfm": "MRK 5:7"
+        },
+        {
+          "start_ref": "42001032",
+          "start_ref_usfm": "LUK 1:32",
+          "end_ref": "42001032",
+          "end_ref_usfm": "LUK 1:32"
+        },
+        {
+          "start_ref": "42001035",
+          "start_ref_usfm": "LUK 1:35",
+          "end_ref": "42001035",
+          "end_ref_usfm": "LUK 1:35"
+        },
+        {
+          "start_ref": "42001076",
+          "start_ref_usfm": "LUK 1:76",
+          "end_ref": "42001076",
+          "end_ref_usfm": "LUK 1:76"
+        },
+        {
+          "start_ref": "42006035",
+          "start_ref_usfm": "LUK 6:35",
+          "end_ref": "42006035",
+          "end_ref_usfm": "LUK 6:35"
+        },
+        {
+          "start_ref": "42008028",
+          "start_ref_usfm": "LUK 8:28",
+          "end_ref": "42008028",
+          "end_ref_usfm": "LUK 8:28"
+        },
+        {
+          "start_ref": "44007048",
+          "start_ref_usfm": "ACT 7:48",
+          "end_ref": "44007048",
+          "end_ref_usfm": "ACT 7:48"
+        },
+        {
+          "start_ref": "44016017",
+          "start_ref_usfm": "ACT 16:17",
+          "end_ref": "44016017",
+          "end_ref_usfm": "ACT 16:17"
+        },
+        {
+          "start_ref": "58007001",
+          "start_ref_usfm": "HEB 7:1",
+          "end_ref": "58007001",
+          "end_ref_usfm": "HEB 7:1"
+        },
+        {
+          "start_ref": "44016016",
+          "start_ref_usfm": "ACT 16:16",
+          "end_ref": "44016018",
+          "end_ref_usfm": "ACT 16:18"
+        },
+        {
+          "start_ref": "44007047",
+          "start_ref_usfm": "ACT 7:47",
+          "end_ref": "44007050",
+          "end_ref_usfm": "ACT 7:50"
+        },
+        {
+          "start_ref": "27004017",
+          "start_ref_usfm": "DAN 4:17",
+          "end_ref": "27004018",
+          "end_ref_usfm": "DAN 4:18"
+        },
+        {
+          "start_ref": "05032007",
+          "start_ref_usfm": "DEU 32:7",
+          "end_ref": "05032008",
+          "end_ref_usfm": "DEU 32:8"
+        },
+        {
+          "start_ref": "01014017",
+          "start_ref_usfm": "GEN 14:17",
+          "end_ref": "01014018",
+          "end_ref_usfm": "GEN 14:18"
+        },
+        {
+          "start_ref": "58007001",
+          "start_ref_usfm": "HEB 7:1",
+          "end_ref": "58007003",
+          "end_ref_usfm": "HEB 7:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

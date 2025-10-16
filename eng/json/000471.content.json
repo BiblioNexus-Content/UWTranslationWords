@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 26743,
+    "reference_id": 25885,
+    "title": "Japheth",
+    "media_type": "Text",
+    "index_reference": "japheth",
+    "language": "eng",
+    "content": "<h1>Japheth</h1><h2>Facts:</h2><p>Japheth was one of Noah’s three sons.</p><ul><li><p>During the worldwide flood that covered the whole earth, Japheth and his two brothers were with Noah in the ark, along with their wives.</p></li><li><p>Noah’s sons are usually listed as, “Shem, Ham, and Japheth.” This indicates that Japheth was the youngest brother.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25474\" data-resourceType=\"UWTranslationWords\">ark</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25746\" data-resourceType=\"UWTranslationWords\">flood</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25813\" data-resourceType=\"UWTranslationWords\">Ham</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26055\" data-resourceType=\"UWTranslationWords\">Noah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26225\" data-resourceType=\"UWTranslationWords\">Shem</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr1:4\">1 Chronicles 1:4</a></p></li><li><p><a href=\"https://ref.ly/Gen5:32\">Genesis 5:32</a></p></li><li><p><a href=\"https://ref.ly/Gen6:10\">Genesis 6:10</a></p></li><li><p><a href=\"https://ref.ly/Gen7:13-Gen7:14\">Genesis 7:13–14</a></p></li><li><p><a href=\"https://ref.ly/Gen10:1\">Genesis 10:1</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3315</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01005032",
+          "start_ref_usfm": "GEN 5:32",
+          "end_ref": "01005032",
+          "end_ref_usfm": "GEN 5:32"
+        },
+        {
+          "start_ref": "01006010",
+          "start_ref_usfm": "GEN 6:10",
+          "end_ref": "01006010",
+          "end_ref_usfm": "GEN 6:10"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007013",
+          "end_ref_usfm": "GEN 7:13"
+        },
+        {
+          "start_ref": "01009018",
+          "start_ref_usfm": "GEN 9:18",
+          "end_ref": "01009018",
+          "end_ref_usfm": "GEN 9:18"
+        },
+        {
+          "start_ref": "01009023",
+          "start_ref_usfm": "GEN 9:23",
+          "end_ref": "01009023",
+          "end_ref_usfm": "GEN 9:23"
+        },
+        {
+          "start_ref": "01009027",
+          "start_ref_usfm": "GEN 9:27",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010001",
+          "end_ref_usfm": "GEN 10:1"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010021",
+          "start_ref_usfm": "GEN 10:21",
+          "end_ref": "01010021",
+          "end_ref_usfm": "GEN 10:21"
+        },
+        {
+          "start_ref": "13001004",
+          "start_ref_usfm": "1CH 1:4",
+          "end_ref": "13001004",
+          "end_ref_usfm": "1CH 1:4"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007014",
+          "end_ref_usfm": "GEN 7:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 26332,
+          "label": "Ark",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 26604,
+          "label": "Flood",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 26671,
+          "label": "Ham",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 26913,
+          "label": "Noah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 27083,
+          "label": "Shem",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

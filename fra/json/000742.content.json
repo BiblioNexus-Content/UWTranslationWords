@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467294,
+    "reference_id": 26174,
+    "title": "Ruben",
+    "media_type": "Text",
+    "index_reference": "ruben",
+    "language": "fra",
+    "content": "<h1>Ruben</h1><h2>Définition :</h2><p>Ruben était le fils aîné de Jacob* Sa mère était Léa.</p><ul><li><p>Lorsque ses frères avaient l&apos;intention de tuer leur frère cadet Joseph, Ruben épargna la vie de Joseph en leur disant de le mettre dans une fosse .</p></li><li><p>Ruben est revenu plus tard pour sauver Joseph, mais les autres frères l&apos;avait vendu comme esclave aux commerçants qui y passaient .</p></li><li><p>Les descendants de Ruben sont devenus l&apos;une des douze tribus d&apos;Israël.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/jacob.md), (../names/josephot.md), (../names/leah.md), (../other/12tribesofisrael.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029032",
+          "start_ref_usfm": "GEN 29:32",
+          "end_ref": "01029032",
+          "end_ref_usfm": "GEN 29:32"
+        },
+        {
+          "start_ref": "01030014",
+          "start_ref_usfm": "GEN 30:14",
+          "end_ref": "01030014",
+          "end_ref_usfm": "GEN 30:14"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01037021",
+          "start_ref_usfm": "GEN 37:21",
+          "end_ref": "01037021",
+          "end_ref_usfm": "GEN 37:21"
+        },
+        {
+          "start_ref": "01037022",
+          "start_ref_usfm": "GEN 37:22",
+          "end_ref": "01037022",
+          "end_ref_usfm": "GEN 37:22"
+        },
+        {
+          "start_ref": "01037029",
+          "start_ref_usfm": "GEN 37:29",
+          "end_ref": "01037029",
+          "end_ref_usfm": "GEN 37:29"
+        },
+        {
+          "start_ref": "01042022",
+          "start_ref_usfm": "GEN 42:22",
+          "end_ref": "01042022",
+          "end_ref_usfm": "GEN 42:22"
+        },
+        {
+          "start_ref": "01042037",
+          "start_ref_usfm": "GEN 42:37",
+          "end_ref": "01042037",
+          "end_ref_usfm": "GEN 42:37"
+        },
+        {
+          "start_ref": "01046008",
+          "start_ref_usfm": "GEN 46:8",
+          "end_ref": "01046008",
+          "end_ref_usfm": "GEN 46:8"
+        },
+        {
+          "start_ref": "01046009",
+          "start_ref_usfm": "GEN 46:9",
+          "end_ref": "01046009",
+          "end_ref_usfm": "GEN 46:9"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01049003",
+          "start_ref_usfm": "GEN 49:3",
+          "end_ref": "01049003",
+          "end_ref_usfm": "GEN 49:3"
+        },
+        {
+          "start_ref": "02001002",
+          "start_ref_usfm": "EXO 1:2",
+          "end_ref": "02001002",
+          "end_ref_usfm": "EXO 1:2"
+        },
+        {
+          "start_ref": "02006014",
+          "start_ref_usfm": "EXO 6:14",
+          "end_ref": "02006014",
+          "end_ref_usfm": "EXO 6:14"
+        },
+        {
+          "start_ref": "66007005",
+          "start_ref_usfm": "REV 7:5",
+          "end_ref": "66007005",
+          "end_ref_usfm": "REV 7:5"
+        },
+        {
+          "start_ref": "01035021",
+          "start_ref_usfm": "GEN 35:21",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 466598,
+          "label": "Douze tribus d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 467026,
+          "label": "Jacob",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 467101,
+          "label": "Lea",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

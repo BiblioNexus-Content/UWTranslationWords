@@ -1,0 +1,41 @@
+[
+  {
+    "content_id": 237951,
+    "reference_id": 25818,
+    "title": "Ana",
+    "media_type": "Text",
+    "index_reference": "ana",
+    "language": "por",
+    "content": "<h1>Ana</h1><h2>Fatos:</h2><p>Ana foi a mãe do profeta Samuel. Ela era uma das duas esposas de Elcana.</p><ul><li><p>Ana não conseguia conceber um filho, o que era uma grande tristeza para ela.</p></li><li><p>No templo, Ana orou fervorosamente para que Deus lhe desse um filho, prometendo dedicá-lo ao serviço de Deus.</p></li><li><p>Deus atendeu seu pedido, e, quando o menino Samuel tinha idade suficiente, ela o levou para servir no templo.</p></li><li><p>Deus também deu outros filhos a Ana depois disso.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25603\" data-resourceType=\"UWTranslationWords\">conceber</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26194\" data-resourceType=\"UWTranslationWords\">Samuel</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Sam1:1-1Sam1:2\">1 Samuel 1.1–2</a></p></li><li><p><a href=\"https://ref.ly/1Sam2:1\">1 Samuel 2.1</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2584</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002001",
+          "start_ref_usfm": "1SA 2:1",
+          "end_ref": "09002001",
+          "end_ref_usfm": "1SA 2:1"
+        },
+        {
+          "start_ref": "09001001",
+          "start_ref_usfm": "1SA 1:1",
+          "end_ref": "09001002",
+          "end_ref_usfm": "1SA 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25603,
+          "content_id": 237738,
+          "label": "Conceber",
+          "language": "por"
+        },
+        {
+          "reference_id": 26194,
+          "content_id": 238323,
+          "label": "Samuel",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

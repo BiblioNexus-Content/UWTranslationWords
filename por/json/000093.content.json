@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 237620,
+    "reference_id": 25483,
+    "title": "Aserim",
+    "media_type": "Text",
+    "index_reference": "aserim",
+    "language": "por",
+    "content": "<h1>Aserá, Coluna de Aserá, Astarote</h1><h2>Definição:</h2><p>Aserá era o nome de uma deusa adorada pelos grupos de povos cananeus durante os tempos do Antigo Testamento. “Astarote” pode ser outro nome para “Aserá”, ou pode ser o nome de uma deusa diferente que era muito semelhante.</p><ul><li><p>O termo “Coluna de Aserá” refere-se a imagens de madeira esculpidas ou árvores esculpidas que foram feitas para representar essa deusa.</p></li><li><p>As colunas de Aserá eram frequentemente colocadas perto de altares do falso deus Baal, que era considerado o marido de Aserá. Alguns grupos de pessoas adoravam Baal como o deus do sol e Aserá ou Astarote como a deusa da lua.</p></li><li><p>Deus ordenou aos israelitas que destruíssem todas as imagens esculpidas de Aserá.</p></li><li><p>Alguns líderes israelitas, como Gideão, o Rei Asa e o Rei Josias, obedeceram a Deus e lideraram o povo na destruição desses ídolos.</p></li><li><p>Mas outros líderes israelitas, como o Rei Salomão, o Rei Manassés e o Rei Acabe, não se livraram das colunas de Aserá e influenciaram o povo a adorar esses ídolos.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">falso deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25497\" data-resourceType=\"UWTranslationWords\">Baal</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25780\" data-resourceType=\"UWTranslationWords\">Gideão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25863\" data-resourceType=\"UWTranslationWords\">imagem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26249\" data-resourceType=\"UWTranslationWords\">Salomão</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs18:4\">2 Reis 18.4</a></p></li><li><p><a href=\"https://ref.ly/2Kgs21:3\">2 Reis 21.3</a></p></li><li><p><a href=\"https://ref.ly/Isa27:9\">Isaías 27.9</a></p></li><li><p><a href=\"https://ref.ly/Judg3:7-Judg3:8\">Juízes 3.7–8</a></p></li><li><p><a href=\"https://ref.ly/Mic5:14\">Miqueias 5.14</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0842, H6252, H6253</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02034013",
+          "start_ref_usfm": "EXO 34:13",
+          "end_ref": "02034013",
+          "end_ref_usfm": "EXO 34:13"
+        },
+        {
+          "start_ref": "12018004",
+          "start_ref_usfm": "2KI 18:4",
+          "end_ref": "12018004",
+          "end_ref_usfm": "2KI 18:4"
+        },
+        {
+          "start_ref": "12021003",
+          "start_ref_usfm": "2KI 21:3",
+          "end_ref": "12021003",
+          "end_ref_usfm": "2KI 21:3"
+        },
+        {
+          "start_ref": "23027009",
+          "start_ref_usfm": "ISA 27:9",
+          "end_ref": "23027009",
+          "end_ref_usfm": "ISA 27:9"
+        },
+        {
+          "start_ref": "33005014",
+          "start_ref_usfm": "MIC 5:14",
+          "end_ref": "33005014",
+          "end_ref_usfm": "MIC 5:14"
+        },
+        {
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003008",
+          "end_ref_usfm": "JDG 3:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 237633,
+          "label": "Baal",
+          "language": "por"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 237861,
+          "label": "Falso deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25863,
+          "content_id": 237996,
+          "label": "Imagem",
+          "language": "por"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 238378,
+          "label": "Salomão",
+          "language": "por"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 237913,
+          "label": "Gideão",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

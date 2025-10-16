@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 26774,
+    "reference_id": 25916,
+    "title": "Joram",
+    "media_type": "Text",
+    "index_reference": "joram",
+    "language": "eng",
+    "content": "<h1>Joram</h1><h2>Facts:</h2><p>Joram son of Ahab was a king of Israel. He was also sometimes referred to as “Jehoram.”</p><ul><li><p>King Joram of Israel reigned at the same time as King Jehoram of Judah.</p></li><li><p>Joram was an evil king who worshiped false gods and caused Israel to sin.</p></li><li><p>King Joram of Israel also reigned during the time of the prophets Elijah and Obadiah.</p></li><li><p>Another man named Joram was the son of King Tou of Hamath when David was king.</p></li></ul><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Ahab</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elijah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25814\" data-resourceType=\"UWTranslationWords\">Hamath</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25891\" data-resourceType=\"UWTranslationWords\">Jehoram</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25941\" data-resourceType=\"UWTranslationWords\">kingdom of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25924\" data-resourceType=\"UWTranslationWords\">Judah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26059\" data-resourceType=\"UWTranslationWords\">Obadiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">prophet</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr3:10-1Chr3:12\">1 Chronicles 3:10–12</a></p></li><li><p><a href=\"https://ref.ly/2Chr22:4-2Chr22:5\">2 Chronicles 22:4–5</a></p></li><li><p><a href=\"https://ref.ly/2Kgs1:17\">2 Kings 1:17</a></p></li><li><p><a href=\"https://ref.ly/2Kgs8:16\">2 Kings 8:16</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H3088, H3141, G24960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "12008016",
+          "start_ref_usfm": "2KI 8:16",
+          "end_ref": "12008016",
+          "end_ref_usfm": "2KI 8:16"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14022004",
+          "start_ref_usfm": "2CH 22:4",
+          "end_ref": "14022005",
+          "end_ref_usfm": "2CH 22:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 26296,
+          "label": "Ahab",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 26555,
+          "label": "Elijah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25814,
+          "content_id": 26672,
+          "label": "Hamath",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25891,
+          "content_id": 26749,
+          "label": "Jehoram",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 26782,
+          "label": "Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 26799,
+          "label": "Kingdom of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 26800,
+          "label": "Kingdom of Judah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 26917,
+          "label": "Obadiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 26987,
+          "label": "Prophet",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

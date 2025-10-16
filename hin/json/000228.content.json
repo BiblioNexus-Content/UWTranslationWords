@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 179846,
+    "reference_id": 25775,
+    "title": "गशूर",
+    "media_type": "Text",
+    "index_reference": "गशूर",
+    "language": "hin",
+    "content": "<h1>गशूर, गशूरियों</h1><h2>परिभाषा:</h2><p>राजा दाऊद के युग में गशूर गलील सागर के पूर्व में एक छोटा सा राज्य था, जो इस्राएल और अराम राज्यों के मध्य था।</p><ul><li><p>राजा दाऊद ने गशूर के राजा की पुत्री माका से विवाह किया था जिससे अबशालोम उत्पन्न हुआ था।</p></li><li><p>अपने आधे भाई अम्नोन की हत्या करने के बाद अबशालोम यरूशलेम से उत्तर पूर्व में गशूर की ओर भाग गया था जो 140 मील दूर था। वहाँ वह तीन वर्ष तक रहा।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25425\" data-resourceType=\"UWTranslationWords\">अबशालोम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25453\" data-resourceType=\"UWTranslationWords\">अम्नोन</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25471\" data-resourceType=\"UWTranslationWords\">अराम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26207\" data-resourceType=\"UWTranslationWords\">गलील सागर</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 02:23–24</a></p></li><li><p><a href=\"https://ref.ly/2Sam0:0\">2 शमूएल 03:2–3</a></p></li><li><p><a href=\"https://ref.ly/Deut3:14\">व्यवस्थाविवरण 03:14</a></p></li><li><p><a href=\"https://ref.ly/Josh12:3-Josh12:5\">यहोशू 12:3–5</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H1650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003014",
+          "start_ref_usfm": "DEU 3:14",
+          "end_ref": "05003014",
+          "end_ref_usfm": "DEU 3:14"
+        },
+        {
+          "start_ref": "13002023",
+          "start_ref_usfm": "1CH 2:23",
+          "end_ref": "13002023",
+          "end_ref_usfm": "1CH 2:23"
+        },
+        {
+          "start_ref": "10003002",
+          "start_ref_usfm": "2SA 3:2",
+          "end_ref": "10003003",
+          "end_ref_usfm": "2SA 3:3"
+        },
+        {
+          "start_ref": "06012003",
+          "start_ref_usfm": "JOS 12:3",
+          "end_ref": "06012005",
+          "end_ref_usfm": "JOS 12:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25425,
+          "content_id": 179515,
+          "label": "अबशालोम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25453,
+          "content_id": 179542,
+          "label": "अम्नोन",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25471,
+          "content_id": 179559,
+          "label": "अराम",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26207,
+          "content_id": 180265,
+          "label": "गलील सागर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

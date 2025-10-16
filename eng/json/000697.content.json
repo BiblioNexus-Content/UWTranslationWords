@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 26971,
+    "reference_id": 26113,
+    "title": "Pontus",
+    "media_type": "Text",
+    "index_reference": "pontus",
+    "language": "eng",
+    "content": "<h1>Pontus</h1><h2>Facts:</h2><p>Pontus was a Roman province during the time of the Roman Empire and the early Church. It was located along the southern coast of the Black Sea, in the northern part of what is now the country of Turkey.</p><ul><li><p>As recorded in the book of Acts, people from the province of Pontus were in Jerusalem when the Holy Spirit first came to the apostles on the Day of Pentecost.</p></li><li><p>A believer named Aquila was from Pontus.</p></li><li><p>When Peter was writing to Christians who were scattered into different regions, Pontus was one of the regions he mentioned.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25468\" data-resourceType=\"UWTranslationWords\">Aquila</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26082\" data-resourceType=\"UWTranslationWords\">Pentecost</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:1-1Pet1:2\">1 Peter 1:1–2</a></p></li><li><p><a href=\"https://ref.ly/Acts2:9\">Acts 2:9</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G41930, G41950</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44002009",
+          "start_ref_usfm": "ACT 2:9",
+          "end_ref": "44002009",
+          "end_ref_usfm": "ACT 2:9"
+        },
+        {
+          "start_ref": "44018002",
+          "start_ref_usfm": "ACT 18:2",
+          "end_ref": "44018002",
+          "end_ref_usfm": "ACT 18:2"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001001",
+          "end_ref_usfm": "1PE 1:1"
+        },
+        {
+          "start_ref": "60001001",
+          "start_ref_usfm": "1PE 1:1",
+          "end_ref": "60001002",
+          "end_ref_usfm": "1PE 1:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25468,
+          "content_id": 26326,
+          "label": "Aquila",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26082,
+          "content_id": 26940,
+          "label": "Pentecost",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466851,
+    "reference_id": 25691,
+    "title": "Ekron",
+    "media_type": "Text",
+    "index_reference": "ekron",
+    "language": "fra",
+    "content": "<h1>Ekron</h1><h2>Définition :</h2><p>Ekron était une ville importante des Philistins,située à l&apos;intérieur à neuf kilomètres de la Mer Méditerranée.</p><ul><li><p>Le temple du faux dieu Beelzébul était situé à Ekron.</p></li><li><p>Un jour,les Philistins ont capturé l&apos;arche de l&apos;alliance et l&apos;ont prise à Ekron*Pour cela,Dieu a causé la maladie et la mort à plusieurs personnes dans la cité d&apos;Ekron,alors les Philistins ont ramené l&apos;arche en Israël.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahaziah.md), (../kt/arkofthecovenant.md), (../names/ashdod.md), (../names/beelzebul.md), (../kt/falsegod.md), (../names/gath.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09005010",
+          "start_ref_usfm": "1SA 5:10",
+          "end_ref": "09005010",
+          "end_ref_usfm": "1SA 5:10"
+        },
+        {
+          "start_ref": "38009005",
+          "start_ref_usfm": "ZEC 9:5",
+          "end_ref": "38009005",
+          "end_ref_usfm": "ZEC 9:5"
+        },
+        {
+          "start_ref": "07001018",
+          "start_ref_usfm": "JDG 1:18",
+          "end_ref": "07001019",
+          "end_ref_usfm": "JDG 1:19"
+        },
+        {
+          "start_ref": "06013002",
+          "start_ref_usfm": "JOS 13:2",
+          "end_ref": "06013003",
+          "end_ref_usfm": "JOS 13:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 466622,
+          "label": "Achazia",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25475,
+          "content_id": 466654,
+          "label": "L'arche de l'alliance",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25481,
+          "content_id": 466660,
+          "label": "Asdod",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25518,
+          "content_id": 466693,
+          "label": "Beelzébul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 466919,
+          "label": "Gath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

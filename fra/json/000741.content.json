@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467084,
+    "reference_id": 25941,
+    "title": "Royaume d'Israël",
+    "media_type": "Text",
+    "index_reference": "royaume d'israël",
+    "language": "fra",
+    "content": "<h1>royaume d&apos;Israël</h1><h2>Données :</h2><p>Ce qui avait été la partie nord de la nation d&apos;Israël est devenu le royaume d&apos;Israël lorsque les douze tribus d&apos;Israël ont été divisées en deux royaumes après la mort de Salomon.</p><ul><li><p>Le royaume d&apos;Israël au nord avait dix tribus, et le royaume de Juda au sud avait deux tribus.</p></li><li><p>La capitale du royaume d&apos;Israël était Samarie. Elle était située à environ 50 km de Jérusalem, la capitale du royaume de Juda.</p></li><li><p>Tous les rois du royaume d&apos;Israël ont été méchants. Ils ont persuadé les gens d&apos;arrêter d&apos;adorer Dieu au Temple de Jérusalem et de servir des idoles et de faux dieux</p></li><li><p>Dieu a envoyé les Assyriens pour attaquer le royaume d&apos;Israël. De nombreux Israélites ont été emmenés captifs en Assyrie.</p></li><li><p>Les Assyriens ont amené des étrangers pour vivre parmi le peuple du royaume d&apos;Israël qui était resté en arrière. Ces étrangers se sont mariés avec les Israélites, et leurs descendants sont devenus le peuple samaritain.</p></li></ul><p>(Voir aussi : (../names/assyria.md), (../kt/israel.md), (../names/kingdomofjudah.md), (../names/jerusalem.md), (../other/kingdom.md), (../names/samaria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14035018",
+          "start_ref_usfm": "2CH 35:18",
+          "end_ref": "14035018",
+          "end_ref_usfm": "2CH 35:18"
+        },
+        {
+          "start_ref": "24005011",
+          "start_ref_usfm": "JER 5:11",
+          "end_ref": "24005011",
+          "end_ref_usfm": "JER 5:11"
+        },
+        {
+          "start_ref": "24009026",
+          "start_ref_usfm": "JER 9:26",
+          "end_ref": "24009026",
+          "end_ref_usfm": "JER 9:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25879,
+          "content_id": 467024,
+          "label": "Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 467043,
+          "label": "Jérusalem",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25939,
+          "content_id": 467082,
+          "label": "Royaume",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26192,
+          "content_id": 467311,
+          "label": "Samarie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

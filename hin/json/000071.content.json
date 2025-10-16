@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 180130,
+    "reference_id": 26068,
+    "title": "आ पड़े",
+    "media_type": "Text",
+    "index_reference": "आ पड़े",
+    "language": "hin",
+    "content": "<h1>आ पड़े, घेरना</h1><h2>परिभाषा:</h2><p>“आ पड़े” और “घेरना” का संदर्भ किसी मनुष्य या किसी वस्तु को वश में कर लेने से है। इसमें विचार यह है, पीछा करके पहुंचना।</p><ul><li><p>जब सेना किसी और दुश्मन सेना को घेर लेती है तो इसका अर्थ है कि उन्होंने उस सेना को युद्ध में पराजित कर दिया।</p></li><li><p>जब शिकारी शिकार को घेर लेता है तो इसका अर्थ है कि उसने पीछा करके शिकार को पकड़ लिया।</p></li><li><p>यदि किसी पर श्राप आ पड़े तो इसका अर्थ है कि श्राप में जो कुछ कहा गया था वह उसके साथ होता है ।</p></li><li><p>यदि मनुष्यों पर आशिष आती है तो इसका अर्थ है कि वे आशीषों का अनुभव कर रहे हैं।</p></li><li><p>प्रकरण के अनुसार “घेरना” का अनुवाद “जीतना” या “बन्दी बनाना” या “पराजित करना” या “पकड़ लेना” या “पूर्णतः प्रभावित करना” हो सकता है।</p></li><li><p>पूर्वकालिक क्रिया “आ पड़ी” का अनुवाद इस प्रकार किया जा सकता है, “पकड़ लिया” या “साथ आ गया” या “जीत लिया” या “पराजित कर दिया” या “हानि कर दी।&quot;</p></li><li><p>जब चेतावनी दी जाए कि अन्धकार या दण्ड या भय मनुष्यों के पापों के कारण आ पड़ेगा तो इसका अर्थ है कि यदि वे पापों से न फिरे तो उन्हें इन नकारात्मक बातों का अनुभव होगा।</p></li><li><p>“मेरे वचन तुम्हारे पितरों पर आ पड़े है” का अर्थ है कि यहोवा ने उनके पूर्वजों को जो शिक्षाएं दी थी उनके कारण उन्हें दण्ड मिलेगा क्योंकि वे उन शिक्षाओं का पालन करने में असफल रहे।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25545\" data-resourceType=\"UWTranslationWords\">आशिष देना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25632\" data-resourceType=\"UWTranslationWords\">धिक्कारने लगा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26120\" data-resourceType=\"UWTranslationWords\">शिकार</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26141\" data-resourceType=\"UWTranslationWords\">दण्ड</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Kgs0:0\">2 राजा 25:4–5</a></p></li><li><p><a href=\"https://ref.ly/John12:35\">यूहन्ना 12:35</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H0579, H0935, H1692, H4672, H5066, H5381, G26380, G29830</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01031025",
+          "start_ref_usfm": "GEN 31:25",
+          "end_ref": "01031025",
+          "end_ref_usfm": "GEN 31:25"
+        },
+        {
+          "start_ref": "01044004",
+          "start_ref_usfm": "GEN 44:4",
+          "end_ref": "01044004",
+          "end_ref_usfm": "GEN 44:4"
+        },
+        {
+          "start_ref": "01044006",
+          "start_ref_usfm": "GEN 44:6",
+          "end_ref": "01044006",
+          "end_ref_usfm": "GEN 44:6"
+        },
+        {
+          "start_ref": "02015009",
+          "start_ref_usfm": "EXO 15:9",
+          "end_ref": "02015009",
+          "end_ref_usfm": "EXO 15:9"
+        },
+        {
+          "start_ref": "43012035",
+          "start_ref_usfm": "JHN 12:35",
+          "end_ref": "43012035",
+          "end_ref_usfm": "JHN 12:35"
+        },
+        {
+          "start_ref": "52005004",
+          "start_ref_usfm": "1TH 5:4",
+          "end_ref": "52005004",
+          "end_ref_usfm": "1TH 5:4"
+        },
+        {
+          "start_ref": "12025004",
+          "start_ref_usfm": "2KI 25:4",
+          "end_ref": "12025005",
+          "end_ref_usfm": "2KI 25:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25545,
+          "content_id": 179627,
+          "label": "आशीष देना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25632,
+          "content_id": 179709,
+          "label": "श्राप",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26120,
+          "content_id": 180181,
+          "label": "आहेर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26141,
+          "content_id": 180200,
+          "label": "दण्ड देना",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

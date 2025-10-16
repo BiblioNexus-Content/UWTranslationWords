@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26546,
+    "reference_id": 25688,
+    "title": "Eden",
+    "media_type": "Text",
+    "index_reference": "eden",
+    "language": "eng",
+    "content": "<h1>Eden, garden of Eden</h1><h2>Facts:</h2><p>In ancient times, Eden was a region that had a garden where God placed the first man and woman to live.</p><ul><li><p>The garden where Adam and Eve lived was only part of Eden.</p></li><li><p>The exact location of the region of Eden is not certain, but the Tigris and Euphrates Rivers were flowing through it.</p></li><li><p>The word “Eden” comes from a Hebrew word meaning to “take great delight in.”</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25429\" data-resourceType=\"UWTranslationWords\">Adam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25715\" data-resourceType=\"UWTranslationWords\">Euphrates River</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25717\" data-resourceType=\"UWTranslationWords\">Eve</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezek28:11-Ezek28:13\">Ezekiel 28:11–13</a></p></li><li><p><a href=\"https://ref.ly/Gen2:7-Gen2:8\">Genesis 2:7–8</a></p></li><li><p><a href=\"https://ref.ly/Gen2:10\">Genesis 2:10</a></p></li><li><p><a href=\"https://ref.ly/Gen2:15\">Genesis 2:15</a></p></li><li><p><a href=\"https://ref.ly/Gen4:16-Gen4:17\">Genesis 4:16–17</a></p></li><li><p><a href=\"https://ref.ly/Joel2:3\">Joel 2:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5729, H5731</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002008",
+          "start_ref_usfm": "GEN 2:8",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01002010",
+          "start_ref_usfm": "GEN 2:10",
+          "end_ref": "01002010",
+          "end_ref_usfm": "GEN 2:10"
+        },
+        {
+          "start_ref": "01002015",
+          "start_ref_usfm": "GEN 2:15",
+          "end_ref": "01002015",
+          "end_ref_usfm": "GEN 2:15"
+        },
+        {
+          "start_ref": "01003023",
+          "start_ref_usfm": "GEN 3:23",
+          "end_ref": "01003023",
+          "end_ref_usfm": "GEN 3:23"
+        },
+        {
+          "start_ref": "01003024",
+          "start_ref_usfm": "GEN 3:24",
+          "end_ref": "01003024",
+          "end_ref_usfm": "GEN 3:24"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004016",
+          "end_ref_usfm": "GEN 4:16"
+        },
+        {
+          "start_ref": "29002003",
+          "start_ref_usfm": "JOL 2:3",
+          "end_ref": "29002003",
+          "end_ref_usfm": "JOL 2:3"
+        },
+        {
+          "start_ref": "26028011",
+          "start_ref_usfm": "EZK 28:11",
+          "end_ref": "26028013",
+          "end_ref_usfm": "EZK 28:13"
+        },
+        {
+          "start_ref": "01002007",
+          "start_ref_usfm": "GEN 2:7",
+          "end_ref": "01002008",
+          "end_ref_usfm": "GEN 2:8"
+        },
+        {
+          "start_ref": "01004016",
+          "start_ref_usfm": "GEN 4:16",
+          "end_ref": "01004017",
+          "end_ref_usfm": "GEN 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25429,
+          "content_id": 26287,
+          "label": "Adam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25715,
+          "content_id": 26573,
+          "label": "Euphrates",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25717,
+          "content_id": 26575,
+          "label": "Eve",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

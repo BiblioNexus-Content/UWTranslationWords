@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26686,
+    "reference_id": 25828,
+    "title": "Heir",
+    "media_type": "Text",
+    "index_reference": "heir",
+    "language": "eng",
+    "content": "<h1>heir</h1><h2>Definition:</h2><p>An “heir” is a person who legally receives property or money that belonged to a person who has died.</p><ul><li><p>In Bible times, the main heir was the firstborn son, who received most of the property and money of his father.</p></li><li><p>The Bible also uses “heir” in a figurative sense to refer to person who as a Christian receives spiritual benefits from God, his spiritual father.</p></li><li><p>As God’s children, Christians are said to be “joint heirs” with Jesus Christ. This could also be translated as “co-heirs” or “fellow heirs” or “heirs together with.”</p></li><li><p>The term “heir” could be translated as “person receiving benefits” or whatever expression is used in the language to communicate the meaning of someone who receives property and other things when a parent or other relative dies.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25742\" data-resourceType=\"UWTranslationWords\">firstborn</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">inherit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gal4:1-Gal4:2\">Galatians 4:1–2</a></p></li><li><p><a href=\"https://ref.ly/Gal4:7\">Galatians 4:7</a></p></li><li><p><a href=\"https://ref.ly/Gen15:1\">Genesis 15:1</a></p></li><li><p><a href=\"https://ref.ly/Gen21:10-Gen21:11\">Genesis 21:10–11</a></p></li><li><p><a href=\"https://ref.ly/Luke20:14\">Luke 20:14</a></p></li><li><p><a href=\"https://ref.ly/Mark12:7\">Mark 12:7</a></p></li><li><p><a href=\"https://ref.ly/Matt21:38-Matt21:39\">Matthew 21:38–39</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1121, H3423, G28160, G28180, G28200, G47890</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015001",
+          "end_ref_usfm": "GEN 15:1"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021010",
+          "end_ref_usfm": "GEN 21:10"
+        },
+        {
+          "start_ref": "40021038",
+          "start_ref_usfm": "MAT 21:38",
+          "end_ref": "40021038",
+          "end_ref_usfm": "MAT 21:38"
+        },
+        {
+          "start_ref": "41012007",
+          "start_ref_usfm": "MRK 12:7",
+          "end_ref": "41012007",
+          "end_ref_usfm": "MRK 12:7"
+        },
+        {
+          "start_ref": "42020014",
+          "start_ref_usfm": "LUK 20:14",
+          "end_ref": "42020014",
+          "end_ref_usfm": "LUK 20:14"
+        },
+        {
+          "start_ref": "45004013",
+          "start_ref_usfm": "ROM 4:13",
+          "end_ref": "45004013",
+          "end_ref_usfm": "ROM 4:13"
+        },
+        {
+          "start_ref": "45004014",
+          "start_ref_usfm": "ROM 4:14",
+          "end_ref": "45004014",
+          "end_ref_usfm": "ROM 4:14"
+        },
+        {
+          "start_ref": "45008017",
+          "start_ref_usfm": "ROM 8:17",
+          "end_ref": "45008017",
+          "end_ref_usfm": "ROM 8:17"
+        },
+        {
+          "start_ref": "48004007",
+          "start_ref_usfm": "GAL 4:7",
+          "end_ref": "48004007",
+          "end_ref_usfm": "GAL 4:7"
+        },
+        {
+          "start_ref": "49003006",
+          "start_ref_usfm": "EPH 3:6",
+          "end_ref": "49003006",
+          "end_ref_usfm": "EPH 3:6"
+        },
+        {
+          "start_ref": "56003007",
+          "start_ref_usfm": "TIT 3:7",
+          "end_ref": "56003007",
+          "end_ref_usfm": "TIT 3:7"
+        },
+        {
+          "start_ref": "58001002",
+          "start_ref_usfm": "HEB 1:2",
+          "end_ref": "58001002",
+          "end_ref_usfm": "HEB 1:2"
+        },
+        {
+          "start_ref": "58006017",
+          "start_ref_usfm": "HEB 6:17",
+          "end_ref": "58006017",
+          "end_ref_usfm": "HEB 6:17"
+        },
+        {
+          "start_ref": "58011007",
+          "start_ref_usfm": "HEB 11:7",
+          "end_ref": "58011007",
+          "end_ref_usfm": "HEB 11:7"
+        },
+        {
+          "start_ref": "59002005",
+          "start_ref_usfm": "JAS 2:5",
+          "end_ref": "59002005",
+          "end_ref_usfm": "JAS 2:5"
+        },
+        {
+          "start_ref": "60003007",
+          "start_ref_usfm": "1PE 3:7",
+          "end_ref": "60003007",
+          "end_ref_usfm": "1PE 3:7"
+        },
+        {
+          "start_ref": "48004001",
+          "start_ref_usfm": "GAL 4:1",
+          "end_ref": "48004002",
+          "end_ref_usfm": "GAL 4:2"
+        },
+        {
+          "start_ref": "01021010",
+          "start_ref_usfm": "GEN 21:10",
+          "end_ref": "01021011",
+          "end_ref_usfm": "GEN 21:11"
+        },
+        {
+          "start_ref": "40021038",
+          "start_ref_usfm": "MAT 21:38",
+          "end_ref": "40021039",
+          "end_ref_usfm": "MAT 21:39"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25742,
+          "content_id": 26600,
+          "label": "First Born",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 26725,
+          "label": "Inherit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

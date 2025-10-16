@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 238106,
+    "reference_id": 25975,
+    "title": "Senhor Javé",
+    "media_type": "Text",
+    "index_reference": "senhor javé",
+    "language": "por",
+    "content": "<h1>Senhor Javé, Javé Deus</h1><h2>Fatos:</h2><p>No Antigo Testamento, “Senhor Javé” é frequentemente usado para se referir ao único Deus verdadeiro.</p><ul><li><p>O termo “Senhor” é um título divino e “Javé” é o nome pessoal de Deus.</p><ul><li><p>“Javé” é também frequentemente combinado com o termo “Deus” para formar “Javé Deus”.</p></li></ul></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Se alguma forma de “Javé” for usada para a tradução do nome pessoal de Deus, os termos “Senhor Javé” e “Javé Deus” podem ser traduzidos literalmente. Considere também como o termo “Senhor” é traduzido em outros contextos ao se referir a Deus.</p></li><li><p>Algumas línguas colocam títulos após o nome e traduziriam isso como “Javé Senhor”. Considere o que é natural na língua do projeto: o título “Senhor” deve vir antes ou depois de “Javé”?</p></li><li><p>“Javé Deus” também poderia ser traduzido como “Deus que é chamado Javé” ou “Deus que é o Deus vivo” ou “Eu sou, que é Deus”.</p></li><li><p>Se a tradução seguir a tradição de interpretar “Javé” como “Senhor” ou “SENHOR”, o termo “Senhor Javé” poderia ser traduzido como “Senhor Deus” ou “Deus que é o Senhor”. Outras possíveis traduções poderiam ser, “Mestre SENHOR” ou “Deus o SENHOR”.</p></li><li><p>O termo “Senhor Javé” <em>não deve</em> ser traduzido como “Senhor SENHOR” porque os leitores podem não notar a diferença no tamanho das letras que tradicionalmente tem sido usada para distinguir essas duas palavras e pareceria muito estranho.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25788\" data-resourceType=\"UWTranslationWords\">Deus</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">senhor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25973\" data-resourceType=\"UWTranslationWords\">Senhor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Javé</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Cor4:3-1Cor4:4\">1 Coríntios 4.3–4</a></p></li><li><p><a href=\"https://ref.ly/2Sam7:21-2Sam7:23\">2 Samuel 7.21–23</a></p></li><li><p><a href=\"https://ref.ly/Deut3:23-Deut3:25\">Deuteronômio 3.23–25</a></p></li><li><p><a href=\"https://ref.ly/Ezek39:25-Ezek39:27\">Ezequiel 39.25–27</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:18\">Ezequiel 45.18</a></p></li><li><p><a href=\"https://ref.ly/Jer44:26\">Jeremias 44.26</a></p></li><li><p><a href=\"https://ref.ly/Judg6:22\">Juízes 6.22</a></p></li><li><p><a href=\"https://ref.ly/Mic1:2-Mic1:4\">Miquéias 1.2–4</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0136, H0430, H3068, G23160, G29620</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07006022",
+          "start_ref_usfm": "JDG 6:22",
+          "end_ref": "07006022",
+          "end_ref_usfm": "JDG 6:22"
+        },
+        {
+          "start_ref": "24044026",
+          "start_ref_usfm": "JER 44:26",
+          "end_ref": "24044026",
+          "end_ref_usfm": "JER 44:26"
+        },
+        {
+          "start_ref": "26045018",
+          "start_ref_usfm": "EZK 45:18",
+          "end_ref": "26045018",
+          "end_ref_usfm": "EZK 45:18"
+        },
+        {
+          "start_ref": "26039025",
+          "start_ref_usfm": "EZK 39:25",
+          "end_ref": "26039027",
+          "end_ref_usfm": "EZK 39:27"
+        },
+        {
+          "start_ref": "33001002",
+          "start_ref_usfm": "MIC 1:2",
+          "end_ref": "33001004",
+          "end_ref_usfm": "MIC 1:4"
+        },
+        {
+          "start_ref": "46004003",
+          "start_ref_usfm": "1CO 4:3",
+          "end_ref": "46004004",
+          "end_ref_usfm": "1CO 4:4"
+        },
+        {
+          "start_ref": "10007021",
+          "start_ref_usfm": "2SA 7:21",
+          "end_ref": "10007023",
+          "end_ref_usfm": "2SA 7:23"
+        },
+        {
+          "start_ref": "05003023",
+          "start_ref_usfm": "DEU 3:23",
+          "end_ref": "05003025",
+          "end_ref_usfm": "DEU 3:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 237921,
+          "label": "Deus",
+          "language": "por"
+        },
+        {
+          "reference_id": 25973,
+          "content_id": 238104,
+          "label": "Senhor",
+          "language": "por"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 238486,
+          "label": "Javé",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 26580,
+    "reference_id": 25722,
+    "title": "Exult",
+    "media_type": "Text",
+    "index_reference": "exult",
+    "language": "eng",
+    "content": "<h1>exult, exultant</h1><h2>Definition:</h2><p>The terms “exult” and “exultant” refer to being very happy because of a success or special blessing.</p><ul><li><p>To “exult” includes a feeling of celebrating something wonderful.</p></li><li><p>A person can exult in God’s goodness.</p></li><li><p>The term “exultant” can also include being arrogant in one’s feeling of gladness about success or prosperity.</p></li><li><p>The term “exult” could also be translated as “celebrate joyfully” or “praise with great joy.”</p></li><li><p>Depending on the context, the term “exultant” could be translated as “praising triumphantly” or “celebrating with self praise” or “arrogant.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25477\" data-resourceType=\"UWTranslationWords\">arrogant</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25923\" data-resourceType=\"UWTranslationWords\">joy</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26116\" data-resourceType=\"UWTranslationWords\">praise</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_rejoice\" data-resourceType=\"UWTranslationWords\">rejoice</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Sam2:1\">1 Samuel 2:1</a></p></li><li><p><a href=\"https://ref.ly/Isa13:3\">Isaiah 13:3</a></p></li><li><p><a href=\"https://ref.ly/Job6:10\">Job 6:10</a></p></li><li><p><a href=\"https://ref.ly/Ps68:1-Ps68:3\">Psalm 68:1–3</a></p></li><li><p><a href=\"https://ref.ly/Zeph2:15\">Zephaniah 2:15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5539, H5947, H5970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09002001",
+          "start_ref_usfm": "1SA 2:1",
+          "end_ref": "09002001",
+          "end_ref_usfm": "1SA 2:1"
+        },
+        {
+          "start_ref": "18006010",
+          "start_ref_usfm": "JOB 6:10",
+          "end_ref": "18006010",
+          "end_ref_usfm": "JOB 6:10"
+        },
+        {
+          "start_ref": "23013003",
+          "start_ref_usfm": "ISA 13:3",
+          "end_ref": "23013003",
+          "end_ref_usfm": "ISA 13:3"
+        },
+        {
+          "start_ref": "36002015",
+          "start_ref_usfm": "ZEP 2:15",
+          "end_ref": "36002015",
+          "end_ref_usfm": "ZEP 2:15"
+        },
+        {
+          "start_ref": "40005012",
+          "start_ref_usfm": "MAT 5:12",
+          "end_ref": "40005012",
+          "end_ref_usfm": "MAT 5:12"
+        },
+        {
+          "start_ref": "42001014",
+          "start_ref_usfm": "LUK 1:14",
+          "end_ref": "42001014",
+          "end_ref_usfm": "LUK 1:14"
+        },
+        {
+          "start_ref": "42001044",
+          "start_ref_usfm": "LUK 1:44",
+          "end_ref": "42001044",
+          "end_ref_usfm": "LUK 1:44"
+        },
+        {
+          "start_ref": "43005035",
+          "start_ref_usfm": "JHN 5:35",
+          "end_ref": "43005035",
+          "end_ref_usfm": "JHN 5:35"
+        },
+        {
+          "start_ref": "43008056",
+          "start_ref_usfm": "JHN 8:56",
+          "end_ref": "43008056",
+          "end_ref_usfm": "JHN 8:56"
+        },
+        {
+          "start_ref": "44002026",
+          "start_ref_usfm": "ACT 2:26",
+          "end_ref": "44002026",
+          "end_ref_usfm": "ACT 2:26"
+        },
+        {
+          "start_ref": "44002046",
+          "start_ref_usfm": "ACT 2:46",
+          "end_ref": "44002046",
+          "end_ref_usfm": "ACT 2:46"
+        },
+        {
+          "start_ref": "44016034",
+          "start_ref_usfm": "ACT 16:34",
+          "end_ref": "44016034",
+          "end_ref_usfm": "ACT 16:34"
+        },
+        {
+          "start_ref": "58001009",
+          "start_ref_usfm": "HEB 1:9",
+          "end_ref": "58001009",
+          "end_ref_usfm": "HEB 1:9"
+        },
+        {
+          "start_ref": "60001008",
+          "start_ref_usfm": "1PE 1:8",
+          "end_ref": "60001008",
+          "end_ref_usfm": "1PE 1:8"
+        },
+        {
+          "start_ref": "60004013",
+          "start_ref_usfm": "1PE 4:13",
+          "end_ref": "60004013",
+          "end_ref_usfm": "1PE 4:13"
+        },
+        {
+          "start_ref": "66019007",
+          "start_ref_usfm": "REV 19:7",
+          "end_ref": "66019007",
+          "end_ref_usfm": "REV 19:7"
+        },
+        {
+          "start_ref": "19068001",
+          "start_ref_usfm": "PSA 68:1",
+          "end_ref": "19068003",
+          "end_ref_usfm": "PSA 68:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25477,
+          "content_id": 26335,
+          "label": "Arrogant",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25923,
+          "content_id": 26781,
+          "label": "Joy",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26116,
+          "content_id": 26974,
+          "label": "Praise",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

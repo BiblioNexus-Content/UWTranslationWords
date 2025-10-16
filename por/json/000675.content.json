@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 238316,
+    "reference_id": 26187,
+    "title": "Pano de saco",
+    "media_type": "Text",
+    "index_reference": "pano de saco",
+    "language": "por",
+    "content": "<h1>Pano de saco</h1><h2>Definição:</h2><p>Pano de saco era um tipo de tecido grosso e áspero feito de pelo de cabra ou de camelo.</p><ul><li><p>Uma pessoa que usasse roupas feitas desse tecido ficaria desconfortável. O saco era usado para mostrar luto, tristeza ou arrependimento humilde.</p></li><li><p>A frase “pano de saco e cinzas” era um termo comum que se referia a uma expressão tradicional de luto e arrependimento.</p></li></ul><h2>Sugestões de Tradução:</h2><ul><li><p>Esse termo também poderia ser traduzido como “tecido grosso de pelo de animal” ou “roupas feitas de pelo de cabra” ou “roupas ásperas e arranhadas”.</p></li><li><p>Outra maneira de traduzir esse termo poderia ser “roupas de luto ásperas e que arranham”.</p></li><li><p>A frase “sentar em panos de saco e cinzas” poderia ser traduzida como “mostrar luto e humildade vestindo tecido áspero e sentando-se em cinzas”.</p></li></ul><p>(Veja também: Como Traduzir Desconhecidos)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ash\" data-resourceType=\"UWTranslationWords\">cinza</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25570\" data-resourceType=\"UWTranslationWords\">camelo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25787\" data-resourceType=\"UWTranslationWords\">cabra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25860\" data-resourceType=\"UWTranslationWords\">humilde</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26035\" data-resourceType=\"UWTranslationWords\">lamentar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26170\" data-resourceType=\"UWTranslationWords\">arrepender</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26234\" data-resourceType=\"UWTranslationWords\">sinal</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Sam3:31\">2 Samuel 3.31</a></p></li><li><p><a href=\"https://ref.ly/Gen37:34\">Gênesis 37.34</a></p></li><li><p><a href=\"https://ref.ly/Joel1:8-Joel1:10\">Joel 1.8–10</a></p></li><li><p><a href=\"https://ref.ly/Jonah3:5\">Jonas 3.5</a></p></li><li><p><a href=\"https://ref.ly/Luke10:13\">Lucas 10.13</a></p></li><li><p><a href=\"https://ref.ly/Matt11:21\">Mateus 11.21</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8242, G45260</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01037034",
+          "start_ref_usfm": "GEN 37:34",
+          "end_ref": "01037034",
+          "end_ref_usfm": "GEN 37:34"
+        },
+        {
+          "start_ref": "10003031",
+          "start_ref_usfm": "2SA 3:31",
+          "end_ref": "10003031",
+          "end_ref_usfm": "2SA 3:31"
+        },
+        {
+          "start_ref": "16009001",
+          "start_ref_usfm": "NEH 9:1",
+          "end_ref": "16009001",
+          "end_ref_usfm": "NEH 9:1"
+        },
+        {
+          "start_ref": "18016015",
+          "start_ref_usfm": "JOB 16:15",
+          "end_ref": "18016015",
+          "end_ref_usfm": "JOB 16:15"
+        },
+        {
+          "start_ref": "32003005",
+          "start_ref_usfm": "JON 3:5",
+          "end_ref": "32003005",
+          "end_ref_usfm": "JON 3:5"
+        },
+        {
+          "start_ref": "32003006",
+          "start_ref_usfm": "JON 3:6",
+          "end_ref": "32003006",
+          "end_ref_usfm": "JON 3:6"
+        },
+        {
+          "start_ref": "32003008",
+          "start_ref_usfm": "JON 3:8",
+          "end_ref": "32003008",
+          "end_ref_usfm": "JON 3:8"
+        },
+        {
+          "start_ref": "40011021",
+          "start_ref_usfm": "MAT 11:21",
+          "end_ref": "40011021",
+          "end_ref_usfm": "MAT 11:21"
+        },
+        {
+          "start_ref": "42010013",
+          "start_ref_usfm": "LUK 10:13",
+          "end_ref": "42010013",
+          "end_ref_usfm": "LUK 10:13"
+        },
+        {
+          "start_ref": "66006012",
+          "start_ref_usfm": "REV 6:12",
+          "end_ref": "66006012",
+          "end_ref_usfm": "REV 6:12"
+        },
+        {
+          "start_ref": "66011003",
+          "start_ref_usfm": "REV 11:3",
+          "end_ref": "66011003",
+          "end_ref_usfm": "REV 11:3"
+        },
+        {
+          "start_ref": "29001008",
+          "start_ref_usfm": "JOL 1:8",
+          "end_ref": "29001010",
+          "end_ref_usfm": "JOL 1:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25570,
+          "content_id": 237705,
+          "label": "Camelo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25787,
+          "content_id": 237920,
+          "label": "Bode",
+          "language": "por"
+        },
+        {
+          "reference_id": 25860,
+          "content_id": 237993,
+          "label": "Humilde",
+          "language": "por"
+        },
+        {
+          "reference_id": 26035,
+          "content_id": 238165,
+          "label": "Lamentar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26170,
+          "content_id": 238300,
+          "label": "Arrepender",
+          "language": "por"
+        },
+        {
+          "reference_id": 26234,
+          "content_id": 238363,
+          "label": "Sinal",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

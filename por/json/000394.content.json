@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 237907,
+    "reference_id": 25774,
+    "title": "Gerar",
+    "media_type": "Text",
+    "index_reference": "gerar",
+    "language": "por",
+    "content": "<h1>Gerar</h1><h2>Fatos:</h2><p>Gerar era uma cidade e região na terra de Canaã, localizada a sudoeste de Hebrom e a noroeste de Berseba.</p><ul><li><p>O rei Abimeleque era o governante de Gerar quando Abraão e Sara se estabeleceram lá.</p></li><li><p>Os filisteus dominavam a região de Gerar durante o tempo em que os israelitas viviam em Canaã.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25421\" data-resourceType=\"UWTranslationWords\">Abimeleque</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25519\" data-resourceType=\"UWTranslationWords\">Berseba</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25827\" data-resourceType=\"UWTranslationWords\">Hebrom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Filisteus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr14:12-2Chr14:13\">2 Crônicas 14.12–13</a></p></li><li><p><a href=\"https://ref.ly/Gen20:1-Gen20:3\">Gênesis 20.1–3</a></p></li><li><p><a href=\"https://ref.ly/Gen26:1\">Gênesis 26.1</a></p></li><li><p><a href=\"https://ref.ly/Gen26:6\">Gênesis 26.6</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1642</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010019",
+          "start_ref_usfm": "GEN 10:19",
+          "end_ref": "01010019",
+          "end_ref_usfm": "GEN 10:19"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020001",
+          "end_ref_usfm": "GEN 20:1"
+        },
+        {
+          "start_ref": "01020002",
+          "start_ref_usfm": "GEN 20:2",
+          "end_ref": "01020002",
+          "end_ref_usfm": "GEN 20:2"
+        },
+        {
+          "start_ref": "01026001",
+          "start_ref_usfm": "GEN 26:1",
+          "end_ref": "01026001",
+          "end_ref_usfm": "GEN 26:1"
+        },
+        {
+          "start_ref": "01026006",
+          "start_ref_usfm": "GEN 26:6",
+          "end_ref": "01026006",
+          "end_ref_usfm": "GEN 26:6"
+        },
+        {
+          "start_ref": "01026017",
+          "start_ref_usfm": "GEN 26:17",
+          "end_ref": "01026017",
+          "end_ref_usfm": "GEN 26:17"
+        },
+        {
+          "start_ref": "01026020",
+          "start_ref_usfm": "GEN 26:20",
+          "end_ref": "01026020",
+          "end_ref_usfm": "GEN 26:20"
+        },
+        {
+          "start_ref": "01026026",
+          "start_ref_usfm": "GEN 26:26",
+          "end_ref": "01026026",
+          "end_ref_usfm": "GEN 26:26"
+        },
+        {
+          "start_ref": "14014012",
+          "start_ref_usfm": "2CH 14:12",
+          "end_ref": "14014013",
+          "end_ref_usfm": "2CH 14:13"
+        },
+        {
+          "start_ref": "01020001",
+          "start_ref_usfm": "GEN 20:1",
+          "end_ref": "01020003",
+          "end_ref_usfm": "GEN 20:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25421,
+          "content_id": 237559,
+          "label": "Abimeleque",
+          "language": "por"
+        },
+        {
+          "reference_id": 25519,
+          "content_id": 237655,
+          "label": "Berseba",
+          "language": "por"
+        },
+        {
+          "reference_id": 25827,
+          "content_id": 237960,
+          "label": "Hebrom",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

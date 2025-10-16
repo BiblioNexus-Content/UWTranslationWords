@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 26290,
+    "reference_id": 25432,
+    "title": "Adoption",
+    "media_type": "Text",
+    "index_reference": "adoption",
+    "language": "eng",
+    "content": "<h1>adoption, adopt, adopted</h1><h2>Definition:</h2><p>The terms “adopt” and “adoption” refer to the process of someone legally becoming the child of people who are not his biological parents.</p><ul><li><p>The Bible uses “adoption” and “adopt” in a figurative way to describe how God causes people to be part of his family, making them his spiritual sons and daughters.</p></li><li><p>As adopted children, God makes believers to be co-heirs with Jesus Christ, giving them all of the privileges of sons and daughters of God.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>This term could be translated with a term that the language of translation uses to describe this special parent-child relationship. Make sure it is understood that this has a figurative or spiritual meaning.</p></li><li><p>The phrase “experience adoption as sons” could be translated as “be adopted by God as his children” or “become God’s (spiritual) children.”</p></li><li><p>To “wait for the adoption of sons” could be translated as “look forward to becoming God’s children” or “wait expectantly for God to receive as children.”</p></li><li><p>The phrase “adopt them” could be translated as “receive them as his own children” or “make them his own (spiritual) children.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25828\" data-resourceType=\"UWTranslationWords\">heir</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25867\" data-resourceType=\"UWTranslationWords\">inherit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">spirit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Eph1:5\">Ephesians 1:5</a></p></li><li><p><a href=\"https://ref.ly/Gal4:3-Gal4:5\">Galatians 4:3–5</a></p></li><li><p><a href=\"https://ref.ly/Rom8:14-Rom8:15\">Romans 8:14–15</a></p></li><li><p><a href=\"https://ref.ly/Rom8:23\">Romans 8:23</a></p></li><li><p><a href=\"https://ref.ly/Rom9:4\">Romans 9:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G52060</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "45008015",
+          "start_ref_usfm": "ROM 8:15",
+          "end_ref": "45008015",
+          "end_ref_usfm": "ROM 8:15"
+        },
+        {
+          "start_ref": "45008023",
+          "start_ref_usfm": "ROM 8:23",
+          "end_ref": "45008023",
+          "end_ref_usfm": "ROM 8:23"
+        },
+        {
+          "start_ref": "45009004",
+          "start_ref_usfm": "ROM 9:4",
+          "end_ref": "45009004",
+          "end_ref_usfm": "ROM 9:4"
+        },
+        {
+          "start_ref": "49001005",
+          "start_ref_usfm": "EPH 1:5",
+          "end_ref": "49001005",
+          "end_ref_usfm": "EPH 1:5"
+        },
+        {
+          "start_ref": "48004003",
+          "start_ref_usfm": "GAL 4:3",
+          "end_ref": "48004005",
+          "end_ref_usfm": "GAL 4:5"
+        },
+        {
+          "start_ref": "45008014",
+          "start_ref_usfm": "ROM 8:14",
+          "end_ref": "45008015",
+          "end_ref_usfm": "ROM 8:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25828,
+          "content_id": 26686,
+          "label": "Heir",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25867,
+          "content_id": 26725,
+          "label": "Inherit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 27115,
+          "label": "Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

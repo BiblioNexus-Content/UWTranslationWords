@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26667,
+    "reference_id": 25809,
+    "title": "Hades",
+    "media_type": "Text",
+    "index_reference": "hades",
+    "language": "eng",
+    "content": "<h1>Hades, Sheol</h1><h2>Definition:</h2><p>The terms “Hades” (in Greek) and “Sheol” (in Hebrew) are proper names for the place where the spirits of dead people would go after they had died.</p><ul><li><p>In these ancient cultures, people thought of this as an underground dwelling place where the spirits of dead people existed in a shadowy, semi-conscious form.</p></li><li><p>Although these terms are place names, in the Bible they often mean the same thing as &quot;death&quot; or &quot;the grave.&quot;</p></li><li><p>Throughout most of biblical history, “Sheol” and “Hades” refer to a neutral place where all of the dead go to await judgment, both the righteous and the unrighteous. In the New Testament, however, “Hades” begins to be seen as a place for only the unrighteous, in contrast with “Abraham&apos;s side” (Luke 16:22) or “paradise” (Luke 23:43), which describe the place for the righteous.</p></li></ul><h2>Translation Suggestions</h2><ul><li><p>Both “Sheol” and “Hades” can be translated in various ways, depending on the context. Some possibilities include: “place of the dead,” “place for dead spirits,” “the underworld,” “the pit,” “the grave,” or “death.”</p></li><li><p>Some translations keep the proper names “Sheol” and “Hades,” spelling them to fit the sound patterns of the language of translation. (See: How to Translate Unknowns).</p></li><li><p>A phrase could also be added to each term to explain it. Examples of doing this are, “Sheol, place where dead people are” and “Hades, place of death.”</p></li></ul><p>(Translation suggestions: How to Translate Unknowns)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_death\" data-resourceType=\"UWTranslationWords\">death</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25825\" data-resourceType=\"UWTranslationWords\">heaven</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25829\" data-resourceType=\"UWTranslationWords\">hell</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26307\" data-resourceType=\"UWTranslationWords\">tomb</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts2:31\">Acts 2:31</a></p></li><li><p><a href=\"https://ref.ly/Gen44:29\">Genesis 44:29</a></p></li><li><p><a href=\"https://ref.ly/Jonah2:2\">Jonah 2:2</a></p></li><li><p><a href=\"https://ref.ly/Luke10:15\">Luke 10:15</a></p></li><li><p><a href=\"https://ref.ly/Luke16:23\">Luke 16:23</a></p></li><li><p><a href=\"https://ref.ly/Matt11:23\">Matthew 11:23</a></p></li><li><p><a href=\"https://ref.ly/Matt16:18\">Matthew 16:18</a></p></li><li><p><a href=\"https://ref.ly/Rev1:18\">Revelation 1:18</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7585, G00860</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01044029",
+          "start_ref_usfm": "GEN 44:29",
+          "end_ref": "01044029",
+          "end_ref_usfm": "GEN 44:29"
+        },
+        {
+          "start_ref": "32002002",
+          "start_ref_usfm": "JON 2:2",
+          "end_ref": "32002002",
+          "end_ref_usfm": "JON 2:2"
+        },
+        {
+          "start_ref": "40011023",
+          "start_ref_usfm": "MAT 11:23",
+          "end_ref": "40011023",
+          "end_ref_usfm": "MAT 11:23"
+        },
+        {
+          "start_ref": "40016018",
+          "start_ref_usfm": "MAT 16:18",
+          "end_ref": "40016018",
+          "end_ref_usfm": "MAT 16:18"
+        },
+        {
+          "start_ref": "42010015",
+          "start_ref_usfm": "LUK 10:15",
+          "end_ref": "42010015",
+          "end_ref_usfm": "LUK 10:15"
+        },
+        {
+          "start_ref": "42016023",
+          "start_ref_usfm": "LUK 16:23",
+          "end_ref": "42016023",
+          "end_ref_usfm": "LUK 16:23"
+        },
+        {
+          "start_ref": "44002027",
+          "start_ref_usfm": "ACT 2:27",
+          "end_ref": "44002027",
+          "end_ref_usfm": "ACT 2:27"
+        },
+        {
+          "start_ref": "44002031",
+          "start_ref_usfm": "ACT 2:31",
+          "end_ref": "44002031",
+          "end_ref_usfm": "ACT 2:31"
+        },
+        {
+          "start_ref": "66001018",
+          "start_ref_usfm": "REV 1:18",
+          "end_ref": "66001018",
+          "end_ref_usfm": "REV 1:18"
+        },
+        {
+          "start_ref": "66006008",
+          "start_ref_usfm": "REV 6:8",
+          "end_ref": "66006008",
+          "end_ref_usfm": "REV 6:8"
+        },
+        {
+          "start_ref": "66020013",
+          "start_ref_usfm": "REV 20:13",
+          "end_ref": "66020013",
+          "end_ref_usfm": "REV 20:13"
+        },
+        {
+          "start_ref": "66020014",
+          "start_ref_usfm": "REV 20:14",
+          "end_ref": "66020014",
+          "end_ref_usfm": "REV 20:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25825,
+          "content_id": 26683,
+          "label": "Heaven",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25829,
+          "content_id": 26687,
+          "label": "Hell",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26307,
+          "content_id": 27165,
+          "label": "Tomb",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

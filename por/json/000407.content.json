@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 237926,
+    "reference_id": 25793,
+    "title": "Golias",
+    "media_type": "Text",
+    "index_reference": "golias",
+    "language": "por",
+    "content": "<h1>Golias</h1><h2>Fatos:</h2><p>Golias era um soldado muito alto e muito grande no exército dos filisteus que foi morto por Davi.</p><ul><li><p>Golias tinha entre dois e três metros de altura. Ele é frequentemente referido como um gigante por causa de seu grande tamanho.</p></li><li><p>Embora Golias tivesse melhores armas e fosse muito maior que Davi, Deus deu a Davi a força e a habilidade para derrotar Golias.</p></li><li><p>Os israelitas foram declarados vitoriosos sobre os filisteus como resultado da vitória de Davi sobre Golias.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Filisteus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr20:4-1Chr20:5\">1 Crônicas 20.4–5</a></p></li><li><p><a href=\"https://ref.ly/1Sam17:4-1Sam17:5\">1 Samuel 17.4–5</a></p></li><li><p><a href=\"https://ref.ly/1Sam21:8-1Sam21:9\">1 Samuel 21.8–9</a></p></li><li><p><a href=\"https://ref.ly/1Sam22:9-1Sam22:10\">1 Samuel 22.9–10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1555</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09022009",
+          "start_ref_usfm": "1SA 22:9",
+          "end_ref": "09022010",
+          "end_ref_usfm": "1SA 22:10"
+        },
+        {
+          "start_ref": "13020004",
+          "start_ref_usfm": "1CH 20:4",
+          "end_ref": "13020005",
+          "end_ref_usfm": "1CH 20:5"
+        },
+        {
+          "start_ref": "09017004",
+          "start_ref_usfm": "1SA 17:4",
+          "end_ref": "09017005",
+          "end_ref_usfm": "1SA 17:5"
+        },
+        {
+          "start_ref": "09021008",
+          "start_ref_usfm": "1SA 21:8",
+          "end_ref": "09021009",
+          "end_ref_usfm": "1SA 21:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

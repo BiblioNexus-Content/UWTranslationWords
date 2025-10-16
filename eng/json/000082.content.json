@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 26355,
+    "reference_id": 25497,
+    "title": "Baal",
+    "media_type": "Text",
+    "index_reference": "baal",
+    "language": "eng",
+    "content": "<h1>Baal</h1><h2>Facts:</h2><p>“Baal” means “lord” or “master” and was the name of the primary false god that was worshiped by the Canaanites.</p><ul><li><p>There were also local false gods that had “Baal” as part of their names, such as “Baal of Peor.” Sometimes all these gods together are referred to as “the Baals.”</p></li><li><p>Some people had names that included the word “Baal” in them.</p></li><li><p>The worship of Baal included evil practices such as sacrificing children and using prostitutes.</p></li><li><p>At different time periods throughout their history, the Israelites also became deeply involved in Baal worship, following the example of the pagan nations around them.</p></li><li><p>During the reign of King Ahab, God’s prophet Elijah set up a test to prove to the people that Baal does not exist and that Yahweh is the only true God. As a result, the prophets of Baal were destroyed and the people started worshiping Yahweh again.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25438\" data-resourceType=\"UWTranslationWords\">Ahab</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_asherah\" data-resourceType=\"UWTranslationWords\">Asherah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25697\" data-resourceType=\"UWTranslationWords\">Elijah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25728\" data-resourceType=\"UWTranslationWords\">false god</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26132\" data-resourceType=\"UWTranslationWords\">prostitute</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26360\" data-resourceType=\"UWTranslationWords\">Yahweh</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs16:31\">1 Kings 16:31</a></p></li><li><p><a href=\"https://ref.ly/1Sam7:3-1Sam7:4\">1 Samuel 7:3–4</a></p></li><li><p><a href=\"https://ref.ly/Jer2:7-Jer2:8\">Jeremiah 2:7–8</a></p></li><li><p><a href=\"https://ref.ly/Judg2:11\">Judges 2:11</a></p></li><li><p><a href=\"https://ref.ly/Num22:41\">Numbers 22:41</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>19:2</strong> Ahab was an evil man who encouraged people to worship a false god named <strong>Baal</strong>.</p></li><li><p><strong>19:6</strong> All the people of the entire kingdom of Israel, including the 450 prophets of <strong>Baal</strong>, came to Mount Carmel. Elijah said to the people, “How long will you keep changing your mind? If Yahweh is God, serve him! If <strong>Baal</strong> is God, serve him!”</p></li><li><p><strong>19:7</strong> Then Elijah said to the prophets of <strong>Baal</strong>, “Kill a bull and prepare it as a sacrifice, but do not light the fire.”</p></li><li><p><strong>19:8</strong> Then the prophets of <strong>Baal</strong> prayed to <strong>Baal</strong>, “Hear us, O <strong>Baal</strong>!”</p></li><li><p><strong>19:12</strong> So the people captured the prophets of <strong>Baal</strong>. Then Elijah took them away from there and killed them.</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1120, G08960</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "04022041",
+          "start_ref_usfm": "NUM 22:41",
+          "end_ref": "04022041",
+          "end_ref_usfm": "NUM 22:41"
+        },
+        {
+          "start_ref": "07002011",
+          "start_ref_usfm": "JDG 2:11",
+          "end_ref": "07002011",
+          "end_ref_usfm": "JDG 2:11"
+        },
+        {
+          "start_ref": "11016031",
+          "start_ref_usfm": "1KI 16:31",
+          "end_ref": "11016031",
+          "end_ref_usfm": "1KI 16:31"
+        },
+        {
+          "start_ref": "45011004",
+          "start_ref_usfm": "ROM 11:4",
+          "end_ref": "45011004",
+          "end_ref_usfm": "ROM 11:4"
+        },
+        {
+          "start_ref": "09007003",
+          "start_ref_usfm": "1SA 7:3",
+          "end_ref": "09007004",
+          "end_ref_usfm": "1SA 7:4"
+        },
+        {
+          "start_ref": "24002007",
+          "start_ref_usfm": "JER 2:7",
+          "end_ref": "24002008",
+          "end_ref_usfm": "JER 2:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 26296,
+          "label": "Ahab",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25483,
+          "content_id": 26341,
+          "label": "Asherim",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 26555,
+          "label": "Elijah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 26586,
+          "label": "False God",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26132,
+          "content_id": 26990,
+          "label": "Prostitute",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26360,
+          "content_id": 27218,
+          "label": "Yahweh",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

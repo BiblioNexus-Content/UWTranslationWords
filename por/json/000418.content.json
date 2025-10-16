@@ -1,0 +1,275 @@
+[
+  {
+    "content_id": 238466,
+    "reference_id": 26340,
+    "title": "Guerreiro",
+    "media_type": "Text",
+    "index_reference": "guerreiro",
+    "language": "por",
+    "content": "<h1>soldado, guerreiro</h1><h2>Fatos:</h2><p>Os termos “guerreiro” e “soldado” podem se referir a alguém que luta em um exército. Mas também existem algumas diferenças.</p><ul><li><p>Normalmente, o termo “guerreiro” é um termo geral e amplo para se referir a um homem que é talentoso e corajoso na batalha.</p></li><li><p>Javé é figurativamente descrito como um “guerreiro”.</p></li><li><p>O termo “soldado” refere-se mais especificamente a alguém que pertence a um determinado exército ou que está lutando em uma determinada batalha.</p></li><li><p>Soldados romanos em Jerusalém estavam lá para manter a ordem e realizar tarefas como executar prisioneiros. Eles guardaram Jesus antes de crucificá-lo e alguns foram ordenados a ficar de guarda em seu túmulo.</p></li><li><p>O tradutor deve considerar se há duas palavras na língua do projeto para “guerreiro” e “soldado” que também diferem em significado e uso.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25618\" data-resourceType=\"UWTranslationWords\">coragem</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25629\" data-resourceType=\"UWTranslationWords\">crucificar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26307\" data-resourceType=\"UWTranslationWords\">túmulo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr21:5\">1 Crônicas 21.5</a></p></li><li><p><a href=\"https://ref.ly/Acts21:33\">Atos 21.33</a></p></li><li><p><a href=\"https://ref.ly/Luke3:14\">Lucas 3.14</a></p></li><li><p><a href=\"https://ref.ly/Luke23:11\">Lucas 23.11</a></p></li><li><p><a href=\"https://ref.ly/Matt8:8-Matt8:10\">Mateus 8.8–10</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H0352, H0510, H1368, H1416, H1995, H2389, H2428, H2502, H3715, H4421, H5971, H6518, H6635, H7273, H7916, G46860, G47530, G47540, G47570, G47580, G49610</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02015003",
+          "start_ref_usfm": "EXO 15:3",
+          "end_ref": "02015003",
+          "end_ref_usfm": "EXO 15:3"
+        },
+        {
+          "start_ref": "13021005",
+          "start_ref_usfm": "1CH 21:5",
+          "end_ref": "13021005",
+          "end_ref_usfm": "1CH 21:5"
+        },
+        {
+          "start_ref": "40008009",
+          "start_ref_usfm": "MAT 8:9",
+          "end_ref": "40008009",
+          "end_ref_usfm": "MAT 8:9"
+        },
+        {
+          "start_ref": "40027027",
+          "start_ref_usfm": "MAT 27:27",
+          "end_ref": "40027027",
+          "end_ref_usfm": "MAT 27:27"
+        },
+        {
+          "start_ref": "40028012",
+          "start_ref_usfm": "MAT 28:12",
+          "end_ref": "40028012",
+          "end_ref_usfm": "MAT 28:12"
+        },
+        {
+          "start_ref": "41015016",
+          "start_ref_usfm": "MRK 15:16",
+          "end_ref": "41015016",
+          "end_ref_usfm": "MRK 15:16"
+        },
+        {
+          "start_ref": "42003014",
+          "start_ref_usfm": "LUK 3:14",
+          "end_ref": "42003014",
+          "end_ref_usfm": "LUK 3:14"
+        },
+        {
+          "start_ref": "42007008",
+          "start_ref_usfm": "LUK 7:8",
+          "end_ref": "42007008",
+          "end_ref_usfm": "LUK 7:8"
+        },
+        {
+          "start_ref": "42023011",
+          "start_ref_usfm": "LUK 23:11",
+          "end_ref": "42023011",
+          "end_ref_usfm": "LUK 23:11"
+        },
+        {
+          "start_ref": "42023036",
+          "start_ref_usfm": "LUK 23:36",
+          "end_ref": "42023036",
+          "end_ref_usfm": "LUK 23:36"
+        },
+        {
+          "start_ref": "43019002",
+          "start_ref_usfm": "JHN 19:2",
+          "end_ref": "43019002",
+          "end_ref_usfm": "JHN 19:2"
+        },
+        {
+          "start_ref": "43019023",
+          "start_ref_usfm": "JHN 19:23",
+          "end_ref": "43019023",
+          "end_ref_usfm": "JHN 19:23"
+        },
+        {
+          "start_ref": "43019024",
+          "start_ref_usfm": "JHN 19:24",
+          "end_ref": "43019024",
+          "end_ref_usfm": "JHN 19:24"
+        },
+        {
+          "start_ref": "43019032",
+          "start_ref_usfm": "JHN 19:32",
+          "end_ref": "43019032",
+          "end_ref_usfm": "JHN 19:32"
+        },
+        {
+          "start_ref": "43019034",
+          "start_ref_usfm": "JHN 19:34",
+          "end_ref": "43019034",
+          "end_ref_usfm": "JHN 19:34"
+        },
+        {
+          "start_ref": "44010007",
+          "start_ref_usfm": "ACT 10:7",
+          "end_ref": "44010007",
+          "end_ref_usfm": "ACT 10:7"
+        },
+        {
+          "start_ref": "44012004",
+          "start_ref_usfm": "ACT 12:4",
+          "end_ref": "44012004",
+          "end_ref_usfm": "ACT 12:4"
+        },
+        {
+          "start_ref": "44012006",
+          "start_ref_usfm": "ACT 12:6",
+          "end_ref": "44012006",
+          "end_ref_usfm": "ACT 12:6"
+        },
+        {
+          "start_ref": "44012018",
+          "start_ref_usfm": "ACT 12:18",
+          "end_ref": "44012018",
+          "end_ref_usfm": "ACT 12:18"
+        },
+        {
+          "start_ref": "44021032",
+          "start_ref_usfm": "ACT 21:32",
+          "end_ref": "44021032",
+          "end_ref_usfm": "ACT 21:32"
+        },
+        {
+          "start_ref": "44021033",
+          "start_ref_usfm": "ACT 21:33",
+          "end_ref": "44021033",
+          "end_ref_usfm": "ACT 21:33"
+        },
+        {
+          "start_ref": "44021035",
+          "start_ref_usfm": "ACT 21:35",
+          "end_ref": "44021035",
+          "end_ref_usfm": "ACT 21:35"
+        },
+        {
+          "start_ref": "44023010",
+          "start_ref_usfm": "ACT 23:10",
+          "end_ref": "44023010",
+          "end_ref_usfm": "ACT 23:10"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "44023027",
+          "start_ref_usfm": "ACT 23:27",
+          "end_ref": "44023027",
+          "end_ref_usfm": "ACT 23:27"
+        },
+        {
+          "start_ref": "44023031",
+          "start_ref_usfm": "ACT 23:31",
+          "end_ref": "44023031",
+          "end_ref_usfm": "ACT 23:31"
+        },
+        {
+          "start_ref": "44027031",
+          "start_ref_usfm": "ACT 27:31",
+          "end_ref": "44027031",
+          "end_ref_usfm": "ACT 27:31"
+        },
+        {
+          "start_ref": "44027032",
+          "start_ref_usfm": "ACT 27:32",
+          "end_ref": "44027032",
+          "end_ref_usfm": "ACT 27:32"
+        },
+        {
+          "start_ref": "44027042",
+          "start_ref_usfm": "ACT 27:42",
+          "end_ref": "44027042",
+          "end_ref_usfm": "ACT 27:42"
+        },
+        {
+          "start_ref": "44028016",
+          "start_ref_usfm": "ACT 28:16",
+          "end_ref": "44028016",
+          "end_ref_usfm": "ACT 28:16"
+        },
+        {
+          "start_ref": "45007023",
+          "start_ref_usfm": "ROM 7:23",
+          "end_ref": "45007023",
+          "end_ref_usfm": "ROM 7:23"
+        },
+        {
+          "start_ref": "46009007",
+          "start_ref_usfm": "1CO 9:7",
+          "end_ref": "46009007",
+          "end_ref_usfm": "1CO 9:7"
+        },
+        {
+          "start_ref": "50002025",
+          "start_ref_usfm": "PHP 2:25",
+          "end_ref": "50002025",
+          "end_ref_usfm": "PHP 2:25"
+        },
+        {
+          "start_ref": "55002003",
+          "start_ref_usfm": "2TI 2:3",
+          "end_ref": "55002003",
+          "end_ref_usfm": "2TI 2:3"
+        },
+        {
+          "start_ref": "55002004",
+          "start_ref_usfm": "2TI 2:4",
+          "end_ref": "55002004",
+          "end_ref_usfm": "2TI 2:4"
+        },
+        {
+          "start_ref": "57001002",
+          "start_ref_usfm": "PHM 1:2",
+          "end_ref": "57001002",
+          "end_ref_usfm": "PHM 1:2"
+        },
+        {
+          "start_ref": "59004001",
+          "start_ref_usfm": "JAS 4:1",
+          "end_ref": "59004001",
+          "end_ref_usfm": "JAS 4:1"
+        },
+        {
+          "start_ref": "60002011",
+          "start_ref_usfm": "1PE 2:11",
+          "end_ref": "60002011",
+          "end_ref_usfm": "1PE 2:11"
+        },
+        {
+          "start_ref": "40008008",
+          "start_ref_usfm": "MAT 8:8",
+          "end_ref": "40008010",
+          "end_ref_usfm": "MAT 8:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25618,
+          "content_id": 237752,
+          "label": "Coragem",
+          "language": "por"
+        },
+        {
+          "reference_id": 25629,
+          "content_id": 237762,
+          "label": "Crucificar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        },
+        {
+          "reference_id": 26307,
+          "content_id": 238435,
+          "label": "Túmulo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

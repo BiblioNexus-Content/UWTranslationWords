@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27040,
+    "reference_id": 26182,
+    "title": "Royal",
+    "media_type": "Text",
+    "index_reference": "royal",
+    "language": "eng",
+    "content": "<h1>royal, royalty, king’s, queen’s</h1><h2>Definition:</h2><p>The term “royal” describes people and things associated with a king or queen.</p><ul><li><p>Examples of things that could be called “royal” include a king’s (or queen’s) position, clothing, palace, throne, and crown.</p></li><li><p>A king or queen usually lived in a royal palace.</p></li><li><p>A king wore special clothing, sometimes called “royal robes.” Often a king’s robes were purple, this color could only be produced by a rare and expensive type of dye.</p></li><li><p>In the New Testament, believers in Jesus were called a “royal priesthood.” Other ways to translate this could include “priests who serve God the King” or “called to be priests for God the King.”</p></li><li><p>The term “royal” could also be translated as “kingly” or “belonging to a king.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>. <span data-bnType=\"resourceReference\" data-resourceId=\"26071\" data-resourceType=\"UWTranslationWords\">palace</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26121\" data-resourceType=\"UWTranslationWords\">priest</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26143\" data-resourceType=\"UWTranslationWords\">purple</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26145\" data-resourceType=\"UWTranslationWords\">queen</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26179\" data-resourceType=\"UWTranslationWords\">robe</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs10:13\">1 Kings 10:13</a></p></li><li><p><a href=\"https://ref.ly/2Chr18:28-2Chr18:30\">2 Chronicles 18:28–30</a></p></li><li><p><a href=\"https://ref.ly/Amos7:13\">Amos 7:13</a></p></li><li><p><a href=\"https://ref.ly/Gen49:19-Gen49:21\">Genesis 49:19–21</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0643, H1921, H1935, H4410, H4428, H4430, H4437, H4438, H4467, H4468, H7985, G09330, G09340, G09370</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11010013",
+          "start_ref_usfm": "1KI 10:13",
+          "end_ref": "11010013",
+          "end_ref_usfm": "1KI 10:13"
+        },
+        {
+          "start_ref": "30007013",
+          "start_ref_usfm": "AMO 7:13",
+          "end_ref": "30007013",
+          "end_ref_usfm": "AMO 7:13"
+        },
+        {
+          "start_ref": "43004046",
+          "start_ref_usfm": "JHN 4:46",
+          "end_ref": "43004046",
+          "end_ref_usfm": "JHN 4:46"
+        },
+        {
+          "start_ref": "43004049",
+          "start_ref_usfm": "JHN 4:49",
+          "end_ref": "43004049",
+          "end_ref_usfm": "JHN 4:49"
+        },
+        {
+          "start_ref": "44012021",
+          "start_ref_usfm": "ACT 12:21",
+          "end_ref": "44012021",
+          "end_ref_usfm": "ACT 12:21"
+        },
+        {
+          "start_ref": "59002008",
+          "start_ref_usfm": "JAS 2:8",
+          "end_ref": "59002008",
+          "end_ref_usfm": "JAS 2:8"
+        },
+        {
+          "start_ref": "14018028",
+          "start_ref_usfm": "2CH 18:28",
+          "end_ref": "14018030",
+          "end_ref_usfm": "2CH 18:30"
+        },
+        {
+          "start_ref": "01049019",
+          "start_ref_usfm": "GEN 49:19",
+          "end_ref": "01049021",
+          "end_ref_usfm": "GEN 49:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26071,
+          "content_id": 26929,
+          "label": "Palace",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 26979,
+          "label": "Priest",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26143,
+          "content_id": 27001,
+          "label": "Purple",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26145,
+          "content_id": 27003,
+          "label": "Queen",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26179,
+          "content_id": 27037,
+          "label": "Robe",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

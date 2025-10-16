@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 179977,
+    "reference_id": 25910,
+    "title": "यूहन्ना मरकुस",
+    "media_type": "Text",
+    "index_reference": "यूहन्ना मरकुस",
+    "language": "hin",
+    "content": "<h1>यूहन्ना मरकुस</h1><h2>तथ्य:</h2><p>यूहन्ना मरकुस जो “मरकुस” के नाम से भी जाना जाता है, पौलुस के साथ उसकी प्रचार यात्रा में गया था। अति-संभव है कि मरकुस रचित सुसमाचार का लेखक वही था।</p><ul><li><p>यूहन्ना मरकुस अपने भाई बरनबास और पौलुस के साथ प्रथम प्रचार यात्रा में गया था।</p></li><li><p>जब पतरस को यरूशलेम के बन्दीगृह में डाला गया था तब वहां के विश्वासी यूहन्ना मरकुस की माता के घर में एकत्र होकर उसके लिए प्रार्थना कर रहे थे।</p></li><li><p>मरकुस वास्तव में प्रेरित नहीं था परन्तु पौलुस और पतरस की शिक्षाओं में रहकर उनके साथ प्रचार करता था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25506\" data-resourceType=\"UWTranslationWords\">बरनबास</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">पौलुस</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Tim0:0\">2 तीमु. 4:11–13</a></p></li><li><p><a href=\"https://ref.ly/Acts12:24-Acts12:25\">प्रे.का. 12:24–25</a></p></li><li><p><a href=\"https://ref.ly/Acts13:5\">प्रे.का. 13:5</a></p></li><li><p><a href=\"https://ref.ly/Acts13:13\">प्रे.का. 13:13</a></p></li><li><p><a href=\"https://ref.ly/Acts15:36-Acts15:38\">प्रे.का. 15:36–38</a></p></li><li><p><a href=\"https://ref.ly/Acts15:39-Acts15:41\">प्रे.का. 15:39–41</a></p></li><li><p><a href=\"https://ref.ly/Col4:10-Col4:11\">कुलुस्सियों 4:10–11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: G2491, G3138</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44012012",
+          "start_ref_usfm": "ACT 12:12",
+          "end_ref": "44012012",
+          "end_ref_usfm": "ACT 12:12"
+        },
+        {
+          "start_ref": "44012025",
+          "start_ref_usfm": "ACT 12:25",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "44013005",
+          "start_ref_usfm": "ACT 13:5",
+          "end_ref": "44013005",
+          "end_ref_usfm": "ACT 13:5"
+        },
+        {
+          "start_ref": "44013013",
+          "start_ref_usfm": "ACT 13:13",
+          "end_ref": "44013013",
+          "end_ref_usfm": "ACT 13:13"
+        },
+        {
+          "start_ref": "44015037",
+          "start_ref_usfm": "ACT 15:37",
+          "end_ref": "44015037",
+          "end_ref_usfm": "ACT 15:37"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015039",
+          "end_ref_usfm": "ACT 15:39"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004010",
+          "end_ref_usfm": "COL 4:10"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004011",
+          "end_ref_usfm": "2TI 4:11"
+        },
+        {
+          "start_ref": "57001024",
+          "start_ref_usfm": "PHM 1:24",
+          "end_ref": "57001024",
+          "end_ref_usfm": "PHM 1:24"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "51004010",
+          "start_ref_usfm": "COL 4:10",
+          "end_ref": "51004011",
+          "end_ref_usfm": "COL 4:11"
+        },
+        {
+          "start_ref": "44015039",
+          "start_ref_usfm": "ACT 15:39",
+          "end_ref": "44015041",
+          "end_ref_usfm": "ACT 15:41"
+        },
+        {
+          "start_ref": "44012024",
+          "start_ref_usfm": "ACT 12:24",
+          "end_ref": "44012025",
+          "end_ref_usfm": "ACT 12:25"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "44015036",
+          "start_ref_usfm": "ACT 15:36",
+          "end_ref": "44015038",
+          "end_ref_usfm": "ACT 15:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25506,
+          "content_id": 179594,
+          "label": "बरनबास",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 180141,
+          "label": "पौलुस",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

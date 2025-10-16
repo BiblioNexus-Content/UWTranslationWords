@@ -1,0 +1,161 @@
+[
+  {
+    "content_id": 27081,
+    "reference_id": 26223,
+    "title": "Shechem",
+    "media_type": "Text",
+    "index_reference": "shechem",
+    "language": "eng",
+    "content": "<h1>Shechem</h1><h2>Facts:</h2><p>Shechem was a town in Canaan located about 40 miles north of Jerusalem. Shechem was also the name of a man in the Old Testament.</p><ul><li><p>The town of Shechem was where Jacob settled after being reconciled to his brother Esau.</p></li><li><p>Jacob bought land from the sons of Hamor the Hivite in Shechem. This land later became his family burial ground and the place where his sons buried him.</p></li><li><p>Hamor’s son Shechem raped Jacob’s daughter Dinah, resulting in Jacob’s sons killing all the men in the town of Shechem.</p></li></ul><p>(Translation suggestions: <span data-bnType=\"resourceReference\" data-resourceId=\"25815\" data-resourceType=\"UWTranslationWords\">Hamor</span>)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25710\" data-resourceType=\"UWTranslationWords\">Esau</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25815\" data-resourceType=\"UWTranslationWords\">Hamor</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25839\" data-resourceType=\"UWTranslationWords\">Hivite</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts7:14-Acts7:16\">Acts 7:14–16</a></p></li><li><p><a href=\"https://ref.ly/Gen12:6-Gen12:7\">Genesis 12:6–7</a></p></li><li><p><a href=\"https://ref.ly/Gen33:19\">Genesis 33:19</a></p></li><li><p><a href=\"https://ref.ly/Gen37:13\">Genesis 37:13</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7928, H7930</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012006",
+          "end_ref_usfm": "GEN 12:6"
+        },
+        {
+          "start_ref": "01033018",
+          "start_ref_usfm": "GEN 33:18",
+          "end_ref": "01033018",
+          "end_ref_usfm": "GEN 33:18"
+        },
+        {
+          "start_ref": "01033019",
+          "start_ref_usfm": "GEN 33:19",
+          "end_ref": "01033019",
+          "end_ref_usfm": "GEN 33:19"
+        },
+        {
+          "start_ref": "01034002",
+          "start_ref_usfm": "GEN 34:2",
+          "end_ref": "01034002",
+          "end_ref_usfm": "GEN 34:2"
+        },
+        {
+          "start_ref": "01034004",
+          "start_ref_usfm": "GEN 34:4",
+          "end_ref": "01034004",
+          "end_ref_usfm": "GEN 34:4"
+        },
+        {
+          "start_ref": "01034006",
+          "start_ref_usfm": "GEN 34:6",
+          "end_ref": "01034006",
+          "end_ref_usfm": "GEN 34:6"
+        },
+        {
+          "start_ref": "01034008",
+          "start_ref_usfm": "GEN 34:8",
+          "end_ref": "01034008",
+          "end_ref_usfm": "GEN 34:8"
+        },
+        {
+          "start_ref": "01034011",
+          "start_ref_usfm": "GEN 34:11",
+          "end_ref": "01034011",
+          "end_ref_usfm": "GEN 34:11"
+        },
+        {
+          "start_ref": "01034013",
+          "start_ref_usfm": "GEN 34:13",
+          "end_ref": "01034013",
+          "end_ref_usfm": "GEN 34:13"
+        },
+        {
+          "start_ref": "01034018",
+          "start_ref_usfm": "GEN 34:18",
+          "end_ref": "01034018",
+          "end_ref_usfm": "GEN 34:18"
+        },
+        {
+          "start_ref": "01034020",
+          "start_ref_usfm": "GEN 34:20",
+          "end_ref": "01034020",
+          "end_ref_usfm": "GEN 34:20"
+        },
+        {
+          "start_ref": "01034024",
+          "start_ref_usfm": "GEN 34:24",
+          "end_ref": "01034024",
+          "end_ref_usfm": "GEN 34:24"
+        },
+        {
+          "start_ref": "01034026",
+          "start_ref_usfm": "GEN 34:26",
+          "end_ref": "01034026",
+          "end_ref_usfm": "GEN 34:26"
+        },
+        {
+          "start_ref": "01037012",
+          "start_ref_usfm": "GEN 37:12",
+          "end_ref": "01037012",
+          "end_ref_usfm": "GEN 37:12"
+        },
+        {
+          "start_ref": "01037013",
+          "start_ref_usfm": "GEN 37:13",
+          "end_ref": "01037013",
+          "end_ref_usfm": "GEN 37:13"
+        },
+        {
+          "start_ref": "01037014",
+          "start_ref_usfm": "GEN 37:14",
+          "end_ref": "01037014",
+          "end_ref_usfm": "GEN 37:14"
+        },
+        {
+          "start_ref": "44007016",
+          "start_ref_usfm": "ACT 7:16",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        },
+        {
+          "start_ref": "01012006",
+          "start_ref_usfm": "GEN 12:6",
+          "end_ref": "01012007",
+          "end_ref_usfm": "GEN 12:7"
+        },
+        {
+          "start_ref": "44007014",
+          "start_ref_usfm": "ACT 7:14",
+          "end_ref": "44007016",
+          "end_ref_usfm": "ACT 7:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 26430,
+          "label": "Canaan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25710,
+          "content_id": 26568,
+          "label": "Esau",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25815,
+          "content_id": 26673,
+          "label": "Hamor",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25839,
+          "content_id": 26697,
+          "label": "Hivite",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

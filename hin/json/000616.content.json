@@ -1,0 +1,64 @@
+[
+  {
+    "content_id": 180197,
+    "reference_id": 26138,
+    "title": "भड़काना",
+    "media_type": "Text",
+    "index_reference": "भड़काना",
+    "language": "hin",
+    "content": "<h1>भड़काना, भड़काना, भड़काना, भड़काना, भड़काना</h1><h2>तथ्य:</h2><p>“भड़काना” किसी में नकारात्मक प्रतिक्रिया या भावना उत्पन्न करवाना।</p><ul><li><p>किसी को क्रोध दिलाने का अर्थ है किसी के लिए क्रोध का कारण होना। इसका अनुवाद हो सकता है, “क्रोध दिलाना” या “क्रोधित करना”</p></li><li><p>“उसे भड़काओ नहीं” इसका अनुवाद हो सकता है, “क्रोध मत दिलाओ” या “क्रोध करने का कारण मत बनो” या “क्रोध मत करो”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_angry\" data-resourceType=\"UWTranslationWords\">क्रोधित</span>)</p><h2>बाइबल संदर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Ezek20:27-Ezek20:29\">यहेजकेल 20:27–29</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3707, H3708, H4784, H4843, H5006, H5496, H7065, H7069, H7107, H7264, H7265, G653, G2042, G3863, G3893, G3947, G3948, G3949, G4292</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017016",
+          "start_ref_usfm": "ACT 17:16",
+          "end_ref": "44017016",
+          "end_ref_usfm": "ACT 17:16"
+        },
+        {
+          "start_ref": "45010019",
+          "start_ref_usfm": "ROM 10:19",
+          "end_ref": "45010019",
+          "end_ref_usfm": "ROM 10:19"
+        },
+        {
+          "start_ref": "45011011",
+          "start_ref_usfm": "ROM 11:11",
+          "end_ref": "45011011",
+          "end_ref_usfm": "ROM 11:11"
+        },
+        {
+          "start_ref": "45011014",
+          "start_ref_usfm": "ROM 11:14",
+          "end_ref": "45011014",
+          "end_ref_usfm": "ROM 11:14"
+        },
+        {
+          "start_ref": "46013005",
+          "start_ref_usfm": "1CO 13:5",
+          "end_ref": "46013005",
+          "end_ref_usfm": "1CO 13:5"
+        },
+        {
+          "start_ref": "49006004",
+          "start_ref_usfm": "EPH 6:4",
+          "end_ref": "49006004",
+          "end_ref_usfm": "EPH 6:4"
+        },
+        {
+          "start_ref": "51003021",
+          "start_ref_usfm": "COL 3:21",
+          "end_ref": "51003021",
+          "end_ref_usfm": "COL 3:21"
+        },
+        {
+          "start_ref": "26020027",
+          "start_ref_usfm": "EZK 20:27",
+          "end_ref": "26020029",
+          "end_ref_usfm": "EZK 20:29"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

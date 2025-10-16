@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 466667,
+    "reference_id": 25488,
+    "title": "Assyrie",
+    "media_type": "Text",
+    "index_reference": "assyrie",
+    "language": "fra",
+    "content": "<h1>Assyrie, Assyrien, empire assyrien</h1><h2>Données :</h2><p>L&apos;Assyrie était une nation puissante au temps où les Israélites vivaient dans le pays de Canaan. L&apos;empire assyrien était un groupe de nations gouvernées par un roi assyrien.</p><ul><li><p>L&apos;Assyrie était située dans une région qui est maintenant la partie nord de l&apos;Irak.</p></li><li><p>Les Assyriens ont combattu Israël à différents moments de leur histoire.</p></li><li><p>En 722 av. J.-C., les Assyriens ont complètement conquis le royaume d&apos;Israël et ont forcé de nombreux Israélites à se déplacer en Assyrie.</p></li><li><p>Les Israélites qui sont restés en Israël se sont mariés avec des étrangers que les Assyriens avaient amenés dans la région d&apos;Israël appelée la Samarie. Les descendants de ces mariages ont été appelés plus tard les Samaritains.</p></li></ul><p>(Voir aussi : (../names/samaria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01002014",
+          "start_ref_usfm": "GEN 2:14",
+          "end_ref": "01002014",
+          "end_ref_usfm": "GEN 2:14"
+        },
+        {
+          "start_ref": "01010011",
+          "start_ref_usfm": "GEN 10:11",
+          "end_ref": "01010011",
+          "end_ref_usfm": "GEN 10:11"
+        },
+        {
+          "start_ref": "01010022",
+          "start_ref_usfm": "GEN 10:22",
+          "end_ref": "01010022",
+          "end_ref_usfm": "GEN 10:22"
+        },
+        {
+          "start_ref": "01025003",
+          "start_ref_usfm": "GEN 25:3",
+          "end_ref": "01025003",
+          "end_ref_usfm": "GEN 25:3"
+        },
+        {
+          "start_ref": "01025018",
+          "start_ref_usfm": "GEN 25:18",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "15004002",
+          "start_ref_usfm": "EZR 4:2",
+          "end_ref": "15004002",
+          "end_ref_usfm": "EZR 4:2"
+        },
+        {
+          "start_ref": "15006022",
+          "start_ref_usfm": "EZR 6:22",
+          "end_ref": "15006022",
+          "end_ref_usfm": "EZR 6:22"
+        },
+        {
+          "start_ref": "16009032",
+          "start_ref_usfm": "NEH 9:32",
+          "end_ref": "16009032",
+          "end_ref_usfm": "NEH 9:32"
+        },
+        {
+          "start_ref": "24050017",
+          "start_ref_usfm": "JER 50:17",
+          "end_ref": "24050017",
+          "end_ref_usfm": "JER 50:17"
+        },
+        {
+          "start_ref": "36002013",
+          "start_ref_usfm": "ZEP 2:13",
+          "end_ref": "36002013",
+          "end_ref_usfm": "ZEP 2:13"
+        },
+        {
+          "start_ref": "33007011",
+          "start_ref_usfm": "MIC 7:11",
+          "end_ref": "33007013",
+          "end_ref_usfm": "MIC 7:13"
+        },
+        {
+          "start_ref": "01025017",
+          "start_ref_usfm": "GEN 25:17",
+          "end_ref": "01025018",
+          "end_ref_usfm": "GEN 25:18"
+        },
+        {
+          "start_ref": "23007016",
+          "start_ref_usfm": "ISA 7:16",
+          "end_ref": "23007017",
+          "end_ref_usfm": "ISA 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26192,
+          "content_id": 467311,
+          "label": "Samarie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

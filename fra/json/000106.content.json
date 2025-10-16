@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 467300,
+    "reference_id": 26180,
+    "title": "Barre",
+    "media_type": "Text",
+    "index_reference": "barre",
+    "language": "fra",
+    "content": "<h1>barre</h1><h2>Définition :</h2><p>Le terme «tige» fait référence à un outil étroit, solide, qui est utilisé de façons différentes* Il avait probablement au moins un mètre de long.</p><ul><li><p>Une tige en bois est utilisé par un berger pour défendre les brebis des autres animaux* elle peut également être lancée vers une brebis égarée pour la ramener au troupeau.</p></li><li><p>Dans le Psaume 23, le roi David a utilisé les termes, &quot;tige&quot; et &quot;personnel&quot; comme des métaphores pour se référer à la direction et à la discipline de Dieu pour son peuple.</p></li><li><p>La tige de berger est également utilisée pour compter les moutons * L&apos;expression figurée &quot;passant sous la barre&quot; signifie venir sous l&apos;autorité.</p></li><li><p>Une autre expression métaphorique, &quot;barre de fer&quot; se réfère à la punition de Dieu pour les gens qui se rebellent contre lui et font des choses mauvaises.</p></li><li><p>Dans les temps anciens, la mesure de tiges en métal, en bois ou en pierre ont été utilisés pour mesurer la longueur d&apos;un bâtiment ou d&apos;un objet.</p></li><li><p>Dans la Bible, une tige en bois est également désignée comme un instrument pour discipliner les enfants.</p></li></ul><p>(Voir aussi : (../other/staff.md), (../other/sheep.md), (../other/shepherd.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20010013",
+          "start_ref_usfm": "PRO 10:13",
+          "end_ref": "20010013",
+          "end_ref_usfm": "PRO 10:13"
+        },
+        {
+          "start_ref": "20013024",
+          "start_ref_usfm": "PRO 13:24",
+          "end_ref": "20013024",
+          "end_ref_usfm": "PRO 13:24"
+        },
+        {
+          "start_ref": "20014003",
+          "start_ref_usfm": "PRO 14:3",
+          "end_ref": "20014003",
+          "end_ref_usfm": "PRO 14:3"
+        },
+        {
+          "start_ref": "20022008",
+          "start_ref_usfm": "PRO 22:8",
+          "end_ref": "20022008",
+          "end_ref_usfm": "PRO 22:8"
+        },
+        {
+          "start_ref": "20022015",
+          "start_ref_usfm": "PRO 22:15",
+          "end_ref": "20022015",
+          "end_ref_usfm": "PRO 22:15"
+        },
+        {
+          "start_ref": "20023013",
+          "start_ref_usfm": "PRO 23:13",
+          "end_ref": "20023013",
+          "end_ref_usfm": "PRO 23:13"
+        },
+        {
+          "start_ref": "20023014",
+          "start_ref_usfm": "PRO 23:14",
+          "end_ref": "20023014",
+          "end_ref_usfm": "PRO 23:14"
+        },
+        {
+          "start_ref": "20026003",
+          "start_ref_usfm": "PRO 26:3",
+          "end_ref": "20026003",
+          "end_ref_usfm": "PRO 26:3"
+        },
+        {
+          "start_ref": "20029015",
+          "start_ref_usfm": "PRO 29:15",
+          "end_ref": "20029015",
+          "end_ref_usfm": "PRO 29:15"
+        },
+        {
+          "start_ref": "44016023",
+          "start_ref_usfm": "ACT 16:23",
+          "end_ref": "44016023",
+          "end_ref_usfm": "ACT 16:23"
+        },
+        {
+          "start_ref": "46004021",
+          "start_ref_usfm": "1CO 4:21",
+          "end_ref": "46004021",
+          "end_ref_usfm": "1CO 4:21"
+        },
+        {
+          "start_ref": "58009004",
+          "start_ref_usfm": "HEB 9:4",
+          "end_ref": "58009004",
+          "end_ref_usfm": "HEB 9:4"
+        },
+        {
+          "start_ref": "66002027",
+          "start_ref_usfm": "REV 2:27",
+          "end_ref": "66002027",
+          "end_ref_usfm": "REV 2:27"
+        },
+        {
+          "start_ref": "66011001",
+          "start_ref_usfm": "REV 11:1",
+          "end_ref": "66011001",
+          "end_ref_usfm": "REV 11:1"
+        },
+        {
+          "start_ref": "66012005",
+          "start_ref_usfm": "REV 12:5",
+          "end_ref": "66012005",
+          "end_ref_usfm": "REV 12:5"
+        },
+        {
+          "start_ref": "66019015",
+          "start_ref_usfm": "REV 19:15",
+          "end_ref": "66019015",
+          "end_ref_usfm": "REV 19:15"
+        },
+        {
+          "start_ref": "09014043",
+          "start_ref_usfm": "1SA 14:43",
+          "end_ref": "09014044",
+          "end_ref_usfm": "1SA 14:44"
+        },
+        {
+          "start_ref": "02027009",
+          "start_ref_usfm": "EXO 27:9",
+          "end_ref": "02027010",
+          "end_ref_usfm": "EXO 27:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26224,
+          "content_id": 467340,
+          "label": "Moutons",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26226,
+          "content_id": 467342,
+          "label": "Le berger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26259,
+          "content_id": 467374,
+          "label": "Une verge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

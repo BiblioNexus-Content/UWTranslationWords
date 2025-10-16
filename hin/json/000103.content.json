@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 179947,
+    "reference_id": 25880,
+    "title": "इस्साकार",
+    "media_type": "Text",
+    "index_reference": "इस्साकार",
+    "language": "hin",
+    "content": "<h1>इस्साकार</h1><h2>तथ्य:</h2><p>इस्साकार याकूब का पांचवां पुत्र था। उसकी माता का नाम लीआ:</p><ul><li><p>इस्साकार का गोत्र इस्राएल के बारह गोत्रों में से एक था।</p></li><li><p>इस्साकार का भूभाग नप्ताली, जुबूलिन, मनश्शे और गाद से घिरा हुआ था।</p></li><li><p>उसका भौगोलिक स्थान गलील सागर के दक्षिण में था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25764\" data-resourceType=\"UWTranslationWords\">गाद</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25993\" data-resourceType=\"UWTranslationWords\">मनश्शे</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">नप्ताली</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">इस्राएल के बारह गोत्र</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26368\" data-resourceType=\"UWTranslationWords\">जबूलून</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Exod1:1-Exod1:5\">निर्गमन 01:1–5</a></p></li><li><p><a href=\"https://ref.ly/Ezek48:23-Ezek48:26\">यहेजकेल 48:23–26</a></p></li><li><p><a href=\"https://ref.ly/Gen30:16-Gen30:18\">उत्पत्ति 30:16–18</a></p></li><li><p><a href=\"https://ref.ly/Josh17:9-Josh17:10\">यहोशू 17:9–10</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3485, G2466</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01030018",
+          "start_ref_usfm": "GEN 30:18",
+          "end_ref": "01030018",
+          "end_ref_usfm": "GEN 30:18"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01046013",
+          "start_ref_usfm": "GEN 46:13",
+          "end_ref": "01046013",
+          "end_ref_usfm": "GEN 46:13"
+        },
+        {
+          "start_ref": "01049014",
+          "start_ref_usfm": "GEN 49:14",
+          "end_ref": "01049014",
+          "end_ref_usfm": "GEN 49:14"
+        },
+        {
+          "start_ref": "02001003",
+          "start_ref_usfm": "EXO 1:3",
+          "end_ref": "02001003",
+          "end_ref_usfm": "EXO 1:3"
+        },
+        {
+          "start_ref": "06017010",
+          "start_ref_usfm": "JOS 17:10",
+          "end_ref": "06017010",
+          "end_ref_usfm": "JOS 17:10"
+        },
+        {
+          "start_ref": "66007007",
+          "start_ref_usfm": "REV 7:7",
+          "end_ref": "66007007",
+          "end_ref_usfm": "REV 7:7"
+        },
+        {
+          "start_ref": "02001001",
+          "start_ref_usfm": "EXO 1:1",
+          "end_ref": "02001005",
+          "end_ref_usfm": "EXO 1:5"
+        },
+        {
+          "start_ref": "26048023",
+          "start_ref_usfm": "EZK 48:23",
+          "end_ref": "26048026",
+          "end_ref_usfm": "EZK 48:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 179506,
+          "label": "इस्राएल के बारह गोत्र",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 179948,
+          "label": "याकूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 180026,
+          "label": "लिआ:",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466620,
+    "reference_id": 25439,
+    "title": "Assuérus",
+    "media_type": "Text",
+    "index_reference": "assuérus",
+    "language": "fra",
+    "content": "<h1>ASSUÉRUS</h1><h2>Informations sur la personne</h2><p>Assuérus est un roi qui a régné sur l&apos;ancien royaume de Perse pendant vingt ans.</p><ul><li><p>Son règne correspond à une période pendant laquelle les Juifs vivent en exil à Babylone. Babylone est alors sous domination perse.</p></li><li><p>Un autre nom de ce roi est Xerxès.</p></li><li><p>Après avoir avoir enlevé la dignité de reine à sa femme dans un excès de colère, le roi Assuérus choisit plus tard une femme juive du nom d&apos;Esther pour devenir sa nouvelle femme et sa reine.</p></li></ul><p>Voir&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"26805\" data-resourceType=\"UWTranslationManual\">Comment traduire les noms</span></p><p>Voir aussi&nbsp;: <span data-bnType=\"resourceReference\" data-resourceId=\"25500\" data-resourceType=\"UWTranslationWords\">Babylone</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25711\" data-resourceType=\"UWTranslationWords\">Esther</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25713\" data-resourceType=\"UWTranslationWords\">Éthiopie</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25721\" data-resourceType=\"UWTranslationWords\">exil</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26091\" data-resourceType=\"UWTranslationWords\">Perse</span></p><h2>Passages bibliques</h2><ul><li><p><a href=\"https://ref.ly/Dan9:1\">Daniel 9.1</a></p></li><li><p><a href=\"https://ref.ly/Esth10:1-Esth10:2\">Esther 10.1–2</a></p></li><li><p><a href=\"https://ref.ly/Ezra4:7-Ezra4:8\">Esdras 4.7–8</a></p></li></ul><h2>Données sur le mot</h2><ul><li><p>Numéro Strong&nbsp;: H0325</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15004006",
+          "start_ref_usfm": "EZR 4:6",
+          "end_ref": "15004006",
+          "end_ref_usfm": "EZR 4:6"
+        },
+        {
+          "start_ref": "27009001",
+          "start_ref_usfm": "DAN 9:1",
+          "end_ref": "27009001",
+          "end_ref_usfm": "DAN 9:1"
+        },
+        {
+          "start_ref": "17010001",
+          "start_ref_usfm": "EST 10:1",
+          "end_ref": "17010002",
+          "end_ref_usfm": "EST 10:2"
+        },
+        {
+          "start_ref": "15004007",
+          "start_ref_usfm": "EZR 4:7",
+          "end_ref": "15004008",
+          "end_ref_usfm": "EZR 4:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25500,
+          "content_id": 466678,
+          "label": "Babylone",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25711,
+          "content_id": 466870,
+          "label": "Esther",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25713,
+          "content_id": 466872,
+          "label": "Ethiopie ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25721,
+          "content_id": 559324,
+          "label": "Exil",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26091,
+          "content_id": 756852,
+          "label": "Perse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

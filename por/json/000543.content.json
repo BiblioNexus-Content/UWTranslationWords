@@ -1,0 +1,155 @@
+[
+  {
+    "content_id": 238488,
+    "reference_id": 26362,
+    "title": "Levedura",
+    "media_type": "Text",
+    "index_reference": "levedura",
+    "language": "por",
+    "content": "<h1>levedura, fermento, sem fermento</h1><h2>Definição:</h2><p>“Fermento” é um termo geral para uma substância que faz a massa de pão expandir e crescer. “Levedura” é um tipo específico de fermento.</p><ul><li><p>Em algumas traduções em português, a palavra para fermento é traduzida como “levedura”, que é um agente de fermentação moderno que enche a massa de pão com bolhas de gás, fazendo a massa expandir antes de assá-la. A levedura é adicionada na massa para que se espalhe por todo o pedaço de massa.</p></li><li><p>Nos tempos do Antigo Testamento, o agente de fermentação e crescimento era produzido deixando a massa descansar por um tempo. Pequenas quantidades de massa de um lote anterior eram guardadas como fermento para o próximo lote.</p></li><li><p>Quando os israelitas fugiram do Egito, eles não tiveram tempo de esperar a massa de pão crescer, então fizeram pão sem fermento para levar em sua jornada. Como lembrança disso, todos os anos o povo judeu celebra a Páscoa comendo pão que não tem fermento.</p></li><li><p>O termo “fermento” ou “levedura” é usado figurativamente na Bíblia como uma imagem de como o pecado se espalha pela vida de uma pessoa ou como o pecado pode influenciar outras pessoas.</p></li><li><p>Também pode se referir a ensinamentos falsos que muitas vezes se espalham para muitas pessoas e as influenciam.</p></li><li><p>O termo “fermento” também é usado de maneira positiva para explicar como a influência do reino de Deus se espalha de pessoa para pessoa.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Isso pode ser traduzido como “fermento”, “substância que faz a massa crescer” ou “agente de expansão”. A palavra “crescer” pode ser expressa como “expandir”, “ficar maior” ou “inchar”.</p></li><li><p>Se um agente de fermentação local é usado para fazer a massa de pão crescer, esse termo pode ser usado. Se a língua tem um termo bem conhecido e geral que significa “fermentação”, esse seria o melhor termo a ser usado.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egito</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26076\" data-resourceType=\"UWTranslationWords\">Páscoa</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26328\" data-resourceType=\"UWTranslationWords\">pão sem fermento</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Exod12:8\">Êxodo 12.8</a></p></li><li><p><a href=\"https://ref.ly/Gal5:9-Gal5:10\">Gálatas 5.9–10</a></p></li><li><p><a href=\"https://ref.ly/Luke12:1\">Lucas 12.1</a></p></li><li><p><a href=\"https://ref.ly/Luke13:21\">Lucas 13.21</a></p></li><li><p><a href=\"https://ref.ly/Matt13:33\">Mateus 13.33</a></p></li><li><p><a href=\"https://ref.ly/Matt16:8\">Mateus 16.8</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2556, H2557, H4682, H7603, G01060, G22190, G22200</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02012008",
+          "start_ref_usfm": "EXO 12:8",
+          "end_ref": "02012008",
+          "end_ref_usfm": "EXO 12:8"
+        },
+        {
+          "start_ref": "02012019",
+          "start_ref_usfm": "EXO 12:19",
+          "end_ref": "02012019",
+          "end_ref_usfm": "EXO 12:19"
+        },
+        {
+          "start_ref": "02012020",
+          "start_ref_usfm": "EXO 12:20",
+          "end_ref": "02012020",
+          "end_ref_usfm": "EXO 12:20"
+        },
+        {
+          "start_ref": "02012034",
+          "start_ref_usfm": "EXO 12:34",
+          "end_ref": "02012034",
+          "end_ref_usfm": "EXO 12:34"
+        },
+        {
+          "start_ref": "02012039",
+          "start_ref_usfm": "EXO 12:39",
+          "end_ref": "02012039",
+          "end_ref_usfm": "EXO 12:39"
+        },
+        {
+          "start_ref": "02013003",
+          "start_ref_usfm": "EXO 13:3",
+          "end_ref": "02013003",
+          "end_ref_usfm": "EXO 13:3"
+        },
+        {
+          "start_ref": "02013007",
+          "start_ref_usfm": "EXO 13:7",
+          "end_ref": "02013007",
+          "end_ref_usfm": "EXO 13:7"
+        },
+        {
+          "start_ref": "02034025",
+          "start_ref_usfm": "EXO 34:25",
+          "end_ref": "02034025",
+          "end_ref_usfm": "EXO 34:25"
+        },
+        {
+          "start_ref": "40013033",
+          "start_ref_usfm": "MAT 13:33",
+          "end_ref": "40013033",
+          "end_ref_usfm": "MAT 13:33"
+        },
+        {
+          "start_ref": "40016006",
+          "start_ref_usfm": "MAT 16:6",
+          "end_ref": "40016006",
+          "end_ref_usfm": "MAT 16:6"
+        },
+        {
+          "start_ref": "40016008",
+          "start_ref_usfm": "MAT 16:8",
+          "end_ref": "40016008",
+          "end_ref_usfm": "MAT 16:8"
+        },
+        {
+          "start_ref": "40016011",
+          "start_ref_usfm": "MAT 16:11",
+          "end_ref": "40016011",
+          "end_ref_usfm": "MAT 16:11"
+        },
+        {
+          "start_ref": "40016012",
+          "start_ref_usfm": "MAT 16:12",
+          "end_ref": "40016012",
+          "end_ref_usfm": "MAT 16:12"
+        },
+        {
+          "start_ref": "41008015",
+          "start_ref_usfm": "MRK 8:15",
+          "end_ref": "41008015",
+          "end_ref_usfm": "MRK 8:15"
+        },
+        {
+          "start_ref": "42012001",
+          "start_ref_usfm": "LUK 12:1",
+          "end_ref": "42012001",
+          "end_ref_usfm": "LUK 12:1"
+        },
+        {
+          "start_ref": "42013021",
+          "start_ref_usfm": "LUK 13:21",
+          "end_ref": "42013021",
+          "end_ref_usfm": "LUK 13:21"
+        },
+        {
+          "start_ref": "46005006",
+          "start_ref_usfm": "1CO 5:6",
+          "end_ref": "46005006",
+          "end_ref_usfm": "1CO 5:6"
+        },
+        {
+          "start_ref": "46005007",
+          "start_ref_usfm": "1CO 5:7",
+          "end_ref": "46005007",
+          "end_ref_usfm": "1CO 5:7"
+        },
+        {
+          "start_ref": "46005008",
+          "start_ref_usfm": "1CO 5:8",
+          "end_ref": "46005008",
+          "end_ref_usfm": "1CO 5:8"
+        },
+        {
+          "start_ref": "48005009",
+          "start_ref_usfm": "GAL 5:9",
+          "end_ref": "48005010",
+          "end_ref_usfm": "GAL 5:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25690,
+          "content_id": 237823,
+          "label": "Egito",
+          "language": "por"
+        },
+        {
+          "reference_id": 26076,
+          "content_id": 238206,
+          "label": "Páscoa",
+          "language": "por"
+        },
+        {
+          "reference_id": 26328,
+          "content_id": 238454,
+          "label": "Pão sem fermento",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

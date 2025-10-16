@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 238447,
+    "reference_id": 26319,
+    "title": "Trôade",
+    "media_type": "Text",
+    "index_reference": "trôade",
+    "language": "por",
+    "content": "<h1>Trôade</h1><h2>Fatos:</h2><p>A cidade de Trôade era um porto localizado na costa noroeste da antiga província romana da Ásia.</p><ul><li><p>Paulo visitou Trôade pelo menos três vezes durante suas viagens a diferentes regiões para pregar o evangelho.</p></li><li><p>Em uma ocasião em Trôade, Paulo pregou até tarde da noite e um jovem chamado Êutico adormeceu enquanto ouvia. Como ele estava sentado em uma janela aberta, Êutico caiu de uma grande altura e morreu. Pelo poder de Deus, Paulo ressuscitou esse jovem.</p></li><li><p>Quando Paulo estava em Roma, ele pediu a Timóteo que trouxesse seus pergaminhos e seu manto, que ele havia deixado em Trôade.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25485\" data-resourceType=\"UWTranslationWords\">Ásia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26118\" data-resourceType=\"UWTranslationWords\">pregar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26137\" data-resourceType=\"UWTranslationWords\">província</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_raise\" data-resourceType=\"UWTranslationWords\">ressuscitar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Roma</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26205\" data-resourceType=\"UWTranslationWords\">pergaminho</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26304\" data-resourceType=\"UWTranslationWords\">Timóteo</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Cor2:13\">2 Coríntios 2.13</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:11-2Tim4:13\">2 Timóteo 4.11–13</a></p></li><li><p><a href=\"https://ref.ly/Acts16:8\">Atos 16.8</a></p></li><li><p><a href=\"https://ref.ly/Acts20:5\">Atos 20.5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G51740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44016008",
+          "start_ref_usfm": "ACT 16:8",
+          "end_ref": "44016008",
+          "end_ref_usfm": "ACT 16:8"
+        },
+        {
+          "start_ref": "44016011",
+          "start_ref_usfm": "ACT 16:11",
+          "end_ref": "44016011",
+          "end_ref_usfm": "ACT 16:11"
+        },
+        {
+          "start_ref": "44020005",
+          "start_ref_usfm": "ACT 20:5",
+          "end_ref": "44020005",
+          "end_ref_usfm": "ACT 20:5"
+        },
+        {
+          "start_ref": "44020006",
+          "start_ref_usfm": "ACT 20:6",
+          "end_ref": "44020006",
+          "end_ref_usfm": "ACT 20:6"
+        },
+        {
+          "start_ref": "47002012",
+          "start_ref_usfm": "2CO 2:12",
+          "end_ref": "47002012",
+          "end_ref_usfm": "2CO 2:12"
+        },
+        {
+          "start_ref": "47002013",
+          "start_ref_usfm": "2CO 2:13",
+          "end_ref": "47002013",
+          "end_ref_usfm": "2CO 2:13"
+        },
+        {
+          "start_ref": "55004013",
+          "start_ref_usfm": "2TI 4:13",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        },
+        {
+          "start_ref": "55004011",
+          "start_ref_usfm": "2TI 4:11",
+          "end_ref": "55004013",
+          "end_ref_usfm": "2TI 4:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25485,
+          "content_id": 237622,
+          "label": "Ásia",
+          "language": "por"
+        },
+        {
+          "reference_id": 26118,
+          "content_id": 238248,
+          "label": "Pregar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26137,
+          "content_id": 238267,
+          "label": "Província",
+          "language": "por"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 238311,
+          "label": "Roma",
+          "language": "por"
+        },
+        {
+          "reference_id": 26205,
+          "content_id": 238334,
+          "label": "Rolo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26304,
+          "content_id": 238433,
+          "label": "Timóteo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

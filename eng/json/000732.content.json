@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 27006,
+    "reference_id": 26148,
+    "title": "Rabbi",
+    "media_type": "Text",
+    "index_reference": "rabbi",
+    "language": "eng",
+    "content": "<h1>Rabbi</h1><h2>Definition:</h2><p>The term “Rabbi” literally means “my master” or “my teacher.”</p><ul><li><p>It was a title of respect that was used to address a man who was a Jewish religious teacher, especially a teacher of God’s laws.</p></li><li><p>Both John the Baptist and Jesus were sometimes called “Rabbi” by their disciples.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Ways to translate this term could include “My Master” or “My Teacher” or “Honorable Teacher” or “Religious Teacher.” Some languages may capitalize a greeting like this, while others may not.</p></li><li><p>The project language may also have a special way that teachers are normally addressed.</p></li><li><p>Make sure the translation of this term does not indicate that Jesus was a schoolteacher.</p></li><li><p>Also consider how “Rabbi” is translated in a Bible translation in a related language or a national language.</p></li></ul><p>(See: How to Translate Unknowns)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26283\" data-resourceType=\"UWTranslationWords\">teacher</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/John1:49-John1:51\">John 1:49–51</a></p></li><li><p><a href=\"https://ref.ly/John6:24-John6:25\">John 6:24–25</a></p></li><li><p><a href=\"https://ref.ly/Mark14:43-Mark14:46\">Mark 14:43–46</a></p></li><li><p><a href=\"https://ref.ly/Matt23:8-Matt23:10\">Matthew 23:8–10</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G44610</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40023007",
+          "start_ref_usfm": "MAT 23:7",
+          "end_ref": "40023007",
+          "end_ref_usfm": "MAT 23:7"
+        },
+        {
+          "start_ref": "40023008",
+          "start_ref_usfm": "MAT 23:8",
+          "end_ref": "40023008",
+          "end_ref_usfm": "MAT 23:8"
+        },
+        {
+          "start_ref": "40026025",
+          "start_ref_usfm": "MAT 26:25",
+          "end_ref": "40026025",
+          "end_ref_usfm": "MAT 26:25"
+        },
+        {
+          "start_ref": "40026049",
+          "start_ref_usfm": "MAT 26:49",
+          "end_ref": "40026049",
+          "end_ref_usfm": "MAT 26:49"
+        },
+        {
+          "start_ref": "41009005",
+          "start_ref_usfm": "MRK 9:5",
+          "end_ref": "41009005",
+          "end_ref_usfm": "MRK 9:5"
+        },
+        {
+          "start_ref": "41011021",
+          "start_ref_usfm": "MRK 11:21",
+          "end_ref": "41011021",
+          "end_ref_usfm": "MRK 11:21"
+        },
+        {
+          "start_ref": "41014045",
+          "start_ref_usfm": "MRK 14:45",
+          "end_ref": "41014045",
+          "end_ref_usfm": "MRK 14:45"
+        },
+        {
+          "start_ref": "43001038",
+          "start_ref_usfm": "JHN 1:38",
+          "end_ref": "43001038",
+          "end_ref_usfm": "JHN 1:38"
+        },
+        {
+          "start_ref": "43001049",
+          "start_ref_usfm": "JHN 1:49",
+          "end_ref": "43001049",
+          "end_ref_usfm": "JHN 1:49"
+        },
+        {
+          "start_ref": "43003002",
+          "start_ref_usfm": "JHN 3:2",
+          "end_ref": "43003002",
+          "end_ref_usfm": "JHN 3:2"
+        },
+        {
+          "start_ref": "43003026",
+          "start_ref_usfm": "JHN 3:26",
+          "end_ref": "43003026",
+          "end_ref_usfm": "JHN 3:26"
+        },
+        {
+          "start_ref": "43004031",
+          "start_ref_usfm": "JHN 4:31",
+          "end_ref": "43004031",
+          "end_ref_usfm": "JHN 4:31"
+        },
+        {
+          "start_ref": "43006025",
+          "start_ref_usfm": "JHN 6:25",
+          "end_ref": "43006025",
+          "end_ref_usfm": "JHN 6:25"
+        },
+        {
+          "start_ref": "43009002",
+          "start_ref_usfm": "JHN 9:2",
+          "end_ref": "43009002",
+          "end_ref_usfm": "JHN 9:2"
+        },
+        {
+          "start_ref": "43011008",
+          "start_ref_usfm": "JHN 11:8",
+          "end_ref": "43011008",
+          "end_ref_usfm": "JHN 11:8"
+        },
+        {
+          "start_ref": "43020016",
+          "start_ref_usfm": "JHN 20:16",
+          "end_ref": "43020016",
+          "end_ref_usfm": "JHN 20:16"
+        },
+        {
+          "start_ref": "40023008",
+          "start_ref_usfm": "MAT 23:8",
+          "end_ref": "40023010",
+          "end_ref_usfm": "MAT 23:10"
+        },
+        {
+          "start_ref": "43001049",
+          "start_ref_usfm": "JHN 1:49",
+          "end_ref": "43001051",
+          "end_ref_usfm": "JHN 1:51"
+        },
+        {
+          "start_ref": "43006024",
+          "start_ref_usfm": "JHN 6:24",
+          "end_ref": "43006025",
+          "end_ref_usfm": "JHN 6:25"
+        },
+        {
+          "start_ref": "41014043",
+          "start_ref_usfm": "MRK 14:43",
+          "end_ref": "41014046",
+          "end_ref_usfm": "MRK 14:46"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26283,
+          "content_id": 27141,
+          "label": "Teacher",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

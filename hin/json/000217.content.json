@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180326,
+    "reference_id": 26273,
+    "title": "गन्धक",
+    "media_type": "Text",
+    "index_reference": "गन्धक",
+    "language": "hin",
+    "content": "<h1>गन्धक, गन्धकपूर्ण</h1><h2>परिभाषा:</h2><p>“गन्धक” एक पीले रंग का पदार्थ होता है जो आग में डालने के बाद जलने वाला तरल पदार्थ हो जाता है।</p><ul><li><p>गन्धक की गंध तीव्र होती है जो सड़े हुए अंडे की गंध की तरह है।</p></li><li><p>बाइबल में जलता हुआ गंधक अभक्त एवं विद्रोही मनुष्यों के लिए दण्ड का प्रतीक है।</p></li><li><p>लूत के समय मैं परमेश्वर ने सदोम और अमोरा के दुष्ट नगरों पर आग और गन्धक बरसाया था।</p></li><li><p>कुछ अंग्रेजी बाइबल अनुवादों में गन्धक को “ज्वलनशील पत्थर” कहा गया है जिसका शाब्दिक अर्थ है &quot;जलता हुआ पत्थर।&quot;</p></li></ul><h2>अनुवाद के सुझाव:</h2><ul><li><p>इस शब्द का संभावित अनुवाद हो सकता है, “पीला पत्थर जो आग पकड़ता है” या “जलनेवाला पीला पत्थर”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25794\" data-resourceType=\"UWTranslationWords\">आमोरा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25929\" data-resourceType=\"UWTranslationWords\">न्याय करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25976\" data-resourceType=\"UWTranslationWords\">लूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26157\" data-resourceType=\"UWTranslationWords\">बलवा करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26248\" data-resourceType=\"UWTranslationWords\">सदोम</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_ungodly\" data-resourceType=\"UWTranslationWords\">अभक्त</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gen19:24\">उत्पत्ति 19:24</a></p></li><li><p><a href=\"https://ref.ly/Isa34:9\">यशायाह 34:9</a></p></li><li><p><a href=\"https://ref.ly/Luke17:29\">लूका 17:29</a></p></li><li><p><a href=\"https://ref.ly/Rev20:10\">प्रकाशितवाक्य 20:10</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: H1614, G23030</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01019024",
+          "start_ref_usfm": "GEN 19:24",
+          "end_ref": "01019024",
+          "end_ref_usfm": "GEN 19:24"
+        },
+        {
+          "start_ref": "23034009",
+          "start_ref_usfm": "ISA 34:9",
+          "end_ref": "23034009",
+          "end_ref_usfm": "ISA 34:9"
+        },
+        {
+          "start_ref": "42017029",
+          "start_ref_usfm": "LUK 17:29",
+          "end_ref": "42017029",
+          "end_ref_usfm": "LUK 17:29"
+        },
+        {
+          "start_ref": "66009017",
+          "start_ref_usfm": "REV 9:17",
+          "end_ref": "66009017",
+          "end_ref_usfm": "REV 9:17"
+        },
+        {
+          "start_ref": "66009018",
+          "start_ref_usfm": "REV 9:18",
+          "end_ref": "66009018",
+          "end_ref_usfm": "REV 9:18"
+        },
+        {
+          "start_ref": "66014010",
+          "start_ref_usfm": "REV 14:10",
+          "end_ref": "66014010",
+          "end_ref_usfm": "REV 14:10"
+        },
+        {
+          "start_ref": "66019020",
+          "start_ref_usfm": "REV 19:20",
+          "end_ref": "66019020",
+          "end_ref_usfm": "REV 19:20"
+        },
+        {
+          "start_ref": "66020010",
+          "start_ref_usfm": "REV 20:10",
+          "end_ref": "66020010",
+          "end_ref_usfm": "REV 20:10"
+        },
+        {
+          "start_ref": "66021008",
+          "start_ref_usfm": "REV 21:8",
+          "end_ref": "66021008",
+          "end_ref_usfm": "REV 21:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25789,
+          "content_id": 179860,
+          "label": "धर्मी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25794,
+          "content_id": 179865,
+          "label": "अमोरा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 179996,
+          "label": "न्यायी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25976,
+          "content_id": 180041,
+          "label": "लूत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26157,
+          "content_id": 180215,
+          "label": "बलवा ",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26248,
+          "content_id": 180302,
+          "label": "सदोम",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

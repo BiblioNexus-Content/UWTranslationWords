@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 27105,
+    "reference_id": 26247,
+    "title": "Snow",
+    "media_type": "Text",
+    "index_reference": "snow",
+    "language": "eng",
+    "content": "<h1>snow</h1><h2>Facts:</h2><p>The term “snow” refers to white flakes of frozen water that can fall from clouds in places where the air temperature is cold.</p><ul><li><p>Snow falls in places of higher elevation in Israel, but does not always stay on the ground very long before melting. The peaks of mountains tend to have snow that lasts longer. One example of a place mentioned in the Bible as having snow is Mount Lebanon.</p></li><li><p>Something that is very white often has its color compared to the color of snow. For example, in the book of Revelation Jesus’ clothing and hair were described as being “white as snow.”</p></li><li><p>The whiteness of snow also symbolizes purity and cleanliness. For example, the statement that our “sins will be as white as snow” means that God will completely cleanse his people from their sins.</p></li><li><p>Some languages might refer to snow as “frozen rain” or “flakes of ice” or “frozen flakes.”</p></li><li><p>“Snow water” refers to the water that comes from melted snow.</p></li></ul><p>(See also: How to Translate Unknowns)</p><p>(Translation suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25963\" data-resourceType=\"UWTranslationWords\">Lebanon</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_pure\" data-resourceType=\"UWTranslationWords\">pure</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Exod4:6\">Exodus 4:6</a></p></li><li><p><a href=\"https://ref.ly/Job37:4-Job37:6\">Job 37:4–6</a></p></li><li><p><a href=\"https://ref.ly/Matt28:3\">Matthew 28:3</a></p></li><li><p><a href=\"https://ref.ly/Ps147:16\">Psalms 147:16</a></p></li><li><p><a href=\"https://ref.ly/Rev1:14\">Revelation 1:14</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H7949, H7950, H8517, G55100</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02004006",
+          "start_ref_usfm": "EXO 4:6",
+          "end_ref": "02004006",
+          "end_ref_usfm": "EXO 4:6"
+        },
+        {
+          "start_ref": "19147016",
+          "start_ref_usfm": "PSA 147:16",
+          "end_ref": "19147016",
+          "end_ref_usfm": "PSA 147:16"
+        },
+        {
+          "start_ref": "20025013",
+          "start_ref_usfm": "PRO 25:13",
+          "end_ref": "20025013",
+          "end_ref_usfm": "PRO 25:13"
+        },
+        {
+          "start_ref": "20026001",
+          "start_ref_usfm": "PRO 26:1",
+          "end_ref": "20026001",
+          "end_ref_usfm": "PRO 26:1"
+        },
+        {
+          "start_ref": "20031021",
+          "start_ref_usfm": "PRO 31:21",
+          "end_ref": "20031021",
+          "end_ref_usfm": "PRO 31:21"
+        },
+        {
+          "start_ref": "40028003",
+          "start_ref_usfm": "MAT 28:3",
+          "end_ref": "40028003",
+          "end_ref_usfm": "MAT 28:3"
+        },
+        {
+          "start_ref": "66001014",
+          "start_ref_usfm": "REV 1:14",
+          "end_ref": "66001014",
+          "end_ref_usfm": "REV 1:14"
+        },
+        {
+          "start_ref": "18037004",
+          "start_ref_usfm": "JOB 37:4",
+          "end_ref": "18037006",
+          "end_ref_usfm": "JOB 37:6"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25963,
+          "content_id": 26821,
+          "label": "Lebanon",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

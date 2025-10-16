@@ -1,0 +1,143 @@
+[
+  {
+    "content_id": 26388,
+    "reference_id": 25530,
+    "title": "Bethlehem",
+    "media_type": "Text",
+    "index_reference": "bethlehem",
+    "language": "eng",
+    "content": "<h1>Bethlehem, Ephrathah</h1><h2>Facts:</h2><p>Bethlehem was a small city in the land of Israel, near the city of Jerusalem. It was also known as “Ephrathah,” which was probably its original name.</p><ul><li><p>Bethlehem has been called the “city of David,” since King David was born there.</p></li><li><p>The prophet Micah said that the Messiah would come from “Bethlehem Ephrathah.”</p></li><li><p>Fulfilling that prophecy, Jesus was born in Bethlehem, many years later.</p></li><li><p>The name “Bethlehem” means “house of bread” or “house of food.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25566\" data-resourceType=\"UWTranslationWords\">Caleb</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">David</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26016\" data-resourceType=\"UWTranslationWords\">Micah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen35:16\">Genesis 35:16</a></p></li><li><p><a href=\"https://ref.ly/John7:42\">John 7:42</a></p></li><li><p><a href=\"https://ref.ly/Matt2:6\">Matthew 2:6</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Matthew 2:16</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:2\">Ruth 1:2</a></p></li><li><p><a href=\"https://ref.ly/Ruth1:21\">Ruth 1:21</a></p></li></ul><h2>Examples from the Bible stories:</h2><ul><li><p><strong>17:2</strong> David was a shepherd from the town of <strong>Bethlehem</strong>.</p></li><li><p><strong>21:9</strong> The prophet Isaiah prophesied that the Messiah would be born from a virgin. The prophet Micah said that he would be born in the town of <strong>Bethlehem</strong>.</p></li><li><p><strong>23:4</strong> Joseph and Mary had to make a long journey from where they lived in Nazareth to <strong>Bethlehem</strong> because their ancestor was David whose hometown was <strong>Bethlehem</strong>.</p></li><li><p><strong>23:6</strong> “The Messiah, the Master, has been born in <strong>Bethlehem</strong>!”</p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0376, H0672, H1035, G09650</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035016",
+          "start_ref_usfm": "GEN 35:16",
+          "end_ref": "01035016",
+          "end_ref_usfm": "GEN 35:16"
+        },
+        {
+          "start_ref": "01035019",
+          "start_ref_usfm": "GEN 35:19",
+          "end_ref": "01035019",
+          "end_ref_usfm": "GEN 35:19"
+        },
+        {
+          "start_ref": "08001001",
+          "start_ref_usfm": "RUT 1:1",
+          "end_ref": "08001001",
+          "end_ref_usfm": "RUT 1:1"
+        },
+        {
+          "start_ref": "08001002",
+          "start_ref_usfm": "RUT 1:2",
+          "end_ref": "08001002",
+          "end_ref_usfm": "RUT 1:2"
+        },
+        {
+          "start_ref": "08001019",
+          "start_ref_usfm": "RUT 1:19",
+          "end_ref": "08001019",
+          "end_ref_usfm": "RUT 1:19"
+        },
+        {
+          "start_ref": "08001021",
+          "start_ref_usfm": "RUT 1:21",
+          "end_ref": "08001021",
+          "end_ref_usfm": "RUT 1:21"
+        },
+        {
+          "start_ref": "08001022",
+          "start_ref_usfm": "RUT 1:22",
+          "end_ref": "08001022",
+          "end_ref_usfm": "RUT 1:22"
+        },
+        {
+          "start_ref": "08002004",
+          "start_ref_usfm": "RUT 2:4",
+          "end_ref": "08002004",
+          "end_ref_usfm": "RUT 2:4"
+        },
+        {
+          "start_ref": "08004011",
+          "start_ref_usfm": "RUT 4:11",
+          "end_ref": "08004011",
+          "end_ref_usfm": "RUT 4:11"
+        },
+        {
+          "start_ref": "16007026",
+          "start_ref_usfm": "NEH 7:26",
+          "end_ref": "16007026",
+          "end_ref_usfm": "NEH 7:26"
+        },
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002005",
+          "start_ref_usfm": "MAT 2:5",
+          "end_ref": "40002005",
+          "end_ref_usfm": "MAT 2:5"
+        },
+        {
+          "start_ref": "40002006",
+          "start_ref_usfm": "MAT 2:6",
+          "end_ref": "40002006",
+          "end_ref_usfm": "MAT 2:6"
+        },
+        {
+          "start_ref": "40002008",
+          "start_ref_usfm": "MAT 2:8",
+          "end_ref": "40002008",
+          "end_ref_usfm": "MAT 2:8"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        },
+        {
+          "start_ref": "42002004",
+          "start_ref_usfm": "LUK 2:4",
+          "end_ref": "42002004",
+          "end_ref_usfm": "LUK 2:4"
+        },
+        {
+          "start_ref": "42002015",
+          "start_ref_usfm": "LUK 2:15",
+          "end_ref": "42002015",
+          "end_ref_usfm": "LUK 2:15"
+        },
+        {
+          "start_ref": "43007042",
+          "start_ref_usfm": "JHN 7:42",
+          "end_ref": "43007042",
+          "end_ref_usfm": "JHN 7:42"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25566,
+          "content_id": 26424,
+          "label": "Caleb",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 26503,
+          "label": "David",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26016,
+          "content_id": 26874,
+          "label": "Micah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

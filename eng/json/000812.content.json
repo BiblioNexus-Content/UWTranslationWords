@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 27085,
+    "reference_id": 26227,
+    "title": "Shield",
+    "media_type": "Text",
+    "index_reference": "shield",
+    "language": "eng",
+    "content": "<h1>shield</h1><h2>Definition:</h2><p>A shield was an object held by a soldier in battle to protect himself from being injured by the enemy’s weapons. To “shield” someone means to protect that person from harm.</p><ul><li><p>Shields were often circular or oval, were made of materials such as leather, wood, or metal, andt were sturdy and thick enough to keep a sword or arrow from piercing them.</p></li><li><p>Using this term as a metaphor, the Bible refers to God as a protective shield for his people. (See: Metaphor)</p></li><li><p>Paul talked about the “shield of faith,” which is a figurative way of saying that having faith in Jesus and living out that faith in obedience to God will protect believers from the spiritual attacks of Satan.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25725\" data-resourceType=\"UWTranslationWords\">faith</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_obey\" data-resourceType=\"UWTranslationWords\">obey</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26199\" data-resourceType=\"UWTranslationWords\">Satan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26257\" data-resourceType=\"UWTranslationWords\">spirit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs14:26\">1 Kings 14:26</a></p></li><li><p><a href=\"https://ref.ly/2Chr23:8-2Chr23:9\">2 Chronicles 23:8–9</a></p></li><li><p><a href=\"https://ref.ly/2Sam22:36\">2 Samuel 22:36</a></p></li><li><p><a href=\"https://ref.ly/Deut33:29\">Deuteronomy 33:29</a></p></li><li><p><a href=\"https://ref.ly/Ps18:35\">Psalms 18:35</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2653, H3591, H4043, H5437, H5526, H6793, H7982, G23750</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01015001",
+          "start_ref_usfm": "GEN 15:1",
+          "end_ref": "01015001",
+          "end_ref_usfm": "GEN 15:1"
+        },
+        {
+          "start_ref": "05033029",
+          "start_ref_usfm": "DEU 33:29",
+          "end_ref": "05033029",
+          "end_ref_usfm": "DEU 33:29"
+        },
+        {
+          "start_ref": "10022036",
+          "start_ref_usfm": "2SA 22:36",
+          "end_ref": "10022036",
+          "end_ref_usfm": "2SA 22:36"
+        },
+        {
+          "start_ref": "11014026",
+          "start_ref_usfm": "1KI 14:26",
+          "end_ref": "11014026",
+          "end_ref_usfm": "1KI 14:26"
+        },
+        {
+          "start_ref": "16004016",
+          "start_ref_usfm": "NEH 4:16",
+          "end_ref": "16004016",
+          "end_ref_usfm": "NEH 4:16"
+        },
+        {
+          "start_ref": "19018035",
+          "start_ref_usfm": "PSA 18:35",
+          "end_ref": "19018035",
+          "end_ref_usfm": "PSA 18:35"
+        },
+        {
+          "start_ref": "20002007",
+          "start_ref_usfm": "PRO 2:7",
+          "end_ref": "20002007",
+          "end_ref_usfm": "PRO 2:7"
+        },
+        {
+          "start_ref": "20006011",
+          "start_ref_usfm": "PRO 6:11",
+          "end_ref": "20006011",
+          "end_ref_usfm": "PRO 6:11"
+        },
+        {
+          "start_ref": "20024034",
+          "start_ref_usfm": "PRO 24:34",
+          "end_ref": "20024034",
+          "end_ref_usfm": "PRO 24:34"
+        },
+        {
+          "start_ref": "20030005",
+          "start_ref_usfm": "PRO 30:5",
+          "end_ref": "20030005",
+          "end_ref_usfm": "PRO 30:5"
+        },
+        {
+          "start_ref": "22004004",
+          "start_ref_usfm": "SNG 4:4",
+          "end_ref": "22004004",
+          "end_ref_usfm": "SNG 4:4"
+        },
+        {
+          "start_ref": "49006016",
+          "start_ref_usfm": "EPH 6:16",
+          "end_ref": "49006016",
+          "end_ref_usfm": "EPH 6:16"
+        },
+        {
+          "start_ref": "14023008",
+          "start_ref_usfm": "2CH 23:8",
+          "end_ref": "14023009",
+          "end_ref_usfm": "2CH 23:9"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25725,
+          "content_id": 26583,
+          "label": "Faith",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26199,
+          "content_id": 27057,
+          "label": "Satan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26257,
+          "content_id": 27115,
+          "label": "Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

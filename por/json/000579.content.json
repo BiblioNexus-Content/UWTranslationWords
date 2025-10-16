@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237680,
+    "reference_id": 25544,
+    "title": "Mancha",
+    "media_type": "Text",
+    "index_reference": "mancha",
+    "language": "por",
+    "content": "<h1>mancha, imaculado, defeito</h1><h2>Fatos:</h2><p>O termo “mancha” refere-se a um defeito físico ou imperfeição em um animal ou pessoa. Também pode se referir a imperfeições espirituais e falhas nas pessoas.</p><ul><li><p>Para certos sacrifícios, Deus instruiu os israelitas a oferecerem um animal sem manchas ou defeitos.</p></li><li><p>Isso é uma imagem de como Jesus Cristo foi o sacrifício perfeito, sem nenhum pecado.</p></li><li><p>Os crentes em Cristo foram purificados de seus pecados pelo seu sangue e são considerados sem mancha.</p></li><li><p>Maneiras de traduzir este termo poderiam incluir “defeito” ou “imperfeição” ou “pecado”, dependendo do contexto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">acreditar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25596\" data-resourceType=\"UWTranslationWords\">limpar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26188\" data-resourceType=\"UWTranslationWords\">sacrifício</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26240\" data-resourceType=\"UWTranslationWords\">pecado</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Pet1:19\">1 Pedro 1.19</a></p></li><li><p><a href=\"https://ref.ly/2Pet2:13\">2 Pedro 2.13</a></p></li><li><p><a href=\"https://ref.ly/Deut15:19-Deut15:21\">Deuteronômio 15.19–21</a></p></li><li><p><a href=\"https://ref.ly/Num6:13-Num6:15\">Números 6.13–15</a></p></li><li><p><a href=\"https://ref.ly/Song4:7\">Cânticos 4.7</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3971, H8400, H8549, G34700</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02029001",
+          "start_ref_usfm": "EXO 29:1",
+          "end_ref": "02029001",
+          "end_ref_usfm": "EXO 29:1"
+        },
+        {
+          "start_ref": "22004007",
+          "start_ref_usfm": "SNG 4:7",
+          "end_ref": "22004007",
+          "end_ref_usfm": "SNG 4:7"
+        },
+        {
+          "start_ref": "60001019",
+          "start_ref_usfm": "1PE 1:19",
+          "end_ref": "60001019",
+          "end_ref_usfm": "1PE 1:19"
+        },
+        {
+          "start_ref": "61002013",
+          "start_ref_usfm": "2PE 2:13",
+          "end_ref": "61002013",
+          "end_ref_usfm": "2PE 2:13"
+        },
+        {
+          "start_ref": "04006013",
+          "start_ref_usfm": "NUM 6:13",
+          "end_ref": "04006015",
+          "end_ref_usfm": "NUM 6:15"
+        },
+        {
+          "start_ref": "05015019",
+          "start_ref_usfm": "DEU 15:19",
+          "end_ref": "05015021",
+          "end_ref_usfm": "DEU 15:21"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25523,
+          "content_id": 237659,
+          "label": "Acreditar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25596,
+          "content_id": 237731,
+          "label": "Limpar",
+          "language": "por"
+        },
+        {
+          "reference_id": 26188,
+          "content_id": 238317,
+          "label": "Sacrifício",
+          "language": "por"
+        },
+        {
+          "reference_id": 26240,
+          "content_id": 238369,
+          "label": "Pecado",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

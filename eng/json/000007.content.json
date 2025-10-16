@@ -1,0 +1,46 @@
+[
+  {
+    "content_id": 26280,
+    "reference_id": 25422,
+    "title": "Abner",
+    "media_type": "Text",
+    "index_reference": "abner",
+    "language": "eng",
+    "content": "<h1>Abner</h1><h2>Definition:</h2><p>Abner was a cousin of King Saul in the Old Testament.</p><ul><li><p>Abner was the chief commander of Saul’s army, and introduced young David to Saul after David killed Goliath the giant.</p></li><li><p>After King Saul’s death, Abner appointed Saul’s son Ishbosheth as king in Israel, while David was appointed king in Judah.</p></li><li><p>Later, Abner was treacherously killed by David’s chief commander, Joab.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Chr26:26-1Chr26:28\">1 Chronicles 26:26–28</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:5-1Kgs2:6\">1 Kings 2:5–6</a></p></li><li><p><a href=\"https://ref.ly/1Kgs2:32\">1 Kings 2:32</a></p></li><li><p><a href=\"https://ref.ly/1Sam17:55-1Sam17:56\">1 Samuel 17:55–56</a></p></li><li><p><a href=\"https://ref.ly/2Sam3:22\">2 Samuel 3:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0074</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "10003022",
+          "start_ref_usfm": "2SA 3:22",
+          "end_ref": "10003022",
+          "end_ref_usfm": "2SA 3:22"
+        },
+        {
+          "start_ref": "11002032",
+          "start_ref_usfm": "1KI 2:32",
+          "end_ref": "11002032",
+          "end_ref_usfm": "1KI 2:32"
+        },
+        {
+          "start_ref": "11002005",
+          "start_ref_usfm": "1KI 2:5",
+          "end_ref": "11002006",
+          "end_ref_usfm": "1KI 2:6"
+        },
+        {
+          "start_ref": "13026026",
+          "start_ref_usfm": "1CH 26:26",
+          "end_ref": "13026028",
+          "end_ref_usfm": "1CH 26:28"
+        },
+        {
+          "start_ref": "09017055",
+          "start_ref_usfm": "1SA 17:55",
+          "end_ref": "09017056",
+          "end_ref_usfm": "1SA 17:56"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

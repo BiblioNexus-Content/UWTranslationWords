@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 27096,
+    "reference_id": 26238,
+    "title": "Simeon",
+    "media_type": "Text",
+    "index_reference": "simeon",
+    "language": "eng",
+    "content": "<h1>Simeon</h1><h2>Facts:</h2><p>Simeon was Jacob’s second son. He was Leah’s second son. His descendants became one of the tribes of Israel.</p><ul><li><p>The tribe descended from him was known as the “tribe of Simeon.”</p></li><li><p>The name Simeon is similar to the Hebrew word meaning “to hear.”</p></li><li><p>The tribe of Simeon occupied part of the southernmost territory in the promised land of Canaan. Its land was entirely surrounded by the land that belonged to Judah. When used as the name of a region of land, the term “Simeon” refers to the land given to the tribe of Simeon.</p></li><li><p>When Joseph and Mary brought the baby Jesus to the temple in Jerusalem to dedicate him to God, an elderly man named Simeon praised God for allowing him to see the Messiah.</p></li><li><p>Another man named Simeon is mentioned in Luke’s geneology of Jesus.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25416\" data-resourceType=\"UWTranslationWords\">twelve tribes of Israel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25961\" data-resourceType=\"UWTranslationWords\">Leah</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:33\">Genesis 29:33</a></p></li><li><p><a href=\"https://ref.ly/Gen34:25\">Genesis 34:25</a></p></li><li><p><a href=\"https://ref.ly/Gen42:35-Gen42:36\">Genesis 42:35–36</a></p></li><li><p><a href=\"https://ref.ly/Gen43:21-Gen43:23\">Genesis 43:21–23</a></p></li><li><p><a href=\"https://ref.ly/Luke2:25\">Luke 2:25</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H8095, H8099, G48260</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029033",
+          "start_ref_usfm": "GEN 29:33",
+          "end_ref": "01029033",
+          "end_ref_usfm": "GEN 29:33"
+        },
+        {
+          "start_ref": "01034025",
+          "start_ref_usfm": "GEN 34:25",
+          "end_ref": "01034025",
+          "end_ref_usfm": "GEN 34:25"
+        },
+        {
+          "start_ref": "01034030",
+          "start_ref_usfm": "GEN 34:30",
+          "end_ref": "01034030",
+          "end_ref_usfm": "GEN 34:30"
+        },
+        {
+          "start_ref": "01035023",
+          "start_ref_usfm": "GEN 35:23",
+          "end_ref": "01035023",
+          "end_ref_usfm": "GEN 35:23"
+        },
+        {
+          "start_ref": "01042024",
+          "start_ref_usfm": "GEN 42:24",
+          "end_ref": "01042024",
+          "end_ref_usfm": "GEN 42:24"
+        },
+        {
+          "start_ref": "01042036",
+          "start_ref_usfm": "GEN 42:36",
+          "end_ref": "01042036",
+          "end_ref_usfm": "GEN 42:36"
+        },
+        {
+          "start_ref": "01043023",
+          "start_ref_usfm": "GEN 43:23",
+          "end_ref": "01043023",
+          "end_ref_usfm": "GEN 43:23"
+        },
+        {
+          "start_ref": "01046010",
+          "start_ref_usfm": "GEN 46:10",
+          "end_ref": "01046010",
+          "end_ref_usfm": "GEN 46:10"
+        },
+        {
+          "start_ref": "01048005",
+          "start_ref_usfm": "GEN 48:5",
+          "end_ref": "01048005",
+          "end_ref_usfm": "GEN 48:5"
+        },
+        {
+          "start_ref": "01049005",
+          "start_ref_usfm": "GEN 49:5",
+          "end_ref": "01049005",
+          "end_ref_usfm": "GEN 49:5"
+        },
+        {
+          "start_ref": "02001002",
+          "start_ref_usfm": "EXO 1:2",
+          "end_ref": "02001002",
+          "end_ref_usfm": "EXO 1:2"
+        },
+        {
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
+        },
+        {
+          "start_ref": "42002025",
+          "start_ref_usfm": "LUK 2:25",
+          "end_ref": "42002025",
+          "end_ref_usfm": "LUK 2:25"
+        },
+        {
+          "start_ref": "42002034",
+          "start_ref_usfm": "LUK 2:34",
+          "end_ref": "42002034",
+          "end_ref_usfm": "LUK 2:34"
+        },
+        {
+          "start_ref": "66007007",
+          "start_ref_usfm": "REV 7:7",
+          "end_ref": "66007007",
+          "end_ref_usfm": "REV 7:7"
+        },
+        {
+          "start_ref": "01042035",
+          "start_ref_usfm": "GEN 42:35",
+          "end_ref": "01042036",
+          "end_ref_usfm": "GEN 42:36"
+        },
+        {
+          "start_ref": "01043021",
+          "start_ref_usfm": "GEN 43:21",
+          "end_ref": "01043023",
+          "end_ref_usfm": "GEN 43:23"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25416,
+          "content_id": 26274,
+          "label": "12 Tribes of Israel",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25961,
+          "content_id": 26819,
+          "label": "Leah",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

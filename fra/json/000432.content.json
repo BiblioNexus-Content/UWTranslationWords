@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 467039,
+    "reference_id": 25894,
+    "title": "Jephté",
+    "media_type": "Text",
+    "index_reference": "jephté",
+    "language": "fra",
+    "content": "<h1>Jephté</h1><h2>Définition :</h2><p>&quot;Jephté était un guerrier de Galaad qui a servi en tant que juge sur Israël.</p><ul><li><p>Jephté est célébré dans Hébreux 11:32 comme l&apos;un des principaux libérateurs de son peuple.</p></li><li><p>Il sauva les Israélites des Ammonites et conduisit son peuple à vaincre les Éphraïm.</p></li><li><p>Cependant, Jephté fit un vœu insensé à Dieu qui le conduisit à lui sacrifier sa fille.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ammon.md), (../other/deliverer.md), (../names/ephraim.md), (../other/judgeposition.md), (../kt/vow.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07011035",
+          "start_ref_usfm": "JDG 11:35",
+          "end_ref": "07011035",
+          "end_ref_usfm": "JDG 11:35"
+        },
+        {
+          "start_ref": "07012002",
+          "start_ref_usfm": "JDG 12:2",
+          "end_ref": "07012002",
+          "end_ref_usfm": "JDG 12:2"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011032",
+          "end_ref_usfm": "HEB 11:32"
+        },
+        {
+          "start_ref": "07011001",
+          "start_ref_usfm": "JDG 11:1",
+          "end_ref": "07011003",
+          "end_ref_usfm": "JDG 11:3"
+        },
+        {
+          "start_ref": "58011032",
+          "start_ref_usfm": "HEB 11:32",
+          "end_ref": "58011034",
+          "end_ref_usfm": "HEB 11:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 466633,
+          "label": "Ammon ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25657,
+          "content_id": 466819,
+          "label": "Livrer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25708,
+          "content_id": 466868,
+          "label": "Ephraim",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25929,
+          "content_id": 467074,
+          "label": "Juger",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25930,
+          "content_id": 467075,
+          "label": "Juge",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

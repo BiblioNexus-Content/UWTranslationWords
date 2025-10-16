@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 180031,
+    "reference_id": 25966,
+    "title": "लिव्यातान",
+    "media_type": "Text",
+    "index_reference": "लिव्यातान",
+    "language": "hin",
+    "content": "<h1>लिव्यातान</h1><h2>तथ्य:</h2><p>लिव्यातान एक विशाल विलुप्त प्राणी जिसकी चर्चा पुराने नियम के अय्यूब की पुस्तक, भजन संहिता और यशायाह में है।</p><ul><li><p>लिव्यातान का वर्णन एक विशाल सर्प जैसे प्राणी के रूप में किया गया है जो अत्यधिक शक्तिशाली एवं भयानक है और अपने चारों ओर के पानी को उबाल देता है। इसका वर्णन डायनेसोर के जैसा है।</p></li><li><p>यशायाह भविष्यद्वक्ता लिव्यातान को “रेंगनेवाला सर्प” कहता है।</p></li><li><p>अय्यूब लिव्यातान की चर्चा देखते हुए करता है जिसका अर्थ है कि यह प्राणी उसके समय में जीवित था।</p></li></ul><p>(अनुवाद के सुझाव नामों का अनुवाद)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25877\" data-resourceType=\"UWTranslationWords\">यशायाह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25908\" data-resourceType=\"UWTranslationWords\">अय्यूब</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26216\" data-resourceType=\"UWTranslationWords\">सर्प</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Job3:8-Job3:10\">अय्यूब 03:8–10</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन संहिता 104:25–26</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H3882</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "18003008",
+          "start_ref_usfm": "JOB 3:8",
+          "end_ref": "18003008",
+          "end_ref_usfm": "JOB 3:8"
+        },
+        {
+          "start_ref": "18041001",
+          "start_ref_usfm": "JOB 41:1",
+          "end_ref": "18041001",
+          "end_ref_usfm": "JOB 41:1"
+        },
+        {
+          "start_ref": "19104025",
+          "start_ref_usfm": "PSA 104:25",
+          "end_ref": "19104026",
+          "end_ref_usfm": "PSA 104:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25877,
+          "content_id": 179944,
+          "label": "यशायाह",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25908,
+          "content_id": 179975,
+          "label": "अय्यूब",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26216,
+          "content_id": 180272,
+          "label": "सर्प",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

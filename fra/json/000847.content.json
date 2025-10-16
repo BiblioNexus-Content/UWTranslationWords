@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 466652,
+    "reference_id": 25473,
+    "title": "Tireur d'arc",
+    "media_type": "Text",
+    "index_reference": "tireur d'arc",
+    "language": "fra",
+    "content": "<h1>tireur d&apos;arc ,archer</h1><h2>Définition :</h2><p>Le terme &quot;tireur d&apos;arc&quot; se réfère à un homme qui est habile à se servir d&apos;un arc et d&apos;une flèche comme arme.</p><ul><li><p>Dans la Bible, un tireur d&apos;arc est souvent un soldat qui se sert d&apos;un arc et d&apos;une flèche pour se battre dans l&apos;armée.</p></li><li><p>Les tireurs d&apos;arc constituaient la plus grande partie de la force militaire des Assyriens.</p></li><li><p>Certaines langues pourraient avoir un terme comme &quot;archer&quot; pour traduire &quot;tireur d&apos;arc&quot;.</p></li></ul><p>(Voir aussi : (../names/assyria.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01021020",
+          "start_ref_usfm": "GEN 21:20",
+          "end_ref": "01021020",
+          "end_ref_usfm": "GEN 21:20"
+        },
+        {
+          "start_ref": "18016013",
+          "start_ref_usfm": "JOB 16:13",
+          "end_ref": "18016013",
+          "end_ref_usfm": "JOB 16:13"
+        },
+        {
+          "start_ref": "20026010",
+          "start_ref_usfm": "PRO 26:10",
+          "end_ref": "20026010",
+          "end_ref_usfm": "PRO 26:10"
+        },
+        {
+          "start_ref": "09031001",
+          "start_ref_usfm": "1SA 31:1",
+          "end_ref": "09031003",
+          "end_ref_usfm": "1SA 31:3"
+        },
+        {
+          "start_ref": "14035023",
+          "start_ref_usfm": "2CH 35:23",
+          "end_ref": "14035024",
+          "end_ref_usfm": "2CH 35:24"
+        },
+        {
+          "start_ref": "23021016",
+          "start_ref_usfm": "ISA 21:16",
+          "end_ref": "23021017",
+          "end_ref_usfm": "ISA 21:17"
+        },
+        {
+          "start_ref": "20026009",
+          "start_ref_usfm": "PRO 26:9",
+          "end_ref": "20026010",
+          "end_ref_usfm": "PRO 26:10"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

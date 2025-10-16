@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 238460,
+    "reference_id": 26334,
+    "title": "Véu",
+    "media_type": "Text",
+    "index_reference": "véu",
+    "language": "por",
+    "content": "<h1>véu, velado, desvelado</h1><h2>Definição:</h2><p>O termo “véu” geralmente se refere a um pedaço fino de tecido que é usado para cobrir total ou parcialmente a cabeça ou o rosto.</p><ul><li><p>Moisés cobriu seu rosto com um véu depois de estar na presença de Javé, para que o brilho de seu rosto ficasse oculto das pessoas.</p></li><li><p>Na Bíblia, as mulheres usavam um véu para cobrir a cabeça, e muitas vezes o rosto também, quando estavam em público ou na presença de homens.</p></li><li><p>Os véus que as mulheres na Bíblia usavam sobre o rosto podem ter sido feitos de material fino e transparente e podem ter coberto apenas parte do rosto para que os olhos das mulheres não ficassem cobertos.</p></li><li><p>O verbo “velar” significa cobrir algo com um véu.</p></li><li><p>Em algumas versões em inglês, a palavra “véu” é usada para se referir à cortina grossa que cobria a entrada do lugar mais sagrado. Mas “cortina” é um termo melhor nesse contexto, pois se refere a um pedaço de tecido pesado e grosso.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>O termo “véu” também poderia ser traduzido como “cobertura fina de tecido”, “cobertura de tecido” ou “cobertura para a cabeça”.</p></li><li><p>Em algumas culturas, pode já haver um termo para um véu para mulheres. Pode ser necessário encontrar uma palavra diferente quando usada para Moisés.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"26031\" data-resourceType=\"UWTranslationWords\">Moisés</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Cor3:12-2Cor3:13\">2 Coríntios 3.12–13</a></p></li><li><p><a href=\"https://ref.ly/2Cor3:16\">2 Coríntios 3.16</a></p></li><li><p><a href=\"https://ref.ly/Ezek13:18\">Ezequiel 13.18</a></p></li><li><p><a href=\"https://ref.ly/Isa47:1-Isa47:2\">Isaías 47.1–2</a></p></li><li><p><a href=\"https://ref.ly/Song4:3\">Cântico dos Cânticos 4.3</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4304, H4533, H4555, H6777, H6809, H7196, H7479, G03430, G25710, G25720</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01024065",
+          "start_ref_usfm": "GEN 24:65",
+          "end_ref": "01024065",
+          "end_ref_usfm": "GEN 24:65"
+        },
+        {
+          "start_ref": "01038014",
+          "start_ref_usfm": "GEN 38:14",
+          "end_ref": "01038014",
+          "end_ref_usfm": "GEN 38:14"
+        },
+        {
+          "start_ref": "01038019",
+          "start_ref_usfm": "GEN 38:19",
+          "end_ref": "01038019",
+          "end_ref_usfm": "GEN 38:19"
+        },
+        {
+          "start_ref": "02034033",
+          "start_ref_usfm": "EXO 34:33",
+          "end_ref": "02034033",
+          "end_ref_usfm": "EXO 34:33"
+        },
+        {
+          "start_ref": "22004003",
+          "start_ref_usfm": "SNG 4:3",
+          "end_ref": "22004003",
+          "end_ref_usfm": "SNG 4:3"
+        },
+        {
+          "start_ref": "26013018",
+          "start_ref_usfm": "EZK 13:18",
+          "end_ref": "26013018",
+          "end_ref_usfm": "EZK 13:18"
+        },
+        {
+          "start_ref": "47003013",
+          "start_ref_usfm": "2CO 3:13",
+          "end_ref": "47003013",
+          "end_ref_usfm": "2CO 3:13"
+        },
+        {
+          "start_ref": "47003014",
+          "start_ref_usfm": "2CO 3:14",
+          "end_ref": "47003014",
+          "end_ref_usfm": "2CO 3:14"
+        },
+        {
+          "start_ref": "47003015",
+          "start_ref_usfm": "2CO 3:15",
+          "end_ref": "47003015",
+          "end_ref_usfm": "2CO 3:15"
+        },
+        {
+          "start_ref": "47003016",
+          "start_ref_usfm": "2CO 3:16",
+          "end_ref": "47003016",
+          "end_ref_usfm": "2CO 3:16"
+        },
+        {
+          "start_ref": "47003012",
+          "start_ref_usfm": "2CO 3:12",
+          "end_ref": "47003013",
+          "end_ref_usfm": "2CO 3:13"
+        },
+        {
+          "start_ref": "23047001",
+          "start_ref_usfm": "ISA 47:1",
+          "end_ref": "23047002",
+          "end_ref_usfm": "ISA 47:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26031,
+          "content_id": 238161,
+          "label": "Moisés",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

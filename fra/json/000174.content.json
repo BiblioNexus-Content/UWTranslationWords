@@ -1,0 +1,173 @@
+[
+  {
+    "content_id": 466763,
+    "reference_id": 25595,
+    "title": "Clan",
+    "media_type": "Text",
+    "index_reference": "clan",
+    "language": "fra",
+    "content": "<h1>clan</h1><h2>Définition :</h2><p>Le terme «clan» se référe aux membres de la famille élargie, ces membres ont un ancêtre commun.</p><ul><li><p>Dans l&apos;Ancien Testament, les Israélites ont été comptés selon leurs clans ou leurs groupes familiaux.</p></li><li><p>Les clans sont normalement nommés en rapport avec leur ancêtre le plus connu.</p></li><li><p>Des personnes individuelles ont été parfois désignées par le nom de leur clan* Par exemple le beau-père de Moïse,Jéthro est parfois appelé par le nom de son clan, Reuel.</p></li><li><p>Le mot clan pourrait être traduit par «groupe familial» ou «famille élargie» ou «parents».</p></li></ul><p>(Voir aussi : (../other/family.md), (../names/jethro.md), (../other/tribe.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010005",
+          "start_ref_usfm": "GEN 10:5",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "01010018",
+          "start_ref_usfm": "GEN 10:18",
+          "end_ref": "01010018",
+          "end_ref_usfm": "GEN 10:18"
+        },
+        {
+          "start_ref": "01010020",
+          "start_ref_usfm": "GEN 10:20",
+          "end_ref": "01010020",
+          "end_ref_usfm": "GEN 10:20"
+        },
+        {
+          "start_ref": "01010031",
+          "start_ref_usfm": "GEN 10:31",
+          "end_ref": "01010031",
+          "end_ref_usfm": "GEN 10:31"
+        },
+        {
+          "start_ref": "01010032",
+          "start_ref_usfm": "GEN 10:32",
+          "end_ref": "01010032",
+          "end_ref_usfm": "GEN 10:32"
+        },
+        {
+          "start_ref": "01012003",
+          "start_ref_usfm": "GEN 12:3",
+          "end_ref": "01012003",
+          "end_ref_usfm": "GEN 12:3"
+        },
+        {
+          "start_ref": "01024038",
+          "start_ref_usfm": "GEN 24:38",
+          "end_ref": "01024038",
+          "end_ref_usfm": "GEN 24:38"
+        },
+        {
+          "start_ref": "01024040",
+          "start_ref_usfm": "GEN 24:40",
+          "end_ref": "01024040",
+          "end_ref_usfm": "GEN 24:40"
+        },
+        {
+          "start_ref": "01024041",
+          "start_ref_usfm": "GEN 24:41",
+          "end_ref": "01024041",
+          "end_ref_usfm": "GEN 24:41"
+        },
+        {
+          "start_ref": "01028014",
+          "start_ref_usfm": "GEN 28:14",
+          "end_ref": "01028014",
+          "end_ref_usfm": "GEN 28:14"
+        },
+        {
+          "start_ref": "01036040",
+          "start_ref_usfm": "GEN 36:40",
+          "end_ref": "01036040",
+          "end_ref_usfm": "GEN 36:40"
+        },
+        {
+          "start_ref": "02006014",
+          "start_ref_usfm": "EXO 6:14",
+          "end_ref": "02006014",
+          "end_ref_usfm": "EXO 6:14"
+        },
+        {
+          "start_ref": "02006015",
+          "start_ref_usfm": "EXO 6:15",
+          "end_ref": "02006015",
+          "end_ref_usfm": "EXO 6:15"
+        },
+        {
+          "start_ref": "02006017",
+          "start_ref_usfm": "EXO 6:17",
+          "end_ref": "02006017",
+          "end_ref_usfm": "EXO 6:17"
+        },
+        {
+          "start_ref": "02006019",
+          "start_ref_usfm": "EXO 6:19",
+          "end_ref": "02006019",
+          "end_ref_usfm": "EXO 6:19"
+        },
+        {
+          "start_ref": "02006024",
+          "start_ref_usfm": "EXO 6:24",
+          "end_ref": "02006024",
+          "end_ref_usfm": "EXO 6:24"
+        },
+        {
+          "start_ref": "02006025",
+          "start_ref_usfm": "EXO 6:25",
+          "end_ref": "02006025",
+          "end_ref_usfm": "EXO 6:25"
+        },
+        {
+          "start_ref": "06015020",
+          "start_ref_usfm": "JOS 15:20",
+          "end_ref": "06015020",
+          "end_ref_usfm": "JOS 15:20"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010005",
+          "end_ref_usfm": "GEN 10:5"
+        },
+        {
+          "start_ref": "01036029",
+          "start_ref_usfm": "GEN 36:29",
+          "end_ref": "01036030",
+          "end_ref_usfm": "GEN 36:30"
+        },
+        {
+          "start_ref": "13006033",
+          "start_ref_usfm": "1CH 6:33",
+          "end_ref": "13006035",
+          "end_ref_usfm": "1CH 6:35"
+        },
+        {
+          "start_ref": "01036015",
+          "start_ref_usfm": "GEN 36:15",
+          "end_ref": "01036016",
+          "end_ref_usfm": "GEN 36:16"
+        },
+        {
+          "start_ref": "04003038",
+          "start_ref_usfm": "NUM 3:38",
+          "end_ref": "04003039",
+          "end_ref_usfm": "NUM 3:39"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25731,
+          "content_id": 466885,
+          "label": "La famille",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25901,
+          "content_id": 467046,
+          "label": "Jethro",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26316,
+          "content_id": 467429,
+          "label": "Tribu",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

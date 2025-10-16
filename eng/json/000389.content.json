@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 26661,
+    "reference_id": 25803,
+    "title": "Grape",
+    "media_type": "Text",
+    "index_reference": "grape",
+    "language": "eng",
+    "content": "<h1>grape, grapevine</h1><h2>Definition:</h2><p>A grape is a small, round, smooth-skinned berry fruit that grows in clusters on vines. The juice of grapes is used in making wine.</p><ul><li><p>There are different colors of grapes, such as light green, purple, or red.</p></li><li><p>Individiual grapes can be around one to three centimeters in size.</p></li><li><p>People grow grapes in gardens called vineyards. These normally consist of long rows of vines.</p></li><li><p>Grapes were a very important food during Bible times and having vineyards was a sign of wealth.</p></li><li><p>In order to keep grapes from rotting, people would often dry them. Dried grapes are called “raisins” and they were used to make raisin cakes.</p></li><li><p>Jesus told a parable about a grape vineyard to teach his disciples about God’s kingdom.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"26335\" data-resourceType=\"UWTranslationWords\">vine</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26336\" data-resourceType=\"UWTranslationWords\">vineyard</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26347\" data-resourceType=\"UWTranslationWords\">wine</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Deut23:24\">Deuteronomy 23:24</a></p></li><li><p><a href=\"https://ref.ly/Hos9:10\">Hosea 9:10</a></p></li><li><p><a href=\"https://ref.ly/Job15:33\">Job 15:33</a></p></li><li><p><a href=\"https://ref.ly/Luke6:43-Luke6:44\">Luke 6:43–44</a></p></li><li><p><a href=\"https://ref.ly/Matt7:15-Matt7:17\">Matthew 7:15–17</a></p></li><li><p><a href=\"https://ref.ly/Matt21:33\">Matthew 21:33</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H0811, H0891, H1154, H1155, H1210, H3196, H5955, H6025, H6528, G02880, G47180</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01040010",
+          "start_ref_usfm": "GEN 40:10",
+          "end_ref": "01040010",
+          "end_ref_usfm": "GEN 40:10"
+        },
+        {
+          "start_ref": "01040011",
+          "start_ref_usfm": "GEN 40:11",
+          "end_ref": "01040011",
+          "end_ref_usfm": "GEN 40:11"
+        },
+        {
+          "start_ref": "01049011",
+          "start_ref_usfm": "GEN 49:11",
+          "end_ref": "01049011",
+          "end_ref_usfm": "GEN 49:11"
+        },
+        {
+          "start_ref": "05023024",
+          "start_ref_usfm": "DEU 23:24",
+          "end_ref": "05023024",
+          "end_ref_usfm": "DEU 23:24"
+        },
+        {
+          "start_ref": "16013015",
+          "start_ref_usfm": "NEH 13:15",
+          "end_ref": "16013015",
+          "end_ref_usfm": "NEH 13:15"
+        },
+        {
+          "start_ref": "18015033",
+          "start_ref_usfm": "JOB 15:33",
+          "end_ref": "18015033",
+          "end_ref_usfm": "JOB 15:33"
+        },
+        {
+          "start_ref": "28009010",
+          "start_ref_usfm": "HOS 9:10",
+          "end_ref": "28009010",
+          "end_ref_usfm": "HOS 9:10"
+        },
+        {
+          "start_ref": "40007016",
+          "start_ref_usfm": "MAT 7:16",
+          "end_ref": "40007016",
+          "end_ref_usfm": "MAT 7:16"
+        },
+        {
+          "start_ref": "40021033",
+          "start_ref_usfm": "MAT 21:33",
+          "end_ref": "40021033",
+          "end_ref_usfm": "MAT 21:33"
+        },
+        {
+          "start_ref": "42006044",
+          "start_ref_usfm": "LUK 6:44",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "66014018",
+          "start_ref_usfm": "REV 14:18",
+          "end_ref": "66014018",
+          "end_ref_usfm": "REV 14:18"
+        },
+        {
+          "start_ref": "42006043",
+          "start_ref_usfm": "LUK 6:43",
+          "end_ref": "42006044",
+          "end_ref_usfm": "LUK 6:44"
+        },
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007017",
+          "end_ref_usfm": "MAT 7:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 26335,
+          "content_id": 27193,
+          "label": "Vine",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 27194,
+          "label": "Vineyard",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26347,
+          "content_id": 27205,
+          "label": "Wine",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

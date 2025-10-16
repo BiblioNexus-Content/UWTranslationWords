@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 466643,
+    "reference_id": 25463,
+    "title": "Antéchrist",
+    "media_type": "Text",
+    "index_reference": "antéchrist",
+    "language": "fra",
+    "content": "<h1>antéchrist</h1><h2>Définition :</h2><p>Le terme &quot;antéchrist&quot; fait référence à une personne ou un enseignement qui est contre Jésus-Christ et son œuvre. Il existe de nombreux antéchrists dans le monde.</p><ul><li><p>L&apos;apôtre Jean a écrit qu&apos;une personne est &quot;l&apos;antéchrist&quot; s&apos;il trompe les gens en disant que Jésus n&apos;est pas le Messie ou s&apos;il nie que Jésus est à la fois Dieu et humain.</p></li><li><p>La Bible enseigne également qu&apos;il existe un esprit général d&apos;&quot;antéchrist&quot; dans le monde qui s&apos;oppose au travail de Jésus.</p></li><li><p>Le livre de l&apos;Apocalypse dans le Nouveau Testament explique qu&apos;il y aura un homme appelé &quot;l&apos;antéchrist&quot; qui sera révélé à la fin des temps. Cet homme tentera de détruire le peuple de Dieu, mais il sera vaincu par Jésus.</p></li><li><p>L&apos;apôtre Paul se réfère à cette personne comme &quot;l&apos;homme du péché&quot; &quot; (2 Thess 2:3) et à l&apos;esprit général de l&apos;antéchrist dans le monde comme &quot;la puissance secrète du manque de respect envers Dieu et la loi&quot; (2 Thess 2:7).</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>D&apos;autres façons de traduire ce terme pourraient inclure un mot ou une expression qui signifie &quot;adversaire du Christ&quot; ou &quot;ennemi du Christ&quot; ou &quot;celui qui est contre le Christ&quot;.</p></li><li><p>L&apos;expression &quot;esprit de l&apos;antéchrist&quot; pourrait&nbsp; être traduite par &quot;esprit qui est contre le Christ&quot; ou &quot;(quelqu&apos;un) qui enseigne des mensonges sur le Christ&quot; ou &quot;attitude de croire des mensonges sur Christ&quot; ou &quot;esprit qui enseigne des mensonges sur Christ&quot;.</p></li><li><p>Considérez également comment ce terme est traduit dans une traduction de la Bible en langue locale ou nationale.</p></li></ul><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_reveal\" data-resourceType=\"UWTranslationWords\">révéler</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26317\" data-resourceType=\"UWTranslationWords\">tribulation</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "62002018",
+          "start_ref_usfm": "1JN 2:18",
+          "end_ref": "62002018",
+          "end_ref_usfm": "1JN 2:18"
+        },
+        {
+          "start_ref": "62002022",
+          "start_ref_usfm": "1JN 2:22",
+          "end_ref": "62002022",
+          "end_ref_usfm": "1JN 2:22"
+        },
+        {
+          "start_ref": "62004003",
+          "start_ref_usfm": "1JN 4:3",
+          "end_ref": "62004003",
+          "end_ref_usfm": "1JN 4:3"
+        },
+        {
+          "start_ref": "63001007",
+          "start_ref_usfm": "2JN 1:7",
+          "end_ref": "63001007",
+          "end_ref_usfm": "2JN 1:7"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25587,
+          "content_id": 466755,
+          "label": "Christ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26317,
+          "content_id": 467430,
+          "label": "Tribulation",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

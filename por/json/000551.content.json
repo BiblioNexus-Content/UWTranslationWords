@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238430,
+    "reference_id": 26301,
+    "title": "Limiar",
+    "media_type": "Text",
+    "index_reference": "limiar",
+    "language": "por",
+    "content": "<h1>limiar, entrada</h1><h2>Definição:</h2><p>O termo “limiar” refere-se à parte inferior de uma entrada ou à parte de um edifício que está logo dentro da porta.</p><ul><li><p>Às vezes, um limiar é uma faixa de madeira ou pedra que deve ser ultrapassada para entrar em uma sala ou edifício.</p></li><li><p>Tanto um portão quanto a abertura de uma tenda também podem ter um limiar.</p></li><li><p>Este termo deve ser traduzido com um termo na língua do projeto que se refira ao local na entrada de uma casa que uma pessoa atravessa.</p></li><li><p>Se não houver um termo para isso, “limiar” também pode ser traduzido como “entrada”, “abertura” ou “porta de entrada”, dependendo do contexto.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25767\" data-resourceType=\"UWTranslationWords\">portão</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26287\" data-resourceType=\"UWTranslationWords\">tenda</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr9:17-1Chr9:19\">1 Crônicas 9.17–19</a></p></li><li><p><a href=\"https://ref.ly/Ezek9:3\">Ezequiel 9.3</a></p></li><li><p><a href=\"https://ref.ly/Isa6:4\">Isaías 6.4</a></p></li><li><p><a href=\"https://ref.ly/Prov17:19\">Provérbios 17.19</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H4670, H5592</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "20017019",
+          "start_ref_usfm": "PRO 17:19",
+          "end_ref": "20017019",
+          "end_ref_usfm": "PRO 17:19"
+        },
+        {
+          "start_ref": "23006004",
+          "start_ref_usfm": "ISA 6:4",
+          "end_ref": "23006004",
+          "end_ref_usfm": "ISA 6:4"
+        },
+        {
+          "start_ref": "26009003",
+          "start_ref_usfm": "EZK 9:3",
+          "end_ref": "26009003",
+          "end_ref_usfm": "EZK 9:3"
+        },
+        {
+          "start_ref": "13009017",
+          "start_ref_usfm": "1CH 9:17",
+          "end_ref": "13009019",
+          "end_ref_usfm": "1CH 9:19"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25767,
+          "content_id": 237900,
+          "label": "Portão",
+          "language": "por"
+        },
+        {
+          "reference_id": 26287,
+          "content_id": 238416,
+          "label": "Tenda",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

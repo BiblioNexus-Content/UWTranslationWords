@@ -1,0 +1,179 @@
+[
+  {
+    "content_id": 466734,
+    "reference_id": 25563,
+    "title": "Cesaréé",
+    "media_type": "Text",
+    "index_reference": "cesaréé",
+    "language": "fra",
+    "content": "<h1>Cesaréé ,Cesaréé de Philippe</h1><h2>Définition :</h2><p>Césarée était une ville importante sur la côte de la mer Méditerranée, à environ 39 km au sud du mont Carmel* Césarée de Philippe était une ville située dans la partie nord d&apos;Israël, près du mont Hermon.</p><ul><li><p>Ces villes ont été nommées pour les Césars qui ont gouverné l&apos;empire romain.</p></li><li><p>La Césarée côtière est devenue la ville capitale de la province romaine de Judée à l&apos;époque de la naissance de Jésus.</p></li><li><p>première prêche de l&apos;apôtre Pierre aux Gentils à Césarée</p></li><li><p>Paul a navigué de Césarée à Tarse et aussi passé à travers cette ville sur deux de ses voyages missionnaires.</p></li><li><p>Jésus et ses disciples se sont rendus dans la région entourant Césarée de Philippe.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/caesar.md), (../kt/gentile.md), (../names/mediterranean.md), (../names/carmel.md), (../names/mounthermon.md), (../names/rome.md), (../names/tarsus.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016013",
+          "end_ref_usfm": "MAT 16:13"
+        },
+        {
+          "start_ref": "41008027",
+          "start_ref_usfm": "MRK 8:27",
+          "end_ref": "41008027",
+          "end_ref_usfm": "MRK 8:27"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "44009030",
+          "start_ref_usfm": "ACT 9:30",
+          "end_ref": "44009030",
+          "end_ref_usfm": "ACT 9:30"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010001",
+          "end_ref_usfm": "ACT 10:1"
+        },
+        {
+          "start_ref": "44010024",
+          "start_ref_usfm": "ACT 10:24",
+          "end_ref": "44010024",
+          "end_ref_usfm": "ACT 10:24"
+        },
+        {
+          "start_ref": "44011011",
+          "start_ref_usfm": "ACT 11:11",
+          "end_ref": "44011011",
+          "end_ref_usfm": "ACT 11:11"
+        },
+        {
+          "start_ref": "44012019",
+          "start_ref_usfm": "ACT 12:19",
+          "end_ref": "44012019",
+          "end_ref_usfm": "ACT 12:19"
+        },
+        {
+          "start_ref": "44018022",
+          "start_ref_usfm": "ACT 18:22",
+          "end_ref": "44018022",
+          "end_ref_usfm": "ACT 18:22"
+        },
+        {
+          "start_ref": "44021008",
+          "start_ref_usfm": "ACT 21:8",
+          "end_ref": "44021008",
+          "end_ref_usfm": "ACT 21:8"
+        },
+        {
+          "start_ref": "44021016",
+          "start_ref_usfm": "ACT 21:16",
+          "end_ref": "44021016",
+          "end_ref_usfm": "ACT 21:16"
+        },
+        {
+          "start_ref": "44023023",
+          "start_ref_usfm": "ACT 23:23",
+          "end_ref": "44023023",
+          "end_ref_usfm": "ACT 23:23"
+        },
+        {
+          "start_ref": "44023033",
+          "start_ref_usfm": "ACT 23:33",
+          "end_ref": "44023033",
+          "end_ref_usfm": "ACT 23:33"
+        },
+        {
+          "start_ref": "44025001",
+          "start_ref_usfm": "ACT 25:1",
+          "end_ref": "44025001",
+          "end_ref_usfm": "ACT 25:1"
+        },
+        {
+          "start_ref": "44025004",
+          "start_ref_usfm": "ACT 25:4",
+          "end_ref": "44025004",
+          "end_ref_usfm": "ACT 25:4"
+        },
+        {
+          "start_ref": "44025006",
+          "start_ref_usfm": "ACT 25:6",
+          "end_ref": "44025006",
+          "end_ref_usfm": "ACT 25:6"
+        },
+        {
+          "start_ref": "44025013",
+          "start_ref_usfm": "ACT 25:13",
+          "end_ref": "44025013",
+          "end_ref_usfm": "ACT 25:13"
+        },
+        {
+          "start_ref": "44025014",
+          "start_ref_usfm": "ACT 25:14",
+          "end_ref": "44025014",
+          "end_ref_usfm": "ACT 25:14"
+        },
+        {
+          "start_ref": "40016013",
+          "start_ref_usfm": "MAT 16:13",
+          "end_ref": "40016016",
+          "end_ref_usfm": "MAT 16:16"
+        },
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010002",
+          "end_ref_usfm": "ACT 10:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25562,
+          "content_id": 466733,
+          "label": "César",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25575,
+          "content_id": 466743,
+          "label": "Carmel ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 466922,
+          "label": "Gentil (Païen)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 467143,
+          "label": "La mer",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26033,
+          "content_id": 467170,
+          "label": "Mont Hermon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 467301,
+          "label": "Rome",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26281,
+          "content_id": 467395,
+          "label": "Tarse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

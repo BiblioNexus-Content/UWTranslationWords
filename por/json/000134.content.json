@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 237667,
+    "reference_id": 25531,
+    "title": "Bete-Semes",
+    "media_type": "Text",
+    "index_reference": "bete-semes",
+    "language": "por",
+    "content": "<h1>Bete-Semes</h1><h2>Fatos:</h2><p>Bete-Semes era o nome de uma cidade cananeia aproximadamente 30 quilômetros a oeste de Jerusalém.</p><ul><li><p>Os israelitas capturaram Bete-Semes durante a liderança de Josué.</p></li><li><p>Bete-Semes era uma cidade reservada como um lugar para os sacerdotes levitas viverem.</p></li><li><p>Quando os filisteus estavam levando a arca da aliança capturada de volta para Jerusalém, Bete-Semes foi a primeira cidade onde pararam com ela.</p></li></ul><p>(Sugestões de tradução: Traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25475\" data-resourceType=\"UWTranslationWords\">arca da aliança</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaã</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25898\" data-resourceType=\"UWTranslationWords\">Jerusalém</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25920\" data-resourceType=\"UWTranslationWords\">Josué</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25967\" data-resourceType=\"UWTranslationWords\">Levita</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26100\" data-resourceType=\"UWTranslationWords\">Filisteus</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Kgs4:9\">1 Reis 4.9</a></p></li><li><p><a href=\"https://ref.ly/1Sam6:9\">1 Samuel 6.9</a></p></li><li><p><a href=\"https://ref.ly/Josh19:20-Josh19:22\">Josué 19.20–22</a></p></li><li><p><a href=\"https://ref.ly/Judg1:33\">Juízes 1.33</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H1053</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "07001033",
+          "start_ref_usfm": "JDG 1:33",
+          "end_ref": "07001033",
+          "end_ref_usfm": "JDG 1:33"
+        },
+        {
+          "start_ref": "09006009",
+          "start_ref_usfm": "1SA 6:9",
+          "end_ref": "09006009",
+          "end_ref_usfm": "1SA 6:9"
+        },
+        {
+          "start_ref": "11004009",
+          "start_ref_usfm": "1KI 4:9",
+          "end_ref": "11004009",
+          "end_ref_usfm": "1KI 4:9"
+        },
+        {
+          "start_ref": "06019020",
+          "start_ref_usfm": "JOS 19:20",
+          "end_ref": "06019022",
+          "end_ref_usfm": "JOS 19:22"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25475,
+          "content_id": 237612,
+          "label": "Arca da Aliança",
+          "language": "por"
+        },
+        {
+          "reference_id": 25572,
+          "content_id": 237707,
+          "label": "Canaã",
+          "language": "por"
+        },
+        {
+          "reference_id": 25898,
+          "content_id": 238031,
+          "label": "Jerusalém",
+          "language": "por"
+        },
+        {
+          "reference_id": 25920,
+          "content_id": 238053,
+          "label": "Josué",
+          "language": "por"
+        },
+        {
+          "reference_id": 25967,
+          "content_id": 238098,
+          "label": "Levita",
+          "language": "por"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 238230,
+          "label": "Filisteus",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

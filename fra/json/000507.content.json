@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 466989,
+    "reference_id": 25842,
+    "title": "Le Saint d'Israël",
+    "media_type": "Text",
+    "index_reference": "le saint d'israël",
+    "language": "fra",
+    "content": "<h1>Le Saint d&apos;Israël</h1><h2>Définition :</h2><p>Le terme « Saint d&apos;Israël » est un titre dans la Bible qui se réfère presque toujours à Dieu.</p><ul><li><p>Dans l&apos;Ancien Testament, ce titre apparaît souvent dans la phrase « le Saint d&apos;Israël ».</p></li><li><p>Dans le Nouveau Testament, Jésus est également appelé le « Saint d&apos;Israël ».</p></li><li><p>Le terme « Saint d&apos;Israël » est parfois utilisé dans la Bible pour désigner un ange.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>Le terme littéral est « le Saint » (avec &apos;le seul&apos; étant implicite.) De nombreuses langues (comme l&apos;anglais) le traduiront avec le nom implicite inclus (comme &apos;le seul&apos; ou &quot;Dieu&quot;).</p></li><li><p>Ce terme pourrait également être traduit par « Dieu, qui est saint » ou « Celui qui est mis à part ».</p></li><li><p>L&apos;expression « le Saint d&apos;Israël » pourrait être traduite par « le Saint Dieu qu&apos;Israël adore » ou « le Saint d&apos;Israël qui gouverne Israël ».</p></li><li><p>Il est préférable de traduire ce terme en utilisant le même mot ou la même expression que celui utilisé pour traduire « saint ».</p></li></ul><p>(Voir aussi : (../kt/holy.md), (../kt/god.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12019022",
+          "start_ref_usfm": "2KI 19:22",
+          "end_ref": "12019022",
+          "end_ref_usfm": "2KI 19:22"
+        },
+        {
+          "start_ref": "20009010",
+          "start_ref_usfm": "PRO 9:10",
+          "end_ref": "20009010",
+          "end_ref_usfm": "PRO 9:10"
+        },
+        {
+          "start_ref": "20030003",
+          "start_ref_usfm": "PRO 30:3",
+          "end_ref": "20030003",
+          "end_ref_usfm": "PRO 30:3"
+        },
+        {
+          "start_ref": "23041014",
+          "start_ref_usfm": "ISA 41:14",
+          "end_ref": "23041014",
+          "end_ref_usfm": "ISA 41:14"
+        },
+        {
+          "start_ref": "44002027",
+          "start_ref_usfm": "ACT 2:27",
+          "end_ref": "44002027",
+          "end_ref_usfm": "ACT 2:27"
+        },
+        {
+          "start_ref": "44013035",
+          "start_ref_usfm": "ACT 13:35",
+          "end_ref": "44013035",
+          "end_ref_usfm": "ACT 13:35"
+        },
+        {
+          "start_ref": "62002020",
+          "start_ref_usfm": "1JN 2:20",
+          "end_ref": "62002020",
+          "end_ref_usfm": "1JN 2:20"
+        },
+        {
+          "start_ref": "66016005",
+          "start_ref_usfm": "REV 16:5",
+          "end_ref": "66016005",
+          "end_ref_usfm": "REV 16:5"
+        },
+        {
+          "start_ref": "44003013",
+          "start_ref_usfm": "ACT 3:13",
+          "end_ref": "44003014",
+          "end_ref_usfm": "ACT 3:14"
+        },
+        {
+          "start_ref": "23005015",
+          "start_ref_usfm": "ISA 5:15",
+          "end_ref": "23005017",
+          "end_ref_usfm": "ISA 5:17"
+        },
+        {
+          "start_ref": "42004033",
+          "start_ref_usfm": "LUK 4:33",
+          "end_ref": "42004034",
+          "end_ref_usfm": "LUK 4:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25788,
+          "content_id": 466937,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25840,
+          "content_id": 466987,
+          "label": "Saint",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

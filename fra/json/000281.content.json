@@ -1,0 +1,131 @@
+[
+  {
+    "content_id": 466863,
+    "reference_id": 25703,
+    "title": "Enoch",
+    "media_type": "Text",
+    "index_reference": "enoch",
+    "language": "fra",
+    "content": "<h1>Enoch</h1><h2>Définition :</h2><p>Enoch est le nom de deux hommes dans l&apos;Ancien Testament.</p><ul><li><p>L&apos;un était un descendant de Seth*Il était l&apos;arrière petit fils de Noé.</p></li><li><p>Enoch avait une relation intime avec Dieu et quand il avait 365 ans,Dieu l&apos;a amené au ciel sans qu&apos;il ne meurt.</p></li><li><p>L&apos;autre Enoch était un fils de Caïn</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/cain.md), (../names/seth.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01004017",
+          "start_ref_usfm": "GEN 4:17",
+          "end_ref": "01004017",
+          "end_ref_usfm": "GEN 4:17"
+        },
+        {
+          "start_ref": "01004018",
+          "start_ref_usfm": "GEN 4:18",
+          "end_ref": "01004018",
+          "end_ref_usfm": "GEN 4:18"
+        },
+        {
+          "start_ref": "01005018",
+          "start_ref_usfm": "GEN 5:18",
+          "end_ref": "01005018",
+          "end_ref_usfm": "GEN 5:18"
+        },
+        {
+          "start_ref": "01005019",
+          "start_ref_usfm": "GEN 5:19",
+          "end_ref": "01005019",
+          "end_ref_usfm": "GEN 5:19"
+        },
+        {
+          "start_ref": "01005021",
+          "start_ref_usfm": "GEN 5:21",
+          "end_ref": "01005021",
+          "end_ref_usfm": "GEN 5:21"
+        },
+        {
+          "start_ref": "01005022",
+          "start_ref_usfm": "GEN 5:22",
+          "end_ref": "01005022",
+          "end_ref_usfm": "GEN 5:22"
+        },
+        {
+          "start_ref": "01005023",
+          "start_ref_usfm": "GEN 5:23",
+          "end_ref": "01005023",
+          "end_ref_usfm": "GEN 5:23"
+        },
+        {
+          "start_ref": "01005024",
+          "start_ref_usfm": "GEN 5:24",
+          "end_ref": "01005024",
+          "end_ref_usfm": "GEN 5:24"
+        },
+        {
+          "start_ref": "01025004",
+          "start_ref_usfm": "GEN 25:4",
+          "end_ref": "01025004",
+          "end_ref_usfm": "GEN 25:4"
+        },
+        {
+          "start_ref": "01046009",
+          "start_ref_usfm": "GEN 46:9",
+          "end_ref": "01046009",
+          "end_ref_usfm": "GEN 46:9"
+        },
+        {
+          "start_ref": "02006014",
+          "start_ref_usfm": "EXO 6:14",
+          "end_ref": "02006014",
+          "end_ref_usfm": "EXO 6:14"
+        },
+        {
+          "start_ref": "13001003",
+          "start_ref_usfm": "1CH 1:3",
+          "end_ref": "13001003",
+          "end_ref_usfm": "1CH 1:3"
+        },
+        {
+          "start_ref": "42003037",
+          "start_ref_usfm": "LUK 3:37",
+          "end_ref": "42003037",
+          "end_ref_usfm": "LUK 3:37"
+        },
+        {
+          "start_ref": "58011005",
+          "start_ref_usfm": "HEB 11:5",
+          "end_ref": "58011005",
+          "end_ref_usfm": "HEB 11:5"
+        },
+        {
+          "start_ref": "65001014",
+          "start_ref_usfm": "JUD 1:14",
+          "end_ref": "65001014",
+          "end_ref_usfm": "JUD 1:14"
+        },
+        {
+          "start_ref": "01005018",
+          "start_ref_usfm": "GEN 5:18",
+          "end_ref": "01005020",
+          "end_ref_usfm": "GEN 5:20"
+        },
+        {
+          "start_ref": "42003036",
+          "start_ref_usfm": "LUK 3:36",
+          "end_ref": "42003038",
+          "end_ref_usfm": "LUK 3:38"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25565,
+          "content_id": 466736,
+          "label": "Caïn",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26218,
+          "content_id": 467335,
+          "label": "Seth",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

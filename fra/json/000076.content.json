@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 466660,
+    "reference_id": 25481,
+    "title": "Asdod",
+    "media_type": "Text",
+    "index_reference": "asdod",
+    "language": "fra",
+    "content": "<h1>Asdod,Azot</h1><h2>Définition :</h2><p>Asdod était l&apos;une des cinq plus grandes villes des Philistins* Elle était située au Sud-Ouest de Canaan près de la Méditerranée, à mi-chemin entre Gaza et Joppé.</p><ul><li><p>Le temple de Dagon, faux dieu des philistins était situé à Asdod.</p></li><li><p>Dieu punit sévèrement les habitants d&apos;Asdod lorque les Philistins emportèrent l&apos;arche de l&apos;alliance et la déposèrent dans le temple de leur idole à Asdod.</p></li><li><p>Le nom grec de cette ville était Azot* C&apos;était l&apos;une des villes où Philippe prêcha l&apos;évangile.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/ekron.md), (../names/gath.md), (../names/gaza.md), (../names/joppa.md), (../names/philip.md), (../names/philistines.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16004007",
+          "start_ref_usfm": "NEH 4:7",
+          "end_ref": "16004007",
+          "end_ref_usfm": "NEH 4:7"
+        },
+        {
+          "start_ref": "16013023",
+          "start_ref_usfm": "NEH 13:23",
+          "end_ref": "16013023",
+          "end_ref_usfm": "NEH 13:23"
+        },
+        {
+          "start_ref": "16013024",
+          "start_ref_usfm": "NEH 13:24",
+          "end_ref": "16013024",
+          "end_ref_usfm": "NEH 13:24"
+        },
+        {
+          "start_ref": "30001008",
+          "start_ref_usfm": "AMO 1:8",
+          "end_ref": "30001008",
+          "end_ref_usfm": "AMO 1:8"
+        },
+        {
+          "start_ref": "36002004",
+          "start_ref_usfm": "ZEP 2:4",
+          "end_ref": "36002004",
+          "end_ref_usfm": "ZEP 2:4"
+        },
+        {
+          "start_ref": "38009006",
+          "start_ref_usfm": "ZEC 9:6",
+          "end_ref": "38009006",
+          "end_ref_usfm": "ZEC 9:6"
+        },
+        {
+          "start_ref": "44008040",
+          "start_ref_usfm": "ACT 8:40",
+          "end_ref": "44008040",
+          "end_ref_usfm": "ACT 8:40"
+        },
+        {
+          "start_ref": "06015045",
+          "start_ref_usfm": "JOS 15:45",
+          "end_ref": "06015047",
+          "end_ref_usfm": "JOS 15:47"
+        },
+        {
+          "start_ref": "09005001",
+          "start_ref_usfm": "1SA 5:1",
+          "end_ref": "09005003",
+          "end_ref_usfm": "1SA 5:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25691,
+          "content_id": 466851,
+          "label": "Ekron",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25768,
+          "content_id": 466919,
+          "label": "Gath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25769,
+          "content_id": 466920,
+          "label": "Gaza",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26096,
+          "content_id": 467220,
+          "label": "Philippe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26100,
+          "content_id": 467224,
+          "label": "Philistins",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25915,
+          "content_id": 467060,
+          "label": "Joppé (Japho)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

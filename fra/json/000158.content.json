@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467048,
+    "reference_id": 25903,
+    "title": "Chefs des juifs",
+    "media_type": "Text",
+    "index_reference": "chefs des juifs",
+    "language": "fra",
+    "content": "<h1>chefs des juifs, autorités juives, chefs religieux</h1><h2>Données :</h2><p>Les termes « chefs des juifs » ou « autorités juives » font référence aux chefs religieux tels que les prêtres et les docteurs de la loi de Dieu. Ils avaient également l&apos;autorité de porter des jugements sur des questions non religieuses.</p><ul><li><p>Les chefs juifs étaient les grands prêtres, les principaux sacrificateurs et les scribes (enseignants de la loi de Dieu).</p></li><li><p>Deux groupes principaux de chefs des juifs étaient les pharisiens et les sadducéens.</p></li><li><p>De nombreux chefs des juifs étaient fiers et pensaient être plus justes que d&apos;autres personnes. Ils étaient jaloux de Jésus, ne croyaient pas que Jésus était le Messie et Fils de Dieu et voulaient lui faire du mal.</p></li><li><p>Souvent, l&apos;expression « les Juifs » faisait référence aux chefs religieux juifs, en particulier dans les contextes où ils étaient en colère contre Jésus et essayaient de le piéger ou de lui faire du mal.</p></li><li><p>Jésus a dit aux dirigeants juifs qu&apos;ils étaient des hypocrites. Ils prétendaient connaître Dieu, mais ne lui obéissaient pas.</p></li></ul><p>(Voir aussi : (../kt/jew.md), (../other/chiefpriests.md), (../other/council.md), (../kt/highpriest.md), (../kt/pharisee.md), (../kt/priest.md), (../kt/sadducee.md), (../kt/scribe.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "43002019",
+          "start_ref_usfm": "JHN 2:19",
+          "end_ref": "43002019",
+          "end_ref_usfm": "JHN 2:19"
+        },
+        {
+          "start_ref": "43005016",
+          "start_ref_usfm": "JHN 5:16",
+          "end_ref": "43005016",
+          "end_ref_usfm": "JHN 5:16"
+        },
+        {
+          "start_ref": "02016022",
+          "start_ref_usfm": "EXO 16:22",
+          "end_ref": "02016023",
+          "end_ref_usfm": "EXO 16:23"
+        },
+        {
+          "start_ref": "43005010",
+          "start_ref_usfm": "JHN 5:10",
+          "end_ref": "43005011",
+          "end_ref_usfm": "JHN 5:11"
+        },
+        {
+          "start_ref": "42019047",
+          "start_ref_usfm": "LUK 19:47",
+          "end_ref": "42019048",
+          "end_ref_usfm": "LUK 19:48"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25616,
+          "content_id": 466783,
+          "label": "Conseil",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25836,
+          "content_id": 466983,
+          "label": "Grand-prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25902,
+          "content_id": 467047,
+          "label": "Juif",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26095,
+          "content_id": 467219,
+          "label": "Pharisien",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26121,
+          "content_id": 467244,
+          "label": "Prêtre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26189,
+          "content_id": 467308,
+          "label": "Sadducéen",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26204,
+          "content_id": 467323,
+          "label": "Scribe",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

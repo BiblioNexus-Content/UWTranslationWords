@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 237747,
+    "reference_id": 25613,
+    "title": "Cornélio",
+    "media_type": "Text",
+    "index_reference": "cornélio",
+    "language": "por",
+    "content": "<h1>Cornélio</h1><h2>Fatos:</h2><p>Cornélio era um gentio, ou homem não judeu, que era um oficial militar no exército romano.</p><ul><li><p>Ele orava regularmente a Deus e era muito generoso em dar aos pobres.</p></li><li><p>Quando Cornélio e sua família ouviram o apóstolo Pedro explicar o evangelho, eles se tornaram crentes em Jesus.</p></li><li><p>As pessoas da casa de Cornélio foram as primeiras pessoas não judias a se tornarem crentes.</p></li><li><p>Isso mostrou aos seguidores de Jesus que ele veio para salvar todas as pessoas, incluindo os gentios.</p></li></ul><p>(Sugestões de tradução: Como traduzir nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">apóstolo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25523\" data-resourceType=\"UWTranslationWords\">acreditar</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25773\" data-resourceType=\"UWTranslationWords\">gentio</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25796\" data-resourceType=\"UWTranslationWords\">boas novas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25805\" data-resourceType=\"UWTranslationWords\">grego</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25580\" data-resourceType=\"UWTranslationWords\">centurião</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Acts10:1\">Atos 10.1</a></p></li><li><p><a href=\"https://ref.ly/Acts10:8\">Atos 10.8</a></p></li><li><p><a href=\"https://ref.ly/Acts10:18\">Atos 10.18</a></p></li><li><p><a href=\"https://ref.ly/Acts10:22\">Atos 10.22</a></p></li><li><p><a href=\"https://ref.ly/Acts10:24\">Atos 10.24</a></p></li><li><p><a href=\"https://ref.ly/Acts10:26\">Atos 10.26</a></p></li><li><p><a href=\"https://ref.ly/Acts10:30\">Atos 10.30</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: G28830</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44010001",
+          "start_ref_usfm": "ACT 10:1",
+          "end_ref": "44010001",
+          "end_ref_usfm": "ACT 10:1"
+        },
+        {
+          "start_ref": "44010003",
+          "start_ref_usfm": "ACT 10:3",
+          "end_ref": "44010003",
+          "end_ref_usfm": "ACT 10:3"
+        },
+        {
+          "start_ref": "44010008",
+          "start_ref_usfm": "ACT 10:8",
+          "end_ref": "44010008",
+          "end_ref_usfm": "ACT 10:8"
+        },
+        {
+          "start_ref": "44010017",
+          "start_ref_usfm": "ACT 10:17",
+          "end_ref": "44010017",
+          "end_ref_usfm": "ACT 10:17"
+        },
+        {
+          "start_ref": "44010018",
+          "start_ref_usfm": "ACT 10:18",
+          "end_ref": "44010018",
+          "end_ref_usfm": "ACT 10:18"
+        },
+        {
+          "start_ref": "44010022",
+          "start_ref_usfm": "ACT 10:22",
+          "end_ref": "44010022",
+          "end_ref_usfm": "ACT 10:22"
+        },
+        {
+          "start_ref": "44010024",
+          "start_ref_usfm": "ACT 10:24",
+          "end_ref": "44010024",
+          "end_ref_usfm": "ACT 10:24"
+        },
+        {
+          "start_ref": "44010025",
+          "start_ref_usfm": "ACT 10:25",
+          "end_ref": "44010025",
+          "end_ref_usfm": "ACT 10:25"
+        },
+        {
+          "start_ref": "44010026",
+          "start_ref_usfm": "ACT 10:26",
+          "end_ref": "44010026",
+          "end_ref_usfm": "ACT 10:26"
+        },
+        {
+          "start_ref": "44010030",
+          "start_ref_usfm": "ACT 10:30",
+          "end_ref": "44010030",
+          "end_ref_usfm": "ACT 10:30"
+        },
+        {
+          "start_ref": "44010031",
+          "start_ref_usfm": "ACT 10:31",
+          "end_ref": "44010031",
+          "end_ref_usfm": "ACT 10:31"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 237603,
+          "label": "Apóstolo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25523,
+          "content_id": 237659,
+          "label": "Acreditar",
+          "language": "por"
+        },
+        {
+          "reference_id": 25580,
+          "content_id": 237715,
+          "label": "Centurião",
+          "language": "por"
+        },
+        {
+          "reference_id": 25773,
+          "content_id": 237906,
+          "label": "Gentio",
+          "language": "por"
+        },
+        {
+          "reference_id": 25796,
+          "content_id": 237929,
+          "label": "Boas Notícias",
+          "language": "por"
+        },
+        {
+          "reference_id": 25805,
+          "content_id": 237938,
+          "label": "Grego",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

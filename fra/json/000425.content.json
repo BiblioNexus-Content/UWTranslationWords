@@ -1,0 +1,113 @@
+[
+  {
+    "content_id": 467030,
+    "reference_id": 25885,
+    "title": "Japhet",
+    "media_type": "Text",
+    "index_reference": "japhet",
+    "language": "fra",
+    "content": "<h1>Japhet</h1><h2>Définition :</h2><p>&quot;Japhet était l&apos;un des trois fils de Noé mentionnés dans l&apos;Ancien Testament.</p><ul><li><p>Lors du deluge qui a couvert toute la terre, Japhet et ses deux frères étaient avec Noé dans l&apos;arche, ainsi que leurs épouses.</p></li><li><p>On ne sait pas s&apos;il était le frère le plus jeune ou le plus âgé.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../kt/ark.md), (../other/flood.md), (../names/ham.md), (../names/noah.md), (../names/shem.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01005032",
+          "start_ref_usfm": "GEN 5:32",
+          "end_ref": "01005032",
+          "end_ref_usfm": "GEN 5:32"
+        },
+        {
+          "start_ref": "01006010",
+          "start_ref_usfm": "GEN 6:10",
+          "end_ref": "01006010",
+          "end_ref_usfm": "GEN 6:10"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007013",
+          "end_ref_usfm": "GEN 7:13"
+        },
+        {
+          "start_ref": "01009018",
+          "start_ref_usfm": "GEN 9:18",
+          "end_ref": "01009018",
+          "end_ref_usfm": "GEN 9:18"
+        },
+        {
+          "start_ref": "01009023",
+          "start_ref_usfm": "GEN 9:23",
+          "end_ref": "01009023",
+          "end_ref_usfm": "GEN 9:23"
+        },
+        {
+          "start_ref": "01009027",
+          "start_ref_usfm": "GEN 9:27",
+          "end_ref": "01009027",
+          "end_ref_usfm": "GEN 9:27"
+        },
+        {
+          "start_ref": "01010001",
+          "start_ref_usfm": "GEN 10:1",
+          "end_ref": "01010001",
+          "end_ref_usfm": "GEN 10:1"
+        },
+        {
+          "start_ref": "01010002",
+          "start_ref_usfm": "GEN 10:2",
+          "end_ref": "01010002",
+          "end_ref_usfm": "GEN 10:2"
+        },
+        {
+          "start_ref": "01010021",
+          "start_ref_usfm": "GEN 10:21",
+          "end_ref": "01010021",
+          "end_ref_usfm": "GEN 10:21"
+        },
+        {
+          "start_ref": "13001004",
+          "start_ref_usfm": "1CH 1:4",
+          "end_ref": "13001004",
+          "end_ref_usfm": "1CH 1:4"
+        },
+        {
+          "start_ref": "01007013",
+          "start_ref_usfm": "GEN 7:13",
+          "end_ref": "01007014",
+          "end_ref_usfm": "GEN 7:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25474,
+          "content_id": 466653,
+          "label": "Arche",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25746,
+          "content_id": 466898,
+          "label": "Inondation",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25813,
+          "content_id": 466962,
+          "label": "Cham",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26055,
+          "content_id": 467191,
+          "label": "Noé",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26225,
+          "content_id": 467341,
+          "label": "Sem",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

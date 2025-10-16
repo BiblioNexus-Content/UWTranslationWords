@@ -1,0 +1,53 @@
+[
+  {
+    "content_id": 238274,
+    "reference_id": 26144,
+    "title": "Qualificar",
+    "media_type": "Text",
+    "index_reference": "qualificar",
+    "language": "por",
+    "content": "<h1>qualificar, qualificado, desqualificado</h1><h2>Definição:</h2><p>O termo “qualificar” refere-se a ganhar o direito de receber certos benefícios ou ser reconhecido como possuidor de certas habilidades.</p><ul><li><p>Uma pessoa que é “qualificada” para um determinado trabalho possui as habilidades e o treinamento necessários para realizar esse trabalho.</p></li><li><p>Em sua carta à igreja de Colossos, o apóstolo Paulo escreveu que Deus Pai fez os crentes “qualificados” para participar de seu reino de luz. Isso significa que Deus lhes deu tudo o que precisam para viver vidas piedosas.</p></li><li><p>O crente não pode ganhar o direito de fazer parte do reino de Deus. Ele é qualificado apenas porque Deus o redimiu com o sangue de Cristo.</p></li></ul><h2>Sugestões de Tradução</h2><ul><li><p>Dependendo do contexto, “qualificado” poderia ser traduzido como “equipado” ou “habilitado” ou “capacitado”.</p></li><li><p>Qualificar alguém poderia ser traduzido como “equipar” ou “capacitar” ou “empoderar”.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25597\" data-resourceType=\"UWTranslationWords\">Colossos</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25789\" data-resourceType=\"UWTranslationWords\">piedoso</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25939\" data-resourceType=\"UWTranslationWords\">reino</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_light\" data-resourceType=\"UWTranslationWords\">luz</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paulo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26161\" data-resourceType=\"UWTranslationWords\">redimir</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/Dan1:3-Dan1:5\">Daniel 1.3–5</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H3581</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "27001003",
+          "start_ref_usfm": "DAN 1:3",
+          "end_ref": "27001005",
+          "end_ref_usfm": "DAN 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25597,
+          "content_id": 237732,
+          "label": "Colossos",
+          "language": "por"
+        },
+        {
+          "reference_id": 25789,
+          "content_id": 237922,
+          "label": "Piedoso",
+          "language": "por"
+        },
+        {
+          "reference_id": 25939,
+          "content_id": 238071,
+          "label": "Reino",
+          "language": "por"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 238209,
+          "label": "Paulo",
+          "language": "por"
+        },
+        {
+          "reference_id": 26161,
+          "content_id": 238291,
+          "label": "Redimir",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

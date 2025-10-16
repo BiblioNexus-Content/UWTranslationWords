@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 180317,
+    "reference_id": 26263,
+    "title": "भण्डार",
+    "media_type": "Text",
+    "index_reference": "भण्डार",
+    "language": "hin",
+    "content": "<h1>भण्डार, भण्डार</h1><h2>परिभाषा:</h2><p>&quot;भण्डार गृह&quot; प्रायः अन्न और अन्य वस्तुओं को लम्सुबे समय तक सुरक्षित रखने के लिए बनाई गई बड़ी बड़ी इमारतें होती हैं।</p><ul><li><p>बाइबल में “भण्डार गृह” प्रायः अतिरिक्त अन्न तथा भोजन सामग्री को भविष्य के लिएअकाल के समय हेतु सुरक्षित रखने के लिए काम में लिए जाते थे।</p></li><li><p>यह शब्द प्रतीकात्मक रूप में उन सब अच्छी वस्तुओं के लिए भी काम में लिया जाता है जो परमेश्वर अपने लोगों को देना चाहता है।</p></li><li><p>मंदिर के भण्डार में मूल्यवान चीजें थीं जो यहोवा को समर्पित थीं, जैसे सोने और चांदी। मंदिर में मरम्मत और रखरखाव करने के लिए इस्तेमाल की जाने वाली इनमें से कुछ चीजों को भी वहां रखा जाता था।</p></li><li><p>“भण्डार” शब्द के अन्य अनुवाद हो सकते हैं, “अन्न भण्डारण का गोदाम” या “भोजन संरक्षण का स्थान” या “मूल्यवान वस्तुओं को सुरक्षित रखने का कक्ष”।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25609\" data-resourceType=\"UWTranslationWords\">अभिषेक करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25651\" data-resourceType=\"UWTranslationWords\">समर्पण करना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25732\" data-resourceType=\"UWTranslationWords\">अकाल</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25791\" data-resourceType=\"UWTranslationWords\">सोना</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25801\" data-resourceType=\"UWTranslationWords\">अन्न</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26237\" data-resourceType=\"UWTranslationWords\">चांदी</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">मन्दिर</span>)</p><h2>बाइबल के सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/2Chr0:0\">2 इतिहास 16:2–3</a></p></li><li><p><a href=\"https://ref.ly/Luke3:17\">लूका 3:17</a></p></li><li><p><a href=\"https://ref.ly/Matt3:12\">मत्ती 3:12</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन-संहिता 33:7</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H214, H618, H624, H4035, H4200, H4543, G596</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "16012044",
+          "start_ref_usfm": "NEH 12:44",
+          "end_ref": "16012044",
+          "end_ref_usfm": "NEH 12:44"
+        },
+        {
+          "start_ref": "18038022",
+          "start_ref_usfm": "JOB 38:22",
+          "end_ref": "18038022",
+          "end_ref_usfm": "JOB 38:22"
+        },
+        {
+          "start_ref": "19033007",
+          "start_ref_usfm": "PSA 33:7",
+          "end_ref": "19033007",
+          "end_ref_usfm": "PSA 33:7"
+        },
+        {
+          "start_ref": "20003010",
+          "start_ref_usfm": "PRO 3:10",
+          "end_ref": "20003010",
+          "end_ref_usfm": "PRO 3:10"
+        },
+        {
+          "start_ref": "20010002",
+          "start_ref_usfm": "PRO 10:2",
+          "end_ref": "20010002",
+          "end_ref_usfm": "PRO 10:2"
+        },
+        {
+          "start_ref": "40003012",
+          "start_ref_usfm": "MAT 3:12",
+          "end_ref": "40003012",
+          "end_ref_usfm": "MAT 3:12"
+        },
+        {
+          "start_ref": "42003017",
+          "start_ref_usfm": "LUK 3:17",
+          "end_ref": "42003017",
+          "end_ref_usfm": "LUK 3:17"
+        },
+        {
+          "start_ref": "14016002",
+          "start_ref_usfm": "2CH 16:2",
+          "end_ref": "14016003",
+          "end_ref_usfm": "2CH 16:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25609,
+          "content_id": 179688,
+          "label": "पवित्र करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25651,
+          "content_id": 179728,
+          "label": "समर्पण करना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25732,
+          "content_id": 179805,
+          "label": "अकाल",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25791,
+          "content_id": 179862,
+          "label": "सोना",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25801,
+          "content_id": 179872,
+          "label": "अन्न",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26237,
+          "content_id": 180291,
+          "label": "चाँदी",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 180337,
+          "label": "मन्दिर",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

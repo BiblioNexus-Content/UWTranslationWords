@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 27061,
+    "reference_id": 26203,
+    "title": "Scepter",
+    "media_type": "Text",
+    "index_reference": "scepter",
+    "language": "eng",
+    "content": "<h1>scepter</h1><h2>Definition:</h2><p>The term “scepter” refers to an ornamental rod or staff held by a ruler, such as a king.</p><ul><li><p>Scepters were originally a branch of wood with carved decorations. Later scepters were also made of precious metals such as gold.</p></li><li><p>The scepter was a symbol of royalty and authority and also symbolized the honor and dignity associated with a king.</p></li><li><p>In the Old Testament, God was described as having a scepter of righteousness because God rules as king over his people.</p></li><li><p>An Old Testament prophecy referred to the Messiah as a symbolic scepter that would come from Israel to rule over all nations.</p></li><li><p>This could also be translated as “ruling rod” or “ruler’s rod” or “king’s rod.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25492\" data-resourceType=\"UWTranslationWords\">authority</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">Christ</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26177\" data-resourceType=\"UWTranslationWords\">righteous</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Amos1:5\">Amos 1:5</a></p></li><li><p><a href=\"https://ref.ly/Esth4:11\">Esther 4:11</a></p></li><li><p><a href=\"https://ref.ly/Gen49:10\">Genesis 49:10</a></p></li><li><p><a href=\"https://ref.ly/Heb1:8\">Hebrews 1:8</a></p></li><li><p><a href=\"https://ref.ly/Num21:18\">Numbers 21:18</a></p></li><li><p><a href=\"https://ref.ly/Ps45:6\">Psalms 45:6</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2710, H4294, H7626, H8275, G44640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049010",
+          "start_ref_usfm": "GEN 49:10",
+          "end_ref": "01049010",
+          "end_ref_usfm": "GEN 49:10"
+        },
+        {
+          "start_ref": "04021018",
+          "start_ref_usfm": "NUM 21:18",
+          "end_ref": "04021018",
+          "end_ref_usfm": "NUM 21:18"
+        },
+        {
+          "start_ref": "17004011",
+          "start_ref_usfm": "EST 4:11",
+          "end_ref": "17004011",
+          "end_ref_usfm": "EST 4:11"
+        },
+        {
+          "start_ref": "19045006",
+          "start_ref_usfm": "PSA 45:6",
+          "end_ref": "19045006",
+          "end_ref_usfm": "PSA 45:6"
+        },
+        {
+          "start_ref": "30001005",
+          "start_ref_usfm": "AMO 1:5",
+          "end_ref": "30001005",
+          "end_ref_usfm": "AMO 1:5"
+        },
+        {
+          "start_ref": "58001008",
+          "start_ref_usfm": "HEB 1:8",
+          "end_ref": "58001008",
+          "end_ref_usfm": "HEB 1:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25492,
+          "content_id": 26350,
+          "label": "Authority",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 26445,
+          "label": "Christ",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26177,
+          "content_id": 27035,
+          "label": "Righteous",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

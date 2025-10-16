@@ -1,0 +1,52 @@
+[
+  {
+    "content_id": 466673,
+    "reference_id": 25495,
+    "title": "Hache",
+    "media_type": "Text",
+    "index_reference": "hache",
+    "language": "fra",
+    "content": "<h1>hache</h1><h2>Définition :</h2><p>Une hache est un outil ulisé pour couper ou découper des arbres ou du bois.</p><ul><li><p>Une hache a habituellement une longue manche en bois avec une large lame de métal fixé au bout.</p></li><li><p>Si dans votre culture il existe un instrument similaire à une hache, le nom de cet outil peut être utilisé pour traduire &apos;&apos;hache*&apos;&apos;</p></li><li><p>D&apos;autres moyens pour traduire ce terme peuvent inclure,&apos;&apos;outil pour couper le bois&apos;&apos; ou &apos;&apos;un outil en bois avec une lame&apos;&apos; ou &apos;&apos; outil en longue manche découpe-bois*&apos;&apos;</p></li><li><p>Dans un évènement de l&apos;Ancien Testament, la lame d&apos;une hache est tombée dans la rivière, ainsi il serait mieux si l&apos;outil qui est décrit avait une lame qui peut se dessérer de la manche en bois.</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12006005",
+          "start_ref_usfm": "2KI 6:5",
+          "end_ref": "12006005",
+          "end_ref_usfm": "2KI 6:5"
+        },
+        {
+          "start_ref": "19035003",
+          "start_ref_usfm": "PSA 35:3",
+          "end_ref": "19035003",
+          "end_ref_usfm": "PSA 35:3"
+        },
+        {
+          "start_ref": "40003010",
+          "start_ref_usfm": "MAT 3:10",
+          "end_ref": "40003010",
+          "end_ref_usfm": "MAT 3:10"
+        },
+        {
+          "start_ref": "42003009",
+          "start_ref_usfm": "LUK 3:9",
+          "end_ref": "42003009",
+          "end_ref_usfm": "LUK 3:9"
+        },
+        {
+          "start_ref": "07009048",
+          "start_ref_usfm": "JDG 9:48",
+          "end_ref": "07009049",
+          "end_ref_usfm": "JDG 9:49"
+        },
+        {
+          "start_ref": "11006007",
+          "start_ref_usfm": "1KI 6:7",
+          "end_ref": "11006008",
+          "end_ref_usfm": "1KI 6:8"
+        }
+      ],
+      "resource": []
+    }
+  }
+]

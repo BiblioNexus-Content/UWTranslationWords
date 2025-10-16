@@ -1,0 +1,95 @@
+[
+  {
+    "content_id": 26398,
+    "reference_id": 25540,
+    "title": "Bilhah",
+    "media_type": "Text",
+    "index_reference": "bilhah",
+    "language": "eng",
+    "content": "<h1>Bilhah</h1><h2>Facts:</h2><p>Bilhah was one of Jacob’s wives. She gave birth to Dan and Naphtali, two sons of Jacob whose descendants became tribes of Israel.</p><ul><li><p>Laban gave Bilhah to Rachel as a servant when Rachel married Jacob.</p></li><li><p>Because Rachel was not having children, she gave Bilhah to Jacob as a wife in order to produce children for her.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25881\" data-resourceType=\"UWTranslationWords\">Jacob</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26149\" data-resourceType=\"UWTranslationWords\">Rachel</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25641\" data-resourceType=\"UWTranslationWords\">Dan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26042\" data-resourceType=\"UWTranslationWords\">Naphtali</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Gen29:29\">Genesis 29:29</a></p></li><li><p><a href=\"https://ref.ly/Gen30:4\">Genesis 30:4</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H1090</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01029029",
+          "start_ref_usfm": "GEN 29:29",
+          "end_ref": "01029029",
+          "end_ref_usfm": "GEN 29:29"
+        },
+        {
+          "start_ref": "01030003",
+          "start_ref_usfm": "GEN 30:3",
+          "end_ref": "01030003",
+          "end_ref_usfm": "GEN 30:3"
+        },
+        {
+          "start_ref": "01030004",
+          "start_ref_usfm": "GEN 30:4",
+          "end_ref": "01030004",
+          "end_ref_usfm": "GEN 30:4"
+        },
+        {
+          "start_ref": "01030005",
+          "start_ref_usfm": "GEN 30:5",
+          "end_ref": "01030005",
+          "end_ref_usfm": "GEN 30:5"
+        },
+        {
+          "start_ref": "01030007",
+          "start_ref_usfm": "GEN 30:7",
+          "end_ref": "01030007",
+          "end_ref_usfm": "GEN 30:7"
+        },
+        {
+          "start_ref": "01035022",
+          "start_ref_usfm": "GEN 35:22",
+          "end_ref": "01035022",
+          "end_ref_usfm": "GEN 35:22"
+        },
+        {
+          "start_ref": "01035025",
+          "start_ref_usfm": "GEN 35:25",
+          "end_ref": "01035025",
+          "end_ref_usfm": "GEN 35:25"
+        },
+        {
+          "start_ref": "01037002",
+          "start_ref_usfm": "GEN 37:2",
+          "end_ref": "01037002",
+          "end_ref_usfm": "GEN 37:2"
+        },
+        {
+          "start_ref": "01046025",
+          "start_ref_usfm": "GEN 46:25",
+          "end_ref": "01046025",
+          "end_ref_usfm": "GEN 46:25"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25641,
+          "content_id": 26499,
+          "label": "Dan",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25881,
+          "content_id": 26739,
+          "label": "Jacob",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26042,
+          "content_id": 26900,
+          "label": "Naphtali",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26149,
+          "content_id": 27007,
+          "label": "Rachel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

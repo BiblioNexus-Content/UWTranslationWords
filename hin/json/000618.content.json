@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 179582,
+    "reference_id": 25494,
+    "title": "भय",
+    "media_type": "Text",
+    "index_reference": "भय",
+    "language": "hin",
+    "content": "<h1>भय, भययोग्य</h1><h2>परिभाषा:</h2><p>“भय” शब्द किसी महान, सामर्थी एवं भव्य बात को देखकर विस्मय और अगाध सम्मान की भावना के संदर्भ में है।</p><ul><li><p>“भय” शब्द किसी मनुष्य या वस्तु द्वारा भय उत्पन्न करने के संदर्भ में है।</p></li></ul><p>भविष्यद्वक्ता यहेजकेल ने परमेश्वर की महिमा का दर्शन देखा जो “भययोग्य” या “विस्मयकारी भय” का था।</p><ul><li><p>परमेश्वर की उपस्थिति के प्रति भय की प्रतिक्रिया के शब्द हैं, डरना, दण्डवत् करना या घुटने टेकना, मुंह छिपाना और कांपना।</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25735\" data-resourceType=\"UWTranslationWords\">भय</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25786\" data-resourceType=\"UWTranslationWords\">महिमा</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 17:19–21</a></p></li><li><p><a href=\"https://ref.ly/Gen28:16-Gen28:17\">उत्पत्ति 28:16–17</a></p></li><li><p><a href=\"https://ref.ly/Heb12:27-Heb12:29\">इब्रानियों 12:27–29</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन 022:22–23</a></p></li><li><p><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">भजन 147:4–5</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong&apos;s: H366, H1481, H3372, H6206, H7227, G2124</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "13017021",
+          "start_ref_usfm": "1CH 17:21",
+          "end_ref": "13017021",
+          "end_ref_usfm": "1CH 17:21"
+        },
+        {
+          "start_ref": "19022023",
+          "start_ref_usfm": "PSA 22:23",
+          "end_ref": "19022023",
+          "end_ref_usfm": "PSA 22:23"
+        },
+        {
+          "start_ref": "58012028",
+          "start_ref_usfm": "HEB 12:28",
+          "end_ref": "58012028",
+          "end_ref_usfm": "HEB 12:28"
+        },
+        {
+          "start_ref": "19147004",
+          "start_ref_usfm": "PSA 147:4",
+          "end_ref": "19147005",
+          "end_ref_usfm": "PSA 147:5"
+        },
+        {
+          "start_ref": "01028016",
+          "start_ref_usfm": "GEN 28:16",
+          "end_ref": "01028017",
+          "end_ref_usfm": "GEN 28:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25735,
+          "content_id": 179808,
+          "label": "डर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25786,
+          "content_id": 179857,
+          "label": "महिमा",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

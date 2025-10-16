@@ -1,0 +1,239 @@
+[
+  {
+    "content_id": 466678,
+    "reference_id": 25500,
+    "title": "Babylone",
+    "media_type": "Text",
+    "index_reference": "babylone",
+    "language": "fra",
+    "content": "<h1>Babylone, babyloniens</h1><h2>Données :</h2><p>La ville de Babylone était la capitale de l&apos;ancienne région de Babylonie, qui faisait aussi partie de l&apos;empire babylonien.</p><ul><li><p>Babylone était située le long de l&apos;Euphrate, dans la même région où la tour de Babel avait été construite des centaines d&apos;années auparavant.</p></li><li><p>Parfois, le mot « Babylone » fait référence à tout l&apos;Empire babylonien. Par exemple, le « roi de Babylone » a dirigé tout l&apos;empire, pas seulement la ville.</p></li><li><p>Les Babyloniens étaient un peuple puissant qui a attaqué le royaume de Juda et a gardé le peuple en exil en Babylonie pendant 70 ans.</p></li><li><p>Une partie de cette région s&apos;appelait « la Chaldée » et les gens qui y vivaient étaient les « Chaldéens ». En conséquence, le terme « Chaldée » a souvent été utilisé pour faire référence à la Babylonie. (Voir: [[: fr: ta: vol2: traduire: figs_synecdoche]])</p></li><li><p>Dans le Nouveau Testament, le terme « Babylone » est parfois utilisé comme une métaphore pour désigner les lieux, les gens, et les modes de pensée associées à l&apos;idolâtrie et à d&apos;autres comportements pécheurs.</p></li><li><p>L&apos;expression « Babylone la Grande » ou « la grande ville de Babylone » désigne métaphoriquement une ville ou une nation grande, riche, et péchéresse, tout comme la ville antique de Babylone l&apos;était. (See: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Metaphor</a>)</p></li></ul><p>(Voir aussi : (../names/babel.md), (../names/chaldeans.md), (../names/kingdomofjudah.md), (../names/nebuchadnezzar.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01010010",
+          "start_ref_usfm": "GEN 10:10",
+          "end_ref": "01010010",
+          "end_ref_usfm": "GEN 10:10"
+        },
+        {
+          "start_ref": "01011009",
+          "start_ref_usfm": "GEN 11:9",
+          "end_ref": "01011009",
+          "end_ref_usfm": "GEN 11:9"
+        },
+        {
+          "start_ref": "13009001",
+          "start_ref_usfm": "1CH 9:1",
+          "end_ref": "13009001",
+          "end_ref_usfm": "1CH 9:1"
+        },
+        {
+          "start_ref": "15001011",
+          "start_ref_usfm": "EZR 1:11",
+          "end_ref": "15001011",
+          "end_ref_usfm": "EZR 1:11"
+        },
+        {
+          "start_ref": "15002001",
+          "start_ref_usfm": "EZR 2:1",
+          "end_ref": "15002001",
+          "end_ref_usfm": "EZR 2:1"
+        },
+        {
+          "start_ref": "15004009",
+          "start_ref_usfm": "EZR 4:9",
+          "end_ref": "15004009",
+          "end_ref_usfm": "EZR 4:9"
+        },
+        {
+          "start_ref": "15005012",
+          "start_ref_usfm": "EZR 5:12",
+          "end_ref": "15005012",
+          "end_ref_usfm": "EZR 5:12"
+        },
+        {
+          "start_ref": "15005013",
+          "start_ref_usfm": "EZR 5:13",
+          "end_ref": "15005013",
+          "end_ref_usfm": "EZR 5:13"
+        },
+        {
+          "start_ref": "15005014",
+          "start_ref_usfm": "EZR 5:14",
+          "end_ref": "15005014",
+          "end_ref_usfm": "EZR 5:14"
+        },
+        {
+          "start_ref": "15005017",
+          "start_ref_usfm": "EZR 5:17",
+          "end_ref": "15005017",
+          "end_ref_usfm": "EZR 5:17"
+        },
+        {
+          "start_ref": "15006001",
+          "start_ref_usfm": "EZR 6:1",
+          "end_ref": "15006001",
+          "end_ref_usfm": "EZR 6:1"
+        },
+        {
+          "start_ref": "15006005",
+          "start_ref_usfm": "EZR 6:5",
+          "end_ref": "15006005",
+          "end_ref_usfm": "EZR 6:5"
+        },
+        {
+          "start_ref": "15007006",
+          "start_ref_usfm": "EZR 7:6",
+          "end_ref": "15007006",
+          "end_ref_usfm": "EZR 7:6"
+        },
+        {
+          "start_ref": "15007009",
+          "start_ref_usfm": "EZR 7:9",
+          "end_ref": "15007009",
+          "end_ref_usfm": "EZR 7:9"
+        },
+        {
+          "start_ref": "15007016",
+          "start_ref_usfm": "EZR 7:16",
+          "end_ref": "15007016",
+          "end_ref_usfm": "EZR 7:16"
+        },
+        {
+          "start_ref": "15008001",
+          "start_ref_usfm": "EZR 8:1",
+          "end_ref": "15008001",
+          "end_ref_usfm": "EZR 8:1"
+        },
+        {
+          "start_ref": "16007006",
+          "start_ref_usfm": "NEH 7:6",
+          "end_ref": "16007006",
+          "end_ref_usfm": "NEH 7:6"
+        },
+        {
+          "start_ref": "16013006",
+          "start_ref_usfm": "NEH 13:6",
+          "end_ref": "16013006",
+          "end_ref_usfm": "NEH 13:6"
+        },
+        {
+          "start_ref": "26012013",
+          "start_ref_usfm": "EZK 12:13",
+          "end_ref": "26012013",
+          "end_ref_usfm": "EZK 12:13"
+        },
+        {
+          "start_ref": "27001002",
+          "start_ref_usfm": "DAN 1:2",
+          "end_ref": "27001002",
+          "end_ref_usfm": "DAN 1:2"
+        },
+        {
+          "start_ref": "40001011",
+          "start_ref_usfm": "MAT 1:11",
+          "end_ref": "40001011",
+          "end_ref_usfm": "MAT 1:11"
+        },
+        {
+          "start_ref": "40001012",
+          "start_ref_usfm": "MAT 1:12",
+          "end_ref": "40001012",
+          "end_ref_usfm": "MAT 1:12"
+        },
+        {
+          "start_ref": "40001017",
+          "start_ref_usfm": "MAT 1:17",
+          "end_ref": "40001017",
+          "end_ref_usfm": "MAT 1:17"
+        },
+        {
+          "start_ref": "44007043",
+          "start_ref_usfm": "ACT 7:43",
+          "end_ref": "44007043",
+          "end_ref_usfm": "ACT 7:43"
+        },
+        {
+          "start_ref": "60005013",
+          "start_ref_usfm": "1PE 5:13",
+          "end_ref": "60005013",
+          "end_ref_usfm": "1PE 5:13"
+        },
+        {
+          "start_ref": "66014008",
+          "start_ref_usfm": "REV 14:8",
+          "end_ref": "66014008",
+          "end_ref_usfm": "REV 14:8"
+        },
+        {
+          "start_ref": "66016019",
+          "start_ref_usfm": "REV 16:19",
+          "end_ref": "66016019",
+          "end_ref_usfm": "REV 16:19"
+        },
+        {
+          "start_ref": "66017005",
+          "start_ref_usfm": "REV 17:5",
+          "end_ref": "66017005",
+          "end_ref_usfm": "REV 17:5"
+        },
+        {
+          "start_ref": "66018002",
+          "start_ref_usfm": "REV 18:2",
+          "end_ref": "66018002",
+          "end_ref_usfm": "REV 18:2"
+        },
+        {
+          "start_ref": "66018010",
+          "start_ref_usfm": "REV 18:10",
+          "end_ref": "66018010",
+          "end_ref_usfm": "REV 18:10"
+        },
+        {
+          "start_ref": "66018021",
+          "start_ref_usfm": "REV 18:21",
+          "end_ref": "66018021",
+          "end_ref_usfm": "REV 18:21"
+        },
+        {
+          "start_ref": "12017024",
+          "start_ref_usfm": "2KI 17:24",
+          "end_ref": "12017026",
+          "end_ref_usfm": "2KI 17:26"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25499,
+          "content_id": 466677,
+          "label": "Babel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25582,
+          "content_id": 466750,
+          "label": "Chaldéé ",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26047,
+          "content_id": 467184,
+          "label": "Nébucadnetsar",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

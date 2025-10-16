@@ -1,0 +1,149 @@
+[
+  {
+    "content_id": 27228,
+    "reference_id": 26370,
+    "title": "Zechariah OT",
+    "media_type": "Text",
+    "index_reference": "zechariah ot",
+    "language": "eng",
+    "content": "<h1>Zechariah (OT)</h1><h2>Facts:</h2><p>Zechariah was a prophet who prophesied during the reign of King Darius I of Persia. The Old Testament book of Zechariah contains his prophecies, which urged the returning exiles to rebuild the temple.</p><ul><li><p>The prophet Zechariah lived during the same time period as Ezra, Nehemiah, Zerrubbabel and Haggai. He was also mentioned by Jesus as the last of the prophets who were murdered during Old Testament times.</p></li><li><p>Another man named Zechariah was a gatekeeper at the tent of meeting during the time of David.</p></li><li><p>One of King Jehoshaphat’s sons who was named Zechariah was murdered by his brother Jehoram.</p></li><li><p>Zechariah was the name of a priest who was stoned by the people of Israel when he rebuked them for their idol worship.</p></li><li><p>King Zechariah was the son of Jeroboam and he reigned over Israel for only six months before being murdered.</p></li></ul><p>(Translation Suggestions: Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25643\" data-resourceType=\"UWTranslationWords\">Darius</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25724\" data-resourceType=\"UWTranslationWords\">Ezra</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25892\" data-resourceType=\"UWTranslationWords\">Jehoshaphat</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25897\" data-resourceType=\"UWTranslationWords\">Jeroboam</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26049\" data-resourceType=\"UWTranslationWords\">Nehemiah</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26373\" data-resourceType=\"UWTranslationWords\">Zerubbabel</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Ezra5:1-Ezra5:2\">Ezra 5:1–2</a></p></li><li><p><a href=\"https://ref.ly/Matt23:34-Matt23:36\">Matthew 23:34–36</a></p></li><li><p><a href=\"https://ref.ly/Zech1:1-Zech1:3\">Zechariah 1:1–3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2148</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005001",
+          "end_ref_usfm": "EZR 5:1"
+        },
+        {
+          "start_ref": "15006014",
+          "start_ref_usfm": "EZR 6:14",
+          "end_ref": "15006014",
+          "end_ref_usfm": "EZR 6:14"
+        },
+        {
+          "start_ref": "15008003",
+          "start_ref_usfm": "EZR 8:3",
+          "end_ref": "15008003",
+          "end_ref_usfm": "EZR 8:3"
+        },
+        {
+          "start_ref": "15008011",
+          "start_ref_usfm": "EZR 8:11",
+          "end_ref": "15008011",
+          "end_ref_usfm": "EZR 8:11"
+        },
+        {
+          "start_ref": "15008016",
+          "start_ref_usfm": "EZR 8:16",
+          "end_ref": "15008016",
+          "end_ref_usfm": "EZR 8:16"
+        },
+        {
+          "start_ref": "15010026",
+          "start_ref_usfm": "EZR 10:26",
+          "end_ref": "15010026",
+          "end_ref_usfm": "EZR 10:26"
+        },
+        {
+          "start_ref": "16008004",
+          "start_ref_usfm": "NEH 8:4",
+          "end_ref": "16008004",
+          "end_ref_usfm": "NEH 8:4"
+        },
+        {
+          "start_ref": "16011004",
+          "start_ref_usfm": "NEH 11:4",
+          "end_ref": "16011004",
+          "end_ref_usfm": "NEH 11:4"
+        },
+        {
+          "start_ref": "16011005",
+          "start_ref_usfm": "NEH 11:5",
+          "end_ref": "16011005",
+          "end_ref_usfm": "NEH 11:5"
+        },
+        {
+          "start_ref": "16011012",
+          "start_ref_usfm": "NEH 11:12",
+          "end_ref": "16011012",
+          "end_ref_usfm": "NEH 11:12"
+        },
+        {
+          "start_ref": "16012016",
+          "start_ref_usfm": "NEH 12:16",
+          "end_ref": "16012016",
+          "end_ref_usfm": "NEH 12:16"
+        },
+        {
+          "start_ref": "16012035",
+          "start_ref_usfm": "NEH 12:35",
+          "end_ref": "16012035",
+          "end_ref_usfm": "NEH 12:35"
+        },
+        {
+          "start_ref": "16012041",
+          "start_ref_usfm": "NEH 12:41",
+          "end_ref": "16012041",
+          "end_ref_usfm": "NEH 12:41"
+        },
+        {
+          "start_ref": "15005001",
+          "start_ref_usfm": "EZR 5:1",
+          "end_ref": "15005002",
+          "end_ref_usfm": "EZR 5:2"
+        },
+        {
+          "start_ref": "40023034",
+          "start_ref_usfm": "MAT 23:34",
+          "end_ref": "40023036",
+          "end_ref_usfm": "MAT 23:36"
+        },
+        {
+          "start_ref": "38001001",
+          "start_ref_usfm": "ZEC 1:1",
+          "end_ref": "38001003",
+          "end_ref_usfm": "ZEC 1:3"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25643,
+          "content_id": 26501,
+          "label": "Darius",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25724,
+          "content_id": 26582,
+          "label": "Ezra",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25892,
+          "content_id": 26750,
+          "label": "Jehoshaphat",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25897,
+          "content_id": 26755,
+          "label": "Jeroboam",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26049,
+          "content_id": 26907,
+          "label": "Nehemiah",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26373,
+          "content_id": 27231,
+          "label": "Zerubbabel",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

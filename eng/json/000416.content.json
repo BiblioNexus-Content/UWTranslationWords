@@ -1,0 +1,107 @@
+[
+  {
+    "content_id": 26690,
+    "reference_id": 25832,
+    "title": "Herod the Great",
+    "media_type": "Text",
+    "index_reference": "herod the great",
+    "language": "eng",
+    "content": "<h1>Herod, Herod the Great</h1><h2>Facts:</h2><p>Herod the Great was ruling over Judea at the time Jesus was born. He was the first of several Edomite rulers named Herod who ruled over parts of the Roman Empire.</p><ul><li><p>His ancestors converted to Judaism and he was raised as a Jew.</p></li><li><p>Caesar Augustus named him “King Herod” even though he was not a true king. He ruled over the Jews in Judea for 33 years.</p></li><li><p>Herod the Great was known for the beautiful buildings he ordered to be built and for the rebuilding of the Jewish temple in Jerusalem.</p></li><li><p>This Herod was very cruel and had many people killed. When he heard that a “king of the Jews” had been born in Bethlehem, he had all the baby boys in that town killed.</p></li><li><p>His sons Herod Antipas and Herod Philip and his grandson Herod Agrippa also became Roman rulers. His great-grandson Herod Agrippa II (called “King Agrippa”) ruled over the entire area of Judea.</p></li></ul><p>(See How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25830\" data-resourceType=\"UWTranslationWords\">Herod Antipas</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25928\" data-resourceType=\"UWTranslationWords\">Judea</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25938\" data-resourceType=\"UWTranslationWords\">king</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26284\" data-resourceType=\"UWTranslationWords\">temple</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Matt2:3\">Matthew 2:3</a></p></li><li><p><a href=\"https://ref.ly/Matt2:12\">Matthew 2:12</a></p></li><li><p><a href=\"https://ref.ly/Matt2:16\">Matthew 2:16</a></p></li><li><p><a href=\"https://ref.ly/Matt2:20\">Matthew 2:20</a></p></li><li><p><a href=\"https://ref.ly/Matt2:22\">Matthew 2:22</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G22640</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40002001",
+          "start_ref_usfm": "MAT 2:1",
+          "end_ref": "40002001",
+          "end_ref_usfm": "MAT 2:1"
+        },
+        {
+          "start_ref": "40002003",
+          "start_ref_usfm": "MAT 2:3",
+          "end_ref": "40002003",
+          "end_ref_usfm": "MAT 2:3"
+        },
+        {
+          "start_ref": "40002007",
+          "start_ref_usfm": "MAT 2:7",
+          "end_ref": "40002007",
+          "end_ref_usfm": "MAT 2:7"
+        },
+        {
+          "start_ref": "40002012",
+          "start_ref_usfm": "MAT 2:12",
+          "end_ref": "40002012",
+          "end_ref_usfm": "MAT 2:12"
+        },
+        {
+          "start_ref": "40002013",
+          "start_ref_usfm": "MAT 2:13",
+          "end_ref": "40002013",
+          "end_ref_usfm": "MAT 2:13"
+        },
+        {
+          "start_ref": "40002015",
+          "start_ref_usfm": "MAT 2:15",
+          "end_ref": "40002015",
+          "end_ref_usfm": "MAT 2:15"
+        },
+        {
+          "start_ref": "40002016",
+          "start_ref_usfm": "MAT 2:16",
+          "end_ref": "40002016",
+          "end_ref_usfm": "MAT 2:16"
+        },
+        {
+          "start_ref": "40002019",
+          "start_ref_usfm": "MAT 2:19",
+          "end_ref": "40002019",
+          "end_ref_usfm": "MAT 2:19"
+        },
+        {
+          "start_ref": "40002020",
+          "start_ref_usfm": "MAT 2:20",
+          "end_ref": "40002020",
+          "end_ref_usfm": "MAT 2:20"
+        },
+        {
+          "start_ref": "40002022",
+          "start_ref_usfm": "MAT 2:22",
+          "end_ref": "40002022",
+          "end_ref_usfm": "MAT 2:22"
+        },
+        {
+          "start_ref": "42001005",
+          "start_ref_usfm": "LUK 1:5",
+          "end_ref": "42001005",
+          "end_ref_usfm": "LUK 1:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25830,
+          "content_id": 26688,
+          "label": "Herodantipas",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25928,
+          "content_id": 26786,
+          "label": "Judea",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25938,
+          "content_id": 26796,
+          "label": "King",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26284,
+          "content_id": 27142,
+          "label": "Temple",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

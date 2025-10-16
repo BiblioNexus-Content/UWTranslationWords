@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 27153,
+    "reference_id": 26295,
+    "title": "Thessalonica",
+    "media_type": "Text",
+    "index_reference": "thessalonica",
+    "language": "eng",
+    "content": "<h1>Thessalonica, Thessalonian</h1><h2>Facts:</h2><p>In New Testament times, Thessalonica was the capital city of Macedonia in the ancient Roman empire. The people living in that city were called the “Thessalonians.”</p><ul><li><p>The city of Thessalonica was an important seaport and was also located along a major road that connected Rome to the eastern part of the Roman empire.</p></li><li><p>Paul, along with Silas and Timothy, visited Thessalonica on his second missionary journey and as a result, a church was established there. Later, Paul also visited this city on his third missionary journey.</p></li><li><p>Paul wrote two letters to the Christians in Thessalonica. These letters (1 Thessalonians and 2 Thessalonians) are included in the New Testament.</p></li></ul><p>(Translation suggestions: How to Translate Names)</p><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25986\" data-resourceType=\"UWTranslationWords\">Macedonia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26079\" data-resourceType=\"UWTranslationWords\">Paul</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26181\" data-resourceType=\"UWTranslationWords\">Rome</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Thess1:1\">1 Thessalonians 1:1</a></p></li><li><p><a href=\"https://ref.ly/2Thess1:1\">2 Thessalonians 1:1</a></p></li><li><p><a href=\"https://ref.ly/2Tim4:9-2Tim4:10\">2 Timothy 4:9–10</a></p></li><li><p><a href=\"https://ref.ly/Acts17:1\">Acts 17:1</a></p></li><li><p><a href=\"https://ref.ly/Phil4:14-Phil4:17\">Philippians 4:14–17</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: G23310, G23320</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017001",
+          "start_ref_usfm": "ACT 17:1",
+          "end_ref": "44017001",
+          "end_ref_usfm": "ACT 17:1"
+        },
+        {
+          "start_ref": "44017011",
+          "start_ref_usfm": "ACT 17:11",
+          "end_ref": "44017011",
+          "end_ref_usfm": "ACT 17:11"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017013",
+          "end_ref_usfm": "ACT 17:13"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "44027002",
+          "start_ref_usfm": "ACT 27:2",
+          "end_ref": "44027002",
+          "end_ref_usfm": "ACT 27:2"
+        },
+        {
+          "start_ref": "50004016",
+          "start_ref_usfm": "PHP 4:16",
+          "end_ref": "50004016",
+          "end_ref_usfm": "PHP 4:16"
+        },
+        {
+          "start_ref": "52001001",
+          "start_ref_usfm": "1TH 1:1",
+          "end_ref": "52001001",
+          "end_ref_usfm": "1TH 1:1"
+        },
+        {
+          "start_ref": "53001001",
+          "start_ref_usfm": "2TH 1:1",
+          "end_ref": "53001001",
+          "end_ref_usfm": "2TH 1:1"
+        },
+        {
+          "start_ref": "55004010",
+          "start_ref_usfm": "2TI 4:10",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "55004009",
+          "start_ref_usfm": "2TI 4:9",
+          "end_ref": "55004010",
+          "end_ref_usfm": "2TI 4:10"
+        },
+        {
+          "start_ref": "50004014",
+          "start_ref_usfm": "PHP 4:14",
+          "end_ref": "50004017",
+          "end_ref_usfm": "PHP 4:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25986,
+          "content_id": 26844,
+          "label": "Macedonia",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 26937,
+          "label": "Paul",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26181,
+          "content_id": 27039,
+          "label": "Rome",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

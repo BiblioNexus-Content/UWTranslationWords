@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 27211,
+    "reference_id": 26353,
+    "title": "Wolf",
+    "media_type": "Text",
+    "index_reference": "wolf",
+    "language": "eng",
+    "content": "<h1>wolf, wild dogs</h1><h2>Definition:</h2><p>A wolf is a fierce, meat-eating animal that is similar to a wild dog.</p><ul><li><p>Wolves usually hunt in groups and stalk their prey in a clever and stealthy manner.</p></li><li><p>In the Bible, the term “wolves” is used figuratively to refer to false teachers or false prophets who destroy believers, who are compared to sheep. False teaching causes people to believe wrong things that bring harm to them.</p></li><li><p>This comparison is based on the fact that sheep are especially vulnerable to being attacked and eaten by wolves, because they are weak and cannot defend themselves.</p></li></ul><h2>Translation Suggestion</h2><ul><li><p>This term could be translated as “wild dog” or “wild animal.”</p></li><li><p>Other names for wild dogs could be “jackal” or “coyote.”</p></li><li><p>When used figuratively to refer to people, this could be translated as “evil people who harm people like animals that attack sheep.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25718\" data-resourceType=\"UWTranslationWords\">evil</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25729\" data-resourceType=\"UWTranslationWords\">false prophet</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26224\" data-resourceType=\"UWTranslationWords\">sheep</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_teach\" data-resourceType=\"UWTranslationWords\">teach</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Acts20:29\">Acts 20:29</a></p></li><li><p><a href=\"https://ref.ly/Isa11:7\">Isaiah 11:7</a></p></li><li><p><a href=\"https://ref.ly/John10:11-John10:13\">John 10:11–13</a></p></li><li><p><a href=\"https://ref.ly/Luke10:3\">Luke 10:3</a></p></li><li><p><a href=\"https://ref.ly/Matt7:15\">Matthew 7:15</a></p></li><li><p><a href=\"https://ref.ly/Zeph3:3\">Zephaniah 3:3</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H2061, H3611, G30740</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01049027",
+          "start_ref_usfm": "GEN 49:27",
+          "end_ref": "01049027",
+          "end_ref_usfm": "GEN 49:27"
+        },
+        {
+          "start_ref": "23011007",
+          "start_ref_usfm": "ISA 11:7",
+          "end_ref": "23011007",
+          "end_ref_usfm": "ISA 11:7"
+        },
+        {
+          "start_ref": "36003003",
+          "start_ref_usfm": "ZEP 3:3",
+          "end_ref": "36003003",
+          "end_ref_usfm": "ZEP 3:3"
+        },
+        {
+          "start_ref": "40007015",
+          "start_ref_usfm": "MAT 7:15",
+          "end_ref": "40007015",
+          "end_ref_usfm": "MAT 7:15"
+        },
+        {
+          "start_ref": "40010016",
+          "start_ref_usfm": "MAT 10:16",
+          "end_ref": "40010016",
+          "end_ref_usfm": "MAT 10:16"
+        },
+        {
+          "start_ref": "42010003",
+          "start_ref_usfm": "LUK 10:3",
+          "end_ref": "42010003",
+          "end_ref_usfm": "LUK 10:3"
+        },
+        {
+          "start_ref": "43010012",
+          "start_ref_usfm": "JHN 10:12",
+          "end_ref": "43010012",
+          "end_ref_usfm": "JHN 10:12"
+        },
+        {
+          "start_ref": "44020029",
+          "start_ref_usfm": "ACT 20:29",
+          "end_ref": "44020029",
+          "end_ref_usfm": "ACT 20:29"
+        },
+        {
+          "start_ref": "43010011",
+          "start_ref_usfm": "JHN 10:11",
+          "end_ref": "43010013",
+          "end_ref_usfm": "JHN 10:13"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25718,
+          "content_id": 26576,
+          "label": "Evil",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25729,
+          "content_id": 26587,
+          "label": "False Prophet",
+          "language": "eng"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 27082,
+          "label": "Sheep",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

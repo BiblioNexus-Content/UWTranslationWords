@@ -1,0 +1,137 @@
+[
+  {
+    "content_id": 467155,
+    "reference_id": 26018,
+    "title": "Madian",
+    "media_type": "Text",
+    "index_reference": "madian",
+    "language": "fra",
+    "content": "<h1>Madian, Madianites</h1><h2>Données :</h2><p>Madian était un fils d&apos;Abraham et de sa femme Ketura. Madian était l&apos;ancêtre d&apos;un peuple situé dans le désert d&apos;Arabie du nord, au sud du pays de Canaan. Les descendants de Madian sont appelés « Madianites ».</p><ul><li><p>Lorsque Moïse a quitté l&apos;Égypte pour la première fois, il est allé dans la région de Madian où il a rencontré les filles de Jéthro et les a aidées à abreuver leurs troupeaux. Plus tard, Moïse a épousé une des filles de Jethro.</p></li><li><p>Joseph a été emmené en Égypte par un groupe de marchands d&apos;esclaves madianites.</p></li><li><p>Plusieurs années plus tard, les Madianites ont attaqué les Israélites et ont mené des attaques surprises contre eux dans le pays de Canaan. Gédéon a conduit les Israélites à les vaincre.</p></li><li><p>Beaucoup de tribus arabes modernes sont des descendants de ce peuple.</p></li></ul><p>(See also (../names/arabia.md), (../names/egypt.md), (../other/flock.md), (../names/gideon.md), (../names/jethro.md), (../names/moses.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01025002",
+          "start_ref_usfm": "GEN 25:2",
+          "end_ref": "01025002",
+          "end_ref_usfm": "GEN 25:2"
+        },
+        {
+          "start_ref": "01025004",
+          "start_ref_usfm": "GEN 25:4",
+          "end_ref": "01025004",
+          "end_ref_usfm": "GEN 25:4"
+        },
+        {
+          "start_ref": "01036035",
+          "start_ref_usfm": "GEN 36:35",
+          "end_ref": "01036035",
+          "end_ref_usfm": "GEN 36:35"
+        },
+        {
+          "start_ref": "01037028",
+          "start_ref_usfm": "GEN 37:28",
+          "end_ref": "01037028",
+          "end_ref_usfm": "GEN 37:28"
+        },
+        {
+          "start_ref": "01037036",
+          "start_ref_usfm": "GEN 37:36",
+          "end_ref": "01037036",
+          "end_ref_usfm": "GEN 37:36"
+        },
+        {
+          "start_ref": "02002015",
+          "start_ref_usfm": "EXO 2:15",
+          "end_ref": "02002015",
+          "end_ref_usfm": "EXO 2:15"
+        },
+        {
+          "start_ref": "02002016",
+          "start_ref_usfm": "EXO 2:16",
+          "end_ref": "02002016",
+          "end_ref_usfm": "EXO 2:16"
+        },
+        {
+          "start_ref": "02003001",
+          "start_ref_usfm": "EXO 3:1",
+          "end_ref": "02003001",
+          "end_ref_usfm": "EXO 3:1"
+        },
+        {
+          "start_ref": "02004019",
+          "start_ref_usfm": "EXO 4:19",
+          "end_ref": "02004019",
+          "end_ref_usfm": "EXO 4:19"
+        },
+        {
+          "start_ref": "02018001",
+          "start_ref_usfm": "EXO 18:1",
+          "end_ref": "02018001",
+          "end_ref_usfm": "EXO 18:1"
+        },
+        {
+          "start_ref": "07007001",
+          "start_ref_usfm": "JDG 7:1",
+          "end_ref": "07007001",
+          "end_ref_usfm": "JDG 7:1"
+        },
+        {
+          "start_ref": "44007029",
+          "start_ref_usfm": "ACT 7:29",
+          "end_ref": "44007029",
+          "end_ref_usfm": "ACT 7:29"
+        },
+        {
+          "start_ref": "44007030",
+          "start_ref_usfm": "ACT 7:30",
+          "end_ref": "44007030",
+          "end_ref_usfm": "ACT 7:30"
+        },
+        {
+          "start_ref": "01025001",
+          "start_ref_usfm": "GEN 25:1",
+          "end_ref": "01025004",
+          "end_ref_usfm": "GEN 25:4"
+        },
+        {
+          "start_ref": "01036034",
+          "start_ref_usfm": "GEN 36:34",
+          "end_ref": "01036036",
+          "end_ref_usfm": "GEN 36:36"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25470,
+          "content_id": 466649,
+          "label": "Arabie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 466929,
+          "label": "Gédéon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25901,
+          "content_id": 467046,
+          "label": "Jethro",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26031,
+          "content_id": 467168,
+          "label": "Moïse",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

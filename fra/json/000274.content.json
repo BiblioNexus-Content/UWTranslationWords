@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466862,
+    "reference_id": 25702,
+    "title": "En Gedi",
+    "media_type": "Text",
+    "index_reference": "en gedi",
+    "language": "fra",
+    "content": "<h1>En Gedi</h1><h2>Définition :</h2><p>En Gedi est le nom d&apos;une ville dans le désert de Juda au Sud-Est de Jérusalem.</p><ul><li><p>En Gedi était situé sur la côte occidentale de la Mer Salée.</p></li><li><p>Une part de son nom signifie &quot;fontaine&quot;signifiant un jet d&apos;eau qui coule de la ville dans la mer.</p></li><li><p>En Gedi était connu avoir de jolies vignes et autres terrains fertiles ,probablement à cause de l&apos;eau qui venait du jet d&apos;eau.</p></li><li><p>Il y avait des forteresses en En Gedi où David s&apos;est échappé quand il était pourchassé par le roi Saül.</p></li></ul><p>(Voir aussi : (../names/david.md), (../other/desert.md), (../other/fountain.md), (../names/judah.md), (../other/rest.md), (../names/saltsea.md), (../names/saul.md), (../other/stronghold.md), (../other/vineyard.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "14020002",
+          "start_ref_usfm": "2CH 20:2",
+          "end_ref": "14020002",
+          "end_ref_usfm": "2CH 20:2"
+        },
+        {
+          "start_ref": "22001014",
+          "start_ref_usfm": "SNG 1:14",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        },
+        {
+          "start_ref": "22001012",
+          "start_ref_usfm": "SNG 1:12",
+          "end_ref": "22001014",
+          "end_ref_usfm": "SNG 1:14"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25756,
+          "content_id": 466907,
+          "label": "Fontaine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26191,
+          "content_id": 467310,
+          "label": "Mer Salée",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26200,
+          "content_id": 467319,
+          "label": "Saül (AT)",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26266,
+          "content_id": 467381,
+          "label": "Forteresse",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26336,
+          "content_id": 467445,
+          "label": "Vigne (cep)",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

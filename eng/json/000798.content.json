@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 27071,
+    "reference_id": 26213,
+    "title": "Self Control",
+    "media_type": "Text",
+    "index_reference": "self control",
+    "language": "eng",
+    "content": "<h1>self-control, self-controlled</h1><h2>Definition:</h2><p>Self-control is the ability to control one’s behavior in order to avoid sinning.</p><ul><li><p>It refers to good behavior, that is, avoiding sinful thoughts, speech, and actions.</p></li><li><p>Self-control is a fruit or characteristic that the Holy Spirit gives to Christians.</p></li><li><p>A person who is using self-control is able to stop himself from doing something wrong that he may want to do. God is the one who enables a person to have self-control.</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25760\" data-resourceType=\"UWTranslationWords\">fruit</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Holy Spirit</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/1Cor7:8-1Cor7:9\">1 Corinthians 7:8–9</a></p></li><li><p><a href=\"https://ref.ly/2Pet1:5-2Pet1:7\">2 Peter 1:5–7</a></p></li><li><p><a href=\"https://ref.ly/2Tim3:1-2Tim3:4\">2 Timothy 3:1–4</a></p></li><li><p><a href=\"https://ref.ly/Gal5:23\">Galatians 5:23</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H4623, H7307, G01920, G01930, G14660, G14670, G14680, G49970</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44024025",
+          "start_ref_usfm": "ACT 24:25",
+          "end_ref": "44024025",
+          "end_ref_usfm": "ACT 24:25"
+        },
+        {
+          "start_ref": "46007005",
+          "start_ref_usfm": "1CO 7:5",
+          "end_ref": "46007005",
+          "end_ref_usfm": "1CO 7:5"
+        },
+        {
+          "start_ref": "46007009",
+          "start_ref_usfm": "1CO 7:9",
+          "end_ref": "46007009",
+          "end_ref_usfm": "1CO 7:9"
+        },
+        {
+          "start_ref": "46009025",
+          "start_ref_usfm": "1CO 9:25",
+          "end_ref": "46009025",
+          "end_ref_usfm": "1CO 9:25"
+        },
+        {
+          "start_ref": "48005023",
+          "start_ref_usfm": "GAL 5:23",
+          "end_ref": "48005023",
+          "end_ref_usfm": "GAL 5:23"
+        },
+        {
+          "start_ref": "54002009",
+          "start_ref_usfm": "1TI 2:9",
+          "end_ref": "54002009",
+          "end_ref_usfm": "1TI 2:9"
+        },
+        {
+          "start_ref": "54003002",
+          "start_ref_usfm": "1TI 3:2",
+          "end_ref": "54003002",
+          "end_ref_usfm": "1TI 3:2"
+        },
+        {
+          "start_ref": "55001007",
+          "start_ref_usfm": "2TI 1:7",
+          "end_ref": "55001007",
+          "end_ref_usfm": "2TI 1:7"
+        },
+        {
+          "start_ref": "56001008",
+          "start_ref_usfm": "TIT 1:8",
+          "end_ref": "56001008",
+          "end_ref_usfm": "TIT 1:8"
+        },
+        {
+          "start_ref": "56002005",
+          "start_ref_usfm": "TIT 2:5",
+          "end_ref": "56002005",
+          "end_ref_usfm": "TIT 2:5"
+        },
+        {
+          "start_ref": "56002006",
+          "start_ref_usfm": "TIT 2:6",
+          "end_ref": "56002006",
+          "end_ref_usfm": "TIT 2:6"
+        },
+        {
+          "start_ref": "61001006",
+          "start_ref_usfm": "2PE 1:6",
+          "end_ref": "61001006",
+          "end_ref_usfm": "2PE 1:6"
+        },
+        {
+          "start_ref": "46007008",
+          "start_ref_usfm": "1CO 7:8",
+          "end_ref": "46007009",
+          "end_ref_usfm": "1CO 7:9"
+        },
+        {
+          "start_ref": "61001005",
+          "start_ref_usfm": "2PE 1:5",
+          "end_ref": "61001007",
+          "end_ref_usfm": "2PE 1:7"
+        },
+        {
+          "start_ref": "55003001",
+          "start_ref_usfm": "2TI 3:1",
+          "end_ref": "55003004",
+          "end_ref_usfm": "2TI 3:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25760,
+          "content_id": 26618,
+          "label": "Fruit",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 26702,
+          "label": "Holy Spirit",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

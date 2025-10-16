@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 467052,
+    "reference_id": 25907,
+    "title": "Joas",
+    "media_type": "Text",
+    "index_reference": "joas",
+    "language": "fra",
+    "content": "<h1>Joas</h1><h2>Définition :</h2><p>&quot;Joas était le nom de plusieurs hommes dans l&apos;Ancien Testament.</p><ul><li><p>Un Joas était le père du libérateur Israélite, Gédeon.</p></li><li><p>Un autre homme nommé Joas était un descendant du plus jeune fils de Jacob, Benjamin.</p></li><li><p>Le Joas le plus connu est devenu roi de Juda, à l&apos;âge de sept ans* Il était le fils d&apos;Achazia, roi de Juda, qui avait été assassiné.</p></li><li><p>Lorsqu&apos;il était très jeune, la tante de Joas l&apos;a sauvé, en le cachant jusqu&apos;à ce qu&apos;il soit en âge d&apos;être couronné roi.</p></li><li><p>Au début de son règne, le roi Joas a obéi à Dieu* Mais plus tard, il n&apos;a pas obéi à Dieu et les Israélites ont commencé à adorer à nouveau des idoles.</p></li><li><p>Après avoir été blessé dans la bataille, le roi Joas fut trahi et tué par deux des fonctionnaires qui travaillaient pour lui.</p></li><li><p>Notez que ce roi était différent du roi Joas d&apos;Israël qui a régné autour de la même période.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahaziah.md), (../kt/altar.md), (../names/benjamin.md), (../kt/falsegod.md), (../names/gideon.md), (../other/highplaces.md), (../kt/falsegod.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12011003",
+          "start_ref_usfm": "2KI 11:3",
+          "end_ref": "12011003",
+          "end_ref_usfm": "2KI 11:3"
+        },
+        {
+          "start_ref": "30001001",
+          "start_ref_usfm": "AMO 1:1",
+          "end_ref": "30001001",
+          "end_ref_usfm": "AMO 1:1"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14018025",
+          "start_ref_usfm": "2CH 18:25",
+          "end_ref": "14018027",
+          "end_ref_usfm": "2CH 18:27"
+        },
+        {
+          "start_ref": "07006011",
+          "start_ref_usfm": "JDG 6:11",
+          "end_ref": "07006012",
+          "end_ref_usfm": "JDG 6:12"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25441,
+          "content_id": 466622,
+          "label": "Achazia",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25447,
+          "content_id": 466628,
+          "label": "Autel",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25526,
+          "content_id": 466699,
+          "label": "Benjamin",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 466929,
+          "label": "Gédéon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25835,
+          "content_id": 466982,
+          "label": "Les Hauts Lieux",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

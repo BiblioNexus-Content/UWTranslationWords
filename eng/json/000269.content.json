@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 26541,
+    "reference_id": 25683,
+    "title": "Drink Offering",
+    "media_type": "Text",
+    "index_reference": "drink offering",
+    "language": "eng",
+    "content": "<h1>drink offering</h1><h2>Definition:</h2><p>A drink offering was a sacrifice to God that involved pouring wine on an altar. It was often offered together with a burnt offering and a grain offering.</p><ul><li><p>Paul refers to his life as being poured out like a drink offering. This means that he was totally dedicated to serving God and telling people about Jesus, even though he knew he would suffer and probably be killed because of that.</p></li><li><p>Jesus’ death on the cross was the ultimate drink offering, as his blood was poured out on the cross for our sins.</p></li></ul><h2>Translation Suggestions:</h2><ul><li><p>Another way to translate this term could be “offering of grape wine.”</p></li><li><p>When Paul says he is being “poured out like an offering” this could also be translated as “I am completely committed to teaching God’s message to people, just like an offering of wine is poured out completely on the altar.”</p></li></ul><p>(See also: <span data-bnType=\"resourceReference\" data-resourceId=\"25560\" data-resourceType=\"UWTranslationWords\">burnt offering</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25802\" data-resourceType=\"UWTranslationWords\">grain offering</span>)</p><h2>Bible References:</h2><ul><li><p><a href=\"https://ref.ly/Exod25:29\">Exodus 25:29</a></p></li><li><p><a href=\"https://ref.ly/Ezek45:16-Ezek45:17\">Ezekiel 45:16–17</a></p></li><li><p><a href=\"https://ref.ly/Gen35:14\">Genesis 35:14</a></p></li><li><p><a href=\"https://ref.ly/Jer7:16-Jer7:18\">Jeremiah 7:16–18</a></p></li><li><p><a href=\"https://ref.ly/Num5:15\">Numbers 5:15</a></p></li></ul><h2>Word Data:</h2><ul><li><p>Strong’s: H5257, H5261, H5262</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01035014",
+          "start_ref_usfm": "GEN 35:14",
+          "end_ref": "01035014",
+          "end_ref_usfm": "GEN 35:14"
+        },
+        {
+          "start_ref": "02025029",
+          "start_ref_usfm": "EXO 25:29",
+          "end_ref": "02025029",
+          "end_ref_usfm": "EXO 25:29"
+        },
+        {
+          "start_ref": "02029040",
+          "start_ref_usfm": "EXO 29:40",
+          "end_ref": "02029040",
+          "end_ref_usfm": "EXO 29:40"
+        },
+        {
+          "start_ref": "02029041",
+          "start_ref_usfm": "EXO 29:41",
+          "end_ref": "02029041",
+          "end_ref_usfm": "EXO 29:41"
+        },
+        {
+          "start_ref": "02030009",
+          "start_ref_usfm": "EXO 30:9",
+          "end_ref": "02030009",
+          "end_ref_usfm": "EXO 30:9"
+        },
+        {
+          "start_ref": "04005015",
+          "start_ref_usfm": "NUM 5:15",
+          "end_ref": "04005015",
+          "end_ref_usfm": "NUM 5:15"
+        },
+        {
+          "start_ref": "15007017",
+          "start_ref_usfm": "EZR 7:17",
+          "end_ref": "15007017",
+          "end_ref_usfm": "EZR 7:17"
+        },
+        {
+          "start_ref": "26045016",
+          "start_ref_usfm": "EZK 45:16",
+          "end_ref": "26045017",
+          "end_ref_usfm": "EZK 45:17"
+        },
+        {
+          "start_ref": "24007016",
+          "start_ref_usfm": "JER 7:16",
+          "end_ref": "24007018",
+          "end_ref_usfm": "JER 7:18"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25560,
+          "content_id": 26418,
+          "label": "Burnt Offering",
+          "language": "eng"
+        },
+        {
+          "reference_id": 25802,
+          "content_id": 26660,
+          "label": "Grain Offering",
+          "language": "eng"
+        }
+      ]
+    }
+  }
+]

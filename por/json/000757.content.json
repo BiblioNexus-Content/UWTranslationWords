@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238277,
+    "reference_id": 26147,
+    "title": "Rabá",
+    "media_type": "Text",
+    "index_reference": "rabá",
+    "language": "por",
+    "content": "<h1>Rabá</h1><h2>Definição:</h2><p>Rabá era a cidade mais importante do povo amonita.</p><ul><li><p>Em batalhas contra os amonitas, os israelitas frequentemente atacaram Rabá.</p></li><li><p>O rei Davi de Israel capturou Rabá como uma de suas últimas conquistas.</p></li><li><p>A cidade moderna de Amã, na Jordânia, agora está onde Rabá costumava estar localizada.</p></li></ul><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25452\" data-resourceType=\"UWTranslationWords\">Amom</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25645\" data-resourceType=\"UWTranslationWords\">Davi</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr20:1\">1 Crônicas 20.1</a></p></li><li><p><a href=\"https://ref.ly/2Sam12:26\">2 Samuel 12.26</a></p></li><li><p><a href=\"https://ref.ly/Deut3:11\">Deuteronômio 3.11</a></p></li><li><p><a href=\"https://ref.ly/Ezek25:3-Ezek25:5\">Ezequiel 25.3–5</a></p></li><li><p><a href=\"https://ref.ly/Jer49:1-Jer49:2\">Jeremias 49.1–2</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H7237</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "05003011",
+          "start_ref_usfm": "DEU 3:11",
+          "end_ref": "05003011",
+          "end_ref_usfm": "DEU 3:11"
+        },
+        {
+          "start_ref": "10012026",
+          "start_ref_usfm": "2SA 12:26",
+          "end_ref": "10012026",
+          "end_ref_usfm": "2SA 12:26"
+        },
+        {
+          "start_ref": "13020001",
+          "start_ref_usfm": "1CH 20:1",
+          "end_ref": "13020001",
+          "end_ref_usfm": "1CH 20:1"
+        },
+        {
+          "start_ref": "26025003",
+          "start_ref_usfm": "EZK 25:3",
+          "end_ref": "26025005",
+          "end_ref_usfm": "EZK 25:5"
+        },
+        {
+          "start_ref": "24049001",
+          "start_ref_usfm": "JER 49:1",
+          "end_ref": "24049002",
+          "end_ref_usfm": "JER 49:2"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25452,
+          "content_id": 237590,
+          "label": "Amom",
+          "language": "por"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 237778,
+          "label": "Davi",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

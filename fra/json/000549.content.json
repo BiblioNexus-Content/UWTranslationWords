@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466728,
+    "reference_id": 25557,
+    "title": "Mariéé",
+    "media_type": "Text",
+    "index_reference": "mariéé",
+    "language": "fra",
+    "content": "<h1>mariéé</h1><h2>Définition :</h2><p>Une jeune mariée est la femme lors d&apos;une cérémonie de mariage qui se marie à son mari, l&apos;époux.</p><ul><li><p>Le terme «mariée» est utilisé comme une métaphore pour les croyants en Jésus, l&apos;Eglise.</p></li><li><p>Jésus est métaphoriquement appelé le «fiancé» pour l&apos;Église* (Voir: [[: fr: ta: vol1: traduire: figs_metaphor]])</p></li></ul><p>(Voir aussi : (../other/bridegroom.md), (../kt/church.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02022016",
+          "start_ref_usfm": "EXO 22:16",
+          "end_ref": "02022016",
+          "end_ref_usfm": "EXO 22:16"
+        },
+        {
+          "start_ref": "23062005",
+          "start_ref_usfm": "ISA 62:5",
+          "end_ref": "23062005",
+          "end_ref_usfm": "ISA 62:5"
+        },
+        {
+          "start_ref": "29002016",
+          "start_ref_usfm": "JOL 2:16",
+          "end_ref": "29002016",
+          "end_ref_usfm": "JOL 2:16"
+        },
+        {
+          "start_ref": "43003029",
+          "start_ref_usfm": "JHN 3:29",
+          "end_ref": "43003029",
+          "end_ref_usfm": "JHN 3:29"
+        },
+        {
+          "start_ref": "66018023",
+          "start_ref_usfm": "REV 18:23",
+          "end_ref": "66018023",
+          "end_ref_usfm": "REV 18:23"
+        },
+        {
+          "start_ref": "66019007",
+          "start_ref_usfm": "REV 19:7",
+          "end_ref": "66019007",
+          "end_ref_usfm": "REV 19:7"
+        },
+        {
+          "start_ref": "66021002",
+          "start_ref_usfm": "REV 21:2",
+          "end_ref": "66021002",
+          "end_ref_usfm": "REV 21:2"
+        },
+        {
+          "start_ref": "66021009",
+          "start_ref_usfm": "REV 21:9",
+          "end_ref": "66021009",
+          "end_ref_usfm": "REV 21:9"
+        },
+        {
+          "start_ref": "66022017",
+          "start_ref_usfm": "REV 22:17",
+          "end_ref": "66022017",
+          "end_ref_usfm": "REV 22:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25558,
+          "content_id": 466729,
+          "label": "Nouveau marié",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

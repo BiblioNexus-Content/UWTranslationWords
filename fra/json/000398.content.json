@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 467120,
+    "reference_id": 25980,
+    "title": "Humble",
+    "media_type": "Text",
+    "index_reference": "humble",
+    "language": "fra",
+    "content": "<h1>humble, humilité, humilier</h1><h2>Définition :</h2><p>Les termes &quot;humble&quot; et &quot;humilité&quot; se réfèrent à l&apos;état d&apos;être pauvre ou d&apos;avoir une condition sociale faible.</p><ul><li><p>Jésus lui-même s&apos;est &quot;humilié&quot; en devenant un être humain et un serviteur.</p></li><li><p>Sa naissance était &quot;humble&quot; parce qu&apos;il est né dans un endroit où on gardait les animaux et non pas dans un palais.</p></li><li><p>Avoir une attitude humble est le contraire d&apos;être fier.</p></li></ul><h2>Suggestions pour la traduction :</h2><ul><li><p>On pourrait traduire &quot;humble&quot; par &quot;modeste&quot;, &quot;de petit statut&quot; ou &quot;sans importance&quot;.</p></li><li><p>Le mot &quot;humble&quot; pourrait également être traduit par &quot;qui a de l&apos;humilité&quot; ou &quot;qui est de peu d&apos;importance&quot;.</p></li></ul><p>(Voir aussi : (../kt/humble.md), (../other/proud.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "26017014",
+          "start_ref_usfm": "EZK 17:14",
+          "end_ref": "26017014",
+          "end_ref_usfm": "EZK 17:14"
+        },
+        {
+          "start_ref": "44020019",
+          "start_ref_usfm": "ACT 20:19",
+          "end_ref": "44020019",
+          "end_ref_usfm": "ACT 20:19"
+        },
+        {
+          "start_ref": "45012016",
+          "start_ref_usfm": "ROM 12:16",
+          "end_ref": "45012016",
+          "end_ref_usfm": "ROM 12:16"
+        },
+        {
+          "start_ref": "50003021",
+          "start_ref_usfm": "PHP 3:21",
+          "end_ref": "50003021",
+          "end_ref_usfm": "PHP 3:21"
+        },
+        {
+          "start_ref": "59001009",
+          "start_ref_usfm": "JAS 1:9",
+          "end_ref": "59001009",
+          "end_ref_usfm": "JAS 1:9"
+        },
+        {
+          "start_ref": "42001048",
+          "start_ref_usfm": "LUK 1:48",
+          "end_ref": "42001049",
+          "end_ref_usfm": "LUK 1:49"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25860,
+          "content_id": 467006,
+          "label": "Humble",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26135,
+          "content_id": 467256,
+          "label": "Fier",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

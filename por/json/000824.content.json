@@ -1,0 +1,59 @@
+[
+  {
+    "content_id": 238350,
+    "reference_id": 26221,
+    "title": "Saron",
+    "media_type": "Text",
+    "index_reference": "saron",
+    "language": "por",
+    "content": "<h1>Saron, Planície de Saron</h1><h2>Fatos:</h2><p>Saron era o nome de uma área plana e fértil ao longo da costa do Mar Mediterrâneo, ao sul do Monte Carmelo. Também é conhecida como a “Planície de Saron”.</p><ul><li><p>Várias cidades mencionadas na Bíblia estavam localizadas na Planície de Saron, incluindo Jope, Lida e Cesareia.</p></li><li><p>Isso poderia ser traduzido como “a planície chamada Saron” ou “Planície de Saron”.</p></li><li><p>As pessoas que viviam na região de Saron eram chamadas de “Saronitas”.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25563\" data-resourceType=\"UWTranslationWords\">Cesareia</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25575\" data-resourceType=\"UWTranslationWords\">Carmelo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25915\" data-resourceType=\"UWTranslationWords\">Jope</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_thesea\" data-resourceType=\"UWTranslationWords\">o mar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/1Chr5:16-1Chr5:17\">1 Crônicas 5.16–17</a></p></li><li><p><a href=\"https://ref.ly/Acts9:35\">Atos 9.35</a></p></li><li><p><a href=\"https://ref.ly/Isa33:9\">Isaías 33.9</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H8289, H8290</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "23033009",
+          "start_ref_usfm": "ISA 33:9",
+          "end_ref": "23033009",
+          "end_ref_usfm": "ISA 33:9"
+        },
+        {
+          "start_ref": "44009035",
+          "start_ref_usfm": "ACT 9:35",
+          "end_ref": "44009035",
+          "end_ref_usfm": "ACT 9:35"
+        },
+        {
+          "start_ref": "13005016",
+          "start_ref_usfm": "1CH 5:16",
+          "end_ref": "13005017",
+          "end_ref_usfm": "1CH 5:17"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25563,
+          "content_id": 237698,
+          "label": "Cesareia",
+          "language": "por"
+        },
+        {
+          "reference_id": 25575,
+          "content_id": 237710,
+          "label": "Carmelo",
+          "language": "por"
+        },
+        {
+          "reference_id": 25915,
+          "content_id": 238048,
+          "label": "Jope",
+          "language": "por"
+        },
+        {
+          "reference_id": 26006,
+          "content_id": 238136,
+          "label": "Mediterrâneo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

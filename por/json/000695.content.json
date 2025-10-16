@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 238212,
+    "reference_id": 26082,
+    "title": "Pentecostes",
+    "media_type": "Text",
+    "index_reference": "pentecostes",
+    "language": "por",
+    "content": "<h1>Pentecostes, Festival das Semanas</h1><h2>Fatos:</h2><p>O “Festival das Semanas” era um festival judaico que ocorria cinquenta dias após a Páscoa. Posteriormente, foi referido como “Pentecostes”.</p><ul><li><p>A Festa das Semanas era sete semanas (cinquenta dias) após a Festa das Primícias. Nos tempos do Novo Testamento, este festival era chamado de “Pentecostes”, que tem “cinquenta” como parte do seu significado.</p></li><li><p>O Festival das Semanas era realizado para celebrar o início da colheita de grãos. Também era um momento para lembrar quando Deus deu a Lei aos israelitas nas tábuas de pedra entregues a Moisés.</p></li><li><p>No Novo Testamento, o Dia de Pentecostes é especialmente significativo porque foi quando os crentes em Jesus receberam o Espírito Santo de uma nova maneira.</p></li></ul><p>(Sugestões de tradução: Como Traduzir Nomes)</p><p>(Veja também: <span data-bnType=\"resourceReference\" data-resourceId=\"25739\" data-resourceType=\"UWTranslationWords\">festival</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25743\" data-resourceType=\"UWTranslationWords\">primícias</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25823\" data-resourceType=\"UWTranslationWords\">colheita</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25844\" data-resourceType=\"UWTranslationWords\">Espírito Santo</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"UnfoldingWord_TranslatorWords_raise\" data-resourceType=\"UWTranslationWords\">elevar</span>)</p><h2>Referências Bíblicas:</h2><ul><li><p><a href=\"https://ref.ly/2Chr8:12-2Chr8:13\">2 Crônicas 8.12–13</a></p></li><li><p><a href=\"https://ref.ly/Acts2:1\">Atos 2.1</a></p></li><li><p><a href=\"https://ref.ly/Acts20:15-Acts20:16\">Atos 20.15–16</a></p></li><li><p><a href=\"https://ref.ly/Deut16:16-Deut16:17\">Deuteronômio 16.16–17</a></p></li><li><p><a href=\"https://ref.ly/Num28:26\">Números 28.26</a></p></li></ul><h2>Dados da Palavra:</h2><ul><li><p>Strong’s: H2282, H7620, G40050</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02034022",
+          "start_ref_usfm": "EXO 34:22",
+          "end_ref": "02034022",
+          "end_ref_usfm": "EXO 34:22"
+        },
+        {
+          "start_ref": "04028026",
+          "start_ref_usfm": "NUM 28:26",
+          "end_ref": "04028026",
+          "end_ref_usfm": "NUM 28:26"
+        },
+        {
+          "start_ref": "44002001",
+          "start_ref_usfm": "ACT 2:1",
+          "end_ref": "44002001",
+          "end_ref_usfm": "ACT 2:1"
+        },
+        {
+          "start_ref": "44020016",
+          "start_ref_usfm": "ACT 20:16",
+          "end_ref": "44020016",
+          "end_ref_usfm": "ACT 20:16"
+        },
+        {
+          "start_ref": "46016008",
+          "start_ref_usfm": "1CO 16:8",
+          "end_ref": "46016008",
+          "end_ref_usfm": "1CO 16:8"
+        },
+        {
+          "start_ref": "05016016",
+          "start_ref_usfm": "DEU 16:16",
+          "end_ref": "05016017",
+          "end_ref_usfm": "DEU 16:17"
+        },
+        {
+          "start_ref": "14008012",
+          "start_ref_usfm": "2CH 8:12",
+          "end_ref": "14008013",
+          "end_ref_usfm": "2CH 8:13"
+        },
+        {
+          "start_ref": "44020015",
+          "start_ref_usfm": "ACT 20:15",
+          "end_ref": "44020016",
+          "end_ref_usfm": "ACT 20:16"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25739,
+          "content_id": 237872,
+          "label": "Festival",
+          "language": "por"
+        },
+        {
+          "reference_id": 25743,
+          "content_id": 237876,
+          "label": "Primeiro Fruto",
+          "language": "por"
+        },
+        {
+          "reference_id": 25823,
+          "content_id": 237956,
+          "label": "Colheita",
+          "language": "por"
+        },
+        {
+          "reference_id": 25844,
+          "content_id": 237977,
+          "label": "Espírito Santo",
+          "language": "por"
+        }
+      ]
+    }
+  }
+]

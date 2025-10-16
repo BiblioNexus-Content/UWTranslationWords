@@ -1,0 +1,83 @@
+[
+  {
+    "content_id": 466662,
+    "reference_id": 25483,
+    "title": "Astarté",
+    "media_type": "Text",
+    "index_reference": "astarté",
+    "language": "fra",
+    "content": "<h1>Astarté, Ashères</h1><h2>Définition :</h2><p>&quot;Astarté&quot; était le nom d&apos;une déesse qui était adorée dans l&apos;Ancien Testament par les peuples qui habitaient à Canaan* C&apos;est probable qu&apos;il y eût une autre déesse portant le même nom.</p><ul><li><p>Le terme &quot;ashères&quot; se réfère à des images sculptées en bois ou à des arbres sculptés qui étaient fabriqués pour représenter cette déesse.</p></li><li><p>Les &quot;ashères&quot; étaient souvent érigées près des autels du faux dieu Baal, qui était considéré comme le mari d&apos;Astarté* Certains peuples adoraient Baal en tant que dieu soleil et Astarté en tant que déesse lune.</p></li><li><p>Dieu ordonna aux Israélites de détruire toutes les idoles d&apos;Astarté.</p></li><li><p>Des leaders Israélites comme Gédéon, le roi Asa, et le roi Josias obéirent à Dieu et menèrent le peuple à détruire ces idoles.</p></li><li><p>Mais d&apos;autres dirigeants Israélites comme le roi Salomon, le roi Manassé, et le roi Achab ne se débarassèrent pas des ashères mais ils poussèrent le peuple à adorer ces dieux.</p></li></ul><p>(Voir aussi : (../kt/falsegod.md), (../names/baal.md), (../names/gideon.md), (../other/image.md), (../names/solomon.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "02034013",
+          "start_ref_usfm": "EXO 34:13",
+          "end_ref": "02034013",
+          "end_ref_usfm": "EXO 34:13"
+        },
+        {
+          "start_ref": "12018004",
+          "start_ref_usfm": "2KI 18:4",
+          "end_ref": "12018004",
+          "end_ref_usfm": "2KI 18:4"
+        },
+        {
+          "start_ref": "12021003",
+          "start_ref_usfm": "2KI 21:3",
+          "end_ref": "12021003",
+          "end_ref_usfm": "2KI 21:3"
+        },
+        {
+          "start_ref": "23027009",
+          "start_ref_usfm": "ISA 27:9",
+          "end_ref": "23027009",
+          "end_ref_usfm": "ISA 27:9"
+        },
+        {
+          "start_ref": "33005014",
+          "start_ref_usfm": "MIC 5:14",
+          "end_ref": "33005014",
+          "end_ref_usfm": "MIC 5:14"
+        },
+        {
+          "start_ref": "07003007",
+          "start_ref_usfm": "JDG 3:7",
+          "end_ref": "07003008",
+          "end_ref_usfm": "JDG 3:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25497,
+          "content_id": 466675,
+          "label": "Baal",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25728,
+          "content_id": 466883,
+          "label": "Dieu",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25780,
+          "content_id": 466929,
+          "label": "Gédéon",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25863,
+          "content_id": 467009,
+          "label": "Image",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26249,
+          "content_id": 467364,
+          "label": "Salomon",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

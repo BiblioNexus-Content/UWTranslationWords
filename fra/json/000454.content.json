@@ -1,0 +1,101 @@
+[
+  {
+    "content_id": 467061,
+    "reference_id": 25916,
+    "title": "Joram",
+    "media_type": "Text",
+    "index_reference": "joram",
+    "language": "fra",
+    "content": "<h1>Joram</h1><h2>Définition :</h2><p>&quot;Joram, également connu sous le nom Joram, était un roi d&apos;Israël, fils d&apos;Achab et de Jézabel.</p><ul><li><p>Le roi Joram régna en même temps qu&apos;un autre Joram, qui était roi de Juda.</p></li><li><p>Joram était un mauvais roi qui adorait de faux dieux et aussi fit pécher Israël.</p></li></ul><p>(Translation suggestions: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">Translate Names</a>)</p><p>(Voir aussi : (../names/ahab.md), (../names/david.md), (../names/elijah.md), (../names/hamath.md), (../names/jehoram.md), (../names/kingdomofisrael.md), (../names/kingdomofjudah.md), (../names/obadiah.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "12001017",
+          "start_ref_usfm": "2KI 1:17",
+          "end_ref": "12001017",
+          "end_ref_usfm": "2KI 1:17"
+        },
+        {
+          "start_ref": "12008016",
+          "start_ref_usfm": "2KI 8:16",
+          "end_ref": "12008016",
+          "end_ref_usfm": "2KI 8:16"
+        },
+        {
+          "start_ref": "13003010",
+          "start_ref_usfm": "1CH 3:10",
+          "end_ref": "13003012",
+          "end_ref_usfm": "1CH 3:12"
+        },
+        {
+          "start_ref": "14022004",
+          "start_ref_usfm": "2CH 22:4",
+          "end_ref": "14022005",
+          "end_ref_usfm": "2CH 22:5"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25438,
+          "content_id": 466619,
+          "label": "Achab",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25645,
+          "content_id": 466808,
+          "label": "David",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25697,
+          "content_id": 466857,
+          "label": "Élie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25814,
+          "content_id": 466963,
+          "label": "Hamath",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25891,
+          "content_id": 467036,
+          "label": "Joram",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25941,
+          "content_id": 467084,
+          "label": "Royaume d'Israël",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25942,
+          "content_id": 467085,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26059,
+          "content_id": 467195,
+          "label": "Abdias",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

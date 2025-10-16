@@ -1,0 +1,119 @@
+[
+  {
+    "content_id": 467388,
+    "reference_id": 26274,
+    "title": "Balayage",
+    "media_type": "Text",
+    "index_reference": "balayage",
+    "language": "fra",
+    "content": "<h1>balayage, balayé</h1><h2>Définition :</h2><p>Les termes «balayage» et «balayé» se réfèrent généralement à un large mouvement rapide pour enlever la saleté à l&apos;aide d&apos;un balai ou d&apos;une brosse* Ces mots sont également utilisés au sens figuré.</p><ul><li><p>Le terme «balayage» est utilisé au sens figuré pour décrire comment une attaque de l&apos;armée se produisait avec des mouvements rapides, décisifs, de grande envergure.</p></li><li><p>Par exemple, Esaïe a prophétisé que les Assyriens &quot;balayeraient&quot; le royaume de Juda* Cela signifie qu&apos;ils détruiraient Juda et captureraient son peuple.</p></li><li><p>Le terme «balayage» peut également être utilisé pour décrire la façon dont l&apos;eau qui coule rapidement pousse les choses et les oblige à aller loin.</p></li><li><p>Une personne &quot;balayée&quot;par quelque chose signifie que, des choses difficiles et écrasantes se produisent dans sa vie.</p></li></ul><p>(Voir aussi : (../names/assyria.md), (../names/isaiah.md), (../names/judah.md), (../kt/prophet.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01018023",
+          "start_ref_usfm": "GEN 18:23",
+          "end_ref": "01018023",
+          "end_ref_usfm": "GEN 18:23"
+        },
+        {
+          "start_ref": "01018024",
+          "start_ref_usfm": "GEN 18:24",
+          "end_ref": "01018024",
+          "end_ref_usfm": "GEN 18:24"
+        },
+        {
+          "start_ref": "01019015",
+          "start_ref_usfm": "GEN 19:15",
+          "end_ref": "01019015",
+          "end_ref_usfm": "GEN 19:15"
+        },
+        {
+          "start_ref": "01019017",
+          "start_ref_usfm": "GEN 19:17",
+          "end_ref": "01019017",
+          "end_ref_usfm": "GEN 19:17"
+        },
+        {
+          "start_ref": "11016003",
+          "start_ref_usfm": "1KI 16:3",
+          "end_ref": "11016003",
+          "end_ref_usfm": "1KI 16:3"
+        },
+        {
+          "start_ref": "19090005",
+          "start_ref_usfm": "PSA 90:5",
+          "end_ref": "19090005",
+          "end_ref_usfm": "PSA 90:5"
+        },
+        {
+          "start_ref": "20013023",
+          "start_ref_usfm": "PRO 13:23",
+          "end_ref": "20013023",
+          "end_ref_usfm": "PRO 13:23"
+        },
+        {
+          "start_ref": "20021007",
+          "start_ref_usfm": "PRO 21:7",
+          "end_ref": "20021007",
+          "end_ref_usfm": "PRO 21:7"
+        },
+        {
+          "start_ref": "40012044",
+          "start_ref_usfm": "MAT 12:44",
+          "end_ref": "40012044",
+          "end_ref_usfm": "MAT 12:44"
+        },
+        {
+          "start_ref": "42011025",
+          "start_ref_usfm": "LUK 11:25",
+          "end_ref": "42011025",
+          "end_ref_usfm": "LUK 11:25"
+        },
+        {
+          "start_ref": "42015008",
+          "start_ref_usfm": "LUK 15:8",
+          "end_ref": "42015008",
+          "end_ref_usfm": "LUK 15:8"
+        },
+        {
+          "start_ref": "27011040",
+          "start_ref_usfm": "DAN 11:40",
+          "end_ref": "27011041",
+          "end_ref_usfm": "DAN 11:41"
+        },
+        {
+          "start_ref": "20021007",
+          "start_ref_usfm": "PRO 21:7",
+          "end_ref": "20021008",
+          "end_ref_usfm": "PRO 21:8"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25488,
+          "content_id": 466667,
+          "label": "Assyrie",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25877,
+          "content_id": 467022,
+          "label": "Esaîe",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25924,
+          "content_id": 467069,
+          "label": "Juda",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 467251,
+          "label": "Prophète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

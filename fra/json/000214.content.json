@@ -1,0 +1,77 @@
+[
+  {
+    "content_id": 466801,
+    "reference_id": 25638,
+    "title": "Cyrène",
+    "media_type": "Text",
+    "index_reference": "cyrène",
+    "language": "fra",
+    "content": "<h1>Cyrène</h1><h2>Définition :</h2><p>Cyrène était une ville grecque sur la côte nord de l&apos;Afrique sur la mer Méditerranée, directement au Sud de l&apos;île de Crète.</p><ul><li><p>Dans le Nouveau Testament, les juifs et les chrétiens vivaient à Cyrène.</p></li><li><p>Cyrène est probablement le plus connu dans la Bible comme la ville de la maison d&apos;un homme nommé Simon, qui a porté la croix de Jésus.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/crete.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40027032",
+          "start_ref_usfm": "MAT 27:32",
+          "end_ref": "40027032",
+          "end_ref_usfm": "MAT 27:32"
+        },
+        {
+          "start_ref": "41015021",
+          "start_ref_usfm": "MRK 15:21",
+          "end_ref": "41015021",
+          "end_ref_usfm": "MRK 15:21"
+        },
+        {
+          "start_ref": "42023026",
+          "start_ref_usfm": "LUK 23:26",
+          "end_ref": "42023026",
+          "end_ref_usfm": "LUK 23:26"
+        },
+        {
+          "start_ref": "44002010",
+          "start_ref_usfm": "ACT 2:10",
+          "end_ref": "44002010",
+          "end_ref_usfm": "ACT 2:10"
+        },
+        {
+          "start_ref": "44006009",
+          "start_ref_usfm": "ACT 6:9",
+          "end_ref": "44006009",
+          "end_ref_usfm": "ACT 6:9"
+        },
+        {
+          "start_ref": "44011020",
+          "start_ref_usfm": "ACT 11:20",
+          "end_ref": "44011020",
+          "end_ref_usfm": "ACT 11:20"
+        },
+        {
+          "start_ref": "44013001",
+          "start_ref_usfm": "ACT 13:1",
+          "end_ref": "44013001",
+          "end_ref_usfm": "ACT 13:1"
+        },
+        {
+          "start_ref": "44011019",
+          "start_ref_usfm": "ACT 11:19",
+          "end_ref": "44011021",
+          "end_ref_usfm": "ACT 11:21"
+        },
+        {
+          "start_ref": "40027032",
+          "start_ref_usfm": "MAT 27:32",
+          "end_ref": "40027034",
+          "end_ref_usfm": "MAT 27:34"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25626,
+          "content_id": 32924,
+          "label": "Crète",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

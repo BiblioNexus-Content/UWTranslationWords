@@ -1,0 +1,71 @@
+[
+  {
+    "content_id": 466700,
+    "reference_id": 25527,
+    "title": "Beréé",
+    "media_type": "Text",
+    "index_reference": "beréé",
+    "language": "fra",
+    "content": "<h1>Beréé</h1><h2>Définition :</h2><p>Dans le Nouveau Testament, Béréa (ou Bérée) était une ville grecque prospère dans le sud Macédoine, à environ 80 kilomètres au sud de Thessalonique.</p><ul><li><p>Paul et Silas ont fui vers la ville de Bérée après que leurs frères chrétiens les ont aidés à échapper de certains Juifs qui leur causaient des difficultés à Thessalonique.</p></li><li><p>Lorsque les personnes vivant à Bérée entendirent Paul prêcher, ils cherchèrent à étudier les Ecritures pour confirmer que ce qu&apos;il leur disait était vrai.</p></li></ul><p>(Voir aussi : (rc://fr/ta/man/translate/translate-names))</p><p>(Voir aussi : (../names/macedonia.md), (../names/paul.md), (../names/silas.md), (../names/thessalonica.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "44017010",
+          "start_ref_usfm": "ACT 17:10",
+          "end_ref": "44017010",
+          "end_ref_usfm": "ACT 17:10"
+        },
+        {
+          "start_ref": "44017011",
+          "start_ref_usfm": "ACT 17:11",
+          "end_ref": "44017011",
+          "end_ref_usfm": "ACT 17:11"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017013",
+          "end_ref_usfm": "ACT 17:13"
+        },
+        {
+          "start_ref": "44020004",
+          "start_ref_usfm": "ACT 20:4",
+          "end_ref": "44020004",
+          "end_ref_usfm": "ACT 20:4"
+        },
+        {
+          "start_ref": "44017013",
+          "start_ref_usfm": "ACT 17:13",
+          "end_ref": "44017015",
+          "end_ref_usfm": "ACT 17:15"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25986,
+          "content_id": 467125,
+          "label": "Macédoine",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26079,
+          "content_id": 467206,
+          "label": "Paul",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26236,
+          "content_id": 467351,
+          "label": "Silas",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26295,
+          "content_id": 467409,
+          "label": "Thessalonique",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

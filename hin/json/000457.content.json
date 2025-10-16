@@ -1,0 +1,65 @@
+[
+  {
+    "content_id": 180060,
+    "reference_id": 25995,
+    "title": "परमेश्‍वर का जन",
+    "media_type": "Text",
+    "index_reference": "परमेश्‍वर का जन",
+    "language": "hin",
+    "content": "<h1>परमेश्‍वर का जन</h1><h2>तथ्य:</h2><p>“परमेश्वर का जन” यहोवा के भविष्यद्वक्ता को संबोधित करने की एक सम्मान-सूचक उक्ति है. यह उक्ति यहोवा के स्वर्गदूत के संदर्भ में भी काम में ली गई है.</p><ul><li><p>भविष्यद्वक्ता के संदर्भ में हो तो इसका अनुवाद हो सकता है, “परमेश्वर का अपना जन” या “परमेश्वर का चुना हुआ मनुष्य” या “परमेश्वर का सेवक जन.”</p></li><li><p>स्वर्गदूत के संदर्भ में इसका अनुवाद हो सकता है, “परमेश्वर का सन्देश-वाहक” या “तेरा स्वर्गदूत” या “परमेश्वर की ओर से एक स्वार्गिक प्राणी जो मनुष्य जैसा दिखता ह.”</p></li></ul><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25459\" data-resourceType=\"UWTranslationWords\">स्वर्गदूत</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25846\" data-resourceType=\"UWTranslationWords\">सम्मान</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26129\" data-resourceType=\"UWTranslationWords\">भविष्यद्वक्ता</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/1Chr0:0\">1 इतिहास 23:12–14</a></p></li><li><p><a href=\"https://ref.ly/1Kgs0:0\">1 राजा 12:22</a></p></li><li><p><a href=\"https://ref.ly/1Sam0:0\">1 शमूएल 09:9–11</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>Strong’s:&nbsp;H376, H430, G444, G2316</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "11012022",
+          "start_ref_usfm": "1KI 12:22",
+          "end_ref": "11012022",
+          "end_ref_usfm": "1KI 12:22"
+        },
+        {
+          "start_ref": "54006011",
+          "start_ref_usfm": "1TI 6:11",
+          "end_ref": "54006011",
+          "end_ref_usfm": "1TI 6:11"
+        },
+        {
+          "start_ref": "55003017",
+          "start_ref_usfm": "2TI 3:17",
+          "end_ref": "55003017",
+          "end_ref_usfm": "2TI 3:17"
+        },
+        {
+          "start_ref": "13023012",
+          "start_ref_usfm": "1CH 23:12",
+          "end_ref": "13023014",
+          "end_ref_usfm": "1CH 23:14"
+        },
+        {
+          "start_ref": "09009009",
+          "start_ref_usfm": "1SA 9:9",
+          "end_ref": "09009011",
+          "end_ref_usfm": "1SA 9:11"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25459,
+          "content_id": 179547,
+          "label": "स्वर्गदूत",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25846,
+          "content_id": 179915,
+          "label": "आदर",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26129,
+          "content_id": 180189,
+          "label": "भविष्यद्वक्ता",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]

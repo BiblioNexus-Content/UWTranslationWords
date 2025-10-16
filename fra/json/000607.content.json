@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467188,
+    "reference_id": 26052,
+    "title": "Nouvelle lune",
+    "media_type": "Text",
+    "index_reference": "nouvelle lune",
+    "language": "fra",
+    "content": "<h1>nouvelle lune</h1><h2>Définition :</h2><p>Une &quot;nouvelle lune&quot; est le premier ou le début de phase de la lune qui se déplace sur son orbite autour de la planète Terre* La lune apparaît complètement noire ou en un petit ruban en forme de croissant de la lumière sur son bord.</p><ul><li><p>Dans la Bible, il est fort probable que le terme «nouvelle lune» fait référence au moment où un tout petit éclat de la lumière de la lune se montrait, pas quand il était complètement sombre.</p></li><li><p>La nouvelle lune a été utilisée pour marquer les débuts de certaines périodes de temps.</p></li><li><p>Les Israélites ont célébré un nouveau festival de la lune qui a été signalé par le son du cor ou le souffle dans la corne de bélier.</p></li><li><p>Plusieurs fois dans la Bible ce moment est appelé le «début du mois*&quot;</p></li></ul><p>(Voir aussi : (../other/biblicaltimemonth.md), (../other/earth.md), (../other/festival.md), (../other/horn.md), (../other/sheep.md))</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "09020005",
+          "start_ref_usfm": "1SA 20:5",
+          "end_ref": "09020005",
+          "end_ref_usfm": "1SA 20:5"
+        },
+        {
+          "start_ref": "13023031",
+          "start_ref_usfm": "1CH 23:31",
+          "end_ref": "13023031",
+          "end_ref_usfm": "1CH 23:31"
+        },
+        {
+          "start_ref": "16010033",
+          "start_ref_usfm": "NEH 10:33",
+          "end_ref": "16010033",
+          "end_ref_usfm": "NEH 10:33"
+        },
+        {
+          "start_ref": "51002016",
+          "start_ref_usfm": "COL 2:16",
+          "end_ref": "51002016",
+          "end_ref_usfm": "COL 2:16"
+        },
+        {
+          "start_ref": "23001012",
+          "start_ref_usfm": "ISA 1:12",
+          "end_ref": "23001013",
+          "end_ref_usfm": "ISA 1:13"
+        },
+        {
+          "start_ref": "26045016",
+          "start_ref_usfm": "EZK 45:16",
+          "end_ref": "26045017",
+          "end_ref_usfm": "EZK 45:17"
+        },
+        {
+          "start_ref": "12004023",
+          "start_ref_usfm": "2KI 4:23",
+          "end_ref": "12004024",
+          "end_ref_usfm": "2KI 4:24"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25536,
+          "content_id": 466709,
+          "label": "Temps biblique",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25687,
+          "content_id": 466847,
+          "label": "Terre",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25739,
+          "content_id": 466893,
+          "label": "Festival",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25848,
+          "content_id": 466995,
+          "label": "Corne",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26224,
+          "content_id": 467340,
+          "label": "Moutons",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

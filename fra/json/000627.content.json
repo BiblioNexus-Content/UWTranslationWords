@@ -1,0 +1,89 @@
+[
+  {
+    "content_id": 467203,
+    "reference_id": 26074,
+    "title": "Paran",
+    "media_type": "Text",
+    "index_reference": "paran",
+    "language": "fra",
+    "content": "<h1>Paran, le mont Paran, le désert de Paran</h1><h2>Données :</h2><p>Paran était un désert ou une région sauvage à l&apos;est de l&apos;Égypte et au sud du pays de Canaan. Il y avait aussi un mont Paran, qui était peut-être un autre nom pour le mont Sinaï.</p><ul><li><p>L&apos;esclave Agar et son fils Ismaël sont allés vivre dans le désert de Paran après l’ordre que Sarah avait donné à Abraham de les faire partir.</p></li><li><p>Lorsque Moïse a conduit les Israélites hors d&apos;Égypte, ils ont traversé le désert de Paran.</p></li><li><p>C&apos;est de Kadès-Barnéa, dans le désert de Paran, que Moïse a envoyé douze hommes pour espionner le pays de Canaan et rapporter un rapport.</p></li><li><p>Le désert de Zin était au nord de Paran et le désert de Sin était au sud de Paran.</p></li></ul><p>(Suggestions pour la traduction : <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"\">How to Translate Names</a>)</p><p>(Voir aussi : <span data-bnType=\"resourceReference\" data-resourceId=\"25572\" data-resourceType=\"UWTranslationWords\">Canaan</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25662\" data-resourceType=\"UWTranslationWords\">desert</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25690\" data-resourceType=\"UWTranslationWords\">Egypt</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25933\" data-resourceType=\"UWTranslationWords\">Kadesh</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26241\" data-resourceType=\"UWTranslationWords\">Sinai</span>)</p>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "01014006",
+          "start_ref_usfm": "GEN 14:6",
+          "end_ref": "01014006",
+          "end_ref_usfm": "GEN 14:6"
+        },
+        {
+          "start_ref": "01021021",
+          "start_ref_usfm": "GEN 21:21",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "09025001",
+          "start_ref_usfm": "1SA 25:1",
+          "end_ref": "09025001",
+          "end_ref_usfm": "1SA 25:1"
+        },
+        {
+          "start_ref": "11011018",
+          "start_ref_usfm": "1KI 11:18",
+          "end_ref": "11011018",
+          "end_ref_usfm": "1KI 11:18"
+        },
+        {
+          "start_ref": "01021019",
+          "start_ref_usfm": "GEN 21:19",
+          "end_ref": "01021021",
+          "end_ref_usfm": "GEN 21:21"
+        },
+        {
+          "start_ref": "04010011",
+          "start_ref_usfm": "NUM 10:11",
+          "end_ref": "04010013",
+          "end_ref_usfm": "NUM 10:13"
+        },
+        {
+          "start_ref": "04013003",
+          "start_ref_usfm": "NUM 13:3",
+          "end_ref": "04013004",
+          "end_ref_usfm": "NUM 13:4"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25572,
+          "content_id": 466740,
+          "label": "Canaan",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25662,
+          "content_id": 466824,
+          "label": "Desert",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25690,
+          "content_id": 466850,
+          "label": "Égypte",
+          "language": "fra"
+        },
+        {
+          "reference_id": 25933,
+          "content_id": 467077,
+          "label": "Kadesh",
+          "language": "fra"
+        },
+        {
+          "reference_id": 26241,
+          "content_id": 467356,
+          "label": "Sinaï",
+          "language": "fra"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "content_id": 179949,
+    "reference_id": 25882,
+    "title": "याकूब (यीशु का भाई)",
+    "media_type": "Text",
+    "index_reference": "याकूब (यीशु का भाई)",
+    "language": "hin",
+    "content": "<h1>याकूब (यीशु का भाई)</h1><h2>तथ्य:</h2><p>याकूब मरियम और यूसुफ का पुत्र था। वह यीशु का अर्धभ्राता, छोटा भाई था।</p><ul><li><p>यीशु के अन्य भाई (यीशु की माता, मरियम के पुत्र) यूसुफ, यहूदा, शमौन थे।</p></li><li><p>यीशु जब तक जीवित था, याकूब और उसके भाई उसे मसीह नहीं मानते थे।</p></li><li><p>जब यीशु मृतकों में से जी उठा तब याकूब ने उस पर विश्वास किया और वह यरूशलेम की कलीसिया का अगुआ ठहरा।</p></li><li><p>नये नियम में याकूब का पत्र उन विश्वासियों को लिखा गया था जो सताव के कारण अन्य क्षेत्रों में चले गए थे।</p></li></ul><p>(अनुवाद के सुझाव: नामों का अनुवाद कैसे करें)</p><p>(यह भी देखें: <span data-bnType=\"resourceReference\" data-resourceId=\"25466\" data-resourceType=\"UWTranslationWords\">प्रेरित</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25587\" data-resourceType=\"UWTranslationWords\">मसीह</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25590\" data-resourceType=\"UWTranslationWords\">कलीसिया</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"25927\" data-resourceType=\"UWTranslationWords\">याकूब का पुत्र यहूदा</span>, <span data-bnType=\"resourceReference\" data-resourceId=\"26089\" data-resourceType=\"UWTranslationWords\">सताना</span>)</p><h2>बाइबल सन्दर्भ:</h2><ul><li><p><a href=\"https://ref.ly/Gal1:18-Gal1:20\">गलातियों 01:18–20</a></p></li><li><p><a href=\"https://ref.ly/Gal2:9-Gal2:10\">गलातियों 02:9–10</a></p></li><li><p><a href=\"https://ref.ly/Jas1:1-Jas1:3\">याकूब 01:1–3</a></p></li><li><p><a href=\"https://ref.ly/Jude1:1-Jude1:2\">यहूदा 01:1–2</a></p></li><li><p><a href=\"https://ref.ly/Mark9:1-Mark9:3\">मरकुस 09:1–3</a></p></li><li><p><a href=\"https://ref.ly/Matt13:54-Matt13:56\">मत्ती 13:54–56</a></p></li></ul><h2>शब्द तथ्य:</h2><ul><li><p>स्ट्रोंग्स: G2385</p></li></ul>",
+    "associations": {
+      "passage": [
+        {
+          "start_ref": "40013055",
+          "start_ref_usfm": "MAT 13:55",
+          "end_ref": "40013055",
+          "end_ref_usfm": "MAT 13:55"
+        },
+        {
+          "start_ref": "44012017",
+          "start_ref_usfm": "ACT 12:17",
+          "end_ref": "44012017",
+          "end_ref_usfm": "ACT 12:17"
+        },
+        {
+          "start_ref": "44015013",
+          "start_ref_usfm": "ACT 15:13",
+          "end_ref": "44015013",
+          "end_ref_usfm": "ACT 15:13"
+        },
+        {
+          "start_ref": "44021018",
+          "start_ref_usfm": "ACT 21:18",
+          "end_ref": "44021018",
+          "end_ref_usfm": "ACT 21:18"
+        },
+        {
+          "start_ref": "46015007",
+          "start_ref_usfm": "1CO 15:7",
+          "end_ref": "46015007",
+          "end_ref_usfm": "1CO 15:7"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001001",
+          "end_ref_usfm": "JAS 1:1"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001001",
+          "end_ref_usfm": "JUD 1:1"
+        },
+        {
+          "start_ref": "48001018",
+          "start_ref_usfm": "GAL 1:18",
+          "end_ref": "48001020",
+          "end_ref_usfm": "GAL 1:20"
+        },
+        {
+          "start_ref": "65001001",
+          "start_ref_usfm": "JUD 1:1",
+          "end_ref": "65001002",
+          "end_ref_usfm": "JUD 1:2"
+        },
+        {
+          "start_ref": "48002009",
+          "start_ref_usfm": "GAL 2:9",
+          "end_ref": "48002010",
+          "end_ref_usfm": "GAL 2:10"
+        },
+        {
+          "start_ref": "59001001",
+          "start_ref_usfm": "JAS 1:1",
+          "end_ref": "59001003",
+          "end_ref_usfm": "JAS 1:3"
+        },
+        {
+          "start_ref": "41009001",
+          "start_ref_usfm": "MRK 9:1",
+          "end_ref": "41009003",
+          "end_ref_usfm": "MRK 9:3"
+        },
+        {
+          "start_ref": "40013054",
+          "start_ref_usfm": "MAT 13:54",
+          "end_ref": "40013056",
+          "end_ref_usfm": "MAT 13:56"
+        }
+      ],
+      "resource": [
+        {
+          "reference_id": 25466,
+          "content_id": 179554,
+          "label": "प्रेरित",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25587,
+          "content_id": 179666,
+          "label": "ख्रीस्त",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25590,
+          "content_id": 179669,
+          "label": "कलीसिया",
+          "language": "hin"
+        },
+        {
+          "reference_id": 25927,
+          "content_id": 179994,
+          "label": "याकूब का पुत्र यहूदा",
+          "language": "hin"
+        },
+        {
+          "reference_id": 26089,
+          "content_id": 180151,
+          "label": "सताना/सताव",
+          "language": "hin"
+        }
+      ]
+    }
+  }
+]
