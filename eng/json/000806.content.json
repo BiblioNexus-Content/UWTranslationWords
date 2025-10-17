@@ -32,24 +32,28 @@
         {
           "reference_id": 25563,
           "content_id": 26421,
+          "resource_code": "UWTranslationWords",
           "label": "Caesarea",
           "language": "eng"
         },
         {
           "reference_id": 25575,
           "content_id": 26433,
+          "resource_code": "UWTranslationWords",
           "label": "Carmel",
           "language": "eng"
         },
         {
           "reference_id": 25915,
           "content_id": 26773,
+          "resource_code": "UWTranslationWords",
           "label": "Joppa",
           "language": "eng"
         },
         {
           "reference_id": 26006,
           "content_id": 26864,
+          "resource_code": "Unknown",
           "label": "Mediterranean",
           "language": "eng"
         }

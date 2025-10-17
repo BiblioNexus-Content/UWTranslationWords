@@ -224,18 +224,21 @@
         {
           "reference_id": 25700,
           "content_id": 466860,
+          "resource_code": "Unknown",
           "label": "Encourager ",
           "language": "fra"
         },
         {
           "reference_id": 25720,
           "content_id": 466879,
+          "resource_code": "UWTranslationWords",
           "label": "Exhorter",
           "language": "fra"
         },
         {
           "reference_id": 25735,
           "content_id": 466889,
+          "resource_code": "UWTranslationWords",
           "label": "Peur",
           "language": "fra"
         }

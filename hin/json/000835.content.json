@@ -500,12 +500,14 @@
         {
           "reference_id": 25957,
           "content_id": 180022,
+          "resource_code": "Unknown",
           "label": "व्यवस्था",
           "language": "hin"
         },
         {
           "reference_id": 26095,
           "content_id": 180157,
+          "resource_code": "UWTranslationWords",
           "label": "फरीसी",
           "language": "hin"
         }

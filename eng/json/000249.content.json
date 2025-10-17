@@ -140,18 +140,21 @@
         {
           "reference_id": 25662,
           "content_id": 26520,
+          "resource_code": "UWTranslationWords",
           "label": "Desert",
           "language": "eng"
         },
         {
           "reference_id": 26183,
           "content_id": 27041,
+          "resource_code": "UWTranslationWords",
           "label": "Ruin",
           "language": "eng"
         },
         {
           "reference_id": 26341,
           "content_id": 27199,
+          "resource_code": "UWTranslationWords",
           "label": "Waste",
           "language": "eng"
         }

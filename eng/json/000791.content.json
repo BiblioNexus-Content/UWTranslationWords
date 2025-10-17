@@ -278,30 +278,35 @@
         {
           "reference_id": 25573,
           "content_id": 26431,
+          "resource_code": "UWTranslationWords",
           "label": "Capernaum",
           "language": "eng"
         },
         {
           "reference_id": 25766,
           "content_id": 26624,
+          "resource_code": "UWTranslationWords",
           "label": "Galilee",
           "language": "eng"
         },
         {
           "reference_id": 25917,
           "content_id": 26775,
+          "resource_code": "UWTranslationWords",
           "label": "Jordan River",
           "language": "eng"
         },
         {
           "reference_id": 26191,
           "content_id": 27049,
+          "resource_code": "UWTranslationWords",
           "label": "Saltsea",
           "language": "eng"
         },
         {
           "reference_id": 140828,
           "content_id": 211355,
+          "resource_code": "Unknown",
           "label": "John 6:1 (#2)",
           "language": "eng"
         }

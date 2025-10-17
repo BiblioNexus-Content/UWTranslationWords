@@ -458,18 +458,21 @@
         {
           "reference_id": 26045,
           "content_id": 26903,
+          "resource_code": "UWTranslationWords",
           "label": "Nazareth",
           "language": "eng"
         },
         {
           "reference_id": 26192,
           "content_id": 27050,
+          "resource_code": "UWTranslationWords",
           "label": "Samaria",
           "language": "eng"
         },
         {
           "reference_id": 26207,
           "content_id": 27065,
+          "resource_code": "UWTranslationWords",
           "label": "Sea of Galilee",
           "language": "eng"
         }

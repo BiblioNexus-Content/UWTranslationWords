@@ -206,36 +206,42 @@
         {
           "reference_id": 25471,
           "content_id": 26329,
+          "resource_code": "UWTranslationWords",
           "label": "Aram",
           "language": "eng"
         },
         {
           "reference_id": 25773,
           "content_id": 26631,
+          "resource_code": "UWTranslationWords",
           "label": "Gentile",
           "language": "eng"
         },
         {
           "reference_id": 25804,
           "content_id": 26662,
+          "resource_code": "UWTranslationWords",
           "label": "Greece",
           "language": "eng"
         },
         {
           "reference_id": 25826,
           "content_id": 26684,
+          "resource_code": "UWTranslationWords",
           "label": "Hebrew",
           "language": "eng"
         },
         {
           "reference_id": 26181,
           "content_id": 27039,
+          "resource_code": "UWTranslationWords",
           "label": "Rome",
           "language": "eng"
         },
         {
           "reference_id": 141791,
           "content_id": 212318,
+          "resource_code": "Unknown",
           "label": "John 12:20 (#2)",
           "language": "eng"
         }

@@ -146,36 +146,42 @@
         {
           "reference_id": 25621,
           "content_id": 26479,
+          "resource_code": "UWTranslationWords",
           "label": "Covenant",
           "language": "eng"
         },
         {
           "reference_id": 25662,
           "content_id": 26520,
+          "resource_code": "UWTranslationWords",
           "label": "Desert",
           "language": "eng"
         },
         {
           "reference_id": 25879,
           "content_id": 26737,
+          "resource_code": "UWTranslationWords",
           "label": "Israel",
           "language": "eng"
         },
         {
           "reference_id": 26031,
           "content_id": 26889,
+          "resource_code": "UWTranslationWords",
           "label": "Moses",
           "language": "eng"
         },
         {
           "reference_id": 26241,
           "content_id": 27099,
+          "resource_code": "UWTranslationWords",
           "label": "Sinai",
           "language": "eng"
         },
         {
           "reference_id": 26286,
           "content_id": 27144,
+          "resource_code": "UWTranslationWords",
           "label": "Ten Commandments",
           "language": "eng"
         }

@@ -116,24 +116,28 @@
         {
           "reference_id": 25844,
           "content_id": 26702,
+          "resource_code": "UWTranslationWords",
           "label": "Holy Spirit",
           "language": "eng"
         },
         {
           "reference_id": 26201,
           "content_id": 27059,
+          "resource_code": "UWTranslationWords",
           "label": "Save",
           "language": "eng"
         },
         {
           "reference_id": 140181,
           "content_id": 210708,
+          "resource_code": "Unknown",
           "label": "John 1:13 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 140421,
           "content_id": 210948,
+          "resource_code": "Unknown",
           "label": "John 3:6 (#4)",
           "language": "eng"
         }

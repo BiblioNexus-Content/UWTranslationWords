@@ -20,48 +20,56 @@
         {
           "reference_id": 25500,
           "content_id": 26358,
+          "resource_code": "UWTranslationWords",
           "label": "Babylon",
           "language": "eng"
         },
         {
           "reference_id": 25574,
           "content_id": 26432,
+          "resource_code": "UWTranslationWords",
           "label": "Captive",
           "language": "eng"
         },
         {
           "reference_id": 25724,
           "content_id": 26582,
+          "resource_code": "UWTranslationWords",
           "label": "Ezra",
           "language": "eng"
         },
         {
           "reference_id": 25924,
           "content_id": 26782,
+          "resource_code": "UWTranslationWords",
           "label": "Judah",
           "language": "eng"
         },
         {
           "reference_id": 25942,
           "content_id": 26800,
+          "resource_code": "Unknown",
           "label": "Kingdom of Judah",
           "language": "eng"
         },
         {
           "reference_id": 26049,
           "content_id": 26907,
+          "resource_code": "UWTranslationWords",
           "label": "Nehemiah",
           "language": "eng"
         },
         {
           "reference_id": 26129,
           "content_id": 26987,
+          "resource_code": "UWTranslationWords",
           "label": "Prophet",
           "language": "eng"
         },
         {
           "reference_id": 26170,
           "content_id": 27028,
+          "resource_code": "UWTranslationWords",
           "label": "Repent",
           "language": "eng"
         }

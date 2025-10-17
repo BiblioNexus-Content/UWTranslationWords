@@ -44,30 +44,35 @@
         {
           "reference_id": 25452,
           "content_id": 26310,
+          "resource_code": "UWTranslationWords",
           "label": "Ammon",
           "language": "eng"
         },
         {
           "reference_id": 25657,
           "content_id": 26515,
+          "resource_code": "Unknown",
           "label": "Deliverer",
           "language": "eng"
         },
         {
           "reference_id": 25708,
           "content_id": 26566,
+          "resource_code": "UWTranslationWords",
           "label": "Ephraim",
           "language": "eng"
         },
         {
           "reference_id": 25929,
           "content_id": 26787,
+          "resource_code": "UWTranslationWords",
           "label": "Judge",
           "language": "eng"
         },
         {
           "reference_id": 25930,
           "content_id": 26788,
+          "resource_code": "Unknown",
           "label": "Judge Position",
           "language": "eng"
         }

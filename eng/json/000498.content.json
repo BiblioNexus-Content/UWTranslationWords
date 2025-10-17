@@ -572,72 +572,84 @@
         {
           "reference_id": 25503,
           "content_id": 26361,
+          "resource_code": "UWTranslationWords",
           "label": "Baptize",
           "language": "eng"
         },
         {
           "reference_id": 26369,
           "content_id": 27227,
+          "resource_code": "UWTranslationWords",
           "label": "Zechariah NT",
           "language": "eng"
         },
         {
           "reference_id": 140157,
           "content_id": 210684,
+          "resource_code": "Unknown",
           "label": "John 1:6 (#2)",
           "language": "eng"
         },
         {
           "reference_id": 140226,
           "content_id": 210753,
+          "resource_code": "Unknown",
           "label": "John 1:19 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 140250,
           "content_id": 210777,
+          "resource_code": "Unknown",
           "label": "John 1:26 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 140257,
           "content_id": 210784,
+          "resource_code": "Unknown",
           "label": "John 1:28 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 140295,
           "content_id": 210822,
+          "resource_code": "Unknown",
           "label": "John 1:40 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 140489,
           "content_id": 211016,
+          "resource_code": "Unknown",
           "label": "John 3:23 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 140496,
           "content_id": 211023,
+          "resource_code": "Unknown",
           "label": "John 3:25 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 140790,
           "content_id": 211317,
+          "resource_code": "Unknown",
           "label": "John 5:33 (#3)",
           "language": "eng"
         },
         {
           "reference_id": 140794,
           "content_id": 211321,
+          "resource_code": "Unknown",
           "label": "John 5:35 (#1)",
           "language": "eng"
         },
         {
           "reference_id": 141588,
           "content_id": 212115,
+          "resource_code": "Unknown",
           "label": "John 10:40 (#2)",
           "language": "eng"
         }

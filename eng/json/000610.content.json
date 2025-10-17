@@ -68,36 +68,42 @@
         {
           "reference_id": 25645,
           "content_id": 26503,
+          "resource_code": "UWTranslationWords",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 25924,
           "content_id": 26782,
+          "resource_code": "UWTranslationWords",
           "label": "Judah",
           "language": "eng"
         },
         {
           "reference_id": 25941,
           "content_id": 26799,
+          "resource_code": "UWTranslationWords",
           "label": "Kingdom of Israel",
           "language": "eng"
         },
         {
           "reference_id": 25942,
           "content_id": 26800,
+          "resource_code": "Unknown",
           "label": "Kingdom of Judah",
           "language": "eng"
         },
         {
           "reference_id": 26026,
           "content_id": 26884,
+          "resource_code": "UWTranslationWords",
           "label": "Moab",
           "language": "eng"
         },
         {
           "reference_id": 26200,
           "content_id": 27058,
+          "resource_code": "UWTranslationWords",
           "label": "Saul",
           "language": "eng"
         }

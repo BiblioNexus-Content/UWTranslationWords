@@ -206,30 +206,35 @@
         {
           "reference_id": 25499,
           "content_id": 26357,
+          "resource_code": "UWTranslationWords",
           "label": "Babel",
           "language": "eng"
         },
         {
           "reference_id": 25582,
           "content_id": 26440,
+          "resource_code": "UWTranslationWords",
           "label": "Chaldeans",
           "language": "eng"
         },
         {
           "reference_id": 25924,
           "content_id": 26782,
+          "resource_code": "UWTranslationWords",
           "label": "Judah",
           "language": "eng"
         },
         {
           "reference_id": 25942,
           "content_id": 26800,
+          "resource_code": "Unknown",
           "label": "Kingdom of Judah",
           "language": "eng"
         },
         {
           "reference_id": 26047,
           "content_id": 26905,
+          "resource_code": "UWTranslationWords",
           "label": "Nebuchadnezzar",
           "language": "eng"
         }

@@ -8828,36 +8828,42 @@
         {
           "reference_id": 25624,
           "content_id": 26482,
+          "resource_code": "Unknown",
           "label": "Creation",
           "language": "eng"
         },
         {
           "reference_id": 25728,
           "content_id": 26586,
+          "resource_code": "UWTranslationWords",
           "label": "False God",
           "language": "eng"
         },
         {
           "reference_id": 25790,
           "content_id": 26648,
+          "resource_code": "UWTranslationWords",
           "label": "God the Father",
           "language": "eng"
         },
         {
           "reference_id": 25844,
           "content_id": 26702,
+          "resource_code": "UWTranslationWords",
           "label": "Holy Spirit",
           "language": "eng"
         },
         {
           "reference_id": 26250,
           "content_id": 27108,
+          "resource_code": "UWTranslationWords",
           "label": "Son of God",
           "language": "eng"
         },
         {
           "reference_id": 26360,
           "content_id": 27218,
+          "resource_code": "UWTranslationWords",
           "label": "Yahweh",
           "language": "eng"
         }

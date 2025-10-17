@@ -452,12 +452,14 @@
         {
           "reference_id": 25535,
           "content_id": 26393,
+          "resource_code": "UWTranslationWords",
           "label": "Biblical Time Hour",
           "language": "eng"
         },
         {
           "reference_id": 25854,
           "content_id": 26712,
+          "resource_code": "Unknown",
           "label": "Hour",
           "language": "eng"
         }

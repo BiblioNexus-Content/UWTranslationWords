@@ -278,18 +278,21 @@
         {
           "reference_id": 25549,
           "content_id": 26407,
+          "resource_code": "Unknown",
           "label": "Bond",
           "language": "eng"
         },
         {
           "reference_id": 25704,
           "content_id": 26562,
+          "resource_code": "UWTranslationWords",
           "label": "Enslave",
           "language": "eng"
         },
         {
           "reference_id": 26217,
           "content_id": 27075,
+          "resource_code": "UWTranslationWords",
           "label": "Servant",
           "language": "eng"
         }

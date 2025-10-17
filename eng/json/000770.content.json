@@ -104,30 +104,35 @@
         {
           "reference_id": 25530,
           "content_id": 26388,
+          "resource_code": "UWTranslationWords",
           "label": "Bethlehem",
           "language": "eng"
         },
         {
           "reference_id": 25548,
           "content_id": 26406,
+          "resource_code": "UWTranslationWords",
           "label": "Boaz",
           "language": "eng"
         },
         {
           "reference_id": 25645,
           "content_id": 26503,
+          "resource_code": "UWTranslationWords",
           "label": "David",
           "language": "eng"
         },
         {
           "reference_id": 25929,
           "content_id": 26787,
+          "resource_code": "UWTranslationWords",
           "label": "Judge",
           "language": "eng"
         },
         {
           "reference_id": 25930,
           "content_id": 26788,
+          "resource_code": "Unknown",
           "label": "Judge Position",
           "language": "eng"
         }

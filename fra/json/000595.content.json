@@ -116,24 +116,28 @@
         {
           "reference_id": 25844,
           "content_id": 466991,
+          "resource_code": "UWTranslationWords",
           "label": "Saint-Esprit",
           "language": "fra"
         },
         {
           "reference_id": 26201,
           "content_id": 467320,
+          "resource_code": "UWTranslationWords",
           "label": "Sauver",
           "language": "fra"
         },
         {
           "reference_id": 140181,
           "content_id": 356813,
+          "resource_code": "Unknown",
           "label": "Jean 1.13 (#2)",
           "language": "fra"
         },
         {
           "reference_id": 140421,
           "content_id": 357053,
+          "resource_code": "Unknown",
           "label": "Jean 3.6 (#4)",
           "language": "fra"
         }

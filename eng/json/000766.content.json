@@ -140,24 +140,28 @@
         {
           "reference_id": 25796,
           "content_id": 26654,
+          "resource_code": "UWTranslationWords",
           "label": "Good News",
           "language": "eng"
         },
         {
           "reference_id": 26006,
           "content_id": 26864,
+          "resource_code": "Unknown",
           "label": "Mediterranean",
           "language": "eng"
         },
         {
           "reference_id": 26079,
           "content_id": 26937,
+          "resource_code": "UWTranslationWords",
           "label": "Paul",
           "language": "eng"
         },
         {
           "reference_id": 26104,
           "content_id": 26962,
+          "resource_code": "UWTranslationWords",
           "label": "Pilate",
           "language": "eng"
         }

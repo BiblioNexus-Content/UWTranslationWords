@@ -944,12 +944,14 @@
         {
           "reference_id": 25512,
           "content_id": 237648,
+          "resource_code": "Unknown",
           "label": "Carregar o fardo",
           "language": "por"
         },
         {
           "reference_id": 25760,
           "content_id": 237893,
+          "resource_code": "UWTranslationWords",
           "label": "Fruto",
           "language": "por"
         }

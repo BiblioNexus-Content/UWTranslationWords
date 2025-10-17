@@ -386,18 +386,21 @@
         {
           "reference_id": 26224,
           "content_id": 27082,
+          "resource_code": "UWTranslationWords",
           "label": "Sheep",
           "language": "eng"
         },
         {
           "reference_id": 26226,
           "content_id": 27084,
+          "resource_code": "UWTranslationWords",
           "label": "Shepherd",
           "language": "eng"
         },
         {
           "reference_id": 140262,
           "content_id": 210789,
+          "resource_code": "Unknown",
           "label": "John 1:29 (#5)",
           "language": "eng"
         }

@@ -44,36 +44,42 @@
         {
           "reference_id": 25500,
           "content_id": 26358,
+          "resource_code": "UWTranslationWords",
           "label": "Babylon",
           "language": "eng"
         },
         {
           "reference_id": 25696,
           "content_id": 26554,
+          "resource_code": "UWTranslationWords",
           "label": "Eliakim",
           "language": "eng"
         },
         {
           "reference_id": 25895,
           "content_id": 26753,
+          "resource_code": "UWTranslationWords",
           "label": "Jeremiah",
           "language": "eng"
         },
         {
           "reference_id": 25924,
           "content_id": 26782,
+          "resource_code": "UWTranslationWords",
           "label": "Judah",
           "language": "eng"
         },
         {
           "reference_id": 25942,
           "content_id": 26800,
+          "resource_code": "Unknown",
           "label": "Kingdom of Judah",
           "language": "eng"
         },
         {
           "reference_id": 26047,
           "content_id": 26905,
+          "resource_code": "UWTranslationWords",
           "label": "Nebuchadnezzar",
           "language": "eng"
         }

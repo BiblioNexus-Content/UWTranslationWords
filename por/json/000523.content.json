@@ -1262,42 +1262,49 @@
         {
           "reference_id": 25650,
           "content_id": 237783,
+          "resource_code": "UWTranslationWords",
           "label": "Decreto",
           "language": "por"
         },
         {
           "reference_id": 25929,
           "content_id": 238062,
+          "resource_code": "UWTranslationWords",
           "label": "Julgar",
           "language": "por"
         },
         {
           "reference_id": 25932,
           "content_id": 191639,
+          "resource_code": "UWTranslationWords",
           "label": "Justiça",
           "language": "por"
         },
         {
           "reference_id": 25930,
           "content_id": 238063,
+          "resource_code": "Unknown",
           "label": "Posição de Juiz",
           "language": "por"
         },
         {
           "reference_id": 25931,
           "content_id": 238064,
+          "resource_code": "UWTranslationWords",
           "label": "Dia do Julgamento",
           "language": "por"
         },
         {
           "reference_id": 25957,
           "content_id": 238089,
+          "resource_code": "UWTranslationWords",
           "label": "Lei",
           "language": "por"
         },
         {
           "reference_id": 25959,
           "content_id": 238090,
+          "resource_code": "Unknown",
           "label": "Lei de Moisés",
           "language": "por"
         }

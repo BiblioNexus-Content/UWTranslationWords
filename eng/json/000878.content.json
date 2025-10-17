@@ -1418,30 +1418,35 @@
         {
           "reference_id": 25475,
           "content_id": 26333,
+          "resource_code": "UWTranslationWords",
           "label": "Ark of the Covenant",
           "language": "eng"
         },
         {
           "reference_id": 25806,
           "content_id": 26664,
+          "resource_code": "UWTranslationWords",
           "label": "Guilt",
           "language": "eng"
         },
         {
           "reference_id": 25929,
           "content_id": 26787,
+          "resource_code": "UWTranslationWords",
           "label": "Judge",
           "language": "eng"
         },
         {
           "reference_id": 26129,
           "content_id": 26987,
+          "resource_code": "UWTranslationWords",
           "label": "Prophet",
           "language": "eng"
         },
         {
           "reference_id": 26293,
           "content_id": 27151,
+          "resource_code": "Unknown",
           "label": "Testimony",
           "language": "eng"
         }

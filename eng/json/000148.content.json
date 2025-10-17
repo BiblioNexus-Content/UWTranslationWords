@@ -134,42 +134,49 @@
         {
           "reference_id": 25562,
           "content_id": 26420,
+          "resource_code": "UWTranslationWords",
           "label": "Caesar",
           "language": "eng"
         },
         {
           "reference_id": 25575,
           "content_id": 26433,
+          "resource_code": "UWTranslationWords",
           "label": "Carmel",
           "language": "eng"
         },
         {
           "reference_id": 25773,
           "content_id": 26631,
+          "resource_code": "UWTranslationWords",
           "label": "Gentile",
           "language": "eng"
         },
         {
           "reference_id": 26006,
           "content_id": 26864,
+          "resource_code": "Unknown",
           "label": "Mediterranean",
           "language": "eng"
         },
         {
           "reference_id": 26033,
           "content_id": 26891,
+          "resource_code": "UWTranslationWords",
           "label": "Mount Hermon",
           "language": "eng"
         },
         {
           "reference_id": 26181,
           "content_id": 27039,
+          "resource_code": "UWTranslationWords",
           "label": "Rome",
           "language": "eng"
         },
         {
           "reference_id": 26281,
           "content_id": 27139,
+          "resource_code": "UWTranslationWords",
           "label": "Tarsus",
           "language": "eng"
         }

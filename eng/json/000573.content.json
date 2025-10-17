@@ -68,24 +68,28 @@
         {
           "reference_id": 25929,
           "content_id": 26787,
+          "resource_code": "UWTranslationWords",
           "label": "Judge",
           "language": "eng"
         },
         {
           "reference_id": 25930,
           "content_id": 26788,
+          "resource_code": "Unknown",
           "label": "Judge Position",
           "language": "eng"
         },
         {
           "reference_id": 25957,
           "content_id": 26815,
+          "resource_code": "UWTranslationWords",
           "label": "Law",
           "language": "eng"
         },
         {
           "reference_id": 25959,
           "content_id": 26817,
+          "resource_code": "Unknown",
           "label": "Law of Moses",
           "language": "eng"
         }

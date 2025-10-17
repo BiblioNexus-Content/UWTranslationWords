@@ -170,30 +170,35 @@
         {
           "reference_id": 25519,
           "content_id": 26377,
+          "resource_code": "UWTranslationWords",
           "label": "Beersheba",
           "language": "eng"
         },
         {
           "reference_id": 25774,
           "content_id": 26632,
+          "resource_code": "UWTranslationWords",
           "label": "Gerar",
           "language": "eng"
         },
         {
           "reference_id": 25922,
           "content_id": 26780,
+          "resource_code": "UWTranslationWords",
           "label": "Jotham",
           "language": "eng"
         },
         {
           "reference_id": 26100,
           "content_id": 26958,
+          "resource_code": "UWTranslationWords",
           "label": "Philistines",
           "language": "eng"
         },
         {
           "reference_id": 25780,
           "content_id": 26638,
+          "resource_code": "UWTranslationWords",
           "label": "Gideon",
           "language": "eng"
         }

@@ -50,30 +50,35 @@
         {
           "reference_id": 25500,
           "content_id": 26358,
+          "resource_code": "UWTranslationWords",
           "label": "Babylon",
           "language": "eng"
         },
         {
           "reference_id": 25890,
           "content_id": 26748,
+          "resource_code": "UWTranslationWords",
           "label": "Jehoiakim",
           "language": "eng"
         },
         {
           "reference_id": 25924,
           "content_id": 26782,
+          "resource_code": "UWTranslationWords",
           "label": "Judah",
           "language": "eng"
         },
         {
           "reference_id": 25942,
           "content_id": 26800,
+          "resource_code": "Unknown",
           "label": "Kingdom of Judah",
           "language": "eng"
         },
         {
           "reference_id": 25993,
           "content_id": 26851,
+          "resource_code": "UWTranslationWords",
           "label": "Manasseh",
           "language": "eng"
         }

@@ -950,42 +950,49 @@
         {
           "reference_id": 25871,
           "content_id": 26729,
+          "resource_code": "UWTranslationWords",
           "label": "Instruct",
           "language": "eng"
         },
         {
           "reference_id": 25958,
           "content_id": 26816,
+          "resource_code": "UWTranslationWords",
           "label": "Lawful",
           "language": "eng"
         },
         {
           "reference_id": 26031,
           "content_id": 26889,
+          "resource_code": "UWTranslationWords",
           "label": "Moses",
           "language": "eng"
         },
         {
           "reference_id": 26286,
           "content_id": 27144,
+          "resource_code": "UWTranslationWords",
           "label": "Ten Commandments",
           "language": "eng"
         },
         {
           "reference_id": 26360,
           "content_id": 27218,
+          "resource_code": "UWTranslationWords",
           "label": "Yahweh",
           "language": "eng"
         },
         {
           "reference_id": 140706,
           "content_id": 211233,
+          "resource_code": "Unknown",
           "label": "John 5:10 (#4)",
           "language": "eng"
         },
         {
           "reference_id": 141388,
           "content_id": 211915,
+          "resource_code": "Unknown",
           "label": "John 9:14 (#2)",
           "language": "eng"
         }

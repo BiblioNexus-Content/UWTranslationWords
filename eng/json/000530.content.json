@@ -5192,30 +5192,35 @@
         {
           "reference_id": 25945,
           "content_id": 26803,
+          "resource_code": "UWTranslationWords",
           "label": "Know-relationship",
           "language": "eng"
         },
         {
           "reference_id": 25957,
           "content_id": 26815,
+          "resource_code": "UWTranslationWords",
           "label": "Law",
           "language": "eng"
         },
         {
           "reference_id": 25959,
           "content_id": 26817,
+          "resource_code": "Unknown",
           "label": "Law of Moses",
           "language": "eng"
         },
         {
           "reference_id": 26327,
           "content_id": 27185,
+          "resource_code": "UWTranslationWords",
           "label": "Understand",
           "language": "eng"
         },
         {
           "reference_id": 26350,
           "content_id": 27208,
+          "resource_code": "UWTranslationWords",
           "label": "Wise",
           "language": "eng"
         }

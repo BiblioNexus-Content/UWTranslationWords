@@ -182,18 +182,21 @@
         {
           "reference_id": 25701,
           "content_id": 26559,
+          "resource_code": "UWTranslationWords",
           "label": "Endure",
           "language": "eng"
         },
         {
           "reference_id": 25752,
           "content_id": 26610,
+          "resource_code": "UWTranslationWords",
           "label": "Forgive",
           "language": "eng"
         },
         {
           "reference_id": 26090,
           "content_id": 26948,
+          "resource_code": "Unknown",
           "label": "Perseverance",
           "language": "eng"
         }

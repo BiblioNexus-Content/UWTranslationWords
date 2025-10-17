@@ -188,42 +188,49 @@
         {
           "reference_id": 25492,
           "content_id": 26350,
+          "resource_code": "UWTranslationWords",
           "label": "Authority",
           "language": "eng"
         },
         {
           "reference_id": 25623,
           "content_id": 26481,
+          "resource_code": "UWTranslationWords",
           "label": "Cow",
           "language": "eng"
         },
         {
           "reference_id": 25652,
           "content_id": 26510,
+          "resource_code": "UWTranslationWords",
           "label": "Deer",
           "language": "eng"
         },
         {
           "reference_id": 25787,
           "content_id": 26645,
+          "resource_code": "UWTranslationWords",
           "label": "Goat",
           "language": "eng"
         },
         {
           "reference_id": 26182,
           "content_id": 27040,
+          "resource_code": "Unknown",
           "label": "Royal",
           "language": "eng"
         },
         {
           "reference_id": 26224,
           "content_id": 27082,
+          "resource_code": "UWTranslationWords",
           "label": "Sheep",
           "language": "eng"
         },
         {
           "reference_id": 26321,
           "content_id": 27179,
+          "resource_code": "UWTranslationWords",
           "label": "Trumpet",
           "language": "eng"
         }

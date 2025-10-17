@@ -380,24 +380,28 @@
         {
           "reference_id": 25678,
           "content_id": 26536,
+          "resource_code": "UWTranslationWords",
           "label": "Donkey",
           "language": "eng"
         },
         {
           "reference_id": 25787,
           "content_id": 26645,
+          "resource_code": "UWTranslationWords",
           "label": "Goat",
           "language": "eng"
         },
         {
           "reference_id": 25850,
           "content_id": 26708,
+          "resource_code": "UWTranslationWords",
           "label": "Horse",
           "language": "eng"
         },
         {
           "reference_id": 26224,
           "content_id": 27082,
+          "resource_code": "UWTranslationWords",
           "label": "Sheep",
           "language": "eng"
         }
