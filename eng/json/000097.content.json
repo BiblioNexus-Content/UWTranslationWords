@@ -944,12 +944,14 @@
         {
           "reference_id": 25512,
           "content_id": 26370,
+          "resource_code": "Unknown",
           "label": "Bear-Carry Burden",
           "language": "eng"
         },
         {
           "reference_id": 25760,
           "content_id": 26618,
+          "resource_code": "UWTranslationWords",
           "label": "Fruit",
           "language": "eng"
         }

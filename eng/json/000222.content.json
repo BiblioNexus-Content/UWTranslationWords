@@ -92,18 +92,21 @@
         {
           "reference_id": 25506,
           "content_id": 26364,
+          "resource_code": "UWTranslationWords",
           "label": "Barnabas",
           "language": "eng"
         },
         {
           "reference_id": 25910,
           "content_id": 26768,
+          "resource_code": "UWTranslationWords",
           "label": "John Mark",
           "language": "eng"
         },
         {
           "reference_id": 26006,
           "content_id": 26864,
+          "resource_code": "Unknown",
           "label": "Mediterranean",
           "language": "eng"
         }

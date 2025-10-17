@@ -224,18 +224,21 @@
         {
           "reference_id": 25700,
           "content_id": 26558,
+          "resource_code": "UWTranslationWords",
           "label": "Encourage",
           "language": "eng"
         },
         {
           "reference_id": 25720,
           "content_id": 26578,
+          "resource_code": "Unknown",
           "label": "Exhort",
           "language": "eng"
         },
         {
           "reference_id": 25735,
           "content_id": 26593,
+          "resource_code": "UWTranslationWords",
           "label": "Fear",
           "language": "eng"
         }

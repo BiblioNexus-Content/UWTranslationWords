@@ -56,30 +56,35 @@
         {
           "reference_id": 25799,
           "content_id": 26657,
+          "resource_code": "UWTranslationWords",
           "label": "Governor",
           "language": "eng"
         },
         {
           "reference_id": 25830,
           "content_id": 26688,
+          "resource_code": "UWTranslationWords",
           "label": "Herodantipas",
           "language": "eng"
         },
         {
           "reference_id": 26137,
           "content_id": 26995,
+          "resource_code": "UWTranslationWords",
           "label": "Province",
           "language": "eng"
         },
         {
           "reference_id": 26181,
           "content_id": 27039,
+          "resource_code": "UWTranslationWords",
           "label": "Rome",
           "language": "eng"
         },
         {
           "reference_id": 26184,
           "content_id": 27042,
+          "resource_code": "UWTranslationWords",
           "label": "Ruler",
           "language": "eng"
         }

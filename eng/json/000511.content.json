@@ -20,18 +20,21 @@
         {
           "reference_id": 25902,
           "content_id": 26760,
+          "resource_code": "UWTranslationWords",
           "label": "Jew",
           "language": "eng"
         },
         {
           "reference_id": 25957,
           "content_id": 26815,
+          "resource_code": "UWTranslationWords",
           "label": "Law",
           "language": "eng"
         },
         {
           "reference_id": 25959,
           "content_id": 26817,
+          "resource_code": "Unknown",
           "label": "Law of Moses",
           "language": "eng"
         }

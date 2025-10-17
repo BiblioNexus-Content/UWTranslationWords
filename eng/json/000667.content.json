@@ -2240,24 +2240,28 @@
         {
           "reference_id": 25660,
           "content_id": 26518,
+          "resource_code": "UWTranslationWords",
           "label": "Descendant",
           "language": "eng"
         },
         {
           "reference_id": 26044,
           "content_id": 26902,
+          "resource_code": "UWTranslationWords",
           "label": "Nation",
           "language": "eng"
         },
         {
           "reference_id": 26316,
           "content_id": 27174,
+          "resource_code": "UWTranslationWords",
           "label": "Tribe",
           "language": "eng"
         },
         {
           "reference_id": 26356,
           "content_id": 27214,
+          "resource_code": "UWTranslationWords",
           "label": "World",
           "language": "eng"
         }

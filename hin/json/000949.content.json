@@ -224,18 +224,21 @@
         {
           "reference_id": 25700,
           "content_id": 182416,
+          "resource_code": "Unknown",
           "label": "प्रोत्साहित करना",
           "language": "hin"
         },
         {
           "reference_id": 25720,
           "content_id": 179793,
+          "resource_code": "UWTranslationWords",
           "label": "आग्रह करना",
           "language": "hin"
         },
         {
           "reference_id": 25735,
           "content_id": 179808,
+          "resource_code": "UWTranslationWords",
           "label": "डर",
           "language": "hin"
         }

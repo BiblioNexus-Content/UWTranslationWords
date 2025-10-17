@@ -74,24 +74,28 @@
         {
           "reference_id": 25519,
           "content_id": 26377,
+          "resource_code": "UWTranslationWords",
           "label": "Beersheba",
           "language": "eng"
         },
         {
           "reference_id": 25948,
           "content_id": 26806,
+          "resource_code": "UWTranslationWords",
           "label": "Laban",
           "language": "eng"
         },
         {
           "reference_id": 26040,
           "content_id": 26898,
+          "resource_code": "UWTranslationWords",
           "label": "Nahor",
           "language": "eng"
         },
         {
           "reference_id": 26156,
           "content_id": 27014,
+          "resource_code": "UWTranslationWords",
           "label": "Rebekah",
           "language": "eng"
         }

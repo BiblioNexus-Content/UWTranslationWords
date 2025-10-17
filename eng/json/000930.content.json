@@ -158,36 +158,42 @@
         {
           "reference_id": 25505,
           "content_id": 26363,
+          "resource_code": "UWTranslationWords",
           "label": "Barley",
           "language": "eng"
         },
         {
           "reference_id": 25581,
           "content_id": 26439,
+          "resource_code": "UWTranslationWords",
           "label": "Chaff",
           "language": "eng"
         },
         {
           "reference_id": 25801,
           "content_id": 26659,
+          "resource_code": "UWTranslationWords",
           "label": "Grain",
           "language": "eng"
         },
         {
           "reference_id": 26208,
           "content_id": 27066,
+          "resource_code": "UWTranslationWords",
           "label": "Seed",
           "language": "eng"
         },
         {
           "reference_id": 26300,
           "content_id": 27158,
+          "resource_code": "UWTranslationWords",
           "label": "Thresh",
           "language": "eng"
         },
         {
           "reference_id": 26349,
           "content_id": 27207,
+          "resource_code": "UWTranslationWords",
           "label": "Winnow",
           "language": "eng"
         }

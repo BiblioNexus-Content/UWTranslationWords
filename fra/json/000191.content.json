@@ -5192,24 +5192,28 @@
         {
           "reference_id": 25957,
           "content_id": 467098,
+          "resource_code": "Unknown",
           "label": "loi",
           "language": "fra"
         },
         {
           "reference_id": 25959,
           "content_id": 467099,
+          "resource_code": "UWTranslationWords",
           "label": "Loi",
           "language": "fra"
         },
         {
           "reference_id": 26327,
           "content_id": 467438,
+          "resource_code": "UWTranslationWords",
           "label": "Comprendre",
           "language": "fra"
         },
         {
           "reference_id": 26350,
           "content_id": 467458,
+          "resource_code": "UWTranslationWords",
           "label": "Sage",
           "language": "fra"
         }

@@ -44,30 +44,35 @@
         {
           "reference_id": 25483,
           "content_id": 26341,
+          "resource_code": "Unknown",
           "label": "Asherim",
           "language": "eng"
         },
         {
           "reference_id": 25497,
           "content_id": 26355,
+          "resource_code": "UWTranslationWords",
           "label": "Baal",
           "language": "eng"
         },
         {
           "reference_id": 25657,
           "content_id": 26515,
+          "resource_code": "Unknown",
           "label": "Deliverer",
           "language": "eng"
         },
         {
           "reference_id": 26018,
           "content_id": 26876,
+          "resource_code": "UWTranslationWords",
           "label": "Midian",
           "language": "eng"
         },
         {
           "reference_id": 26360,
           "content_id": 27218,
+          "resource_code": "UWTranslationWords",
           "label": "Yahweh",
           "language": "eng"
         }

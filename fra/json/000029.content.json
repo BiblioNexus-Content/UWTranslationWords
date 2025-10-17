@@ -470,30 +470,35 @@
         {
           "reference_id": 25552,
           "content_id": 466723,
+          "resource_code": "Unknown",
           "label": "S'incliner",
           "language": "fra"
         },
         {
           "reference_id": 25735,
           "content_id": 466889,
+          "resource_code": "Unknown",
           "label": "Peur",
           "language": "fra"
         },
         {
           "reference_id": 26116,
           "content_id": 467239,
+          "resource_code": "UWTranslationWords",
           "label": "Louer",
           "language": "fra"
         },
         {
           "reference_id": 26188,
           "content_id": 467307,
+          "resource_code": "UWTranslationWords",
           "label": "Sacrificer",
           "language": "fra"
         },
         {
           "reference_id": 25846,
           "content_id": 466993,
+          "resource_code": "UWTranslationWords",
           "label": "Honneur",
           "language": "fra"
         }

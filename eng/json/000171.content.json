@@ -134,18 +134,21 @@
         {
           "reference_id": 25836,
           "content_id": 26694,
+          "resource_code": "UWTranslationWords",
           "label": "High Priest",
           "language": "eng"
         },
         {
           "reference_id": 26121,
           "content_id": 26979,
+          "resource_code": "UWTranslationWords",
           "label": "Priest",
           "language": "eng"
         },
         {
           "reference_id": 26282,
           "content_id": 27140,
+          "resource_code": "UWTranslationWords",
           "label": "Tax",
           "language": "eng"
         }

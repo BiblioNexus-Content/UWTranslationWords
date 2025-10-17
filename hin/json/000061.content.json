@@ -86,18 +86,21 @@
         {
           "reference_id": 25596,
           "content_id": 179675,
+          "resource_code": "Unknown",
           "label": "शुद्ध",
           "language": "hin"
         },
         {
           "reference_id": 25653,
           "content_id": 179730,
+          "resource_code": "UWTranslationWords",
           "label": "अशुद्ध",
           "language": "hin"
         },
         {
           "reference_id": 25840,
           "content_id": 179909,
+          "resource_code": "UWTranslationWords",
           "label": "पवित्र",
           "language": "hin"
         }

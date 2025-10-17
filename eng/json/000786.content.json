@@ -980,30 +980,35 @@
         {
           "reference_id": 25627,
           "content_id": 26485,
+          "resource_code": "UWTranslationWords",
           "label": "Cross",
           "language": "eng"
         },
         {
           "reference_id": 25657,
           "content_id": 26515,
+          "resource_code": "Unknown",
           "label": "Deliverer",
           "language": "eng"
         },
         {
           "reference_id": 26141,
           "content_id": 26999,
+          "resource_code": "UWTranslationWords",
           "label": "Punish",
           "language": "eng"
         },
         {
           "reference_id": 26202,
           "content_id": 27060,
+          "resource_code": "UWTranslationWords",
           "label": "Savior",
           "language": "eng"
         },
         {
           "reference_id": 26240,
           "content_id": 27098,
+          "resource_code": "UWTranslationWords",
           "label": "Sin",
           "language": "eng"
         }

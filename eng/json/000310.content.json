@@ -170,42 +170,49 @@
         {
           "reference_id": 25500,
           "content_id": 26358,
+          "resource_code": "UWTranslationWords",
           "label": "Babylon",
           "language": "eng"
         },
         {
           "reference_id": 25721,
           "content_id": 26579,
+          "resource_code": "UWTranslationWords",
           "label": "Exile",
           "language": "eng"
         },
         {
           "reference_id": 25898,
           "content_id": 26756,
+          "resource_code": "UWTranslationWords",
           "label": "Jerusalem",
           "language": "eng"
         },
         {
           "reference_id": 25957,
           "content_id": 26815,
+          "resource_code": "UWTranslationWords",
           "label": "Law",
           "language": "eng"
         },
         {
           "reference_id": 25959,
           "content_id": 26817,
+          "resource_code": "Unknown",
           "label": "Law of Moses",
           "language": "eng"
         },
         {
           "reference_id": 26049,
           "content_id": 26907,
+          "resource_code": "UWTranslationWords",
           "label": "Nehemiah",
           "language": "eng"
         },
         {
           "reference_id": 26284,
           "content_id": 27142,
+          "resource_code": "UWTranslationWords",
           "label": "Temple",
           "language": "eng"
         }

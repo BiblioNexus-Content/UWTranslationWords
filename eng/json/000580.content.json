@@ -92,36 +92,42 @@
         {
           "reference_id": 25554,
           "content_id": 26412,
+          "resource_code": "UWTranslationWords",
           "label": "Bread",
           "language": "eng"
         },
         {
           "reference_id": 25662,
           "content_id": 26520,
+          "resource_code": "UWTranslationWords",
           "label": "Desert",
           "language": "eng"
         },
         {
           "reference_id": 25801,
           "content_id": 26659,
+          "resource_code": "UWTranslationWords",
           "label": "Grain",
           "language": "eng"
         },
         {
           "reference_id": 25825,
           "content_id": 26683,
+          "resource_code": "UWTranslationWords",
           "label": "Heaven",
           "language": "eng"
         },
         {
           "reference_id": 26186,
           "content_id": 27044,
+          "resource_code": "UWTranslationWords",
           "label": "Sabbath",
           "language": "eng"
         },
         {
           "reference_id": 140900,
           "content_id": 211427,
+          "resource_code": "Unknown",
           "label": "John 6:31 (#1)",
           "language": "eng"
         }
